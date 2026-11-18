@@ -1,0 +1,896 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight and common patterns in ER-2020 D.Pharm papers. It is not a promise. Long answers here are 5-mark and short answers 3-mark, matching the ER-2020 board pattern.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define pharmacopoeia. Write the salient features of the Indian Pharmacopoeia.",
+      "answer": "1. Definition: a pharmacopoeia is a legally recognised book of standards for drugs and their preparations, published under government authority; it gives standards of identity, purity and strength and the tests for them.\n2. IP is published by the Indian Pharmacopoeia Commission, Ghaziabad (Ministry of Health and Family Welfare); first edition 1955, latest 2022; official under the Drugs and Cosmetics Act, 1940.\n3. Salient features: (a) published in volumes; (b) general notices explain terms (storage, solubility, 'about', constant weight); (c) general chapters/appendices give official test methods – disintegration, dissolution, uniformity of weight, sterility, bacterial endotoxins, limit tests, sieves and powder grades; (d) monographs of drug substances and dosage forms; (e) special monographs for vaccines and immunological products, blood products, herbal products, radiopharmaceuticals and veterinary products; (f) SI units and modern instrumental methods (HPLC, UV, IR); (g) addenda published between editions.\n4. Each monograph gives: name, structure, formula, definition with content limits, description, solubility, identification, tests for purity, assay, storage and labelling."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the history of the profession of pharmacy in India.",
+      "answer": "1. Ancient period: Ayurveda, Siddha and Unani – physician (vaidya/hakim) prepared and gave medicines; Charaka and Sushruta Samhitas describe drug preparation.\n2. British period: imported medicines, chemist shops in port cities (Bathgate and Co., Calcutta, 1811); on-the-job trained compounders.\n3. Industry: Acharya P. C. Ray founded Bengal Chemical and Pharmaceutical Works (company in 1901); after independence Hindustan Antibiotics and IDPL; Patents Act 1970 helped Indian generic industry grow.\n4. Chopra Committee (1930–31) recommended drug control law, national pharmacopoeia and trained, registered pharmacists → Drugs Act 1940, Pharmacy Act 1948, PCI 1949, IP 1955.\n5. Education: Prof. M. L. Schroff started pharmacy at BHU in 1932 (father of pharmacy education in India); PCI Education Regulations for D.Pharm, now ER-2020; B.Pharm, M.Pharm, Pharm.D.\n6. Practice: community, hospital and clinical pharmacy; Pharmacy Practice Regulations 2015.\n7. Associations: IPA, IPCA, APTI, IHPA, IPGA, AIOCD."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about pharmacy as a career and the professional associations of pharmacy in India.",
+      "answer": "Career: 1. Community pharmacy – retail pharmacist or own medical store with a drug licence. 2. Hospital pharmacist – procurement, storage, dispensing, drug information. 3. Government service – health centres, dispensaries, railways, armed forces. 4. Industry – production, packing, QC, stores. 5. Marketing – medical representative. 6. Wholesale distribution. 7. Higher studies – lateral entry to B.Pharm, then M.Pharm/Pharm.D. 8. Regulatory jobs with further qualification.\nAssociations (with role): Indian Pharmaceutical Association (oldest national body, journal IJPS); Indian Pharmaceutical Congress Association (yearly Indian Pharmaceutical Congress); APTI (teachers, education quality); Indian Hospital Pharmacists' Association; Indian Pharmacy Graduates' Association; AIOCD (chemists and druggists' trade body); internationally FIP. State Pharmacy Councils register pharmacists (statutory).\nQualities: honesty, accuracy, communication, updated knowledge, ethics."
+    },
+    {
+      "id": "u1-l04",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give a brief introduction to IP, BP, USP, NF and Extra Pharmacopoeia.",
+      "answer": "1. IP: Indian Pharmacopoeia Commission, Ghaziabad; first 1955, latest 2022; official standards in India under Drugs and Cosmetics Act.\n2. BP: British Pharmacopoeia Commission; first 1864; now revised yearly; includes European Pharmacopoeia monographs.\n3. USP: United States Pharmacopeial Convention; first 1820; standards for drug substances and products.\n4. NF: National Formulary, first 1888 by the American Pharmaceutical Association; mainly excipient standards; now published together as USP–NF.\n5. Extra Pharmacopoeia (Martindale): first compiled by William Martindale in 1883; now 'Martindale: The Complete Drug Reference' (Royal Pharmaceutical Society); not an official book of standards – gives uses, doses, adverse effects, interactions and proprietary names of drugs from many countries.\nDifference: pharmacopoeia = standards; formulary = formulas; Martindale = information."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between pharmacopoeia and formulary.",
+      "answer": "Pharmacopoeia: legal book of standards; gives identity, purity, strength tests and assay; e.g. IP, BP, USP.\nFormulary: book of formulas of preparations and prescribing information; e.g. NF, National Formulary of India.\nPharmacopoeia is official for quality control; formulary guides prescribing and compounding."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is a monograph? List its contents.",
+      "answer": "A monograph is the official entry for one drug or preparation in a pharmacopoeia.\nContents: title, structure and formula, molecular weight, definition with limits of content, description, solubility, identification tests, tests for purity (impurity limits, loss on drying, sulphated ash, heavy metals), assay, storage and labelling."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the role of the Chopra Committee in the development of pharmacy in India.",
+      "answer": "Drugs Enquiry Committee, 1930–31, chaired by Col. R. N. Chopra.\nFound poor-quality and adulterated drugs on sale and no control over pharmacists.\nRecommended: a law to control drugs (→ Drugs Act 1940), an Indian pharmacopoeia (→ IP 1955), training and registration of pharmacists (→ Pharmacy Act 1948, PCI 1949), and testing laboratories."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the functions of the Pharmacy Council of India.",
+      "answer": "Set up in 1949 under the Pharmacy Act, 1948.\nPrescribes minimum standards of pharmacy education (Education Regulations, e.g. ER-2020).\nApproves courses and institutions; inspects them.\nMaintains central register of pharmacists with State Councils; frames regulations like Pharmacy Practice Regulations 2015."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who is known as the father of pharmacy education in India?",
+      "answer": "Prof. M. L. Schroff, who started a pharmacy course at Banaras Hindu University in 1932."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the Extra Pharmacopoeia?",
+      "answer": "Martindale: The Complete Drug Reference, first compiled by William Martindale (1883); a reference book of drug information, not an official book of standards."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify glass used for pharmaceutical containers. Give the advantages and disadvantages of glass as a packaging material.",
+      "answer": "Glass: mainly silica with sodium, calcium and other oxides; boric oxide gives borosilicate.\nTypes: Type I borosilicate – most resistant, for all injections; Type II soda-lime with treated (de-alkalised) surface – buffered aqueous injections with pH below 7; Type III ordinary soda-lime – dry powders and non-aqueous injections; Type NP – non-parenteral products. Amber glass protects from light.\nAdvantages: transparent, inert (good grades), impermeable to gases and moisture, rigid, heat-sterilisable, easy to clean, can be coloured.\nDisadvantages: brittle, heavy (high transport cost), soda-lime glass releases alkali, may shed flakes, glass pieces dangerous.\nTests: powdered glass test, water attack test, light transmission test."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss plastics as packaging materials with their advantages and disadvantages.",
+      "answer": "Plastics are polymers with additives (plasticisers, stabilisers, fillers).\nExamples: polyethylene (LDPE, HDPE) – bottles; polypropylene – closures, autoclavable; PVC – blisters, IV bags; polystyrene – ointment jars; PET – oral liquid bottles; polycarbonate – strong containers.\nAdvantages: light, unbreakable, flexible, cheap, easily moulded, squeeze bottles and unit doses possible.\nDisadvantages (drug–plastic interactions): permeation of gases, moisture, volatile oils; leaching of additives (plasticiser from PVC); sorption of drug or preservative; chemical reaction; modification (oils soften PE); many cannot be heat-sterilised; often not transparent."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define preservatives. Write the ideal properties and classify antimicrobial preservatives with examples.",
+      "answer": "Definition: substances added to prevent or slow microbial growth in a product during storage and use (antioxidants prevent chemical spoilage).\nIdeal properties: broad spectrum at low concentration; non-toxic, non-irritant; stable over shelf life and pH range; compatible with ingredients and container; colourless, odourless, tasteless.\nClassification: acids and salts – benzoic acid, sodium benzoate (about 0.1–0.2%), sorbic acid (acid pH); parabens – methyl and propyl (0.18% + 0.02% in injections); alcohols – ethanol (15–20%), benzyl alcohol, chlorobutanol 0.5%; phenols – phenol 0.5%, cresol 0.3%, chlorocresol 0.1%; quaternary ammonium – benzalkonium chloride 0.01% (eye drops), cetrimide; organomercurials – phenylmercuric nitrate 0.002%, thiomersal.\nAntioxidants: BHA, BHT, tocopherol (oil); ascorbic acid, sodium metabisulphite (water); EDTA as synergist."
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on organoleptic agents: colouring, flavouring and sweetening agents.",
+      "answer": "Colours: purpose – attractiveness, identification, match flavour. Natural (chlorophyll, carotene, cochineal, caramel), mineral (iron oxides, titanium dioxide), synthetic coal-tar dyes (tartrazine, sunset yellow, amaranth, erythrosine, brilliant blue), lakes (dyes on aluminium hydroxide, for coatings).\nFlavours: mask taste; four basic tastes – salty (butterscotch, apricot, liquorice), bitter (chocolate, mint, anise, wild cherry), sour (citrus, raspberry), sweet (vanilla, fruit). Natural (volatile oils, juices) and synthetic (vanillin, methyl salicylate).\nSweeteners: sucrose, glucose, sorbitol, mannitol, glycerin; artificial – saccharin (300–500×), aspartame (about 200×, avoid in phenylketonuria), sucralose (about 600×), acesulfame K, stevia."
+    },
+    {
+      "id": "u2-l05",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the advantages and disadvantages of metal and rubber as packaging materials.",
+      "answer": "Metals (tin, aluminium, tin-plated steel): uses – collapsible tubes, aerosol cans, foils, caps. Advantages – impermeable to light, moisture and gas; strong; light (Al); tubes do not let air back in. Disadvantages – costly, may corrode or react (need lacquer lining), opaque, dent easily, lead is toxic.\nRubber (natural, butyl, neoprene, nitrile, silicone): uses – vial stoppers, dropper bulbs, plungers. Advantages – elastic, seals well, reseals after needle puncture. Disadvantages – sorption of preservatives, leaching of additives, gas and moisture permeability, ageing, coring. Remedy – wash, boil and pre-soak closures in the preservative solution; use coated closures."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the selection criteria for packaging materials.",
+      "answer": "Compatible – no reaction, leaching or sorption.\nProtects from light, moisture, air and microbes.\nStrong enough for handling and transport.\nNon-toxic and does not change taste or odour.\nWithstands sterilisation if needed; suits dosage form and route.\nEconomical, printable, meets legal standards."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Explain the problems of drug–plastic interaction.",
+      "answer": "Permeation – passage of gas, water vapour, volatile ingredients through the wall.\nLeaching – additives move into the product.\nSorption – drug or preservative taken up by plastic.\nChemical reaction – between product and polymer.\nModification – product changes the plastic (softening, deformation)."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Classify antioxidants with examples.",
+      "answer": "Water-soluble: ascorbic acid, sodium metabisulphite, sodium bisulphite, sodium sulphite.\nOil-soluble: BHA, BHT, tocopherols, propyl gallate.\nSynergists/chelating agents: disodium edetate, citric acid.\nOther measures: nitrogen in head space, amber containers, cool storage."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give the levels of packaging with examples.",
+      "answer": "Primary – in direct contact with product: bottle, ampoule, vial, strip, blister, tube.\nSecondary – holds primary packs: carton with leaflet.\nTertiary – for bulk transport: corrugated box, shipper, pallet."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which type of glass is used for parenteral preparations?",
+      "answer": "Type I (borosilicate) glass, because it is highly resistant and releases very little alkali."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why are rubber closures pre-treated with preservative?",
+      "answer": "Rubber sorbs preservatives from the solution; soaking closures in the preservative first saturates them so the product does not lose its preservative."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the principle, construction, working, uses, advantages and disadvantages of a ball mill.",
+      "answer": "Principle: impact and attrition by balls in a rotating cylinder.\nConstruction: hollow horizontal cylinder (steel, porcelain or rubber-lined) on a shaft; filled 30–50% with balls of different sizes; material fills gaps.\nWorking: at low speed balls cascade (attrition only); at optimum speed (about 1/2–2/3 of critical speed) balls are lifted and fall on the material (cataracting) – best grinding; at critical speed balls stick to the wall (centrifuging) – no grinding.\nUses: fine grinding of hard drugs, dyes, pigments; wet or dry milling; sterile and toxic materials in closed system.\nAdvantages: very fine product, closed system, wet or dry.\nDisadvantages: slow, noisy, contamination from ball wear, long cleaning.\nDraw the cylinder with balls at three speeds."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle, construction and working of a hammer mill with a labelled diagram.",
+      "answer": "Principle: impact by high-speed rotating hammers.\nConstruction: metal casing; central shaft with swinging or fixed hammers; feed hopper at top; screen at bottom to control size.\nWorking: material fed in; hammers strike and throw particles against casing; particles break until they pass through the screen.\nUses: milling dry granules, crystalline and fibrous drugs, wet masses (knife edges).\nAdvantages: fast, compact, easy to clean, size controlled by screen and speed, continuous.\nDisadvantages: heat generation (not for heat-sensitive/sticky), screen clogging, wear with abrasive material, noise."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the construction and working of a fluidized bed dryer with its advantages and disadvantages.",
+      "answer": "Principle: hot air blown upward through wet granules at a velocity that lifts and suspends them (fluidization); each particle is surrounded by hot air, so drying is rapid.\nConstruction: product bowl with perforated base; air inlet with fan, filter and heater below; drying chamber above; bag (finger) filters; exhaust fan.\nWorking: load wet granules → switch on fan and heater → bed fluidizes → water evaporates and leaves with air → fines held by bags → dry in about 20–40 min → unload.\nAdvantages: fast, uniform, no hot spots, less handling, can also granulate and coat, short heat exposure.\nDisadvantages: fines loss, static charge (risk with organic solvents), attrition of granules, unsuitable for sticky materials."
+    },
+    {
+      "id": "u3-l04",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is freeze drying? Describe the principle and steps of the process.",
+      "answer": "Definition: drying by removing water from a frozen product by sublimation under vacuum.\nPrinciple: below the triple point of water (about 0.01 °C, 4.58 mm Hg) ice changes directly to vapour.\nSteps: 1. preparation – solution sterile filtered and filled in vials, stoppers half-inserted; 2. freezing – on shelves to well below freezing (about −40 °C); 3. primary drying – vacuum applied, shelves gently heated, ice sublimes, vapour trapped on a very cold condenser; 4. secondary drying – temperature raised to remove bound water; 5. stoppering under vacuum/nitrogen and sealing.\nParts: chamber with shelves, refrigeration, condenser, vacuum pump.\nUses: antibiotics, vaccines, proteins, plasma. Advantages: heat-sensitive products, porous cake dissolves fast, long shelf life. Disadvantages: costly, long cycle, skilled operation."
+    },
+    {
+      "id": "u3-l05",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the IP classification of powders. Describe the construction and working of a cyclone separator.",
+      "answer": "IP grades: coarse – all through sieve 10, not more than 40% through 44; moderately coarse 22/60; moderately fine 44/85; fine – all through 85; very fine – all through 120. Sieve number = meshes per inch; e.g. sieve 10 = 1700 µm, 85 = 180 µm.\nCyclone separator – principle: centrifugal force.\nConstruction: vertical cylinder with conical bottom; tangential inlet at top; central air outlet pipe at top; solids outlet at cone bottom.\nWorking: air with particles enters tangentially and spirals down; heavier particles thrown to wall and slide to the bottom outlet; air with fines turns up and leaves through central pipe.\nUses: collecting product from spray/fluid bed dryers, dust collection. Advantages: no moving parts, cheap, continuous. Disadvantages: poor for very fine particles, wall wear."
+    },
+    {
+      "id": "u3-l06",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define filtration. Explain the theory of filtration and the factors affecting the rate of filtration.",
+      "answer": "Definition: separation of solids from a fluid by passing it through a porous medium; filtrate passes, cake remains.\nMechanisms: straining, impingement, entanglement, attraction.\nDarcy's law: rate = dV/dt = K A ΔP / (η L), where A = area, ΔP = pressure difference, η = viscosity, L = thickness of medium and cake, K = permeability.\nFactors: larger area and higher pressure increase rate; higher viscosity slows (warm the liquid); thick cake slows; larger pores faster but less clear; filter aids (kieselguhr) keep cake porous.\nApplications: clarification of syrups and elixirs, sterilisation of heat-sensitive solutions (0.22 µm), particle removal from injections, HEPA air filtration."
+    },
+    {
+      "id": "u3-l07",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define extraction. Classify methods of extraction and describe maceration and percolation.",
+      "answer": "Definition: separation of active soluble constituents of crude drugs from inert material using a solvent (menstruum); residue = marc.\nMethods: infusion, decoction, digestion, maceration, percolation, continuous hot extraction (Soxhlet), modern (supercritical CO2, microwave, ultrasound).\nMaceration: drug + whole menstruum in a closed vessel for 7 days with frequent shaking; strain, press marc, combine, filter. For soft and unorganised drugs.\nPercolation: moistened drug packed in a percolator; menstruum passes slowly downward; percolate collected; marc pressed. For potent drugs, tinctures and liquid extracts.\nApplications: tinctures, extracts, isolation of alkaloids, glycosides, oils."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the objectives (applications) of size reduction.",
+      "answer": "Increases surface area → faster dissolution and absorption.\nUniform mixing and dose.\nFaster extraction of crude drugs.\nFaster drying.\nBetter stability of suspensions and emulsions.\nBetter flow and filling."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Describe the double cone blender.",
+      "answer": "Principle: tumbling (diffusive mixing).\nConstruction: two cones joined at bases by a short cylinder, rotating on a horizontal shaft; loading/discharge port; filled 50–60%.\nWorking: rotates about 30–100 rpm; powder falls from one cone to the other repeatedly.\nUses: gentle blending of free-flowing powders, lubrication. Demerit: segregation of powders differing in size/density."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the principle and working of a triple roller mill.",
+      "answer": "Principle: shear between three rollers rotating at different speeds.\nConstruction: three adjustable horizontal rollers, each faster than the previous; scraper on the last.\nWorking: material fed between first two rollers, sheared in each gap, scraped off the third.\nUse: smooth ointments and pastes. Demerit: heat; loss of volatiles."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on the Silverson mixer homogenizer.",
+      "answer": "Principle: high shear in rotor–stator head.\nRotor at high speed sucks material in, mills it in the rotor–stator gap and expels it through stator holes; cycle repeats.\nUses: emulsions, creams, lotions, fine suspensions, dissolving gums.\nMerits: fine droplets, fast. Demerits: heat, air entrapment."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Compare membrane filters and sintered glass filters.",
+      "answer": "Membrane: thin cellulose ester/nylon/PTFE film; uniform pores 0.1–10 µm; 0.22 µm sterilises; clogs easily, disposable.\nSintered glass: fused borosilicate glass particles; grades 1 (coarse) to 5 (fine, retains bacteria); chemically resistant (not HF, hot alkali); reusable, brittle, costly, hard to clean."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the principle and working of a turbine mixer.",
+      "answer": "Principle: high-speed turbine impeller produces radial and tangential flow with shear.\nConstruction: vessel, central shaft with turbine blades on a disc, motor, baffles.\nWorking: liquid thrown outward, circulates up and down and back to centre.\nUses: low–medium viscosity liquids, solutions, emulsions. Demerit: foaming, vortex without baffles."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is critical speed of a ball mill?",
+      "answer": "The speed at which the balls just remain stuck to the wall of the mill throughout rotation due to centrifugal force; no grinding then. Optimum speed is about half to two-thirds of it."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define menstruum and marc.",
+      "answer": "Menstruum: the solvent used for extraction. Marc: the insoluble residue left after extraction."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define tablets. Describe the steps of tablet manufacture by wet granulation.",
+      "answer": "Definition: solid unit dosage forms of drug with or without excipients made by compressing powder or granules.\nGranulation reasons: flow, compressibility, no segregation, less dust.\nSteps: 1. weighing and sieving drug and excipients; 2. dry mixing (diluent, part of disintegrant); 3. wet massing with binder solution (starch paste, PVP); 4. wet screening (sieve 8–12); 5. drying (tray dryer or FBD); 6. dry screening (sieve 16–20); 7. lubrication – add lubricant, glidant, extra-granular disintegrant and blend; 8. compression on single punch or rotary press.\nMerits: good flow and compression, uniform distribution. Demerits: many steps, heat and moisture.\nMention: dry granulation (slugging/roller compaction) for moisture-sensitive drugs; direct compression for suitable materials."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain tablet defects – capping, lamination, picking, sticking and mottling – with causes and remedies.",
+      "answer": "Capping: top separates as a cap – air trapped, excess fines, dry granules, worn punches, high speed → more binder, correct moisture, remove fines, precompression, slower speed, check tooling.\nLamination: splits into layers – same causes plus excess lubricant → reduce lubricant, slower speed.\nPicking: material pulled off by punch face, especially at lettering – moisture, low-melting ingredients → dry granules, add antiadherent (talc, colloidal silica), chrome-plated punches, larger letters.\nSticking: granules adhere to die/punch – moisture, low lubricant, rough punches → dry granules, more lubricant, polish punches.\nMottling: uneven colour – colour migration on drying, coloured drug → use lakes, change solvent, reduce particle size.\nAlso: chipping, cracking, double impression, weight variation."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the official and non-official evaluation tests for tablets.",
+      "answer": "Official: 1. uniformity of weight – 20 tablets; IP limits ≤80 mg ±10%, 80–250 mg ±7.5%, ≥250 mg ±5%; ≤2 outside limit, none outside double. 2. Content uniformity – low-dose tablets. 3. Disintegration – 6-tube basket, 37 ± 2 °C, 28–32 cycles/min; uncoated 15 min, film 30 min, sugar 60 min, dispersible 3 min; enteric intact 2 h in 0.1 M HCl then disintegrates within 60 min in pH 6.8 buffer. 4. Dissolution – 900 ml, 37 ± 0.5 °C, basket 100 rpm or paddle 50 rpm. 5. Assay.\nNon-official: hardness (Monsanto/Pfizer, about 4–6 kg); friability (Roche friabilator, 25 rpm, 4 min, 100 revolutions; loss ≤1%; % = (W1 − W2)/W1 × 100); thickness and diameter (vernier/micrometer)."
+    },
+    {
+      "id": "u4-l04",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify tablets. Write a note on modified-release tablets.",
+      "answer": "Classification: oral – compressed, multiple compressed (layered, compression-coated), sugar-, film- and enteric-coated, chewable, effervescent, dispersible, soluble; oral cavity – buccal, sublingual, lozenges; others – vaginal tablets, implants.\nModified release: time or site of release changed.\nDelayed release – enteric-coated (aspirin, pantoprazole).\nSustained/extended release – slow release over a long time, once or twice daily dosing (diclofenac SR, metformin ER).\nControlled release – planned, near-constant rate (osmotic tablets).\nFast dissolving/ODT – disintegrate on tongue in seconds without water (ondansetron ODT).\nMulti-layered – immediate + sustained layers or incompatible drugs.\nMerits: fewer doses, steady levels, compliance. Demerits: cost, cannot crush (dose dumping), inflexible dose."
+    },
+    {
+      "id": "u4-l05",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the manufacture of hard gelatin capsule shells and their filling. Add a note on capsule sizes.",
+      "answer": "Shell: gelatin, water (13–16%), colour, titanium dioxide, preservative.\nManufacture (dipping): pins dipped in warm gelatin → spun for even film → dried with cool air → stripped → trimmed → cap and body joined (locking rings), printed.\nFill: drug + diluent (lactose, MCC; avoid calcium salts with tetracycline) + glidant + lubricant.\nFilling: hand (punch method), capsule filling board (100/300 holes: separate, fill, level, rejoin), automatic machines (dosator or tamping disc); then dedust and polish.\nSizes: 000 (about 1.37 ml, largest) to 5 (about 0.13 ml); 0 about 0.68 ml, 1 about 0.50 ml.\nGelatin types: A (acid, pI 7–9), B (alkaline, pI 4.7–5)."
+    },
+    {
+      "id": "u4-l06",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about soft gelatin capsules: composition, fill materials, manufacture and evaluation of capsules.",
+      "answer": "Soft gelatin capsules: one-piece hermetically sealed elastic shells.\nShell: gelatin + plasticiser (glycerin, sorbitol, propylene glycol) + water + colour, opacifier, preservative.\nFills: oils and oily solutions (vitamins A, D, E), suspensions in oil, PEG solutions; avoid much water, extreme pH.\nManufacture: plate process; rotary die process (two gelatin ribbons between rotating dies, fill injected via wedge, sealed and cut together); reciprocating die; Accogel (powders).\nEvaluation of capsules: weight variation (IP <300 mg ±10%, ≥300 mg ±7.5%), disintegration (30 min), dissolution (with sinkers), content uniformity, assay, moisture, leak test (soft), visual inspection."
+    },
+    {
+      "id": "u4-l07",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe sugar coating and film coating of tablets and compare them.",
+      "answer": "Reasons for coating: mask taste/odour, protect from light/moisture/air, enteric protection, controlled release, appearance, identification.\nSugar coating steps: sealing (shellac/CAP) → subcoating (syrup + gelatin/acacia + talc/CaCO3) → smoothing (syrup) → colouring → polishing (waxes) → printing.\nFilm coating: polymer (HPMC, methylcellulose, ethylcellulose), plasticiser (PEG, propylene glycol), colourant/opacifier, solvent (water/organic), sprayed in perforated pan; 20–100 µm.\nEnteric polymers: CAP, HPMCP, PVAP, methacrylic copolymers (Eudragit L/S), shellac.\nComparison: film – fast, 2–3% weight gain, logo visible, automated; sugar – slow (days), large weight gain, elegant, needs skill."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "List tablet excipients with their functions and examples.",
+      "answer": "Diluent – bulk: lactose, MCC, starch, dicalcium phosphate.\nBinder – cohesion: starch paste, PVP, gelatin, acacia.\nDisintegrant – break-up: starch, croscarmellose, crospovidone, sodium starch glycolate.\nLubricant – reduces die-wall friction: magnesium stearate.\nGlidant – flow: colloidal silica, talc.\nAntiadherent – prevents sticking: talc.\nColours, flavours, sweeteners."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Describe the friability test for tablets.",
+      "answer": "Apparatus: Roche friabilator (drum with a curved baffle).\nSample: tablets weighing about 6.5 g (unit weight ≤650 mg) or 10 tablets (>650 mg), dedusted and weighed (W1).\nRotate 25 rpm for 4 min (100 revolutions); dedust and reweigh (W2).\n% friability = (W1 − W2)/W1 × 100; limit not more than 1%."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the compression cycle of a single punch tablet machine.",
+      "answer": "1. Filling – lower punch drops, feed shoe fills die.\n2. Scraping/weight adjustment – feed shoe moves away levelling granules.\n3. Compression – upper punch descends and compresses.\n4. Ejection – upper punch rises, lower punch pushes tablet up.\n5. Push-off – feed shoe sweeps tablet away and refills die."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Compare wet granulation, dry granulation and direct compression.",
+      "answer": "Wet: binder liquid, drying; good for most drugs; many steps, heat/moisture.\nDry (slugging/roller compaction): no liquid or heat; for moisture/heat-sensitive drugs; dusty.\nDirect compression: blend and compress; fewest steps; needs directly compressible excipients (MCC, spray-dried lactose); segregation risk."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the advantages and disadvantages of capsules.",
+      "answer": "Advantages: tasteless shell masks taste, easy to swallow, rapid release, fewer excipients, liquids in softgels, easy identification.\nDisadvantages: not for very soluble irritant salts, efflorescent or deliquescent drugs; humidity-sensitive; animal origin of gelatin; sometimes costlier."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the disintegration time limit for uncoated and film-coated tablets as per IP?",
+      "answer": "Uncoated tablets: 15 minutes; film-coated tablets: 30 minutes (at 37 ± 2 °C)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why are calcium-containing diluents avoided in tetracycline capsules?",
+      "answer": "Calcium forms a complex (chelate) with tetracycline and reduces its absorption."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define emulsion. Give its types, tests for identification and methods of preparation.",
+      "answer": "Definition: thermodynamically unstable system of two immiscible liquids, one dispersed as globules in the other, stabilised by an emulsifying agent.\nTypes: o/w, w/o, multiple (w/o/w, o/w/o).\nTests: dilution (o/w dilutes with water), dye test (water-soluble dye colours continuous phase in o/w), conductivity (o/w conducts), fluorescence (w/o whole field fluoresces).\nEmulsifying agents: acacia, tragacanth, gelatin, wool fat, bentonite, soaps, Spans (w/o), Tweens (o/w); HLB.\nPreparation: dry gum method (gum + oil, add water at once, triturate to click); wet gum method (mucilage first, oil added slowly); bottle method (volatile oils). Primary emulsion ratio oil:water:gum – fixed oil 4:2:1, volatile 2:2:1, mineral 3:2:1."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the stability problems of emulsions and the factors affecting them (Stokes' law).",
+      "answer": "Creaming: globules rise or sink to form a concentrated layer; reversible by shaking.\nCracking/breaking: globules coalesce, phases separate; irreversible; caused by wrong emulsifier, temperature extremes, microbes, incompatible additives.\nPhase inversion: o/w ↔ w/o, due to phase volume change or emulsifier change (e.g. calcium ions).\nMicrobial growth: add preservatives.\nStokes' law: v = 2r²(ρ1 − ρ2)g/9η; reduce creaming by small globules (homogenise), high viscosity of continuous phase (thickeners), small density difference.\nEvaluation: globule size, viscosity, phase separation on storage and centrifugation, pH, microbial limits."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define suspension. Write the properties of a good suspension and compare flocculated and deflocculated suspensions.",
+      "answer": "Definition: coarse dispersion of insoluble finely divided solid in a liquid vehicle.\nReasons: insoluble drug, taste masking, stability, depot injections, external use.\nGood suspension: slow settling, easily redispersed, no cake, pours easily, uniform dose.\nFlocculated: loose flocs, fast settling, large loose sediment, easy redispersion, clear supernatant quickly.\nDeflocculated: separate particles, slow settling, compact sediment forms hard cake, cloudy supernatant.\nIngredients: wetting agents, suspending agents (tragacanth, CMC, bentonite, xanthan), flocculating agents, buffers, preservatives.\nEvaluation: sedimentation volume F = Hu/Ho, redispersibility, particle size, viscosity. Label 'Shake well before use'."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define ointment. Classify ointment bases and describe methods of preparation of ointments.",
+      "answer": "Definition: soft semisolid preparation for external application to skin or mucous membranes.\nBases: oleaginous (soft/hard/liquid paraffin, vegetable oils – occlusive, greasy); absorption (wool fat, wool alcohols, beeswax – take up water); emulsion w/o (cold cream) and o/w (emulsifying ointment, aqueous cream – washable); water-soluble (PEG).\nIdeal base: inert, non-irritant, stable, compatible, easy to apply and remove, releases drug.\nMethods: trituration/incorporation (levigate insoluble powder with base on slab – sulphur ointment); fusion (melt in descending order of melting point, stir till cool – simple ointment); emulsification.\nAdd a note on creams (o/w vanishing, w/o cold) and pastes (high solids)."
+    },
+    {
+      "id": "u5-l05",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write about suppositories and pessaries: definition, bases, displacement value and method of preparation.",
+      "answer": "Suppositories: solid forms for rectum (also vagina, urethra) that melt or dissolve to give local or systemic action; adult rectal about 2 g. Pessaries: vaginal, larger (about 3–8 g).\nUses: laxative (glycerin), haemorrhoids, antifungal; systemic when oral route impossible (paracetamol, antiemetics).\nBases: fatty – theobroma oil (melts 30–35 °C; polymorphism, so melt gently below about 36 °C), hard fat; water-soluble – glycerinated gelatin (pessaries), PEG; emulsifying bases.\nDisplacement value: parts by weight of drug that displace one part of base; used to calculate base needed for medicated suppositories.\nPreparation: hand rolling, fusion/pour moulding (melt base, mix drug, pour into lubricated mould, cool, trim, remove), compression moulding.\nEvaluation: weight uniformity, melting range, disintegration, hardness, content."
+    },
+    {
+      "id": "u5-l06",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define syrups and elixirs. Give their advantages, disadvantages and methods of preparation of syrups.",
+      "answer": "Syrup: concentrated viscous sweet aqueous solution of sucrose (simple syrup 66.7% w/w IP; USP 85% w/v); medicated or flavoured.\nPreparation: solution with heat (risk of inversion and caramelisation), agitation without heat, percolation, addition of sucrose to medicated liquid.\nSyrup merits: pleasant, masks taste, soothing, self-preserving when concentrated. Demerits: not for diabetics, caries, crystallisation, fermentation if dilute.\nElixir: clear sweetened hydroalcoholic solution; alcohol aids solubility and preservation; e.g. piperazine citrate elixir. Merits: clear, stable. Demerits: alcohol not suited for children, less taste masking, volatile loss."
+    },
+    {
+      "id": "u5-l07",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write notes on nasal and ear preparations.",
+      "answer": "Nasal: drops, sprays, powders, ointments/gels, washes; local or systemic. Formulation – aqueous, isotonic, pH about 5.5–6.5, buffer, benzalkonium chloride in multi-dose, viscosity agents; avoid oily drops (lipid pneumonia). Examples: saline drops, xylometazoline, fluticasone spray, desmopressin.\nEar: drops (solutions/suspensions), washes, ointments, powders. Vehicles – water, glycerin, propylene glycol (viscous, hygroscopic), alcohol, oils. Uses – wax softeners (sodium bicarbonate ear drops, olive oil), antibacterial, antifungal, analgesic. Warm to body temperature; sterile preparations if eardrum perforated."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between liniments and lotions.",
+      "answer": "Liniments: applied with friction; oily/alcoholic/soapy; counter-irritant, rubefacient for muscle pain; not on broken skin; e.g. turpentine liniment, white liniment.\nLotions: applied without friction; mostly aqueous; cooling, soothing, protective; e.g. calamine lotion."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between o/w and w/o emulsions.",
+      "answer": "o/w: oil dispersed in water; dilutes with water; conducts electricity; non-greasy, washable; oral and IV use; emulsifier HLB about 8–18 (Tweens).\nw/o: water dispersed in oil; does not dilute with water; does not conduct; greasy; external (cold cream); emulsifier HLB about 3–6 (Spans)."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on dry powders for reconstitution.",
+      "answer": "For drugs unstable in water (amoxicillin, ampicillin, cefalexin).\nSupplied as dry powder/granules; water added to the mark before dispensing/use.\nLong shelf life dry; use within stated time (about 7–14 days), often refrigerated.\nLabel: volume of water, shake well, storage, discard date."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Define pastes and gels with examples.",
+      "answer": "Pastes: stiff semisolids with high proportion (often ≥50%) of powder; less greasy, stay in place, absorb secretions; e.g. zinc oxide paste.\nGels: liquid held in 3-D network of gelling agent (sodium alginate, carbomer, methylcellulose, tragacanth); non-greasy, cooling; e.g. lubricant jelly, diclofenac gel."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the evaluation tests for liquid oral preparations.",
+      "answer": "Appearance, clarity, colour, odour.\npH, viscosity, specific gravity.\nAlcohol content (elixirs).\nGlobule/particle size, creaming/sedimentation and redispersibility (emulsions, suspensions).\nMicrobial limits, preservative content, assay, fill volume."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the concentration of sucrose in Simple Syrup IP?",
+      "answer": "66.7% w/w sucrose (the USP simple syrup is 85% w/v)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the ratio of oil, water and gum in the primary emulsion of a fixed oil?",
+      "answer": "4 : 2 : 1 (oil : water : gum)."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define displacement value.",
+      "answer": "The number of parts by weight of a drug that displaces one part by weight of the suppository base."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define parenteral preparations. Write their types, advantages, disadvantages and formulation additives.",
+      "answer": "Definition: sterile preparations for injection, infusion or implantation, bypassing the alimentary canal.\nRoutes: IV, IM, SC, ID, intrathecal, intra-articular.\nTypes: solutions, suspensions, emulsions, dry powders for reconstitution; LVP and SVP.\nAdvantages: rapid action, for unconscious/vomiting patients, for drugs destroyed orally (insulin), depot effect, fluid and nutrition.\nDisadvantages: pain, trained personnel, irreversible once given, infection, cost.\nAdditives: vehicle – Water for Injections; non-aqueous – fixed oils, ethyl oleate, PEG, propylene glycol; tonicity agents (NaCl, dextrose); buffers (phosphate, citrate); preservatives (benzyl alcohol, chlorocresol, phenol, parabens) for multi-dose; antioxidants (metabisulphite, ascorbic acid, nitrogen); chelators (EDTA).\nRequirements: sterile, pyrogen-free, particle-free, isotonic, stable."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the production of injections and the quality control tests for parenterals.",
+      "answer": "Production: clean-room (Grade A filling); containers washed, rinsed with WFI, dry-heat sterilised/depyrogenated; solution prepared in WFI, pH adjusted; clarified and 0.22 µm filtered; filled under laminar air flow; ampoules sealed, vials stoppered and crimped; terminal sterilisation (autoclave 121 °C, 15 min) if heat-stable; QC; labelling and packing.\nQC tests: sterility test (fluid thioglycollate and soybean–casein digest media, direct inoculation or membrane filtration – no growth); pyrogen test (rabbit temperature rise); bacterial endotoxin (LAL gel-clot); clarity/particulate matter (visual against black and white, counters); leakage test (dye bath under vacuum for ampoules); extractable volume, pH, assay."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define vaccines. Classify them and describe the general method of manufacture of bacterial vaccines.",
+      "answer": "Vaccines: preparations of antigens that produce active immunity.\nClassification: live attenuated (BCG, OPV, measles, MMR); killed/inactivated (IPV, rabies, typhoid, pertussis); toxoids (tetanus, diphtheria); subunit/recombinant (hepatitis B, HPV); conjugate (Hib); combined (DPT, pentavalent).\nBacterial vaccine manufacture: 1. seed lot of selected strain; 2. culture in fermenters in suitable medium; 3. harvest by centrifugation, resuspend in saline; 4. kill by heat/formaldehyde/phenol (killed vaccines); 5. standardise (bacterial count/antigen content); 6. blend – dilute, add preservative and adjuvant; 7. aseptic filling; 8. QC – sterility, safety, potency, identity.\nViral vaccines are grown in embryonated eggs or cell cultures.\nStorage 2–8 °C, cold chain."
+    },
+    {
+      "id": "u6-l04",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write notes on toxoids and antisera with their methods of manufacture.",
+      "answer": "Toxoid: exotoxin made non-toxic with formaldehyde but still antigenic (active immunity). Manufacture: grow C. tetani/C. diphtheriae in liquid medium → toxin released, bacteria filtered off → formaldehyde + warmth (toxoiding) → purify, concentrate, standardise in Lf units → adsorb on aluminium hydroxide/phosphate (adsorbed toxoid) → preservative, aseptic filling → tests for sterility, non-toxicity, potency.\nAntisera: antibody preparations from immunised animals (horses) or humans giving passive immunity; e.g. ATS, anti-diphtheria serum, polyvalent anti-snake venom, immunoglobulins. Manufacture: immunise horses with increasing doses of toxoid/toxin/venom → bleed aseptically → separate plasma → purify (ammonium sulphate, pepsin digestion) → standardise, preservative, sterile filter, fill, freeze-dry if needed → test.\nCaution: allergic reactions; sensitivity test dose."
+    },
+    {
+      "id": "u6-l05",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about eye drops and eye ointments: requirements, formulation and preparation.",
+      "answer": "Eye drops: sterile solutions/suspensions for instillation into the eye. Requirements: sterile (Pseudomonas risk), isotonic (0.9% NaCl equivalent), pH near 7.4 (buffered), clear or very fine particles, viscosity agents (methylcellulose, HPMC, PVA), preservative (benzalkonium chloride about 0.01%, chlorhexidine, phenylmercuric salts, chlorobutanol); sterilised by autoclave or 0.22 µm filtration with aseptic filling; dropper containers; discard 4 weeks after opening.\nEye ointments: sterile semisolids; base of yellow soft paraffin, liquid paraffin and wool fat; base melted, filtered and dry-heat sterilised; sterile micronised drug added aseptically; filled in sterile tubes with nozzle; no gritty particles. Longer contact time, but blur vision."
+    },
+    {
+      "id": "u6-l06",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are effervescent granules? Describe their preparation and the reasons for using citric and tartaric acid together.",
+      "answer": "Definition: granules containing acid and bicarbonate that release CO2 when added to water; mask taste.\nReactions: citric acid + 3 NaHCO3 → sodium citrate + 3 CO2 + 4 H2O; tartaric acid + 2 NaHCO3 → sodium tartrate + 2 CO2 + 2 H2O.\nAcid mixture: citric alone → sticky mass; tartaric alone → crumbly granules; use citric : tartaric 1 : 2.\nPreparation: fusion method – mix powders, heat about 93–104 °C; water of crystallisation of citric acid acts as binder; pass through sieve, dry at not more than 50 °C. Wet method – alcohol as granulating fluid.\nGranules vs powder: less hygroscopic, controlled effervescence, better flow.\nPack airtight; label 'Dissolve in water before taking'."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on insufflations.",
+      "answer": "Fine powders blown into body cavities (nose, throat, ear, tooth socket) with an insufflator.\nLocal (antiseptic, decongestant) or systemic action.\nVery fine powder for even spread.\nDemerits: inaccurate dose, may be inhaled and cause coughing.\nDry powder inhalers are a modern controlled form."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the requirements of dusting powders.",
+      "answer": "Very fine, free from grit; free-flowing; spread easily and adhere to skin.\nInert base: talc, starch, zinc oxide, kaolin, zinc stearate.\nMust be sterile if for wounds/broken skin (talc can carry tetanus spores).\nPacked in sifter-top containers; label 'For external use only'."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is isotonicity? Why is it important for injections and eye drops?",
+      "answer": "Solutions with the same osmotic pressure as body fluids are isotonic; 0.9% NaCl and 5% dextrose are isotonic with blood; freezing point −0.52 °C.\nHypotonic → red cells swell and burst (haemolysis), pain/irritation; hypertonic → cells shrink (crenation), irritation.\nIsotonic preparations are comfortable and safe."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the methods of sterilisation with conditions.",
+      "answer": "Moist heat (autoclave) 121 °C for 15 min – aqueous injections, closures.\nDry heat 160 °C for 2 h – glassware, oils, powders.\nFiltration 0.22 µm – heat-sensitive solutions.\nEthylene oxide gas – plastics, devices.\nRadiation (gamma, electron beam) – disposables, sutures."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between active and passive immunity.",
+      "answer": "Active: body produces own antibodies; after infection or vaccination/toxoid; slow onset; long-lasting.\nPassive: ready-made antibodies given (sera, antitoxins, immunoglobulins, mother to baby); immediate; short-lived."
+    },
+    {
+      "id": "u6-s06",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on the cold chain and storage of vaccines.",
+      "answer": "Cold chain: system keeping vaccines at the right temperature from manufacturer to patient (walk-in coolers, ice-lined refrigerators, deep freezers, cold boxes, vaccine carriers).\nStore most vaccines at 2–8 °C; never freeze adsorbed vaccines (DPT, TT, hepatitis B).\nVaccine vial monitor shows heat exposure.\nProtect from light; use reconstituted vaccine within stated time."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the media used in the sterility test.",
+      "answer": "Fluid thioglycollate medium (bacteria, anaerobes) and soybean–casein digest medium (fungi and aerobic bacteria)."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a toxoid? Give two examples.",
+      "answer": "A bacterial toxin made non-toxic by formaldehyde treatment but still antigenic; e.g. tetanus toxoid, diphtheria toxoid."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define quality control and quality assurance. Differentiate between them.",
+      "answer": "QC: part of GMP concerned with sampling, specifications and testing, and with release procedures ensuring materials/products are not released until quality is satisfactory.\nQA: wide concept covering all matters that influence product quality; total of organised arrangements to ensure medicines are of required quality. QA ⊃ GMP ⊃ QC.\nDifferences: focus – product (QC) vs process/system (QA); nature – reactive/detects vs proactive/prevents; activities – testing, inspection vs SOPs, documentation, audits, validation, training, batch release, recalls; done by QC lab vs QA department/organisation.\nQC functions: raw material, packing material, in-process, finished product testing, stability, environmental monitoring."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define GMP. Write the important requirements of cGMP.",
+      "answer": "Definition: part of QA ensuring products are consistently produced and controlled to the quality standards appropriate to their use; 'current' = up-to-date methods. In India – Schedule M of the Drugs and Cosmetics Rules.\nRequirements: premises (location, one-way flow, smooth cleanable surfaces, separate areas); personnel (qualified, trained, healthy, hygienic, proper clothing); equipment (suitable, stainless steel, calibrated, maintained, status-labelled); processes (validated, SOPs, line clearance, avoid mix-ups and cross-contamination); materials (approved vendors, quarantine, testing, labelling); documentation (master formula, BMR, packing records, specifications); sanitation, pest control; complaints and recalls; self-inspection.\nImportance: patient safety, consistency, legal compliance, export."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the basic layout, sections and activities of a pharmaceutical manufacturing plant.",
+      "answer": "Site: away from pollution; good water, power, transport.\nLayout: one-way flow – receipt → quarantine → QC approval → approved store → dispensing → production → in-process control → packaging → QC release → finished goods store → dispatch; separate routes for people, materials, waste; air locks for sterile areas.\nSections: stores (receipt, quarantine, storage, FEFO); dispensing (weighing under dust control); production blocks (tablets, capsules, liquids, externals, sterile; dedicated for β-lactams, hormones, cytotoxics); sterile area (HEPA, Grades A–D); packaging (line clearance); QC lab; QA; engineering/maintenance; utilities (purified water, WFI, steam, HVAC); effluent treatment; administration."
+    },
+    {
+      "id": "u7-l04",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define calibration and validation. Write the types of validation.",
+      "answer": "Calibration: establishing the relationship between values shown by an instrument and known reference standard values (e.g. balance with standard weights, pH meter with buffers, thermometer with reference thermometer); done at set frequency, status labels, records.\nValidation: documented evidence providing high assurance that a process/equipment/system consistently gives results meeting predetermined specifications.\nTypes: prospective (before release of new product), concurrent (during routine production), retrospective (from past batch data), revalidation (after changes or periodically).\nAreas: process, cleaning, analytical method, equipment qualification (DQ, IQ, OQ, PQ), utilities, computer systems.\nCalibration concerns instrument accuracy; validation concerns process consistency."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the functions of the quality control department.",
+      "answer": "Testing raw and packing materials against specifications.\nIn-process control (weight, hardness, disintegration, pH, volume).\nFinished product testing and release recommendation.\nStability studies, retention samples.\nEnvironmental monitoring of clean areas.\nCalibration of lab instruments and record keeping."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the functions of the quality assurance department.",
+      "answer": "Preparing and controlling SOPs and documents.\nReviewing batch records and releasing batches.\nTraining staff.\nAudits, self-inspection, vendor approval.\nDeviation, change control, complaints and recalls.\nOverseeing validation and calibration."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the GMP requirements for personnel.",
+      "answer": "Adequate number of qualified and experienced staff.\nTraining in GMP and own duties.\nMedical examination; sick persons kept away.\nPersonal hygiene; proper gowns, caps, masks, gloves.\nNo eating, drinking or smoking in production areas."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a short note on clean area grades.",
+      "answer": "Grade A – critical aseptic operations (filling, open sterile containers) under laminar air flow.\nGrade B – background for Grade A.\nGrade C and D – less critical steps such as solution preparation and component handling.\nHEPA-filtered air, air locks, gowning."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which schedule of the Drugs and Cosmetics Rules deals with GMP?",
+      "answer": "Schedule M."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are DQ, IQ, OQ and PQ?",
+      "answer": "Stages of equipment qualification: design, installation, operational and performance qualification."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define novel drug delivery systems. Classify them with examples.",
+      "answer": "Definition: newer delivery approaches that control the rate, duration or site of drug release for better efficacy and safety.\nBy route: oral controlled release (matrix, reservoir, osmotic OROS – nifedipine; metformin ER); gastroretentive (floating); transdermal (nitroglycerin, nicotine, fentanyl, scopolamine, estradiol); ocular (Ocusert pilocarpine); intrauterine (levonorgestrel system); implants (levonorgestrel, etonogestrel, goserelin); mucoadhesive buccal; pulmonary (MDI, DPI); parenteral depots (microsphere injections).\nBy mechanism: diffusion (reservoir, matrix), dissolution, osmotic, ion-exchange, biodegradable, stimulus-responsive.\nTargeted carriers: liposomes (liposomal amphotericin B, doxorubicin), niosomes, nanoparticles, microspheres, antibody conjugates, resealed erythrocytes; passive and active targeting."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the advantages and challenges of novel drug delivery systems.",
+      "answer": "Advantages: fewer doses – better compliance; steady blood level within therapeutic window; fewer side effects and lower total dose; improved bioavailability, avoids first-pass (transdermal, buccal, implant); protects sensitive drugs; better control of chronic disease and night-time symptoms; targeting of anticancer drugs; removable systems (patch, implant).\nChallenges: high cost; dose dumping if system fails (crushing, chewing); fixed dose, little flexibility; toxicity cannot be stopped quickly; unsuitable for drugs with very short/long half-life, large dose, poor absorption; variable GI transit; skin irritation from patches; complex manufacture and stability problems (liposome leakage); need for patient education; strict regulatory studies."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write notes on transdermal drug delivery systems and osmotic pumps.",
+      "answer": "TDDS: patches delivering drug through skin into blood at a controlled rate. Structure – backing layer, drug reservoir/matrix, rate-controlling membrane, adhesive, release liner. Suitable drugs: potent, low dose, low molecular weight, suitable solubility. Examples: nitroglycerin, nicotine, fentanyl, scopolamine, estradiol. Merits: avoid first-pass, steady levels, removable. Demerits: skin irritation, limited drugs.\nOsmotic pump (OROS): drug + osmotic agent core, semipermeable coat with laser-drilled orifice; water enters, builds osmotic pressure, pushes drug solution out at near zero-order rate independent of pH and food; e.g. nifedipine; empty shell passes in stools."
+    },
+    {
+      "id": "u8-l04",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain controlled release and targeted drug delivery with a diagram of blood levels.",
+      "answer": "Draw blood level vs time: conventional doses show peaks above and troughs below the therapeutic window; controlled release keeps a steady level.\nTerms: sustained release (slow, prolonged), controlled release (predetermined, often zero-order), zero-order vs first-order release.\nMechanisms: reservoir, matrix, dissolution, osmotic, ion-exchange, biodegradable.\nTargeted delivery: carrier takes drug to target; passive (tumours with leaky vessels, liver/spleen uptake) and active (antibody or ligand on carrier). Carriers: liposomes, niosomes, nanoparticles, microspheres, antibody–drug conjugates, prodrugs (levodopa)."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on liposomes.",
+      "answer": "Vesicles of phospholipid bilayers (with cholesterol) around an aqueous core.\nWater-soluble drug in core, lipid-soluble in bilayer.\nUses: targeting, reduced toxicity – liposomal amphotericin B, liposomal doxorubicin.\nDemerits: cost, leakage, stability problems."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Give four examples of novel drug delivery systems with the drug used.",
+      "answer": "Transdermal nitroglycerin/nicotine patch.\nOcusert – pilocarpine ocular insert.\nOROS osmotic tablet – nifedipine.\nLevonorgestrel implant or intrauterine system.\nLiposomal amphotericin B."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is dose dumping?",
+      "answer": "Sudden release of a large part or all of the dose from a modified-release product because the release mechanism fails (crushing, chewing, sometimes alcohol), which may cause toxicity."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Differentiate between sustained release and controlled release.",
+      "answer": "Sustained: drug released slowly over a prolonged period; rate not exactly controlled; level may decline slowly.\nControlled: drug released at a predetermined, often constant (zero-order) rate, giving steady levels."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is Ocusert?",
+      "answer": "An ocular insert placed in the eye that releases pilocarpine at a controlled rate for about a week."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define zero-order release.",
+      "answer": "Release of a constant amount of drug per unit time, independent of the amount remaining."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "code": "ER20-11T",
+  "title": "Pharmaceutics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020), D.Pharm first year, Pharmaceutics ER20-11T and ER20-11P (university copy of the PCI syllabus)",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-11T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-11P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "History of the pharmacy profession in India and pharmacopoeias",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Packaging materials and pharmaceutical aids",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Unit operations",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Dosage forms I: tablets and capsules",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Dosage forms II: liquid oral, topical, nasal and ear preparations",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Dosage forms III: powders, granules, sterile formulations and immunological products",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Pharmaceutical manufacturing plant, quality control, quality assurance and cGMP",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Novel drug delivery systems",
+      "notes": "notes/unit-8.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "official-references",
+      "title": "Handling and referring to official references",
+      "file": "practicals/official-references.md"
+    },
+    {
+      "id": "simple-syrup",
+      "title": "Simple Syrup IP",
+      "file": "practicals/simple-syrup.md"
+    },
+    {
+      "id": "piperazine-citrate-elixir",
+      "title": "Piperazine Citrate Elixir",
+      "file": "practicals/piperazine-citrate-elixir.md"
+    },
+    {
+      "id": "aqueous-iodine-solution",
+      "title": "Aqueous Iodine Solution (Lugol's solution)",
+      "file": "practicals/aqueous-iodine-solution.md"
+    },
+    {
+      "id": "castor-oil-emulsion",
+      "title": "Castor Oil Emulsion",
+      "file": "practicals/castor-oil-emulsion.md"
+    },
+    {
+      "id": "cod-liver-oil-emulsion",
+      "title": "Cod Liver Oil Emulsion",
+      "file": "practicals/cod-liver-oil-emulsion.md"
+    },
+    {
+      "id": "calamine-lotion",
+      "title": "Calamine Lotion",
+      "file": "practicals/calamine-lotion.md"
+    },
+    {
+      "id": "magnesium-hydroxide-mixture",
+      "title": "Magnesium Hydroxide Mixture",
+      "file": "practicals/magnesium-hydroxide-mixture.md"
+    },
+    {
+      "id": "simple-and-sulphur-ointment",
+      "title": "Simple Ointment base and Sulphur Ointment",
+      "file": "practicals/simple-and-sulphur-ointment.md"
+    },
+    {
+      "id": "cetrimide-cream",
+      "title": "Cetrimide Cream",
+      "file": "practicals/cetrimide-cream.md"
+    },
+    {
+      "id": "sodium-alginate-gel",
+      "title": "Sodium Alginate Gel",
+      "file": "practicals/sodium-alginate-gel.md"
+    },
+    {
+      "id": "liniments",
+      "title": "Turpentine Liniment and White Liniment",
+      "file": "practicals/liniments.md"
+    },
+    {
+      "id": "effervescent-granules",
+      "title": "Effervescent granules",
+      "file": "practicals/effervescent-granules.md"
+    },
+    {
+      "id": "dusting-powder",
+      "title": "Dusting powder (zinc, starch and talc)",
+      "file": "practicals/dusting-powder.md"
+    },
+    {
+      "id": "normal-saline-injection",
+      "title": "Sodium Chloride Injection (normal saline)",
+      "file": "practicals/normal-saline-injection.md"
+    },
+    {
+      "id": "calcium-gluconate-injection",
+      "title": "Calcium Gluconate Injection",
+      "file": "practicals/calcium-gluconate-injection.md"
+    },
+    {
+      "id": "tetracycline-capsules",
+      "title": "Tetracycline capsules (hard gelatin)",
+      "file": "practicals/tetracycline-capsules.md"
+    },
+    {
+      "id": "paracetamol-tablets",
+      "title": "Paracetamol tablets (wet granulation)",
+      "file": "practicals/paracetamol-tablets.md"
+    },
+    {
+      "id": "cosmetic-preparations",
+      "title": "Common cosmetic preparations",
+      "file": "practicals/cosmetic-preparations.md"
+    },
+    {
+      "id": "tablet-manufacturing-demo",
+      "title": "Stages of tablet manufacture (demonstration)",
+      "file": "practicals/tablet-manufacturing-demo.md"
+    },
+    {
+      "id": "dosage-form-use-and-storage",
+      "title": "Use and storage of dosage forms, inhalers and insulin pens",
+      "file": "practicals/dosage-form-use-and-storage.md"
+    },
+    {
+      "id": "quality-control-tests",
+      "title": "Quality control tests of common dosage forms",
+      "file": "practicals/quality-control-tests.md"
+    }
+  ]
+}
