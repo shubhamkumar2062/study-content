@@ -17,8 +17,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Check every source file
@@ -27,7 +27,7 @@ jobs:
         run: python3 scripts/build.py
       - name: Upload the site
         if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: public
 
@@ -43,4 +43,53 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
+
+  # Backup copy for the app: the same files on the `published` branch, served by
+  # jsDelivr at https://cdn.jsdelivr.net/gh/<owner>/<repo>@published/v1/
+  mirror:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Build public/
+        run: python3 scripts/build.py
+      - name: Update the published branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin published >/dev/null; then
+            git fetch --depth=1 origin published
+            git worktree add mirror FETCH_HEAD
+            git -C mirror switch -c published
+          else
+            git worktree add --detach mirror
+            git -C mirror checkout --orphan published
+            git -C mirror rm -rfq .
+          fi
+          find mirror -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R public/. mirror/
+          cd mirror
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Published files unchanged."
+            exit 0
+          fi
+          git commit -q -m "Publish ${GITHUB_SHA::7}"
+          git push origin published
+          if git rev-parse -q --verify HEAD~1 >/dev/null; then
+            changed=$(git diff --name-only HEAD~1 HEAD)
+          else
+            changed=$(git ls-files)
+          fi
+          # jsDelivr caches a branch for up to 12 hours; clear each changed file.
+          for f in $changed; do
+            curl -fsS -o /dev/null "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@published/$f" \
+              && echo "purged $f" || echo "::warning::could not purge $f"
+          done
