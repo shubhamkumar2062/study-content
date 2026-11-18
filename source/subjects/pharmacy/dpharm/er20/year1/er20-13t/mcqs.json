@@ -1,0 +1,1852 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The word 'pharmacognosy' is derived from Greek words meaning:",
+      "options": [
+        "Plant and medicine",
+        "Drug and knowledge",
+        "Drug and plant",
+        "Medicine and study"
+      ],
+      "correct": 1,
+      "explanation": "Pharmakon = drug, gnosis = knowledge.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Who used the term pharmacognosy in Analectica Pharmacognostica (1815)?",
+      "options": [
+        "C. A. Seydler",
+        "J. A. Schmidt",
+        "Dioscorides",
+        "Galen"
+      ],
+      "correct": 0,
+      "explanation": "Seydler used it as the title of his 1815 work; Schmidt used it earlier in 1811.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "De Materia Medica was written by:",
+      "options": [
+        "Hippocrates",
+        "Theophrastus",
+        "Avicenna",
+        "Dioscorides"
+      ],
+      "correct": 3,
+      "explanation": "Dioscorides described about 600 plants in the 1st century AD.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Galenicals are named after:",
+      "options": [
+        "Galileo",
+        "Gallen papyrus",
+        "Galen",
+        "Gallus"
+      ],
+      "correct": 2,
+      "explanation": "Galen prepared plant extracts and mixtures, now called galenicals.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The father of medicine is:",
+      "options": [
+        "Galen",
+        "Hippocrates",
+        "Charaka",
+        "Theophrastus"
+      ],
+      "correct": 1,
+      "explanation": "Hippocrates treated disease as a natural process.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Sushruta Samhita mainly deals with:",
+      "options": [
+        "Surgery",
+        "Internal medicine",
+        "Pharmacy",
+        "Toxicology"
+      ],
+      "correct": 0,
+      "explanation": "Sushruta is called the father of Indian surgery.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The Ebers papyrus belongs to which civilisation?",
+      "options": [
+        "Chinese",
+        "Greek",
+        "Indian",
+        "Egyptian"
+      ],
+      "correct": 3,
+      "explanation": "It is an Egyptian medical scroll from about 1550 BC.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Which of the following is an unorganised drug?",
+      "options": [
+        "Senna",
+        "Cinnamon",
+        "Acacia",
+        "Ginger"
+      ],
+      "correct": 2,
+      "explanation": "Acacia is a gum exudate with no cellular structure.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Quinine was isolated from cinchona by:",
+      "options": [
+        "Sertürner",
+        "Pelletier and Caventou",
+        "Fleming",
+        "Hahnemann"
+      ],
+      "correct": 1,
+      "explanation": "Pelletier and Caventou isolated quinine in 1820.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Artemisinin was discovered by a scientist who received the Nobel Prize in 2015:",
+      "options": [
+        "Tu Youyou",
+        "Alexander Fleming",
+        "Paul Ehrlich",
+        "Robert Koch"
+      ],
+      "correct": 0,
+      "explanation": "Tu Youyou's work led to artemisinin for malaria.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Pharmacopoeias arrange monographs by:",
+      "options": [
+        "Taxonomical system",
+        "Chemical system",
+        "Pharmacological system",
+        "Alphabetical system"
+      ],
+      "correct": 3,
+      "explanation": "IP, BP and USP list drugs in alphabetical order.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Classification of drugs as leaves, barks, roots and seeds is:",
+      "options": [
+        "Chemical",
+        "Taxonomical",
+        "Morphological",
+        "Pharmacological"
+      ],
+      "correct": 2,
+      "explanation": "Morphological classification is based on the part used.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Grouping of senna, aloe and castor oil together as laxatives is an example of:",
+      "options": [
+        "Chemical classification",
+        "Pharmacological classification",
+        "Alphabetical classification",
+        "Morphological classification"
+      ],
+      "correct": 1,
+      "explanation": "They are grouped by their action.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Chemotaxonomic classification is based on:",
+      "options": [
+        "Chemical constituents and plant relationships",
+        "Part used only",
+        "Therapeutic use",
+        "Names of drugs"
+      ],
+      "correct": 0,
+      "explanation": "Related plants tend to make related chemicals.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Tropane alkaloids are characteristic of the family:",
+      "options": [
+        "Rubiaceae",
+        "Apocynaceae",
+        "Liliaceae",
+        "Solanaceae"
+      ],
+      "correct": 3,
+      "explanation": "Belladonna, hyoscyamus and datura are Solanaceae.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which of these is an organised drug?",
+      "options": [
+        "Opium",
+        "Agar",
+        "Clove",
+        "Benzoin"
+      ],
+      "correct": 2,
+      "explanation": "Clove is a flower bud with cellular structure.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "A demerit of chemical classification is that:",
+      "options": [
+        "It is used in pharmacopoeias",
+        "Some drugs contain more than one important group of constituents",
+        "It shows natural relationship",
+        "It helps identification"
+      ],
+      "correct": 1,
+      "explanation": "Cinchona has both alkaloids and tannins, so it fits two groups.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Cinchona, ipecacuanha and coffee belong to the family:",
+      "options": [
+        "Rubiaceae",
+        "Apocynaceae",
+        "Leguminosae",
+        "Solanaceae"
+      ],
+      "correct": 0,
+      "explanation": "All three are Rubiaceae.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The classification most useful to a dispensing pharmacist is:",
+      "options": [
+        "Alphabetical",
+        "Taxonomical",
+        "Chemo-taxonomical",
+        "Pharmacological"
+      ],
+      "correct": 3,
+      "explanation": "It groups drugs by their therapeutic use.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The common adulterant of black pepper is:",
+      "options": [
+        "Coriander",
+        "Clove stalks",
+        "Papaya seeds",
+        "Lycopodium spores"
+      ],
+      "correct": 2,
+      "explanation": "Dried papaya seeds look like pepper.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Stomatal index is calculated as:",
+      "options": [
+        "S ÷ E × 100",
+        "S ÷ (S + E) × 100",
+        "E ÷ (S + E) × 100",
+        "(S + E) ÷ S"
+      ],
+      "correct": 1,
+      "explanation": "S = stomata, E = epidermal cells in the same area.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Acid-insoluble ash mainly indicates:",
+      "options": [
+        "Sand and earthy matter",
+        "Calcium oxalate",
+        "Organic matter",
+        "Moisture"
+      ],
+      "correct": 0,
+      "explanation": "Silica and earth remain after boiling ash with dilute HCl.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Approximately how many lycopodium spores are present in 1 mg?",
+      "options": [
+        "9,400",
+        "940",
+        "9,40,000",
+        "94,000"
+      ],
+      "correct": 3,
+      "explanation": "About 94,000 spores per mg.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Paraffin wax coloured to look like beeswax is an example of:",
+      "options": [
+        "Exhausted drug",
+        "Inferior variety",
+        "Artificially manufactured substitute",
+        "Synthetic principle"
+      ],
+      "correct": 2,
+      "explanation": "A man-made imitation sold as the genuine drug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Digitalis is evaluated biologically using:",
+      "options": [
+        "Rabbits for blood sugar",
+        "Pigeon or frog heart",
+        "Guinea-pig skin",
+        "Rat uterus only"
+      ],
+      "correct": 1,
+      "explanation": "Bioassay on pigeon, frog or guinea pig heart.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Phloroglucinol with HCl stains which tissue pink?",
+      "options": [
+        "Lignified tissue",
+        "Starch",
+        "Mucilage",
+        "Oil globules"
+      ],
+      "correct": 0,
+      "explanation": "It detects lignin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The number of vein islets per square millimetre of leaf surface is:",
+      "options": [
+        "Vein termination number",
+        "Palisade ratio",
+        "Stomatal number",
+        "Vein-islet number"
+      ],
+      "correct": 3,
+      "explanation": "It is a leaf constant used to tell species apart.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Exhausted ginger is detected mainly by a low value of:",
+      "options": [
+        "Acid-insoluble ash",
+        "Moisture",
+        "Water-soluble extractive",
+        "Swelling factor"
+      ],
+      "correct": 2,
+      "explanation": "Extraction removes soluble matter, lowering extractive values.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Metanil yellow is an adulterant of:",
+      "options": [
+        "Saffron",
+        "Turmeric powder",
+        "Cinnamon",
+        "Black pepper"
+      ],
+      "correct": 1,
+      "explanation": "It is a synthetic dye added to turmeric powder.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Dragendorff's reagent is:",
+      "options": [
+        "Potassium bismuth iodide",
+        "Potassium mercuric iodide",
+        "Iodine in KI",
+        "Picric acid"
+      ],
+      "correct": 0,
+      "explanation": "It gives an orange-red precipitate with alkaloids.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Mayer's reagent gives which precipitate with alkaloids?",
+      "options": [
+        "Orange-red",
+        "Yellow",
+        "Reddish-brown",
+        "Cream"
+      ],
+      "correct": 3,
+      "explanation": "Mayer's (potassium mercuric iodide) gives a cream precipitate.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Keller–Killiani test detects:",
+      "options": [
+        "Anthraquinones",
+        "Saponins",
+        "Deoxy-sugars of cardiac glycosides",
+        "Tannins"
+      ],
+      "correct": 2,
+      "explanation": "Reddish-brown ring with bluish-green upper layer.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Monoterpenes contain how many carbon atoms?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct": 1,
+      "explanation": "Two isoprene units = C10.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Barbaloin of aloe is an example of:",
+      "options": [
+        "C-glycoside",
+        "O-glycoside",
+        "S-glycoside",
+        "N-glycoside"
+      ],
+      "correct": 0,
+      "explanation": "Sugar attached directly to carbon; resists acid hydrolysis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Hydrolysable tannins give which colour with ferric chloride?",
+      "options": [
+        "Greenish-black",
+        "Red",
+        "Yellow",
+        "Blue-black"
+      ],
+      "correct": 3,
+      "explanation": "Condensed tannins give greenish-black.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Enfleurage is used to extract volatile oil from:",
+      "options": [
+        "Clove",
+        "Lemon peel",
+        "Jasmine flowers",
+        "Eucalyptus leaves"
+      ],
+      "correct": 2,
+      "explanation": "Delicate flower oils are absorbed into fat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Asafoetida is an example of:",
+      "options": [
+        "Balsam",
+        "Oleo-gum-resin",
+        "Oleoresin",
+        "Gum resin"
+      ],
+      "correct": 1,
+      "explanation": "It contains volatile oil, gum and resin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Carotenoids are:",
+      "options": [
+        "Tetraterpenes",
+        "Monoterpenes",
+        "Diterpenes",
+        "Triterpenes"
+      ],
+      "correct": 0,
+      "explanation": "They are C40 compounds of eight isoprene units.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Foam test is used to detect:",
+      "options": [
+        "Alkaloids",
+        "Tannins",
+        "Volatile oils",
+        "Saponins"
+      ],
+      "correct": 3,
+      "explanation": "Saponins form a stable froth when shaken with water.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Balsams contain:",
+      "options": [
+        "Gallic acid",
+        "Meconic acid",
+        "Benzoic and/or cinnamic acid",
+        "Ricinoleic acid"
+      ],
+      "correct": 2,
+      "explanation": "Benzoin and tolu are balsams.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Clove is the dried:",
+      "options": [
+        "Fruit",
+        "Flower bud",
+        "Seed",
+        "Bark"
+      ],
+      "correct": 1,
+      "explanation": "Clove is the dried flower bud of Syzygium aromaticum.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The chief constituent of clove oil is:",
+      "options": [
+        "Eugenol",
+        "Cinnamaldehyde",
+        "Anethole",
+        "Linalool"
+      ],
+      "correct": 0,
+      "explanation": "Eugenol forms about 70–90% of clove oil.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Senna belongs to the family:",
+      "options": [
+        "Solanaceae",
+        "Rubiaceae",
+        "Liliaceae",
+        "Leguminosae"
+      ],
+      "correct": 3,
+      "explanation": "Cassia angustifolia is Leguminosae (Caesalpinioideae).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Sennosides are:",
+      "options": [
+        "Cardiac glycosides",
+        "Saponins",
+        "Dianthrone glycosides",
+        "Alkaloids"
+      ],
+      "correct": 2,
+      "explanation": "Sennosides A and B are dianthrone (anthraquinone-type) glycosides.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Digitalis leaves should be dried at a temperature not exceeding:",
+      "options": [
+        "40 °C",
+        "60 °C",
+        "80 °C",
+        "100 °C"
+      ],
+      "correct": 1,
+      "explanation": "Higher temperature lets enzymes and heat damage the glycosides.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Reserpine is obtained from:",
+      "options": [
+        "Rauwolfia",
+        "Vinca",
+        "Ephedra",
+        "Cinchona"
+      ],
+      "correct": 0,
+      "explanation": "Rauwolfia serpentina root contains reserpine.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Ergot is the sclerotium of:",
+      "options": [
+        "Aspergillus oryzae",
+        "Penicillium notatum",
+        "Saccharomyces cerevisiae",
+        "Claviceps purpurea"
+      ],
+      "correct": 3,
+      "explanation": "It develops in the ovary of rye.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Opium is obtained from:",
+      "options": [
+        "Ripe capsules",
+        "Seeds",
+        "Unripe capsules",
+        "Leaves"
+      ],
+      "correct": 2,
+      "explanation": "Latex from incised unripe capsules of Papaver somniferum.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Thalleioquin test is given by:",
+      "options": [
+        "Morphine",
+        "Quinine",
+        "Caffeine",
+        "Atropine"
+      ],
+      "correct": 1,
+      "explanation": "Bromine water + ammonia gives emerald green with quinine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Vitali–Morin test is used for:",
+      "options": [
+        "Tropane alkaloids",
+        "Purine alkaloids",
+        "Indole alkaloids",
+        "Isoquinoline alkaloids"
+      ],
+      "correct": 0,
+      "explanation": "Violet colour with tropane alkaloids such as hyoscyamine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Murexide test is given by:",
+      "options": [
+        "Ephedrine",
+        "Reserpine",
+        "Emetine",
+        "Caffeine"
+      ],
+      "correct": 3,
+      "explanation": "Purine alkaloids give purple with ammonia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Black catechu is obtained from the heartwood of:",
+      "options": [
+        "Uncaria gambier",
+        "Terminalia chebula",
+        "Acacia catechu",
+        "Pterocarpus marsupium"
+      ],
+      "correct": 2,
+      "explanation": "Pale catechu comes from Uncaria gambier leaves.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m13",
+      "unit": 5,
+      "question": "Vincristine is used in the treatment of:",
+      "options": [
+        "Malaria",
+        "Acute leukaemia",
+        "Gout",
+        "Hypertension"
+      ],
+      "correct": 1,
+      "explanation": "It is a dimeric indole alkaloid from Catharanthus roseus.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m14",
+      "unit": 5,
+      "question": "Colchicine is used mainly in:",
+      "options": [
+        "Acute gout",
+        "Asthma",
+        "Diabetes",
+        "Amoebic dysentery"
+      ],
+      "correct": 0,
+      "explanation": "It also stops cell division and induces polyploidy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m15",
+      "unit": 5,
+      "question": "Emetine is obtained from:",
+      "options": [
+        "Cinchona",
+        "Coca",
+        "Opium",
+        "Ipecacuanha"
+      ],
+      "correct": 3,
+      "explanation": "Cephaelis ipecacuanha root; used in amoebic dysentery.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m16",
+      "unit": 5,
+      "question": "The pungent principle of black pepper is:",
+      "options": [
+        "Gingerol",
+        "Capsaicin",
+        "Piperine",
+        "Eugenol"
+      ],
+      "correct": 2,
+      "explanation": "Piperine is an alkaloid and a bioavailability enhancer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m17",
+      "unit": 5,
+      "question": "Cassia bark is an adulterant of:",
+      "options": [
+        "Cinchona",
+        "Cinnamon",
+        "Arjuna",
+        "Myrobalan"
+      ],
+      "correct": 1,
+      "explanation": "Chinese cinnamon is substituted for Ceylon cinnamon.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m18",
+      "unit": 5,
+      "question": "Artemisinin is a:",
+      "options": [
+        "Sesquiterpene lactone endoperoxide",
+        "Indole alkaloid",
+        "Cardiac glycoside",
+        "Tannin"
+      ],
+      "correct": 0,
+      "explanation": "The endoperoxide bridge is essential for its antimalarial action.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m19",
+      "unit": 5,
+      "question": "Gymnema sylvestre is known as 'gurmar' because it:",
+      "options": [
+        "Is very bitter",
+        "Lowers blood pressure",
+        "Causes vomiting",
+        "Abolishes sweet taste"
+      ],
+      "correct": 3,
+      "explanation": "Gymnemic acids and gurmarin block sweet taste.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m20",
+      "unit": 5,
+      "question": "Agar is obtained from:",
+      "options": [
+        "Brown algae",
+        "Blue-green algae",
+        "Red algae",
+        "Fungi"
+      ],
+      "correct": 2,
+      "explanation": "Gelidium and Gracilaria are red algae.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m21",
+      "unit": 5,
+      "question": "Lanolin is obtained from:",
+      "options": [
+        "Bee honeycomb",
+        "Sheep wool",
+        "Cod liver",
+        "Pig skin"
+      ],
+      "correct": 1,
+      "explanation": "It is wool fat of Ovis aries.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m22",
+      "unit": 5,
+      "question": "Guar gum is obtained from the:",
+      "options": [
+        "Seed endosperm",
+        "Seed coat",
+        "Bark exudate",
+        "Root"
+      ],
+      "correct": 0,
+      "explanation": "Endosperm of Cyamopsis tetragonolobus seeds.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m23",
+      "unit": 5,
+      "question": "Mace is the:",
+      "options": [
+        "Seed coat of nutmeg",
+        "Fruit wall of nutmeg",
+        "Kernel of nutmeg",
+        "Arillus of nutmeg"
+      ],
+      "correct": 3,
+      "explanation": "Mace is the dried arillus.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m24",
+      "unit": 5,
+      "question": "Ephedrine belongs to:",
+      "options": [
+        "True alkaloids",
+        "Pseudoalkaloids",
+        "Protoalkaloids (amines)",
+        "Purines"
+      ],
+      "correct": 2,
+      "explanation": "Its nitrogen is not in a ring.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m25",
+      "unit": 5,
+      "question": "Ricinoleic acid is the main fatty acid of:",
+      "options": [
+        "Olive oil",
+        "Castor oil",
+        "Almond oil",
+        "Cod liver oil"
+      ],
+      "correct": 1,
+      "explanation": "It forms about 80–90% of castor oil fatty acids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m26",
+      "unit": 5,
+      "question": "Gambir-fluorescein test is positive for:",
+      "options": [
+        "Pale catechu",
+        "Black catechu",
+        "Myrobalan",
+        "Galls"
+      ],
+      "correct": 0,
+      "explanation": "Green fluorescence in petroleum ether layer.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m27",
+      "unit": 5,
+      "question": "Guggulsterones are obtained from:",
+      "options": [
+        "Commiphora molmol",
+        "Styrax benzoin",
+        "Ferula foetida",
+        "Commiphora wightii"
+      ],
+      "correct": 3,
+      "explanation": "Guggul is the oleo-gum-resin of Commiphora wightii.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m28",
+      "unit": 5,
+      "question": "Vasicine is obtained from:",
+      "options": [
+        "Tulsi",
+        "Neem",
+        "Vasaka",
+        "Punarnava"
+      ],
+      "correct": 2,
+      "explanation": "Adhatoda vasica leaves; bromhexine was developed from vasicine.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m29",
+      "unit": 5,
+      "question": "Withanolides are present in:",
+      "options": [
+        "Guggul",
+        "Ashwagandha",
+        "Arjuna",
+        "Gokhru"
+      ],
+      "correct": 1,
+      "explanation": "Withania somnifera roots.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m30",
+      "unit": 5,
+      "question": "Papain is obtained from:",
+      "options": [
+        "Latex of unripe papaya fruit",
+        "Ripe papaya fruit pulp",
+        "Papaya seeds",
+        "Papaya leaves"
+      ],
+      "correct": 0,
+      "explanation": "Dried latex of green unripe fruits of Carica papaya.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "Absorbent cotton consists mainly of:",
+      "options": [
+        "Keratin",
+        "Fibroin",
+        "Collagen",
+        "Cellulose"
+      ],
+      "correct": 3,
+      "explanation": "Cotton hairs are almost pure cellulose.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Surgical catgut is prepared from:",
+      "options": [
+        "Cat intestine",
+        "Silkworm cocoon",
+        "Sheep intestine submucosa",
+        "Cotton linters"
+      ],
+      "correct": 2,
+      "explanation": "Collagen of sheep small intestine submucosa.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Raw cotton is made absorbent by:",
+      "options": [
+        "Bleaching",
+        "Removing wax and fat with alkali",
+        "Adding glycerin",
+        "Sterilisation"
+      ],
+      "correct": 1,
+      "explanation": "Dewaxing with dilute NaOH lets it absorb water.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Which fibre contains sulphur?",
+      "options": [
+        "Wool",
+        "Cotton",
+        "Silk",
+        "Viscose rayon"
+      ],
+      "correct": 0,
+      "explanation": "Wool keratin is rich in cystine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "Under the microscope, cotton fibres appear as:",
+      "options": [
+        "Scaly cylinders",
+        "Smooth glassy threads",
+        "Striated rods",
+        "Flattened twisted ribbons"
+      ],
+      "correct": 3,
+      "explanation": "Twists are characteristic of cotton.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "Chromic catgut differs from plain catgut in being:",
+      "options": [
+        "Non-absorbable",
+        "Made of silk",
+        "Absorbed more slowly",
+        "Not sterile"
+      ],
+      "correct": 2,
+      "explanation": "Chromium salts tan it and slow absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Viscose rayon is made through the intermediate:",
+      "options": [
+        "Cellulose acetate",
+        "Cellulose xanthate",
+        "Cellulose nitrate",
+        "Oxidised cellulose"
+      ],
+      "correct": 1,
+      "explanation": "Alkali cellulose reacts with CS2 to form xanthate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "The proteins of silk are:",
+      "options": [
+        "Fibroin and sericin",
+        "Keratin and collagen",
+        "Casein and albumin",
+        "Gelatin and elastin"
+      ],
+      "correct": 0,
+      "explanation": "Fibroin forms the fibre; sericin is the gum.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "A strand used to tie a blood vessel is called:",
+      "options": [
+        "Suture",
+        "Bandage",
+        "Gauze",
+        "Ligature"
+      ],
+      "correct": 3,
+      "explanation": "Sutures stitch wounds; ligatures tie vessels.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "Which is a non-absorbable suture?",
+      "options": [
+        "Catgut",
+        "Polyglycolic acid",
+        "Silk",
+        "Polyglactin"
+      ],
+      "correct": 2,
+      "explanation": "Silk remains in tissue or is removed.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The three doshas of Ayurveda are:",
+      "options": [
+        "Dam, balgham, safra",
+        "Vata, pitta, kapha",
+        "Rasa, rakta, mamsa",
+        "Satva, rajas, tamas"
+      ],
+      "correct": 1,
+      "explanation": "Tridosha theory.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "Homoeopathy was founded by:",
+      "options": [
+        "Samuel Hahnemann",
+        "Hippocrates",
+        "Avicenna",
+        "Agastya"
+      ],
+      "correct": 0,
+      "explanation": "In 1796, on the law of similars.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Arishta is prepared from:",
+      "options": [
+        "Fresh juice",
+        "Cold infusion",
+        "Powders only",
+        "Decoction of drugs"
+      ],
+      "correct": 3,
+      "explanation": "Asava uses juice or cold infusion; arishta uses decoction.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "The fermenting agent used in asava and arishta is:",
+      "options": [
+        "Yeast cake",
+        "Honey",
+        "Dhataki flowers",
+        "Jaggery"
+      ],
+      "correct": 2,
+      "explanation": "Flowers of Woodfordia fruticosa.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "Chyawanprash is an example of:",
+      "options": [
+        "Churna",
+        "Lehya (avaleha)",
+        "Asava",
+        "Bhasma"
+      ],
+      "correct": 1,
+      "explanation": "A semi-solid jam-like preparation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "Usual ratio of kalka : oil : drava in taila preparation is:",
+      "options": [
+        "1 : 4 : 16",
+        "1 : 2 : 4",
+        "1 : 8 : 32",
+        "1 : 1 : 1"
+      ],
+      "correct": 0,
+      "explanation": "Standard sneha paka proportion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "Safra in Unani medicine is:",
+      "options": [
+        "Blood",
+        "Phlegm",
+        "Black bile",
+        "Yellow bile"
+      ],
+      "correct": 3,
+      "explanation": "The four humours are dam, balgham, safra and sauda.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "The Siddha system is mainly practised in:",
+      "options": [
+        "Kerala",
+        "Punjab",
+        "Tamil Nadu",
+        "Bengal"
+      ],
+      "correct": 2,
+      "explanation": "It developed in Tamil-speaking regions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "Varitara test for bhasma means the powder:",
+      "options": [
+        "Fills finger lines",
+        "Floats on water",
+        "Has no lustre",
+        "Does not revert to metal"
+      ],
+      "correct": 1,
+      "explanation": "A fine, light bhasma floats on still water.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m10",
+      "unit": 7,
+      "question": "The number of thathuvas in Siddha is:",
+      "options": [
+        "96",
+        "5",
+        "7",
+        "108"
+      ],
+      "correct": 0,
+      "explanation": "Siddha describes 96 basic principles.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "India is the leading exporter of:",
+      "options": [
+        "Cinchona bark",
+        "Opium",
+        "Ergot",
+        "Isabgol (psyllium) husk"
+      ],
+      "correct": 3,
+      "explanation": "Gujarat and Rajasthan grow most of the world's isabgol.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "The National Medicinal Plants Board was set up in:",
+      "options": [
+        "1990",
+        "2010",
+        "2000",
+        "1980"
+      ],
+      "correct": 2,
+      "explanation": "Under the Ministry of AYUSH.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "CSIR–CIMAP, Lucknow, works mainly on:",
+      "options": [
+        "Spices export",
+        "Medicinal and aromatic plants",
+        "Marine drugs",
+        "Vaccines"
+      ],
+      "correct": 1,
+      "explanation": "Central Institute of Medicinal and Aromatic Plants.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "India is a leading producer of which essential oil product, mainly from Uttar Pradesh?",
+      "options": [
+        "Mint oil and menthol",
+        "Rose oil",
+        "Clove oil",
+        "Lavender oil"
+      ],
+      "correct": 0,
+      "explanation": "Mint cultivation is large in Uttar Pradesh.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "TKDL stands for:",
+      "options": [
+        "Tribal Knowledge Data List",
+        "Therapeutic Knowledge Drug Library",
+        "Total Knowledge Data Ledger",
+        "Traditional Knowledge Digital Library"
+      ],
+      "correct": 3,
+      "explanation": "It helps prevent wrong patents on Indian traditional knowledge.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "A major problem of the medicinal plant sector is:",
+      "options": [
+        "Excess cultivation",
+        "Too many standards",
+        "Over-collection from the wild",
+        "Low demand"
+      ],
+      "correct": 2,
+      "explanation": "Wild species such as Podophyllum are becoming rare.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "Guar gum, an Indian export, is mainly grown in:",
+      "options": [
+        "Kerala",
+        "Rajasthan",
+        "Assam",
+        "Punjab hills"
+      ],
+      "correct": 1,
+      "explanation": "Rajasthan, Gujarat and Haryana grow guar.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "GACP stands for:",
+      "options": [
+        "Good Agricultural and Collection Practices",
+        "General Analytical Control Procedure",
+        "Government Approved Crop Plan",
+        "Good Applied Chemical Practice"
+      ],
+      "correct": 0,
+      "explanation": "Guidelines for quality raw herbs.",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m01",
+      "unit": 9,
+      "question": "The term nutraceutical was coined by:",
+      "options": [
+        "Samuel Hahnemann",
+        "Paul Ehrlich",
+        "Robert Koch",
+        "Stephen DeFelice"
+      ],
+      "correct": 3,
+      "explanation": "In 1989.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m02",
+      "unit": 9,
+      "question": "Probiotics are:",
+      "options": [
+        "Non-digestible fibres",
+        "Antibiotics",
+        "Live beneficial microorganisms",
+        "Vitamins"
+      ],
+      "correct": 2,
+      "explanation": "Given in adequate amounts they benefit the host.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m03",
+      "unit": 9,
+      "question": "Which is a prebiotic?",
+      "options": [
+        "Lactobacillus",
+        "Inulin",
+        "Saccharomyces boulardii",
+        "Bifidobacterium"
+      ],
+      "correct": 1,
+      "explanation": "Inulin feeds beneficial gut bacteria.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m04",
+      "unit": 9,
+      "question": "Spirulina is a:",
+      "options": [
+        "Blue-green alga (cyanobacterium)",
+        "Red alga",
+        "Brown alga",
+        "Fungus"
+      ],
+      "correct": 0,
+      "explanation": "Spirulina platensis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m05",
+      "unit": 9,
+      "question": "EPA and DHA are mainly obtained from:",
+      "options": [
+        "Flaxseed",
+        "Soya",
+        "Groundnut",
+        "Fish oils"
+      ],
+      "correct": 3,
+      "explanation": "Flaxseed gives ALA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m06",
+      "unit": 9,
+      "question": "Allicin is formed from alliin by the enzyme:",
+      "options": [
+        "Myrosinase",
+        "Emulsin",
+        "Alliinase",
+        "Diastase"
+      ],
+      "correct": 2,
+      "explanation": "Released when garlic is crushed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m07",
+      "unit": 9,
+      "question": "Genistein and daidzein are found in:",
+      "options": [
+        "Garlic",
+        "Soya",
+        "Spirulina",
+        "Tea"
+      ],
+      "correct": 1,
+      "explanation": "They are soya isoflavones (phytoestrogens).",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m08",
+      "unit": 9,
+      "question": "Lycopene is a:",
+      "options": [
+        "Carotene",
+        "Xanthophyll",
+        "Flavonoid",
+        "Tannin"
+      ],
+      "correct": 0,
+      "explanation": "Lycopene is a hydrocarbon carotenoid.",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m09",
+      "unit": 9,
+      "question": "Soluble dietary fibre mainly helps by:",
+      "options": [
+        "Increasing stool bulk only",
+        "Raising blood sugar",
+        "Killing bacteria",
+        "Lowering blood cholesterol"
+      ],
+      "correct": 3,
+      "explanation": "It binds bile acids and slows sugar absorption.",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m10",
+      "unit": 9,
+      "question": "Phycocyanin is a pigment of:",
+      "options": [
+        "Carrot",
+        "Tomato",
+        "Spirulina",
+        "Turmeric"
+      ],
+      "correct": 2,
+      "explanation": "Blue pigment-protein of spirulina.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m01",
+      "unit": 10,
+      "question": "Schedule T of the Drugs and Cosmetics Rules deals with:",
+      "options": [
+        "Labelling of cosmetics",
+        "GMP for Ayurvedic, Siddha and Unani medicines",
+        "Import of drugs",
+        "Clinical trials"
+      ],
+      "correct": 1,
+      "explanation": "Good Manufacturing Practices for ASU drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m02",
+      "unit": 10,
+      "question": "In a fluid extract, 1 ml corresponds to:",
+      "options": [
+        "1 g drug",
+        "0.1 g drug",
+        "5 g drug",
+        "10 g drug"
+      ],
+      "correct": 0,
+      "explanation": "Fluid extract is 1 : 1.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m03",
+      "unit": 10,
+      "question": "Decoction is suitable for:",
+      "options": [
+        "Volatile oils",
+        "Delicate flowers",
+        "Enzymes",
+        "Hard, heat-stable drugs"
+      ],
+      "correct": 3,
+      "explanation": "Roots and barks are boiled.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m04",
+      "unit": 10,
+      "question": "Phytosomes are complexes of plant extracts with:",
+      "options": [
+        "Cyclodextrin",
+        "Starch",
+        "Phosphatidylcholine",
+        "Gelatin"
+      ],
+      "correct": 2,
+      "explanation": "Phospholipid improves absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m05",
+      "unit": 10,
+      "question": "A formulation with two or more herbs is called:",
+      "options": [
+        "Monoherbal",
+        "Polyherbal",
+        "Phytopharmaceutical",
+        "Galenical"
+      ],
+      "correct": 1,
+      "explanation": "Example: Triphala.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m06",
+      "unit": 10,
+      "question": "Continuous hot extraction is done in a:",
+      "options": [
+        "Soxhlet apparatus",
+        "Percolator",
+        "Rotary evaporator",
+        "Separating funnel"
+      ],
+      "correct": 0,
+      "explanation": "Solvent is recycled.",
+      "probability": "low"
+    },
+    {
+      "id": "u10-m07",
+      "unit": 10,
+      "question": "Which herb may increase bleeding with warfarin?",
+      "options": [
+        "Isabgol",
+        "Senna",
+        "Coriander",
+        "Garlic"
+      ],
+      "correct": 3,
+      "explanation": "Garlic has antiplatelet action.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m08",
+      "unit": 10,
+      "question": "Herbal food supplements in India are regulated by:",
+      "options": [
+        "CDSCO only",
+        "Ministry of Textiles",
+        "FSSAI",
+        "BIS only"
+      ],
+      "correct": 2,
+      "explanation": "Food Safety and Standards Authority of India.",
+      "probability": "low"
+    },
+    {
+      "id": "u11-m01",
+      "unit": 11,
+      "question": "Sandalwood oil is obtained from the:",
+      "options": [
+        "Bark",
+        "Heartwood",
+        "Leaves",
+        "Seeds"
+      ],
+      "correct": 1,
+      "explanation": "Steam distillation of Santalum album heartwood.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m02",
+      "unit": 11,
+      "question": "The main constituents of sandalwood oil are:",
+      "options": [
+        "Santalols",
+        "Linalyl acetate",
+        "Eugenol",
+        "Cineole"
+      ],
+      "correct": 0,
+      "explanation": "α- and β-santalol.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m03",
+      "unit": 11,
+      "question": "The major constituent of lavender oil is:",
+      "options": [
+        "Camphor",
+        "Eugenol",
+        "Santalol",
+        "Linalyl acetate"
+      ],
+      "correct": 3,
+      "explanation": "Together with linalool.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m04",
+      "unit": 11,
+      "question": "Aloe vera gel used in cosmetics is obtained from:",
+      "options": [
+        "Yellow latex under the rind",
+        "Roots",
+        "Inner leaf parenchyma",
+        "Flowers"
+      ],
+      "correct": 2,
+      "explanation": "The latex contains aloin and is laxative.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m05",
+      "unit": 11,
+      "question": "Olive oil is obtained from:",
+      "options": [
+        "Seeds",
+        "Ripe fruits",
+        "Leaves",
+        "Bark"
+      ],
+      "correct": 1,
+      "explanation": "Expressed from ripe fruits of Olea europaea.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m06",
+      "unit": 11,
+      "question": "Almond oil belongs to the family:",
+      "options": [
+        "Rosaceae",
+        "Oleaceae",
+        "Labiatae",
+        "Santalaceae"
+      ],
+      "correct": 0,
+      "explanation": "Prunus amygdalus is Rosaceae.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m07",
+      "unit": 11,
+      "question": "Rosemary oil is commonly used in:",
+      "options": [
+        "Laxatives",
+        "Antimalarials",
+        "Vaccines",
+        "Hair tonics"
+      ],
+      "correct": 3,
+      "explanation": "It stimulates the scalp.",
+      "probability": "low"
+    },
+    {
+      "id": "u11-m08",
+      "unit": 11,
+      "question": "Castile soap is traditionally made from:",
+      "options": [
+        "Castor oil",
+        "Coconut oil",
+        "Olive oil",
+        "Sandalwood oil"
+      ],
+      "correct": 2,
+      "explanation": "Olive oil soap.",
+      "probability": "low"
+    },
+    {
+      "id": "u12-m01",
+      "unit": 12,
+      "question": "Rf value is:",
+      "options": [
+        "Distance of solvent ÷ distance of spot",
+        "Distance of spot ÷ distance of solvent front",
+        "Spot area ÷ plate area",
+        "Always more than 1"
+      ],
+      "correct": 1,
+      "explanation": "It lies between 0 and 1.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m02",
+      "unit": 12,
+      "question": "In successive extraction, solvents are used in order of:",
+      "options": [
+        "Increasing polarity",
+        "Decreasing polarity",
+        "Random order",
+        "Boiling point only"
+      ],
+      "correct": 0,
+      "explanation": "Petroleum ether first, water last.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m03",
+      "unit": 12,
+      "question": "Shinoda test is used for:",
+      "options": [
+        "Alkaloids",
+        "Saponins",
+        "Tannins",
+        "Flavonoids"
+      ],
+      "correct": 3,
+      "explanation": "Mg ribbon + conc. HCl gives pink-red.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m04",
+      "unit": 12,
+      "question": "Molisch's test detects:",
+      "options": [
+        "Proteins",
+        "Fats",
+        "Carbohydrates",
+        "Steroids"
+      ],
+      "correct": 2,
+      "explanation": "Violet ring at the junction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m05",
+      "unit": 12,
+      "question": "Molecular weight of an isolated compound is found by:",
+      "options": [
+        "IR spectroscopy",
+        "Mass spectrometry",
+        "UV spectroscopy",
+        "TLC"
+      ],
+      "correct": 1,
+      "explanation": "MS gives molecular ion and fragments.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m06",
+      "unit": 12,
+      "question": "Petroleum ether extraction is mainly used for:",
+      "options": [
+        "Defatting",
+        "Extracting tannins",
+        "Extracting sugars",
+        "Extracting proteins"
+      ],
+      "correct": 0,
+      "explanation": "It removes fats, waxes and sterols.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m07",
+      "unit": 12,
+      "question": "A herbarium voucher specimen is kept to:",
+      "options": [
+        "Increase yield",
+        "Sterilise the drug",
+        "Measure Rf",
+        "Confirm identity of the plant used"
+      ],
+      "correct": 3,
+      "explanation": "It allows the identification to be checked later.",
+      "probability": "low"
+    },
+    {
+      "id": "u12-m08",
+      "unit": 12,
+      "question": "Extracts are concentrated at low temperature using a:",
+      "options": [
+        "Soxhlet",
+        "Percolator",
+        "Rotary vacuum evaporator",
+        "Muffle furnace"
+      ],
+      "correct": 2,
+      "explanation": "Reduced pressure lowers the boiling point.",
+      "probability": "low"
+    }
+  ]
+}

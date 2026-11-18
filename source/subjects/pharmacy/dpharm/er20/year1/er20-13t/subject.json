@@ -1,0 +1,148 @@
+{
+  "code": "ER20-13T",
+  "title": "Pharmacognosy",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "PCI Education Regulations 2020 (ER-2020) D.Pharm syllabus, Pharmacognosy ER20-13T and ER20-13P (university copy, Gurukula Kangri Vishwavidyalaya)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-13T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-13P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Definition, history, present status and scope of Pharmacognosy",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Classification of drugs",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Quality control of crude drugs",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Alkaloids, terpenoids, glycosides, volatile oils, tannins and resins",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Biological source, chemical constituents and therapeutic efficacy of crude drugs",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Plant fibres used as surgical dressings; sutures",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Basic principles of traditional systems of medicine",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Role of medicinal and aromatic plants in national economy and their export potential",
+      "notes": "notes/unit-8.md"
+    },
+    {
+      "number": 9,
+      "title": "Herbs as health food",
+      "notes": "notes/unit-9.md"
+    },
+    {
+      "number": 10,
+      "title": "Introduction to herbal formulations",
+      "notes": "notes/unit-10.md"
+    },
+    {
+      "number": 11,
+      "title": "Herbal cosmetics",
+      "notes": "notes/unit-11.md"
+    },
+    {
+      "number": 12,
+      "title": "Phytochemical investigation of drugs",
+      "notes": "notes/unit-12.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "morphology-seeds-fruits",
+      "title": "Morphology of seeds and fruits: Ispaghula, Coriander, Fennel, Cardamom, Nutmeg, Black Pepper, Gokhru",
+      "file": "practicals/morphology-seeds-fruits.md"
+    },
+    {
+      "id": "morphology-leaves-flowers-herbs",
+      "title": "Morphology of leaves, flower buds and herbs: Senna, Clove, Ephedra, Punarnava",
+      "file": "practicals/morphology-leaves-flowers-herbs.md"
+    },
+    {
+      "id": "morphology-barks-underground-agar",
+      "title": "Morphology of barks, underground parts and agar: Cinnamon, Cinchona, Ginger, Rauwolfia, Agar",
+      "file": "practicals/morphology-barks-underground-agar.md"
+    },
+    {
+      "id": "ts-leaves",
+      "title": "Transverse section of leaves: Datura and Vasaka",
+      "file": "practicals/ts-leaves.md"
+    },
+    {
+      "id": "ts-fruits-seeds",
+      "title": "Transverse section of fruits and seeds: Ajwain, Coriander and Nux-vomica",
+      "file": "practicals/ts-fruits-seeds.md"
+    },
+    {
+      "id": "ts-clove",
+      "title": "Transverse section of clove (flower bud)",
+      "file": "practicals/ts-clove.md"
+    },
+    {
+      "id": "ts-barks",
+      "title": "Transverse section of barks: Cinnamon and Cinchona",
+      "file": "practicals/ts-barks.md"
+    },
+    {
+      "id": "ts-roots-rhizomes",
+      "title": "Transverse section of roots, stolons and rhizomes: Ashwagandha, Liquorice and Curcuma",
+      "file": "practicals/ts-roots-rhizomes.md"
+    },
+    {
+      "id": "tests-gums-gelatin",
+      "title": "Physical and chemical tests: Acacia, Tragacanth, Agar, Guar gum and Gelatine",
+      "file": "practicals/tests-gums-gelatin.md"
+    },
+    {
+      "id": "tests-asafoetida-benzoin",
+      "title": "Physical and chemical tests: Asafoetida and Benzoin",
+      "file": "practicals/tests-asafoetida-benzoin.md"
+    },
+    {
+      "id": "tests-catechu",
+      "title": "Physical and chemical tests: Pale catechu and Black catechu",
+      "file": "practicals/tests-catechu.md"
+    },
+    {
+      "id": "tests-castor-oil",
+      "title": "Physical and chemical tests: Castor oil",
+      "file": "practicals/tests-castor-oil.md"
+    }
+  ]
+}

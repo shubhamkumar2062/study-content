@@ -1,0 +1,53 @@
+{
+  "tests": [
+    {
+      "id": "hptsb-er20-full",
+      "title": "Full mock paper (80 marks, 3 hours)",
+      "patternSource": "PCI ER-2020 D.Pharm board theory paper scheme as used by HPTSB: 80 marks, 3 hours (plus 20 sessional marks). Section A 20 objective questions × 1 mark; Section B short answers, answer 10 of 11, × 3 marks; Section C long answers, answer 6 of 7, × 5 marks. Confirm the pattern with your college.",
+      "durationMinutes": 180,
+      "totalMarks": 80,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Section A: Objective questions (answer all)",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        },
+        {
+          "id": "b",
+          "title": "Section B: Short answers (answer any 10)",
+          "source": "short",
+          "marksEach": 3,
+          "count": 11,
+          "attempt": 10
+        },
+        {
+          "id": "c",
+          "title": "Section C: Long answers (answer any 6)",
+          "source": "long",
+          "marksEach": 5,
+          "count": 7,
+          "attempt": 6
+        }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Objective questions",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        }
+      ]
+    }
+  ]
+}

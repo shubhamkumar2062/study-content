@@ -1,0 +1,1355 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight of each chapter and the kind of questions commonly set in D.Pharm Pharmacognosy papers. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define pharmacognosy. Describe its history and the present status and scope of pharmacognosy.",
+      "answer": "1. Definition: pharmakon (drug) + gnosis (knowledge); study of crude drugs of plant, animal and mineral origin — identification, cultivation, collection, constituents, evaluation, preservation and uses. Term used by Schmidt (1811) and Seydler (1815, Analectica Pharmacognostica).\n2. History: Vedas, Charaka Samhita (medicine) and Sushruta Samhita (surgery) in India; Shen Nung's herbal in China; Ebers papyrus (Egypt, about 1550 BC); Hippocrates (father of medicine), Theophrastus (father of botany), Dioscorides (De Materia Medica, about 600 plants), Galen (galenicals); Avicenna (Canon of Medicine); 19th century isolation of morphine and quinine; penicillin 1928; reserpine, vinca alkaloids, artemisinin.\n3. Present status: WHO notes wide dependence on traditional medicine; many modern drugs are plant-derived (digoxin, morphine, quinine, reserpine, vincristine, taxol, artemisinin); AYUSH ministry and herbal industry; quality problems (adulteration, heavy metals); modern tools (HPTLC, HPLC, DNA barcoding); conservation of over-collected plants.\n4. Scope: identification of crude drugs, detection of adulteration, standardisation, discovery of new drugs, semi-synthesis starting materials, pharmaceutical aids, herbal formulations, nutraceuticals and cosmetics, cultivation and biotechnology, export."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a short note on the scope of pharmacognosy.",
+      "answer": "Identification of genuine crude drugs; detection of adulteration; standardisation and quality control (ash, extractive, assay); source of new drugs (vincristine, artemisinin); starting materials for semi-synthesis (diosgenin → steroids, podophyllotoxin → etoposide); pharmaceutical aids (acacia, tragacanth, beeswax); herbal formulations, nutraceuticals and cosmetics; cultivation, tissue culture and conservation; scientific study of traditional systems; export of herbal products."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the contribution of Hippocrates, Dioscorides, Galen and Avicenna to pharmacognosy.",
+      "answer": "Hippocrates — father of medicine; treated disease as a natural process and used herbs. Dioscorides — Greek physician, wrote De Materia Medica (1st century AD) describing about 600 plants; used for over 1,500 years. Galen — prepared extracts and mixtures of plant drugs; such preparations are called galenicals. Avicenna (Ibn Sina) — wrote the Canon of Medicine, the basis of the Unani system."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give the present status of pharmacognosy with examples of plant-derived modern drugs.",
+      "answer": "Herbal medicine is widely used worldwide and in India under AYUSH. Many modern drugs come from plants: digoxin (Digitalis lanata, heart failure), morphine and codeine (opium), quinine (cinchona, malaria), reserpine (rauwolfia, hypertension), vincristine and vinblastine (Catharanthus, cancer), paclitaxel (Taxus, cancer), artemisinin (Artemisia annua, malaria), ephedrine (ephedra, asthma). Current focus: standardisation, safety, modern analytical methods and conservation."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a note on the history of pharmacognosy in ancient India.",
+      "answer": "Rigveda and Atharvaveda mention medicinal plants; Atharvaveda is the root of Ayurveda. Charaka Samhita covers internal medicine with hundreds of plant drugs. Sushruta Samhita covers surgery (Sushruta: father of Indian surgery). Vagbhata wrote Ashtanga Hridaya. Long-used Indian plants: turmeric, neem, tulsi, ginger, black pepper, rauwolfia, ashwagandha."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define pharmacognosy.",
+      "answer": "Pharmacognosy is the study of crude drugs of natural (plant, animal, mineral) origin — their identification, constituents, evaluation, preservation and uses. From Greek pharmakon (drug) and gnosis (knowledge)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who coined the term pharmacognosy?",
+      "answer": "J. A. Schmidt used it in 1811, and C. A. Seydler used it as the title of his work Analectica Pharmacognostica in 1815."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a crude drug? Give two examples.",
+      "answer": "A natural substance of plant, animal or mineral origin that has only been collected and dried, not further processed. Examples: senna leaves, cinchona bark."
+    },
+    {
+      "id": "u1-v04",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are galenicals?",
+      "answer": "Preparations such as tinctures and extracts made by extracting or mixing crude drugs, named after the Greek physician Galen."
+    },
+    {
+      "id": "u1-v05",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is the Ebers papyrus?",
+      "answer": "An ancient Egyptian medical scroll (about 1550 BC) listing many remedies made from drugs such as aloe, castor oil, opium and myrrh."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify crude drugs. Explain the different systems of classification with examples, merits and demerits.",
+      "answer": "1. Alphabetical — drugs in A–Z order of Latin or English names; used in IP, BP, USP. Merits: quick reference, easy to add drugs. Demerits: no link between drugs, no information on source or action.\n2. Taxonomical — by kingdom, order, family, genus (Solanaceae: belladonna, datura; Rubiaceae: cinchona, ipecac). Merits: shows natural relationship. Demerits: drugs with different actions together; changes in taxonomy.\n3. Morphological — by part used: organised (leaves: senna; barks: cinnamon; roots: rauwolfia; seeds: nutmeg) and unorganised (gums: acacia; resins: benzoin; latex: opium; oils: castor oil). Merits: helps identification. Demerits: ignores chemistry and action.\n4. Pharmacological — by action (laxatives: senna; cardiotonics: digitalis; carminatives: clove). Merits: most useful to pharmacists. Demerits: one drug may have many actions.\n5. Chemical — by main constituent (alkaloids: cinchona; glycosides: senna; tannins: catechu; volatile oils: clove). Merits: helps assay and research. Demerits: drugs with several groups.\n6. Chemo-taxonomical — related plants contain related chemicals (tropane alkaloids in Solanaceae). Merits: helps classification and new drug search. Demerits: exceptions (caffeine in unrelated plants), needs analysis."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on morphological classification of crude drugs with examples.",
+      "answer": "Basis: part of plant or animal used. Organised drugs (cellular): leaves — senna, digitalis; flower buds — clove; fruits — coriander, fennel; seeds — ispaghula, nutmeg; barks — cinnamon, cinchona; roots — rauwolfia, ipecac; rhizomes — ginger, turmeric; herbs — vinca; sclerotium — ergot. Unorganised drugs (non-cellular): latex — opium; dried juice — aloe; extracts — catechu, agar; gums — acacia, tragacanth; resins and balsams — benzoin, tolu; oleo-gum-resins — asafoetida; oils — castor oil; waxes — beeswax. Merit: identification. Demerit: no information on chemistry or action."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Explain chemical classification of crude drugs with merits and demerits.",
+      "answer": "Basis: main active chemical. Alkaloids — cinchona, opium, rauwolfia; anthraquinone glycosides — senna, aloe; cardiac glycosides — digitalis, squill; saponins — liquorice; tannins — catechu, myrobalan, galls; volatile oils — clove, cinnamon, fennel; resins — benzoin, tolu; carbohydrates — acacia, agar; lipids — castor oil, beeswax; enzymes — papain, pancreatin. Merits: explains action, helps chemical evaluation and research. Demerits: drugs containing more than one group are difficult to place; structures of some actives unknown."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is chemo-taxonomical classification? Give examples.",
+      "answer": "Classification that uses chemical constituents together with taxonomy, based on the idea that related plants make related compounds (chemosystematics). Examples: tropane alkaloids in Solanaceae (belladonna, datura, hyoscyamus); indole alkaloids in Apocynaceae (rauwolfia, vinca); cardiac glycosides in Scrophulariaceae and Apocynaceae; volatile oil in vittae in Umbelliferae. Merits: settles doubtful plant positions, guides new drug search. Demerit: exceptions such as caffeine in unrelated plants."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Compare pharmacological and taxonomical classification of drugs.",
+      "answer": "Pharmacological: based on therapeutic action (laxatives — senna, aloe; cardiotonics — digitalis; antimalarials — cinchona). Most useful to pharmacists; but one drug may have several actions. Taxonomical: based on botanical family, genus and species (Solanaceae — belladonna, ashwagandha; Zingiberaceae — ginger, turmeric). Shows natural relationship; but drugs with very different actions fall together and plant classification keeps changing."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are organised and unorganised drugs? Give one example each.",
+      "answer": "Organised drugs have a cellular structure and are direct plant/animal parts (senna leaf). Unorganised drugs are non-cellular products such as gums, resins, latex and oils (acacia, opium)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which system of classification is followed in pharmacopoeias?",
+      "answer": "The alphabetical system (drugs arranged A to Z by name)."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give two demerits of alphabetical classification.",
+      "answer": "It shows no relationship between drugs, and gives no information about source, part used, constituents or action."
+    },
+    {
+      "id": "u2-v04",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name the family of ginger and write its order.",
+      "answer": "Family Zingiberaceae; order Zingiberales (Scitamineae)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define adulteration. Describe the different methods of adulteration of crude drugs with suitable examples.",
+      "answer": "1. Definition: substituting the genuine drug fully or partly with inferior, cheaper, exhausted, harmful or useless material, or mixing such material with it; deliberate or accidental.\n2. Reasons: high price, scarcity, similar appearance, confusion of names, careless collection, poor storage.\n3. Methods:\n(a) Inferior commercial varieties — Cassia auriculata for senna; Amomum for cardamom; cassia bark for cinnamon.\n(b) Artificially manufactured substitutes — paraffin wax coloured as beeswax; artificial invert sugar for honey.\n(c) Exhausted drugs — exhausted ginger and clove.\n(d) Superficially similar cheaper material — papaya seeds in black pepper.\n(e) Worthless heavy material — stones in asafoetida, sand and lead in opium.\n(f) Synthetic principles — citral added to lemon oil, benzyl benzoate to balsams.\n(g) Vegetative parts of the same plant — clove stalks, senna stems.\n(h) Harmful adulterants — metanil yellow or lead chromate in turmeric.\n(i) Deteriorated, mouldy or insect-damaged drugs.\n4. Sophistication: skilful deliberate adulteration, especially of powders."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is evaluation of crude drugs? Describe the various methods of evaluation.",
+      "answer": "1. Evaluation = confirming identity and determining quality and purity; needed because of natural variation, effect of drying/storage and adulteration.\n2. Morphological (organoleptic): colour, odour, taste, size, shape, surface, fracture (aromatic clove, bitter cinchona, quills of cinnamon).\n3. Microscopical: TS, powder characters (trichomes, stomata, fibres, stone cells, crystals, starch); staining (phloroglucinol–HCl for lignin, iodine for starch); quantitative — stomatal number, stomatal index S/(S+E)×100, palisade ratio, vein-islet and vein termination number; micrometry; lycopodium spore method.\n4. Physical: moisture content, ash values (total, acid-insoluble, water-soluble, sulphated), extractive values (alcohol, water, ether), volatile oil content, swelling factor, viscosity, melting point, refractive index, optical rotation, foaming index, UV fluorescence.\n5. Chemical: identification tests (Borntrager's, Keller–Killiani, murexide), assays of active constituents, chemical constants (acid, saponification, iodine values), chromatography.\n6. Biological: bioassay when chemical assay is not possible — digitalis on pigeon/frog, ergot; also microbial counts, aflatoxins, pesticides, heavy metals."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on ash values and extractive values.",
+      "answer": "Ash values: residue after incinerating the drug at about 450 °C. Total ash — all inorganic matter. Acid-insoluble ash — residue after boiling total ash with dilute HCl; shows sand and earth. Water-soluble ash — water-soluble part of total ash; helps detect exhausted drugs. Sulphated ash — drug treated with H2SO4 before ignition. Extractive values: percentage of drug soluble in a solvent — alcohol-soluble (resins, alkaloids, glycosides), water-soluble (tannins, sugars, mucilage), ether-soluble (oils). Low values suggest exhausted or adulterated drug."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on quantitative microscopy (leaf constants).",
+      "answer": "Stomatal number — average number of stomata per sq. mm of epidermis. Stomatal index — SI = S ÷ (S + E) × 100, S stomata and E epidermal cells in the same area; fairly constant for a species. Palisade ratio — average number of palisade cells under one epidermal cell. Vein-islet number — number of vein islets per sq. mm. Vein termination number — vein endings per sq. mm. Used to distinguish related species such as Indian and Alexandrian senna. Also micrometry and lycopodium spore method."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Explain the lycopodium spore method.",
+      "answer": "Used to find the percentage of a genuine drug in a powder. Lycopodium spores are very uniform in size and number (about 94,000 per mg). A known weight of the sample is mixed with a known weight of lycopodium; the mixture is mounted and the characteristic particles of the drug (e.g. starch grains, cells) and the spores are counted in several fields. From the ratio and the known number of spores, the amount of genuine drug is calculated. Useful for powdered drugs."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the importance of organoleptic evaluation with examples.",
+      "answer": "Uses sense organs — colour (pale green senna, reddish-brown cinchona), odour (aromatic clove, garlic-like asafoetida), taste (bitter aloe, pungent ginger, sweet liquorice), size and shape (nail-shaped clove 10–17.5 mm), surface and fracture (fibrous cinchona, short rauwolfia), special features (quills of cinnamon, asymmetric senna base). Quick, cheap, first step of identification and detects gross adulteration."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define stomatal index and give its formula.",
+      "answer": "Percentage of stomata out of the total number of epidermal cells and stomata in a unit area. SI = S ÷ (S + E) × 100."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the adulterant of black pepper.",
+      "answer": "Dried papaya seeds (Carica papaya)."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What does acid-insoluble ash indicate?",
+      "answer": "The amount of silica, sand and earthy matter, i.e. soil contamination of the drug."
+    },
+    {
+      "id": "u3-v04",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two drugs evaluated by bioassay.",
+      "answer": "Digitalis and ergot."
+    },
+    {
+      "id": "u3-v05",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is sophistication?",
+      "answer": "A deliberate and skilful form of adulteration in which an imitation is made to closely resemble the genuine drug, mostly in powders."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define alkaloids. Give their occurrence, classification, general method of isolation, identification tests and therapeutic uses.",
+      "answer": "1. Definition: basic, nitrogen-containing organic compounds of plant origin, usually with N in a heterocyclic ring, with marked physiological action; mostly bitter, crystalline; free bases soluble in organic solvents, salts in water.\n2. Occurrence: mostly dicots (Solanaceae, Papaveraceae, Apocynaceae, Rubiaceae, Leguminosae); in leaves, bark, roots, seeds, latex; as salts of plant acids (meconic, quinic).\n3. Classification: tropane (atropine, cocaine), quinoline (quinine), isoquinoline (morphine, emetine), indole (reserpine, vincristine, ergometrine), purine (caffeine), imidazole (pilocarpine), quinazoline (vasicine), protoalkaloids (ephedrine, colchicine).\n4. Isolation: powder + alkali (lime/ammonia) → extract with chloroform → shake with dilute acid (alkaloid salts into water) → basify with ammonia → extract with chloroform → evaporate → purify by crystallisation/chromatography.\n5. Tests: Mayer's (cream), Dragendorff's (orange-red), Wagner's (reddish-brown), Hager's (yellow), tannic acid (buff); caffeine by murexide test.\n6. Uses: morphine analgesic, codeine antitussive, quinine antimalarial, quinidine antiarrhythmic, reserpine antihypertensive, atropine antispasmodic, cocaine local anaesthetic, caffeine stimulant, ephedrine bronchodilator, vincristine anticancer, ergometrine oxytocic, emetine amoebicide, colchicine gout."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define glycosides. Classify them with examples and describe the identification tests for anthraquinone, cardiac, saponin and cyanogenetic glycosides.",
+      "answer": "1. Definition: compounds of a sugar (glycone) linked by a glycosidic bond to a non-sugar aglycone; hydrolysed by acid or enzymes; aglycone decides action.\n2. By linkage: O-glycosides (sennosides), C-glycosides (barbaloin), S-glycosides (sinigrin), N-glycosides (nucleosides).\n3. By aglycone: anthraquinone (senna, aloe), cardiac (digitalis, squill), saponin (liquorice, arjuna), cyanogenetic (bitter almond — amygdalin), isothiocyanate (mustard), flavonoid (rutin), coumarin (psoralea), phenol (salicin, arbutin).\n4. Tests: Borntrager's — boil with dilute H2SO4, extract with benzene/chloroform, add ammonia → pink-red (anthraquinones); modified Borntrager's with FeCl3 for C-glycosides. Keller–Killiani — glacial acetic acid + trace FeCl3, conc. H2SO4 underlaid → reddish-brown ring, bluish-green upper layer (deoxy-sugars); Legal's and Baljet's for cardenolides. Saponins — foam test (stable froth), haemolysis. Cyanogenetic — sodium picrate paper turns brick-red.\n5. Uses: cardiotonics, purgatives, expectorants, steroid precursors, capillary protectives."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are volatile oils? Describe their occurrence, methods of isolation, tests and uses.",
+      "answer": "1. Definition: odorous, oily plant liquids that evaporate at room temperature and distil with steam; mixtures of terpenes and phenylpropanoids.\n2. Differences from fixed oils: not glycerides, no permanent grease spot, steam-volatile, usually not saponifiable.\n3. Occurrence: glandular hairs (Labiatae — tulsi, lavender), oil cells (Zingiberaceae, Lauraceae — ginger, cinnamon), vittae (Umbelliferae — fennel, coriander), oil glands (Myrtaceae, Rutaceae — clove, orange); in flowers, fruits, seeds, leaves, bark, wood, rhizomes.\n4. Isolation: hydro/steam distillation (clove, eucalyptus); expression — ecuelle and sponge methods (citrus); enfleurage (jasmine, rose); solvent extraction; supercritical CO2.\n5. Tests: Sudan III and tincture of alkanna stain oil red; spot on paper evaporates; physical constants (specific gravity, refractive index, optical rotation).\n6. Uses: carminatives, flavours, perfumes, antiseptics, counter-irritants, dental analgesic (clove oil), insect repellents."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on tannins: classification and tests.",
+      "answer": "Tannins are polyphenols that precipitate proteins and tan hide; astringent. Hydrolysable — esters of gallic/ellagic acid with sugar; give pyrogallol on heating; blue-black with FeCl3 (galls, myrobalan). Condensed (phlobatannins) — flavan-3-ol polymers; give catechol and red phlobaphenes; greenish-black with FeCl3 (catechu, cinchona, tea). Pseudotannins — gallic acid, catechin. Tests: FeCl3, gelatin (precipitate), Goldbeater's skin test, lead acetate, bromine water (condensed), vanillin–HCl (catechins), matchstick test. Uses: astringent in diarrhoea, burns, piles, antidote in alkaloid poisoning."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Classify terpenoids with examples and give tests for them.",
+      "answer": "Built from isoprene (C5) units — isoprene rule. Hemiterpenes C5 (isoprene); monoterpenes C10 (menthol, camphor, citral, linalool); sesquiterpenes C15 (zingiberene, artemisinin); diterpenes C20 (taxol, phytol); triterpenes C30 (squalene, glycyrrhetinic acid, gymnemic acids); tetraterpenes C40 (carotenoids); polyterpenes (rubber). Tests: Salkowski — chloroform extract + conc. H2SO4 → reddish-brown at junction; Liebermann–Burchard — acetic anhydride + H2SO4 → colours ending blue-green."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Classify resins with examples and give their properties.",
+      "answer": "Resins: amorphous solids or semi-solids from oxidised terpenes; insoluble in water, soluble in alcohol, ether, chloroform; burn with smoky flame. Classes: resins (colophony, podophyllum resin); oleoresins (copaiba, turpentine, ginger oleoresin); gum resins (ammoniacum); oleo-gum-resins (asafoetida, myrrh, guggul); balsams — contain benzoic or cinnamic acid (benzoin, tolu, Peru). Obtained by incision, extraction or as distillation residue. Uses: expectorants, antiseptic inhalations, wart removers, carminatives, hypolipidaemic (guggul)."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give general tests for alkaloids with composition of reagents.",
+      "answer": "Mayer's reagent (potassium mercuric iodide) — cream precipitate. Dragendorff's reagent (potassium bismuth iodide) — orange-red precipitate. Wagner's reagent (iodine in potassium iodide) — reddish-brown precipitate. Hager's reagent (saturated picric acid) — yellow precipitate. Tannic acid — buff precipitate. Done on an acidic extract of the drug. Caffeine does not respond well; use murexide test."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the isoprene rule?",
+      "answer": "Terpenoids are built from isoprene (C5H8, 2-methyl-1,3-butadiene) units joined head to tail."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is Borntrager's test used for?",
+      "answer": "Detection of anthraquinone glycosides (senna, aloe) — pink to red colour in the ammonia layer."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a balsam? Give an example.",
+      "answer": "A resin containing benzoic and/or cinnamic acid or their esters, e.g. benzoin, tolu balsam."
+    },
+    {
+      "id": "u4-v04",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the methods used to isolate volatile oils.",
+      "answer": "Steam/hydro-distillation, expression (ecuelle, sponge), enfleurage, solvent extraction and supercritical CO2 extraction."
+    },
+    {
+      "id": "u4-v05",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is a C-glycoside? Give an example.",
+      "answer": "A glycoside in which the sugar is joined directly to a carbon of the aglycone; it resists acid hydrolysis. Example: barbaloin of aloe."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the biological source, family, geographical source, chemical constituents, uses and adulterants of senna and digitalis.",
+      "answer": "Senna: synonyms Sonamukhi. Dried leaflets of Cassia angustifolia Vahl (Indian/Tinnevelly) and Cassia acutifolia Delile (Alexandrian); Leguminosae. Tamil Nadu, Gujarat, Rajasthan; Sudan, Egypt. Constituents: sennosides A and B (dianthrone glycosides), sennosides C and D, rhein and aloe-emodin glycosides, kaempferol, mucilage. Uses: stimulant purgative; bowel preparation. Adulterants: Cassia auriculata (Palthe senna — red with 80% H2SO4), Cassia obovata. Test: Borntrager's — pink.\nDigitalis: foxglove. Dried leaves of Digitalis purpurea Linn., dried below 60 °C; Scrophulariaceae (Plantaginaceae). England, Europe; India — Kashmir, Nilgiris, Darjeeling. Constituents: cardiac glycosides — purpurea glycosides A and B, digitoxin, gitoxin, gitaloxin; D. lanata gives digoxin; saponins. Uses: congestive heart failure, atrial fibrillation. Adulterants: Verbascum thapsus, Symphytum officinale, Primula leaves. Test: Keller–Killiani; potency by bioassay."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the biological source, constituents and uses of any four carminatives.",
+      "answer": "Coriander — dried ripe fruits of Coriandrum sativum, Umbelliferae; volatile oil with linalool; carminative, flavour.\nFennel — dried ripe fruits of Foeniculum vulgare, Umbelliferae; volatile oil with anethole and fenchone; carminative, gripe water.\nCardamom — dried ripe seeds of Elettaria cardamomum var. minuscula, Zingiberaceae; oil with 1,8-cineole and α-terpinyl acetate; carminative, stomachic; adulterant Amomum species.\nGinger — dried rhizome of Zingiber officinale, Zingiberaceae; volatile oil (zingiberene), gingerols, shogaols, starch; carminative, antiemetic; adulterant exhausted ginger.\nClove — dried flower buds of Syzygium aromaticum, Myrtaceae; volatile oil 15–20% with eugenol; dental analgesic, antiseptic; adulterants stalks, mother cloves.\nCinnamon — dried inner bark of Cinnamomum zeylanicum, Lauraceae; cinnamaldehyde, eugenol; carminative; adulterant cassia bark.\n(Any four with heading-wise details.)"
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the biological source, chemical constituents, uses and tests of cinchona and opium.",
+      "answer": "Cinchona: dried bark of cultivated Cinchona calisaya, C. ledgeriana, C. officinalis, C. succirubra or hybrids; Rubiaceae. Native to the Andes; cultivated in Java, India (Nilgiris, Mungpoo). Constituents: quinoline alkaloids quinine, quinidine, cinchonine, cinchonidine; cinchotannic acid, quinic acid, cinchona red. Uses: quinine antimalarial and bitter; quinidine antiarrhythmic. Tests: thalleioquin (bromine water + ammonia → emerald green); blue fluorescence of quinine in dilute H2SO4; Grahe's test (red vapours on heating). Adulterant: Remijia (cuprea) bark.\nOpium: dried latex from incised unripe capsules of Papaver somniferum; Papaveraceae. India (licensed — MP, Rajasthan, UP), Turkey. Constituents: about 25 alkaloids as meconates — morphine (about 10%), codeine, thebaine, papaverine, noscapine, narceine; meconic acid; resin, sugars. Uses: morphine analgesic, codeine antitussive, papaverine antispasmodic, noscapine antitussive, antidiarrhoeal. Test: aqueous extract + FeCl3 → deep red not removed by HCl (meconic acid). Adulterants: starch, sand, other latices."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give an account of drugs acting on the nervous system containing tropane alkaloids (belladonna, hyoscyamus, coca).",
+      "answer": "Belladonna: dried leaves and flowering tops of Atropa belladonna (European) or A. acuminata (Indian); Solanaceae. Europe, Kashmir, Himachal. Hyoscyamine (main), atropine, hyoscine; scopoletin. Uses: antispasmodic, preanaesthetic, mydriatic, antidote to organophosphates. Adulterants Phytolacca, Ailanthus. Test: Vitali–Morin (violet).\nHyoscyamus: dried leaves and flowering tops of Hyoscyamus niger; Solanaceae. Europe, Himalayas. Hyoscyamine, hyoscine, atropine. Uses: antispasmodic in colic, sedative, motion sickness (hyoscine). Vitali–Morin positive.\nCoca: dried leaves of Erythroxylum coca and E. truxillense; Erythroxylaceae. Peru, Bolivia. Cocaine (methyl benzoyl ecgonine), cinnamoyl cocaine, truxillines, hygrine. Uses: surface local anaesthetic, CNS stimulant; drug of abuse. Leaf shows two curved lines beside midrib."
+    },
+    {
+      "id": "u5-l05",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the source, constituents and uses of any five pharmaceutical aids.",
+      "answer": "Acacia — dried gummy exudate of Acacia senegal, Leguminosae; arabin (Ca, Mg, K salts of arabic acid), oxidase; emulsifier, binder.\nTragacanth — exudate of Astragalus gummifer, Leguminosae; tragacanthin and bassorin; suspending agent.\nAgar — from red algae Gelidium amansii, Gracilaria; agarose and agaropectin; culture media, laxative.\nSodium alginate — from brown algae (Macrocystis, Laminaria); mannuronic and guluronic acid polymer; thickener, haemostatic dressings.\nGuar gum — seed endosperm of Cyamopsis tetragonolobus, Leguminosae; galactomannan; thickener, binder.\nGelatin — partial hydrolysis of collagen from ox/pig; protein (glycine, proline, hydroxyproline); capsules, suppositories.\nLanolin — wool fat of Ovis aries; esters of cholesterol and other alcohols; ointment base.\nBeeswax — honeycomb of Apis mellifera; myricyl palmitate, cerotic acid; stiffening agent; adulterant paraffin.\nKaolin — hydrated aluminium silicate; adsorbent, diluent."
+    },
+    {
+      "id": "u5-l06",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe rauwolfia and vinca with biological source, constituents and uses.",
+      "answer": "Rauwolfia (Sarpagandha): dried roots of Rauwolfia serpentina Benth. ex Kurz; Apocynaceae. India (sub-Himalaya, Bihar, UP, Assam), Bangladesh, Thailand. Indole alkaloids: reserpine, rescinnamine, deserpidine, ajmaline, ajmalicine, serpentine, yohimbine. Uses: hypertension (reserpine depletes noradrenaline), tranquilliser, ajmaline antiarrhythmic. Adulterants: other Rauwolfia species.\nVinca (Sadabahar): dried whole plant of Catharanthus roseus (L.) G. Don (Vinca rosea); Apocynaceae. Native to Madagascar; throughout India. Dimeric indole alkaloids vinblastine and vincristine; ajmalicine, serpentine, vindoline, catharanthine. Uses: vincristine — childhood acute leukaemia; vinblastine — Hodgkin's disease; ajmalicine — hypotensive."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the biological source, constituents and uses of clove.",
+      "answer": "Clove (laung): dried flower buds of Syzygium aromaticum (Eugenia caryophyllus), Myrtaceae. Zanzibar, Madagascar, Indonesia, Kerala. Volatile oil 15–20% with eugenol (70–90%), acetyl eugenol, β-caryophyllene; tannins. Uses: dental analgesic (clove oil), antiseptic, carminative, flavour. Adulterants: clove stalks, mother cloves, blown cloves, exhausted cloves. Good cloves sink in water."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on ispaghula.",
+      "answer": "Synonym: Isabgol. Dried ripe seeds of Plantago ovata Forsk.; husk used separately. Plantaginaceae. Gujarat, Rajasthan, MP; India is main producer and exporter. Constituents: mucilage in seed coat (xylose, arabinose, galacturonic acid), fixed oil, protein, aucubin. Uses: bulk laxative, diarrhoea, IBS, lowering cholesterol, demulcent. Evaluated by swelling factor; boat-shaped seeds."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Give the biological source, constituents and uses of black pepper. Name its adulterant.",
+      "answer": "Dried unripe fruits of Piper nigrum Linn., Piperaceae. Kerala (Malabar), Karnataka, Indonesia. Constituents: piperine (pungent alkaloid), chavicine, piperidine, volatile oil 1–2.5%, resin, starch. Uses: carminative, stomachic, condiment, bioavailability enhancer, part of Trikatu. Adulterant: dried papaya seeds (also exhausted pepper). White pepper = ripe fruit with pericarp removed."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on ergot.",
+      "answer": "Dried sclerotium of the fungus Claviceps purpurea Tulasne developed in the ovary of rye, Secale cereale; Clavicipitaceae. Spain, Portugal, Central Europe; artificial cultivation. Constituents: ergometrine (water-soluble), ergotamine, ergotoxine group (ergocristine, ergocornine, ergocryptine); histamine, tyramine, acetylcholine. Uses: ergometrine — postpartum haemorrhage; ergotamine — migraine; bromocriptine (semi-synthetic). Test: van Urk's reagent → blue. Ergotism from contaminated bread."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the biological source, constituents and uses of aloe.",
+      "answer": "Dried latex/juice of leaves of Aloe barbadensis (Curaçao), A. ferox (Cape), A. perryi (Socotrine); Liliaceae. West Indies, South Africa, Socotra; India (Gujarat, Rajasthan). Constituents: anthraquinone C-glycosides barbaloin (aloin), isobarbaloin, aloe-emodin, aloesin, resin. Uses: purgative; the separate leaf gel for burns and cosmetics. Tests: modified Borntrager's (pink after FeCl3 hydrolysis); borax test (green fluorescence)."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate black catechu and pale catechu.",
+      "answer": "Black catechu: dried aqueous extract of heartwood of Acacia catechu, Leguminosae; India, Myanmar; catechutannic acid, catechin, quercetin; dark brown-black; gambir-fluorescein test negative. Pale catechu (gambir): dried aqueous extract of leaves and young shoots of Uncaria gambier, Rubiaceae; Malaysia, Indonesia; catechins, catechutannic acid, gambir-fluorescein; pale brown cubes; alcoholic extract + NaOH shaken with petroleum ether → green fluorescence. Both astringents, both give matchstick test."
+    },
+    {
+      "id": "u5-s07",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the source, constituents and uses of ephedra.",
+      "answer": "Dried young stems of Ephedra gerardiana, E. sinica, E. equisetina; Ephedraceae (Gnetaceae). China, Himalayas (Sikkim, Kashmir), Pakistan. Protoalkaloids ephedrine (main), pseudoephedrine, norephedrine. Uses: bronchodilator in asthma, nasal decongestant (pseudoephedrine), CNS stimulant, pressor agent in hypotension. N is not in a ring, so general alkaloid reagents respond poorly."
+    },
+    {
+      "id": "u5-s08",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on ipecacuanha.",
+      "answer": "Dried roots or rhizomes and roots of Cephaelis ipecacuanha (Brazilian/Rio) and C. acuminata (Cartagena); Rubiaceae. Brazil, Colombia; India (near Darjeeling). Isoquinoline alkaloids emetine, cephaeline, psychotrine; ipecacuanhin; starch; raphides. Uses: emetine in amoebic dysentery; small dose expectorant; large dose emetic. Annulated roots. Adulterants: Psychotria emetica, Richardsonia scabra."
+    },
+    {
+      "id": "u5-s09",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give the source, constituents and uses of turmeric.",
+      "answer": "Dried, boiled rhizomes of Curcuma longa (C. domestica); Zingiberaceae. Telangana, Andhra Pradesh, Tamil Nadu (Erode), Maharashtra. Curcuminoids 3–5% (curcumin, demethoxy- and bisdemethoxycurcumin), volatile oil (turmerone, ar-turmerone, zingiberene), starch. Uses: antiseptic, anti-inflammatory, antioxidant, hepatoprotective, cosmetic, colour and spice. Tests: alkali → reddish-brown; boric acid → orange-red. Adulterants: other Curcuma species, metanil yellow, lead chromate."
+    },
+    {
+      "id": "u5-s10",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on artemisia as an antimalarial.",
+      "answer": "Dried leaves and flowering tops of Artemisia annua (sweet wormwood, qinghao); Compositae. China, Vietnam; cultivated in India. Artemisinin — sesquiterpene lactone with endoperoxide bridge (needed for action); artemisinic acid, flavonoids, volatile oil. Derivatives artesunate, artemether, arteether used against chloroquine-resistant P. falciparum as ACT. A. maritima gives santonin (anthelmintic)."
+    },
+    {
+      "id": "u5-s11",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the biological source, constituents and uses of podophyllum.",
+      "answer": "Dried rhizomes and roots of Podophyllum hexandrum Royle (Indian) and P. peltatum (American); Berberidaceae. Himalayas; eastern USA and Canada. Resin podophyllin containing podophyllotoxin, 4'-demethylpodophyllotoxin, α- and β-peltatins (American). Indian drug gives more resin. Uses: podophyllin paint for warts; etoposide and teniposide (semi-synthetic anticancer). Endangered due to over-collection."
+    },
+    {
+      "id": "u5-s12",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on gymnema and pterocarpus as antidiabetics.",
+      "answer": "Gymnema (gurmar): dried leaves of Gymnema sylvestre, Asclepiadaceae; central and south India. Gymnemic acids (triterpene saponins), gurmarin, flavonoids. Antidiabetic; abolishes sweet taste temporarily. Pterocarpus (vijaysar): heartwood of Pterocarpus marsupium, Leguminosae; central and south India. (−)-Epicatechin, pterostilbene, marsupin, pterosupin; kino tannins in gum. Antidiabetic — water kept in heartwood tumblers drunk; kino astringent."
+    },
+    {
+      "id": "u5-s13",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the source, constituents and uses of benzoin.",
+      "answer": "Balsamic resin from incised stems of Styrax benzoin and S. paralleloneurus (Sumatra) or S. tonkinensis (Siam); Styracaceae. Sumatra: free benzoic and cinnamic acids, coniferyl cinnamate, vanillin, sumaresinolic acid. Siam: coniferyl benzoate, benzoic acid, vanillin, no cinnamic acid. Uses: compound benzoin tincture (Friar's balsam) inhalation and skin protective, antiseptic, preservative (benzoinated lard), incense. Tests: sublimate of benzoic acid on heating; benzaldehyde odour with KMnO4 (Sumatra only)."
+    },
+    {
+      "id": "u5-s14",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on enzymes: papain, diastase, pancreatin and yeast.",
+      "answer": "Papain: dried latex of unripe fruits of Carica papaya (Caricaceae); papain, chymopapain; digestive, meat tenderiser, wound debridement. Diastase: from malt (germinated barley, Hordeum vulgare) or Aspergillus oryzae; amylases; starch → dextrin + maltose; digestive. Pancreatin: from pancreas of hog or ox; amylase, trypsin, lipase; pancreatic insufficiency (enteric-coated). Yeast: cells of Saccharomyces cerevisiae; B vitamins, protein, ergosterol, zymase, invertase; nutritional supplement and fermentation."
+    },
+    {
+      "id": "u5-s15",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give the biological source, constituents and uses of cod liver oil and shark liver oil.",
+      "answer": "Cod liver oil: fixed oil from fresh livers of Gadus morhua and other Gadus species (Gadidae); Norway, Iceland, Newfoundland. Vitamins A and D, glycerides of unsaturated acids incl. EPA and DHA, cholesterol. Uses: vitamin A and D deficiency, omega-3 source. Test: in chloroform + conc. H2SO4 → transient violet. Shark liver oil: livers of Hypoprion brevirostris, Galeocerdo tigrinus etc. (Carcharhinidae); Indian coasts. Richer in vitamin A, vitamin D, squalene, alkoxyglycerols. Uses: vitamin A source, supplement."
+    },
+    {
+      "id": "u5-s16",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the source, constituents and uses of ashwagandha and guggul.",
+      "answer": "Ashwagandha: dried roots of Withania somnifera (L.) Dunal, Solanaceae; Madhya Pradesh (Mandsaur, Neemuch), Rajasthan. Withanolides (withaferin A), alkaloids (withanine, somniferine). Uses: adaptogen, rasayana, anti-stress, tonic, sedative, anti-inflammatory. Guggul: oleo-gum-resin from bark of Commiphora wightii (C. mukul), Burseraceae; Rajasthan, Gujarat. Guggulsterones Z and E, volatile oil, gum, resin. Uses: hypolipidaemic, arthritis, obesity (Yogaraj guggulu)."
+    },
+    {
+      "id": "u5-s17",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a note on galls.",
+      "answer": "Nutgalls (Majuphal): pathological outgrowths on young twigs of Quercus infectoria (Fagaceae) caused by eggs of the gall wasp Adleria gallae-tinctoriae (Cynipidae). Turkey, Syria, Iran (Aleppo). Tannic acid (gallotannic acid) 50–70%, gallic acid, ellagic acid, starch. Uses: source of tannic acid, astringent (gall ointment for piles), ink, tanning, dyeing."
+    },
+    {
+      "id": "u5-s18",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the source, constituents and uses of vasaka and tolu balsam.",
+      "answer": "Vasaka: leaves of Adhatoda vasica (Justicia adhatoda), Acanthaceae; throughout India. Vasicine, vasicinone, volatile oil. Expectorant, bronchodilator; bromhexine and ambroxol derived from vasicine. Tolu balsam: balsam from incised trunk of Myroxylon balsamum, Leguminosae; Colombia, Venezuela. Benzyl benzoate, benzyl cinnamate, free cinnamic and benzoic acids, vanillin. Expectorant and flavour (syrup of tolu), in compound benzoin tincture. KMnO4 warming → benzaldehyde odour."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the biological source of clove.",
+      "answer": "Dried flower buds of Syzygium aromaticum (L.) Merr. & Perry (Eugenia caryophyllus), family Myrtaceae."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the chief constituent and use of rauwolfia.",
+      "answer": "Reserpine (indole alkaloid); used in hypertension and as a tranquilliser."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name two alkaloids of opium and their uses.",
+      "answer": "Morphine — analgesic; codeine — antitussive (also papaverine — smooth-muscle relaxant)."
+    },
+    {
+      "id": "u5-v04",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the biological source of ergot?",
+      "answer": "Dried sclerotium of the fungus Claviceps purpurea developed in the ovary of rye (Secale cereale)."
+    },
+    {
+      "id": "u5-v05",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the active principles of vinca and their uses.",
+      "answer": "Vincristine — acute leukaemia in children; vinblastine — Hodgkin's disease."
+    },
+    {
+      "id": "u5-v06",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the chemical test for caffeine?",
+      "answer": "Murexide test: caffeine + KClO3 + HCl evaporated; residue gives purple colour with ammonia."
+    },
+    {
+      "id": "u5-v07",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the biological source of black catechu.",
+      "answer": "Dried aqueous extract of the heartwood of Acacia catechu Willd., family Leguminosae."
+    },
+    {
+      "id": "u5-v08",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the thalleioquin test?",
+      "answer": "Test for quinine/quinidine: solution + bromine water + ammonia gives an emerald green colour."
+    },
+    {
+      "id": "u5-v09",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the active constituent of artemisia.",
+      "answer": "Artemisinin (qinghaosu), a sesquiterpene lactone endoperoxide."
+    },
+    {
+      "id": "u5-v10",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is mace?",
+      "answer": "The dried arillus of the nutmeg seed (Myristica fragrans)."
+    },
+    {
+      "id": "u5-v11",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Give the chemical constituents of guar gum.",
+      "answer": "Galactomannan (guaran) — mannose backbone with galactose side chains, about 2 : 1."
+    },
+    {
+      "id": "u5-v12",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Give two uses of gelatin in pharmacy.",
+      "answer": "Hard and soft capsule shells; glycerogelatin suppositories (also haemostatic sponge, tablet binder)."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the source, preparation, chemical nature, identification tests and uses of absorbent cotton.",
+      "answer": "1. Source: epidermal trichomes (hairs) of seeds of Gossypium herbaceum, G. hirsutum, G. barbadense; Malvaceae. India (Gujarat, Maharashtra, Telangana), USA, China, Egypt.\n2. Preparation: ginning (lint separated from seeds) → boiling with dilute NaOH under pressure to remove wax and fat (makes it absorbent) → bleaching with sodium hypochlorite → washing with dilute acid and water → drying → carding → packing and sterilisation.\n3. Chemical nature: almost pure cellulose (about 90%).\n4. Microscopy: single-celled, flattened, twisted tubes with narrow lumen.\n5. Tests: iodine + 80% H2SO4 → blue; dissolves in cuprammonium and conc. H2SO4; no pink with phloroglucinol–HCl (no lignin); burns with smell of burning paper; sinks quickly in water (absorbency).\n6. Uses: absorbent dressings, swabs, pads, gauze, bandages, filtering, packing tablets."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are sutures and ligatures? Classify them and describe surgical catgut.",
+      "answer": "1. Suture — strand used to stitch wound edges; ligature — strand used to tie blood vessels or ducts.\n2. Ideal suture: strong, sterile, easy to tie, knot-secure, little tissue reaction, absorbed after healing (absorbable types).\n3. Classification: absorbable — catgut (plain, chromic), reconstituted collagen, polyglycolic acid, polyglactin 910, polydioxanone; non-absorbable — silk, linen, cotton, nylon, polyester, polypropylene, stainless steel wire; monofilament vs multifilament.\n4. Catgut: sterile collagen strands from the submucosa of the small intestine of healthy sheep (Ovis aries) or serosa of cattle intestine.\n5. Preparation: intestines cleaned → mucous, muscular and serous layers scraped off → submucosa treated with dilute alkali → split and twisted into strands → dried under tension, polished, graded → sterilised (gamma irradiation) and packed in preserving fluid.\n6. Types: plain (absorbed faster) and chromic (treated with chromium salts; slower absorption, less reaction).\n7. Tests: sterility, tensile strength, diameter, length, soluble chromium.\n8. Uses: internal stitching, tying small vessels."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on surgical catgut.",
+      "answer": "Sterile absorbable strands of collagen from the submucosa of sheep small intestine (or serosa of cattle intestine). Prepared by scraping off other layers, alkali treatment, splitting, twisting, drying under tension, polishing, grading, sterilising and packing in preserving fluid. Plain catgut is absorbed faster; chromic catgut (chromium-treated) more slowly with less tissue reaction. Tested for sterility, tensile strength, diameter. Used for internal sutures and ligatures."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate cotton, silk and wool.",
+      "answer": "Cotton — seed hairs of Gossypium (Malvaceae); cellulose; flat twisted ribbons; burns like paper; blue with iodine + H2SO4; insoluble in boiling 5% KOH. Silk — cocoon filament of Bombyx mori; protein fibroin + sericin; smooth glassy threads; burnt-hair smell; no sulphur; dissolves in conc. HCl. Wool — sheep hair; keratin with sulphur (cystine); scaly surface; burnt-hair smell; dissolves in boiling 5% KOH; black with lead acetate + NaOH."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on regenerated fibres.",
+      "answer": "Made by dissolving natural cellulose (wood pulp, cotton linters) and extruding through spinnerets into a setting bath. Viscose rayon: cellulose → alkali cellulose (NaOH) → cellulose xanthate (CS2) → extruded into dilute H2SO4 → regenerated cellulose filaments; smooth striated rods; blue with iodine + H2SO4; weak when wet; used in gauze, swabs, sanitary pads. Others: cellulose acetate (soluble in acetone), oxidised cellulose (absorbable haemostatic), calcium alginate fibre (haemostatic)."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the source, chemical nature, tests and uses of wool.",
+      "answer": "Hair from the fleece of sheep Ovis aries (Bovidae); Australia, New Zealand, India. Scoured to remove grease (lanolin recovered). Keratin protein rich in cystine (sulphur). Microscopy: overlapping scales, medulla in coarse fibres. Tests: burnt-hair smell; dissolves in boiling 5% KOH; lead acetate + NaOH → black (PbS); Millon's red. Uses: crepe and elastic bandages, warm coverings."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate suture and ligature.",
+      "answer": "A suture stitches the edges of a wound; a ligature ties a blood vessel or duct to stop bleeding."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the source of surgical catgut?",
+      "answer": "Collagen of the submucosa of the small intestine of healthy sheep (Ovis aries), or serosa of cattle intestine."
+    },
+    {
+      "id": "u6-v03",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is chromic catgut?",
+      "answer": "Catgut treated with chromium salts so that it is absorbed more slowly and causes less tissue reaction."
+    },
+    {
+      "id": "u6-v04",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is raw cotton made absorbent?",
+      "answer": "Raw cotton has natural wax and fat that repel water; boiling with dilute alkali removes them so it absorbs fluids."
+    },
+    {
+      "id": "u6-v05",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name the proteins of silk.",
+      "answer": "Fibroin (fibre) and sericin (silk gum)."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the basic principles of Ayurveda.",
+      "answer": "1. Meaning: Ayu (life) + veda (knowledge); from Atharvaveda; texts — Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya (Brihat Trayi).\n2. Panchamahabhuta: prithvi (earth), jala (water), teja (fire), vayu (air), akasha (space) make up body and drugs.\n3. Tridosha: vata (air + space — movement), pitta (fire + water — digestion, metabolism), kapha (earth + water — structure, lubrication); balance = health, imbalance = disease.\n4. Sapta dhatu: rasa, rakta, mamsa, meda, asthi, majja, shukra.\n5. Mala: purisha, mutra, sweda.\n6. Agni (digestive fire) and ama (toxic undigested matter).\n7. Prakriti: individual constitution.\n8. Drug properties: rasa (six tastes), guna, virya, vipaka, prabhava.\n9. Treatment: shodhana (panchakarma — vamana, virechana, basti, nasya, raktamokshana), shamana, rasayana, diet and routine (dinacharya, ritucharya)."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the method of preparation of asava, arishta and bhasma.",
+      "answer": "1. Asava and arishta: self-fermented alcoholic preparations made by fermenting drug liquids with sugar/jaggery. Asava uses fresh juice or cold infusion (no boiling; e.g. Kumaryasava, Kanakasava); arishta uses decoction (e.g. Dashmularishta, Ashokarishta).\nMethod: prepare juice/decoction → dissolve jaggery/sugar/honey and filter → add Dhataki (Woodfordia fruticosa) flowers as fermenting agent and powdered prakshepa drugs → fill in clean earthen pot or wooden vat (smoked or ghee-coated), seal → keep for the prescribed time (about a month) → end point: no hissing, no bubbles, matchstick keeps burning at the mouth, liquid clear with characteristic odour → filter, settle, decant, bottle. Alcohol preserves it.\n2. Bhasma: calcined metals/minerals/animal products. Shodhana — purification by repeated heating and quenching in liquids (cow urine, buttermilk, oil, juices). Marana — grinding with herbal juices (bhavana), making cakes, sealing in earthen saucers (sharava samputa), heating in puta (gaja puta), repeated many times; then fine powdering. Tests: rekhapurnatva, varitara, nishchandratva, apunarbhava, nirutha. Examples: swarna, abhraka, lauha, shankha, praval bhasma."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the basic principles of Unani and Homoeopathy.",
+      "answer": "Unani: Greek origin (Hippocrates, Galen), developed by Avicenna and Rhazes. Arkan — four elements (fire, air, water, earth); mizaj — temperament (hot, cold, wet, dry); akhlat — four humours dam (blood, hot-moist), balgham (phlegm, cold-moist), safra (yellow bile, hot-dry), sauda (black bile, cold-dry); health = balance; tabiyat — body's self-healing power; six essentials (air, food and drink, movement and rest, mental activity, sleep, elimination). Treatment: ilaj-bil-tadbeer (regimental), ilaj-bil-ghiza (diet), ilaj-bil-dawa (drugs), ilaj-bil-yad (surgery).\nHomoeopathy: Samuel Hahnemann (1796). Law of similars (similia similibus curentur); drug proving on healthy humans; single remedy; minimum dose; potentisation by succussion and trituration (X and C scales, mother tincture); vital force; individualisation; miasms (psora, sycosis, syphilis)."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate asava and arishta.",
+      "answer": "Both are self-fermented alcoholic Ayurvedic liquids using jaggery/sugar and Dhataki flowers. Asava — prepared from fresh juice or cold infusion; drugs not boiled; e.g. Kumaryasava, Kanakasava. Arishta — prepared from a decoction (kwatha) of drugs; e.g. Dashmularishta, Ashokarishta, Arjunarishta. Both are kept sealed till fermentation ends, then filtered and stored; alcohol formed during fermentation extracts and preserves."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Describe the method of preparation of taila (medicated oil).",
+      "answer": "Prepared by sneha paka: oil + kalka (drug paste) + drava (decoction/juice/milk), usual ratio kalka : oil : drava = 1 : 4 : 16. Heat on mild fire with stirring till water evaporates and actives pass into oil. End point: kalka forms non-sticky wick (varti), no crackling when kalka is burnt, froth subsides. Paka stages: mridu (nasal), madhyama (internal), khara (external). Filter warm, add perfume if required. Examples: Mahanarayan taila, Bhringaraj taila, Anu taila."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the method of preparation of churna and gutika.",
+      "answer": "Churna: clean and dry drugs → powder separately → sieve fine → mix in stated proportion → pack airtight (e.g. Triphala, Sitopaladi churna). Gutika/vati: fine powders mixed with binder (honey, jaggery syrup, guggulu, juice or decoction) and levigated (bhavana) → rolled into pills or compressed → shade dried → stored airtight (e.g. Chitrakadi vati, Chandraprabha vati, Arogyavardhini vati)."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the method of preparation of lehya (avaleha).",
+      "answer": "Semi-solid jam-like preparation. Prepare decoction or juice → add jaggery/sugar, dissolve and filter → heat on mild fire to proper consistency (thread formation; sinks in water without spreading) → add ghee/oil and fine powders with stirring → cool and add honey (not heated) → fill in wide-mouth containers. Examples: Chyawanprash, Agastya haritaki rasayana, Kushmanda rasayana."
+    },
+    {
+      "id": "u7-s05",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the basic principles of the Siddha system.",
+      "answer": "Tamil system credited to 18 Siddhars (Agastya). Body made of five elements governed by three humours vatham, pitham, kapham. 96 thathuvas (principles) and seven physical constituents. Diagnosis by eight-fold examination (envagai thervu) — pulse, tongue, colour, voice, eyes, touch, urine, stools; pulse most important. Extensive use of purified metals and minerals with herbs; kayakalpa (rejuvenation); varmam therapy. Forms: chendooram, parpam, kudineer, legiyam, thailam."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is tridosha?",
+      "answer": "The three functional forces of Ayurveda — vata, pitta and kapha; their balance is health and imbalance is disease."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who founded homoeopathy? State its basic law.",
+      "answer": "Samuel Hahnemann (1796); law of similars — similia similibus curentur (likes are cured by likes)."
+    },
+    {
+      "id": "u7-v03",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the four humours of Unani medicine.",
+      "answer": "Dam (blood), balgham (phlegm), safra (yellow bile) and sauda (black bile)."
+    },
+    {
+      "id": "u7-v04",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the fermenting agent used in asava and arishta.",
+      "answer": "Flowers of Dhataki, Woodfordia fruticosa."
+    },
+    {
+      "id": "u7-v05",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is rekhapurnatva?",
+      "answer": "A test for bhasma: the fine powder fills the lines of the fingertip when rubbed."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the role of medicinal and aromatic plants in the national economy and their export potential.",
+      "answer": "1. India: mega-biodiversity country, varied climates, old traditional systems; thousands of plants used.\n2. Economic role: income for farmers (isabgol, senna, mint, ashwagandha, aloe, lemongrass) and tribal collectors (harad, amla, gums, honey); jobs in processing and industry; raw material for AYUSH, pharma (sennosides, reserpine, diosgenin, quinine), nutraceuticals, cosmetics, food and perfumery; low-cost health care; use of wasteland and agroforestry.\n3. Export items: isabgol (India the leading exporter), senna, guar gum, mint oil and menthol, spices (pepper, cardamom, ginger, turmeric), oleoresins, herbal extracts (ashwagandha, curcumin), essential oils, gums, AYUSH products, natural colours.\n4. Agencies: NMPB (2000, AYUSH), Spices Board, Pharmexcil, CSIR–CIMAP, ICAR, state boards; TKDL protects traditional knowledge (turmeric and neem patent cases).\n5. Problems: over-harvesting and rare species, adulteration and residues, poor cultivation practice, middlemen, raw exports, foreign regulations, price fluctuation.\n6. Remedies: cultivation with GACP, conservation, GMP (Schedule T), value addition, contract farming, research."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on export potential of medicinal and aromatic plants in India.",
+      "answer": "India exports isabgol seed and husk (leading producer and exporter), senna leaves and pods, guar gum (largest producer), mint oil and menthol, spices (black pepper, cardamom, ginger, turmeric, cumin), spice oleoresins, standardised herbal extracts, essential oils (lemongrass, palmarosa, vetiver, sandalwood), gums, natural colours and AYUSH formulations. Supported by NMPB, Spices Board, Pharmexcil. Growth needs quality certification, value addition and conservation."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Mention the problems faced by the medicinal plant sector in India and the measures to overcome them.",
+      "answer": "Problems: over-collection from wild (Podophyllum, Rauwolfia), adulteration and poor quality, pesticide and heavy metal residues, lack of cultivation practices and planting material, small scattered growers and middlemen, export of raw herbs instead of value-added products, strict foreign rules, price fluctuation. Measures: cultivation under GACP, in situ and ex situ conservation, pharmacopoeial standards and GMP, testing labs, extraction and finished products, contract farming, research, market information."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the role of National Medicinal Plants Board.",
+      "answer": "Set up in 2000 under the Ministry of AYUSH. Promotes cultivation and conservation of medicinal plants, supply of quality planting material, good agricultural and collection practices, post-harvest management, market linkages and research; coordinates with State Medicinal Plant Boards."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "How do medicinal and aromatic plants provide employment and income?",
+      "answer": "Farmers grow crops such as isabgol, senna, mint, aloe and ashwagandha, often on dry land; tribal people collect forest drugs, gums and honey; workers are employed in drying, grading, extraction, distillation, formulation, packing and marketing; women's self-help groups make herbal powders and oils; export earns foreign exchange."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two medicinal plant products of which India is a leading exporter.",
+      "answer": "Isabgol (psyllium) husk and guar gum (also senna, mint oil)."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is TKDL?",
+      "answer": "Traditional Knowledge Digital Library — a database of Indian traditional knowledge used to prevent wrong patents on it."
+    },
+    {
+      "id": "u8-v03",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is NMPB?",
+      "answer": "National Medicinal Plants Board, set up in 2000 under the Ministry of AYUSH to promote medicinal plants."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define nutraceuticals. Write a brief account of probiotics, prebiotics, dietary fibres and omega-3 fatty acids.",
+      "answer": "1. Nutraceutical (DeFelice, 1989): food or part of food giving medical or health benefits including prevention and treatment of disease; regulated by FSSAI.\n2. Probiotics: live microorganisms which in adequate amounts benefit the host — Lactobacillus acidophilus, L. rhamnosus, Bifidobacterium, Streptococcus thermophilus, Bacillus coagulans, Saccharomyces boulardii; act by competition, lactic acid and bacteriocins, immune modulation; used in antibiotic-associated diarrhoea, IBS, lactose intolerance, vaginal infections.\n3. Prebiotics: non-digestible food ingredients that selectively stimulate beneficial gut bacteria — inulin (chicory, onion, garlic), FOS, GOS, lactulose, resistant starch; improve bowel function and calcium absorption. Synbiotics = both.\n4. Dietary fibres: undigested plant polysaccharides and lignin. Soluble (pectin, gums, psyllium, β-glucan) lower cholesterol and sugar rise; insoluble (cellulose, lignin, bran) relieve constipation; help weight control.\n5. Omega-3 fatty acids: PUFA with first double bond at third carbon from methyl end — ALA (flaxseed, walnut), EPA and DHA (fish oils); lower triglycerides, antiplatelet, anti-inflammatory, brain and eye development."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the source, constituents and health benefits of spirulina, soya and garlic.",
+      "answer": "Spirulina: dried biomass of the blue-green alga Spirulina platensis (Arthrospira) and S. maxima; spiral filaments; protein 55–70% with essential amino acids, phycocyanin, β-carotene, GLA, B vitamins, iron; uses — protein supplement in malnutrition and anaemia, antioxidant, immunity.\nSoya: seeds of Glycine max, Leguminosae; protein about 40%, oil about 20%, isoflavones genistein and daidzein, lecithin, saponins, phytosterols; uses — vegetarian protein, cholesterol lowering, menopausal symptoms, emulsifier, steroid starting material.\nGarlic: bulbs of Allium sativum, Liliaceae; alliin converted by alliinase on crushing to allicin, then diallyl di- and trisulphides, ajoene; uses — hypolipidaemic, antiplatelet, mild antihypertensive, antimicrobial; caution with anticoagulants."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on antioxidants.",
+      "answer": "Free radicals (superoxide, hydroxyl) and ROS damage lipids, proteins and DNA (oxidative stress) — linked to heart disease, cancer, diabetes complications, cataract, ageing. Antioxidants delay or prevent oxidation by neutralising radicals. Types: enzymatic (SOD, catalase, glutathione peroxidase); vitamins C and E; carotenoids; polyphenols — catechins, quercetin, resveratrol, curcumin; selenium, zinc. Sources: amla, green tea, turmeric, tulsi, grapes. Uses: supportive in chronic diseases, skin creams, preservatives in foods and medicines."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate probiotics and prebiotics with examples.",
+      "answer": "Probiotics are live beneficial microorganisms given in adequate amounts (Lactobacillus acidophilus, Bifidobacterium bifidum, Saccharomyces boulardii; curd, yoghurt). Prebiotics are non-digestible food ingredients that feed and selectively stimulate these bacteria in the colon (inulin, fructo-oligosaccharides, galacto-oligosaccharides, lactulose; chicory, onion, garlic, banana). Probiotics prevent antibiotic-associated diarrhoea; prebiotics improve bowel function and calcium absorption. A product containing both is a synbiotic."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on carotenoids.",
+      "answer": "Yellow, orange, red C40 tetraterpenoid pigments. Carotenes (hydrocarbons) — β-carotene, α-carotene, lycopene; xanthophylls (oxygenated) — lutein, zeaxanthin, astaxanthin, capsanthin. Sources: carrot, tomato, marigold, green leaves, red pepper, algae Dunaliella and Haematococcus. Benefits: β-carotene provitamin A (night blindness), antioxidant, lutein/zeaxanthin protect macula, lycopene for prostate and heart, skin protection, natural food colours."
+    },
+    {
+      "id": "u9-s04",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on dietary fibres.",
+      "answer": "Plant food components not digested by human enzymes — non-starch polysaccharides and lignin. Soluble: pectin, gums, mucilage, β-glucan (isabgol, oats, barley, guar, fruits) — lower cholesterol by binding bile acids, slow sugar absorption. Insoluble: cellulose, hemicellulose, lignin (wheat bran, whole grains) — increase stool bulk, relieve constipation. Also aid weight control, reduce diverticular disease and haemorrhoids. Take with plenty of water; may reduce absorption of some drugs."
+    },
+    {
+      "id": "u9-s05",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the health benefits of omega-3 fatty acids.",
+      "answer": "ALA (flaxseed, walnut, mustard oil), EPA and DHA (fish and cod liver oil, algal oil). Lower plasma triglycerides, reduce platelet aggregation and slightly lower blood pressure (cardioprotective), anti-inflammatory in rheumatoid arthritis, DHA needed for brain and retina development in pregnancy and infancy, possible benefit in depression and dry eye."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define nutraceutical.",
+      "answer": "A food or part of a food that provides medical or health benefits, including prevention or treatment of disease (term coined by Stephen DeFelice, 1989)."
+    },
+    {
+      "id": "u9-v02",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define probiotics and give one example.",
+      "answer": "Live microorganisms that, when given in adequate amounts, confer a health benefit on the host; e.g. Lactobacillus acidophilus."
+    },
+    {
+      "id": "u9-v03",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "How is allicin formed in garlic?",
+      "answer": "When garlic is crushed, the enzyme alliinase acts on alliin to form allicin."
+    },
+    {
+      "id": "u9-v04",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the biological source of spirulina.",
+      "answer": "Dried biomass of the blue-green alga (cyanobacterium) Spirulina platensis (Arthrospira platensis) and S. maxima."
+    },
+    {
+      "id": "u9-v05",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name the isoflavones of soya.",
+      "answer": "Genistein and daidzein."
+    },
+    {
+      "id": "u10-l01",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define herbal formulation. Describe the types of herbal formulations and the steps involved in their development and quality control.",
+      "answer": "1. Definition: finished, labelled dosage form containing one or more herbal preparations (powders, extracts, tinctures, oils) as active ingredients, with or without excipients; polyherbal if two or more herbs.\n2. Need: uniform dose, stability, acceptability, bioavailability, commercial QC.\n3. Types: traditional (churna, vati, kwatha, swarasa, asava–arishta, lehya, taila, ghrita, bhasma); modern (tablets, capsules, granules, syrups, tinctures, ointments, creams, gels); novel (phytosomes, liposomes, nanoparticles, microspheres, transdermal patches).\n4. Extraction: infusion, decoction, maceration, percolation, digestion, Soxhlet; ultrasound, microwave, supercritical CO2. Extracts: tincture (1 : 5 or 1 : 10), fluid extract (1 ml = 1 g), soft, dry, standardised.\n5. Development steps: selection → collection and authentication (voucher) → raw material QC → processing and extraction → standardisation by markers (TLC/HPTLC/HPLC) → formulation with excipients → finished product QC → stability → safety and efficacy studies → packaging, labelling, licensing.\n6. QC: identity, physicochemical tests, marker assay, heavy metals, pesticides, microbial load, aflatoxins, stability.\n7. Regulation: Drugs and Cosmetics Act 1940, Schedule T (GMP for ASU), API and AFI, FSSAI for supplements."
+    },
+    {
+      "id": "u10-s01",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on methods of extraction used for herbal drugs.",
+      "answer": "Infusion — soaking in hot/cold water briefly (soft drugs, leaves). Decoction — boiling in water (hard, heat-stable roots and barks). Maceration — soaking in solvent in a closed vessel for days with shaking, then straining and pressing (tinctures). Percolation — slow flow of solvent through packed drug (fluid extracts). Digestion — maceration with gentle heat. Soxhlet — continuous hot extraction with recycled solvent. Modern — ultrasound-assisted, microwave-assisted, supercritical CO2 extraction."
+    },
+    {
+      "id": "u10-s02",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Mention the problems in standardisation of herbal formulations.",
+      "answer": "Herbs contain many compounds and the active one is often unknown; constituents vary with climate, soil, season, harvest, drying and storage; adulteration and substitution of raw material; polyherbal mixtures are hard to analyse; lack of reference standards for markers; contamination with heavy metals, pesticides, microbes and aflatoxins; limited clinical data."
+    },
+    {
+      "id": "u10-s03",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on novel herbal drug delivery systems.",
+      "answer": "Many plant actives (curcumin, flavonoids, silymarin) are poorly absorbed or unstable. Phytosomes — extract complexed with phosphatidylcholine to cross membranes; liposomes — lipid vesicles carrying the active; nanoparticles and nanoemulsions — very small particles for better absorption; microspheres — controlled release; transdermal patches. Benefits: higher bioavailability, lower dose, better stability, targeted or sustained release."
+    },
+    {
+      "id": "u10-s04",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give the advantages and limitations of herbal formulations.",
+      "answer": "Advantages: long traditional use, often well tolerated, useful in chronic disorders and supportive care, widely available and accepted, polyherbal products act on several targets. Limitations: batch-to-batch variation, slow action, limited clinical evidence, risk of adulteration and contamination, herb–drug interactions (garlic/ginkgo with warfarin, St John's wort enzyme induction, isabgol reducing absorption)."
+    },
+    {
+      "id": "u10-v01",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a polyherbal formulation? Give an example.",
+      "answer": "A formulation containing two or more herbs, e.g. Triphala churna."
+    },
+    {
+      "id": "u10-v02",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is Schedule T?",
+      "answer": "The schedule of the Drugs and Cosmetics Rules that lays down Good Manufacturing Practices for Ayurvedic, Siddha and Unani medicines."
+    },
+    {
+      "id": "u10-v03",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate tincture and fluid extract.",
+      "answer": "A tincture is an alcoholic or hydro-alcoholic liquid usually 1 part drug in 5 or 10 parts; in a fluid extract 1 ml corresponds to 1 g of drug."
+    },
+    {
+      "id": "u10-v04",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What are phytosomes?",
+      "answer": "Complexes of herbal extracts or constituents with phospholipid (phosphatidylcholine) that improve absorption."
+    },
+    {
+      "id": "u11-l01",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the source, chemical constituents, commercial preparations and uses of aloe vera gel, almond oil and sandalwood oil.",
+      "answer": "Aloe vera gel: clear mucilaginous gel from inner leaf parenchyma of Aloe barbadensis (A. vera), Liliaceae; must be free of bitter aloin-containing latex; about 99% water, acemannan (acetylated glucomannan), glycoproteins, vitamins A, C, E, enzymes, amino acids; preparations — gels, moisturisers, after-sun lotions, face washes, shampoos; uses — moisturiser, soothing in sunburn and burns, wound healing, hair conditioning.\nAlmond oil: fixed oil expressed from seeds of Prunus amygdalus var. dulcis or amara, Rosaceae; glycerides of oleic (main) and linoleic acids, vitamin E, phytosterols; preparations — baby and massage oils, hair oils, cold cream, moisturisers, lip balms; uses — emollient, carrier oil, ear-wax softener.\nSandalwood oil: steam distilled from heartwood of Santalum album, Santalaceae; Karnataka (Mysore), Tamil Nadu, Kerala; α- and β-santalol (about 90%), santalyl acetate, santalene; preparations — perfumes, attars, soaps, creams, face packs, incense; uses — fragrance fixative, cooling and soothing skin, mild antiseptic. Adulterants: Australian sandalwood oil, cedarwood oil, castor oil."
+    },
+    {
+      "id": "u11-s01",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the source, constituents and uses of lavender oil.",
+      "answer": "Volatile oil obtained by steam distillation of fresh flowering tops of Lavandula angustifolia (L. officinalis), Labiatae; France, Bulgaria, England, Kashmir. Linalyl acetate (main ester), linalool, small cineole and camphor. Preparations: perfumes, colognes, soaps, bath oils, shampoos, aromatherapy oils. Uses: fragrance, calming and sleep aid, mild antiseptic for minor cuts and bites, insect repellent, carminative."
+    },
+    {
+      "id": "u11-s02",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on olive oil as a cosmetic.",
+      "answer": "Fixed oil expressed from ripe fruits of Olea europaea, Oleaceae; Spain, Italy, Greece, Tunisia; virgin oil by mechanical pressing only. Glycerides of oleic acid (55–83%), linoleic, palmitic acids; squalene; polyphenols (hydroxytyrosol, oleuropein); tocopherols. Preparations: creams, lotions, castile soap, hair conditioners, lip balms, massage oils, liniments. Uses: emollient and moisturiser, hair and scalp care, massage, ear-wax softener, ointment base."
+    },
+    {
+      "id": "u11-s03",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the source, constituents and uses of rosemary oil.",
+      "answer": "Volatile oil steam-distilled from flowering tops and leaves of Rosmarinus officinalis, Labiatae; Spain, Tunisia, Morocco, France. 1,8-Cineole, camphor, α-pinene, borneol, bornyl acetate, camphene; leaf extract has rosmarinic and carnosic acids (antioxidants). Preparations: hair tonics, shampoos, colognes, soaps, rubefacient liniments. Uses: stimulates scalp (hair fall, dandruff), rubefacient for muscle pain, fragrance, antimicrobial and antioxidant."
+    },
+    {
+      "id": "u11-s04",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on aloe vera gel.",
+      "answer": "Colourless mucilaginous gel from the inner leaf pulp of Aloe barbadensis (A. vera), Liliaceae; different from the yellow purgative latex, so must be aloin-free. Constituents: water (about 99%), acemannan, glycoproteins, vitamins A, C, E, enzymes, amino acids, minerals. Products: gels, moisturisers, sunburn and after-sun lotions, shampoos, shaving gels. Uses: moisturising, cooling and soothing, burns and wound healing, anti-inflammatory, hair conditioning."
+    },
+    {
+      "id": "u11-s05",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "What are herbal cosmetics? Give their advantages.",
+      "answer": "Cosmetics in which plant materials (oils, gels, extracts, powders) give the main effect, used for cleansing and beautifying skin, hair, mouth and for fragrance. Advantages: generally mild for regular use, natural emollients (almond, olive oil), antioxidant and antimicrobial herbs, pleasant natural fragrance, long traditional acceptance in India. Caution: essential oils can irritate or cause allergy and must be diluted."
+    },
+    {
+      "id": "u11-v01",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the biological source of sandalwood oil.",
+      "answer": "Volatile oil obtained by steam distillation of the heartwood of Santalum album Linn., family Santalaceae."
+    },
+    {
+      "id": "u11-v02",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the chief constituents of lavender oil.",
+      "answer": "Linalyl acetate and linalool."
+    },
+    {
+      "id": "u11-v03",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the main polysaccharide of aloe vera gel?",
+      "answer": "Acemannan (acetylated glucomannan)."
+    },
+    {
+      "id": "u11-v04",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name the main constituents of rosemary oil.",
+      "answer": "1,8-Cineole, camphor and α-pinene (also borneol and bornyl acetate)."
+    },
+    {
+      "id": "u12-l01",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the general method of phytochemical investigation of a crude drug.",
+      "answer": "1. Aim: find, isolate, purify and identify constituents; develop markers; discover drugs.\n2. Selection of plant: traditional use, literature, chemotaxonomy.\n3. Collection and authentication: right part and season; botanist identification; herbarium voucher specimen.\n4. Drying and size reduction: shade/oven drying at controlled temperature; coarse powder.\n5. Extraction: successive solvents of increasing polarity (petroleum ether → chloroform → ethyl acetate → ethanol → water) by maceration, percolation or Soxhlet; modern methods.\n6. Concentration: rotary vacuum evaporator; yield % = dried extract ÷ drug × 100.\n7. Preliminary screening: Dragendorff's (alkaloids), Molisch's (carbohydrates), Borntrager's (anthraquinones), Keller–Killiani (cardiac glycosides), foam test (saponins), Shinoda (flavonoids), FeCl3 (tannins), Salkowski (steroids); TLC profile.\n8. Isolation: partition, crystallisation, distillation, precipitation, sublimation; chromatography — TLC, column, HPTLC, HPLC, GC.\n9. Purification: recrystallisation, sharp melting point, single TLC spot.\n10. Structure: UV, IR, NMR, MS, X-ray.\n11. Biological evaluation: bioassay-guided fractionation."
+    },
+    {
+      "id": "u12-s01",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on preliminary phytochemical screening.",
+      "answer": "Simple tests on extracts to detect groups: alkaloids — Mayer's, Dragendorff's, Wagner's, Hager's; carbohydrates — Molisch's (violet ring), Fehling's/Benedict's (reducing sugars); proteins — biuret, ninhydrin, Millon's; anthraquinones — Borntrager's; cardiac glycosides — Keller–Killiani, Legal's, Baljet's; saponins — foam, haemolysis; flavonoids — Shinoda (Mg + HCl, pink-red); tannins — FeCl3, gelatin; steroids/triterpenes — Salkowski, Liebermann–Burchard; fixed oils — spot test, Sudan III. TLC shows the number of compounds."
+    },
+    {
+      "id": "u12-s02",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on thin layer chromatography.",
+      "answer": "Separation on a thin layer of adsorbent (silica gel) on a glass/aluminium plate (stationary phase) with a solvent system (mobile phase). Sample spotted on start line; plate developed in a closed chamber until solvent nears top; dried; spots seen under UV (254/365 nm), iodine vapour or spray reagents (Dragendorff's, anisaldehyde–H2SO4, FeCl3). Rf = distance of spot ÷ distance of solvent front (0–1). Uses: identification against standards, checking purity, monitoring fractions, fingerprinting of herbal drugs."
+    },
+    {
+      "id": "u12-s03",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Explain successive solvent extraction and the choice of solvents.",
+      "answer": "Same drug powder is extracted in turn with solvents of increasing polarity, usually in a Soxhlet: petroleum ether/hexane (fats, waxes, sterols — defatting), chloroform (free alkaloids, aglycones, terpenoids), ethyl acetate (flavonoid aglycones, phenolics), ethanol/methanol (glycosides, alkaloid salts, tannins), water (sugars, gums, mucilage, polar glycosides). Divides constituents into groups at the start; each extract dried and yield recorded."
+    },
+    {
+      "id": "u12-s04",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the methods used for structure elucidation of isolated compounds.",
+      "answer": "Physical constants (melting point, optical rotation, solubility); chemical tests and derivatives for functional groups; UV–visible spectroscopy (conjugation, chromophores); IR spectroscopy (OH, C=O, NH, C=C groups); NMR (carbon–hydrogen framework); mass spectrometry (molecular weight, fragments); X-ray crystallography (3-D structure); comparison with literature data."
+    },
+    {
+      "id": "u12-v01",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Rf value.",
+      "answer": "Rf = distance travelled by the compound ÷ distance travelled by the solvent front, measured from the start line; it lies between 0 and 1."
+    },
+    {
+      "id": "u12-v02",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a voucher specimen?",
+      "answer": "A dried, labelled herbarium sample of the plant used, kept so that its identity can be checked later."
+    },
+    {
+      "id": "u12-v03",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the test for flavonoids.",
+      "answer": "Shinoda test — extract with magnesium ribbon and conc. HCl gives pink to red colour."
+    },
+    {
+      "id": "u12-v04",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is bioassay-guided fractionation?",
+      "answer": "Testing each fraction for biological activity and following only active fractions to reach the active compound."
+    }
+  ]
+}
