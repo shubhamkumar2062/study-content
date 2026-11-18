@@ -1,0 +1,81 @@
+{
+  "title": "One stream of the catalog (source/catalog/<stream>.json)",
+  "type": "object",
+  "required": ["id", "name", "programmes"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+    "name": { "type": "string", "minLength": 1 },
+    "programmes": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/programme" }
+    }
+  },
+  "definitions": {
+    "source": {
+      "type": "object",
+      "required": ["title"],
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "pattern": "^https://" }
+      }
+    },
+    "programme": {
+      "type": "object",
+      "required": ["id", "name", "level", "examBodyId", "schemes"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+        "name": { "type": "string", "minLength": 1 },
+        "level": { "enum": ["diploma", "undergraduate", "postgraduate"] },
+        "examBodyId": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+        "note": { "type": "string" },
+        "schemes": { "type": "array", "items": { "$ref": "#/definitions/scheme" } }
+      }
+    },
+    "scheme": {
+      "type": "object",
+      "required": ["id", "name", "termKind", "status", "terms"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+        "name": { "type": "string", "minLength": 1 },
+        "termKind": { "enum": ["semester", "year"] },
+        "status": {
+          "description": "confirmed = subject list checked against an official source; to-confirm = written from the published syllabus but not yet checked against the university's current copy; not-sourced = no subject list yet",
+          "enum": ["confirmed", "to-confirm", "not-sourced"]
+        },
+        "syllabusSource": { "$ref": "#/definitions/source" },
+        "note": { "type": "string" },
+        "terms": { "type": "array", "items": { "$ref": "#/definitions/term" } }
+      }
+    },
+    "term": {
+      "type": "object",
+      "required": ["id", "number", "name", "subjects"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "number": { "type": "integer", "minimum": 1, "maximum": 10 },
+        "name": { "type": "string", "minLength": 1 },
+        "subjects": { "type": "array", "items": { "$ref": "#/definitions/subject" } }
+      }
+    },
+    "subject": {
+      "type": "object",
+      "required": ["code", "title", "kind"],
+      "additionalProperties": false,
+      "properties": {
+        "code": { "type": "string", "pattern": "^[A-Za-z0-9()_-]+$" },
+        "title": { "type": "string", "minLength": 1 },
+        "kind": { "enum": ["theory", "practical", "elective", "project", "training", "mandatory", "qualifying"] },
+        "linkedTheory": {
+          "description": "For a practical: code of the theory subject whose pack carries its practical guides",
+          "type": "string"
+        }
+      }
+    }
+  }
+}

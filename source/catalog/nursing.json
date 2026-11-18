@@ -1,0 +1,268 @@
+{
+  "id": "nursing",
+  "name": "Nursing",
+  "programmes": [
+    {
+      "id": "bsc-nursing",
+      "name": "B.Sc Nursing",
+      "level": "undergraduate",
+      "examBodyId": "amru",
+      "schemes": [
+        {
+          "id": "inc2021",
+          "name": "INC 2021 semester syllabus",
+          "termKind": "semester",
+          "status": "to-confirm",
+          "syllabusSource": {
+            "title": "Indian Nursing Council, revised B.Sc Nursing syllabus 2021",
+            "url": "https://www.indiannursingcouncil.org/"
+          },
+          "note": "Course codes are written without spaces (INC writes 'ENGL 101'). Check against AMRU's current scheme before release.",
+          "terms": [
+            {
+              "id": "sem1",
+              "number": 1,
+              "name": "Semester 1",
+              "subjects": [
+                {
+                  "code": "ENGL101",
+                  "title": "Communicative English",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ANAT105",
+                  "title": "Applied Anatomy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "PHYS110",
+                  "title": "Applied Physiology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "SOCI115",
+                  "title": "Applied Sociology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "PSYC120",
+                  "title": "Applied Psychology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-NF(I)125",
+                  "title": "Nursing Foundation I",
+                  "kind": "theory"
+                }
+              ]
+            },
+            {
+              "id": "sem2",
+              "number": 2,
+              "name": "Semester 2",
+              "subjects": [
+                {
+                  "code": "BIOC135",
+                  "title": "Applied Biochemistry",
+                  "kind": "theory"
+                },
+                {
+                  "code": "NUTR140",
+                  "title": "Applied Nutrition and Dietetics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-NF(II)125",
+                  "title": "Nursing Foundation II (including First Aid)",
+                  "kind": "theory"
+                },
+                {
+                  "code": "HNIT145",
+                  "title": "Health/Nursing Informatics and Technology",
+                  "kind": "theory"
+                }
+              ]
+            },
+            {
+              "id": "sem3",
+              "number": 3,
+              "name": "Semester 3",
+              "subjects": [
+                {
+                  "code": "MICR201",
+                  "title": "Applied Microbiology and Infection Control including Safety",
+                  "kind": "theory"
+                },
+                {
+                  "code": "PHAR(I)205",
+                  "title": "Pharmacology I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "PATH(I)210",
+                  "title": "Pathology I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-AHN(I)215",
+                  "title": "Adult Health Nursing I",
+                  "kind": "theory"
+                }
+              ]
+            },
+            {
+              "id": "sem4",
+              "number": 4,
+              "name": "Semester 4",
+              "subjects": [
+                {
+                  "code": "PHAR(II)205",
+                  "title": "Pharmacology II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "PATH(II)210",
+                  "title": "Pathology II and Genetics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-AHN(II)225",
+                  "title": "Adult Health Nursing II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "PROF230",
+                  "title": "Professionalism, Professional Values and Ethics",
+                  "kind": "theory"
+                }
+              ]
+            },
+            {
+              "id": "sem5",
+              "number": 5,
+              "name": "Semester 5",
+              "subjects": [
+                {
+                  "code": "N-CHN(I)301",
+                  "title": "Child Health Nursing I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-MHN(I)305",
+                  "title": "Mental Health Nursing I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-COMH(I)310",
+                  "title": "Community Health Nursing I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "EDUC315",
+                  "title": "Educational Technology / Nursing Education",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-FORN320",
+                  "title": "Introduction to Forensic Nursing and Indian Laws",
+                  "kind": "theory"
+                }
+              ]
+            },
+            {
+              "id": "sem6",
+              "number": 6,
+              "name": "Semester 6",
+              "subjects": [
+                {
+                  "code": "N-CHN(II)301",
+                  "title": "Child Health Nursing II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-MHN(II)305",
+                  "title": "Mental Health Nursing II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "NMLE330",
+                  "title": "Nursing Management and Leadership",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-MIDW(I)335",
+                  "title": "Midwifery / Obstetrics and Gynaecology Nursing I",
+                  "kind": "theory"
+                }
+              ]
+            },
+            {
+              "id": "sem7",
+              "number": 7,
+              "name": "Semester 7",
+              "subjects": [
+                {
+                  "code": "N-COMH(II)401",
+                  "title": "Community Health Nursing II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "NRST405",
+                  "title": "Nursing Research and Statistics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "N-MIDW(II)410",
+                  "title": "Midwifery / Obstetrics and Gynaecology Nursing II",
+                  "kind": "theory"
+                }
+              ]
+            },
+            {
+              "id": "sem8",
+              "number": 8,
+              "name": "Semester 8",
+              "subjects": [
+                {
+                  "code": "INTE415",
+                  "title": "Internship",
+                  "kind": "training"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pb-bsc-nursing",
+      "name": "Post Basic B.Sc Nursing",
+      "level": "undergraduate",
+      "examBodyId": "amru",
+      "schemes": [
+        {
+          "id": "inc",
+          "name": "INC syllabus",
+          "termKind": "year",
+          "status": "not-sourced",
+          "terms": []
+        }
+      ]
+    },
+    {
+      "id": "msc-nursing",
+      "name": "M.Sc Nursing",
+      "level": "postgraduate",
+      "examBodyId": "amru",
+      "schemes": [
+        {
+          "id": "inc",
+          "name": "INC syllabus",
+          "termKind": "year",
+          "status": "not-sourced",
+          "terms": []
+        }
+      ]
+    }
+  ]
+}

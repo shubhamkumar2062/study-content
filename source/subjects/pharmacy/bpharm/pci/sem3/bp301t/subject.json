@@ -1,0 +1,103 @@
+{
+  "code": "BP301T",
+  "title": "Pharmaceutical Organic Chemistry II",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, B.Pharm syllabus, semester 3, BP301T",
+    "url": "https://www.pci.nic.in/"
+  },
+  "practicalCodes": [
+    "BP305P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Benzene and its derivatives",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Phenols, aromatic amines and aromatic acids",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Fats and oils",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Polynuclear hydrocarbons",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Cycloalkanes",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "recrystallisation-mp",
+      "title": "Recrystallisation and melting point",
+      "file": "practicals/recrystallisation-mp.md"
+    },
+    {
+      "id": "steam-distillation",
+      "title": "Steam distillation",
+      "file": "practicals/steam-distillation.md"
+    },
+    {
+      "id": "acid-value",
+      "title": "Acid value of an oil",
+      "file": "practicals/acid-value.md"
+    },
+    {
+      "id": "saponification-value",
+      "title": "Saponification value of an oil",
+      "file": "practicals/saponification-value.md"
+    },
+    {
+      "id": "iodine-value",
+      "title": "Iodine value of an oil (Wijs method)",
+      "file": "practicals/iodine-value.md"
+    },
+    {
+      "id": "benzanilide",
+      "title": "Benzanilide from aniline (benzoylation)",
+      "file": "practicals/benzanilide.md"
+    },
+    {
+      "id": "p-bromoacetanilide",
+      "title": "p-Bromoacetanilide from acetanilide (bromination)",
+      "file": "practicals/p-bromoacetanilide.md"
+    },
+    {
+      "id": "phenylazo-naphthol",
+      "title": "1-Phenylazo-2-naphthol (diazotisation and coupling)",
+      "file": "practicals/phenylazo-naphthol.md"
+    },
+    {
+      "id": "salicylic-acid-hydrolysis",
+      "title": "Salicylic acid from methyl salicylate (hydrolysis)",
+      "file": "practicals/salicylic-acid-hydrolysis.md"
+    },
+    {
+      "id": "dibenzalacetone",
+      "title": "Dibenzalacetone (Claisen–Schmidt condensation)",
+      "file": "practicals/dibenzalacetone.md"
+    }
+  ]
+}

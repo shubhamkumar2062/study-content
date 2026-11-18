@@ -1,0 +1,800 @@
+{
+  "id": "pharmacy",
+  "name": "Pharmacy",
+  "programmes": [
+    {
+      "id": "dpharm",
+      "name": "D.Pharm (Diploma in Pharmacy)",
+      "level": "diploma",
+      "examBodyId": "hptsb",
+      "schemes": [
+        {
+          "id": "er20",
+          "name": "ER-2020 (PCI)",
+          "termKind": "year",
+          "status": "confirmed",
+          "syllabusSource": {
+            "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020) for D.Pharm",
+            "url": "https://www.pci.nic.in/"
+          },
+          "note": "Theory titles match HPTSB's December 2026 D.Pharm date sheet.",
+          "terms": [
+            {
+              "id": "year1",
+              "number": 1,
+              "name": "First year",
+              "subjects": [
+                {
+                  "code": "ER20-11T",
+                  "title": "Pharmaceutics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-12T",
+                  "title": "Pharmaceutical Chemistry",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-13T",
+                  "title": "Pharmacognosy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-14T",
+                  "title": "Human Anatomy and Physiology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-15T",
+                  "title": "Social Pharmacy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-11P",
+                  "title": "Pharmaceutics (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-11T"
+                },
+                {
+                  "code": "ER20-12P",
+                  "title": "Pharmaceutical Chemistry (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-12T"
+                },
+                {
+                  "code": "ER20-13P",
+                  "title": "Pharmacognosy (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-13T"
+                },
+                {
+                  "code": "ER20-14P",
+                  "title": "Human Anatomy and Physiology (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-14T"
+                },
+                {
+                  "code": "ER20-15P",
+                  "title": "Social Pharmacy (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-15T"
+                }
+              ]
+            },
+            {
+              "id": "year2",
+              "number": 2,
+              "name": "Second year",
+              "subjects": [
+                {
+                  "code": "ER20-21T",
+                  "title": "Pharmacology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-22T",
+                  "title": "Community Pharmacy and Management",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-23T",
+                  "title": "Biochemistry and Clinical Pathology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-24T",
+                  "title": "Pharmacotherapeutics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-25T",
+                  "title": "Hospital and Clinical Pharmacy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-26T",
+                  "title": "Pharmacy Law and Ethics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "ER20-21P",
+                  "title": "Pharmacology (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-21T"
+                },
+                {
+                  "code": "ER20-22P",
+                  "title": "Community Pharmacy and Management (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-22T"
+                },
+                {
+                  "code": "ER20-23P",
+                  "title": "Biochemistry and Clinical Pathology (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-23T"
+                },
+                {
+                  "code": "ER20-24P",
+                  "title": "Pharmacotherapeutics (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-24T"
+                },
+                {
+                  "code": "ER20-25P",
+                  "title": "Hospital and Clinical Pharmacy (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "ER20-25T"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bpharm",
+      "name": "B.Pharm (Bachelor of Pharmacy)",
+      "level": "undergraduate",
+      "examBodyId": "hptu",
+      "schemes": [
+        {
+          "id": "pci",
+          "name": "PCI syllabus (semesters 1-8)",
+          "termKind": "semester",
+          "status": "confirmed",
+          "syllabusSource": {
+            "title": "Pharmacy Council of India, B.Pharm course regulations and syllabus",
+            "url": "https://www.pci.nic.in/"
+          },
+          "note": "Theory codes match HPTU's December 2026 date sheet. Students admitted under NEP 2020 from 2026 follow the NEP scheme.",
+          "terms": [
+            {
+              "id": "sem1",
+              "number": 1,
+              "name": "Semester 1",
+              "subjects": [
+                {
+                  "code": "BP101T",
+                  "title": "Human Anatomy and Physiology I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP102T",
+                  "title": "Pharmaceutical Analysis I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP103T",
+                  "title": "Pharmaceutics I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP104T",
+                  "title": "Pharmaceutical Inorganic Chemistry",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP105T",
+                  "title": "Communication Skills",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP106RBT",
+                  "title": "Remedial Biology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP106RMT",
+                  "title": "Remedial Mathematics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP107P",
+                  "title": "Human Anatomy and Physiology I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP101T"
+                },
+                {
+                  "code": "BP108P",
+                  "title": "Pharmaceutical Analysis I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP102T"
+                },
+                {
+                  "code": "BP109P",
+                  "title": "Pharmaceutics I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP103T"
+                },
+                {
+                  "code": "BP110P",
+                  "title": "Pharmaceutical Inorganic Chemistry (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP104T"
+                },
+                {
+                  "code": "BP111P",
+                  "title": "Communication Skills (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP105T"
+                },
+                {
+                  "code": "BP112RBP",
+                  "title": "Remedial Biology (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP106RBT"
+                }
+              ]
+            },
+            {
+              "id": "sem2",
+              "number": 2,
+              "name": "Semester 2",
+              "subjects": [
+                {
+                  "code": "BP201T",
+                  "title": "Human Anatomy and Physiology II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP202T",
+                  "title": "Pharmaceutical Organic Chemistry I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP203T",
+                  "title": "Biochemistry",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP204T",
+                  "title": "Pathophysiology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP205T",
+                  "title": "Computer Applications in Pharmacy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP206T",
+                  "title": "Environmental Sciences",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP207P",
+                  "title": "Human Anatomy and Physiology II (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP201T"
+                },
+                {
+                  "code": "BP208P",
+                  "title": "Pharmaceutical Organic Chemistry I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP202T"
+                },
+                {
+                  "code": "BP209P",
+                  "title": "Biochemistry (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP203T"
+                },
+                {
+                  "code": "BP210P",
+                  "title": "Computer Applications in Pharmacy (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP205T"
+                }
+              ]
+            },
+            {
+              "id": "sem3",
+              "number": 3,
+              "name": "Semester 3",
+              "subjects": [
+                {
+                  "code": "BP301T",
+                  "title": "Pharmaceutical Organic Chemistry II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP302T",
+                  "title": "Physical Pharmaceutics I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP303T",
+                  "title": "Pharmaceutical Microbiology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP304T",
+                  "title": "Pharmaceutical Engineering",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP305P",
+                  "title": "Pharmaceutical Organic Chemistry II (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP301T"
+                },
+                {
+                  "code": "BP306P",
+                  "title": "Physical Pharmaceutics I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP302T"
+                },
+                {
+                  "code": "BP307P",
+                  "title": "Pharmaceutical Microbiology (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP303T"
+                },
+                {
+                  "code": "BP308P",
+                  "title": "Pharmaceutical Engineering (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP304T"
+                }
+              ]
+            },
+            {
+              "id": "sem4",
+              "number": 4,
+              "name": "Semester 4",
+              "subjects": [
+                {
+                  "code": "BP401T",
+                  "title": "Pharmaceutical Organic Chemistry III",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP402T",
+                  "title": "Medicinal Chemistry I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP403T",
+                  "title": "Physical Pharmaceutics II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP404T",
+                  "title": "Pharmacology I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP405T",
+                  "title": "Pharmacognosy and Phytochemistry I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP406P",
+                  "title": "Medicinal Chemistry I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP402T"
+                },
+                {
+                  "code": "BP407P",
+                  "title": "Physical Pharmaceutics II (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP403T"
+                },
+                {
+                  "code": "BP408P",
+                  "title": "Pharmacology I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP404T"
+                },
+                {
+                  "code": "BP409P",
+                  "title": "Pharmacognosy and Phytochemistry I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP405T"
+                }
+              ]
+            },
+            {
+              "id": "sem5",
+              "number": 5,
+              "name": "Semester 5",
+              "subjects": [
+                {
+                  "code": "BP501T",
+                  "title": "Medicinal Chemistry II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP502T",
+                  "title": "Industrial Pharmacy I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP503T",
+                  "title": "Pharmacology II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP504T",
+                  "title": "Pharmacognosy and Phytochemistry II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP505T",
+                  "title": "Pharmaceutical Jurisprudence",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP506P",
+                  "title": "Industrial Pharmacy I (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP502T"
+                },
+                {
+                  "code": "BP507P",
+                  "title": "Pharmacology II (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP503T"
+                },
+                {
+                  "code": "BP508P",
+                  "title": "Pharmacognosy and Phytochemistry II (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP504T"
+                }
+              ]
+            },
+            {
+              "id": "sem6",
+              "number": 6,
+              "name": "Semester 6",
+              "subjects": [
+                {
+                  "code": "BP601T",
+                  "title": "Medicinal Chemistry III",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP602T",
+                  "title": "Pharmacology III",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP603T",
+                  "title": "Herbal Drug Technology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP604T",
+                  "title": "Biopharmaceutics and Pharmacokinetics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP605T",
+                  "title": "Pharmaceutical Biotechnology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP606T",
+                  "title": "Quality Assurance",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP607P",
+                  "title": "Medicinal Chemistry III (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP601T"
+                },
+                {
+                  "code": "BP608P",
+                  "title": "Pharmacology III (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP602T"
+                },
+                {
+                  "code": "BP609P",
+                  "title": "Herbal Drug Technology (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP603T"
+                }
+              ]
+            },
+            {
+              "id": "sem7",
+              "number": 7,
+              "name": "Semester 7",
+              "subjects": [
+                {
+                  "code": "BP701T",
+                  "title": "Instrumental Methods of Analysis",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP702T",
+                  "title": "Industrial Pharmacy II",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP703T",
+                  "title": "Pharmacy Practice",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP704T",
+                  "title": "Novel Drug Delivery System",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP705P",
+                  "title": "Instrumental Methods of Analysis (Practical)",
+                  "kind": "practical",
+                  "linkedTheory": "BP701T"
+                },
+                {
+                  "code": "BP706PS",
+                  "title": "Practice School",
+                  "kind": "training"
+                }
+              ]
+            },
+            {
+              "id": "sem8",
+              "number": 8,
+              "name": "Semester 8",
+              "subjects": [
+                {
+                  "code": "BP801T",
+                  "title": "Biostatistics and Research Methodology",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP802T",
+                  "title": "Social and Preventive Pharmacy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP803ET",
+                  "title": "Pharma Marketing Management",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP804ET",
+                  "title": "Pharmaceutical Regulatory Science",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP805ET",
+                  "title": "Pharmacovigilance",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP806ET",
+                  "title": "Quality Control and Standardization of Herbals",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP807ET",
+                  "title": "Computer Aided Drug Design",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP808ET",
+                  "title": "Cell and Molecular Biology",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP809ET",
+                  "title": "Cosmetic Science",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP810ET",
+                  "title": "Experimental Pharmacology",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP811ET",
+                  "title": "Advanced Instrumentation Techniques",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP812ET",
+                  "title": "Dietary Supplements and Nutraceuticals",
+                  "kind": "elective"
+                },
+                {
+                  "code": "BP813PW",
+                  "title": "Project Work",
+                  "kind": "project"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nep",
+          "name": "NEP 2020 scheme",
+          "termKind": "semester",
+          "status": "to-confirm",
+          "syllabusSource": {
+            "title": "HPTU date sheet, B.Pharmacy & Pharm.D, December 2026 (tentative)",
+            "url": "https://www.himtu.ac.in/sites/default/files/2026-10/211026_Date%20Sheet%20of%20B.Pharmacy%20%26%20%20Pharm.D%20Dec%2C2026%20%281%29.pdf"
+          },
+          "note": "Semester 1 theory papers from HPTU's December 2026 date sheet. Practicals and later semesters not sourced yet.",
+          "terms": [
+            {
+              "id": "sem1",
+              "number": 1,
+              "name": "Semester 1",
+              "subjects": [
+                {
+                  "code": "BP101T",
+                  "title": "Basics of Python Programming for Pharmaceutical Sciences",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP102T",
+                  "title": "General Pharmacy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP103T",
+                  "title": "Healthcare Psychology and Communication Skills",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP104T",
+                  "title": "Human Anatomy, Physiology and Pathophysiology I",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP105T",
+                  "title": "Introduction to Pharmacognosy",
+                  "kind": "theory"
+                },
+                {
+                  "code": "BP106T",
+                  "title": "Pharmaceutical Inorganic and Analytical Chemistry",
+                  "kind": "theory"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpharm-pharmaceutics",
+      "name": "M.Pharm (Pharmaceutics)",
+      "level": "postgraduate",
+      "examBodyId": "hptu",
+      "schemes": [
+        {
+          "id": "pci",
+          "name": "PCI syllabus",
+          "termKind": "semester",
+          "status": "to-confirm",
+          "syllabusSource": {
+            "title": "Pharmacy Council of India, M.Pharm syllabus (Pharmaceutics)",
+            "url": "https://www.pci.nic.in/"
+          },
+          "note": "Semesters 3-4 also have journal club, discussion and research work.",
+          "terms": [
+            {
+              "id": "sem1",
+              "number": 1,
+              "name": "Semester 1",
+              "subjects": [
+                {
+                  "code": "MPH101T",
+                  "title": "Modern Pharmaceutical Analytical Techniques",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH102T",
+                  "title": "Drug Delivery System",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH103T",
+                  "title": "Modern Pharmaceutics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH104T",
+                  "title": "Regulatory Affairs",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH105P",
+                  "title": "Pharmaceutics Practical I",
+                  "kind": "practical"
+                }
+              ]
+            },
+            {
+              "id": "sem2",
+              "number": 2,
+              "name": "Semester 2",
+              "subjects": [
+                {
+                  "code": "MPH201T",
+                  "title": "Molecular Pharmaceutics (Nano Technology and Targeted Drug Delivery Systems)",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH202T",
+                  "title": "Advanced Biopharmaceutics and Pharmacokinetics",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH203T",
+                  "title": "Computer Aided Drug Development",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH204T",
+                  "title": "Cosmetics and Cosmeceuticals",
+                  "kind": "theory"
+                },
+                {
+                  "code": "MPH205P",
+                  "title": "Pharmaceutics Practical II",
+                  "kind": "practical"
+                }
+              ]
+            },
+            {
+              "id": "sem3",
+              "number": 3,
+              "name": "Semester 3",
+              "subjects": [
+                {
+                  "code": "MRM301T",
+                  "title": "Research Methodology and Biostatistics",
+                  "kind": "theory"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pharmd",
+      "name": "Pharm.D (Doctor of Pharmacy)",
+      "level": "postgraduate",
+      "examBodyId": "hptu",
+      "schemes": [
+        {
+          "id": "pci",
+          "name": "PCI syllabus",
+          "termKind": "year",
+          "status": "not-sourced",
+          "terms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "education",
+  "name": "Education",
+  "programmes": [
+    {
+      "id": "bed",
+      "name": "B.Ed (Bachelor of Education)",
+      "level": "undergraduate",
+      "examBodyId": "hpu",
+      "note": "Confirm which university the college's B.Ed is affiliated to before listing subjects.",
+      "schemes": [
+        {
+          "id": "current",
+          "name": "Current scheme",
+          "termKind": "semester",
+          "status": "not-sourced",
+          "terms": []
+        }
+      ]
+    }
+  ]
+}
