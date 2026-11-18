@@ -1,43 +1,35 @@
 {
   "tests": [
     {
-      "id": "hptsb-er20-full",
+      "id": "er20-board-full",
       "title": "Full mock paper (80 marks, 3 hours)",
-      "patternSource": "PCI Education Regulations 2020: each D.Pharm theory paper has 80 marks in the yearly board exam (plus 20 sessional marks), 3 hours. The section split below (10 MCQs, 10 very short, 6 of 8 short, 2 of 3 long) is a sensible paper built for practice; HPTSB's exact split could not be confirmed. Confirm the pattern with your college.",
+      "patternSource": "PCI ER-2020 D.Pharm theory paper as used by state boards (HPTSB in Himachal Pradesh): Section I 20 objective questions of 1 mark, Section II 10 of 11 short answers of 3 marks, Section III 6 of 7 long answers of 5 marks. Confirm the pattern with your college.",
       "durationMinutes": 180,
       "totalMarks": 80,
       "sections": [
         {
           "id": "a",
-          "title": "Section A: Objective questions (answer all)",
+          "title": "Section I: Objective questions (answer all)",
           "source": "mcq",
           "marksEach": 1,
-          "count": 10,
-          "attempt": 10
+          "count": 20,
+          "attempt": 20
         },
         {
           "id": "b",
-          "title": "Section B: Very short answers (answer all)",
-          "source": "very-short",
-          "marksEach": 2,
-          "count": 10,
+          "title": "Section II: Short answers (answer any 10)",
+          "source": "short",
+          "marksEach": 3,
+          "count": 11,
           "attempt": 10
         },
         {
           "id": "c",
-          "title": "Section C: Short answers (answer any 6)",
-          "source": "short",
-          "marksEach": 5,
-          "count": 8,
-          "attempt": 6
-        },
-        {
-          "id": "d",
-          "title": "Section D: Long answers (answer any 2)",
+          "title": "Section III: Long answers (answer any 6)",
           "source": "long",
-          "marksEach": 10,
-          "count": 3,
-          "attempt": 2
+          "marksEach": 5,
+          "count": 7,
+          "attempt": 6
         }
       ]
     },
