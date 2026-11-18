@@ -1,0 +1,774 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Flow in a pipe is laminar when the Reynolds number is below about:",
+      "options": [
+        "2000",
+        "4000",
+        "10,000",
+        "200"
+      ],
+      "correct": 0,
+      "explanation": "Below about 2000 viscous forces dominate and flow is streamline; above about 4000 it is turbulent.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Reynolds number is the ratio of:",
+      "options": [
+        "Gravity to inertial forces",
+        "Viscous to inertial forces",
+        "Inertial to viscous forces",
+        "Pressure to gravity forces"
+      ],
+      "correct": 2,
+      "explanation": "Re = Duρ/µ compares inertial forces with viscous forces.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which flow meter works on the principle of constant pressure drop and variable area?",
+      "options": [
+        "Pitot tube",
+        "Orifice meter",
+        "Venturimeter",
+        "Rotameter"
+      ],
+      "correct": 3,
+      "explanation": "The float in a rotameter rises in a tapered tube until the area matches the flow; the pressure drop stays constant.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The Pitot tube measures:",
+      "options": [
+        "Average velocity",
+        "Local (point) velocity",
+        "Total flow rate",
+        "Viscosity"
+      ],
+      "correct": 1,
+      "explanation": "It converts the kinetic energy at one point into impact pressure, giving the velocity at that point.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Rittinger's law of size reduction applies best to:",
+      "options": [
+        "Mixing of powders",
+        "Coarse crushing",
+        "Fine grinding",
+        "Cutting of fibres"
+      ],
+      "correct": 2,
+      "explanation": "Rittinger's law relates energy to new surface area, which matters most in fine grinding.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A ball mill grinds most efficiently at about:",
+      "options": [
+        "0.5–0.75 of critical speed",
+        "Exactly the critical speed",
+        "Twice the critical speed",
+        "10–20% of critical speed"
+      ],
+      "correct": 0,
+      "explanation": "At this speed balls cascade, giving impact and attrition; at critical speed they stick to the wall.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Which mill is preferred for micronising a thermolabile drug?",
+      "options": [
+        "Edge runner mill",
+        "Hammer mill",
+        "Ball mill",
+        "Fluid energy mill"
+      ],
+      "correct": 3,
+      "explanation": "Expanding compressed gas cools the material, so no heat damage occurs.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The main mechanism of size reduction in a hammer mill is:",
+      "options": [
+        "Compression",
+        "Impact",
+        "Attrition",
+        "Cutting"
+      ],
+      "correct": 1,
+      "explanation": "Fast-moving hammers strike the particles.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "According to IP, a 'fine powder' is one that:",
+      "options": [
+        "Passes completely through sieve 85",
+        "Passes completely through sieve 120",
+        "Passes completely through sieve 22",
+        "Passes completely through sieve 44"
+      ],
+      "correct": 0,
+      "explanation": "Fine powder: all through sieve 85; very fine powder: all through sieve 120.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "A cyclone separator works mainly on:",
+      "options": [
+        "Sieving through a mesh",
+        "Filtration through cloth",
+        "Centrifugal force",
+        "Electrostatic attraction"
+      ],
+      "correct": 2,
+      "explanation": "The tangential inlet sets the gas spinning; particles are thrown to the wall and fall out.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The elutriation tank separates particles according to:",
+      "options": [
+        "Darcy's law",
+        "Fourier's law",
+        "Fick's law",
+        "Stokes' law"
+      ],
+      "correct": 3,
+      "explanation": "Settling velocity, v = d²(ρs − ρf)g/18η, decides which particles settle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Fourier's law deals with heat transfer by:",
+      "options": [
+        "Conduction",
+        "Natural convection",
+        "Forced convection",
+        "Radiation"
+      ],
+      "correct": 0,
+      "explanation": "dQ/dt = −kA dT/dx describes conduction.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Heat transfer by radiation does NOT require:",
+      "options": [
+        "Emissivity",
+        "A temperature difference",
+        "A material medium",
+        "A surface"
+      ],
+      "correct": 2,
+      "explanation": "Radiant energy travels as electromagnetic waves, even through a vacuum.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The value of the Stefan–Boltzmann constant is:",
+      "options": [
+        "6.02 × 10²³ per mole",
+        "8.314 J/mol·K",
+        "1.38 × 10⁻²³ J/K",
+        "5.67 × 10⁻⁸ W/m²·K⁴"
+      ],
+      "correct": 3,
+      "explanation": "σ = 5.67 × 10⁻⁸ W/m²·K⁴ in Q/t = εσAT⁴.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Economy of an evaporator is defined as:",
+      "options": [
+        "Steam used per kg of product",
+        "Kg of water evaporated per kg of steam used",
+        "Area of heating surface per hour",
+        "Kg of feed per hour"
+      ],
+      "correct": 1,
+      "explanation": "Multiple effect evaporators raise economy by reusing vapour heat.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Which evaporator is best for a thermolabile, foaming liquid?",
+      "options": [
+        "Steam jacketed kettle",
+        "Horizontal tube evaporator",
+        "Climbing film evaporator",
+        "Evaporating pan over open fire"
+      ],
+      "correct": 2,
+      "explanation": "The thin rising film gives very short contact time, and high vapour velocity breaks foam.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "A forced circulation evaporator is especially suited to:",
+      "options": [
+        "Viscous and scale-forming liquids",
+        "Volatile oils",
+        "Very small batches",
+        "Thin non-scaling liquids"
+      ],
+      "correct": 0,
+      "explanation": "Pumped high-velocity flow keeps heat transfer high and limits scaling.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "In a multiple effect evaporator, compared with a single effect of equal area per effect:",
+      "options": [
+        "Capacity increases but economy falls",
+        "Neither changes",
+        "Both capacity and economy increase",
+        "Economy increases but capacity stays about the same"
+      ],
+      "correct": 3,
+      "explanation": "The total temperature difference is shared among the effects, so steam is saved but output per hour is not raised.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Steam distillation is used to extract:",
+      "options": [
+        "Alkaloids",
+        "Volatile oils",
+        "Proteins",
+        "Fixed oils"
+      ],
+      "correct": 1,
+      "explanation": "Volatile oils immiscible with water distil with steam below 100 °C.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In molecular distillation, the distance between the evaporating and condensing surfaces is:",
+      "options": [
+        "Less than the mean free path",
+        "Exactly 1 metre",
+        "Unimportant",
+        "Greater than the mean free path"
+      ],
+      "correct": 0,
+      "explanation": "Molecules then reach the condenser without colliding with gas molecules.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Fractional distillation is needed when the liquids:",
+      "options": [
+        "Are thermolabile",
+        "Are immiscible",
+        "Have close boiling points",
+        "Contain non-volatile solids"
+      ],
+      "correct": 2,
+      "explanation": "A fractionating column with reflux gives many vaporisation–condensation stages.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "A heat interchanger transfers heat:",
+      "options": [
+        "By radiation only",
+        "By direct mixing of fluids",
+        "From steam to a liquid",
+        "From one process liquid to another"
+      ],
+      "correct": 3,
+      "explanation": "Interchangers recover heat between process fluids; exchangers use steam or hot gas as the heating medium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "During the constant rate period of drying, the surface of the solid is:",
+      "options": [
+        "Fully wet",
+        "Frozen",
+        "Under vacuum",
+        "Completely dry"
+      ],
+      "correct": 0,
+      "explanation": "Water reaches the surface as fast as it evaporates, so it behaves like free water.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The moisture content at which the constant rate period ends is called:",
+      "options": [
+        "Bound moisture",
+        "Equilibrium moisture content",
+        "Critical moisture content",
+        "Free moisture content"
+      ],
+      "correct": 2,
+      "explanation": "Beyond it, the falling rate period begins.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Free moisture content equals:",
+      "options": [
+        "EMC − bound moisture",
+        "Total moisture + EMC",
+        "Bound moisture only",
+        "Total moisture − EMC"
+      ],
+      "correct": 3,
+      "explanation": "Only moisture above the EMC can be removed under the given air conditions.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Freeze drying removes water by:",
+      "options": [
+        "Boiling",
+        "Sublimation",
+        "Centrifugation",
+        "Filtration"
+      ],
+      "correct": 1,
+      "explanation": "Ice turns directly into vapour under vacuum below the triple point.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "A spray dryer is suitable for heat-sensitive materials because:",
+      "options": [
+        "It uses no air",
+        "It uses very low air temperature",
+        "Drying takes only seconds and evaporation cools the droplet",
+        "It works under vacuum"
+      ],
+      "correct": 2,
+      "explanation": "The short contact time and evaporative cooling protect the product.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A hazard specific to fluidised bed dryers is:",
+      "options": [
+        "Static charge and dust explosion",
+        "Freezing of granules",
+        "Low drying rate",
+        "Melting of the bowl"
+      ],
+      "correct": 0,
+      "explanation": "Moving particles build up static, so the dryer must be earthed.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "A drum dryer transfers heat to the material mainly by:",
+      "options": [
+        "Sublimation",
+        "Radiation",
+        "Convection",
+        "Conduction"
+      ],
+      "correct": 3,
+      "explanation": "The film is in direct contact with the steam-heated drum wall.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Tumbling blenders such as the double cone blender mix mainly by:",
+      "options": [
+        "Convective mixing",
+        "Diffusive mixing",
+        "Kneading",
+        "High shear"
+      ],
+      "correct": 1,
+      "explanation": "Particles move randomly over freshly exposed surfaces as the vessel turns.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The sigma blade mixer is mainly used for:",
+      "options": [
+        "Wet granulation and kneading",
+        "Mixing gases",
+        "Low-viscosity liquids",
+        "Dry powder blending"
+      ],
+      "correct": 0,
+      "explanation": "Two Σ-shaped blades shear and knead heavy wet masses.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "A propeller mixer produces mainly:",
+      "options": [
+        "Tangential flow only",
+        "No flow",
+        "Axial flow",
+        "Radial flow"
+      ],
+      "correct": 2,
+      "explanation": "The angled blades push liquid parallel to the shaft.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The Silverson emulsifier works on the principle of:",
+      "options": [
+        "Ultrasonic waves",
+        "Gravity settling",
+        "Tumbling",
+        "Rotor–stator high shear"
+      ],
+      "correct": 3,
+      "explanation": "A high-speed rotor forces material through a close-fitting stator.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "According to Darcy's equation, the rate of filtration is inversely proportional to:",
+      "options": [
+        "Viscosity of the filtrate",
+        "Permeability",
+        "Filter area",
+        "Pressure difference"
+      ],
+      "correct": 0,
+      "explanation": "V/t = KAΔP/ηL; rate falls as viscosity η and cake thickness L rise.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Kieselguhr is used in filtration as a:",
+      "options": [
+        "Membrane",
+        "Filter medium cloth",
+        "Filter aid",
+        "Flocculating agent"
+      ],
+      "correct": 2,
+      "explanation": "Diatomaceous earth keeps the cake porous and traps fine particles.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In a plate and frame filter press the cake collects in the:",
+      "options": [
+        "Filtrate channel",
+        "Pump",
+        "Plates",
+        "Frames"
+      ],
+      "correct": 3,
+      "explanation": "Hollow frames give space for the cake; grooved plates carry the filtrate away.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The rotary drum filter is a:",
+      "options": [
+        "Batch pressure filter",
+        "Continuous vacuum filter",
+        "Batch centrifugal filter",
+        "Gravity filter"
+      ],
+      "correct": 1,
+      "explanation": "It rotates through filtration, washing, drying and discharge zones continuously under vacuum.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The pore size of a membrane filter used for sterilisation is:",
+      "options": [
+        "5 µm",
+        "1.2 µm",
+        "0.22 µm",
+        "0.01 mm"
+      ],
+      "correct": 2,
+      "explanation": "A 0.22 (or 0.2) µm membrane retains bacteria.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The integrity of a membrane filter is checked by the:",
+      "options": [
+        "Bubble point test",
+        "Pyrogen test",
+        "Leak test of ampoules",
+        "Friability test"
+      ],
+      "correct": 0,
+      "explanation": "The pressure needed to push gas through the wetted membrane reflects its largest pore.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The main reason Seitz asbestos filters are no longer preferred is:",
+      "options": [
+        "They cannot be sterilised",
+        "They work only with oils",
+        "They are too costly",
+        "They shed fibres and adsorb drugs"
+      ],
+      "correct": 3,
+      "explanation": "Asbestos fibres contaminate the product and the pad adsorbs drug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The meta filter is made of:",
+      "options": [
+        "Cellulose acetate film",
+        "Stacked metal rings",
+        "Asbestos pads",
+        "Cotton cloth"
+      ],
+      "correct": 1,
+      "explanation": "Thin stainless steel rings with projections form narrow channels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Centrifugal force acting on a particle is given by:",
+      "options": [
+        "F = mω²r",
+        "F = 6πηrv",
+        "F = PA",
+        "F = mg"
+      ],
+      "correct": 0,
+      "explanation": "m is mass, ω angular velocity, r radius of rotation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The super centrifuge is mainly used for:",
+      "options": [
+        "Sieving powders",
+        "Drying granules",
+        "Separating immiscible liquids and emulsions",
+        "Grinding powders"
+      ],
+      "correct": 2,
+      "explanation": "Its tubular bowl at very high speed separates heavy and light liquid layers.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "A perforated basket centrifuge separates solids by:",
+      "options": [
+        "Evaporation",
+        "Sublimation",
+        "Centrifugal sedimentation",
+        "Centrifugal filtration"
+      ],
+      "correct": 3,
+      "explanation": "Liquid is driven through the cloth-lined perforated wall; solids stay as a cake.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Stainless steel resists corrosion because of a passive film of:",
+      "options": [
+        "Chromium oxide",
+        "Nickel sulfate",
+        "Carbon",
+        "Iron oxide"
+      ],
+      "correct": 0,
+      "explanation": "Chromium forms a thin, self-healing chromium oxide layer.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Grade 316 stainless steel differs from 304 by containing:",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Molybdenum",
+        "Lead"
+      ],
+      "correct": 2,
+      "explanation": "Molybdenum improves resistance to chlorides and pitting.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "In electrochemical corrosion of iron, the anodic reaction is:",
+      "options": [
+        "2H⁺ + 2e⁻ → H2",
+        "Fe³⁺ + e⁻ → Fe²⁺",
+        "O2 + 2H2O + 4e⁻ → 4OH⁻",
+        "Fe → Fe²⁺ + 2e⁻"
+      ],
+      "correct": 3,
+      "explanation": "At the anode the metal is oxidised and dissolves.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Galvanising means coating iron with:",
+      "options": [
+        "Tin",
+        "Zinc",
+        "Chromium",
+        "Copper"
+      ],
+      "correct": 1,
+      "explanation": "Zinc is more active, corrodes first and protects the iron.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Removal of zinc from brass is an example of:",
+      "options": [
+        "Uniform corrosion",
+        "Pitting",
+        "Dezincification (selective leaching)",
+        "Erosion corrosion"
+      ],
+      "correct": 2,
+      "explanation": "One element of the alloy dissolves out selectively.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "In the sacrificial anode method, the metal connected to steel is usually:",
+      "options": [
+        "Magnesium or zinc",
+        "Gold",
+        "Lead",
+        "Copper"
+      ],
+      "correct": 0,
+      "explanation": "These more active metals corrode and keep steel cathodic.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Which plastic is the most chemically inert and used for gaskets and linings?",
+      "options": [
+        "Bakelite",
+        "PVC",
+        "Polystyrene",
+        "PTFE"
+      ],
+      "correct": 3,
+      "explanation": "PTFE resists almost all chemicals and high temperatures.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Attack along the grain boundaries of stainless steel after welding is called:",
+      "options": [
+        "Uniform corrosion",
+        "Intergranular corrosion",
+        "Fretting corrosion",
+        "Galvanic corrosion"
+      ],
+      "correct": 1,
+      "explanation": "Chromium carbides form at grain boundaries; low-carbon L grades prevent it.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Bakelite (phenol–formaldehyde) is an example of a:",
+      "options": [
+        "Thermosetting plastic",
+        "Natural rubber",
+        "Ceramic",
+        "Thermoplastic"
+      ],
+      "correct": 0,
+      "explanation": "Once set by heat, it does not soften again.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Dust-free transfer of powders through closed pipes is done by a:",
+      "options": [
+        "Forklift",
+        "Belt conveyor",
+        "Pneumatic conveyor",
+        "Roller conveyor"
+      ],
+      "correct": 2,
+      "explanation": "Powder is carried by an air stream in closed pipes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "The most important factor in choosing material for product-contact equipment in pharmacy is:",
+      "options": [
+        "Weight of the material",
+        "Magnetic property",
+        "Colour of the material",
+        "Freedom from product contamination"
+      ],
+      "correct": 3,
+      "explanation": "The material must not react with or leach into the product.",
+      "probability": "low"
+    }
+  ]
+}

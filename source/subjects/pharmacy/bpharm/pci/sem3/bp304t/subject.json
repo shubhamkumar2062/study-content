@@ -1,0 +1,118 @@
+{
+  "code": "BP304T",
+  "title": "Pharmaceutical Engineering",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "B.Pharm (PCI syllabus), semester 3: BP304T Pharmaceutical Engineering (Theory) and BP308P Pharmaceutical Engineering (Practical), university copy of the PCI syllabus",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP304T_B.Pharma-pages-17.pdf"
+  },
+  "practicalCodes": [
+    "BP308P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Flow of fluids, size reduction and size separation",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Heat transfer, evaporation and distillation",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Drying and mixing",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Filtration and centrifugation",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Materials of plant construction, corrosion and material handling",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "radiation-constant",
+      "title": "Radiation constant of brass, iron, unpainted and painted glass",
+      "file": "practicals/radiation-constant.md"
+    },
+    {
+      "id": "steam-distillation-efficiency",
+      "title": "Efficiency of steam distillation",
+      "file": "practicals/steam-distillation-efficiency.md"
+    },
+    {
+      "id": "overall-heat-transfer-coefficient",
+      "title": "Overall heat transfer coefficient of a heat exchanger",
+      "file": "practicals/overall-heat-transfer-coefficient.md"
+    },
+    {
+      "id": "drying-curves",
+      "title": "Drying curves of calcium carbonate and starch",
+      "file": "practicals/drying-curves.md"
+    },
+    {
+      "id": "moisture-content-lod",
+      "title": "Moisture content and loss on drying",
+      "file": "practicals/moisture-content-lod.md"
+    },
+    {
+      "id": "humidity-of-air",
+      "title": "Humidity of air: wet and dry bulb, and dew point",
+      "file": "practicals/humidity-of-air.md"
+    },
+    {
+      "id": "pharmaceutical-machinery",
+      "title": "Rotary tablet machine, fluidised bed coater, fluid energy mill and dehumidifier",
+      "file": "practicals/pharmaceutical-machinery.md"
+    },
+    {
+      "id": "sieve-analysis",
+      "title": "Size analysis of tablet granules by sieving",
+      "file": "practicals/sieve-analysis.md"
+    },
+    {
+      "id": "ball-mill-laws",
+      "title": "Laws of size reduction and critical speed of a ball mill",
+      "file": "practicals/ball-mill-laws.md"
+    },
+    {
+      "id": "equipment-demonstration",
+      "title": "Demonstration of colloid mill, planetary mixer, fluidised bed dryer and freeze dryer",
+      "file": "practicals/equipment-demonstration.md"
+    },
+    {
+      "id": "filtration-evaporation-factors",
+      "title": "Factors affecting the rate of filtration and evaporation",
+      "file": "practicals/filtration-evaporation-factors.md"
+    },
+    {
+      "id": "crystallisation-rate",
+      "title": "Effect of time on the rate of crystallisation",
+      "file": "practicals/crystallisation-rate.md"
+    },
+    {
+      "id": "uniformity-index",
+      "title": "Uniformity index of a mix in a double cone blender",
+      "file": "practicals/uniformity-index.md"
+    }
+  ]
+}

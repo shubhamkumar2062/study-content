@@ -1,0 +1,644 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight and common patterns in PCI-syllabus pharmacy papers. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State and explain the laws governing size reduction. Describe the principle, construction, working, uses, merits and demerits of a ball mill.",
+      "answer": "1. Laws (Walker: dE/dL = −C/Lⁿ):\n• Rittinger's law (n = 2): E = KR(1/L2 − 1/L1); energy ∝ new surface area; fine grinding.\n• Kick's law (n = 1): E = KK ln(L1/L2); equal energy for equal reduction ratio; coarse crushing.\n• Bond's law (n = 1.5): E = KB(1/√L2 − 1/√L1); intermediate; uses the work index.\n2. Ball mill principle: impact (falling balls) and attrition (balls rubbing).\n3. Construction: hollow horizontal cylinder of steel or porcelain-lined, rotating on its axis; filled 30–50% with steel/porcelain balls of mixed sizes; sketch the cylinder with balls cascading.\n4. Working: as it rotates, balls are lifted and fall in a cascade. Low speed → sliding (attrition only); optimum about 0.5–0.75 of critical speed → cascading (best); at critical speed balls stick to the wall (no grinding). Nc = (1/2π)√(g/(R − r)).\n5. Uses: fine grinding of drugs, dyes, pigments; wet grinding of suspensions; sterile milling.\n6. Merits: very fine product, wet or dry, closed system for toxic/sterile, simple installation.\n7. Demerits: slow, noisy, wear contaminates product, hard to clean, not for sticky material."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define Reynolds number and give its significance. State Bernoulli's theorem and explain the construction and working of a venturimeter and an orifice meter.",
+      "answer": "1. Reynolds number Re = Duρ/µ (D diameter, u velocity, ρ density, µ viscosity); dimensionless; ratio of inertial to viscous forces.\n2. Laminar below about 2000, transition 2000–4000, turbulent above about 4000 (Reynolds' dye experiment).\n3. Significance: predicts type of flow; selects friction equation; design of pipes, pumps, mixers; higher Re → faster heat and mass transfer; scale-up.\n4. Bernoulli: for steady, frictionless, incompressible flow, total head is constant: P/ρg + u²/2g + Z = constant; real form adds pump work and friction loss.\n5. Orifice meter: thin plate with sharp hole in the pipe; manometer across it; fluid accelerates and pressure falls; u0 = C0√(2gΔh), C0 ≈ 0.61; vena contracta. Merits: cheap, simple. Demerits: high permanent pressure loss, less accurate.\n6. Venturimeter: converging cone, throat, long diverging cone (about 5–7°); manometer between inlet and throat; Cv ≈ 0.98. Merits: accurate, low pressure loss. Demerits: costly, long, fixed range.\n7. Draw both with pressure taps and U-tube."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are the objectives of size separation? Give the official standards for powders. Describe the cyclone separator and the sieve shaker.",
+      "answer": "1. Objectives: correct particle size grade, uniform mixing and dosing, remove oversize and foreign matter, grade granules, particle size analysis, collect dust.\n2. Mechanisms: agitation (oscillation, vibration, gyration), brushing, centrifugal, fluid currents.\n3. IP grades: coarse (all through sieve 10, NMT 40% through 44); moderately coarse (all 22, NMT 40% through 60); moderately fine (all 44, NMT 40% through 85); fine (all through 85); very fine (all through 120). Sieve number ≈ meshes per 25.4 mm.\n4. Cyclone: principle centrifugal force; vertical cylinder + cone, tangential inlet at top, central air outlet, solids outlet at bottom; gas spirals down, particles hit wall and fall, clean gas leaves through centre. Uses: spray dryer and mill product collection. Merits: no moving parts, cheap, continuous. Demerits: poor for very fine particles, needs bag filter after it.\n5. Sieve shaker: nest of standard sieves (coarsest on top), lid and pan on a mechanical shaker; weighed sample shaken for fixed time, fraction on each sieve weighed. Uses: size analysis, grading. Merits: simple, reproducible. Demerits: batch, fine cohesive powders clog, attrition."
+    },
+    {
+      "id": "u1-l04",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the factors affecting size reduction. Describe the hammer mill and the fluid energy mill.",
+      "answer": "1. Factors: hardness; toughness (fibrous drugs dried or frozen first); stickiness; softening temperature (cool the mill); moisture (dry < about 5% or wet > about 50%); material structure; physiological effect of potent drugs; purity; feed/product size ratio; bulk density.\n2. Hammer mill: principle impact; casing with high-speed rotor carrying swinging hammers, screen at bottom, hopper at top; particles struck repeatedly until they pass the screen. Uses: granules, crude drugs, wet granule sizing. Merits: fast, continuous, size controlled by screen. Demerits: heat, screen clogging, wear, noise.\n3. Fluid energy mill: principle attrition and impact in a high-velocity gas stream; oval loop pipe with nozzles at the bottom, venturi feed, classifier at outlet; particles circulate and collide, fines leave. Product 1–20 µm. Uses: micronising antibiotics, steroids, inhalation drugs. Merits: very fine, no heat (gas expansion cools), no moving parts, inert gas possible. Demerits: high gas cost, needs fine feed, dust loss."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the construction and working of a rotameter.",
+      "answer": "Variable-area flow meter. Vertical tapered glass tube, wider at the top, with a float and scale. Fluid flows upward and lifts the float until the annular gap allows the flow; pressure drop across the float stays constant while the area changes. Float height read directly on the scale gives flow rate. Merits: direct reading, cheap, low loss. Demerits: vertical mounting, glass breaks, calibrated for one fluid, not for opaque liquids."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the critical speed of a ball mill and its importance.",
+      "answer": "Critical speed is the speed at which balls just start to stick to the wall by centrifugal force: Nc = (1/2π)√(g/(R − r)) rps, about 42.3/√(D − d) rpm (D, d in m). Below it balls slide (attrition only); at about 0.5–0.75 of Nc they cascade (impact + attrition, best grinding); at Nc and above they centrifuge and no grinding occurs. So the mill is run below critical speed."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the principle, construction and uses of an edge runner mill.",
+      "answer": "Principle: crushing by the weight of heavy rollers plus shearing (attrition). Construction: one or two heavy stone/granite rollers on their edge, moving on a stone bed; roller rotates on its own horizontal axis and around a central vertical shaft; scraper returns material. Working: material crushed and rubbed under the rollers, then sieved. Uses: tough fibrous crude drugs, fine grinding. Merits: little attention, fine powder. Demerits: slow, bulky, not for sticky materials."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the Pitot tube.",
+      "answer": "Measures local (point) velocity. One tube faces the flow (impact opening), another reads static pressure; both joined to a manometer. Fluid striking the impact opening is brought to rest so its kinetic energy appears as pressure: u = C√(2gΔh). Uses: velocity profile in pipes and air ducts, air velocity in dryers. Demerits: point velocity only, many readings needed, solids block it."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the working of a bag filter and an air separator.",
+      "answer": "Bag filter: chamber with many cloth bags; fan draws dusty air through the cloth; dust is retained and the dust layer itself filters finer particles (to about 1 µm); bags are shaken or reverse-blown to drop dust into a hopper. Used after spray dryers and mills. Air separator: rotating disc spreads feed into an air current driven by a fan; coarse particles fall into an inner cone, fine ones carried to an outer cone; continuous classification, often after a ball or hammer mill."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the principle and working of an elutriation tank.",
+      "answer": "Principle: Stokes' law, v = d²(ρs − ρf)g/18η. In an upward fluid stream, particles settling faster than the fluid velocity settle; smaller ones are carried over. Series of tanks of increasing diameter (decreasing velocity): coarse particles settle in the first, finer ones in later tanks. Uses: grading fine insoluble powders (kaolin, calamine). Merits: gentle, separates fines. Demerits: wet product must be dried, slow, much fluid."
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the end runner mill.",
+      "answer": "Principle: crushing and shearing. Construction: rotating steel mortar with a heavy steel pestle mounted off-centre; pestle turns by friction; scraper keeps material under it; pestle can be lifted for emptying. Working: as the mortar turns the pestle rolls and grinds by compression and shear. Uses: fine grinding of drugs and chemicals. Demerits: batch, slow, not for sticky material."
+    },
+    {
+      "id": "u1-s08",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Discuss the energy losses during the flow of fluids through pipes.",
+      "answer": "Major (frictional) losses in straight pipes: Fanning equation hf = 4fLu²/2gD, or ΔP = 2fρu²L/D; laminar f = 16/Re (Hagen–Poiseuille); turbulent f depends on Re and roughness. Minor losses: sudden expansion, sudden contraction, fittings and valves (expressed as equivalent length), obstructions such as meters. Losses increase with velocity, length and roughness and decrease with pipe diameter."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Reynolds number.",
+      "answer": "Re = Duρ/µ, a dimensionless ratio of inertial to viscous forces; flow is laminar below about 2000 and turbulent above about 4000."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a manometer? Name two types.",
+      "answer": "A device that measures pressure difference by the difference in level of a liquid column. Types: simple U-tube and inclined (also differential, well-type)."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State Kick's law.",
+      "answer": "Energy needed for size reduction is proportional to the logarithm of the size reduction ratio: E = KK ln(L1/L2); applies to coarse crushing."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle, construction and working of a multiple effect evaporator. Discuss its economy and methods of feeding.",
+      "answer": "1. Principle: vapour from one effect heats the next effect, kept at lower pressure, so latent heat is reused.\n2. Construction: two or more evaporators in series; steam to the first effect only; condenser and vacuum pump on the last; draw block diagram.\n3. Working: steam heats effect 1 → its vapour heats effect 2 (lower pressure, lower boiling point) → its vapour heats effect 3 → last vapour to condenser; liquid becomes more concentrated along the line.\n4. Feeding: forward (with steam, no pumps, thickest liquid in coldest effect); backward (pumps needed, thickest liquid in hottest effect, good for viscous); mixed; parallel (crystallising liquids).\n5. Economy = kg water evaporated ÷ kg steam used. Single effect slightly below 1; n effects about n times (triple about 2.5). Capacity is not increased because ΔT is shared.\n6. Uses: large-scale concentration (extracts, sugar, salt).\n7. Merits: large steam saving, lower temperature in later effects. Demerits: high initial cost, complex control, space."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define heat transfer. Explain the mechanisms of heat transfer with Fourier's law. Describe heat exchangers and heat interchangers.",
+      "answer": "1. Heat transfer: movement of heat from a hotter to a colder body; used in solution making, evaporation, distillation, drying, sterilisation, crystallisation.\n2. Conduction: molecule-to-molecule, no bulk movement; Fourier's law dQ/dt = −kA dT/dx; flat wall Q/t = kA(T1 − T2)/x; resistance x/kA; composite walls add in series.\n3. Convection: bulk fluid motion, natural or forced; Q/t = hAΔT; film resistance; fouling.\n4. Radiation: electromagnetic waves, no medium; Q/t = εσAT⁴; black body, emissivity, Kirchhoff's law.\n5. Overall coefficient: 1/U = 1/h1 + x/k + 1/h2; Q/t = UA(LMTD).\n6. Heat exchanger: heat from steam/hot gas to process fluid through a wall; heat interchanger: from one process liquid (or gas) to another, for heat recovery.\n7. Types: double-pipe; shell-and-tube (1-1, 1-2 pass, baffles); plate exchanger. Counter-current flow gives better transfer than parallel. Draw shell-and-tube."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle and methodology of steam distillation, distillation under reduced pressure and molecular distillation, with uses.",
+      "answer": "1. Steam distillation: immiscible liquids each exert their own vapour pressure; mixture boils when pA + pB = atmospheric, so below 100 °C. Steam from generator passed through drug + water; vapour condensed; oil separated in a Florentine receiver. mA/mB = pA MA/pB MB. Uses: volatile oils (clove, eucalyptus, peppermint), aromatic waters.\n2. Reduced pressure: lowering pressure lowers boiling point; Claisen flask, capillary air leak to prevent bumping, condenser, receiver, manometer, vacuum pump, water/oil bath. Uses: thermolabile extracts, high-boiling liquids, solvent recovery.\n3. Molecular distillation: very high vacuum (about 10⁻³ mm Hg); distance between evaporating and condensing surfaces less than the mean free path, so molecules travel without collision; thin film. Falling film and centrifugal stills. Uses: vitamins A and E from fish liver oils, refining oils.\n4. Diagrams of each set-up earn marks."
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the factors influencing evaporation. Describe the climbing film evaporator and the forced circulation evaporator.",
+      "answer": "1. Factors: temperature; temperature and time of exposure; pressure (vacuum lowers bp); surface area; type of product (foaming, scaling, viscosity rise); concentration; vapour removal and agitation; economic factors.\n2. Climbing film: long vertical tubes in a steam calandria; feed at bottom boils; vapour rises fast and carries a thin film up the walls; separator at top. Uses: thermolabile and foaming liquids. Merits: short contact, high heat transfer, continuous. Demerits: needs large ΔT, high headroom, not for viscous/scaling.\n3. Forced circulation: pump drives liquid through tubes at high velocity; liquid kept under pressure, flashes in vapour head; concentrate withdrawn. Uses: viscous, scaling, crystallising liquids. Merits: high transfer coefficient, less scaling. Demerits: pump cost, power, hold-up."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the steam jacketed kettle with merits and demerits.",
+      "answer": "Hemispherical pan (stainless steel/copper) with outer steam jacket; steam inlet, condensate outlet with trap, air vent; may tilt and have a stirrer. Steam condenses in the jacket and boils the liquid at atmospheric pressure. Uses: concentrating thermostable aqueous liquids, syrups. Merits: simple, cheap, easy to clean. Demerits: small heating area that falls with level, open (vapour into room), not for thermolabile, deposits burn."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain fractional distillation.",
+      "answer": "For miscible liquids with close boiling points. Vapour rises through a fractionating column (plate: bubble-cap/sieve; or packed: Raschig rings) against descending liquid; repeated vaporisation–condensation enriches the vapour in the more volatile component. Part of the condensate returned as reflux. Uses: alcohol–water (up to azeotrope), solvent purification, oil fractions. Based on Raoult's and Dalton's laws."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "State Fourier's law and derive the rate of heat flow through a composite wall.",
+      "answer": "dQ/dt = −kA dT/dx. For a flat wall: Q/t = kA(T1 − T2)/x = ΔT/(x/kA). For two layers in series the same heat passes through each: T1 − T2 = (Q/t)x1/k1A and T2 − T3 = (Q/t)x2/k2A. Adding: Q/t = (T1 − T3)/(x1/k1A + x2/k2A), i.e. total driving force ÷ sum of resistances."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate evaporation from distillation and drying.",
+      "answer": "Evaporation: solvent boiled off from a solution; product is a concentrated liquid; vapour discarded. Distillation: liquid vaporised and vapour condensed; product is the distillate. Drying: residual liquid removed from a solid; product is a dry solid; amount of liquid relatively small. Evaporation often precedes drying."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on flash distillation.",
+      "answer": "Equilibrium distillation: feed heated under pressure, then passed through a pressure-reducing valve into a separator at lower pressure, where part flashes into vapour. Vapour (rich in volatile part) leaves at top to condenser; liquid leaves at bottom; the two are in equilibrium. Continuous, single stage. Uses: mixtures with widely different bp, multicomponent mixtures such as petroleum, first step before fractionation."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the horizontal tube evaporator.",
+      "answer": "Cylindrical body with a bundle of horizontal steam tubes in the lower part covered by liquid; vapour space and dome above. Steam condenses in the tubes; liquid outside boils; vapour leaves at top; concentrate drawn off at bottom. Uses: thin, non-scaling liquids. Merits: cheap, low headroom. Demerits: poor circulation, not for viscous or foaming liquids, scale hard to clean."
+    },
+    {
+      "id": "u2-s07",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain radiation heat transfer and Kirchhoff's law.",
+      "answer": "Radiation is transfer by electromagnetic (infrared) waves, needs no medium. Black body absorbs all radiation and is the perfect emitter; real (grey) bodies emit a fraction ε (emissivity). Stefan–Boltzmann: Q/t = εσAT⁴, σ = 5.67 × 10⁻⁸ W/m²K⁴; net exchange εσA(T1⁴ − T2⁴). Kirchhoff: at equal temperature emissivity equals absorptivity, so good absorbers are good emitters."
+    },
+    {
+      "id": "u2-s08",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Describe a shell-and-tube heat exchanger.",
+      "answer": "Tube bundle fixed in tube sheets inside a cylindrical shell; one fluid in tubes, other in shell; baffles direct shell fluid across tubes and raise turbulence. 1-1 has one tube pass; 1-2 has two tube passes for higher velocity. Counter-current flow preferred. Uses: heating/cooling liquids, condensing vapours. Merits: large area, high pressure use. Demerits: cleaning shell side difficult."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define economy of an evaporator.",
+      "answer": "Mass of water evaporated per unit mass of steam supplied; slightly below 1 for a single effect and higher for multiple effects."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why does steam distillation occur below 100 °C?",
+      "answer": "For immiscible liquids the total vapour pressure is the sum of both; it reaches atmospheric pressure at a temperature below the boiling point of either liquid."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define drying. Explain equilibrium moisture content and the rate of drying curve. Add a note on the mechanism of drying.",
+      "answer": "1. Drying: removal of liquid from a solid/semisolid by evaporation to give a dry solid. Objectives: stability, granule processing, handling, grinding.\n2. Terms: moisture content (dry basis), LOD (wet basis), bound and unbound water, free moisture = total − EMC, critical moisture content.\n3. EMC: moisture content of solid in equilibrium with air of given RH and temperature; measured by storing samples over saturated salt solutions to constant weight; sorption isotherm (sorption/desorption, hysteresis). Applications: drying end point, storage, packaging.\n4. Mechanism: simultaneous heat transfer (latent heat) and mass transfer (diffusion/capillary flow to surface, evaporation, removal by air).\n5. Rate curve: A–B initial adjustment; B–C constant rate (wet surface, like free water); C critical MC; C–D first falling rate (unsaturated surface); D–E second falling rate (internal diffusion controls); E EMC. Draw rate vs free moisture.\n6. Uses of curve: drying time, dryer selection, scale-up."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the principle, construction, working, uses, merits and demerits of a fluidised bed dryer and a spray dryer.",
+      "answer": "1. FBD principle: hot air blown up through a bed of granules lifts and suspends them (fluidisation), giving fast uniform heat and mass transfer.\n2. FBD construction: stainless steel bowl with perforated base on trolley; fan, heater, filter below; bag filters and shaker above. Working: 20–40 min drying. Uses: tablet granules; granulation and coating. Merits: fast, uniform, mild, free-flowing product. Demerits: attrition, static and dust explosion (earth it), not for sticky material.\n3. Spray dryer principle: liquid atomised into fine droplets in hot air; huge surface dries them in seconds; evaporative cooling protects product.\n4. Construction: large chamber with conical bottom, rotary disc or nozzle atomiser, air heater and fan, cyclone and bag filter. Uses: spray-dried lactose, acacia, gelatin, extracts, antibiotics, microencapsulation. Merits: rapid, thermolabile, continuous, spherical free-flowing powder. Demerits: bulky, costly, low thermal efficiency.\n5. Draw both."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle and stages of freeze drying. Describe the construction of a freeze dryer with uses, merits and demerits.",
+      "answer": "1. Principle: frozen material dried by sublimation of ice under high vacuum, below the triple point of water (about 0.01 °C, 4.6 mm Hg).\n2. Construction: drying chamber with heated/cooled shelves, condenser at very low temperature, vacuum pump, refrigeration, controls; block diagram.\n3. Stages: freezing below eutectic/collapse temperature; primary drying (sublimation with gentle shelf heat, ice collects on condenser); secondary drying (desorption of bound water at higher shelf temperature); stoppering under vacuum or nitrogen.\n4. Uses: antibiotics, vaccines, sera, plasma, enzymes, proteins, injectable powders.\n5. Merits: suitable for very heat-sensitive materials, porous quickly reconstituted product, long shelf life, aseptic.\n6. Demerits: costly, long cycle, hygroscopic product, skilled operation."
+    },
+    {
+      "id": "u3-l04",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the mechanisms of solid mixing and the factors affecting mixing. Describe the double cone blender and the ribbon blender.",
+      "answer": "1. Mechanisms: convective (groups of particles moved), shear (slip planes), diffusive (random movement of single particles on fresh surfaces). Segregation by size, density, shape.\n2. Factors: particle size, shape, density, proportion (geometric dilution), charge, moisture, fill volume, time, speed.\n3. Double cone: two cones joined at bases, rotated about horizontal axis, filled about 50–60%; tumbling. Uses: dry powders, lubricants. Merits: gentle, easy cleaning, no dead spots. Demerits: segregation with unlike particles, not for cohesive powders, headroom.\n4. Ribbon blender: U-trough with shaft carrying inner and outer helical ribbons moving material in opposite directions; convective. Uses: powders, premixes, adding small liquid amounts. Merits: large capacity, low headroom. Demerits: dead spots, damages granules, hard to clean.\n5. Draw both."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the tray dryer.",
+      "answer": "Principle: hot air convection over material on trays. Insulated cabinet holding trolley/racks of shallow trays; fan, heaters, baffles; part of humid air exhausted and fresh air admitted. Material spread 1–2 cm thick; dried over hours. Uses: granules, crude drugs, small batches. Merits: versatile, any material, little loss. Demerits: slow, labour, uneven drying, poor efficiency."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle, construction and working of a drum dryer.",
+      "answer": "Principle: conduction drying of a thin film on a steam-heated rotating drum. Hollow horizontal drum heated inside by steam, dipping into feed trough or fed by applicator roll; doctor knife scrapes dry film; double drum type has two drums. Film dries in less than one revolution. Uses: milk, starch, malt extract, slurries. Merits: rapid, short heat exposure, continuous, compact. Demerits: flaky product, skilled operation, not for scaling salts."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the sigma blade mixer.",
+      "answer": "Principle: shearing and kneading. Double trough with two Σ-shaped blades rotating towards each other at different speeds; trough tilts for emptying; may be jacketed. Blades pull, fold and compress the mass. Uses: wet granulation, pastes, ointments. Merits: strong shear, little dead space, viscous masses. Demerits: high power, produces heat."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between solid mixing and liquid mixing.",
+      "answer": "Solids: no natural diffusion, mixing only by mechanical movement, can segregate after mixing, mechanisms convective/shear/diffusive, tumblers and ribbon blenders, judged by statistical sampling. Liquids: molecular diffusion helps, solutions stay mixed, mechanisms bulk transport/turbulent/laminar/molecular diffusion, propellers, turbines and paddles."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the vacuum dryer.",
+      "answer": "Principle: reduced pressure lowers the boiling point, so material dries at low temperature by conduction from heated shelves. Jacketed chamber with hollow shelves (steam/hot water), tight door, condenser and vacuum pump. Uses: thermolabile, oxidisable, hygroscopic, toxic materials; solvent recovery; dry extracts. Merits: low temperature, no oxidation, solvent recovered. Demerits: batch, small capacity, costly, slow."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare propellers, turbines and paddles as liquid mixers.",
+      "answer": "Propeller: 3 angled blades, high speed, axial flow, low-viscosity liquids, mounted off-centre to avoid vortex. Turbine: flat/curved blades on a disc, moderate speed, radial flow and high shear, low–medium viscosity, emulsions, gas dispersion; baffles needed. Paddle: wide flat blades, low speed, tangential flow, viscous liquids and semisolids, gentle, poor vertical mixing."
+    },
+    {
+      "id": "u3-s07",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the Silverson emulsifier.",
+      "answer": "High-shear rotor–stator mixer. High-speed four-blade rotor inside a stationary perforated/slotted stator (workhead). Material sucked into the head, sheared in the rotor–stator gap, forced out through stator holes, while fresh material is drawn in. Uses: emulsions, creams, lotions, fine suspensions, dissolving gums. Merits: very fine droplets, fast. Demerits: heat, not for very viscous masses, wear."
+    },
+    {
+      "id": "u3-s08",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the planetary mixer and the twin shell blender.",
+      "answer": "Planetary: removable bowl; blade rotates on its own axis and around the bowl (planetary path), reaching all parts; variable speed; used for wet granulation, creams; no dead spots, but batch and small. Twin shell (V-blender): two cylinders joined in a V rotating on a horizontal axis; powder repeatedly splits and recombines; optional intensifier bar; dry powders and lubricant blending; gentle but headroom needed."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define equilibrium moisture content.",
+      "answer": "Moisture content of a solid when its vapour pressure equals the partial pressure of water vapour in the surrounding air at a given temperature and humidity."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is critical moisture content?",
+      "answer": "The moisture content at which the constant rate period of drying ends and the falling rate period begins."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is segregation in powder mixing?",
+      "answer": "Separation (demixing) of a powder mix into its components because of differences in particle size, density or shape."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define filtration. Explain the theories of filtration and the factors influencing the rate of filtration. Add a note on filter aids.",
+      "answer": "1. Filtration: separation of solids from a fluid by passing it through a porous medium. Terms: slurry, medium, cake, filtrate; clarification vs cake filtration.\n2. Mechanisms: straining, impingement, entanglement, attractive forces.\n3. Poiseuille: V/t = πr⁴ΔP/8ηL. Darcy: V/t = KAΔP/ηL (K permeability). Kozeny–Carman: V/t = (AΔP/ηS²L) × ε³/[K(1 − ε)²], K ≈ 5.\n4. Factors: area (∝), pressure difference (∝, limited by compressible cakes), viscosity (inverse; warm the liquid), cake thickness (inverse), particle size and porosity, compressibility, temperature.\n5. Filter aids: inert, porous, incompressible powders forming a rigid porous cake (kieselguhr, perlite, cellulose, talc, charcoal). Used as pre-coat or body mix. Ideal: inert, insoluble, low density, porous. Demerit: may adsorb drug, unsuitable when solid is the product."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the principle, construction, working, uses, merits and demerits of the plate and frame filter press.",
+      "answer": "1. Principle: pressure filtration through cloths; cake collects in hollow frames.\n2. Construction: alternate grooved plates and hollow frames hung on rails and tightened by screw/hydraulic ram; cloths over plates; corner holes form slurry, filtrate and wash channels.\n3. Working: slurry pumped into frames; filtrate passes cloth, runs down plate grooves to outlets; cake grows in frames; washing through washing plates; press opened, cake removed, cloths cleaned.\n4. Uses: collecting precipitates and crystals, clarifying large volumes.\n5. Merits: large area in small space, flexible, high pressure, easy cake washing, little exposure.\n6. Demerits: batch, labour, cloth wear, leakage at joints.\n7. Draw the arrangement of plates and frames."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle of centrifugation. Describe the perforated basket centrifuge and the super centrifuge.",
+      "answer": "1. Principle: F = mω²r; RCF = ω²r/g ≈ 1.118 × 10⁻⁵ r N²; settling v = d²(ρs − ρl)ω²r/18η.\n2. Applications: crystals from mother liquor, clarification, emulsions, cells from broth, blood fractionation, stability testing.\n3. Perforated basket: cylindrical basket with perforated walls lined with cloth, on vertical shaft, in a casing with outlet; liquid thrown through cloth, cake washed and spun dry, removed after stopping. Uses: crystals. Merits: compact, dry cake. Demerits: batch, manual discharge, vibration.\n4. Super centrifuge: long narrow tubular bowl (about 10–15 cm) at very high speed; feed at bottom; heavy liquid outer outlet, light liquid inner outlet at top; solids on wall. Uses: immiscible liquids, emulsions, oils, blood plasma. Merits: very high force, continuous liquid separation. Demerits: small capacity, solids removed manually, costly.\n5. Draw both."
+    },
+    {
+      "id": "u4-l04",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the rotary drum filter and the meta filter.",
+      "answer": "1. Rotary drum: continuous vacuum filter. Perforated drum covered with cloth, divided into sectors connected through a rotary valve to vacuum/air; dips in slurry trough with agitator; wash sprays; doctor knife.\n2. Zones: pick-up (filtration), drainage, washing, drying, discharge (air blow + knife).\n3. Uses: fermentation broths (mycelia), precipitates. Merits: continuous, automatic, large capacity. Demerits: costly, ΔP limited to under 1 atm, not for volatile/hot liquids, cake cracking.\n4. Meta filter: stack of thin stainless steel rings with projections on a fluted rod in a vessel; narrow channels between rings; kieselguhr layer does fine filtration; back-flushed for cleaning.\n5. Uses: clarifying syrups, oils, injections. Merits: strong, sterilisable, no cloth, low running cost. Demerits: clarification only, needs filter aid, initial cost."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on membrane filters and the bubble point test.",
+      "answer": "Thin polymer films (cellulose esters, nylon, PTFE, PVDF) with uniform pores 0.1–10 µm, about 80% porous; screen filtration; 0.22 µm retains bacteria. Held in syringe, disc or cartridge holders; prefilter used. Bubble point test: wetted membrane, gas pressure raised until bubbles pass largest pore; low value means damage. Uses: sterilising heat-labile injections, eye drops; sterility and microbial tests. Merits: precise, no fibres, low adsorption. Demerits: clog, fragile, costly."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the filter leaf.",
+      "answer": "Frame enclosing a drainage screen covered on both sides with cloth, connected to a vacuum pump; dipped in slurry; filtrate drawn through cloth into the screen and out; cake forms outside; may be washed and back-blown. Several leaves in a vessel make a leaf filter. Uses: small-scale filtration of dilute slurries. Merits: simple, cheap, in-place washing. Demerits: batch, limited pressure, cake may fall off."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss filter media with examples.",
+      "answer": "Requirements: retain solids, allow flow, strong, inert, no fibre shedding, cleanable or disposable, sterilisable. Types: woven fabrics (cotton, nylon, polyester), filter paper, non-woven felts, wire mesh (stainless steel, Monel), sintered glass/metal and porcelain, membranes (cellulose esters, PTFE, nylon), asbestos pads (old Seitz)."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the Seitz filter.",
+      "answer": "Depth filter with an asbestos (and cellulose) pad clamped between an upper metal cylinder and a perforated base; liquid drawn through under vacuum into a sterile flask. Used earlier for sterile filtration. Merits: high dirt capacity, cheap pads. Demerits: sheds asbestos fibres (health hazard), adsorbs drugs, releases alkali, non-uniform pores; replaced by membrane filters."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the non-perforated basket centrifuge.",
+      "answer": "Centrifugal sedimentation. Basket with a solid wall on a vertical shaft; solids thrown to the wall and settle; clear liquid forms an inner layer removed by a skimming tube; solids scraped out after stopping. Uses: fine or soft solids that would block cloth; clarification. Merits: no cloth to clog. Demerits: batch, wetter cake, skimming needs skill."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the cartridge filter.",
+      "answer": "Replaceable cylindrical element (pleated membrane/paper, or wound-fibre depth element) around a perforated core, sealed by O-rings in a stainless steel housing; liquid flows outside to core under pressure; replaced when pressure drop rises. Uses: prefiltration and sterile filtration of parenterals, ophthalmics, water, air vents. Merits: large area, quick change, no cleaning. Demerits: costly, clogs with heavy loads, not for collecting solids."
+    },
+    {
+      "id": "u4-s07",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the semi-continuous centrifuge.",
+      "answer": "Knife-discharge (peeler) centrifuge: perforated basket on horizontal shaft running at constant full speed; slurry fed until cake reaches set thickness; cake washed and spun; hydraulic knife moves in and peels cake into a chute; cycle automatic. Uses: crystalline products, starch, antibiotics. Merits: high output, little labour, no stop–start. Demerits: crystal breakage, heel of cake left, expensive."
+    },
+    {
+      "id": "u4-s08",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Give the applications of centrifugation in pharmacy.",
+      "answer": "Separating crystals from mother liquor; clarifying syrups, oils and extracts; separating immiscible liquids and breaking emulsions; harvesting cells and mycelia from broth; collecting insulin and enzyme precipitates; separating blood plasma and fractionating proteins; accelerated stability (creaming) tests for emulsions/suspensions; particle size analysis by centrifugal sedimentation."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are filter aids? Give two examples.",
+      "answer": "Inert porous incompressible powders that keep the filter cake porous and trap fine particles; e.g. kieselguhr (diatomaceous earth) and perlite."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define relative centrifugal force.",
+      "answer": "Ratio of centrifugal acceleration to gravity, RCF = ω²r/g ≈ 1.118 × 10⁻⁵ × r (cm) × N² (rpm)."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define corrosion. Explain the theories of corrosion and the various types of corrosion. Add methods of prevention.",
+      "answer": "1. Corrosion: destruction of a metal by chemical or electrochemical reaction with its environment; causes contamination, leaks, rough surfaces, cost.\n2. Electrochemical theory: local galvanic cells; anode Fe → Fe²⁺ + 2e⁻; cathode O2 + 2H2O + 4e⁻ → 4OH⁻ (neutral) or 2H⁺ + 2e⁻ → H2 (acid); Fe(OH)2 → rust Fe2O3·xH2O. Draw the water-drop diagram.\n3. Chemical (dry) theory: direct attack by dry gases at high temperature; porous film continues attack, dense film protects. Acid theory: carbonic acid attacks iron.\n4. Types: uniform, galvanic, pitting, crevice, intergranular, stress corrosion cracking, erosion, dezincification, fretting, hydrogen embrittlement.\n5. Prevention: proper material and design (no crevices, no dissimilar metals); coatings (galvanising, tinning, electroplating, cladding, paints, glass and rubber linings, anodising); cathodic protection (sacrificial zinc/magnesium anodes, impressed current); inhibitors (anodic chromates, cathodic zinc salts); environment control (deaeration, dehumidification); passivation of stainless steel."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the factors affecting the selection of materials for pharmaceutical plant construction. Describe the ferrous metals used in the pharmaceutical industry.",
+      "answer": "1. Chemical factors: product contamination (metal ions catalyse oxidation, colour, toxicity) and corrosion resistance to the product and cleaning agents.\n2. Physical factors: strength, ductility, toughness, heat conduction or insulation, resistance to thermal cycling, ease of fabrication, smooth cleanable surface, weight, transparency.\n3. Economic factors: initial, fabrication and maintenance cost, life, availability.\n4. Cast iron: 2–4% C, cheap, castable, brittle, rusts; machine bases, jackets.\n5. Carbon steel: strong, weldable, cheap, corrodes; frames, tanks, often lined.\n6. Stainless steel: ≥ about 11–12% Cr forms passive oxide film; 304 (18/8 Cr/Ni), 316 (plus Mo, chloride resistant), L grades for welding; strong, inert, easily cleaned; attacked by HCl/chlorides; used for all product-contact equipment.\n7. Summarise with a table."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify materials of construction. Describe the non-ferrous metals and the inorganic and organic non-metals used in pharmaceutical plants.",
+      "answer": "1. Classification chart: metals (ferrous, non-ferrous) and non-metals (inorganic, organic).\n2. Non-ferrous: aluminium (light, conductor, foils, tubes); copper (heat exchangers, catalyses oxidation); brass and bronze (valves, sieves); lead (sulfuric acid); nickel and Monel (alkalis, pumps); tin (tin plate); titanium (chlorides).\n3. Inorganic non-metals: glass and borosilicate (inert, transparent, brittle); glass-lined steel (strength + inertness); ceramics, porcelain, stoneware (acid-resistant, mill linings, filter candles); cement.\n4. Organic non-metals: thermoplastics (PE, PP, PVC, PTFE, nylon) and thermosets (Bakelite, epoxy) — light, corrosion-resistant, but low strength, leaching; rubber (natural, neoprene, nitrile, silicone; linings, gaskets, closures); wood (porous, not for product contact)."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on stainless steel as a material of construction.",
+      "answer": "Alloy steel with at least about 11–12% chromium that forms a self-healing chromium oxide passive film. Grades: 304 (18% Cr, 8% Ni), 316 (adds 2–3% Mo for chloride/pitting resistance), 304L/316L low carbon for welding. Strong, tough, inert, smooth, easily cleaned and sterilised, no product contamination. Attacked by HCl, chlorides, hot conc. H2SO4. Used for nearly all product-contact equipment."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain cathodic protection.",
+      "answer": "Making the metal to be protected the cathode of an electrochemical cell so it does not dissolve. Sacrificial anode: a more active metal (zinc, magnesium) connected to the steel corrodes instead (buried pipes, tanks). Impressed current: external DC source with an inert anode drives current so the structure becomes cathodic. Galvanising works on the same idea."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the electrochemical theory of corrosion.",
+      "answer": "Corrosion occurs through local galvanic cells on a metal in contact with an electrolyte. Anode: Fe → Fe²⁺ + 2e⁻. Electrons flow to cathode: O2 + 2H2O + 4e⁻ → 4OH⁻ (oxygen absorption) or 2H⁺ + 2e⁻ → H2 (hydrogen evolution, acid). Fe²⁺ + 2OH⁻ → Fe(OH)2, oxidised to rust Fe2O3·xH2O. Differential aeration: area with less oxygen becomes anode."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on plastics used in pharmaceutical plants.",
+      "answer": "Thermoplastics soften repeatedly on heating (PE, PP, PVC, polystyrene, PTFE, nylon); thermosets set permanently (phenol-formaldehyde, epoxy, urea-formaldehyde). Light, corrosion-resistant, cheap, mouldable, poor heat conductors; low strength, soften with heat, may absorb drugs or leach plasticisers, some attacked by solvents. PTFE most inert: gaskets, seals, linings. Uses: containers, pipes, tubing, linings, closures."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe pitting and crevice corrosion with prevention.",
+      "answer": "Pitting: localised deep holes where the protective film breaks (stainless steel with chlorides); dangerous because a small surface loss can perforate the wall; prevent by 316 grade, avoiding chloride build-up. Crevice: attack in narrow gaps under gaskets, bolts, deposits where oxygen is low (concentration cell); prevent by welding instead of bolting, avoiding crevices, keeping surfaces clean and drained."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the objectives and principles of material handling.",
+      "answer": "Objectives: lower cost and labour, avoid damage and cross-contamination, faster production, safety, better space use. Principles: shortest straight path and fewest moves, use gravity, unit loads (pallets, IBCs), mechanisation and automation, closed systems for powders and potent drugs, standard containers, layout without backtracking."
+    },
+    {
+      "id": "u5-s07",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the equipment used for handling solids in a pharmaceutical plant.",
+      "answer": "Belt conveyors (cartons, containers); screw conveyors (powders, granules, feeding hoppers); bucket elevators (lifting granules); pneumatic conveyors (dust-free powder transfer in closed pipes); chutes and gravity feed; roller and vibratory conveyors; trolleys, pallet trucks, forklifts; cranes and hoists; intermediate bulk containers (blend and feed directly to presses)."
+    },
+    {
+      "id": "u5-s08",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on glass and glass-lined equipment.",
+      "answer": "Glass (borosilicate) is transparent, inert to most chemicals except HF and hot strong alkali, smooth and easily cleaned, but brittle and sensitive to thermal shock; used for laboratory and pilot plant apparatus, pipelines, sight glasses. Glass-lined steel: steel vessel with fused glass coating inside, giving steel's strength with glass's inertness; used for acid reactions and storage; lining chips if struck and repair is difficult."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is passivation?",
+      "answer": "Treating stainless steel with nitric (or citric) acid to strengthen its protective chromium oxide film so it resists corrosion."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is galvanic corrosion?",
+      "answer": "Corrosion that occurs when two different metals are in contact in an electrolyte; the more active (anodic) metal corrodes."
+    }
+  ]
+}
