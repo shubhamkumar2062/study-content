@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the factors influencing the solubility of drugs. Add a note on the effect of pH on the solubility of weak acids and weak bases with a numerical example.",
+      "answer": "1. Definition: solubility = concentration of solute in a saturated solution at a given temperature.\n2. Nature of solute and solvent: like dissolves like; polar, semipolar and non-polar solvents; dielectric constant and hydrogen bonding.\n3. Temperature: endothermic dissolution increases with temperature, exothermic decreases (calcium hydroxide); van't Hoff relation log(S2/S1) = ΔH(T2 − T1)/(2.303RT1T2).\n4. Particle size: very fine particles more soluble (Ostwald–Freundlich equation).\n5. Crystal form: metastable polymorphs, amorphous forms and anhydrous forms dissolve more.\n6. Cosolvents (ethanol, propylene glycol, PEG 400), salts (common ion effect, salting in/out), complexation and surfactants.\n7. pH: weak acid S = S0[1 + 10^(pH − pKa)]; weak base S = S0[1 + 10^(pKa − pH)].\n8. Precipitation pH: pHp = pKa + log[(S − S0)/S0]. Example: 1% sodium phenobarbital (0.0394 M), pKa 7.41, S0 0.005 M → pHp = 7.41 + log 6.88 = 8.25; below this the free acid precipitates.\n9. Applications: choice of salt form, pH of injections, avoiding incompatibility on mixing infusions."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State and explain the distribution law. Discuss its limitations, the modifications for association and dissociation, and its pharmaceutical applications.",
+      "answer": "1. Statement: at constant temperature a solute distributes between two immiscible liquids so that C1/C2 = K (partition coefficient), if the molecular form is the same in both.\n2. Association in one phase (benzoic acid dimer in benzene): Cw/√Cb = constant; general C1/C2^(1/n).\n3. Dissociation in water: K = Co/[Cw(1 − α)]; only un-ionised form partitions.\n4. Limitations: constant temperature, dilute solutions, immiscible non-reacting solvents, same molecular species, equilibrium reached.\n5. Extraction equation: wn = w[Vw/(Vw + KVo)]^n; example K = 4, 100 ml: one 100 ml extraction leaves 0.20 g, two 50 ml portions leave 0.11 g — several small extractions are better.\n6. Applications: solvent extraction, partition chromatography, drug absorption (log P), preservative availability in emulsions, release from ointment and suppository bases, finding association/dissociation and molecular weight."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define ideal and real solutions. State Raoult's law and explain positive and negative deviations with vapour pressure diagrams. Add a note on partially miscible liquids and critical solution temperature.",
+      "answer": "1. Ideal solution: unlike molecules attract as like ones; ΔHmix = 0, ΔVmix = 0; obeys Raoult's law.\n2. Raoult's law: pA = pA° XA; total P = pA + pB; straight-line vapour pressure diagram.\n3. Negative deviation: stronger A–B attraction (chloroform–acetone), vapour pressure lower, heat evolved, maximum-boiling azeotrope.\n4. Positive deviation: weaker A–B attraction (ethanol–water, benzene–ethanol), vapour pressure higher, minimum-boiling azeotrope.\n5. Partially miscible liquids (phenol–water): two conjugate layers; dome-shaped mutual solubility curve with tie lines.\n6. CST: upper (phenol–water about 66.8 °C), lower (triethylamine–water), both (nicotine–water).\n7. Effect of impurities: NaCl raises, succinic acid/soap lowers the CST; uses — % NaCl estimation, purity testing, cresol-with-soap solutions."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are the descriptive terms of solubility in the pharmacopoeia? List the quantitative ways of expressing concentration.",
+      "answer": "Very soluble <1 part solvent; freely soluble 1–10; soluble 10–30; sparingly soluble 30–100; slightly soluble 100–1000; very slightly soluble 1000–10,000; practically insoluble >10,000 parts for 1 part solute. Quantitative: molarity (mol/L solution), molality (mol/kg solvent), normality (g-equivalents/L), mole fraction, % w/w, w/v, v/v, mg%, ppm."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the mechanism of solute–solvent interactions with reference to polar, semipolar and non-polar solvents.",
+      "answer": "Dissolution = break solute–solute and solvent–solvent bonds, then form solute–solvent bonds. Polar solvents (water) act by high dielectric constant reducing ionic attraction, hydrogen bonding and acid–base reactions; dissolve salts and polar drugs. Semipolar (acetone, alcohols) induce polarity and act as cosolvents bridging water and oil. Non-polar (hexane, CCl4) act through weak London forces and dissolve oils, iodine, alkaloid bases."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on ideal solubility and the Hildebrand solubility parameter. Calculate the ideal solubility of naphthalene at 20 °C (mp 80 °C, ΔHf 4500 cal/mol).",
+      "answer": "Ideal: log X2 = −ΔHf(T0 − T)/(2.303RT0T); depends only on melting point and heat of fusion. Solubility parameter δ = [(ΔHv − RT)/V]^½ (square root of cohesive energy density); regular solution: −log X2 = −log X2i + V2φ1²(δ1 − δ2)²/2.303RT — closer δ values give higher solubility. Calculation: log X2 = −983.4 × 60/(353 × 293) = −0.570 → X2 = 0.27."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain diffusion principles in biological systems with Fick's first law.",
+      "answer": "Diffusion = movement from high to low concentration by random motion. Fick's first law J = −D dC/dx. Across a membrane dM/dt = (DKS/h)(Cd − Cr); sink condition Cr ≈ 0; permeability P = DK/h. Only un-ionised lipid-soluble drug crosses easily (pH–partition hypothesis). Other routes: facilitated diffusion, active transport, aqueous pores, pinocytosis. Applies to absorption, dialysis, drug release."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the solubility of gases in liquids and the factors affecting it. Give pharmaceutical applications.",
+      "answer": "Henry's law C = σp at constant temperature. Factors: pressure (increases), temperature (decreases), salting-out by electrolytes (decreases), chemical reaction (HCl, NH3, CO2 dissolve more). Bunsen coefficient = volume of gas at STP dissolved per volume of liquid at 1 atm. Applications: carbonated and effervescent products, aerosols, removing oxygen by boiling water and nitrogen purging for oxidisable injections."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define critical solution temperature. Explain with a diagram the phenol–water system and the effect of added substances.",
+      "answer": "CST = temperature above (upper) or below (lower) which two partially miscible liquids mix in all proportions. Phenol–water dome: conjugate layers below, single phase above about 66.8 °C; tie lines join conjugate compositions. NaCl (soluble only in water) raises CST in proportion to its concentration — used to estimate % NaCl; succinic acid or soap (soluble in both) lowers it. Other types: triethylamine–water (lower), nicotine–water (both)."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State Henry's law.",
+      "answer": "At constant temperature, the mass of gas dissolved in a liquid is directly proportional to the partial pressure of the gas above it (C = σp)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an azeotrope?",
+      "answer": "A liquid mixture that boils at constant temperature with vapour of the same composition as the liquid, so it cannot be separated by simple distillation."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is polymorphism? Explain its types, methods of detection and pharmaceutical importance with examples. Compare crystalline and amorphous solids.",
+      "answer": "1. Definition: one compound existing in more than one crystal form with different lattices.\n2. Types: enantiotropic (reversible transition below melting points, sulfur), monotropic (one form always stable); pseudopolymorphs = solvates/hydrates.\n3. Differences between forms: melting point, solubility, dissolution rate, density, hardness, stability.\n4. Examples: chloramphenicol palmitate form B gives higher blood levels than form A; cocoa butter polymorphs (overheating above about 36 °C gives metastable forms that set poorly); ritonavir; anhydrous ampicillin dissolves faster than trihydrate.\n5. Detection: X-ray powder diffraction, DSC/thermal analysis, IR, hot-stage microscopy, dissolution studies.\n6. Crystalline vs amorphous table: order, sharp mp vs softening, anisotropic vs isotropic, lower vs higher solubility, stable vs metastable; glassy state and Tg.\n7. Importance: bioavailability, stability, processing (compression, flow), patents."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define dielectric constant and dipole moment. Explain their determination and applications in pharmacy.",
+      "answer": "1. Dielectric constant ε = Cx/C0 (capacitance with substance ÷ in vacuum); measures ability to separate charges; water 78.5, glycerin about 42, ethanol about 24, chloroform 4.8, benzene 2.3.\n2. Measurement: capacitance cell in a bridge/resonance circuit, comparing sample with air.\n3. Dipole moment µ = q × d, unit debye (10⁻¹⁸ esu cm); water 1.84 D; symmetrical molecules zero.\n4. Permanent vs induced dipoles; polarisability; Debye equation links total polarisation (from ε and density) with polarisability and µ; µ found by measuring ε at several temperatures.\n5. Applications of ε: classify solvents (polar >50, semipolar 20–50, non-polar <20), design cosolvent blends, predict solubility and ionic reactions.\n6. Applications of µ: molecular shape and symmetry, cis/trans and ortho/meta/para isomers, polarity and solubility, drug–receptor interactions."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write notes on (a) liquid crystals and (b) aerosols and inhalers.",
+      "answer": "(a) Liquid crystals: mesophase between solid and liquid; anisotropic, birefringent. Thermotropic — smectic (layers), nematic (parallel threads), cholesteric (twisted nematic layers, colour changes with temperature); lyotropic — surfactant + water (lamellar, hexagonal, cubic). Uses: emulsion stability, sustained delivery gels, thermography, displays; membranes behave like lyotropic liquid crystals.\n(b) Aerosols: pressurised packs releasing product as spray/foam; components container, valve, actuator, propellant, concentrate. Propellants: liquefied (HFA 134a, HFA 227, hydrocarbons; CFCs phased out) giving constant pressure; compressed (N2, CO2, N2O) with falling pressure. Inhalers: MDI (metered dose), DPI (breath-driven powder), nebuliser. Particles 1–5 µm reach lower airways."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a eutectic mixture? Explain with a phase diagram and give pharmaceutical examples.",
+      "answer": "A mixture of two components miscible as liquids but not as solids that melts at a temperature lower than either; the lowest point is the eutectic point. Diagram: two falling liquidus lines from mp of A and B meeting at E; below E solid A + solid B. Examples: camphor–menthol, thymol, phenol, chloral hydrate liquefy on trituration (prevent with light MgO or kaolin); lidocaine–prilocaine topical cream; solid dispersions with urea or PEG for faster dissolution."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain vapour pressure and derive its use in the Clausius–Clapeyron equation. Calculate the vapour pressure of water at 90 °C (ΔHv 9720 cal/mol).",
+      "answer": "Vapour pressure = pressure of vapour in equilibrium with liquid at a given temperature; rises with temperature; boiling when it equals external pressure. Clausius–Clapeyron: log(P2/P1) = ΔHv(T2 − T1)/(2.303RT1T2). Water: log(P2/760) = 9720 × (−10)/(2.303 × 1.987 × 373 × 363) = −0.157 → P2 ≈ 530 mm Hg. Uses: vacuum drying, distillation, aerosol propellants."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define specific rotation. Describe the polarimeter and give applications of optical rotation.",
+      "answer": "Specific rotation [α] = 100α/(l c), l in dm, c in g/100 ml, at stated temperature and wavelength (sodium D line). Polarimeter: sodium lamp → polariser (Nicol prism) → sample tube → analyser → eyepiece/detector; rotation read on scale. Dextro (+) and laevo (−). Example: α = +2.6°, l = 2 dm, c = 5 → [α] = +26°. Uses: identity and purity of chiral drugs (dextrose, alkaloids), concentration, following sucrose inversion, ORD and CD."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is refractive index? How is it measured and what are its uses?",
+      "answer": "n = speed of light in vacuum ÷ in medium = sin i/sin r; depends on temperature and wavelength. Measured with Abbe refractometer using the critical angle. Molar refraction Rm = [(n² − 1)/(n² + 2)] M/ρ is additive and helps identify structure. Uses: identity and purity of oils and liquids, concentration of solutions (sugar), detecting adulteration."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define relative humidity and critical relative humidity. Explain their importance in pharmacy.",
+      "answer": "RH = actual partial pressure of water vapour ÷ saturated vapour pressure at that temperature × 100. CRH = RH above which a water-soluble solid takes up moisture sharply. Hygroscopic, deliquescent (CaCl2) and efflorescent substances. Importance: storage and packaging, desiccants, humidity control in tablet and capsule manufacture (gelatin brittleness/softening), stability testing at 40 °C/75% RH."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain dissociation constant and describe its determination. State its applications.",
+      "answer": "Ka = [H+][A−]/[HA], pKa = −log Ka; pKa + pKb = 14. Henderson–Hasselbalch: pH = pKa + log[A−]/[HA]; at half-neutralisation pH = pKa. Methods: potentiometric titration, UV spectrophotometry, conductometry, solubility–pH method. Example: Ka 1.75 × 10⁻⁵ → pKa 4.76. Applications: predicting ionisation and absorption, solubility, salt and buffer selection, stability."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the phase rule.",
+      "answer": "F = C − P + 2, where F is degrees of freedom, C number of components and P number of phases in equilibrium."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define latent heat of vaporisation.",
+      "answer": "The heat absorbed when a unit mass (or one mole) of liquid changes to vapour at constant temperature; about 540 cal/g for water at 100 °C."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define surface tension and interfacial tension. Describe the methods of measuring them with equations and a numerical example.",
+      "answer": "1. Definitions: surface tension = force per unit length parallel to surface (dyne/cm = mN/m); interfacial tension = same at liquid–liquid boundary; cause = net inward pull on surface molecules.\n2. Surface free energy W = γΔA.\n3. Capillary rise: γ = ½rhρg; example r 0.05 cm, h 2.9 cm, ρ 1 → 71.1 dyne/cm; only surface tension.\n4. Drop weight/drop count (stalagmometer, Tate's law): γ1/γw = m1/mw; γ1/γw = nwρ1/n1ρw; example 20 vs 35 drops, ρ 0.79 → 32.5 dyne/cm.\n5. du Noüy ring tensiometer: force to detach a Pt–Ir ring, with correction factor; measures both surface and interfacial tension.\n6. Wilhelmy plate: γ = F/(wetted perimeter × cos θ).\n7. Effect of temperature and solutes; applications in emulsions, wetting, foaming."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are surface-active agents? Classify them with examples. Explain the HLB scale, its calculation and the blending of surfactants.",
+      "answer": "1. Definition: amphiphiles with hydrophilic head and lipophilic tail that adsorb at interfaces and lower tension.\n2. Classes: anionic (SLS, soaps, docusate), cationic (benzalkonium chloride, cetrimide), non-ionic (Spans, Tweens, GMS), ampholytic (lecithin, betaines) with uses.\n3. Micelles, CMC, Krafft point, cloud point.\n4. HLB scale and uses: 1–3 antifoam, 3–6 w/o, 7–9 wetting, 8–18 o/w, 13–15 detergent, 15–18 solubiliser.\n5. Calculation: HLB = 20(1 − S/A) (GMS: S 161, A 198 → 3.7); HLB = (E + P)/5; HLB = E/5; Davies group numbers + 7.\n6. Blending: HLBmix = fA HLBA + (1 − fA) HLBB; required HLB 12 with Tween 80 (15) and Span 80 (4.3) → 72% Tween 80, 28% Span 80."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss adsorption at the solid interface. Explain the Freundlich and Langmuir adsorption isotherms and give applications of adsorption in pharmacy.",
+      "answer": "1. Adsorbent, adsorbate; physical vs chemical adsorption (forces, heat, reversibility, layers, specificity, temperature).\n2. Freundlich: x/m = kc^(1/n); log(x/m) = log k + (1/n)log c; slope 1/n, intercept log k.\n3. Langmuir: assumptions (monolayer, uniform sites, no interaction); x/m = ymbc/(1 + bc); c/(x/m) = 1/(bym) + c/ym; example slope 2.5, intercept 0.5 → ym 0.4, b 5.\n4. BET multilayer equation for surface area; Brunauer's five isotherm types.\n5. Factors: surface area, solubility of adsorbate, concentration, temperature, pH.\n6. Wetting and contact angle (0°, <90°, >90°) and wetting agents.\n7. Applications: activated charcoal antidote, kaolin, decolourising, chromatography, drug loss to containers, desiccants, surface area measurement."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is spreading coefficient? Derive it from the works of adhesion and cohesion and give an example.",
+      "answer": "Wa = γL + γS − γLS; Wc = 2γL; S = Wa − Wc = γS − (γL + γLS). Positive S → spreads; negative → lens. Benzene on water: 72.8 − (28.9 + 35.0) = +8.9 dyne/cm, spreads initially, then after mutual saturation S becomes negative and lenses form. Uses: spreading of lotions, film coating, wetting of powders."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain micellar solubilisation and its pharmaceutical applications.",
+      "answer": "Increase in solubility of a poorly water-soluble substance by surfactant micelles above the CMC. Location: non-polar in core, semipolar in palisade layer, polar at surface or in polyoxyethylene shell. Factors: surfactant type and concentration, drug nature, temperature, electrolytes. Uses: vitamins A, D, E, K drops with polysorbates; steroids and essential oils; cresol with soap; injections. Drawbacks: toxicity, reduced preservative activity."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on detergency.",
+      "answer": "Detergency = removal of dirt from a surface by surfactants. Steps: wetting of surface and soil, adsorption at interfaces, emulsification of oily soil, solubilisation in micelles, deflocculation and suspension of particles to prevent redeposition, foaming aids removal. Detergents have HLB about 13–15 (soaps, SLS). Uses: cleaning equipment, shampoos, skin cleansers."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain adsorption at liquid interfaces and the Gibbs adsorption equation.",
+      "answer": "Surfactants accumulate at the interface (positive adsorption), lowering γ; electrolytes show negative adsorption and slightly raise γ. Gibbs equation Γ = −(c/RT)(dγ/dc): when γ falls with c, surface excess Γ is positive. Used to calculate amount adsorbed and area per molecule. Molecules orient with polar heads in water and tails in air or oil."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is critical micelle concentration? Explain how it is determined.",
+      "answer": "CMC = concentration at which surfactant molecules begin to form micelles. Above it, surface tension stays almost constant, conductivity changes slope (ionic), osmotic pressure levels off, solubilisation and light scattering rise. Determination: plot surface tension vs log c (drop count or ring) and read the break; conductivity vs concentration break; dye solubilisation. Factors: chain length, electrolytes (lower CMC of ionic), temperature."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate the HLB of a blend of 60% Tween 80 (HLB 15) and 40% Span 80 (HLB 4.3) and state its likely use.",
+      "answer": "HLBmix = 0.6 × 15 + 0.4 × 4.3 = 9.0 + 1.72 = 10.7. An HLB of about 10.7 lies in the o/w emulsifier range (8–18), so the blend is suitable for oil-in-water emulsions."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define surface free energy.",
+      "answer": "The work needed to increase the surface area by 1 cm²; W = γΔA, numerically equal to surface tension (erg/cm²)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is cloud point?",
+      "answer": "The temperature at which a solution of a non-ionic surfactant becomes turbid on heating, because the surfactant loses hydration and separates."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define complexation. Classify complexes with suitable examples and discuss their pharmaceutical applications.",
+      "answer": "1. Complex = species from association of a donor (ligand) and acceptor via coordinate bonds or weaker forces.\n2. Metal ion complexes: inorganic ([Cu(NH3)4]²⁺), chelates (EDTA, glycine–Cu, dimercaprol, penicillamine, deferoxamine), olefin type, aromatic/sandwich (ferrocene).\n3. Organic molecular complexes: quinhydrone, picric acid type, caffeine complexes (with sodium benzoate, benzocaine, PABA), polymer type (PVP–iodine, PEG, CMC).\n4. Inclusion compounds: channel lattice (deoxycholic acid, urea), layer (bentonite, graphite), clathrates (hydroquinone), monomolecular (cyclodextrins α 6, β 7, γ 8), macromolecular (zeolites).\n5. Applications: solubility, stability, absorption (tetracycline–Ca), antidotes, analysis (EDTA titration), slow-release antiseptics, taste masking."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the methods of analysis of complexes with emphasis on Job's method, the pH titration method and the solubility method.",
+      "answer": "1. Purpose: stoichiometry and stability constant.\n2. Job's continuous variation: additive property vs mole fraction at constant total moles; peak at 0.5 = 1:1, at 0.33 metal = 1:2.\n3. pH titration (Bjerrum, Cu–glycine): curve with metal lies at lower pH; n̄ from extra alkali; formation curve n̄ vs pA; log K1 at n̄ 0.5, log K2 at n̄ 1.5; β = K1K2.\n4. Distribution method: change in partition ratio with ligand (I2 + I⁻ ⇌ I3⁻).\n5. Solubility method (Higuchi–Connors): phase solubility diagrams AL, AP, AN, BS, BI; K(1:1) = slope/[S0(1 − slope)]; example S0 0.002, slope 0.4 → 333 M⁻¹.\n6. Spectroscopic (Benesi–Hildebrand), NMR, IR, polarography, conductance."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss protein binding of drugs: mechanism, significance, factors, methods of study and quantitative treatment.",
+      "answer": "1. Drugs bind reversibly to albumin (acidic drugs), α1-acid glycoprotein (basic drugs), lipoproteins, globulins.\n2. Only free drug is active, distributed, metabolised and excreted; bound drug acts as a reservoir.\n3. Significance: prolonged action, lower Vd, delayed elimination, displacement interactions (warfarin by phenylbutazone), kernicterus with sulfonamides in newborns, hypoalbuminaemia, saturation.\n4. Factors: drug properties and concentration, protein amount, competing substances, age and disease.\n5. Quantitative: r = νK[Df]/(1 + K[Df]); Klotz 1/r = 1/(νK[Df]) + 1/ν; Scatchard r/[Df] = νK − rK; example intercept 0.5, slope 2 × 10⁻⁵ → ν 2, K 2.5 × 10⁴ M⁻¹.\n6. Methods: equilibrium dialysis, ultrafiltration, gel filtration, dynamic dialysis, spectroscopy/fluorescence."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are chelates? Give their properties and pharmaceutical applications.",
+      "answer": "Ring complexes formed when a multidentate ligand binds a metal through two or more donor atoms (5- or 6-membered rings). More stable than similar monodentate complexes (chelate effect, mainly entropy gain). Examples and uses: EDTA (titrations, preservative aid, lead poisoning as calcium disodium EDTA), dimercaprol (As, Hg), penicillamine (Cu, Wilson's disease), deferoxamine (Fe), Cu–glycine; natural chelates haemoglobin and chlorophyll; tetracycline–Ca chelates reduce absorption."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on inclusion compounds with special reference to cyclodextrins.",
+      "answer": "Guest trapped in a cavity of host without bonds. Types: channel lattice (deoxycholic acid, urea), layer (bentonite, graphite), clathrate (hydroquinone cages), monomolecular (cyclodextrins), macromolecular (zeolites). Cyclodextrins: cyclic glucose oligomers α 6, β 7, γ 8 units; truncated cone, hydrophobic cavity, hydrophilic exterior. Uses: increase solubility and dissolution, protect from oxidation, hydrolysis and light, reduce irritation and bitterness, convert liquids to powders."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain organic molecular complexes with examples.",
+      "answer": "Formed by weak forces (hydrogen bonds, dipole, charge transfer between donor and acceptor). Quinhydrone (quinone + hydroquinone), picric acid complexes with aromatics and amines, caffeine complexes (with sodium benzoate — solubility; benzocaine — slower hydrolysis; PABA), theophylline–ethylenediamine, polymer complexes (PVP–iodine, PEG, CMC binding phenols; loss of preservatives to plastics)."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the thermodynamic treatment of stability constants. Calculate ΔG° for a complex with K = 1000 M⁻¹ at 25 °C.",
+      "answer": "K = [ML]/([M][L]); stepwise K1, K2, overall β2 = K1K2. ΔG° = −2.303RT log K; ΔG° = ΔH° − TΔS°; ΔH° from van't Hoff: log(K2/K1) = ΔH°(T2 − T1)/(2.303RT1T2). Negative ΔH° = bond formation; positive ΔS° explains chelate effect. Calculation: ΔG° = −2.303 × 1.987 × 298 × 3 = −4091 cal/mol ≈ −4.1 kcal/mol."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the crystalline structures of metal complexes based on coordination number.",
+      "answer": "CN 2 linear ([Ag(NH3)2]⁺); CN 4 tetrahedral ([Zn(NH3)4]²⁺) or square planar ([Cu(NH3)4]²⁺, [Ni(CN)4]²⁻, cisplatin); CN 6 octahedral ([Co(NH3)6]³⁺, [Fe(CN)6]⁴⁻). Square planar and octahedral show cis–trans isomerism (cisplatin active); chelated octahedral complexes show optical isomerism. Molecular complexes stack donor–acceptor; inclusion compounds follow host lattice (channel, layer, cage)."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain how complexation and protein binding influence drug action.",
+      "answer": "Absorption: tetracycline–Ca/Mg/Al/Fe chelates reduce it; cyclodextrin complexes increase it. Distribution and duration: protein-bound drug acts as a depot, lower Vd, longer half-life. Activity: oxine acts by chelating metals; cisplatin is a metal complex drug. Toxicity: chelating antidotes remove metals; displacement from protein raises free drug (warfarin bleeding, kernicterus). Stability: complexes protect drugs (benzocaine–caffeine)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a ligand?",
+      "answer": "A molecule or ion that donates a pair of electrons to a central metal ion or acceptor to form a complex (e.g. NH3, H2O, EDTA)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which plasma protein binds acidic drugs and which binds basic drugs?",
+      "answer": "Albumin mainly binds acidic and neutral drugs (warfarin, salicylates); α1-acid glycoprotein binds basic drugs (propranolol, lidocaine)."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define buffer and buffer capacity. Derive the buffer equation and discuss buffer capacity with the Van Slyke equation. Give numerical examples.",
+      "answer": "1. Buffer: resists pH change on adding small amounts of acid/base or dilution; acidic (acetic acid + sodium acetate), basic (NH3 + NH4Cl), salt (phosphate) buffers.\n2. Mechanism with equations for added acid and base.\n3. Derivation: Ka = [H+][A−]/[HA] → pH = pKa + log[salt]/[acid]; basic: pH = pKw − pKb + log[base]/[salt].\n4. Example: 0.1 M acid + 0.2 M salt, pKa 4.76 → pH 5.06.\n5. Buffer capacity β = ΔB/ΔpH; Van Slyke β = 2.303CKa[H3O+]/(Ka + [H3O+])²; maximum at pH = pKa, βmax = 0.576C; useful range pKa ± 1; increases with total concentration.\n6. Example: 0.1 M acetate buffer at pH = pKa → βmax = 0.0576; adding 0.01 mol NaOH raises pH by 0.1 → β = 0.1.\n7. Effects of dilution, neutral salts and temperature."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are isotonic solutions? Describe the methods of adjusting tonicity with suitable calculations.",
+      "answer": "1. Osmosis; isotonic (0.9% NaCl, 5% dextrose), hypertonic (crenation), hypotonic (haemolysis); iso-osmotic vs isotonic (boric acid 1.9%).\n2. Measurement: haemolytic method, freezing point depression (blood and tears −0.52 °C), osmometry; ΔTf = Liso × c.\n3. Class I — cryoscopic: W = (0.52 − a)/b, b = 0.58; 1% boric acid (a 0.29) → 0.40 g NaCl/100 ml.\n4. Class I — NaCl equivalent: E = 17Liso/M; 30 ml of 2% atropine sulfate (E 0.13): 0.27 − 0.6 × 0.13 = 0.192 g NaCl.\n5. Class II — White–Vincent: V = w × E × 111.1 → 0.6 × 0.13 × 111.1 = 8.7 ml water, then isotonic vehicle to 30 ml.\n6. Class II — Sprowls: table of V for 0.3 g drug.\n7. Buffered isotonic vehicles for eye drops and injections."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss buffers in pharmaceutical and biological systems. What factors are considered while preparing a pharmaceutical buffer?",
+      "answer": "1. Blood pH 7.4 (7.35–7.45); bicarbonate/carbonic acid (20:1 at pKa 6.1), phosphate, proteins and haemoglobin; acidosis and alkalosis.\n2. Lacrimal fluid pH about 7.4; urine about 6.\n3. Pharmaceutical buffers: ophthalmic (boric acid, borate, phosphate, Gifford's), parenteral (phosphate, citrate, acetate), oral, standard buffers (phthalate, phosphate, borate).\n4. Preparation steps: pKa near wanted pH, ratio by buffer equation, suitable total concentration, check with pH meter.\n5. Considerations: stability vs comfort, low buffer capacity for eye drops and injections so tissues adjust, toxicity (no borate in injections), compatibility, tonicity, sterility.\n6. Influence of pH on solubility, stability, activity of preservatives and absorption."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the electrometric method of pH determination.",
+      "answer": "pH meter measures the potential of an H+-sensitive electrode against a reference. Hydrogen electrode = primary standard; glass electrode (special glass bulb with internal Ag/AgCl and buffer) used routinely; reference calomel or Ag/AgCl. About 59.2 mV per pH unit at 25 °C. Calibrate with standard buffers (pH 4.0, 7.0, 9.2) at sample temperature. Errors: alkaline (sodium) error, acid error, temperature, dry membrane. Accurate to ±0.01, works in coloured solutions."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the colorimetric method of pH determination and the theory of indicators.",
+      "answer": "Indicators are weak acids/bases with differently coloured ionised and un-ionised forms: pH = pKIn + log[In−]/[HIn]; visible change over about pKIn ± 1. Examples: methyl orange 3.1–4.4, methyl red 4.4–6.2, bromothymol blue 6.0–7.6, phenolphthalein 8.3–10.0. Comparison with standard buffer colours, universal indicator, pH paper. Limitations: ±0.1–0.2 accuracy, salt and protein errors, coloured/turbid samples."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Calculate the ratio of sodium acetate to acetic acid needed to prepare a buffer of pH 5.0 (pKa 4.76). Also find the pH of a buffer with 0.1 M NH3 and 0.1 M NH4Cl (pKb 4.75).",
+      "answer": "log([salt]/[acid]) = 5.0 − 4.76 = 0.24 → ratio = 10^0.24 = 1.74 : 1. Ammonia buffer: pH = pKw − pKb + log([base]/[salt]) = 14 − 4.75 + log 1 = 9.25."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the sodium chloride equivalent method. How much NaCl is needed to make 30 ml of 2% atropine sulfate isotonic (E = 0.13)?",
+      "answer": "E = grams of NaCl osmotically equal to 1 g of drug (E = 17Liso/M). Steps: NaCl for whole volume isotonic (0.9 g/100 ml), subtract drug weight × E. Atropine sulfate = 0.6 g → 0.078 g NaCl equivalent; NaCl for 30 ml = 0.27 g; add 0.27 − 0.078 = 0.192 g NaCl. With boric acid (E 0.50) instead: 0.384 g."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on Sørensen's pH scale. Calculate the pH of 0.1 M acetic acid (pKa 4.76).",
+      "answer": "pH = −log[H3O+] (strictly activity), Sørensen 1909. Kw = 1 × 10⁻¹⁴ at 25 °C; pH + pOH = 14; 0–7 acidic, 7 neutral, 7–14 basic; one unit = 10-fold change; Kw rises with temperature. Weak acid pH = ½pKa − ½log C = 2.38 + 0.5 = 2.88."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the White–Vincent and Sprowls methods for preparing isotonic solutions.",
+      "answer": "Class II methods: make drug isotonic with water then dilute with isotonic vehicle. White–Vincent: V = w × E × 111.1 ml (111.1 ml water made isotonic by 1 g NaCl). Example 0.6 g atropine sulfate, E 0.13 → 8.7 ml water, then isotonic buffered vehicle to final volume. Sprowls: precalculated table of V for 0.3 g of drug (for 1 fl oz of 1% solution), read directly and make up with isotonic vehicle."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the freezing point of blood plasma and tears?",
+      "answer": "About −0.52 °C; a solution with the same freezing point depression is iso-osmotic with them."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "At what pH is the buffer capacity of a buffer maximum?",
+      "answer": "When pH = pKa (salt : acid = 1 : 1); βmax = 0.576 × total buffer concentration."
+    }
+  ]
+}

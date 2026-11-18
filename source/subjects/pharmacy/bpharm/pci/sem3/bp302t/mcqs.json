@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "As per the pharmacopoeia, 'sparingly soluble' means 1 part of solute needs:",
+      "options": [
+        "1 to 10 parts of solvent",
+        "10 to 30 parts of solvent",
+        "30 to 100 parts of solvent",
+        "100 to 1000 parts of solvent"
+      ],
+      "correct": 2,
+      "explanation": "Sparingly soluble is 30–100 parts; soluble is 10–30 and slightly soluble 100–1000.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Molality is defined as moles of solute per:",
+      "options": [
+        "Litre of solution",
+        "Kilogram of solvent",
+        "Litre of solvent",
+        "Kilogram of solution"
+      ],
+      "correct": 1,
+      "explanation": "Molality uses mass of solvent, so it does not change with temperature.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Henry's law relates the solubility of a gas to its:",
+      "options": [
+        "Temperature",
+        "Partial pressure",
+        "Molecular weight",
+        "Viscosity"
+      ],
+      "correct": 1,
+      "explanation": "At constant temperature the dissolved gas concentration is proportional to its partial pressure (C = σp).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "A solution showing negative deviation from Raoult's law forms:",
+      "options": [
+        "A minimum-boiling azeotrope",
+        "A maximum-boiling azeotrope",
+        "An ideal solution",
+        "Two immiscible layers"
+      ],
+      "correct": 1,
+      "explanation": "Stronger A–B attraction lowers vapour pressure, giving a maximum-boiling azeotrope (chloroform–acetone).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The upper critical solution temperature of the phenol–water system is about:",
+      "options": [
+        "18.5 °C",
+        "40 °C",
+        "66.8 °C",
+        "100 °C"
+      ],
+      "correct": 2,
+      "explanation": "Above about 66.8 °C phenol and water mix in all proportions.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Adding NaCl to the phenol–water system:",
+      "options": [
+        "Lowers the CST",
+        "Raises the CST",
+        "Has no effect on CST",
+        "Makes the liquids immiscible at all temperatures"
+      ],
+      "correct": 1,
+      "explanation": "NaCl dissolves only in water and raises the CST in proportion to its concentration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Benzoic acid distributed between benzene and water gives a constant value of:",
+      "options": [
+        "Cb/Cw",
+        "Cw/Cb²",
+        "Cw/√Cb",
+        "Cb × Cw"
+      ],
+      "correct": 2,
+      "explanation": "Benzoic acid dimerises in benzene, so Cw/√Cb stays constant.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Ideal solubility of a solid depends on:",
+      "options": [
+        "Its melting point and heat of fusion",
+        "The solvent's viscosity",
+        "The solvent's dielectric constant only",
+        "The particle shape"
+      ],
+      "correct": 0,
+      "explanation": "log X2 = −ΔHf(T0 − T)/2.303RT0T involves only the solute's heat of fusion and melting point.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "According to Fick's first law, flux is proportional to:",
+      "options": [
+        "Concentration gradient",
+        "Square of time",
+        "Molecular weight",
+        "Surface tension"
+      ],
+      "correct": 0,
+      "explanation": "J = −D dC/dx: flux depends on the diffusion coefficient and the concentration gradient.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The solubility of a weak acid drug in water:",
+      "options": [
+        "Decreases as pH rises",
+        "Increases as pH rises",
+        "Does not depend on pH",
+        "Is highest at pH 1"
+      ],
+      "correct": 1,
+      "explanation": "S = S0[1 + 10^(pH − pKa)]: ionisation at higher pH increases total solubility.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The phase rule is:",
+      "options": [
+        "F = C + P − 2",
+        "F = C − P + 2",
+        "F = P − C + 2",
+        "F = C − P − 2"
+      ],
+      "correct": 1,
+      "explanation": "Gibbs phase rule: degrees of freedom = components − phases + 2.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "At the triple point of water the number of degrees of freedom is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "F = 1 − 3 + 2 = 0; the triple point is invariant (0.01 °C, 4.58 mm Hg).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Liquid crystals with molecules arranged in layers are called:",
+      "options": [
+        "Nematic",
+        "Smectic",
+        "Cholesteric",
+        "Isotropic"
+      ],
+      "correct": 1,
+      "explanation": "Smectic (soap-like) liquid crystals have layered molecules; nematic are parallel threads without layers.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which polymorph of chloramphenicol palmitate gives higher blood levels?",
+      "options": [
+        "Form A",
+        "Form B",
+        "Both equal",
+        "Neither is absorbed"
+      ],
+      "correct": 1,
+      "explanation": "The metastable form B dissolves faster and gives higher blood levels than stable form A.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The dielectric constant of water at 25 °C is about:",
+      "options": [
+        "2.3",
+        "24",
+        "42",
+        "78.5"
+      ],
+      "correct": 3,
+      "explanation": "Water's high dielectric constant (about 78.5) lets it separate ions well.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The unit of dipole moment is the:",
+      "options": [
+        "Debye",
+        "Dyne",
+        "Poise",
+        "Svedberg"
+      ],
+      "correct": 0,
+      "explanation": "1 debye = 10⁻¹⁸ esu cm; water has about 1.84 D.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "In the specific rotation formula [α] = 100α/(l c), the path length l is expressed in:",
+      "options": [
+        "Centimetres",
+        "Millimetres",
+        "Decimetres",
+        "Metres"
+      ],
+      "correct": 2,
+      "explanation": "The polarimeter tube length is taken in decimetres.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A mixture of camphor and menthol liquefies on trituration because it forms a:",
+      "options": [
+        "Eutectic mixture",
+        "Azeotrope",
+        "Liquid crystal",
+        "Clathrate"
+      ],
+      "correct": 0,
+      "explanation": "The pair melts below room temperature at the eutectic composition.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which propellant type keeps a nearly constant pressure until the aerosol is empty?",
+      "options": [
+        "Compressed nitrogen",
+        "Compressed carbon dioxide",
+        "Liquefied gas such as HFA",
+        "Compressed nitrous oxide"
+      ],
+      "correct": 2,
+      "explanation": "A liquefied propellant keeps its vapour pressure while liquid remains in the can.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "At half-neutralisation of a weak acid by NaOH:",
+      "options": [
+        "pH = pKa",
+        "pH = 7",
+        "pH = 2pKa",
+        "pH = pKw − pKa"
+      ],
+      "correct": 0,
+      "explanation": "[salt] = [acid], so log term is zero and pH equals pKa.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The surface tension of water at 20 °C is about:",
+      "options": [
+        "22.3 dyne/cm",
+        "35.0 dyne/cm",
+        "72.8 dyne/cm",
+        "476 dyne/cm"
+      ],
+      "correct": 2,
+      "explanation": "Water has a high surface tension, about 72.8 dyne/cm, due to hydrogen bonding.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The spreading coefficient S is given by:",
+      "options": [
+        "γS − (γL + γLS)",
+        "γL + γS + γLS",
+        "2γL",
+        "γLS − γS"
+      ],
+      "correct": 0,
+      "explanation": "S = Wa − Wc = γS − (γL + γLS); positive S means the liquid spreads.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Surfactants with HLB 3–6 are used as:",
+      "options": [
+        "o/w emulsifiers",
+        "w/o emulsifiers",
+        "Solubilisers",
+        "Detergents"
+      ],
+      "correct": 1,
+      "explanation": "Low HLB (lipophilic) surfactants stabilise water-in-oil emulsions.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "HLB of glyceryl monostearate (S = 161, A = 198) by Griffin's equation is about:",
+      "options": [
+        "3.7",
+        "8.6",
+        "12.0",
+        "16.3"
+      ],
+      "correct": 0,
+      "explanation": "HLB = 20(1 − 161/198) = 3.7.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Benzalkonium chloride is a:",
+      "options": [
+        "Anionic surfactant",
+        "Cationic surfactant",
+        "Non-ionic surfactant",
+        "Ampholytic surfactant"
+      ],
+      "correct": 1,
+      "explanation": "Its quaternary ammonium head carries a positive charge; used as a preservative.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The concentration at which micelles begin to form is the:",
+      "options": [
+        "Krafft point",
+        "Cloud point",
+        "Critical micelle concentration",
+        "Critical solution temperature"
+      ],
+      "correct": 2,
+      "explanation": "Above the CMC extra surfactant forms micelles and surface tension stays almost constant.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Which instrument measures both surface and interfacial tension?",
+      "options": [
+        "Capillary tube",
+        "du Noüy ring tensiometer",
+        "Polarimeter",
+        "Abbe refractometer"
+      ],
+      "correct": 1,
+      "explanation": "The ring can be pulled through a liquid–liquid interface as well as a liquid–air surface.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "In the Freundlich isotherm, a plot of log(x/m) against log c has a slope of:",
+      "options": [
+        "k",
+        "log k",
+        "1/n",
+        "ym"
+      ],
+      "correct": 2,
+      "explanation": "log(x/m) = log k + (1/n) log c.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Chemical adsorption differs from physical adsorption because it:",
+      "options": [
+        "Is multilayer",
+        "Is reversible",
+        "Involves chemical bonds and is specific",
+        "Has a low heat of adsorption"
+      ],
+      "correct": 2,
+      "explanation": "Chemisorption forms chemical bonds, is specific, usually irreversible and monolayer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "A contact angle greater than 90° indicates:",
+      "options": [
+        "Complete wetting",
+        "Good wetting",
+        "Poor wetting",
+        "Spreading"
+      ],
+      "correct": 2,
+      "explanation": "Large contact angles mean the liquid does not wet the solid well.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "β-cyclodextrin contains how many glucose units?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "α, β and γ cyclodextrins have 6, 7 and 8 glucose units.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "EDTA is a:",
+      "options": [
+        "Monodentate ligand",
+        "Bidentate ligand",
+        "Tetradentate ligand only",
+        "Hexadentate ligand"
+      ],
+      "correct": 3,
+      "explanation": "EDTA binds a metal through two nitrogens and four carboxylate oxygens.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Tetracyclines should not be taken with milk because they:",
+      "options": [
+        "Form chelates with calcium",
+        "Are hydrolysed by lactose",
+        "Bind to casein covalently",
+        "Are oxidised by milk fat"
+      ],
+      "correct": 0,
+      "explanation": "Chelation with Ca²⁺ forms poorly absorbed complexes.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Acidic drugs bind mainly to:",
+      "options": [
+        "α1-acid glycoprotein",
+        "Albumin",
+        "Haemoglobin",
+        "Lipoproteins only"
+      ],
+      "correct": 1,
+      "explanation": "Albumin is the main binding protein for acidic and neutral drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "In Job's method, a maximum at 0.5 mole fraction indicates a complex of ratio:",
+      "options": [
+        "1:1",
+        "1:2",
+        "2:1",
+        "1:3"
+      ],
+      "correct": 0,
+      "explanation": "Equal mole fractions at the peak mean one molecule of each component.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "For an AL phase solubility diagram, the 1:1 stability constant equals:",
+      "options": [
+        "slope/[S0(1 − slope)]",
+        "S0/slope",
+        "slope × S0",
+        "(1 − slope)/S0"
+      ],
+      "correct": 0,
+      "explanation": "Higuchi–Connors equation for a linear diagram.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Povidone-iodine is an example of a:",
+      "options": [
+        "Chelate",
+        "Polymer-type molecular complex",
+        "Clathrate",
+        "Channel lattice compound"
+      ],
+      "correct": 1,
+      "explanation": "Iodine is held by polyvinylpyrrolidone and released slowly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The most widely used method to study protein binding is:",
+      "options": [
+        "Polarimetry",
+        "Equilibrium dialysis",
+        "Refractometry",
+        "Viscometry"
+      ],
+      "correct": 1,
+      "explanation": "Only free drug crosses the membrane; at equilibrium free drug is equal on both sides.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Displacement of bilirubin from albumin by sulfonamides in newborns can cause:",
+      "options": [
+        "Kernicterus",
+        "Grey baby syndrome",
+        "Reye's syndrome",
+        "Neural tube defects"
+      ],
+      "correct": 0,
+      "explanation": "Free bilirubin enters the infant brain.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The relation between free energy and stability constant is:",
+      "options": [
+        "ΔG° = 2.303RT log K",
+        "ΔG° = −2.303RT log K",
+        "ΔG° = −RT/K",
+        "ΔG° = K/RT"
+      ],
+      "correct": 1,
+      "explanation": "A larger K gives a more negative ΔG°.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The buffer capacity of a buffer is maximum when:",
+      "options": [
+        "pH = 7",
+        "pH = pKa",
+        "pH = pKa + 2",
+        "Salt : acid = 10 : 1"
+      ],
+      "correct": 1,
+      "explanation": "At pH = pKa the ratio is 1:1 and βmax = 0.576C.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The freezing point of blood plasma is about:",
+      "options": [
+        "−0.52 °C",
+        "−0.58 °C",
+        "−1.86 °C",
+        "0 °C"
+      ],
+      "correct": 0,
+      "explanation": "Solutions with ΔTf of 0.52 °C are iso-osmotic with blood and tears.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Red blood cells placed in a hypotonic solution undergo:",
+      "options": [
+        "Crenation",
+        "Haemolysis",
+        "No change",
+        "Coagulation"
+      ],
+      "correct": 1,
+      "explanation": "Water enters the cells, which swell and burst.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The pH of a buffer of 0.1 M acetic acid and 0.2 M sodium acetate (pKa 4.76) is about:",
+      "options": [
+        "4.46",
+        "4.76",
+        "5.06",
+        "5.76"
+      ],
+      "correct": 2,
+      "explanation": "pH = 4.76 + log 2 = 5.06.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In the cryoscopic method W = (0.52 − a)/b, b is the freezing point depression of:",
+      "options": [
+        "Water",
+        "1% NaCl",
+        "0.9% NaCl",
+        "Blood"
+      ],
+      "correct": 1,
+      "explanation": "b ≈ 0.58 °C for 1% NaCl solution.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "In the White–Vincent equation V = w × E × 111.1, the 111.1 represents:",
+      "options": [
+        "ml of water made isotonic by 1 g NaCl",
+        "Molecular weight of NaCl",
+        "Freezing point of blood × 100",
+        "Liso of NaCl"
+      ],
+      "correct": 0,
+      "explanation": "0.9 g NaCl per 100 ml means 1 g NaCl makes 111.1 ml isotonic.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The main buffer system of blood plasma is:",
+      "options": [
+        "Acetate",
+        "Borate",
+        "Bicarbonate–carbonic acid",
+        "Citrate"
+      ],
+      "correct": 2,
+      "explanation": "Plasma pH 7.4 is held mainly by bicarbonate/carbonic acid in a 20:1 ratio.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Which buffer should not be used in injections?",
+      "options": [
+        "Phosphate",
+        "Citrate",
+        "Acetate",
+        "Borate"
+      ],
+      "correct": 3,
+      "explanation": "Borate is toxic for parenteral use; it is used in eye drops.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The glass electrode response at 25 °C is about:",
+      "options": [
+        "5.9 mV per pH unit",
+        "59.2 mV per pH unit",
+        "592 mV per pH unit",
+        "0.592 mV per pH unit"
+      ],
+      "correct": 1,
+      "explanation": "Nernstian slope 2.303RT/F ≈ 0.0592 V per pH unit at 25 °C.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The useful range of a buffer is approximately:",
+      "options": [
+        "pKa ± 1",
+        "pKa ± 3",
+        "pH 0–14",
+        "pKa ± 0.1"
+      ],
+      "correct": 0,
+      "explanation": "Outside about one unit from pKa the buffer capacity becomes small.",
+      "probability": "medium"
+    }
+  ]
+}

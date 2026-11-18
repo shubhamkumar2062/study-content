@@ -1,0 +1,108 @@
+{
+  "code": "BP302T",
+  "title": "Physical Pharmaceutics I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP302T Physical Pharmaceutics I and BP306P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP302T_B.Pharma-pages-15.pdf"
+  },
+  "practicalCodes": [
+    "BP306P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Solubility of drugs",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "States of matter and properties of matter",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Surface and interfacial phenomenon",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Complexation and protein binding",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "pH, buffers and isotonic solutions",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "solubility-room-temperature",
+      "title": "Solubility of a drug at room temperature",
+      "file": "practicals/solubility-room-temperature.md"
+    },
+    {
+      "id": "pka-half-neutralisation",
+      "title": "pKa by half-neutralisation (Henderson–Hasselbalch equation)",
+      "file": "practicals/pka-half-neutralisation.md"
+    },
+    {
+      "id": "partition-benzoic-acid",
+      "title": "Partition coefficient of benzoic acid in benzene and water",
+      "file": "practicals/partition-benzoic-acid.md"
+    },
+    {
+      "id": "partition-iodine",
+      "title": "Partition coefficient of iodine in CCl4 and water",
+      "file": "practicals/partition-iodine.md"
+    },
+    {
+      "id": "cst-phenol-water-nacl",
+      "title": "% NaCl by the CST of the phenol–water system",
+      "file": "practicals/cst-phenol-water-nacl.md"
+    },
+    {
+      "id": "surface-tension-stalagmometer",
+      "title": "Surface tension by drop count and drop weight methods",
+      "file": "practicals/surface-tension-stalagmometer.md"
+    },
+    {
+      "id": "hlb-saponification",
+      "title": "HLB number of a surfactant by the saponification method",
+      "file": "practicals/hlb-saponification.md"
+    },
+    {
+      "id": "adsorption-charcoal",
+      "title": "Freundlich and Langmuir constants using activated charcoal",
+      "file": "practicals/adsorption-charcoal.md"
+    },
+    {
+      "id": "critical-micelle-concentration",
+      "title": "Critical micelle concentration of a surfactant",
+      "file": "practicals/critical-micelle-concentration.md"
+    },
+    {
+      "id": "paba-caffeine-complex",
+      "title": "Stability constant of PABA–caffeine complex (solubility method)",
+      "file": "practicals/paba-caffeine-complex.md"
+    },
+    {
+      "id": "copper-glycine-complex",
+      "title": "Stability constant of copper–glycine complex (pH titration)",
+      "file": "practicals/copper-glycine-complex.md"
+    }
+  ]
+}
