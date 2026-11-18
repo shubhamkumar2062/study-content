@@ -1,0 +1,123 @@
+{
+  "code": "BP303T",
+  "title": "Pharmaceutical Microbiology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, B.Pharm syllabus, semester 3, BP303T (university copy)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP303T_B.Pharma-pages-16.pdf"
+  },
+  "practicalCodes": [
+    "BP307P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to microbiology, bacteria and their cultivation, microscopy",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Identification of bacteria and sterilisation",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Fungi, viruses, disinfectants and sterility testing",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Aseptic areas, clean rooms and microbiological assays",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Spoilage, preservation and animal cell culture",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "equipment-study",
+      "title": "Study of laboratory equipment and processes",
+      "file": "practicals/equipment-study.md"
+    },
+    {
+      "id": "glassware-sterilisation",
+      "title": "Sterilisation of glassware and preparation of media",
+      "file": "practicals/glassware-sterilisation.md"
+    },
+    {
+      "id": "culture-media",
+      "title": "Preparation of culture media for bacteria",
+      "file": "practicals/culture-media.md"
+    },
+    {
+      "id": "subculturing",
+      "title": "Sub-culturing of bacteria and fungi (stabs and slants)",
+      "file": "practicals/subculturing.md"
+    },
+    {
+      "id": "simple-staining",
+      "title": "Simple staining of bacteria",
+      "file": "practicals/simple-staining.md"
+    },
+    {
+      "id": "gram-staining",
+      "title": "Gram staining",
+      "file": "practicals/gram-staining.md"
+    },
+    {
+      "id": "acid-fast-staining",
+      "title": "Acid-fast (Ziehl-Neelsen) staining",
+      "file": "practicals/acid-fast-staining.md"
+    },
+    {
+      "id": "motility-hanging-drop",
+      "title": "Motility by the hanging drop method",
+      "file": "practicals/motility-hanging-drop.md"
+    },
+    {
+      "id": "pure-culture-isolation",
+      "title": "Isolation of a pure culture by streak plate",
+      "file": "practicals/pure-culture-isolation.md"
+    },
+    {
+      "id": "imvic-tests",
+      "title": "Biochemical identification by IMViC tests",
+      "file": "practicals/imvic-tests.md"
+    },
+    {
+      "id": "antibiotic-assay",
+      "title": "Microbiological assay of an antibiotic by the cup-plate method",
+      "file": "practicals/antibiotic-assay.md"
+    },
+    {
+      "id": "sterility-testing",
+      "title": "Sterility testing of a pharmaceutical product",
+      "file": "practicals/sterility-testing.md"
+    },
+    {
+      "id": "water-analysis",
+      "title": "Bacteriological analysis of water",
+      "file": "practicals/water-analysis.md"
+    },
+    {
+      "id": "phenol-coefficient",
+      "title": "Evaluation of a disinfectant (phenol coefficient)",
+      "file": "practicals/phenol-coefficient.md"
+    }
+  ]
+}

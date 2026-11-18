@@ -1,0 +1,464 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and on the weight the topic carries in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the ultra-structure of a bacterial cell with a labelled diagram and give the function of each part.",
+      "answer": "1. Definition: bacteria are prokaryotic unicellular organisms, 0.5-5 µm, with no nuclear membrane and no membrane-bound organelles.\n2. Draw the cell: capsule, cell wall, cell membrane, cytoplasm with ribosomes and nucleoid, plasmid, mesosome, inclusion granules, flagellum, pili.\n3. Capsule: polysaccharide layer outside the wall; protects from phagocytosis, helps adhesion, a virulence factor.\n4. Cell wall: peptidoglycan (murein); gives shape and prevents osmotic bursting; target of penicillins. Gram-positive wall is thick with teichoic acid; Gram-negative wall is thin with an outer membrane carrying lipopolysaccharide (endotoxin).\n5. Cell membrane: phospholipid bilayer with proteins, no sterols; selective permeability, transport, site of respiratory enzymes.\n6. Mesosome: infolding of the membrane, associated with division and respiration.\n7. Cytoplasm: enzymes, 70S ribosomes (50S + 30S) for protein synthesis; target of aminoglycosides, tetracyclines and macrolides.\n8. Nucleoid: single circular DNA without histones. Plasmid: small extra circular DNA carrying resistance or toxin genes, used in genetic engineering.\n9. Inclusions: volutin (metachromatic) granules, glycogen, poly-beta-hydroxybutyrate as food reserves.\n10. Flagella give motility (monotrichous, lophotrichous, amphitrichous, peritrichous); pili help attachment and the sex pilus transfers DNA.\n11. Endospore: thick resistant resting body of Bacillus and Clostridium, rich in calcium dipicolinate and low in water, resistant to heat and chemicals.\n12. Pharmaceutical relevance: structures absent from human cells are the targets of selective antibiotics, and spores decide sterilisation conditions."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Draw and explain the bacterial growth curve. Add the methods used to count bacteria.",
+      "answer": "1. Definition: a plot of the logarithm of the number of cells against time when bacteria are grown in a closed broth system.\n2. Draw the curve with four phases marked.\n3. Lag phase: no increase in number; cells enlarge, synthesise enzymes and adapt. Its length depends on the size and age of the inoculum and on the medium.\n4. Log (exponential) phase: cells divide at the maximum constant rate; generation time is shortest (about 20 minutes for Escherichia coli). Cells are uniform and most sensitive to antibiotics, so this phase is used for assays and research.\n5. Stationary phase: growth rate equals death rate because nutrients are exhausted and toxic products accumulate; spores and most secondary metabolites, including antibiotics, are formed here.\n6. Decline (death) phase: viable count falls exponentially; involution forms appear.\n7. Generation time g = t / n where n = (log N - log N0) / log 2.\n8. Total count (living plus dead): direct microscopic count in a counting chamber, turbidity measurement at about 600 nm, dry weight, electronic counters.\n9. Viable count (living only): pour plate and spread plate counts expressed as colony forming units, membrane filtration for water, and the most probable number method.\n10. Plate count rule: count plates bearing 30 to 300 colonies; CFU per ml = colonies / (volume plated x dilution).\n11. Uses: deciding harvest time in fermentation, studying the action of antimicrobials, and quality control of products."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between prokaryotic and eukaryotic cells.",
+      "answer": "Prokaryote: 0.5-5 µm; no nuclear membrane, nucleoid with single circular DNA and no histones; no mitochondria or other membrane-bound organelles; 70S ribosomes; peptidoglycan wall; no sterols in the membrane; respiratory enzymes on the membrane; binary fission; simple flagellum of flagellin. Eukaryote: 10-100 µm; true nucleus with membrane and nucleolus; several linear chromosomes with histones; mitochondria, endoplasmic reticulum, Golgi and lysosomes present; 80S ribosomes; wall of cellulose or chitin or absent; sterols present; respiration in mitochondria; mitosis and meiosis; complex 9 + 2 flagellum. Importance: selective toxicity of antibiotics depends on these differences."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify culture media with examples.",
+      "answer": "By consistency: liquid (nutrient broth), semi-solid (motility medium, about 0.5 per cent agar), solid (nutrient agar, 1.5-2 per cent agar). By composition: synthetic or defined, and complex or non-synthetic containing peptone and extracts. By purpose: basal (nutrient agar); enriched with blood or serum (blood agar, chocolate agar); enrichment broths that favour one organism (selenite F for Salmonella); selective, containing inhibitors (MacConkey for Gram-negative enterics, Sabouraud agar for fungi); differential, showing a visible difference (MacConkey where lactose fermenters are pink); transport (Stuart's, Cary-Blair); anaerobic (Robertson's cooked meat, thioglycollate)."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the raw materials used in culture media.",
+      "answer": "Water as solvent; peptone, a partly digested protein giving nitrogen, peptides and amino acids; meat extract and yeast extract for amino acids, vitamins and minerals; agar from red seaweed as the solidifying agent at 1.5-2 per cent, melting near 100 °C and setting near 40 °C and not digested by most bacteria; gelatin as an older solidifying agent that melts at body temperature; carbohydrates such as glucose and lactose for energy and for fermentation tests; sodium chloride and buffer salts for osmotic balance and pH; blood or serum as enrichment; indicators such as phenol red and neutral red to show acid production; and selective agents such as bile salts, dyes and antibiotics."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the methods used for the cultivation of anaerobic bacteria.",
+      "answer": "1. Reducing media: thioglycollate broth and Robertson's cooked meat medium, boiled before use to expel dissolved oxygen.\n2. McIntosh and Fildes anaerobic jar: hydrogen is admitted and a palladium catalyst combines it with residual oxygen to form water; methylene blue acts as the anaerobiosis indicator, remaining colourless when conditions are anaerobic.\n3. Gas-generating envelopes in a sealed jar release hydrogen and carbon dioxide when water is added, with a catalyst to remove oxygen.\n4. Deep agar shake cultures and agar sealed with sterile paraffin.\n5. Anaerobic chambers (glove boxes) flushed with nitrogen, hydrogen and carbon dioxide.\n6. Chemical absorption of oxygen by alkaline pyrogallol."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the principle and uses of dark-field and phase-contrast microscopy.",
+      "answer": "Dark field: the condenser has an opaque central stop that gives a hollow cone of light, so direct rays miss the objective and only light scattered by the specimen enters it. The object appears bright on a dark background. It is used for living unstained thin organisms such as Treponema pallidum and Leptospira and for watching motility. Phase contrast: an annular diaphragm in the condenser and a phase plate in the objective convert the small differences of refractive index and thickness within a living cell, which only shift the phase of light, into differences of brightness. It shows internal structures of living unstained cells, spores, inclusions, cell division and cells in tissue culture."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How are pure cultures isolated and preserved?",
+      "answer": "Isolation: streak plate with flaming of the loop between sectors, pour plate and spread plate from serial dilutions, dilution in broth until one cell is transferred, use of selective and enrichment media, heating at 80 °C to select spore formers, and single-cell picking with a micromanipulator. Preservation: periodic subculture; storage of slants at 4 °C for one to three months; overlaying the slant with sterile liquid paraffin to cut off oxygen and drying; freezing at -20 °C or -70 °C with glycerol; cryopreservation in liquid nitrogen at -196 °C with glycerol or dimethyl sulphoxide; and lyophilisation (freeze drying) in skim milk or serum, which is the method used by culture collections for long-term storage."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State Koch's postulates.",
+      "answer": "1. The organism is found in every case of the disease and not in healthy hosts. 2. It can be isolated and grown in pure culture. 3. The pure culture reproduces the disease in a healthy susceptible animal. 4. The organism is recovered again from that animal."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define generation time and give its value for Escherichia coli.",
+      "answer": "Generation time is the time taken by a bacterial population to double in number during the log phase. For Escherichia coli under favourable conditions it is about 20 minutes."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain moist heat and dry heat sterilisation with their principles, conditions, equipment, merits, demerits and uses.",
+      "answer": "1. Sterilisation is a process that destroys all living organisms including bacterial spores.\n2. Moist heat principle: saturated steam under pressure reaches a temperature above 100 °C and releases a large quantity of latent heat as it condenses on the load; the microorganisms die by coagulation and denaturation of proteins and enzymes.\n3. Moist heat conditions: 121 °C at 15 psi for 15 minutes; also 115 °C at 10 psi for 30 minutes, 126 °C at 20 psi for 10 minutes and 134 °C at 30 psi for 3 minutes. Holding time starts only after the whole load reaches the temperature.\n4. Equipment: the autoclave, with chamber, lid with gasket and clamps, water level mark, heating element, pressure gauge, safety valve, air escape valve and drain. Air must be expelled first, because an air and steam mixture is cooler than pure steam at the same pressure. Industrial units use a pre-vacuum stage and double doors.\n5. Merits: reliable and sporicidal, short time, cheap, non-toxic, good penetration of fabrics and aqueous liquids, easy to monitor. Demerits: unsuitable for oils, fats, powders and heat or moisture sensitive materials, may corrode sharp instruments and deform plastics.\n6. Uses: culture media, aqueous injections, dressings, gowns, rubber closures, glassware and discarded cultures.\n7. Dry heat principle: hot air kills by oxidation of cell constituents and by denaturation of proteins; it penetrates slowly, so higher temperature and longer time are needed.\n8. Dry heat conditions: 160 °C for 2 hours, or 170 °C for 1 hour, or 180 °C for 30 minutes; depyrogenation of glass needs about 250 °C or above.\n9. Equipment: hot air oven, double walled and insulated, with thermostat and a fan for forced air circulation; industrial depyrogenation tunnels carry vials on a conveyor through a hot zone under filtered air.\n10. Merits: suitable for powders, oils, fats, glassware and metal instruments, no corrosion, destroys pyrogens. Demerits: long time, high temperature, unsuitable for rubber, plastics, fabrics and most drugs.\n11. Control: thermocouples, chart recorders, Browne's tubes and biological indicators, Geobacillus stearothermophilus for moist heat and Bacillus atrophaeus for dry heat."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write an essay on radiation, gaseous and filtration methods of sterilisation, and on the evaluation of sterilisation efficiency.",
+      "answer": "1. Ionising radiation: gamma rays from cobalt-60 or electron beams; ionisation produces free radicals that break DNA strands; the usual dose is 25 kGy. Used for plastic syringes, catheters, sutures, gloves, dressings and some powders, sterilised inside the final pack. Merits: cold process, high penetration, continuous operation. Demerits: costly plant, shielding needed, some plastics and glass are degraded or discoloured.\n2. Non-ionising radiation: ultraviolet light at 254 nm is absorbed by DNA and forms thymine dimers that block replication. Penetration is poor, so it is used only for air and surfaces in aseptic rooms and laminar flow cabinets; it is harmful to eyes and skin.\n3. Gaseous sterilisation: ethylene oxide kills by alkylation of amino, sulphydryl, hydroxyl and carboxyl groups of proteins and nucleic acids. It needs controlled gas concentration, a temperature of about 50-60 °C, relative humidity of about 40-60 per cent and several hours of exposure, followed by long aeration because residues are toxic. It is explosive with air, so it is diluted with an inert gas. Used for heat sensitive plastics, catheters and prepacked disposables. Formaldehyde is used for fumigation, and hydrogen peroxide vapour or plasma for isolators and devices.\n4. Filtration: organisms are removed, not killed. Depth filters (sintered glass, porcelain and diatomaceous earth candles, asbestos pads) trap particles in a porous matrix; membrane filters of cellulose esters or polymers act as sieves. The sterilising grade is 0.22 µm, validated by retention of Brevundimonas diminuta; 0.45 µm membranes are used in sterility testing and water analysis. Filters do not remove viruses and pyrogens reliably. Integrity is checked by the bubble point, diffusion and pressure hold tests. Used for heat labile solutions, eye drops, serum and for sterilising air with HEPA filters.\n5. Evaluation of efficiency: physical indicators such as thermocouples, pressure gauges, chart recorders and radiation dosimeters; chemical indicators such as Browne's tubes, autoclave tape and the Bowie-Dick test for air removal; biological indicators carrying resistant spores, namely Geobacillus stearothermophilus for moist heat, Bacillus atrophaeus for dry heat and ethylene oxide and Bacillus pumilus for radiation; and the sterility test on the finished product.\n6. Validation includes heat distribution and penetration studies, calculation of F0, dose mapping and filter integrity testing. The accepted sterility assurance level is 10 to the power minus six."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe Gram staining with its steps and mechanism.",
+      "answer": "Steps on a heat fixed smear: crystal violet for 1 minute, Gram's iodine as mordant for 1 minute, decolourisation with 95 per cent ethanol for a few seconds, and safranin as counterstain for 30 to 60 seconds, washing with water between steps. Mechanism: crystal violet and iodine form a large complex inside every cell. In Gram-positive cells the thick multilayered peptidoglycan with teichoic acid is dehydrated by alcohol, its pores close and the complex is retained, so the cell stays purple. In Gram-negative cells alcohol dissolves the lipid rich outer membrane and the thin peptidoglycan cannot hold the complex, so the cell is decolourised and then takes up safranin and appears pink. Errors come from over-decolourisation, thick smears and old cultures. Examples: Staphylococcus aureus purple, Escherichia coli pink."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the acid-fast staining technique and its principle.",
+      "answer": "Principle: the wall of Mycobacterium is rich in waxy mycolic acid, which resists ordinary dyes; heating with phenol containing carbol fuchsin drives the dye in, and once inside it resists removal by strong acid. Procedure: flood the heat fixed smear with strong carbol fuchsin, heat gently until steam rises and keep it steaming for about 5 minutes without boiling or drying, wash, decolourise with 20 per cent sulphuric acid until the smear is faint pink, wash, counterstain with methylene blue for about 1 minute, blot and examine under oil immersion. Result: acid-fast bacilli appear red on a blue background; all other cells are blue. For Mycobacterium leprae a weaker acid, 5 per cent, is used."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the IMViC tests and their results for Escherichia coli and Enterobacter aerogenes.",
+      "answer": "Indole: tryptophan in tryptone water is split by tryptophanase to indole, which gives a red ring with Kovac's reagent. Methyl red: mixed acid fermentation in glucose phosphate broth lowers the pH to about 4.4, turning methyl red red. Voges-Proskauer: the butanediol pathway gives acetoin, which is oxidised to diacetyl and gives a pink colour with alpha-naphthol and potassium hydroxide. Citrate: growth on Simmons citrate agar using citrate as the only carbon source raises the pH and turns bromothymol blue from green to blue. Results: Escherichia coli is positive, positive, negative, negative; Enterobacter aerogenes is negative, negative, positive, positive. The tests separate faecal coliforms from those of soil and plant origin."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on sterility indicators.",
+      "answer": "Physical indicators show that the machine reached its settings: thermometers, thermocouples in the coolest part of the load, pressure gauges, chart recorders and radiation dosimeters. Chemical indicators change colour or melt on exposure: Browne's tubes, autoclave indicator tape, melting point tubes, radiation sensitive dots, and the Bowie-Dick test sheet used daily in pre-vacuum autoclaves to confirm complete air removal. Biological indicators are standard preparations of resistant spores on strips or in ampoules, cultured after the cycle: Geobacillus stearothermophilus for moist heat, Bacillus atrophaeus for dry heat and ethylene oxide, Bacillus pumilus for ionising radiation, and a Brevundimonas diminuta challenge for sterilising filters. Biological indicators give the most direct proof, while chemical indicators only show that an item was exposed."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain sterilisation by filtration and its applications.",
+      "answer": "Filtration removes organisms instead of killing them and is used for heat labile liquids and for air. Depth filters such as sintered glass, unglazed porcelain and diatomaceous earth candles and asbestos pads retain particles in a tortuous porous matrix by entrapment and adsorption. Membrane filters of cellulose esters, nylon or polysulphone have uniform pores and act as sieves; the sterilising grade is 0.22 µm, validated by retention of Brevundimonas diminuta, while 0.45 µm is used for sterility testing and water analysis. Integrity is confirmed by the bubble point, diffusion and pressure hold tests. Applications: heat sensitive injections, eye drops, serum, enzymes and vitamin solutions, media additives, and air sterilisation with HEPA filters. Limitations: viruses and pyrogens are not removed, the drug may be adsorbed, and filling must then be aseptic."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on ethylene oxide sterilisation.",
+      "answer": "Ethylene oxide is a colourless, highly penetrating gas that kills bacteria, spores, fungi and viruses by alkylating the amino, sulphydryl, hydroxyl and carboxyl groups of proteins and nucleic acids. It is flammable and explosive in air, so it is diluted with carbon dioxide or another inert gas. The process depends on gas concentration, temperature of about 50 to 60 °C, relative humidity of about 40 to 60 per cent, since some moisture is essential, and several hours of exposure, followed by a prolonged aeration period to remove toxic residues. It is used for heat sensitive plastic devices, catheters, sutures, heart and lung machine parts and prepacked disposables. Drawbacks are toxicity and the risk of mutagenicity, residue removal, long cycle time and reaction with some drugs. Bacillus atrophaeus spores are used as the biological indicator."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the standard conditions for autoclaving and for dry heat sterilisation.",
+      "answer": "Autoclave: 121 °C at 15 psi for 15 minutes. Hot air oven: 160 °C for 2 hours (alternatively 170 °C for 1 hour or 180 °C for 30 minutes)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define D-value and sterility assurance level.",
+      "answer": "D-value is the time at a stated temperature, or the radiation dose, needed to kill 90 per cent of a microbial population, that is one logarithmic reduction. Sterility assurance level is the probability of a single unit being non-sterile after the process; for terminally sterilised products the accepted level is 10 to the power minus six."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate between sterilisation, disinfection and antisepsis.",
+      "answer": "Sterilisation destroys all organisms including spores and is an absolute condition. Disinfection destroys disease-producing organisms on inanimate objects but may not destroy spores. Antisepsis is the application of an antimicrobial agent to living tissue such as skin or wounds."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify disinfectants with examples, explain their mode of action, and describe the factors that affect disinfection.",
+      "answer": "1. Definitions: a disinfectant destroys harmful organisms on inanimate objects, an antiseptic is safe enough for living tissue, a preservative prevents growth of contaminants in a product.\n2. Phenols: phenol, cresol, chloroxylenol, chlorocresol and hexachlorophene damage the cell membrane causing leakage, and denature proteins at higher concentration; used for floors, drains, skin antiseptics and as preservatives.\n3. Alcohols: ethanol 60-80 per cent and isopropyl alcohol denature proteins, which requires water, and dissolve membrane lipids; used on skin and surfaces; not sporicidal.\n4. Halogens: hypochlorites and chloramine-T release hypochlorous acid which oxidises proteins and sulphydryl groups; iodine and povidone iodine iodinate and oxidise proteins; used for water, surfaces and skin preparation.\n5. Aldehydes: formaldehyde and 2 per cent alkaline glutaraldehyde alkylate amino and sulphydryl groups; used for fumigation and for endoscopes.\n6. Oxidising agents: hydrogen peroxide, peracetic acid and potassium permanganate release oxygen and free radicals.\n7. Surface active agents: benzalkonium chloride and cetrimide disrupt the membrane and denature proteins; used in eye drops and skin antiseptics.\n8. Heavy metals: silver and mercury salts bind sulphydryl groups of enzymes, an oligodynamic action.\n9. Dyes, acids and gases complete the list; benzoic and sorbic acids act only in the undissociated form at acid pH.\n10. Factors affecting disinfection: concentration and the dilution coefficient, contact time, temperature, pH, the type and number of organisms with spores most resistant followed by mycobacteria and Gram-negative bacteria, the presence of organic matter such as blood and pus, the nature of the surface and biofilms, and chemical incompatibility such as the inactivation of cationic agents by soaps.\n11. An ideal disinfectant has a wide spectrum, acts quickly at low concentration even in organic matter, is stable, non-corrosive, non-toxic, odourless and cheap."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the sterility testing of pharmaceutical products as given in the pharmacopoeias.",
+      "answer": "1. Purpose: to show that parenterals, ophthalmic preparations, implants, sutures, irrigation fluids and dressings yield no microbial growth under the test conditions. Only a sample is tested, so the test supports but does not replace process validation.\n2. Conditions: the test is done in a clean room or isolator under laminar airflow by trained staff in sterile clothing using full aseptic technique, so that any growth can be traced to the product.\n3. Media: fluid thioglycollate medium, incubated at 30-35 °C, for anaerobes and aerobes; soyabean casein digest medium, incubated at 20-25 °C, for aerobes, yeasts and moulds. Incubation is for not less than 14 days with periodic inspection.\n4. Membrane filtration method, which is preferred: the product is filtered through a sterile 0.45 µm membrane, the membrane is rinsed with sterile diluent to remove preservative or antibiotic, then cut in two and placed in the two media. It suits large volumes and preserved products.\n5. Direct inoculation method: a measured volume of product is transferred to each medium, keeping the product to medium ratio low so that any antimicrobial is diluted out; used for small volumes and products that cannot be filtered.\n6. Controls: negative control tubes of media alone; growth promotion test of each batch of medium with specified organisms such as Staphylococcus aureus, Bacillus subtilis, Clostridium sporogenes, Candida albicans and Aspergillus brasiliensis; and a method suitability test with the product plus a small inoculum to prove the product does not inhibit growth.\n7. Number of containers tested is taken from the pharmacopoeial table according to batch size.\n8. Interpretation: no growth means the batch complies. If growth occurs the result is investigated; a retest is allowed only when the growth can be attributed to a fault in the testing itself.\n9. Special handling: oily products are dissolved in a sterile oil miscible solvent, ointments are dispersed with a suitable emulsifying agent, and devices with a lumen are flushed with medium."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of a virus with a labelled diagram.",
+      "answer": "A virus is acellular and consists of a nucleic acid core surrounded by a protein coat. Nucleic acid: either DNA or RNA, never both, single or double stranded, linear, circular or segmented. Capsid: the protein coat built from subunits called capsomeres, which protects the genome and helps attachment; capsid plus nucleic acid is the nucleocapsid. Envelope: a lipid membrane derived from the host cell, present in influenza, herpes and the human immunodeficiency virus and carrying glycoprotein spikes; enveloped viruses are readily destroyed by alcohol and detergents, while naked viruses such as poliovirus are more resistant. Symmetry may be helical, icosahedral or complex as in poxviruses and bacteriophages. Size is about 20 to 300 nm, so an electron microscope is needed."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the steps in the replication of a virus.",
+      "answer": "1. Adsorption: surface proteins of the virus bind specific receptors on the host cell, which decides the host range. 2. Penetration: entry by endocytosis, by fusion of the envelope with the cell membrane, or by injection of nucleic acid in bacteriophages. 3. Uncoating: the capsid is removed and the nucleic acid released. 4. Biosynthesis or eclipse phase: early enzymes are made, the genome is replicated and structural proteins are synthesised using the host machinery; no complete virus particle can be detected in the cell during this period. 5. Assembly or maturation: nucleic acid and capsid proteins come together. 6. Release: by lysis of the cell in naked viruses or by budding through the membrane, which provides the envelope."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the determination of the phenol coefficient by the Rideal-Walker method.",
+      "answer": "Serial dilutions of phenol and of the test disinfectant are placed in tubes and brought to a constant temperature. A standard culture of Salmonella typhi is added to each tube and subcultures into sterile nutrient broth are made at 2.5, 5, 7.5 and 10 minutes. The subcultures are incubated at 37 °C for 48 hours and growth or no growth is recorded. The phenol coefficient is the highest dilution of the disinfectant that kills in 7.5 minutes but not in 5 minutes, divided by the dilution of phenol that does the same. A value above 1 means the agent is more active than phenol. Limitations: no organic matter is present, only one organism and one temperature are used, and the method suits phenol like agents. The Chick-Martin test adds dried yeast or faeces to imitate organic matter and gives lower, more realistic values."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How are the bacteriostatic and bactericidal activities of an agent determined?",
+      "answer": "Bacteriostatic activity is measured as the minimum inhibitory concentration by broth dilution: tubes containing doubling dilutions of the agent are seeded with a standard inoculum of about 10 to the power five organisms per ml and incubated at 37 °C for 18 to 24 hours with growth and sterility controls; the lowest concentration showing no visible turbidity is the minimum inhibitory concentration. Bactericidal activity is measured by subculturing the clear tubes onto agar free of the agent; the lowest concentration that kills, usually taken as a 99.9 per cent reduction, is the minimum bactericidal concentration. When the two values are close the agent is cidal, and when the bactericidal value is much higher it is mainly static. Agar diffusion with cups or discs and the time kill curve are the other common methods."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the methods used for the cultivation of viruses.",
+      "answer": "1. Animal inoculation into mice, guinea pigs or rabbits, used for isolation and for testing pathogenicity, now limited for ethical reasons. 2. Embryonated hen's eggs of 8 to 11 days: the chorioallantoic membrane gives visible pocks with pox and herpes viruses, the allantoic cavity is used for influenza and mumps and for vaccine production, the amniotic cavity for primary isolation of influenza and the yolk sac for some viruses, chlamydiae and rickettsiae. 3. Cell or tissue culture, the usual method today, using primary, diploid or continuous cell lines; growth is recognised by the cytopathic effect such as rounding, clumping, giant cells and inclusion bodies, by haemadsorption, by plaque formation or by immunofluorescence. Counting is by plaque assay, haemagglutination titre or the dose infecting half the cultures."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the morphology and classification of fungi.",
+      "answer": "Fungi are eukaryotic, lack chlorophyll, have a wall of chitin and glucans and a membrane containing ergosterol, and grow best at 25-30 °C at about pH 5-6. Forms: yeasts are single cells reproducing by budding; yeast like fungi form pseudohyphae as in Candida albicans; moulds form branching hyphae that build a mycelium, septate or aseptate; dimorphic fungi exist as yeast at 37 °C and as mould at 25 °C. Classification: Zygomycetes with aseptate hyphae and zygospores such as Rhizopus and Mucor; Ascomycetes with ascospores formed in a sac such as Saccharomyces and Claviceps; Basidiomycetes with basidiospores such as mushrooms and Cryptococcus; and Deuteromycetes or Fungi Imperfecti with no known sexual stage such as Candida and many dermatophytes. They are cultivated on Sabouraud dextrose agar."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the two media used in the sterility test with their incubation temperatures and the period of incubation.",
+      "answer": "Fluid thioglycollate medium incubated at 30-35 °C for anaerobes and aerobes, and soyabean casein digest medium incubated at 20-25 °C for aerobes, yeasts and moulds; both are incubated for not less than 14 days."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define minimum inhibitory concentration and minimum bactericidal concentration.",
+      "answer": "The minimum inhibitory concentration is the lowest concentration of an agent that prevents visible growth of an organism under defined conditions. The minimum bactericidal concentration is the lowest concentration that kills the organism, usually taken as a reduction of 99.9 per cent of the inoculum."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the design of an aseptic area, the working of laminar air flow equipment, the sources of contamination and the classification of clean areas.",
+      "answer": "1. Need: products that cannot be sterilised in the final container are made by aseptic processing, where every component is sterilised separately and then combined without allowing any organism to enter.\n2. Design: the area is separated from the rest of the plant and entered through air locks and changing rooms arranged as a cascade; surfaces are smooth, hard and non-shedding with coved junctions so dust cannot collect; lights are flush fitted and sealed; fittings and furniture are minimal and of stainless steel; there are no open drains in the critical zone; materials pass through double door interlocked hatches.\n3. Air: supplied through high efficiency particulate air filters that retain at least 99.97 per cent of particles of 0.3 µm, with a high number of air changes per hour; the room is kept at positive pressure, commonly about 10 to 15 pascals above the next area, so air always flows outwards; temperature is about 20-22 °C and relative humidity about 45-55 per cent.\n4. Laminar air flow: air is drawn through a pre-filter and a high efficiency filter and delivered as parallel layers at about 0.45 m/s, so particles are swept out of the work zone. Horizontal flow protects the product; vertical flow is used where powders are handled; a biological safety cabinet adds an exhaust filter and an inward air curtain to protect the operator. Nothing should be placed between the filter and the sterile item, and work is done at least 15 cm inside the front edge.\n5. Sources of contamination and their prevention: personnel, the greatest source, controlled by limiting numbers, training, full sterile gowning and no talking; air, controlled by filtration and positive pressure; water, controlled by using water for injection and sanitised circulating loops; raw materials and containers, controlled by supplier approval, microbial limit testing and sterilisation; equipment and surfaces, controlled by sterilisation in place and validated cleaning; and the building itself, controlled by sealed surfaces and maintenance.\n6. Classification of clean areas: grade A is the critical zone for filling and open containers, with unidirectional airflow; grade B is the background room for aseptic processing; grades C and D are the supporting rooms for solution preparation and component handling. Limits are set for both airborne particles and viable counts, at rest and in operation.\n7. Monitoring: settle plates, active air samplers, contact plates, swabs, finger dabs, particle counters and media fill process simulations."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle and methods of microbiological assay and describe the standardisation of antibiotics and vitamins.",
+      "answer": "1. Principle: the potency of a substance is measured by its effect on a suitable microorganism and compared with a standard preparation of known potency under identical conditions, so biological activity rather than chemical quantity is measured.\n2. Requirements: a pure test organism of standard sensitivity, a reference standard, a defined medium and buffer, strict control of pH, temperature, inoculum size and incubation time, and a statistical design with replication.\n3. Cup plate or agar diffusion method: a base layer of agar is poured and a seed layer containing the test organism is added; cups are cut with a sterile borer, or cylinders or discs are used; two doses of the standard and two of the test are added in a balanced arrangement; after a diffusion period the plates are incubated and the diameter of the zone of inhibition is measured. The zone diameter is proportional to the logarithm of the concentration, and potency is read from a standard curve or calculated by the official formula.\n4. Turbidimetric method: tubes of liquid medium receive graded doses and the same inoculum, are incubated in a water bath for about 3 to 4 hours, growth is stopped and the turbidity is read in a colorimeter at about 530 nm. It is faster but is affected by coloured or turbid samples.\n5. Other methods include the metabolic response or acid production assay, in which lactic acid produced by lactobacilli is titrated, and gravimetric assay by dry weight.\n6. Standardisation of antibiotics: potency is expressed in units or micrograms per mg against an international or pharmacopoeial standard; the test organism, medium and pH are specified in the monograph, examples being Staphylococcus aureus, Bacillus subtilis, Bacillus pumilus and Micrococcus luteus; doses are arranged in a balanced two plus two or three plus three design and the result is reported with its confidence limits.\n7. Standardisation of vitamins and amino acids: the assay depends on the growth of an organism that cannot synthesise the nutrient. A basal medium complete in every nutrient except the one assayed receives graded amounts of standard and of sample; growth is measured by turbidity or by titrating the acid produced, and the amount is read from a standard curve. Vitamin B12 is assayed with Lactobacillus leichmannii and riboflavin with Lactobacillus casei; amino acids are assayed with auxotrophic strains such as Leuconostoc mesenteroides.\n8. Precautions: glassware free of traces of the nutrient, washed inocula, extraction or hydrolysis of bound vitamin in the sample, and identical handling of all tubes."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle and working of a laminar air flow unit.",
+      "answer": "Air is drawn in by a blower, passed through a pre-filter and then through a high efficiency particulate air filter that retains at least 99.97 per cent of particles of 0.3 µm, and delivered over the work area as a stream of parallel layers at a velocity of about 0.45 m/s. Because the layers do not mix, particles released in the zone are swept away instead of circulating. Horizontal units blow filtered air towards the operator and protect the product; vertical units deliver air downwards; a biological safety cabinet adds an exhaust filter and protects the operator as well. In use, the blower is switched on 15 to 30 minutes before work, the surface is swabbed with 70 per cent alcohol, articles are kept at least 15 cm inside the front edge, nothing is placed between the filter and the sterile item, and rapid movements and talking are avoided. Checks include filter integrity testing with an aerosol challenge, air velocity, particle counts and smoke pattern tests."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the cup plate method for the assay of an antibiotic.",
+      "answer": "A base layer of sterile nutrient agar is poured into level plates and allowed to set. A seed layer of agar cooled to about 45 °C and containing a standardised inoculum of the specified test organism is poured over it. Cups of 6 to 8 mm are cut with a sterile borer and the plugs removed. Equal volumes of two dilutions of the standard and two of the test solution are placed in the cups in a balanced arrangement so that every solution occupies every position equally often. The plates are left for about an hour for diffusion and then incubated at 37 °C for 18 to 24 hours. The zone diameters are measured and, since zone diameter is proportional to the logarithm of concentration, the potency is obtained from a standard curve or from the two dose formula. Uniform agar thickness, a standard inoculum and level plates are essential."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How is a new antibiotic assessed?",
+      "answer": "Screening of soil or other samples for an organism that inhibits test bacteria, followed by isolation and identification of the producer. Improvement of fermentation, then extraction, purification and determination of structure and stability. Determination of the spectrum by minimum inhibitory and bactericidal concentrations against Gram-positive, Gram-negative, acid fast, anaerobic and fungal organisms, with time kill studies. Study of the mode of action, the rate at which resistance develops, susceptibility to enzymes such as beta lactamases and interaction with other drugs. Testing of activity in the presence of serum, blood and pus and at body pH, and of protein binding. Toxicity studies in animals giving the therapeutic index, followed by pharmacokinetic studies and treatment of experimental infections, then clinical trials. Finally formulation, stability testing, establishment of a reference standard and an official assay, and registration."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare the cup plate and turbidimetric methods of microbiological assay.",
+      "answer": "Cup plate: the response measured is the diameter of the zone of inhibition on seeded agar; incubation takes 18 to 24 hours; it needs plates, a borer and a zone reader; it is little affected by the colour of the sample; it is the usual pharmacopoeial method for most antibiotics. Turbidimetric: the response is the turbidity of growth in liquid medium measured in a colorimeter at about 530 nm; incubation takes only 3 to 4 hours in a water bath; it needs careful temperature control; coloured or turbid samples interfere; it suits clear solutions and gives faster results. Both compare the sample with a standard under identical conditions and use a dose response relationship against the logarithm of the dose."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the sources of contamination in an aseptic area and the methods of prevention.",
+      "answer": "Personnel are the greatest source, shedding skin scales, hair and droplets; this is controlled by limiting the number of operators, training, full sterile gowning with coverall, hood, mask and gloves, hand disinfection, avoiding talking and excluding staff with infections. Air carries dust and spores and is controlled by high efficiency filtration, a high air change rate, positive pressure and air locks. Water, particularly poorly maintained purified water systems, carries Pseudomonas, and is controlled by using water for injection in sanitised circulating loops. Raw materials of natural origin carry spores, and containers and closures carry contamination; both are controlled by supplier approval, microbial limit testing and sterilisation. Equipment and pipework are controlled by sterilisation in place, validated cleaning and the avoidance of dead legs. The building is controlled by sealed surfaces, coved corners and maintenance. Environmental monitoring and media fill trials confirm that the controls work."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a HEPA filter and what is the usual laminar flow velocity?",
+      "answer": "A high efficiency particulate air filter retains at least 99.97 per cent of particles of 0.3 µm diameter. Laminar flow units deliver filtered air at a velocity of about 0.45 m/s, that is about 90 feet per minute."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the organisms used in the microbiological assay of vitamin B12 and riboflavin.",
+      "answer": "Vitamin B12 is assayed with Lactobacillus leichmannii and riboflavin with Lactobacillus casei, each grown in a basal medium lacking only the vitamin being assayed."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the microbial spoilage of pharmaceutical products: types, factors affecting it, sources of contamination and its assessment.",
+      "answer": "1. Definition: microbial spoilage is any change in a product brought about by the growth or activity of microorganisms, making it unsafe, ineffective or unacceptable.\n2. Types: physical or aesthetic spoilage, seen as change in colour, odour, taste, turbidity, surface growth, gas or separation of phases; chemical spoilage, in which microbial enzymes destroy the drug or excipient, for example hydrolysis of esters, destruction of penicillin and breakdown of gums; and therapeutic spoilage, in which potency is lost or the product itself causes infection.\n3. Factors affecting spoilage: water activity, since most bacteria need a value above about 0.9, most yeasts above about 0.88 and moulds grow down to about 0.7; nutrients such as sugars, gums, starch and surfactants; pH, bacteria preferring near neutral and fungi acid conditions; storage temperature; oxygen availability and the redox potential; the container and closure, with multi-dose and wide mouthed packs most at risk; the formulation itself, including alcohol, sugar, salt and the preservative; the number and type of organisms present initially; and handling during use.\n4. Sources of contaminants: water, which is the commonest source and usually yields Pseudomonas and other Gram-negative rods; raw materials of natural origin such as gums, starch, talc and sugars carrying spores and moulds; air and dust; equipment, pipelines and biofilms; packaging materials; personnel; and the patient during use.\n5. Types of contaminants: Gram-negative rods in aqueous products, Gram-positive cocci from staff, spore forming bacilli from raw materials, and moulds and yeasts such as Aspergillus, Penicillium and Candida.\n6. Objectionable organisms are those unacceptable because of the route of use: Escherichia coli and Salmonella in oral products, Pseudomonas aeruginosa and Staphylococcus aureus in topical and ophthalmic products.\n7. Assessment: visual and sensory examination; microbial limit tests giving the total aerobic microbial count and the total yeast and mould count by plate count or membrane filtration after neutralising the preservative, together with tests for specified organisms; a method suitability test to prove recovery; assay of the active ingredient, pH and viscosity; and, for sterile products, the sterility test and tests for bacterial endotoxin.\n8. Prevention: good manufacturing practice, control of water and raw materials, suitable packaging, adequate preservation and correct storage."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write an essay on animal cell culture: requirements, general procedure, types of culture and applications.",
+      "answer": "1. Definition: cell culture is the growth of animal cells outside the body in a controlled artificial environment; tissue culture is the wider term that also covers fragments of tissue and whole organs.\n2. Requirements: a medium such as minimum essential medium, Dulbecco's modified Eagle medium or RPMI 1640 containing balanced salts, glucose, amino acids and vitamins; serum, usually 5 to 10 per cent foetal bovine serum, supplying growth factors and attachment proteins, with serum free media where defined conditions are needed; pH 7.2 to 7.4 maintained by a bicarbonate buffer with 5 per cent carbon dioxide, with phenol red as indicator; a temperature of 37 °C; a humidified incubator; strict asepsis in a laminar flow or biological safety cabinet, sometimes with antibiotics added; and a treated plastic or glass surface, since most cells are anchorage dependent.\n3. General procedure: collect the tissue aseptically and wash it in balanced salt solution; disaggregate it mechanically or with enzymes such as trypsin, collagenase or dispase with a chelating agent; centrifuge, resuspend in complete medium and count the cells with a haemocytometer using trypan blue to judge viability; seed into flasks or plates; incubate at 37 °C with 5 per cent carbon dioxide; change the medium every two to three days; subculture at confluence by detaching the cells with trypsin and ethylenediaminetetraacetic acid and reseeding at a chosen split ratio; preserve stocks by freezing in medium with 10 per cent dimethyl sulphoxide in liquid nitrogen; and check regularly for bacterial, fungal and especially mycoplasma contamination.\n4. Types: a primary culture is taken straight from tissue and has not yet been subcultured, is closest to the tissue of origin, contains mixed cell types and has a limited life, for example primary monkey kidney and chick embryo fibroblasts. A cell line or finite diploid strain arises after subculture, keeps a normal chromosome number and survives a limited number of passages, for example the human diploid fibroblast strains used for vaccines. A continuous or transformed cell line divides indefinitely, is often aneuploid, grows fast and is easy to maintain, for example HeLa, Vero, Chinese hamster ovary and baby hamster kidney cells.\n5. Applications in industry: production of viral vaccines such as polio, rabies, measles, mumps, rubella, hepatitis A and varicella; production of recombinant proteins and monoclonal antibodies in Chinese hamster ovary and hybridoma cells; cytotoxicity and safety testing in place of animal tests; screening of anticancer and other drugs; absorption and metabolism studies with intestinal and liver cells; and virus titration and toxin detection.\n6. Applications in research and medicine: isolation and identification of viruses, study of cell growth and gene expression, chromosome analysis and prenatal diagnosis, gene transfer and stem cell work, and tissue engineering such as skin grafts for burns.\n7. Advantages and limitations: controlled and reproducible conditions and reduced use of animals, against high cost, the need for strict asepsis, behaviour that differs from tissue in the body, change of character on repeated passage, and the risk of mycoplasma or cross contamination with other cell lines."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the preservative efficacy (challenge) test.",
+      "answer": "The finished product in its own container is inoculated separately with standard cultures, typically Staphylococcus aureus, Pseudomonas aeruginosa, Escherichia coli, Candida albicans and Aspergillus brasiliensis, at about 10 to the power five or six organisms per ml or g. The containers are stored at 20 to 25 °C protected from light. Samples are withdrawn at intervals such as 7, 14 and 28 days and the viable count is determined by plate count after neutralising the preservative with agents such as polysorbate 80 with lecithin or sodium thiosulphate. The logarithmic reduction at each interval is compared with the pharmacopoeial criteria, which are stricter for injections and ophthalmic preparations than for oral and topical products, and no increase in count is allowed at the later intervals. The test proves that the preservative system will control organisms introduced during use."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the preservatives used in pharmaceutical products with their ideal properties.",
+      "answer": "A preservative prevents the growth of organisms introduced during manufacture and use; it does not replace good manufacturing practice. Ideal properties: wide spectrum against bacteria, yeasts and moulds, activity at low concentration at the pH of the product, adequate solubility in the aqueous phase, stability over the shelf life, freedom from toxicity, irritation and sensitisation, no colour, odour or taste, compatibility with the drug, excipients and container, and low cost. Common agents: methyl and propyl parabens, mainly antifungal and active over a wide pH range; benzoic, sorbic and propionic acids, which need an acid pH because only the undissociated form is active; phenol, chlorocresol and chlorbutol; benzyl alcohol and phenylethyl alcohol; quaternary ammonium compounds such as benzalkonium chloride used in eye drops; and organomercurials such as phenylmercuric nitrate, whose use is now restricted. Preservatives act in the aqueous phase and may be lost by partition into oil, adsorption on plastics and containers and binding in surfactant micelles."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between primary, established and continuous cell cultures.",
+      "answer": "Primary culture: cells obtained directly from tissue by disaggregation and grown before the first subculture; they contain mixed cell types, resemble the tissue of origin closely, have a limited lifespan and are used for virus isolation and vaccine production, for example primary monkey kidney and chick embryo fibroblast cultures. Established or finite cell line, also called a diploid cell strain: obtained after subculture of a primary culture, retains the normal diploid chromosome number, is more uniform, but survives only a limited number of passages before senescence, for example human diploid fibroblast strains used in vaccine manufacture. Continuous or transformed cell line: derived from a tumour or by transformation with chemicals, radiation or viruses, divides indefinitely, is often aneuploid, grows rapidly to high density and is easy to maintain, for example HeLa, Vero, Chinese hamster ovary and baby hamster kidney cells."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What factors affect the microbial spoilage of pharmaceutical products?",
+      "answer": "Water activity, since free water is essential and products of low water activity such as syrups and dry powders resist spoilage; the nutrients present, such as sugars, gums, starch, proteins and surfactants; pH, with bacteria preferring about pH 6 to 8 and yeasts and moulds tolerating acid conditions; the temperature of storage; the availability of oxygen, which decides whether aerobes grow at the surface or anaerobes grow in the depth of a viscous product; the container and closure, with multi-dose and wide mouthed packs most at risk; the formulation, including alcohol content, osmotic pressure and the preservative system; the number and type of organisms present initially, spores being most resistant; and handling in use, including repeated opening and contaminated applicators."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the general procedure for setting up an animal cell culture.",
+      "answer": "Collect the tissue aseptically and wash it in balanced salt solution containing antibiotics. Disaggregate it mechanically by mincing or with enzymes such as trypsin or collagenase, often with a chelating agent. Centrifuge, remove the enzyme, resuspend the cells in complete medium containing serum, and count them in a haemocytometer with trypan blue, which stains only dead cells, to find the viability. Seed into flasks or plates at a suitable density and incubate at 37 °C in a humidified incubator with 5 per cent carbon dioxide at pH 7.2 to 7.4. Examine daily with an inverted microscope and renew the medium every two to three days. At confluence, subculture by detaching the cells with trypsin and ethylenediaminetetraacetic acid, neutralising with serum containing medium and reseeding at a chosen split ratio. Freeze stocks slowly in medium with 10 per cent dimethyl sulphoxide and store in liquid nitrogen. Check regularly for bacterial, fungal and mycoplasma contamination. All work is done aseptically in a laminar flow or biological safety cabinet."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How is microbial contamination of a non-sterile pharmaceutical product assessed?",
+      "answer": "Visual and sensory examination for changes in colour, odour, clarity, viscosity, surface growth, gas production and phase separation. Microbial limit testing: the product is prepared as a suitable dilution with a neutraliser for the preservative, and the total aerobic microbial count and the total combined yeast and mould count are determined by the plate count or membrane filtration method, the results being compared with the limits for that dosage form. Tests for specified organisms are carried out with enrichment and selective media, for Escherichia coli, Salmonella, Pseudomonas aeruginosa, Staphylococcus aureus and, where required, Candida albicans and clostridia. A method suitability test with a small added inoculum proves that the preservative has been neutralised and the organisms can be recovered. Assay of the active ingredient, pH and the content of preservative complete the assessment."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the organisms used in the preservative efficacy test.",
+      "answer": "Staphylococcus aureus, Pseudomonas aeruginosa, Escherichia coli, Candida albicans and Aspergillus brasiliensis, each inoculated into a separate container of the product."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define water activity and give its importance in spoilage.",
+      "answer": "Water activity is the ratio of the vapour pressure of water in the product to that of pure water at the same temperature, and it measures the water available to microorganisms. Most bacteria need a value above about 0.9 and most yeasts above about 0.88, while moulds can grow down to about 0.7, so products such as syrups and dry powders with low water activity resist spoilage."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are objectionable organisms? Give examples.",
+      "answer": "Objectionable organisms are those that must be absent from a product because of the route by which it is used. Escherichia coli and Salmonella must be absent from oral products, and Pseudomonas aeruginosa and Staphylococcus aureus from topical and ophthalmic products."
+    }
+  ]
+}
