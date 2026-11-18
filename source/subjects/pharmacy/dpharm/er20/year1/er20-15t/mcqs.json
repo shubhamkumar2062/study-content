@@ -1,0 +1,886 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The WHO definition of health was given in:",
+      "options": [
+        "1948 WHO Constitution",
+        "1978 Alma-Ata Declaration",
+        "2000 Millennium Summit",
+        "1946 Bhore Committee report"
+      ],
+      "correct": 0,
+      "explanation": "WHO's 1948 definition: complete physical, mental and social well-being, not merely absence of disease.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which is the best single indicator of the health status of a community?",
+      "options": [
+        "Sex ratio",
+        "Literacy rate",
+        "Crude death rate",
+        "Infant mortality rate"
+      ],
+      "correct": 3,
+      "explanation": "IMR reflects maternal care, nutrition, sanitation and health services together.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The population covered by a PHC in plain areas is:",
+      "options": [
+        "5,000",
+        "20,000",
+        "30,000",
+        "1,20,000"
+      ],
+      "correct": 2,
+      "explanation": "PHC norm is 30,000 in plains and 20,000 in hilly or tribal areas.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "A CHC in hilly areas serves a population of about:",
+      "options": [
+        "30,000",
+        "80,000",
+        "1,20,000",
+        "5,00,000"
+      ],
+      "correct": 1,
+      "explanation": "CHC covers 1,20,000 in plains and 80,000 in hilly/tribal areas.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Maternal mortality ratio is expressed per:",
+      "options": [
+        "1,00,000 live births",
+        "1000 population",
+        "1000 live births",
+        "10,000 live births"
+      ],
+      "correct": 0,
+      "explanation": "MMR = maternal deaths per 1,00,000 live births.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The village-level health activist under NHM is called:",
+      "options": [
+        "Anganwadi worker",
+        "MPW",
+        "ANM",
+        "ASHA"
+      ],
+      "correct": 3,
+      "explanation": "ASHA = Accredited Social Health Activist, one per village.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "How many Sustainable Development Goals are there?",
+      "options": [
+        "8",
+        "15",
+        "17",
+        "21"
+      ],
+      "correct": 2,
+      "explanation": "The SDGs (2015–2030) have 17 goals; SDG 3 is health.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Number of Millennium Development Goals was:",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "17"
+      ],
+      "correct": 1,
+      "explanation": "Eight MDGs ran from 2000 to 2015.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "PQLI combines infant mortality, life expectancy at age one and:",
+      "options": [
+        "Literacy",
+        "Doctor–population ratio",
+        "Safe water access",
+        "Per-capita income"
+      ],
+      "correct": 0,
+      "explanation": "Physical Quality of Life Index uses IMR, life expectancy at age one and literacy.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The FIP Development Goals were launched in:",
+      "options": [
+        "2023",
+        "2000",
+        "2015",
+        "2020"
+      ],
+      "correct": 3,
+      "explanation": "FIP launched its 21 Development Goals in 2020.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Cu-T 380A is effective for about:",
+      "options": [
+        "3 years",
+        "5 years",
+        "10 years",
+        "1 year"
+      ],
+      "correct": 2,
+      "explanation": "Cu-T 380A gives protection for about 10 years; Cu-T 375 about 5 years.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Centchroman (Chhaya) is a:",
+      "options": [
+        "Combined hormonal pill",
+        "Non-steroidal oral contraceptive",
+        "Injectable progestin",
+        "Emergency pill"
+      ],
+      "correct": 1,
+      "explanation": "Centchroman is a non-hormonal weekly pill (twice weekly for the first 3 months).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Exclusive breastfeeding is recommended for the first:",
+      "options": [
+        "6 months",
+        "12 months",
+        "3 months",
+        "4 months"
+      ],
+      "correct": 0,
+      "explanation": "WHO and India recommend exclusive breastfeeding for 6 months.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which of these is a toxoid?",
+      "options": [
+        "OPV",
+        "Hepatitis B vaccine",
+        "BCG",
+        "Tetanus vaccine"
+      ],
+      "correct": 3,
+      "explanation": "Tetanus and diphtheria vaccines are inactivated toxins (toxoids).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Immunity from antibodies passed through the placenta is:",
+      "options": [
+        "Natural active",
+        "Artificial active",
+        "Natural passive",
+        "Artificial passive"
+      ],
+      "correct": 2,
+      "explanation": "Ready-made maternal antibodies give natural passive immunity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Most vaccines are stored in the cold chain at:",
+      "options": [
+        "0 °C",
+        "+2 to +8 °C",
+        "+15 to +25 °C",
+        "-20 °C"
+      ],
+      "correct": 1,
+      "explanation": "Most vaccines need +2 to +8 °C; freeze-sensitive ones must never freeze.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Sharps are discarded in which colour container under BMW Rules 2016?",
+      "options": [
+        "White (translucent)",
+        "Blue",
+        "Yellow",
+        "Red"
+      ],
+      "correct": 0,
+      "explanation": "Needles and blades go into white puncture-proof containers.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Silicosis is caused by inhalation of:",
+      "options": [
+        "Sugarcane dust",
+        "Coal dust",
+        "Cotton dust",
+        "Silica dust"
+      ],
+      "correct": 3,
+      "explanation": "Silica dust from mining and stone-cutting causes silicosis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which drug's veterinary use led to a steep fall in India's vulture population?",
+      "options": [
+        "Aspirin",
+        "Ibuprofen",
+        "Diclofenac",
+        "Paracetamol"
+      ],
+      "correct": 2,
+      "explanation": "Vultures eating carcasses of diclofenac-treated cattle suffered kidney failure.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The Indian law controlling narcotic and psychotropic substances is:",
+      "options": [
+        "COTPA 2003",
+        "NDPS Act 1985",
+        "IMS Act 1992",
+        "FSS Act 2006"
+      ],
+      "correct": 1,
+      "explanation": "The Narcotic Drugs and Psychotropic Substances Act was enacted in 1985.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Free residual chlorine recommended after 1 hour contact is:",
+      "options": [
+        "0.5 mg/L",
+        "5 mg/L",
+        "50 mg/L",
+        "0.05 mg/L"
+      ],
+      "correct": 0,
+      "explanation": "0.5 mg/L free residual chlorine after 1 hour ensures safe water.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "One gram of fat provides about:",
+      "options": [
+        "12 kcal",
+        "4 kcal",
+        "7 kcal",
+        "9 kcal"
+      ],
+      "correct": 3,
+      "explanation": "Fat gives 9 kcal/g; carbohydrate and protein 4 kcal/g.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Night blindness is due to deficiency of vitamin:",
+      "options": [
+        "C",
+        "D",
+        "A",
+        "B1"
+      ],
+      "correct": 2,
+      "explanation": "Vitamin A is needed for rhodopsin in the retina.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Pellagra is caused by deficiency of:",
+      "options": [
+        "Thiamine",
+        "Niacin",
+        "Riboflavin",
+        "Pyridoxine"
+      ],
+      "correct": 1,
+      "explanation": "Niacin (B3) deficiency gives dermatitis, diarrhoea and dementia.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Oedema is a characteristic feature of:",
+      "options": [
+        "Kwashiorkor",
+        "Rickets",
+        "Scurvy",
+        "Marasmus"
+      ],
+      "correct": 0,
+      "explanation": "Kwashiorkor shows oedema; marasmus shows wasting without oedema.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Argemone oil adulteration of mustard oil causes:",
+      "options": [
+        "Fluorosis",
+        "Beriberi",
+        "Lathyrism",
+        "Epidemic dropsy"
+      ],
+      "correct": 3,
+      "explanation": "Argemone oil causes epidemic dropsy.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Lathyrism is linked to eating:",
+      "options": [
+        "Maize",
+        "Groundnut",
+        "Khesari dal",
+        "Polished rice"
+      ],
+      "correct": 2,
+      "explanation": "Khesari dal (Lathyrus sativus) contains a neurotoxin causing leg paralysis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The chemical banned for artificial ripening of fruits is:",
+      "options": [
+        "Ethylene",
+        "Calcium carbide",
+        "Sodium chloride",
+        "Calcium carbonate"
+      ],
+      "correct": 1,
+      "explanation": "Calcium carbide releases acetylene and carries arsenic and phosphorus traces.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "A patient on warfarin should keep steady intake of:",
+      "options": [
+        "Green leafy vegetables",
+        "Milk",
+        "Bananas",
+        "Citrus fruits"
+      ],
+      "correct": 0,
+      "explanation": "Vitamin K in green leaves opposes warfarin's effect.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Tyramine-rich foods are dangerous with:",
+      "options": [
+        "Paracetamol",
+        "Metformin",
+        "Penicillin",
+        "MAO inhibitors"
+      ],
+      "correct": 3,
+      "explanation": "MAOIs prevent tyramine breakdown → hypertensive crisis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "FSSAI marks fortified foods with the logo:",
+      "options": [
+        "ISI",
+        "Agmark",
+        "+F",
+        "Green dot"
+      ],
+      "correct": 2,
+      "explanation": "The '+F' logo identifies fortified foods.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Koplik's spots are seen in:",
+      "options": [
+        "Chickenpox",
+        "Measles",
+        "Mumps",
+        "Rubella"
+      ],
+      "correct": 1,
+      "explanation": "White spots on the buccal mucosa before the measles rash.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Restriction of healthy contacts of a case for the longest incubation period is called:",
+      "options": [
+        "Quarantine",
+        "Disinfection",
+        "Surveillance",
+        "Isolation"
+      ],
+      "correct": 0,
+      "explanation": "Quarantine applies to healthy contacts; isolation applies to the sick.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Rice-water stools are typical of:",
+      "options": [
+        "Hepatitis A",
+        "Typhoid",
+        "Amoebiasis",
+        "Cholera"
+      ],
+      "correct": 3,
+      "explanation": "Cholera causes profuse painless watery stools like rice water.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The vector of dengue is:",
+      "options": [
+        "Anopheles",
+        "Culex",
+        "Aedes aegypti",
+        "Sandfly"
+      ],
+      "correct": 2,
+      "explanation": "Aedes aegypti, a day-biting mosquito breeding in clean stored water.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Which drug should be avoided in dengue fever?",
+      "options": [
+        "ORS",
+        "Ibuprofen",
+        "IV fluids",
+        "Paracetamol"
+      ],
+      "correct": 1,
+      "explanation": "NSAIDs like ibuprofen and aspirin increase bleeding risk.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Lockjaw (trismus) is a feature of:",
+      "options": [
+        "Tetanus",
+        "Diphtheria",
+        "Rabies",
+        "Polio"
+      ],
+      "correct": 0,
+      "explanation": "Tetanus toxin causes spasm of jaw muscles.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "A greyish-white membrane in the throat with bull neck suggests:",
+      "options": [
+        "Mumps",
+        "Influenza",
+        "Measles",
+        "Diphtheria"
+      ],
+      "correct": 3,
+      "explanation": "Diphtheria forms a pseudomembrane that bleeds on removal.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Hepatitis E is especially dangerous in:",
+      "options": [
+        "Children",
+        "Elderly men",
+        "Pregnant women",
+        "Health workers"
+      ],
+      "correct": 2,
+      "explanation": "Hepatitis E carries a high death rate in pregnancy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The low-osmolarity ORS has an osmolarity of:",
+      "options": [
+        "145 mOsm/L",
+        "245 mOsm/L",
+        "311 mOsm/L",
+        "400 mOsm/L"
+      ],
+      "correct": 1,
+      "explanation": "Low-osmolarity ORS (245 mOsm/L) reduces stool output.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Primaquine for radical cure of vivax malaria is given for:",
+      "options": [
+        "14 days",
+        "1 day",
+        "3 days",
+        "7 days"
+      ],
+      "correct": 0,
+      "explanation": "14 days of primaquine clears the dormant liver stages.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "HIV mainly destroys:",
+      "options": [
+        "Neutrophils",
+        "Red cells",
+        "B lymphocytes",
+        "CD4 T lymphocytes"
+      ],
+      "correct": 3,
+      "explanation": "HIV infects and kills CD4 helper T-cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "The SAFE strategy is used for the control of:",
+      "options": [
+        "Filariasis",
+        "Leprosy",
+        "Trachoma",
+        "Tuberculosis"
+      ],
+      "correct": 2,
+      "explanation": "Surgery, Antibiotics, Facial cleanliness, Environmental improvement.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "RNTCP was renamed NTEP in:",
+      "options": [
+        "2017",
+        "2020",
+        "2023",
+        "2010"
+      ],
+      "correct": 1,
+      "explanation": "It became the National Tuberculosis Elimination Programme in 2020.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Ni-kshay Poshan Yojana provides TB patients with:",
+      "options": [
+        "Nutrition support by direct benefit transfer",
+        "Free hospital beds",
+        "Insurance cover",
+        "Free X-rays"
+      ],
+      "correct": 0,
+      "explanation": "A monthly amount is paid to patients for nutrition during treatment.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Which of these is NOT covered under NVBDCP?",
+      "options": [
+        "Japanese encephalitis",
+        "Malaria",
+        "Kala-azar",
+        "Tuberculosis"
+      ],
+      "correct": 3,
+      "explanation": "NVBDCP covers six vector-borne diseases; TB is under NTEP.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "ICTC under NACP stands for:",
+      "options": [
+        "Infection Control and Training Centre",
+        "Intensive Care and Treatment Centre",
+        "Integrated Counselling and Testing Centre",
+        "Indian Clinical Trial Centre"
+      ],
+      "correct": 2,
+      "explanation": "ICTCs give free HIV counselling and testing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Jan Aushadhi Kendras mainly sell:",
+      "options": [
+        "Branded imported drugs",
+        "Quality generic medicines at low cost",
+        "Ayurvedic medicines only",
+        "Medical devices only"
+      ],
+      "correct": 1,
+      "explanation": "PMBJP outlets sell affordable generic medicines.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Mission Indradhanush is related to:",
+      "options": [
+        "Immunisation",
+        "Malaria",
+        "Mental health",
+        "Tuberculosis"
+      ],
+      "correct": 0,
+      "explanation": "It is a catch-up immunisation drive for children and pregnant women.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Under NP-NCD, population-based screening is done for adults aged:",
+      "options": [
+        "45 and above",
+        "60 and above",
+        "18 and above",
+        "30 and above"
+      ],
+      "correct": 3,
+      "explanation": "Adults 30+ are screened for BP, diabetes and common cancers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The national tele-mental health helpline Tele-MANAS number is:",
+      "options": [
+        "108",
+        "104",
+        "14416",
+        "1098"
+      ],
+      "correct": 2,
+      "explanation": "Tele-MANAS can be reached on 14416.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "PM-JAY under Ayushman Bharat provides:",
+      "options": [
+        "Free primary care centres",
+        "Health insurance for hospital care",
+        "Free school meals",
+        "Free spectacles"
+      ],
+      "correct": 1,
+      "explanation": "PM-JAY covers secondary and tertiary hospitalisation for poor families.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "COTPA, enforced under the National Tobacco Control Programme, was enacted in:",
+      "options": [
+        "2003",
+        "2017",
+        "1985",
+        "1992"
+      ],
+      "correct": 0,
+      "explanation": "Cigarettes and Other Tobacco Products Act, 2003.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "When two drugs have proven equal outcomes, the analysis used is:",
+      "options": [
+        "Cost-utility",
+        "Cost-effectiveness",
+        "Cost-benefit",
+        "Cost-minimisation"
+      ],
+      "correct": 3,
+      "explanation": "CMA simply picks the cheaper of equally effective options.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Cost-utility analysis measures outcome in:",
+      "options": [
+        "Rupees",
+        "mmHg",
+        "QALYs",
+        "Number of tablets"
+      ],
+      "correct": 2,
+      "explanation": "CUA uses quality-adjusted life years.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "In cost-benefit analysis, outcomes are expressed in:",
+      "options": [
+        "Natural units",
+        "Money",
+        "QALYs",
+        "DALYs"
+      ],
+      "correct": 1,
+      "explanation": "Both costs and benefits are valued in money.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Lost wages due to illness are an example of:",
+      "options": [
+        "Indirect cost",
+        "Intangible cost",
+        "Direct medical cost",
+        "Direct non-medical cost"
+      ],
+      "correct": 0,
+      "explanation": "Lost productivity is an indirect cost.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "Pain and anxiety due to illness are:",
+      "options": [
+        "Fixed costs",
+        "Direct costs",
+        "Indirect costs",
+        "Intangible costs"
+      ],
+      "correct": 3,
+      "explanation": "Intangible costs are non-monetary suffering.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "A patient lives 4 years at a utility of 0.5. The QALYs gained are:",
+      "options": [
+        "8",
+        "0.5",
+        "2",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "QALY = years × utility = 4 × 0.5 = 2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "ICER is used in:",
+      "options": [
+        "Cost-minimisation analysis",
+        "Cost-effectiveness analysis",
+        "Cost-of-illness study",
+        "Drug price control"
+      ],
+      "correct": 1,
+      "explanation": "Incremental cost-effectiveness ratio compares extra cost with extra effect.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "In the ECHO model, 'H' stands for:",
+      "options": [
+        "Humanistic",
+        "Health",
+        "Hidden",
+        "Hospital"
+      ],
+      "correct": 0,
+      "explanation": "Economic, Clinical and Humanistic outcomes.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "Travel cost to reach hospital is a:",
+      "options": [
+        "Indirect cost",
+        "Intangible cost",
+        "Direct medical cost",
+        "Direct non-medical cost"
+      ],
+      "correct": 3,
+      "explanation": "Spent because of illness but not on medical care itself.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "The broadest perspective in a pharmacoeconomic study is that of:",
+      "options": [
+        "Hospital",
+        "Insurer",
+        "Society",
+        "Patient"
+      ],
+      "correct": 2,
+      "explanation": "The societal perspective counts all costs and outcomes for everyone.",
+      "probability": "low"
+    }
+  ]
+}

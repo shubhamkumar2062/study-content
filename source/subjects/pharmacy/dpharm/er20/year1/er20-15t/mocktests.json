@@ -1,0 +1,61 @@
+{
+  "tests": [
+    {
+      "id": "hptsb-er20-full",
+      "title": "Full mock paper (80 marks, 3 hours)",
+      "patternSource": "PCI Education Regulations 2020: each D.Pharm theory paper has 80 marks in the yearly board exam (plus 20 sessional marks), 3 hours. The section split below (10 MCQs, 10 very short, 6 of 8 short, 2 of 3 long) is a sensible paper built for practice; HPTSB's exact split could not be confirmed. Confirm the pattern with your college.",
+      "durationMinutes": 180,
+      "totalMarks": 80,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Section A: Objective questions (answer all)",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 10,
+          "attempt": 10
+        },
+        {
+          "id": "b",
+          "title": "Section B: Very short answers (answer all)",
+          "source": "very-short",
+          "marksEach": 2,
+          "count": 10,
+          "attempt": 10
+        },
+        {
+          "id": "c",
+          "title": "Section C: Short answers (answer any 6)",
+          "source": "short",
+          "marksEach": 5,
+          "count": 8,
+          "attempt": 6
+        },
+        {
+          "id": "d",
+          "title": "Section D: Long answers (answer any 2)",
+          "source": "long",
+          "marksEach": 10,
+          "count": 3,
+          "attempt": 2
+        }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Objective questions",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        }
+      ]
+    }
+  ]
+}

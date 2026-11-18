@@ -1,0 +1,143 @@
+{
+  "code": "ER20-15T",
+  "title": "Social Pharmacy",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, D.Pharm syllabus under Education Regulations 2020 (ER-2020), Social Pharmacy theory ER20-15T and practical ER20-15P (copy hosted by Gurukula Kangri Vishwavidyalaya)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-15T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-15P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to Social Pharmacy",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Preventive healthcare: role of pharmacists",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Nutrition and health",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Introduction to microbiology, epidemiology and communicable diseases",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Health systems and national health programmes in India",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Pharmacoeconomics",
+      "notes": "notes/unit-6.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "immunization-schedule",
+      "title": "National immunization schedule: children, adults, non-UIP vaccines",
+      "file": "practicals/immunization-schedule.md"
+    },
+    {
+      "id": "rch-nutrition",
+      "title": "Reproductive and child health: nutritional aspects and programmes",
+      "file": "practicals/rch-nutrition.md"
+    },
+    {
+      "id": "family-planning-devices",
+      "title": "Family planning devices",
+      "file": "practicals/family-planning-devices.md"
+    },
+    {
+      "id": "microbes-microscopy",
+      "title": "Microscopical observation of microbes (ready-made slides)",
+      "file": "practicals/microbes-microscopy.md"
+    },
+    {
+      "id": "oral-health",
+      "title": "Oral health and hygiene",
+      "file": "practicals/oral-health.md"
+    },
+    {
+      "id": "hand-hygiene-etiquette",
+      "title": "Hand-washing technique and cough and sneeze etiquette",
+      "file": "practicals/hand-hygiene-etiquette.md"
+    },
+    {
+      "id": "masks-ppe",
+      "title": "Masks and PPE: wearing, removing and disposal",
+      "file": "practicals/masks-ppe.md"
+    },
+    {
+      "id": "menstrual-hygiene",
+      "title": "Menstrual hygiene and products used",
+      "file": "practicals/menstrual-hygiene.md"
+    },
+    {
+      "id": "first-aid-bls",
+      "title": "First aid and Basic Life Support (CPR, AED, choking)",
+      "file": "practicals/first-aid-bls.md"
+    },
+    {
+      "id": "medical-emergencies",
+      "title": "Emergency first aid: snake bite, dog bite, poisoning, fractures, burns, epilepsy",
+      "file": "practicals/medical-emergencies.md"
+    },
+    {
+      "id": "disaster-management",
+      "title": "Role of the pharmacist in disaster management",
+      "file": "practicals/disaster-management.md"
+    },
+    {
+      "id": "disinfectants-antiseptics",
+      "title": "Disinfectants, antiseptics, fumigants, larvicides and repellents",
+      "file": "practicals/disinfectants-antiseptics.md"
+    },
+    {
+      "id": "health-communication",
+      "title": "Health communication on five communicable diseases",
+      "file": "practicals/health-communication.md"
+    },
+    {
+      "id": "water-purification",
+      "title": "Water purification, water testing and bleaching powder dose",
+      "file": "practicals/water-purification.md"
+    },
+    {
+      "id": "junk-food-counselling",
+      "title": "Counselling children on junk food and balanced diet",
+      "file": "practicals/junk-food-counselling.md"
+    },
+    {
+      "id": "nutrition-charts",
+      "title": "Nutrition charts, caloric needs and glycaemic index",
+      "file": "practicals/nutrition-charts.md"
+    },
+    {
+      "id": "tobacco-cessation",
+      "title": "Tobacco cessation counselling and tobacco products",
+      "file": "practicals/tobacco-cessation.md"
+    }
+  ]
+}
