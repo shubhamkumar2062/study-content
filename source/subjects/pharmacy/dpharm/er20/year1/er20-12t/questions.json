@@ -1,0 +1,1202 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on syllabus hours and common patterns in ER-2020 D.Pharm board papers. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle and procedure of the limit test for iron. Give the role of each reagent.",
+      "answer": "1. Principle: iron is reduced to ferrous state by thioglycollic acid; in ammoniacal solution (citric acid present) it forms ferrous thioglycollate, pale pink to reddish-purple. Colour of sample compared with a standard containing a known amount of iron.\n2. Reagents and roles: 20% w/v iron-free citric acid – complexes iron, prevents precipitation as hydroxide in alkali; thioglycollic acid – reduces Fe³⁺ to Fe²⁺ and forms the coloured complex; iron-free ammonia – makes medium alkaline (colour develops only in alkali).\n3. Procedure (test vs standard, Nessler cylinders): sample in 40 ml water / 2 ml standard iron solution (from ferric ammonium sulphate) in 40 ml water; add 2 ml citric acid and 0.1 ml thioglycollic acid to each; make alkaline with ammonia; dilute to 50 ml; stand 5 min.\n4. Observation: compare purple colour viewing down the cylinders against white background.\n5. Result: sample passes if its colour is not deeper than the standard."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the Gutzeit test (limit test for arsenic) with a labelled sketch of the apparatus.",
+      "answer": "1. Principle: arsenic converted to arsine (AsH3) by nascent hydrogen from arsenic-free Zn + HCl; arsine gives yellow-brown stain on mercuric chloride paper; compared with standard stain from known arsenic.\n2. Reactions: Zn + 2HCl → ZnCl2 + 2[H]; As(V) reduced to As(III) by KI and SnCl2; H3AsO3 + 6[H] → AsH3 + 3H2O; AsH3 + HgCl2 paper → stain.\n3. Roles: KI and stannous chloride reduce As(V) to As(III) and keep evolution even; lead acetate cotton absorbs H2S; mercuric chloride paper detects arsine.\n4. Apparatus: wide-mouth bottle with bung, glass tube packed with lead acetate cotton, HgCl2 paper clamped at top between two bungs (draw sketch).\n5. Procedure: test solution + KI + SnCl2 + HCl + Zn, close quickly, keep at 40 °C for 40 min; standard done same time. Sample passes if stain not deeper than standard."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are impurities? Discuss the sources and effects of impurities in pharmaceutical substances.",
+      "answer": "1. Definition: any foreign substance present in a drug other than the drug itself or intended additives.\n2. Sources: raw materials (rock salt brings Ca, Mg salts); manufacturing process (reagents, catalysts, solvents, intermediates, side products, arsenic from H2SO4); reaction vessels (Fe, Cu, Pb, alkali from glass); atmosphere (dust, moisture, CO2 – NaOH forms Na2CO3); storage and decomposition (ferrous sulphate oxidises, aspirin hydrolyses, adrenaline turns pink); packaging (leaching from plastics and rubber); physical changes (polymorphs); accidental contamination/adulteration.\n3. Effects: toxicity (lead, arsenic – cumulative); reduced potency; instability (metal ions catalyse oxidation); changes in colour, odour, taste, solubility; incompatibility; interference with assays.\n4. Control: pharmacopoeial limit tests, good manufacturing practice, proper storage."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Explain the limit test for chlorides.",
+      "answer": "Principle: Cl⁻ + AgNO3 in dilute HNO3 → AgCl opalescence, compared with standard (dilute NaCl). Procedure: sample and standard each in Nessler cylinder with 10 ml dilute HNO3, diluted to 50 ml, 1 ml 0.1 M AgNO3 added, stood 5 min away from light. Sample passes if opalescence is not more than standard. Nitric acid prevents precipitation of other silver salts."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Explain the limit test for sulphates. Why is potassium sulphate added to barium sulphate reagent?",
+      "answer": "SO4²⁻ + BaCl2 in dilute HCl → BaSO4 turbidity compared with standard K2SO4 solution; volume 50 ml, stand 5 min. Barium sulphate reagent = BaCl2 + sulphate-free alcohol + a little K2SO4. K2SO4 gives seed crystals so turbidity forms quickly and uniformly; alcohol prevents supersaturation; HCl stops precipitation of barium carbonate/phosphate."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between accuracy and precision.",
+      "answer": "Accuracy: closeness of a result to the true value; expressed as error; affected by systematic errors. Precision: closeness of repeated results to each other; expressed as deviation/standard deviation; affected by random errors. Results can be precise but inaccurate (e.g. using an uncalibrated burette repeatedly)."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Classify errors and give methods to minimise them.",
+      "answer": "Determinate (systematic): instrumental, method, personal, reagent – traceable, one direction. Indeterminate (random): uncontrollable, scatter both ways. Gross: blunders. Minimise by calibration of apparatus, blank and control determinations, independent method, parallel (replicate) determinations, standard addition, internal standard."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the principle of the limit test for heavy metals.",
+      "answer": "Heavy metals (Pb, Cu, Hg, Bi, Sb, Sn, Cd, Ag) react with H2S (or sulphide reagent) at pH 3–4 (acetate buffer) to give brown–black colloidal sulphides. The colour is compared with a standard lead solution under identical conditions; result expressed as ppm of lead. At pH 3–4 interfering metals like iron do not precipitate."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define limit test.",
+      "answer": "A quantitative or semi-quantitative test that checks that a small, permitted amount of a known impurity in a substance is not exceeded, by comparing it with a standard."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the rules for counting significant figures with one example.",
+      "answer": "All non-zero digits and zeros between them are significant; leading zeros are not; trailing zeros after a decimal point are. Example: 0.02050 has 4 significant figures."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is lead acetate cotton used in the Gutzeit test?",
+      "answer": "To absorb hydrogen sulphide formed from sulphide impurities in zinc, which would otherwise darken the mercuric chloride paper and give a false stain."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are non-aqueous titrations? Explain the types of solvents and the titration of weak bases with an example.",
+      "answer": "1. Titrations done in solvents other than water for very weak acids/bases or water-insoluble drugs; water competes as weak acid/base and blurs end point.\n2. Solvents: aprotic (benzene, chloroform – inert diluents); protophilic (pyridine, DMF, ethylenediamine – enhance acidity, used for weak acids); protogenic (glacial acetic acid, formic acid – enhance basicity, used for weak bases); amphiprotic (water, alcohols).\n3. Weak bases: titrant 0.1 M perchloric acid in glacial acetic acid; acetic acid forms onium ion CH3COOH2⁺ which protonates the base; indicator crystal violet (violet → blue-green); standardised with potassium hydrogen phthalate; acetic anhydride removes water.\n4. Halide salts (e.g. ephedrine HCl): add mercuric acetate to convert halide to undissociated HgX2, releasing acetate which is titrated.\n5. Examples: ephedrine, chlorpromazine HCl, diazepam."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain complexometric titrations. Describe the types and the metal ion indicators used.",
+      "answer": "1. Principle: metal ion + chelating agent → stable soluble complex. EDTA (disodium edetate) has 6 donor atoms, reacts 1 : 1 with metal regardless of charge; H⁺ released so buffer used (pH 10 ammonia–NH4Cl for Ca, Mg).\n2. Metal ion indicators: form weaker coloured complex with metal; at end point EDTA removes metal and free indicator colour shows. Eriochrome black T (mordant black II) wine red → blue (Mg, Zn, pH 10); murexide (Ca, Ni, Cu); calcon/hydroxynaphthol blue (Ca, pH 12–13); xylenol orange (Bi, Pb, Zn in acid).\n3. Types: direct (Zn, Mg salts); back titration – excess EDTA, excess titrated with Zn/Mg (Al, Pb); replacement – Mg–EDTA added, analyte displaces Mg (Ca with EBT); indirect – for anions like sulphate, phosphate.\n4. Masking with cyanide, triethanolamine, fluoride stops interference.\n5. Examples: calcium gluconate, magnesium sulphate, zinc oxide."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe precipitation titrations. Explain Mohr's, Volhard's and Fajans' methods.",
+      "answer": "1. Principle: analyte forms sparingly soluble precipitate with titrant; argentometry uses AgNO3 for halides (Ag⁺ + Cl⁻ → AgCl).\n2. Mohr's method: direct titration of chloride with AgNO3 in neutral/faintly alkaline medium (pH 6.5–9); indicator potassium chromate; end point first permanent red-brown Ag2CrO4. Fails in acid.\n3. Volhard's method: acidic (HNO3); excess standard AgNO3 added; unreacted Ag⁺ back-titrated with NH4SCN using ferric ammonium sulphate; end point red Fe(SCN)²⁺. Modified Volhard: nitrobenzene/dibutyl phthalate coats AgCl to stop it reacting with thiocyanate.\n4. Fajans' method: adsorption indicators (fluorescein, dichlorofluorescein, eosin); after equivalence point the indicator anion adsorbs on the positively charged precipitate and changes colour.\n5. Example: assay of NaCl, KCl."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between iodimetry and iodometry.",
+      "answer": "Iodimetry: direct titration with standard iodine; analyte is a reducing agent (ascorbic acid); end point – blue colour with starch appears. Iodometry: oxidising analyte liberates iodine from KI, which is titrated with sodium thiosulphate (CuSO4, bleaching powder); end point – blue disappears; starch added near the end point."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define primary standard. Give its qualities with examples.",
+      "answer": "A substance pure enough for a standard solution to be made by direct weighing. Qualities: high purity, stable in air (not hygroscopic, no CO2 absorption), easy to dry and weigh, high equivalent weight, reacts stoichiometrically and fast, soluble. Examples: potassium hydrogen phthalate, anhydrous Na2CO3, oxalic acid, K2Cr2O7, NaCl."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Explain the theory of acid–base indicators.",
+      "answer": "Ostwald: indicator is weak acid HIn ⇌ H⁺ + In⁻; HIn and In⁻ differ in colour; acid shifts to HIn colour, alkali to In⁻ colour. Quinonoid theory: indicator exists in benzenoid and quinonoid tautomers of different colour; pH change shifts the balance (phenolphthalein becomes pink quinonoid in alkali)."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the principle of permanganometry. Why is H2SO4 used and not HCl?",
+      "answer": "KMnO4 is a strong oxidant in acid: MnO4⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H2O; acts as its own indicator (first excess drop gives permanent pink). H2SO4 is used because HCl is oxidised by permanganate to chlorine (high results) and HNO3 is itself an oxidant. Example: assay of ferrous sulphate, H2O2."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the principle and steps of gravimetric analysis.",
+      "answer": "Constituent converted to a pure insoluble compound of known composition, which is weighed. Steps: weigh sample, dissolve, precipitate (hot, dilute, slowly), digest, filter, wash, dry/ignite to constant weight, weigh, calculate using gravimetric factor (e.g. sulphate weighed as BaSO4). Errors: co-precipitation, post-precipitation, peptisation."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which indicator is used for titration of a weak acid with a strong base and why?",
+      "answer": "Phenolphthalein, because the equivalence point is above pH 7 and the steep part of the curve (about pH 7–10) covers its range of 8.3–10."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the role of mercuric acetate in non-aqueous titration?",
+      "answer": "It converts the halide ion of amine hydrohalide salts into undissociated mercuric halide and releases an equivalent amount of acetate, which can then be titrated with perchloric acid."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are antacids? Give their ideal properties and classification. Describe aluminium hydroxide gel and sodium bicarbonate.",
+      "answer": "1. Antacids are weak bases that neutralise gastric HCl and raise gastric pH (hyperacidity, dyspepsia, peptic ulcer).\n2. Ideal: fast and long action, not absorbed, no acid rebound, no alkalosis, no CO2, no constipation/diarrhoea, palatable, cheap.\n3. Classification: systemic (NaHCO3); non-systemic – Al(OH)3, Mg(OH)2, magaldrate, CaCO3.\n4. Aluminium hydroxide gel: Al(OH)3 + 3HCl → AlCl3 + 3H2O; slow, causes constipation, binds phosphate (used as phosphate binder); combined with Mg(OH)2 (Digene, Gelusil); store well-closed, do not freeze.\n5. Sodium bicarbonate: NaHCO3 + HCl → NaCl + H2O + CO2; quick, short; belching, alkalosis, sodium load, acid rebound; uses: occasional antacid, metabolic acidosis, urinary alkaliniser; store well-closed."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are haematinics? Write the formulations, storage and uses of ferrous sulphate, ferrous fumarate and ferric ammonium citrate.",
+      "answer": "1. Haematinics help form haemoglobin and RBCs; used in iron-deficiency anaemia. Iron absorbed as Fe²⁺ in duodenum; vitamin C helps; antacids, tea, tetracyclines reduce.\n2. Ferrous sulphate FeSO4·7H2O: tablets (200 mg dried ≈ 65 mg Fe), with folic acid (Fefol), syrups; oxidises in moist air – airtight container; uses: anaemia, pregnancy supplement.\n3. Ferrous fumarate: ~33% Fe, stable, tasteless; tablets/capsules with folic acid, B12 (Livogen); store cool dry.\n4. Ferric ammonium citrate: brown scales, deliquescent, light sensitive; syrups for children (Dexorange); airtight, light-resistant containers; ferric form less absorbed.\n5. Side effects: GI upset, constipation, black stools; keep away from children (overdose toxic)."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on topical agents: silver nitrate, hydrogen peroxide, potassium permanganate and bleaching powder.",
+      "answer": "1. Silver nitrate AgNO3: antiseptic, astringent, caustic; sticks for warts and granulation tissue; stains skin black; store in light-resistant containers.\n2. Hydrogen peroxide: 6% w/v (20 volume); releases oxygen with catalase, effervescence cleans wounds; ear wax, mouthwash; decomposes with light/heat/metal – stabiliser added; store cool, dark, vented closure.\n3. Potassium permanganate KMnO4: oxidising antiseptic; 1:1,000–1:10,000 solutions for wounds, fungal foot soaks, eczema; stains brown; never apply crystals; keep away from organic matter.\n4. Bleaching powder (chlorinated lime, ~CaOCl2): ≥30% available chlorine; releases HOCl; disinfects water, latrines, drains; loses chlorine in air/moisture/light – airtight, cool, dark storage."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Why are aluminium and magnesium antacids combined? Write about magaldrate.",
+      "answer": "Al salts cause constipation and act slowly; Mg salts cause diarrhoea and act quickly – combination balances bowel effect and gives quick plus lasting relief. Magaldrate: hydrated magnesium aluminate (Al-Mg hydroxide sulphate), one compound with both actions; suspension/tablets often with simethicone; used in hyperacidity, gastritis, ulcer."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the uses and storage of medicinal gases.",
+      "answer": "Oxygen: hypoxia, resuscitation, anaesthesia; cylinder black with white shoulder; no oil/grease. Nitrous oxide: analgesic, weak anaesthetic, Entonox (50% with O2) for labour; blue cylinder. Carbon dioxide: laparoscopic insufflation, dry ice cryotherapy; grey cylinder. Store upright, chained, cool ventilated area, away from heat and flames."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on dental products: sodium fluoride, calcium carbonate, denture cleaners and denture adhesives.",
+      "answer": "Sodium fluoride: anticaries – converts hydroxyapatite to acid-resistant fluorapatite; toothpaste, rinses; excess causes fluorosis. Calcium carbonate: abrasive/polishing agent in dentifrices. Denture cleaners: alkaline peroxide effervescent tablets (sodium perborate/percarbonate), hypochlorite, enzymes. Denture adhesives: sodium CMC and PVM/MA copolymer salts that swell and hold dentures."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are cathartics? Write about magnesium sulphate.",
+      "answer": "Cathartics promote bowel evacuation; inorganic ones are saline (osmotic) purgatives that retain water in the gut. Magnesium sulphate (Epsom salt, MgSO4·7H2O): saline purgative in the morning with plenty of water; IV/IM to control convulsions in eclampsia; paste with glycerin for boils; store well-closed, cool (effloresces)."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is meant by 20 volume hydrogen peroxide?",
+      "answer": "A solution (about 6% w/v H2O2) of which 1 ml releases about 20 ml of oxygen at normal temperature and pressure."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is dilute HCl taken through a straw?",
+      "answer": "It is used in achlorhydria; sipping it well diluted through a straw prevents the acid from damaging the tooth enamel."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are heterocyclic compounds? Explain the Hantzsch–Widman system of nomenclature with examples.",
+      "answer": "1. Heterocycles: cyclic compounds with at least one ring atom other than carbon (N, O, S); present in nucleic acid bases, vitamins, alkaloids and most synthetic drugs.\n2. Name = heteroatom prefix + stem for ring size and saturation.\n3. Prefixes in priority order: oxa > thia > selena > aza > phospha; 'a' dropped before a vowel.\n4. Stems: 3 – irine/iridine (N), irene/irane; 4 – ete/etidine, ete/etane; 5 – ole/olidine, ole/olane; 6 – ine/inane, ine/ane; 7 – epine/epane; 8 – ocine/ocane.\n5. Numbering: heteroatom = 1; higher-priority heteroatom first; lowest locants to others; indicated hydrogen (1H-, 2H-).\n6. Examples: oxirane (ethylene oxide), aziridine, azetidine (β-lactam ring), 1,3-thiazole, 1,2,4-triazole, 1,3-diazine (pyrimidine), azinane (piperidine), 1,4-oxazinane (morpholine)."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify heterocyclic compounds and give the structures and one drug example for five-membered and six-membered heterocycles.",
+      "answer": "1. Classification: by ring size (3–8), by number of rings (mono-, bi-, tricyclic fused), by saturation (aromatic, partly saturated, saturated), by heteroatom (N, O, S, mixed).\n2. Five-membered: furan (O) – furosemide; thiophene (S) – olanzapine; pyrrole/pyrrolidine (N) – captopril (proline); imidazole – ketoconazole, metronidazole; triazole – fluconazole; thiazolidine – penicillins; hydantoin – phenytoin; isoxazole – sulfamethoxazole.\n3. Six-membered: pyridine – isoniazid; pyrimidine – barbiturates, 5-FU; pyrazine – pyrazinamide; piperidine – haloperidol; piperazine – ciprofloxacin; morpholine – linezolid.\n4. Draw the ring for each and mark the heteroatom position 1."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Name the important fused bicyclic and tricyclic heterocyclic ring systems and give drugs that contain them.",
+      "answer": "1. Bicyclic: indole (benzene + pyrrole) – indomethacin; benzimidazole – albendazole, omeprazole; quinoline – chloroquine, fluoroquinolones; isoquinoline – papaverine; quinazoline – prazosin; purine (pyrimidine + imidazole) – caffeine, acyclovir, mercaptopurine; pteridine – methotrexate; 1,4-benzodiazepine – diazepam; benzisoxazole – risperidone; tropane – atropine; penam – penicillins.\n2. Tricyclic: phenothiazine – chlorpromazine; dibenzazepine – imipramine, carbamazepine; acridine – tacrine; carbazole – carvedilol; thioxanthene – flupentixol; dibenzothiazepine – quetiapine.\n3. Fusion naming: prefix in 'o' (benzo, pyrido, thieno) + base component + letter for fused bond, e.g. benzo[b]thiophene, triazolo[4,3-a][1,4]benzodiazepine (alprazolam)."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the IUPAC names of phenytoin, phenobarbital and isoniazid and explain each name.",
+      "answer": "Phenytoin: 5,5-diphenylimidazolidine-2,4-dione – saturated 5-ring with two N, C=O at 2 and 4, two phenyls at 5. Phenobarbital: 5-ethyl-5-phenylpyrimidine-2,4,6(1H,3H,5H)-trione – pyrimidine with three C=O, ethyl and phenyl at 5. Isoniazid: pyridine-4-carbohydrazide – pyridine with –CONHNH2 at position 4."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are the rules for numbering heterocyclic rings?",
+      "answer": "Heteroatom gets position 1; with different heteroatoms number from the highest priority (O > S > N) and give others lowest locants; same heteroatoms get lowest set of numbers together; indicated hydrogen (1H, 2H) shows the position of the extra H; substituents then get lowest possible numbers."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between chemical, generic and brand names of a drug with an example.",
+      "answer": "Chemical (IUPAC) name describes exact structure: N-(4-hydroxyphenyl)acetamide. Generic (non-proprietary) name is the official short name used in pharmacopoeias: paracetamol. Brand (proprietary) name is given by a manufacturer: Crocin, Calpol, Dolo; one generic can have many brands."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Name the heterocyclic ring present in: ketoconazole, fluconazole, chlorpromazine, imipramine, caffeine, ciprofloxacin.",
+      "answer": "Ketoconazole – imidazole (plus piperazine, dioxolane); fluconazole – 1,2,4-triazole; chlorpromazine – phenothiazine; imipramine – dibenzazepine; caffeine – purine (xanthine); ciprofloxacin – quinolone (plus piperazine)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define a heterocyclic compound with two examples.",
+      "answer": "A cyclic compound containing at least one atom other than carbon (N, O or S) in the ring, e.g. pyridine and furan."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the Hantzsch–Widman names of pyrrole and piperidine.",
+      "answer": "Pyrrole = azole (1H-azole); piperidine = azinane."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antipsychotic drugs. Give the structure, chemical name, uses and storage of chlorpromazine hydrochloride.",
+      "answer": "1. Classification: typical – phenothiazines (chlorpromazine, fluphenazine), butyrophenones (haloperidol), benzamides (sulpiride); atypical – benzisoxazole (risperidone), thienobenzodiazepine (olanzapine), dibenzothiazepine (quetiapine), benzisothiazole (lurasidone).\n2. Chlorpromazine: 3-(2-chloro-10H-phenothiazin-10-yl)-N,N-dimethylpropan-1-amine HCl.\n3. Structure: phenothiazine tricyclic with Cl at C-2 and –(CH2)3N(CH3)2 on N-10 (draw); 3-carbon chain needed.\n4. Action: D2 blocker. Uses: schizophrenia, mania, antiemetic, hiccups, tetanus, potentiation of anaesthesia.\n5. Adverse: sedation, hypotension, EPS, jaundice, photosensitivity.\n6. Storage: oxidised by light/air to sulphoxide (pink/yellow) – light-resistant, well-closed; discard discoloured injection. Brand: Largactil."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify sedatives and hypnotics. Write the chemical name, structure and uses of diazepam and phenobarbital.",
+      "answer": "1. Classification: barbiturates (phenobarbital, thiopental); benzodiazepines (diazepam, alprazolam, nitrazepam); Z-drugs (zolpidem); others (chloral hydrate).\n2. Mechanism: GABA-A Cl⁻ channel – BZDs ↑ frequency, barbiturates ↑ duration of opening.\n3. Diazepam: 7-chloro-1-methyl-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one; benzodiazepine nucleus with 7-Cl, N1-CH3, 5-phenyl (draw). Uses: anxiety, status epilepticus, febrile fits, muscle spasm, alcohol withdrawal, preoperative. Brand: Valium, Calmpose.\n4. Phenobarbital: 5-ethyl-5-phenylbarbituric acid; barbituric ring with ethyl and phenyl at C-5 (draw). Uses: anticonvulsant (GTCS, status, febrile), sedative; enzyme inducer. Brand: Gardenal.\n5. Storage: well-closed, light protected."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anticonvulsants. Write the structure, chemical name, uses and adverse effects of phenytoin and carbamazepine.",
+      "answer": "1. Classes: barbiturates (phenobarbital), hydantoins (phenytoin), iminostilbenes (carbamazepine), benzodiazepines (clonazepam), fatty acids (valproic acid), GABA analogues (gabapentin, vigabatrin), phenyltriazine (lamotrigine), sulphamate (topiramate).\n2. Phenytoin: 5,5-diphenylimidazolidine-2,4-dione (hydantoin ring + two phenyls at C-5); Na channel blocker; uses GTCS, partial, status, trigeminal neuralgia, digitalis arrhythmia; adverse gum hypertrophy, hirsutism, ataxia, nystagmus, megaloblastic anaemia, teratogenic; zero-order kinetics; injection precipitates in dextrose. Brand: Eptoin.\n3. Carbamazepine: 5H-dibenzo[b,f]azepine-5-carboxamide (iminostilbene + CONH2); uses partial seizures, trigeminal neuralgia, bipolar; adverse diplopia, hyponatraemia, SJS, blood dyscrasias, autoinduction; keep dry. Brand: Tegretol."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify antidepressants. Compare the structures and uses of imipramine and amitriptyline and write on fluoxetine.",
+      "answer": "1. Classes: TCAs (imipramine, amitriptyline), SSRIs (fluoxetine, sertraline, citalopram, escitalopram, fluvoxamine, paroxetine), SNRIs (venlafaxine, duloxetine), MAOIs (moclobemide), atypical (mirtazapine).\n2. Imipramine: dibenzazepine with N in central 7-ring carrying –(CH2)3N(CH3)2; uses depression, nocturnal enuresis.\n3. Amitriptyline: dibenzocycloheptene; central ring C joined by double bond (=CH–CH2CH2N(CH3)2); sedating; uses depression with insomnia, neuropathic pain, migraine prophylaxis.\n4. TCA adverse: anticholinergic, sedation, hypotension, arrhythmia, toxic in overdose.\n5. Fluoxetine: N-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine; SSRI; long half-life (norfluoxetine); depression, OCD, bulimia; no MAOI combination (serotonin syndrome). Brand: Fludac."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on thiopental sodium.",
+      "answer": "Ultra-short-acting barbiturate: sodium 5-ethyl-5-(1-methylbutyl)-2-thiobarbiturate (S replaces O at C-2 → high lipid solubility). Rapid onset (one arm–brain time), short action due to redistribution. Uses: induction of anaesthesia, status epilepticus. Solution strongly alkaline and unstable – reconstitute fresh; extravasation causes necrosis."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the chemical name, structure and uses of valproic acid.",
+      "answer": "2-propylpentanoic acid: CH3CH2CH2–CH(COOH)–CH2CH2CH3, a branched fatty acid. Broad-spectrum antiepileptic (absence, myoclonic, GTCS, partial), bipolar disorder, migraine prophylaxis. Adverse: hepatotoxicity, pancreatitis, weight gain, hair loss, teratogenic (neural tube defects). Sodium valproate hygroscopic – airtight storage."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on ketamine hydrochloride.",
+      "answer": "2-(2-chlorophenyl)-2-(methylamino)cyclohexanone HCl. NMDA antagonist – dissociative anaesthesia with strong analgesia, raises BP and heart rate, bronchodilator. Uses: induction in shocked/asthmatic patients, children, short procedures, burns dressing. Adverse: emergence hallucinations, raised ICP; abuse potential."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the structure and uses of haloperidol.",
+      "answer": "Butyrophenone: 4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one – p-fluorophenyl ketone, 3-carbon chain, 4-hydroxy-4-(p-chlorophenyl)piperidine. Potent D2 blocker. Uses: schizophrenia, mania, delirium, Tourette's, antiemetic; decanoate depot. Marked EPS, little sedation."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on gabapentin.",
+      "answer": "2-[1-(aminomethyl)cyclohexyl]acetic acid – GABA built on a cyclohexane ring (lipophilic). Binds α2δ subunit of Ca channels (not GABA receptors). Uses: add-on in partial seizures, neuropathic pain. Excreted unchanged by kidney – adjust dose in renal failure; sedation, dizziness. Brand: Gabapin."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the chemical name and uses of alprazolam and risperidone.",
+      "answer": "Alprazolam: 8-chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine; anxiety, panic disorder. Risperidone: benzisoxazole atypical antipsychotic (6-fluoro-1,2-benzisoxazol-3-yl piperidine linked to a pyrido[1,2-a]pyrimidinone); schizophrenia, bipolar mania, irritability in autism; weight gain, high prolactin."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "How do benzodiazepines and barbiturates differ in their action on the GABA-A receptor?",
+      "answer": "Benzodiazepines increase the frequency of chloride channel opening; barbiturates increase the duration of opening (and can open it directly at high doses)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why must phenytoin injection not be diluted in dextrose?",
+      "answer": "Phenytoin sodium injection is strongly alkaline; in dextrose (acidic) solution phenytoin precipitates. It is diluted only in normal saline."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify adrenergic (sympathomimetic) drugs. Give the SAR of phenylethylamines and write on norepinephrine and dopamine.",
+      "answer": "1. Classification: direct – norepinephrine, epinephrine, phenylephrine, dopamine, terbutaline, salbutamol, naphazoline, tetrahydrozoline; indirect – hydroxyamphetamine, pseudoephedrine; mixed – ephedrine, metaraminol.\n2. SAR: catechol → maximum potency but COMT-labile, not oral; β-OH → direct activity (R-isomer); larger N-substituent → more β (tert-butyl → β2); α-methyl → MAO resistance, longer action; removing ring OH → oral, longer acting.\n3. Norepinephrine: 4-[(1R)-2-amino-1-hydroxyethyl]benzene-1,2-diol; α1 + β1; IV in hypotension/septic shock.\n4. Dopamine: 4-(2-aminoethyl)benzene-1,2-diol; D1 (low) → β1 → α1 (high dose); cardiogenic shock; not used for Parkinsonism (no BBB).\n5. Storage: oxidise to pink/brown products – sodium metabisulphite, amber ampoules, protect from light; discard discoloured; no alkaline diluents."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify β-adrenergic blockers. Give the structure, chemical name and uses of propranolol and atenolol.",
+      "answer": "1. General structure: aryloxypropanolamine Ar–O–CH2–CH(OH)–CH2–NH–isopropyl.\n2. Classification: non-selective (propranolol, timolol, sotalol); β1-selective (atenolol, metoprolol, bisoprolol); with α1 block (carvedilol, labetalol).\n3. Propranolol: 1-(isopropylamino)-3-(naphthalen-1-yloxy)propan-2-ol; naphthyl ring; lipophilic, crosses BBB; uses hypertension, angina, arrhythmia, migraine prophylaxis, tremor, anxiety, thyrotoxicosis. Brand: Inderal.\n4. Atenolol: 2-[4-[2-hydroxy-3-(isopropylamino)propoxy]phenyl]acetamide; para-acetamide gives β1 selectivity; hydrophilic, renal excretion; hypertension, angina. Brand: Aten.\n5. Cautions: bronchospasm (non-selective), masking hypoglycaemia, bradycardia, rebound on stopping."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify cholinergic blocking agents. Write the structure, uses and toxicity of atropine sulphate.",
+      "answer": "1. Classification: natural alkaloids (atropine, hyoscine); quaternary/semi-synthetic (ipratropium, hyoscine butylbromide); synthetic mydriatics (tropicamide, cyclopentolate); synthetic antispasmodics (dicyclomine, clidinium).\n2. Atropine: tropine ester of (±)-tropic acid – (8-methyl-8-azabicyclo[3.2.1]oct-3-yl) 3-hydroxy-2-phenylpropanoate; racemic hyoscyamine from Atropa belladonna (draw tropane + tropic acid ester).\n3. Uses: pre-anaesthetic (dries secretions, prevents vagal bradycardia), organophosphate poisoning, bradycardia/heart block, mydriatic-cycloplegic for refraction in children, antispasmodic.\n4. Toxicity: dry mouth, hot dry flushed skin, fever, mydriasis, blurred vision, tachycardia, urinary retention, delirium.\n5. Stability: ester hydrolyses in alkali – injection slightly acidic; protect from light."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the structure, chemical name and uses of neostigmine.",
+      "answer": "3-[(dimethylcarbamoyl)oxy]-N,N,N-trimethylanilinium (bromide/methylsulphate): benzene ring with dimethylcarbamate ester and quaternary N(CH3)3⁺ meta to each other. Reversible anticholinesterase; quaternary – no CNS entry, poor oral absorption. Uses: myasthenia gravis, reversal of non-depolarising NM block (with atropine/glycopyrrolate), postoperative urinary retention, paralytic ileus."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Why is acetylcholine not used therapeutically? Give the SAR of choline esters.",
+      "answer": "ACh is hydrolysed in seconds by acetylcholinesterase and plasma cholinesterase and acts on all muscarinic and nicotinic receptors (non-selective); used only intraocularly for miosis. SAR: quaternary N essential; two carbons between ester O and N; carbamoyl in place of acetyl → resists hydrolysis (carbachol); β-methyl → muscarinic selectivity (methacholine); both → bethanechol."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on naphazoline.",
+      "answer": "2-(naphthalen-1-ylmethyl)-4,5-dihydro-1H-imidazole: imidazoline linked by CH2 to 1-naphthyl. α-agonist → local vasoconstriction. Uses: nasal decongestant drops, ocular decongestant (red eyes). Prolonged use → rebound congestion; CNS depression in infants if swallowed. Store in light-resistant containers."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the chemistry and uses of dicyclomine hydrochloride.",
+      "answer": "2-(diethylamino)ethyl [1,1'-bi(cyclohexyl)]-1-carboxylate HCl – ester of bicyclohexylcarboxylic acid with diethylaminoethanol (tertiary amine, no aromatic ring). Antimuscarinic + direct smooth muscle relaxant. Uses: abdominal colic, irritable bowel syndrome, dysmenorrhoea. Brands: Cyclopam (with paracetamol), Colimex."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a note on α-adrenergic blockers.",
+      "answer": "Tolazoline and phentolamine – imidazolines, competitive, non-selective; phentolamine for phaeochromocytoma diagnosis/crisis and NA extravasation. Phenoxybenzamine – β-haloalkylamine forming aziridinium ion, irreversible; phaeochromocytoma. Prazosin – quinazoline, α1-selective; hypertension, BPH; first-dose hypotension (give at bedtime)."
+    },
+    {
+      "id": "u6-s06",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "What is pralidoxime? Explain its use.",
+      "answer": "Pralidoxime chloride (2-PAM) is an oxime that reactivates acetylcholinesterase phosphorylated by organophosphates by removing the phosphate group. Used with atropine in organophosphate poisoning; must be given early before the enzyme 'ages'."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is salbutamol selective for β2 receptors and active orally?",
+      "answer": "The tert-butyl group on nitrogen gives β2 selectivity; replacing the 3-OH of catechol by –CH2OH (saligenin) prevents destruction by COMT, so it is orally active and longer acting."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why are catecholamine injections stored protected from light?",
+      "answer": "Catecholamines are easily oxidised by light and air to coloured (pink-brown) inactive products; light-resistant ampoules and antioxidant (sodium metabisulphite) prevent this."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anti-arrhythmic drugs (Vaughan Williams) with examples. Write a short note on amiodarone and verapamil.",
+      "answer": "1. Class I – Na channel blockers: IA (quinidine, procainamide; prolong AP), IB (lidocaine, phenytoin; shorten AP), IC (lorcainide, flecainide).\n2. Class II – β blockers (propranolol).\n3. Class III – K channel blockers, prolong repolarisation (amiodarone, sotalol).\n4. Class IV – Ca channel blockers (verapamil, diltiazem).\n5. Amiodarone: iodinated benzofuran, mainly class III with all-class actions; very long half-life; resistant atrial/ventricular arrhythmias; adverse thyroid dysfunction (iodine), pulmonary fibrosis, corneal deposits, photosensitivity, blue-grey skin.\n6. Verapamil: phenylalkylamine Ca blocker; slows AV node; SVT, AF rate control, angina, hypertension; adverse constipation, bradycardia; avoid IV with β blockers."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antihypertensive drugs. Write the structure, chemical name, mechanism and adverse effects of captopril.",
+      "answer": "1. Classes: ACE inhibitors (captopril, ramipril), ARBs (losartan), CCBs (nifedipine, amlodipine, verapamil), β blockers (propranolol, atenolol), α1 blockers (prazosin), central α2 agonists (clonidine, methyldopa), vasodilators (hydralazine, nitroprusside), diuretics.\n2. Captopril: (2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid – L-proline acylated by 3-mercapto-2-methylpropanoyl; –SH binds Zn of ACE.\n3. Mechanism: blocks ACE → ↓ angiotensin II and aldosterone, ↑ bradykinin → vasodilation.\n4. Uses: hypertension, heart failure, post-MI, diabetic nephropathy.\n5. Adverse: dry cough, angioedema, first-dose hypotension, hyperkalaemia, taste loss and rash (–SH); contraindicated in pregnancy. Take 1 h before meals; thiol oxidises – tight containers. Brand: Capoten."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on centrally acting antihypertensives and vasodilators: methyldopate, clonidine, hydralazine and nifedipine.",
+      "answer": "1. Methyldopate HCl: ethyl ester of methyldopa for IV use; converted to α-methylnoradrenaline → central α2 stimulation; safe in pregnancy; sedation, Coombs-positive haemolytic anaemia.\n2. Clonidine: imidazoline α2 agonist; hypertension, opioid withdrawal; dry mouth, sedation, rebound hypertension on abrupt stop.\n3. Hydralazine: hydrazinophthalazine; arteriolar dilator; pregnancy hypertension, heart failure with nitrates; reflex tachycardia, fluid retention, lupus-like syndrome.\n4. Nifedipine: 1,4-dihydropyridine CCB with o-nitrophenyl; hypertension, angina, Raynaud's; headache, flushing, ankle oedema; very light sensitive – protect from light."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on isosorbide dinitrate.",
+      "answer": "Organic nitrate ester of isosorbide (two –ONO2). Releases NO → cGMP → venodilation (↓ preload) and coronary dilation. Sublingual for acute angina and before exertion, oral for prophylaxis, heart failure. Adverse: headache, flushing, postural hypotension, tolerance (nitrate-free interval); never with sildenafil. Brand: Sorbitrate."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the uses and adverse effects of quinidine and procainamide.",
+      "answer": "Quinidine: class IA cinchona alkaloid (d-isomer of quinine); AF/flutter; cinchonism, diarrhoea, QT prolongation, raises digoxin level. Procainamide: amide analogue of procaine (orally active, longer acting); class IA; ventricular/atrial arrhythmias; lupus-like syndrome (slow acetylators), blood dyscrasias."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Why is lidocaine given only intravenously as an anti-arrhythmic? Give its uses.",
+      "answer": "Orally it undergoes extensive first-pass metabolism in the liver, so blood levels are too low; hence IV. Class IB; ventricular arrhythmias (especially after MI, during surgery). Also a local anaesthetic. Toxicity: CNS – drowsiness, convulsions."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the role of phenytoin sodium and propranolol in arrhythmias.",
+      "answer": "Phenytoin sodium: class IB Na channel blocker; useful in digitalis-induced ventricular arrhythmias; inject slowly in saline. Propranolol: class II β blocker; arrhythmias due to sympathetic overactivity, sinus tachycardia, thyrotoxicosis, AF rate control."
+    },
+    {
+      "id": "u7-s05",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Compare captopril and ramipril.",
+      "answer": "Captopril: active as such, contains –SH (taste loss, rash), short acting (2–3 times daily), take before meals. Ramipril: prodrug ester converted to ramiprilat in liver, no –SH, long acting (once daily). Both cause dry cough, angioedema, hyperkalaemia, avoid in pregnancy."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why do ACE inhibitors cause dry cough?",
+      "answer": "ACE also breaks down bradykinin; ACE inhibition lets bradykinin (and related substances) accumulate in the airways, causing a dry cough."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why must nifedipine be protected from light?",
+      "answer": "Its nitrophenyl-dihydropyridine structure is oxidised by light to an inactive nitroso-pyridine derivative."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify diuretics with examples. Write the structure, chemical name, uses and adverse effects of frusemide.",
+      "answer": "1. Classification: loop/high ceiling (frusemide, bumetanide, torsemide); thiazides and thiazide-like (benzthiazide, hydrochlorothiazide, chlorthalidone, metolazone, xipamide); carbonic anhydrase inhibitors (acetazolamide); K-sparing (spironolactone, amiloride, triamterene); osmotic (mannitol).\n2. Frusemide: 4-chloro-2-[(furan-2-ylmethyl)amino]-5-sulfamoylbenzoic acid – anthranilic acid with furfurylamino at 2, Cl at 4, SO2NH2 at 5 (draw).\n3. Mechanism: blocks Na⁺–K⁺–2Cl⁻ cotransporter in thick ascending limb.\n4. Uses: acute pulmonary oedema (IV), oedema of CHF, cirrhosis, nephrotic syndrome, renal failure, hypertension with renal impairment, hypercalcaemia.\n5. Adverse: hypokalaemia, alkalosis, hyponatraemia, dehydration, hyperuricaemia, hyperglycaemia, ototoxicity.\n6. Light sensitive – light-resistant storage. Brand: Lasix."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on thiazide and thiazide-like diuretics with examples, mechanism, uses and adverse effects.",
+      "answer": "1. Nucleus: 1,2,4-benzothiadiazine-1,1-dioxide with 6-Cl and 7-SO2NH2 (benzthiazide, hydrochlorothiazide). Thiazide-like: chlorthalidone (phthalimidine, long acting), metolazone (quinazolinone, works at low GFR), xipamide (salicylanilide).\n2. Mechanism: inhibit Na⁺–Cl⁻ cotransporter in early distal tubule; moderate efficacy; fail at low GFR (except metolazone).\n3. Uses: hypertension (first line), mild oedema, calcium kidney stones (reduce urinary Ca), nephrogenic diabetes insipidus.\n4. Adverse: hypokalaemia, hyponatraemia, hyperuricaemia, hyperglycaemia, raised lipids, hypercalcaemia, impotence.\n5. Take in the morning; potassium-rich diet."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on potassium-sparing diuretics and carbonic anhydrase inhibitors.",
+      "answer": "1. Spironolactone: steroid lactone, competitive aldosterone antagonist at mineralocorticoid receptors in late distal tubule/collecting duct; Na lost, K retained; slow onset. Uses: with loop/thiazide to prevent hypokalaemia, cirrhosis ascites, heart failure, Conn's syndrome, resistant hypertension, hirsutism. Adverse: hyperkalaemia (with ACE inhibitors, K supplements), gynaecomastia, menstrual problems. Brand: Aldactone.\n2. Amiloride/triamterene: block ENaC directly.\n3. Acetazolamide: thiadiazole sulphonamide; inhibits carbonic anhydrase in proximal tubule → HCO3⁻, Na, water lost; weak, self-limiting (acidosis). Uses: glaucoma, mountain sickness, urinary alkalinisation, some epilepsies. Adverse: metabolic acidosis, hypokalaemia, kidney stones, paraesthesia. Brand: Diamox."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Why are loop diuretics called high-ceiling diuretics?",
+      "answer": "They act on the thick ascending limb where about 25% of filtered sodium is reabsorbed; increasing the dose keeps increasing the diuresis up to excretion of about 20–25% of filtered Na – a much higher maximum (ceiling) than thiazides (5–10%) or K-sparing drugs."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on acetazolamide.",
+      "answer": "N-(5-sulfamoyl-1,3,4-thiadiazol-2-yl)acetamide; carbonic anhydrase inhibitor; alkaline diuresis with HCO3⁻ loss; self-limiting. Main uses: glaucoma (↓ aqueous humour), acute mountain sickness, urinary alkalinisation, epilepsy adjunct. Adverse: metabolic acidosis, hypokalaemia, renal stones, tingling, drowsiness."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Compare bumetanide with frusemide.",
+      "answer": "Both loop diuretics (sulphamoylbenzoic acids) acting on Na⁺–K⁺–2Cl⁻ transporter. Bumetanide is about 40 times more potent by weight, has more complete oral absorption and is somewhat less ototoxic; maximum effect similar. Same uses and electrolyte effects."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Give the uses of mannitol and why it is not used in heart failure.",
+      "answer": "Osmotic diuretic given IV (20%): raised intracranial pressure, acute glaucoma, to keep urine flowing in some renal emergencies. It first draws water into the blood and expands volume, which can precipitate pulmonary oedema in heart failure."
+    },
+    {
+      "id": "u8-s05",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Give the counselling points for a patient taking frusemide.",
+      "answer": "Take in the morning to avoid nocturia; eat potassium-rich foods (unless on K-sparing drug); rise slowly (postural hypotension); weigh daily in heart failure; report muscle cramps, weakness, ringing in ears; avoid NSAIDs; check electrolytes regularly."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the diuretic used in glaucoma and the one that causes gynaecomastia.",
+      "answer": "Acetazolamide is used in glaucoma; spironolactone causes gynaecomastia."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which thiazide-like diuretic works even when the GFR is low?",
+      "answer": "Metolazone."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify hypoglycaemic agents. Write the structure, chemical name, mechanism, uses and adverse effects of metformin.",
+      "answer": "1. Classes: insulin; sulphonylureas (glibenclamide, glimepiride); biguanides (metformin); meglitinides (repaglinide); thiazolidinediones (pioglitazone); DPP-4 inhibitors – gliptins (sitagliptin, vildagliptin); SGLT2 inhibitors – gliflozins (dapagliflozin, empagliflozin).\n2. Metformin: N,N-dimethylbiguanide HCl – (CH3)2N–C(=NH)–NH–C(=NH)–NH2.\n3. Mechanism: ↓ hepatic gluconeogenesis, ↑ peripheral glucose uptake, ↓ gut absorption (AMPK activation); does not release insulin – no hypoglycaemia alone; no weight gain.\n4. Uses: first-line in type 2 diabetes (obese), PCOS, prediabetes.\n5. Adverse: GI upset, metallic taste, B12 deficiency, rare lactic acidosis (renal/hepatic/heart failure, alcohol, contrast dye). Brand: Glycomet."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on insulin and its preparations with their storage.",
+      "answer": "1. Insulin: polypeptide from β cells; A chain (21 aa) + B chain (30 aa) joined by two disulphide bridges; now human recombinant and analogues; strength U-40, U-100.\n2. Preparations: rapid (lispro, aspart, glulisine; clear, 3–5 h); short (regular soluble, clear, 6–8 h, can be given IV); intermediate (NPH/isophane with protamine + zinc, cloudy, 12–18 h); long (glargine, detemir, degludec, ~24 h); premixed 30/70.\n3. Uses: type 1 DM, uncontrolled type 2, pregnancy, ketoacidosis, surgery, hyperkalaemia.\n4. Adverse: hypoglycaemia, weight gain, lipodystrophy, allergy.\n5. Storage: unopened 2–8 °C, never freeze; in-use at room temperature (<25–30 °C) for about 4 weeks; avoid heat and sunlight; roll (not shake) cloudy insulin; discard if clumped or discoloured."
+    },
+    {
+      "id": "u9-l03",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the mechanism and uses of sulphonylureas and give the structure and chemical name of glibenclamide.",
+      "answer": "1. Sulphonylureas bind SUR on β cells, close K-ATP channels → depolarisation → Ca²⁺ entry → insulin release; need functioning β cells (not for type 1).\n2. General structure: R1–C6H4–SO2–NH–CO–NH–R2. Generations: first (tolbutamide, chlorpropamide), second (glibenclamide, glipizide, gliclazide), third (glimepiride).\n3. Glibenclamide: 5-chloro-N-[2-[4-(cyclohexylcarbamoylsulfamoyl)phenyl]ethyl]-2-methoxybenzamide – sulphonylurea with cyclohexyl and 5-chloro-2-methoxybenzamidoethyl groups.\n4. Uses: type 2 diabetes; dose 2.5–5 mg with breakfast.\n5. Adverse: prolonged hypoglycaemia (elderly, renal impairment), weight gain, rash; β blockers mask hypoglycaemia. Brand: Daonil."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on gliflozins.",
+      "answer": "SGLT2 inhibitors (dapagliflozin, empagliflozin, canagliflozin): block sodium–glucose co-transporter 2 in proximal tubule → glucose excreted in urine; lowers glucose, weight and BP; protect heart and kidneys. Adverse: genital fungal infections, UTI, dehydration, rare euglycaemic ketoacidosis. Little hypoglycaemia alone."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on gliptins.",
+      "answer": "DPP-4 inhibitors (sitagliptin, vildagliptin, saxagliptin, linagliptin, teneligliptin): block breakdown of incretins (GLP-1, GIP) → more glucose-dependent insulin release and less glucagon. Weight neutral, little hypoglycaemia; oral once/twice daily; adverse headache, nasopharyngitis, rare pancreatitis."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the mechanism, uses and adverse effects of pioglitazone.",
+      "answer": "Thiazolidinedione; activates nuclear PPAR-γ receptor → increases insulin sensitivity in fat, muscle, liver; slow onset. Used in type 2 DM with metformin/sulphonylurea. Adverse: weight gain, fluid retention (avoid in heart failure), fractures, possible bladder cancer risk; monitor liver."
+    },
+    {
+      "id": "u9-s04",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a note on repaglinide.",
+      "answer": "Meglitinide (benzoic acid derivative, non-sulphonylurea); closes K-ATP channels but acts quickly and briefly; taken just before each main meal ('skip a meal, skip a dose'); controls post-meal glucose; less prolonged hypoglycaemia than sulphonylureas."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which insulin can be given intravenously?",
+      "answer": "Regular (soluble, plain) insulin – a clear solution; used IV in diabetic ketoacidosis."
+    },
+    {
+      "id": "u9-v02",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why does metformin not cause hypoglycaemia when used alone?",
+      "answer": "It does not increase insulin secretion; it mainly reduces glucose output by the liver and improves insulin sensitivity."
+    },
+    {
+      "id": "u10-l01",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify NSAIDs. Write the structure, chemical name, mechanism, uses and storage of aspirin.",
+      "answer": "1. Classification: salicylates (aspirin); p-aminophenol (paracetamol); propionic acids (ibuprofen, naproxen); acetic acids (diclofenac, aceclofenac, indomethacin); fenamates (mefenamic acid); oxicams (piroxicam); pyrazolones (metamizole); COX-2 selective (celecoxib).\n2. Aspirin: 2-acetoxybenzoic acid – COOH with ortho acetyl ester (draw); made from salicylic acid + acetic anhydride.\n3. Mechanism: irreversible acetylation of COX serine → ↓ prostaglandins and thromboxane A2 (platelet effect lasts 7–10 days).\n4. Uses: pain, fever (300–600 mg), inflammation, antiplatelet 75–150 mg daily (MI, stroke prevention).\n5. Adverse: gastric bleeding, Reye's syndrome in children, salicylism, asthma, bleeding.\n6. Storage: hydrolyses in moist air → salicylic acid + acetic acid (vinegar smell); airtight, cool, dry. Brands: Disprin, Ecosprin."
+    },
+    {
+      "id": "u10-l02",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure, chemical name, uses, dose and toxicity of paracetamol.",
+      "answer": "1. Paracetamol: N-(4-hydroxyphenyl)acetamide – p-aminophenol derivative with –OH and –NHCOCH3 para (draw).\n2. Mechanism: inhibits COX mainly in CNS; analgesic, antipyretic, very weak anti-inflammatory; no gastric irritation or platelet effect.\n3. Uses: fever, mild–moderate pain; safe in children, pregnancy, peptic ulcer; dose 500 mg–1 g every 4–6 h, max 4 g/day.\n4. Toxicity: overdose → glutathione depletion → toxic NAPQI → hepatic necrosis; antidote N-acetylcysteine (early); higher risk in alcoholics.\n5. Purity: limit of 4-aminophenol. Storage well-closed, protected from light. Brands: Crocin, Calpol, Dolo."
+    },
+    {
+      "id": "u10-l03",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on morphine analogues and narcotic antagonists.",
+      "answer": "1. Morphine: pentacyclic phenanthrene alkaloid of opium; μ agonist; 3-phenolic OH, 6-alcoholic OH, 7,8 double bond, N-CH3, epoxy bridge.\n2. Analogues: codeine (3-O-methyl; antitussive), heroin (3,6-diacetyl), hydromorphone (6-keto, dihydro), pethidine (phenylpiperidine), methadone (de-addiction), fentanyl (very potent, patches), tramadol.\n3. Uses: severe pain, MI, acute LVF, pre-anaesthetic; adverse respiratory depression, constipation, miosis, dependence.\n4. Antagonists: replacing N-CH3 by allyl or cyclopropylmethyl. Naloxone (N-allyl noroxymorphone) – opioid overdose, short acting; naltrexone (N-cyclopropylmethyl) – oral, long acting, de-addiction, alcohol dependence; nalorphine – mixed agonist-antagonist."
+    },
+    {
+      "id": "u10-s01",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the structure, chemical name and uses of ibuprofen.",
+      "answer": "2-(4-isobutylphenyl)propanoic acid: benzene with para isobutyl and –CH(CH3)COOH; chiral – S-isomer active, R partly converted to S; racemate. Uses: pain, fever, dysmenorrhoea, arthritis, soft-tissue injury; 200–400 mg 3–4 times daily after food; well tolerated. Brands: Brufen, Combiflam (with paracetamol). Assayed by alkalimetry."
+    },
+    {
+      "id": "u10-s02",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the mechanism of action of NSAIDs. Differentiate COX-1 and COX-2.",
+      "answer": "NSAIDs inhibit cyclo-oxygenase, which converts arachidonic acid to prostaglandins and thromboxanes → less pain, fever, inflammation. COX-1: constitutive, protects gastric mucosa, platelet aggregation, renal blood flow. COX-2: induced at inflamed sites. Non-selective NSAIDs cause gastric ulcers; COX-2 selective (celecoxib) less gastric injury but more CV risk."
+    },
+    {
+      "id": "u10-s03",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on diclofenac and aceclofenac.",
+      "answer": "Diclofenac: 2-[2-(2,6-dichloroanilino)phenyl]acetic acid (Na/K salt); potent anti-inflammatory; arthritis, back pain, renal colic, post-op pain, gel; GI, liver, CV risk (Voveran). Aceclofenac: glycolic acid ester of diclofenac; partly converted to diclofenac; better GI tolerance; osteoarthritis, RA, ankylosing spondylitis (Hifenac)."
+    },
+    {
+      "id": "u10-s04",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the chemistry and uses of mefenamic acid and piroxicam.",
+      "answer": "Mefenamic acid: fenamate – N-(2,3-dimethylphenyl)anthranilic acid; dysmenorrhoea, menorrhagia, mild pain; diarrhoea (Meftal). Piroxicam: oxicam enolic acid (benzothiazine with pyridyl carboxamide); long half-life, once daily; arthritis; more GI side effects (Dolonex)."
+    },
+    {
+      "id": "u10-v01",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the antidote for paracetamol poisoning?",
+      "answer": "N-acetylcysteine, which replenishes glutathione to detoxify NAPQI; best given within 8–10 hours."
+    },
+    {
+      "id": "u10-v02",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why do old aspirin tablets smell of vinegar?",
+      "answer": "Moisture hydrolyses aspirin into salicylic acid and acetic acid; the acetic acid gives the vinegar smell."
+    },
+    {
+      "id": "u11-l01",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anti-tubercular drugs. Write the structure, chemical name, mechanism, uses and adverse effects of isoniazid.",
+      "answer": "1. First line: isoniazid (H), rifampicin (R), pyrazinamide (Z), ethambutol (E), streptomycin (S). Second line/newer: PAS, fluoroquinolones, bedaquiline, delamanid, pretomanid, linezolid. Regimen for new cases in India: 2 months HRZE + 4 months HRE.\n2. Isoniazid: pyridine-4-carbohydrazide (isonicotinic acid hydrazide) – pyridine with –CONHNH2 at C-4 (draw).\n3. Mechanism: prodrug activated by mycobacterial KatG; inhibits mycolic acid synthesis; bactericidal for dividing bacilli.\n4. Uses: all forms of TB, TB preventive therapy.\n5. Adverse: peripheral neuropathy (pyridoxine deficiency – give B6 10–25 mg/day), hepatitis (more with alcohol, rifampicin, age), rash; slow acetylators at higher risk; inhibits phenytoin metabolism. Protect from light."
+    },
+    {
+      "id": "u11-l02",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antimalarial drugs. Write the structure, chemical name, mechanism, uses and adverse effects of chloroquine phosphate.",
+      "answer": "1. Classification: cinchona alkaloid – quinine; 4-aminoquinolines – chloroquine, amodiaquine; 8-aminoquinolines – primaquine; quinoline methanol – mefloquine; DHFR inhibitors – cycloguanil (proguanil), pyrimethamine; artemisinin and derivatives (ACT). By stage: blood schizonticides, tissue schizonticides, gametocides.\n2. Chloroquine: N4-(7-chloroquinolin-4-yl)-N1,N1-diethylpentane-1,4-diamine – quinoline with 7-Cl and 4-amino diethylaminopentyl side chain (draw).\n3. Mechanism: accumulates in food vacuole, prevents haem → haemozoin; toxic haem kills parasite.\n4. Uses: vivax malaria (with primaquine), sensitive falciparum, extra-intestinal amoebiasis, RA, lupus.\n5. Adverse: bitter taste, nausea, pruritus, headache, retinopathy (long use), dangerous IV bolus; toxic in overdose. Brand: Lariago."
+    },
+    {
+      "id": "u11-l03",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antifungal agents. Write the structure and uses of ketoconazole and fluconazole.",
+      "answer": "1. Classification: polyenes (amphotericin B, nystatin – bind ergosterol); griseofulvin (mitotic inhibitor); imidazoles (miconazole, ketoconazole, clotrimazole) and triazoles (fluconazole, itraconazole) – inhibit lanosterol 14α-demethylase; allylamines (naftifine, terbinafine – squalene epoxidase).\n2. Ketoconazole: cis-1-acetyl-4-[4-[[2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazine; imidazole + dichlorophenyl on dioxolane, acetylpiperazine. Mainly topical (dandruff shampoo, tinea); oral limited by hepatotoxicity, steroid inhibition, interactions.\n3. Fluconazole: 2-(2,4-difluorophenyl)-1,3-bis(1,2,4-triazol-1-yl)propan-2-ol (draw). Water soluble, oral/IV, enters CSF; vaginal candidiasis (150 mg single dose), oral/oesophageal thrush, cryptococcal meningitis, prophylaxis. Brand: Forcan."
+    },
+    {
+      "id": "u11-l04",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify sulphonamides. Give their mechanism, SAR and adverse effects. Write on sulphacetamide and dapsone.",
+      "answer": "1. Classification by use: systemic (sulphadiazine, sulphamethoxazole), combination (cotrimoxazole), topical (sulphacetamide, mafenide, silver sulphadiazine), sulphone (dapsone).\n2. Mechanism: PABA analogues → inhibit dihydropteroate synthase → no folate; bacteriostatic; cotrimoxazole adds trimethoprim (DHFR) – sequential block.\n3. SAR: free para-NH2 (N4) essential; S directly on ring; N1 heterocycles increase potency.\n4. Adverse: crystalluria, rashes/SJS, haemolysis in G6PD deficiency, kernicterus in newborns.\n5. Sulphacetamide: N-[(4-aminophenyl)sulfonyl]acetamide; sodium salt nearly neutral, non-irritant eye drops 10–30% for conjunctivitis, trachoma; protect from light (Albucid).\n6. Dapsone: 4,4'-sulfonyldianiline; leprosy MDT, dermatitis herpetiformis, PCP prophylaxis; haemolytic anaemia, methaemoglobinaemia."
+    },
+    {
+      "id": "u11-s01",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the structure and mechanism of acyclovir.",
+      "answer": "2-amino-9-[(2-hydroxyethoxy)methyl]-1,9-dihydro-6H-purin-6-one: guanine with acyclic –CH2OCH2CH2OH side chain at N-9 (no 3'-OH). Phosphorylated by viral thymidine kinase (selective), then host kinases to triphosphate → inhibits viral DNA polymerase and causes chain termination. Uses: herpes simplex, zoster, chickenpox, encephalitis (IV). IV – crystalluria (hydrate). Brand: Zovirax."
+    },
+    {
+      "id": "u11-s02",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the general structure of fluoroquinolones and give the chemistry and uses of ofloxacin.",
+      "answer": "4-Quinolone-3-carboxylic acid with 6-F and 7-piperazine; N1 ethyl/cyclopropyl. Inhibit DNA gyrase and topoisomerase IV. Ofloxacin: tricyclic (pyrido-benzoxazine) with N-methylpiperazine; racemate, S-isomer = levofloxacin. Uses: UTI, respiratory, typhoid, eye/ear infections, leprosy, TB. Avoid in children/pregnancy; tendon rupture; chelates antacids/iron."
+    },
+    {
+      "id": "u11-s03",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on mefloquine.",
+      "answer": "[2,8-bis(trifluoromethyl)quinolin-4-yl](piperidin-2-yl)methanol – quinoline methanol with two CF3 groups and a 2-piperidyl carbinol; long half-life. Blood schizonticide for chloroquine-resistant falciparum (with artesunate), weekly prophylaxis for travellers. Adverse: neuropsychiatric (dreams, depression, psychosis, seizures), dizziness; avoid in epilepsy, psychiatric illness."
+    },
+    {
+      "id": "u11-s04",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on pretomanid.",
+      "answer": "Nitroimidazo-oxazine: (6S)-2-nitro-6-[4-(trifluoromethoxy)benzyloxy]-6,7-dihydro-5H-imidazo[2,1-b][1,3]oxazine. Prodrug activated by mycobacterial nitroreductase; inhibits mycolic acid synthesis and releases nitric oxide (kills dormant bacilli). Used with bedaquiline and linezolid (BPaL, ±moxifloxacin) for drug-resistant TB. Adverse: liver injury, neuropathy, myelosuppression."
+    },
+    {
+      "id": "u11-s05",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the uses and adverse effects of primaquine.",
+      "answer": "8-aminoquinoline; tissue schizonticide – kills liver hypnozoites → radical cure of vivax (14 days); gametocidal (single low dose) for falciparum to stop spread. Causes haemolysis in G6PD deficiency; methaemoglobinaemia; avoid in pregnancy and infants."
+    },
+    {
+      "id": "u11-s06",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a note on antiviral drugs: amantadine, zidovudine and remdesivir.",
+      "answer": "Amantadine: adamantane amine; blocks influenza A M2 channel; also Parkinsonism. Zidovudine: 3'-azido-3'-deoxythymidine, NRTI for HIV and preventing mother-to-child transmission; anaemia. Remdesivir: adenosine nucleotide prodrug; inhibits viral RNA-dependent RNA polymerase; IV for hospitalised COVID-19."
+    },
+    {
+      "id": "u11-s07",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a note on amphotericin B.",
+      "answer": "Polyene macrolide from Streptomyces nodosus; binds ergosterol forming pores. Drug of choice for serious systemic mycoses (cryptococcal meningitis, invasive candidiasis, aspergillosis, mucormycosis), also kala-azar. Slow IV infusion; nephrotoxicity, fever/chills, hypokalaemia; liposomal forms safer. Store 2–8 °C protected from light; reconstitute in water/dextrose, not saline."
+    },
+    {
+      "id": "u11-v01",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is pyridoxine given with isoniazid?",
+      "answer": "Isoniazid causes pyridoxine (vitamin B6) deficiency leading to peripheral neuropathy; pyridoxine prevents it."
+    },
+    {
+      "id": "u11-v02",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is cotrimoxazole?",
+      "answer": "A fixed combination of sulphamethoxazole and trimethoprim (5 : 1) that blocks two sequential steps of bacterial folate synthesis."
+    },
+    {
+      "id": "u12-l01",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify penicillins. Draw the penicillin nucleus and write the structure, uses and storage of amoxicillin.",
+      "answer": "1. Nucleus: 6-aminopenicillanic acid – β-lactam fused with thiazolidine; acyl side chain on 6-NH2 (draw, label rings).\n2. Mechanism: β-lactam acylates PBPs (transpeptidases) → weak cell wall → lysis; bactericidal.\n3. Classification: natural (penicillin G, V); penicillinase-resistant (cloxacillin, methicillin); aminopenicillins (ampicillin, amoxicillin); antipseudomonal (piperacillin); with β-lactamase inhibitors (amoxicillin + clavulanic acid).\n4. Amoxicillin: 6-APA with D-α-amino-p-hydroxyphenylacetyl side chain (p-hydroxy ampicillin); acid stable, better oral absorption; broad spectrum.\n5. Uses: respiratory infections, otitis, sinusitis, UTI, H. pylori eradication, dental infections. Adverse: diarrhoea, allergy, rash in infectious mononucleosis.\n6. Storage: dry; reconstituted dry syrup in refrigerator, use within about 7 days. Brands: Mox, Novamox, Augmentin."
+    },
+    {
+      "id": "u12-l02",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure, chemical name, mechanism, uses and adverse effects of chloramphenicol.",
+      "answer": "1. Chemical name: 2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide.\n2. Structure: p-nitrophenyl–CH(OH)–CH(NHCOCHCl2)–CH2OH (draw); D-(−)-threo isomer active; originally from Streptomyces venezuelae, now synthetic.\n3. Mechanism: binds 50S subunit, inhibits peptidyl transferase; bacteriostatic, broad spectrum incl. anaerobes, rickettsiae, S. typhi.\n4. Uses: eye and ear infections (drops/ointment), meningitis in penicillin allergy, resistant typhoid, brain abscess.\n5. Adverse: dose-related marrow suppression, idiosyncratic fatal aplastic anaemia, grey baby syndrome, enzyme inhibition.\n6. Formulations: bitter – palmitate ester for suspension, sodium succinate for injection; eye drops refrigerated before opening, protect from light. Brand: Chloromycetin."
+    },
+    {
+      "id": "u12-l03",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on tetracyclines and macrolides.",
+      "answer": "1. Tetracyclines: four-ring naphthacene nucleus; bind 30S, bacteriostatic, broad spectrum (rickettsiae, chlamydia, mycoplasma, cholera, acne). Doxycycline – once daily, safe in renal failure; scrub typhus, cholera, malaria prophylaxis, leptospirosis. Minocycline – lipophilic, acne, vestibular toxicity. Adverse: teeth staining (avoid <8 y, pregnancy), oesophageal ulcer, photosensitivity, superinfection; chelate Ca/Mg/Al/Fe; expired tetracycline → Fanconi syndrome; store tight, light-resistant.\n2. Macrolides: macrocyclic lactone + sugars; bind 50S; erythromycin (14-membered, acid-labile → enteric coat/esters, GI upset, CYP3A4 inhibitor, estolate jaundice); azithromycin (15-membered azalide, acid stable, long tissue half-life, once daily for 3–5 days; respiratory infections, typhoid, chlamydia, trachoma). QT prolongation."
+    },
+    {
+      "id": "u12-s01",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on streptomycin.",
+      "answer": "Aminoglycoside from Streptomyces griseus (streptidine + streptose + N-methylglucosamine); binds 30S → misreading; bactericidal. Not absorbed orally – IM. Uses: TB (now drug-resistant regimens), plague, tularaemia. Adverse: vestibular ototoxicity, nephrotoxicity, neuromuscular block; avoid in pregnancy (fetal deafness)."
+    },
+    {
+      "id": "u12-s02",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What are the problems with penicillin G? How are they overcome?",
+      "answer": "Acid lability (destroyed in stomach) → acid-stable penicillins (penicillin V, amoxicillin) or parenteral route; penicillinase destruction → bulky side chains (cloxacillin) or β-lactamase inhibitors (clavulanic acid); short half-life → probenecid, depot procaine/benzathine penicillin; narrow spectrum → aminopenicillins; allergy → ask history, use alternatives (macrolides)."
+    },
+    {
+      "id": "u12-s03",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on cloxacillin.",
+      "answer": "Isoxazolyl penicillin with 3-(2-chlorophenyl)-5-methylisoxazole side chain; bulky group shields β-lactam from penicillinase; acid stable (oral). Narrow spectrum; used for penicillinase-producing Staphylococcus aureus (boils, abscesses, osteomyelitis), with ampicillin/amoxicillin. Not active against MRSA. Brand: Klox."
+    },
+    {
+      "id": "u12-s04",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on clindamycin.",
+      "answer": "Lincosamide (7-chloro-7-deoxy lincomycin); binds 50S; active on Gram-positive cocci and anaerobes. Uses: anaerobic abdominal/pelvic infections, bone and joint infections, dental infections, acne (topical), toxoplasmosis, malaria (with quinine). Major adverse effect: pseudomembranous colitis (C. difficile)."
+    },
+    {
+      "id": "u12-s05",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Give counselling points for antibiotic use.",
+      "answer": "Complete the full course; keep regular dosing times; follow food instructions; avoid milk/antacids/iron with tetracyclines and quinolones; report rash, breathing difficulty or severe diarrhoea; never share or self-medicate; misuse causes antimicrobial resistance; antibiotics are prescription (Schedule H/H1) drugs."
+    },
+    {
+      "id": "u12-v01",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why are tetracyclines avoided in children below 8 years?",
+      "answer": "They deposit in developing teeth and bones by chelating calcium, causing permanent yellow-brown teeth discolouration and affecting bone growth."
+    },
+    {
+      "id": "u12-v02",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is grey baby syndrome?",
+      "answer": "Toxicity of chloramphenicol in newborns whose immature liver cannot conjugate the drug; causes vomiting, cyanosis (grey colour), hypothermia and circulatory collapse."
+    },
+    {
+      "id": "u13-l01",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anti-neoplastic agents. Write the structure, chemical name, mechanism, uses and adverse effects of cyclophosphamide.",
+      "answer": "1. Classification: alkylating agents (nitrogen mustards – cyclophosphamide; alkyl sulphonates – busulfan; platinum – cisplatin); antimetabolites (methotrexate, mercaptopurine, fluorouracil); antibiotics (dactinomycin, doxorubicin); plant products (vinblastine); hormones (dromostanolone propionate).\n2. Cyclophosphamide: N,N-bis(2-chloroethyl)-1,3,2-oxazaphosphinan-2-amine 2-oxide – nitrogen mustard on P of oxazaphosphorine ring (draw).\n3. Prodrug: liver CYP → 4-hydroxycyclophosphamide → phosphoramide mustard (alkylates N-7 guanine, cross-links DNA) + acrolein.\n4. Uses: lymphomas, leukaemias, breast, ovarian, lung cancer, myeloma; immunosuppressant (lupus nephritis, nephrotic syndrome).\n5. Adverse: myelosuppression, alopecia, nausea, haemorrhagic cystitis (acrolein – prevent with fluids and mesna), infertility, secondary cancers. Brand: Endoxan."
+    },
+    {
+      "id": "u13-l02",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure, mechanism, uses, adverse effects and handling precautions of cisplatin.",
+      "answer": "1. cis-Diamminedichloroplatinum(II): square planar Pt with two NH3 and two Cl on the same side (draw); trans isomer inactive.\n2. Mechanism: inside cells (low Cl⁻) chloride replaced by water → reactive Pt binds N-7 of guanine → intrastrand DNA cross-links.\n3. Uses: testicular (with bleomycin, etoposide), ovarian, bladder, head and neck, lung, cervical cancers.\n4. Adverse: nephrotoxicity (hydration with saline, mannitol), severe vomiting (antiemetics), ototoxicity, neuropathy, low Mg and K, mild myelosuppression.\n5. Handling: dilute in NaCl-containing fluids; no aluminium needles/sets (black precipitate); protect from light; do not refrigerate (precipitates); cytotoxic precautions. Brand: Cytoplatin."
+    },
+    {
+      "id": "u13-l03",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on antimetabolites: methotrexate, mercaptopurine and fluorouracil.",
+      "answer": "1. Methotrexate: folic acid analogue (4-amino-10-methyl); inhibits DHFR → no thymidylate/purines; ALL, choriocarcinoma, osteosarcoma, breast cancer; low weekly dose for RA, psoriasis; myelosuppression, mucositis, liver fibrosis; leucovorin rescue; weekly dosing counselling.\n2. Mercaptopurine: 6-thiopurine; converted to thio-IMP, blocks purine synthesis; ALL maintenance; metabolised by xanthine oxidase – reduce dose with allopurinol.\n3. Fluorouracil: 5-fluoropyrimidine-2,4(1H,3H)-dione (uracil with 5-F); converted to FdUMP → inhibits thymidylate synthase (thymineless death); colorectal, stomach, breast cancers, topical for actinic keratosis; mucositis, diarrhoea, hand–foot syndrome, DPD deficiency toxicity; protect from light, do not refrigerate."
+    },
+    {
+      "id": "u13-s01",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the structure and mechanism of action of 5-fluorouracil.",
+      "answer": "5-FU = uracil with fluorine at C-5 (5-fluoropyrimidine-2,4(1H,3H)-dione). F is similar in size to H, so enzymes accept it but the C–F bond cannot be broken. Converted to FdUMP, which forms a stable complex with thymidylate synthase and methylene-THF → no thymidine → DNA synthesis stops; also incorporated into RNA. Leucovorin enhances its effect."
+    },
+    {
+      "id": "u13-s02",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on doxorubicin.",
+      "answer": "Anthracycline antibiotic (Streptomyces peucetius): red tetracyclic anthraquinone + daunosamine sugar. Intercalates DNA, inhibits topoisomerase II, forms free radicals. Uses: breast cancer, lymphomas, leukaemias, sarcomas. Adverse: cumulative dose-related cardiomyopathy (limit lifetime dose; dexrazoxane), myelosuppression, alopecia, red urine, vesicant."
+    },
+    {
+      "id": "u13-s03",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on vinblastine sulphate.",
+      "answer": "Dimeric indole (vinca) alkaloid from Catharanthus roseus; binds tubulin, prevents spindle formation, arrests mitosis in metaphase. Uses: Hodgkin's lymphoma (ABVD), testicular cancer, Kaposi's sarcoma. Adverse: myelosuppression, alopecia, neurotoxicity. IV only – fatal if given intrathecally; refrigerate, protect from light."
+    },
+    {
+      "id": "u13-s04",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on busulfan and dromostanolone propionate.",
+      "answer": "Busulfan: 1,4-butanediol dimethanesulphonate (alkyl sulphonate); cross-links DNA; CML, transplant conditioning; myelosuppression, pulmonary fibrosis, pigmentation. Dromostanolone propionate: propionate ester of 2α-methyl-dihydrotestosterone (androgen); IM for advanced breast cancer in postmenopausal women (historic); virilisation, fluid retention."
+    },
+    {
+      "id": "u13-s05",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the precautions for safe handling of cytotoxic drugs.",
+      "answer": "Prepare in biological safety cabinet/isolator; wear gloves, gown, mask, eye protection; use luer-lock syringes and closed transfer devices; avoid aerosols; label as cytotoxic (vinca alkaloids: IV only); dispose waste in marked containers for incineration; spill kit; pregnant staff should not handle; double-check BSA-based doses."
+    },
+    {
+      "id": "u13-v01",
+      "unit": 13,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is mesna and why is it given with cyclophosphamide?",
+      "answer": "Mesna is a thiol compound that binds acrolein (a toxic metabolite of cyclophosphamide) in the bladder and prevents haemorrhagic cystitis."
+    },
+    {
+      "id": "u13-v02",
+      "unit": 13,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is leucovorin rescue?",
+      "answer": "Giving folinic acid (leucovorin) after high-dose methotrexate; it bypasses the blocked dihydrofolate reductase and protects normal cells from toxicity."
+    }
+  ]
+}

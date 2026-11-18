@@ -1,0 +1,49 @@
+{
+  "code": "ER20-12T",
+  "title": "Pharmaceutical Chemistry",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020) D.Pharm syllabus: Pharmaceutical Chemistry theory ER20-12T and practical ER20-12P (university copy of the PCI syllabus)",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-12T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-12P"
+  ],
+  "units": [
+    { "number": 1, "title": "Introduction, errors and impurities (limit tests)", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Volumetric and gravimetric analysis", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Inorganic pharmaceuticals", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Nomenclature of organic and heterocyclic compounds", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Drugs acting on the central nervous system", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Drugs acting on the autonomic nervous system", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Drugs acting on the cardiovascular system", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "Diuretics", "notes": "notes/unit-8.md" },
+    { "number": 9, "title": "Hypoglycaemic agents", "notes": "notes/unit-9.md" },
+    { "number": 10, "title": "Analgesic and anti-inflammatory agents", "notes": "notes/unit-10.md" },
+    { "number": 11, "title": "Anti-infective agents", "notes": "notes/unit-11.md" },
+    { "number": 12, "title": "Antibiotics", "notes": "notes/unit-12.md" },
+    { "number": 13, "title": "Anti-neoplastic agents", "notes": "notes/unit-13.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ],
+  "practicals": [
+    { "id": "limit-test-chlorides", "title": "Limit test for chlorides", "file": "practicals/limit-test-chlorides.md" },
+    { "id": "limit-test-sulphates", "title": "Limit test for sulphates", "file": "practicals/limit-test-sulphates.md" },
+    { "id": "limit-test-iron", "title": "Limit test for iron", "file": "practicals/limit-test-iron.md" },
+    { "id": "limit-test-heavy-metals", "title": "Limit test for heavy metals", "file": "practicals/limit-test-heavy-metals.md" },
+    { "id": "identification-anions-cations", "title": "Identification tests for anions and cations (IP)", "file": "practicals/identification-anions-cations.md" },
+    { "id": "standardisation-naoh-kmno4", "title": "Preparation and standardisation of 0.1 N NaOH and 0.1 N KMnO4", "file": "practicals/standardisation-naoh-kmno4.md" },
+    { "id": "assay-ferrous-sulphate", "title": "Assay of ferrous sulphate (redox titration)", "file": "practicals/assay-ferrous-sulphate.md" },
+    { "id": "assay-calcium-gluconate", "title": "Assay of calcium gluconate (complexometric titration)", "file": "practicals/assay-calcium-gluconate.md" },
+    { "id": "assay-sodium-chloride", "title": "Assay of sodium chloride (modified Volhard's method)", "file": "practicals/assay-sodium-chloride.md" },
+    { "id": "assay-ascorbic-acid", "title": "Assay of ascorbic acid (iodometry)", "file": "practicals/assay-ascorbic-acid.md" },
+    { "id": "assay-ibuprofen", "title": "Assay of ibuprofen (alkalimetry)", "file": "practicals/assay-ibuprofen.md" },
+    { "id": "melting-boiling-point", "title": "Melting point and boiling point of organic compounds", "file": "practicals/melting-boiling-point.md" },
+    { "id": "benzoic-acid-from-benzamide", "title": "Preparation of benzoic acid from benzamide", "file": "practicals/benzoic-acid-from-benzamide.md" },
+    { "id": "picric-acid-from-phenol", "title": "Preparation of picric acid from phenol", "file": "practicals/picric-acid-from-phenol.md" },
+    { "id": "identification-purity-drugs", "title": "Identification and test for purity: aspirin, caffeine, paracetamol, sulfanilamide", "file": "practicals/identification-purity-drugs.md" },
+    { "id": "systematic-qualitative-analysis", "title": "Systematic qualitative analysis of organic compounds", "file": "practicals/systematic-qualitative-analysis.md" }
+  ]
+}

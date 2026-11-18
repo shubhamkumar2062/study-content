@@ -1,0 +1,1908 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "In the limit test for chlorides, the reagent used is:",
+      "options": [
+        "Barium chloride",
+        "Hydrogen sulphide",
+        "Silver nitrate",
+        "Thioglycollic acid"
+      ],
+      "correct": 2,
+      "explanation": "Chloride gives silver chloride opalescence with silver nitrate in dilute nitric acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Thioglycollic acid is used in the limit test for:",
+      "options": [
+        "Lead",
+        "Arsenic",
+        "Iron",
+        "Sulphate"
+      ],
+      "correct": 2,
+      "explanation": "It reduces Fe³⁺ to Fe²⁺ and forms purple ferrous thioglycollate in ammoniacal solution.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "In the Gutzeit test, arsine produces a stain on paper impregnated with:",
+      "options": [
+        "Lead acetate",
+        "Potassium iodide",
+        "Mercuric chloride",
+        "Silver nitrate"
+      ],
+      "correct": 2,
+      "explanation": "Arsine reacts with mercuric chloride paper to give a yellow-brown stain.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Lead acetate cotton in the Gutzeit apparatus is used to absorb:",
+      "options": [
+        "Hydrogen sulphide",
+        "Hydrogen",
+        "Hydrogen chloride",
+        "Arsine"
+      ],
+      "correct": 0,
+      "explanation": "H2S from sulphide impurities in zinc would otherwise stain the mercuric chloride paper.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Potassium sulphate is added to barium sulphate reagent to:",
+      "options": [
+        "Prevent oxidation",
+        "Act as indicator",
+        "Provide seed crystals for uniform turbidity",
+        "Dissolve barium chloride"
+      ],
+      "correct": 2,
+      "explanation": "Seeding gives quick, reproducible turbidity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Closeness of a result to the true value is called:",
+      "options": [
+        "Deviation",
+        "Accuracy",
+        "Precision",
+        "Significance"
+      ],
+      "correct": 1,
+      "explanation": "Accuracy is nearness to the true value; precision is nearness of repeated results.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Errors that can be traced and corrected are:",
+      "options": [
+        "Gross errors",
+        "Indeterminate errors",
+        "Random errors",
+        "Determinate errors"
+      ],
+      "correct": 3,
+      "explanation": "Determinate (systematic) errors have a definite cause and one direction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The number of significant figures in 0.00450 is:",
+      "options": [
+        "6",
+        "2",
+        "5",
+        "3"
+      ],
+      "correct": 3,
+      "explanation": "Leading zeros are not significant; the trailing zero after the decimal is significant: 4, 5, 0.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "In the limit test for heavy metals, the result is expressed as ppm of:",
+      "options": [
+        "Lead",
+        "Mercury",
+        "Copper",
+        "Iron"
+      ],
+      "correct": 0,
+      "explanation": "Standard lead solution is used and limits are stated as ppm lead.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Citric acid in the limit test for iron:",
+      "options": [
+        "Reduces iron",
+        "Prevents precipitation of iron as hydroxide",
+        "Gives purple colour",
+        "Acts as buffer pH 3.5"
+      ],
+      "correct": 1,
+      "explanation": "It complexes iron so it does not precipitate when ammonia is added.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The indicator used in non-aqueous titration of weak bases with perchloric acid is:",
+      "options": [
+        "Eriochrome black T",
+        "Phenolphthalein",
+        "Starch",
+        "Crystal violet"
+      ],
+      "correct": 3,
+      "explanation": "Crystal violet changes from violet to blue-green in glacial acetic acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "EDTA combines with metal ions in the ratio:",
+      "options": [
+        "1 : 3",
+        "1 : 2",
+        "2 : 1",
+        "1 : 1"
+      ],
+      "correct": 3,
+      "explanation": "EDTA forms 1 : 1 chelates regardless of the metal's charge.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Potassium chromate is the indicator in:",
+      "options": [
+        "Fajans' method",
+        "Volhard's method",
+        "Mohr's method",
+        "Iodometry"
+      ],
+      "correct": 2,
+      "explanation": "Mohr's method ends with red-brown silver chromate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "In Volhard's method the indicator is:",
+      "options": [
+        "Ferric ammonium sulphate",
+        "Methyl orange",
+        "Fluorescein",
+        "Potassium chromate"
+      ],
+      "correct": 0,
+      "explanation": "Ferric ion gives red ferric thiocyanate at the end point.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Nitrobenzene is added in modified Volhard's method to:",
+      "options": [
+        "Dissolve the sample",
+        "Coat AgCl and stop its reaction with thiocyanate",
+        "Act as indicator",
+        "Increase acidity"
+      ],
+      "correct": 1,
+      "explanation": "AgCl is more soluble than AgSCN; coating prevents a fading end point.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "KMnO4 titrations are carried out in medium acidified with:",
+      "options": [
+        "Acetic acid",
+        "HNO3",
+        "HCl",
+        "H2SO4"
+      ],
+      "correct": 3,
+      "explanation": "HCl is oxidised by permanganate and HNO3 is an oxidant itself.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which is a primary standard for standardising sodium hydroxide?",
+      "options": [
+        "Potassium permanganate",
+        "Sodium thiosulphate",
+        "Potassium hydrogen phthalate",
+        "Hydrochloric acid"
+      ],
+      "correct": 2,
+      "explanation": "KHP is pure, stable, non-hygroscopic and of high equivalent weight.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Eriochrome black T at pH 10 changes colour at the end point from:",
+      "options": [
+        "Wine red to blue",
+        "Yellow to red",
+        "Colourless to pink",
+        "Blue to wine red"
+      ],
+      "correct": 0,
+      "explanation": "Metal–indicator complex is wine red; free indicator is blue.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Titration of an oxidising agent by liberating iodine and titrating it with thiosulphate is:",
+      "options": [
+        "Cerimetry",
+        "Iodimetry",
+        "Iodometry",
+        "Bromometry"
+      ],
+      "correct": 2,
+      "explanation": "Iodometry is the indirect method.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Co-precipitation in gravimetry is reduced by:",
+      "options": [
+        "Avoiding washing",
+        "Digestion and reprecipitation",
+        "Rapid precipitation in cold",
+        "Using concentrated solutions"
+      ],
+      "correct": 1,
+      "explanation": "Digestion and reprecipitation release trapped impurities.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Milk of Magnesia is a suspension of:",
+      "options": [
+        "Magnesium hydroxide",
+        "Magnesium carbonate",
+        "Magnesium trisilicate",
+        "Magnesium sulphate"
+      ],
+      "correct": 0,
+      "explanation": "It is about 8% w/w magnesium hydroxide.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "A systemic antacid is:",
+      "options": [
+        "Aluminium hydroxide",
+        "Magnesium hydroxide",
+        "Calcium carbonate",
+        "Sodium bicarbonate"
+      ],
+      "correct": 3,
+      "explanation": "Sodium bicarbonate is absorbed and can cause metabolic alkalosis.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Aluminium hydroxide as an antacid commonly causes:",
+      "options": [
+        "Alkalosis",
+        "Belching of CO2",
+        "Constipation",
+        "Diarrhoea"
+      ],
+      "correct": 2,
+      "explanation": "Aluminium salts constipate; magnesium salts are added to balance this.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Magaldrate is chemically:",
+      "options": [
+        "Bismuth subcarbonate",
+        "Hydrated magnesium aluminate",
+        "Sodium aluminium silicate",
+        "Calcium carbonate"
+      ],
+      "correct": 1,
+      "explanation": "It contains both aluminium and magnesium in one compound.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "20 volume hydrogen peroxide contains about:",
+      "options": [
+        "6% w/v H2O2",
+        "30% w/v H2O2",
+        "20% w/v H2O2",
+        "3% w/v H2O2"
+      ],
+      "correct": 0,
+      "explanation": "6% w/v releases about 20 times its volume of oxygen.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Bleaching powder should contain not less than about:",
+      "options": [
+        "20% available chlorine",
+        "10% available chlorine",
+        "60% available chlorine",
+        "30% available chlorine"
+      ],
+      "correct": 3,
+      "explanation": "Official bleaching powder has at least about 30% available chlorine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Sodium fluoride prevents dental caries by forming:",
+      "options": [
+        "Calcium phosphate",
+        "Calcium fluoride crystals in saliva",
+        "Fluorapatite",
+        "Hydroxyapatite"
+      ],
+      "correct": 2,
+      "explanation": "Fluorapatite in enamel resists acid attack.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The colour of a nitrous oxide cylinder is:",
+      "options": [
+        "Green",
+        "Black with white shoulder",
+        "Grey",
+        "Blue"
+      ],
+      "correct": 3,
+      "explanation": "N2O cylinders are blue; oxygen is black with white shoulder; CO2 grey.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Epsom salt is:",
+      "options": [
+        "Calcium sulphate",
+        "Sodium potassium tartrate",
+        "Magnesium sulphate",
+        "Sodium sulphate"
+      ],
+      "correct": 2,
+      "explanation": "MgSO4·7H2O is a saline purgative.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Carbonyl iron is:",
+      "options": [
+        "Iron–sucrose complex",
+        "Ferrous gluconate",
+        "Almost pure elemental iron particles",
+        "A ferric salt"
+      ],
+      "correct": 2,
+      "explanation": "Made from iron pentacarbonyl; about 98% iron, slowly dissolved.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Chlorhexidine is inactivated by:",
+      "options": [
+        "Alcohol",
+        "Cetrimide",
+        "Water",
+        "Soaps and anionic agents"
+      ],
+      "correct": 3,
+      "explanation": "Being cationic, chlorhexidine is incompatible with anionic soaps.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "A heterocyclic compound must contain:",
+      "options": [
+        "At least one non-carbon atom in the ring",
+        "A double bond",
+        "Only carbon atoms in the ring",
+        "A benzene ring"
+      ],
+      "correct": 0,
+      "explanation": "Heteroatoms such as N, O, S are in the ring.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Pyridine is a six-membered ring containing:",
+      "options": [
+        "One sulphur",
+        "One nitrogen",
+        "One oxygen",
+        "Two nitrogens"
+      ],
+      "correct": 1,
+      "explanation": "Pyridine = azine.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In the Hantzsch–Widman system the prefix for sulphur is:",
+      "options": [
+        "Aza",
+        "Oxa",
+        "Sulfa",
+        "Thia"
+      ],
+      "correct": 3,
+      "explanation": "Oxa (O), thia (S), aza (N).",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The Hantzsch–Widman stem for a five-membered unsaturated ring is:",
+      "options": [
+        "-ole",
+        "-ete",
+        "-ine",
+        "-irine"
+      ],
+      "correct": 0,
+      "explanation": "-ole is used for five-membered unsaturated rings.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Phenytoin contains which ring system?",
+      "options": [
+        "Hydantoin (imidazolidinedione)",
+        "Piperidine",
+        "Pyrazole",
+        "Pyrimidine"
+      ],
+      "correct": 0,
+      "explanation": "Phenytoin is 5,5-diphenylimidazolidine-2,4-dione.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Purine is formed by fusion of:",
+      "options": [
+        "Benzene and pyrrole",
+        "Pyrimidine and imidazole",
+        "Pyrazine and pyrimidine",
+        "Pyridine and benzene"
+      ],
+      "correct": 1,
+      "explanation": "Caffeine and acyclovir contain the purine system.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Chlorpromazine has which tricyclic nucleus?",
+      "options": [
+        "Acridine",
+        "Carbazole",
+        "Dibenzazepine",
+        "Phenothiazine"
+      ],
+      "correct": 3,
+      "explanation": "Two benzene rings joined through S and N.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The order of priority of heteroatoms for numbering is:",
+      "options": [
+        "O > S > N",
+        "N > S > O",
+        "O > N > S",
+        "S > O > N"
+      ],
+      "correct": 0,
+      "explanation": "Oxygen ranks above sulphur, which ranks above nitrogen.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Quinoline consists of benzene fused with:",
+      "options": [
+        "Pyridine",
+        "Pyrrole",
+        "Thiophene",
+        "Furan"
+      ],
+      "correct": 0,
+      "explanation": "Quinoline (N at position 1) is present in chloroquine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Thiopental sodium is an:",
+      "options": [
+        "Benzodiazepine",
+        "Ultra-short-acting barbiturate",
+        "Long-acting barbiturate",
+        "Dissociative anaesthetic"
+      ],
+      "correct": 1,
+      "explanation": "Its sulphur makes it highly lipid soluble with rapid onset and short action.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Ketamine acts mainly by blocking:",
+      "options": [
+        "NMDA receptors",
+        "GABA-A receptors",
+        "Opioid receptors",
+        "Dopamine D2 receptors"
+      ],
+      "correct": 0,
+      "explanation": "NMDA antagonism produces dissociative anaesthesia.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Diazepam belongs to the class:",
+      "options": [
+        "Barbiturates",
+        "Benzodiazepines",
+        "Butyrophenones",
+        "Phenothiazines"
+      ],
+      "correct": 1,
+      "explanation": "It is 7-chloro-1-methyl-5-phenyl-1,4-benzodiazepin-2-one.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Phenobarbital has which groups at C-5?",
+      "options": [
+        "Two phenyl",
+        "Ethyl and phenyl",
+        "Allyl and isobutyl",
+        "Two ethyl"
+      ],
+      "correct": 1,
+      "explanation": "5-ethyl-5-phenylbarbituric acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Haloperidol is a:",
+      "options": [
+        "Butyrophenone",
+        "Phenothiazine",
+        "Thioxanthene",
+        "Benzamide"
+      ],
+      "correct": 0,
+      "explanation": "It is a p-fluorobutyrophenone.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Gum hypertrophy is a typical adverse effect of:",
+      "options": [
+        "Valproic acid",
+        "Diazepam",
+        "Gabapentin",
+        "Phenytoin"
+      ],
+      "correct": 3,
+      "explanation": "Phenytoin causes gingival hyperplasia.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Carbamazepine is the drug of choice for:",
+      "options": [
+        "Schizophrenia",
+        "Absence seizures",
+        "Trigeminal neuralgia",
+        "Depression"
+      ],
+      "correct": 2,
+      "explanation": "Also used in partial seizures and bipolar disorder.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Valproic acid chemically is:",
+      "options": [
+        "2-propylpentanoic acid",
+        "Diphenylhydantoin",
+        "Iminostilbene carboxamide",
+        "2-phenylpropanoic acid"
+      ],
+      "correct": 0,
+      "explanation": "A branched-chain fatty acid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Imipramine is used in children for:",
+      "options": [
+        "Febrile seizures",
+        "Nocturnal enuresis",
+        "ADHD",
+        "Autism"
+      ],
+      "correct": 1,
+      "explanation": "It is a tricyclic antidepressant also used in bedwetting.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Fluoxetine is a:",
+      "options": [
+        "SNRI",
+        "Selective serotonin reuptake inhibitor",
+        "Tricyclic antidepressant",
+        "MAO inhibitor"
+      ],
+      "correct": 1,
+      "explanation": "It selectively blocks serotonin reuptake and has a long half-life.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Chlorpromazine solutions turn pink on exposure to light because of:",
+      "options": [
+        "Hydrolysis",
+        "Oxidation",
+        "Racemisation",
+        "Polymerisation"
+      ],
+      "correct": 1,
+      "explanation": "Phenothiazines oxidise to coloured sulphoxide products.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Gabapentin acts by binding to:",
+      "options": [
+        "GABA transaminase",
+        "GABA-A receptors",
+        "α2δ subunit of calcium channels",
+        "Sodium channels"
+      ],
+      "correct": 2,
+      "explanation": "Despite its name it does not act on GABA receptors.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "Which catecholamine is used in septic shock mainly for its α1 action?",
+      "options": [
+        "Isoprenaline",
+        "Salbutamol",
+        "Dobutamine",
+        "Norepinephrine"
+      ],
+      "correct": 3,
+      "explanation": "Noradrenaline raises BP by α1 vasoconstriction.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Dopamine in low doses acts on:",
+      "options": [
+        "β2 receptors",
+        "α1 receptors",
+        "D1 receptors",
+        "Muscarinic receptors"
+      ],
+      "correct": 2,
+      "explanation": "Low doses dilate renal and mesenteric vessels via D1.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Naphazoline is used as a:",
+      "options": [
+        "Bronchodilator",
+        "Antihypertensive",
+        "Mydriatic only",
+        "Nasal decongestant"
+      ],
+      "correct": 3,
+      "explanation": "Imidazoline α agonist for nasal and ocular decongestion.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Propranolol is:",
+      "options": [
+        "β2 agonist",
+        "α1 blocker",
+        "β1-selective blocker",
+        "Non-selective β blocker"
+      ],
+      "correct": 3,
+      "explanation": "It blocks both β1 and β2 receptors.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "Cardioselectivity of atenolol is due to its:",
+      "options": [
+        "Naphthyl ring",
+        "tert-Butyl group",
+        "Catechol ring",
+        "Para-acetamide substituent"
+      ],
+      "correct": 3,
+      "explanation": "Para substitution on the aryloxypropanolamine gives β1 selectivity.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "Neostigmine is used in:",
+      "options": [
+        "Organophosphate poisoning",
+        "Myasthenia gravis",
+        "Glaucoma only",
+        "Parkinsonism"
+      ],
+      "correct": 1,
+      "explanation": "Reversible anticholinesterase for myasthenia and NM block reversal.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Atropine is an ester of tropine with:",
+      "options": [
+        "Acetic acid",
+        "Mandelic acid",
+        "Tropic acid",
+        "Benzoic acid"
+      ],
+      "correct": 2,
+      "explanation": "Atropine is racemic hyoscyamine, the tropine ester of tropic acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Pralidoxime is used in poisoning by:",
+      "options": [
+        "Atropine",
+        "Organophosphates",
+        "Opioids",
+        "Paracetamol"
+      ],
+      "correct": 1,
+      "explanation": "It reactivates phosphorylated acetylcholinesterase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "Irreversible α-adrenergic blocker is:",
+      "options": [
+        "Prazosin",
+        "Phentolamine",
+        "Phenoxybenzamine",
+        "Tolazoline"
+      ],
+      "correct": 2,
+      "explanation": "It forms a covalent bond through an aziridinium ion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "Carbachol differs from acetylcholine by having:",
+      "options": [
+        "A phenyl ring",
+        "No quaternary nitrogen",
+        "A carbamate in place of acetate",
+        "A β-methyl group"
+      ],
+      "correct": 2,
+      "explanation": "The carbamate resists cholinesterase hydrolysis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m11",
+      "unit": 6,
+      "question": "Dicyclomine is used mainly as:",
+      "options": [
+        "Antispasmodic",
+        "Antiemetic",
+        "Bronchodilator",
+        "Mydriatic"
+      ],
+      "correct": 0,
+      "explanation": "For abdominal colic and irritable bowel syndrome.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "Captopril contains which group that binds the zinc of ACE?",
+      "options": [
+        "Thiol (–SH)",
+        "Carboxyl",
+        "Amino",
+        "Hydroxyl"
+      ],
+      "correct": 0,
+      "explanation": "The sulphydryl group binds the zinc ion of the enzyme.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The commonest adverse effect leading to stopping ACE inhibitors is:",
+      "options": [
+        "Hyperglycaemia",
+        "Gynaecomastia",
+        "Constipation",
+        "Dry cough"
+      ],
+      "correct": 3,
+      "explanation": "Due to accumulation of bradykinin.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Amiodarone belongs to Vaughan Williams class:",
+      "options": [
+        "IB",
+        "IA",
+        "III",
+        "II"
+      ],
+      "correct": 2,
+      "explanation": "It is mainly a potassium channel blocker that prolongs repolarisation.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "Lidocaine as an anti-arrhythmic is given:",
+      "options": [
+        "Orally",
+        "Sublingually",
+        "Intravenously",
+        "Transdermally"
+      ],
+      "correct": 2,
+      "explanation": "Extensive first-pass metabolism makes it ineffective orally.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "Isosorbide dinitrate relieves angina mainly by releasing:",
+      "options": [
+        "Histamine",
+        "Nitric oxide",
+        "Prostacyclin",
+        "Adenosine"
+      ],
+      "correct": 1,
+      "explanation": "NO raises cGMP and relaxes vascular smooth muscle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "A lupus-like syndrome is caused by:",
+      "options": [
+        "Procainamide",
+        "Amiodarone",
+        "Nifedipine",
+        "Verapamil"
+      ],
+      "correct": 0,
+      "explanation": "Procainamide and hydralazine cause drug-induced lupus, mainly in slow acetylators.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "The antihypertensive considered safe in pregnancy is:",
+      "options": [
+        "Methyldopa",
+        "Captopril",
+        "Ramipril",
+        "Losartan"
+      ],
+      "correct": 0,
+      "explanation": "Methyldopa (and methyldopate IV) is preferred in pregnancy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "Rebound hypertension on sudden stopping is typical of:",
+      "options": [
+        "Clonidine",
+        "Hydralazine",
+        "Captopril",
+        "Nifedipine"
+      ],
+      "correct": 0,
+      "explanation": "Clonidine must be tapered.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "Ramipril is:",
+      "options": [
+        "An ARB",
+        "A prodrug converted to ramiprilat",
+        "Active as such",
+        "A calcium channel blocker"
+      ],
+      "correct": 1,
+      "explanation": "Ester prodrug hydrolysed in the liver.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "Frusemide acts on the:",
+      "options": [
+        "Collecting duct",
+        "Thick ascending limb of loop of Henle",
+        "Early distal tubule",
+        "Proximal tubule"
+      ],
+      "correct": 1,
+      "explanation": "It blocks the Na⁺–K⁺–2Cl⁻ cotransporter.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Frusemide is chemically a derivative of:",
+      "options": [
+        "Benzothiadiazine",
+        "Steroid lactone",
+        "Thiadiazole",
+        "Anthranilic acid"
+      ],
+      "correct": 3,
+      "explanation": "4-chloro-2-furfurylamino-5-sulphamoylbenzoic acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "The potassium-sparing aldosterone antagonist is:",
+      "options": [
+        "Chlorthalidone",
+        "Acetazolamide",
+        "Bumetanide",
+        "Spironolactone"
+      ],
+      "correct": 3,
+      "explanation": "A steroid lactone that blocks mineralocorticoid receptors.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "Acetazolamide is mainly used in:",
+      "options": [
+        "Cirrhosis",
+        "Acute pulmonary oedema",
+        "Hypertension",
+        "Glaucoma"
+      ],
+      "correct": 3,
+      "explanation": "It reduces aqueous humour formation.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "Gynaecomastia is an adverse effect of:",
+      "options": [
+        "Metolazone",
+        "Frusemide",
+        "Spironolactone",
+        "Acetazolamide"
+      ],
+      "correct": 2,
+      "explanation": "Spironolactone has anti-androgen effects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "Ototoxicity is a known adverse effect of:",
+      "options": [
+        "Acetazolamide",
+        "Thiazides",
+        "Spironolactone",
+        "Loop diuretics"
+      ],
+      "correct": 3,
+      "explanation": "High IV doses of loop diuretics can damage hearing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "The longest acting thiazide-like diuretic is:",
+      "options": [
+        "Benzthiazide",
+        "Chlorthalidone",
+        "Xipamide",
+        "Hydrochlorothiazide"
+      ],
+      "correct": 1,
+      "explanation": "Chlorthalidone acts 48–72 hours.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "Metolazone is chemically a:",
+      "options": [
+        "Quinazolinone",
+        "Salicylanilide",
+        "Phthalimidine",
+        "Benzothiadiazine"
+      ],
+      "correct": 0,
+      "explanation": "It is a quinazolinone sulphonamide effective at low GFR.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "Thiazide diuretics decrease urinary excretion of:",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Potassium",
+        "Chloride"
+      ],
+      "correct": 0,
+      "explanation": "They reduce calcium excretion, useful in calcium stones.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m01",
+      "unit": 9,
+      "question": "Metformin chemically is:",
+      "options": [
+        "A sulphonylurea",
+        "A meglitinide",
+        "N,N-dimethylbiguanide",
+        "A thiazolidinedione"
+      ],
+      "correct": 2,
+      "explanation": "Two linked guanidine units with two N-methyl groups.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m02",
+      "unit": 9,
+      "question": "Glibenclamide lowers blood glucose by:",
+      "options": [
+        "Inhibiting SGLT2",
+        "Closing K-ATP channels in β cells to release insulin",
+        "Reducing hepatic glucose output",
+        "Activating PPAR-γ"
+      ],
+      "correct": 1,
+      "explanation": "Sulphonylureas stimulate insulin release.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m03",
+      "unit": 9,
+      "question": "Insulin consists of:",
+      "options": [
+        "Three chains",
+        "A chain 30 and B chain 21 amino acids",
+        "One chain of 51 amino acids",
+        "A chain 21 and B chain 30 amino acids"
+      ],
+      "correct": 3,
+      "explanation": "Two chains joined by two disulphide bridges.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m04",
+      "unit": 9,
+      "question": "The insulin that can be given intravenously is:",
+      "options": [
+        "Insulin glargine",
+        "Premixed 30/70",
+        "NPH insulin",
+        "Regular (soluble) insulin"
+      ],
+      "correct": 3,
+      "explanation": "Only clear soluble insulin is used IV.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m05",
+      "unit": 9,
+      "question": "Unopened insulin should be stored at:",
+      "options": [
+        "25–30 °C",
+        "2–8 °C",
+        "Above 30 °C",
+        "−20 °C"
+      ],
+      "correct": 1,
+      "explanation": "Refrigerate; never freeze.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m06",
+      "unit": 9,
+      "question": "A serious but rare adverse effect of metformin is:",
+      "options": [
+        "Hypokalaemia",
+        "Weight gain",
+        "Hypoglycaemia",
+        "Lactic acidosis"
+      ],
+      "correct": 3,
+      "explanation": "Risk is higher in renal, hepatic or heart failure.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m07",
+      "unit": 9,
+      "question": "Gliflozins act by inhibiting:",
+      "options": [
+        "SGLT2",
+        "K-ATP channels",
+        "DPP-4",
+        "α-glucosidase"
+      ],
+      "correct": 0,
+      "explanation": "They cause glucose loss in urine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m08",
+      "unit": 9,
+      "question": "Gliptins inhibit:",
+      "options": [
+        "Dipeptidyl peptidase-4",
+        "PPAR-γ",
+        "SGLT2",
+        "Aldose reductase"
+      ],
+      "correct": 0,
+      "explanation": "They raise incretin (GLP-1) levels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m09",
+      "unit": 9,
+      "question": "Pioglitazone is contraindicated in:",
+      "options": [
+        "Obesity",
+        "Hypertension",
+        "Heart failure",
+        "Asthma"
+      ],
+      "correct": 2,
+      "explanation": "It causes fluid retention.",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m10",
+      "unit": 9,
+      "question": "NPH insulin is cloudy because it contains:",
+      "options": [
+        "Albumin",
+        "Glycerin",
+        "Glucose",
+        "Protamine and zinc"
+      ],
+      "correct": 3,
+      "explanation": "Isophane insulin is a suspension with protamine.",
+      "probability": "low"
+    },
+    {
+      "id": "u10-m01",
+      "unit": 10,
+      "question": "Aspirin inhibits COX by:",
+      "options": [
+        "Phosphorylation",
+        "Reversible competition",
+        "Methylation",
+        "Irreversible acetylation"
+      ],
+      "correct": 3,
+      "explanation": "It acetylates a serine residue of the enzyme.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m02",
+      "unit": 10,
+      "question": "The antiplatelet dose of aspirin is about:",
+      "options": [
+        "500 mg four times daily",
+        "75–150 mg daily",
+        "3 g daily",
+        "1 g daily"
+      ],
+      "correct": 1,
+      "explanation": "Low dose is enough to block platelet thromboxane.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m03",
+      "unit": 10,
+      "question": "The antidote for paracetamol poisoning is:",
+      "options": [
+        "Flumazenil",
+        "N-acetylcysteine",
+        "Naloxone",
+        "Atropine"
+      ],
+      "correct": 1,
+      "explanation": "It restores glutathione to detoxify NAPQI.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m04",
+      "unit": 10,
+      "question": "Paracetamol chemically is:",
+      "options": [
+        "N-phenylanthranilic acid",
+        "N-(4-hydroxyphenyl)acetamide",
+        "2-(4-isobutylphenyl)propanoic acid",
+        "2-acetoxybenzoic acid"
+      ],
+      "correct": 1,
+      "explanation": "A p-aminophenol derivative.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m05",
+      "unit": 10,
+      "question": "Ibuprofen belongs to:",
+      "options": [
+        "Propionic acid derivatives",
+        "Fenamates",
+        "Salicylates",
+        "Oxicams"
+      ],
+      "correct": 0,
+      "explanation": "2-(4-isobutylphenyl)propanoic acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m06",
+      "unit": 10,
+      "question": "Reye's syndrome in children is associated with:",
+      "options": [
+        "Ibuprofen",
+        "Paracetamol",
+        "Aspirin",
+        "Mefenamic acid"
+      ],
+      "correct": 2,
+      "explanation": "Avoid aspirin in children with viral fevers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m07",
+      "unit": 10,
+      "question": "The drug of choice for opioid overdose is:",
+      "options": [
+        "Naltrexone",
+        "Nalorphine",
+        "Methadone",
+        "Naloxone"
+      ],
+      "correct": 3,
+      "explanation": "Naloxone is a short-acting pure antagonist given IV/IM.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m08",
+      "unit": 10,
+      "question": "A COX-2 selective NSAID is:",
+      "options": [
+        "Diclofenac",
+        "Piroxicam",
+        "Celecoxib",
+        "Mefenamic acid"
+      ],
+      "correct": 2,
+      "explanation": "Diaryl pyrazole with a sulphonamide group.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m09",
+      "unit": 10,
+      "question": "Codeine is chemically:",
+      "options": [
+        "6-ketomorphine",
+        "3,6-diacetylmorphine",
+        "N-allylnormorphine",
+        "3-O-methylmorphine"
+      ],
+      "correct": 3,
+      "explanation": "Methyl ether of the phenolic 3-OH of morphine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m10",
+      "unit": 10,
+      "question": "Aceclofenac is the glycolic acid ester of:",
+      "options": [
+        "Aspirin",
+        "Diclofenac",
+        "Indomethacin",
+        "Ibuprofen"
+      ],
+      "correct": 1,
+      "explanation": "It is partly converted to diclofenac in the body.",
+      "probability": "low"
+    },
+    {
+      "id": "u11-m01",
+      "unit": 11,
+      "question": "Isoniazid chemically is:",
+      "options": [
+        "Pyrazine-2-carboxamide",
+        "Pyridine-4-carbohydrazide",
+        "4-aminosalicylic acid",
+        "Ethylenediamine dibutanol"
+      ],
+      "correct": 1,
+      "explanation": "Isonicotinic acid hydrazide.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m02",
+      "unit": 11,
+      "question": "Peripheral neuropathy due to isoniazid is prevented by:",
+      "options": [
+        "Vitamin B12",
+        "Folic acid",
+        "Pyridoxine",
+        "Thiamine"
+      ],
+      "correct": 2,
+      "explanation": "INH causes vitamin B6 deficiency.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m03",
+      "unit": 11,
+      "question": "Optic neuritis is an adverse effect of:",
+      "options": [
+        "Isoniazid",
+        "Ethambutol",
+        "Pyrazinamide",
+        "Rifampicin"
+      ],
+      "correct": 1,
+      "explanation": "It affects red–green colour vision.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m04",
+      "unit": 11,
+      "question": "Fluconazole contains which heterocycle?",
+      "options": [
+        "Imidazole",
+        "Thiazole",
+        "1,2,4-Triazole",
+        "Pyrazole"
+      ],
+      "correct": 2,
+      "explanation": "It has two triazole rings.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m05",
+      "unit": 11,
+      "question": "Chloroquine is a:",
+      "options": [
+        "8-aminoquinoline",
+        "4-aminoquinoline",
+        "Biguanide",
+        "Quinoline methanol"
+      ],
+      "correct": 1,
+      "explanation": "7-chloro-4-aminoquinoline.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m06",
+      "unit": 11,
+      "question": "Primaquine causes haemolysis in patients with:",
+      "options": [
+        "Thalassaemia",
+        "Sickle cell trait only",
+        "Iron deficiency",
+        "G6PD deficiency"
+      ],
+      "correct": 3,
+      "explanation": "Oxidant stress damages G6PD-deficient red cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m07",
+      "unit": 11,
+      "question": "Acyclovir is activated first by:",
+      "options": [
+        "Esterases",
+        "Host kinase",
+        "Viral thymidine kinase",
+        "Liver CYP450"
+      ],
+      "correct": 2,
+      "explanation": "This makes it selective for infected cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m08",
+      "unit": 11,
+      "question": "Sulphonamides act by inhibiting:",
+      "options": [
+        "DNA gyrase",
+        "Dihydropteroate synthase",
+        "Transpeptidase",
+        "Dihydrofolate reductase"
+      ],
+      "correct": 1,
+      "explanation": "They compete with PABA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m09",
+      "unit": 11,
+      "question": "Dapsone is chemically a:",
+      "options": [
+        "Sulphone",
+        "Sulphonamide",
+        "Sulphonylurea",
+        "Thiazide"
+      ],
+      "correct": 0,
+      "explanation": "4,4'-diaminodiphenyl sulphone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m10",
+      "unit": 11,
+      "question": "Fluoroquinolones inhibit:",
+      "options": [
+        "Cell wall synthesis",
+        "30S ribosome",
+        "Folate synthesis",
+        "DNA gyrase and topoisomerase IV"
+      ],
+      "correct": 3,
+      "explanation": "They block DNA supercoiling.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m11",
+      "unit": 11,
+      "question": "The S-isomer of ofloxacin is:",
+      "options": [
+        "Moxifloxacin",
+        "Levofloxacin",
+        "Norfloxacin",
+        "Ciprofloxacin"
+      ],
+      "correct": 1,
+      "explanation": "Levofloxacin is the active enantiomer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m12",
+      "unit": 11,
+      "question": "Pretomanid is used in the BPaL regimen with:",
+      "options": [
+        "Ethambutol and pyrazinamide",
+        "Bedaquiline and linezolid",
+        "Streptomycin and PAS",
+        "Isoniazid and rifampicin"
+      ],
+      "correct": 1,
+      "explanation": "BPaL treats drug-resistant TB.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m13",
+      "unit": 11,
+      "question": "Amphotericin B acts by binding:",
+      "options": [
+        "Chitin",
+        "Cholesterol",
+        "Lanosterol demethylase",
+        "Ergosterol"
+      ],
+      "correct": 3,
+      "explanation": "Forms pores in fungal membranes.",
+      "probability": "low"
+    },
+    {
+      "id": "u11-m14",
+      "unit": 11,
+      "question": "Artemisinin's activity depends on its:",
+      "options": [
+        "Endoperoxide bridge",
+        "Quinoline ring",
+        "Nitro group",
+        "Sulphonamide group"
+      ],
+      "correct": 0,
+      "explanation": "The peroxide generates free radicals in the parasite.",
+      "probability": "low"
+    },
+    {
+      "id": "u12-m01",
+      "unit": 12,
+      "question": "The penicillin nucleus is:",
+      "options": [
+        "Thienamycin",
+        "7-aminocephalosporanic acid",
+        "6-aminopenicillanic acid",
+        "Clavulanic acid"
+      ],
+      "correct": 2,
+      "explanation": "β-lactam fused with thiazolidine.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m02",
+      "unit": 12,
+      "question": "Penicillins act by inhibiting:",
+      "options": [
+        "Protein synthesis",
+        "Folate synthesis",
+        "Cell wall synthesis",
+        "DNA synthesis"
+      ],
+      "correct": 2,
+      "explanation": "They bind transpeptidases (PBPs).",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m03",
+      "unit": 12,
+      "question": "Amoxicillin differs from ampicillin by an extra:",
+      "options": [
+        "Chlorine atom",
+        "Para-hydroxy group",
+        "Methyl group",
+        "Isoxazole ring"
+      ],
+      "correct": 1,
+      "explanation": "This improves oral absorption.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m04",
+      "unit": 12,
+      "question": "A penicillinase-resistant penicillin is:",
+      "options": [
+        "Cloxacillin",
+        "Penicillin G",
+        "Ampicillin",
+        "Amoxicillin"
+      ],
+      "correct": 0,
+      "explanation": "Its bulky isoxazolyl side chain protects the β-lactam ring.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m05",
+      "unit": 12,
+      "question": "Grey baby syndrome is caused by:",
+      "options": [
+        "Erythromycin",
+        "Tetracycline",
+        "Chloramphenicol",
+        "Streptomycin"
+      ],
+      "correct": 2,
+      "explanation": "Newborn liver cannot conjugate chloramphenicol.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m06",
+      "unit": 12,
+      "question": "Chloramphenicol contains a:",
+      "options": [
+        "Macrolide ring",
+        "β-Lactam ring",
+        "p-Nitrophenyl group",
+        "Naphthacene ring"
+      ],
+      "correct": 2,
+      "explanation": "Plus a dichloroacetamide group.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m07",
+      "unit": 12,
+      "question": "Tetracyclines are avoided in children below 8 years because of:",
+      "options": [
+        "Ototoxicity",
+        "Teeth discolouration",
+        "Nephrotoxicity",
+        "Grey baby syndrome"
+      ],
+      "correct": 1,
+      "explanation": "They deposit in developing teeth and bones.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m08",
+      "unit": 12,
+      "question": "Azithromycin has a ring of:",
+      "options": [
+        "15 members",
+        "16 members",
+        "12 members",
+        "14 members"
+      ],
+      "correct": 0,
+      "explanation": "It is a 15-membered azalide.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m09",
+      "unit": 12,
+      "question": "Streptomycin mainly causes:",
+      "options": [
+        "Hepatitis",
+        "Cardiotoxicity",
+        "Photosensitivity",
+        "Vestibular ototoxicity"
+      ],
+      "correct": 3,
+      "explanation": "It damages the vestibular part of the eighth nerve.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m10",
+      "unit": 12,
+      "question": "Pseudomembranous colitis is particularly associated with:",
+      "options": [
+        "Clindamycin",
+        "Cloxacillin",
+        "Penicillin G",
+        "Doxycycline"
+      ],
+      "correct": 0,
+      "explanation": "Caused by overgrowth of Clostridioides difficile.",
+      "probability": "low"
+    },
+    {
+      "id": "u13-m01",
+      "unit": 13,
+      "question": "Cyclophosphamide is a:",
+      "options": [
+        "Antimetabolite",
+        "Anthracycline",
+        "Vinca alkaloid",
+        "Nitrogen mustard alkylating agent"
+      ],
+      "correct": 3,
+      "explanation": "A prodrug activated in the liver.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m02",
+      "unit": 13,
+      "question": "Haemorrhagic cystitis due to cyclophosphamide is prevented by:",
+      "options": [
+        "Mesna",
+        "Allopurinol",
+        "Dexrazoxane",
+        "Leucovorin"
+      ],
+      "correct": 0,
+      "explanation": "Mesna binds acrolein in the bladder.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m03",
+      "unit": 13,
+      "question": "Cisplatin chemically is:",
+      "options": [
+        "Tetrachloroplatinate",
+        "trans-Diamminedichloroplatinum(II)",
+        "cis-Diamminedichloroplatinum(II)",
+        "Platinum oxalate"
+      ],
+      "correct": 2,
+      "explanation": "Only the cis isomer is active.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m04",
+      "unit": 13,
+      "question": "Major dose-limiting toxicity of cisplatin is:",
+      "options": [
+        "Nephrotoxicity",
+        "Cardiotoxicity",
+        "Haemorrhagic cystitis",
+        "Pulmonary fibrosis"
+      ],
+      "correct": 0,
+      "explanation": "Prevented by saline hydration.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m05",
+      "unit": 13,
+      "question": "5-Fluorouracil inhibits:",
+      "options": [
+        "Thymidylate synthase",
+        "Dihydrofolate reductase",
+        "Topoisomerase II",
+        "Tubulin polymerisation"
+      ],
+      "correct": 0,
+      "explanation": "Via its metabolite FdUMP.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m06",
+      "unit": 13,
+      "question": "Methotrexate toxicity is reduced by:",
+      "options": [
+        "Mesna",
+        "Allopurinol",
+        "Ondansetron",
+        "Leucovorin (folinic acid)"
+      ],
+      "correct": 3,
+      "explanation": "Leucovorin bypasses the DHFR block.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m07",
+      "unit": 13,
+      "question": "The dose of mercaptopurine must be reduced when given with:",
+      "options": [
+        "Ondansetron",
+        "Allopurinol",
+        "Prednisolone",
+        "Folic acid"
+      ],
+      "correct": 1,
+      "explanation": "Allopurinol blocks xanthine oxidase which metabolises 6-MP.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m08",
+      "unit": 13,
+      "question": "Cardiotoxicity is characteristic of:",
+      "options": [
+        "Doxorubicin",
+        "Fluorouracil",
+        "Busulfan",
+        "Vinblastine"
+      ],
+      "correct": 0,
+      "explanation": "Anthracyclines cause dose-related cardiomyopathy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m09",
+      "unit": 13,
+      "question": "Vinblastine is obtained from:",
+      "options": [
+        "Catharanthus roseus",
+        "Streptomyces",
+        "Podophyllum",
+        "Taxus brevifolia"
+      ],
+      "correct": 0,
+      "explanation": "Vinca alkaloid from the periwinkle plant.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m10",
+      "unit": 13,
+      "question": "Busulfan is chemically:",
+      "options": [
+        "A platinum complex",
+        "A nitrosourea",
+        "A purine analogue",
+        "1,4-butanediol dimethanesulphonate"
+      ],
+      "correct": 3,
+      "explanation": "An alkyl sulphonate alkylating agent.",
+      "probability": "low"
+    },
+    {
+      "id": "u13-m11",
+      "unit": 13,
+      "question": "Cisplatin infusion should not be prepared with:",
+      "options": [
+        "Glass bottles",
+        "Aluminium-containing needles",
+        "Normal saline",
+        "Polyethylene bags"
+      ],
+      "correct": 1,
+      "explanation": "Aluminium reacts with platinum forming a precipitate.",
+      "probability": "low"
+    }
+  ]
+}
