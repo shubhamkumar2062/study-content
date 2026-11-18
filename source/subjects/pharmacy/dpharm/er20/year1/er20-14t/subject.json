@@ -1,0 +1,168 @@
+{
+  "code": "ER20-14T",
+  "title": "Human Anatomy and Physiology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 D.Pharm syllabus: ER20-14T Human Anatomy and Physiology (theory, 15 chapters) and ER20-14P (practical), university copy of the PCI syllabus",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-14T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-14P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Scope of anatomy and physiology, cell and tissues",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Osseous system, joints and skeletal muscles",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Haemopoietic and lymphatic systems",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Cardiovascular system",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Respiratory system",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Digestive system",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Nervous system",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Sense organs",
+      "notes": "notes/unit-8.md"
+    },
+    {
+      "number": 9,
+      "title": "Urinary system",
+      "notes": "notes/unit-9.md"
+    },
+    {
+      "number": 10,
+      "title": "Endocrine system",
+      "notes": "notes/unit-10.md"
+    },
+    {
+      "number": 11,
+      "title": "Reproductive system",
+      "notes": "notes/unit-11.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "compound-microscope",
+      "title": "Study of the compound microscope",
+      "file": "practicals/compound-microscope.md"
+    },
+    {
+      "id": "blood-collection",
+      "title": "General techniques for the collection of blood",
+      "file": "practicals/blood-collection.md"
+    },
+    {
+      "id": "tissue-slides",
+      "title": "Microscopic examination of tissues (permanent slides)",
+      "file": "practicals/tissue-slides.md"
+    },
+    {
+      "id": "human-skeleton",
+      "title": "Study of the human skeleton (axial and appendicular)",
+      "file": "practicals/human-skeleton.md"
+    },
+    {
+      "id": "blood-group",
+      "title": "Determination of blood group",
+      "file": "practicals/blood-group.md"
+    },
+    {
+      "id": "esr",
+      "title": "Determination of ESR (Westergren method)",
+      "file": "practicals/esr.md"
+    },
+    {
+      "id": "haemoglobin",
+      "title": "Determination of haemoglobin content (Sahli's method)",
+      "file": "practicals/haemoglobin.md"
+    },
+    {
+      "id": "bleeding-clotting-time",
+      "title": "Determination of bleeding time and clotting time",
+      "file": "practicals/bleeding-clotting-time.md"
+    },
+    {
+      "id": "wbc-count",
+      "title": "Determination of total WBC count",
+      "file": "practicals/wbc-count.md"
+    },
+    {
+      "id": "rbc-count",
+      "title": "Determination of total RBC count",
+      "file": "practicals/rbc-count.md"
+    },
+    {
+      "id": "differential-count",
+      "title": "Determination of differential leucocyte count",
+      "file": "practicals/differential-count.md"
+    },
+    {
+      "id": "blood-pressure",
+      "title": "Recording of blood pressure in different postures, arms and after exertion",
+      "file": "practicals/blood-pressure.md"
+    },
+    {
+      "id": "temperature-pulse-respiration",
+      "title": "Recording of body temperature, pulse rate and respiratory rate",
+      "file": "practicals/temperature-pulse-respiration.md"
+    },
+    {
+      "id": "pulse-oximetry",
+      "title": "Recording of pulse oxygen saturation (before and after exertion)",
+      "file": "practicals/pulse-oximetry.md"
+    },
+    {
+      "id": "peak-flow",
+      "title": "Recording of peak expiratory flow with a peak flow meter",
+      "file": "practicals/peak-flow.md"
+    },
+    {
+      "id": "height-weight-bmi",
+      "title": "Measurement of height, weight and BMI",
+      "file": "practicals/height-weight-bmi.md"
+    },
+    {
+      "id": "systems-models",
+      "title": "Study of organ systems with charts, models and specimens",
+      "file": "practicals/systems-models.md"
+    }
+  ]
+}

@@ -1,0 +1,1530 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which organelle is known as the 'power house of the cell'?",
+      "options": [
+        "Golgi bodies",
+        "Endoplasmic reticulum",
+        "Nucleus",
+        "Mitochondria"
+      ],
+      "correct": 3,
+      "explanation": "Mitochondria carry out aerobic respiration and make most of the cell's ATP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Protein synthesis in the cell takes place on:",
+      "options": [
+        "Peroxisomes",
+        "Lysosomes",
+        "Ribosomes",
+        "Centrioles"
+      ],
+      "correct": 2,
+      "explanation": "Ribosomes (free or on rough ER) join amino acids into proteins.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which organelles are called 'suicide bags'?",
+      "options": [
+        "Lysosomes",
+        "Mitochondria",
+        "Golgi bodies",
+        "Ribosomes"
+      ],
+      "correct": 0,
+      "explanation": "Lysosomes contain digestive enzymes that can destroy the cell's own worn-out parts.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "A ligament joins:",
+      "options": [
+        "Muscle to muscle",
+        "Bone to bone",
+        "Muscle to bone",
+        "Skin to muscle"
+      ],
+      "correct": 1,
+      "explanation": "Ligaments connect bones at joints; tendons connect muscle to bone.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The urinary bladder is lined by:",
+      "options": [
+        "Simple columnar epithelium",
+        "Transitional epithelium",
+        "Simple squamous epithelium",
+        "Stratified squamous keratinised epithelium"
+      ],
+      "correct": 1,
+      "explanation": "Transitional epithelium stretches as the bladder fills.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Intercalated discs are a feature of:",
+      "options": [
+        "Cardiac muscle",
+        "Nervous tissue",
+        "Skeletal muscle",
+        "Smooth muscle"
+      ],
+      "correct": 0,
+      "explanation": "Intercalated discs join cardiac muscle cells so impulses spread quickly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The trachea is lined by:",
+      "options": [
+        "Simple squamous epithelium",
+        "Transitional epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified ciliated columnar epithelium"
+      ],
+      "correct": 3,
+      "explanation": "Ciliated cells and goblet cells form the mucociliary escalator.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The plane that divides the body into right and left parts is the:",
+      "options": [
+        "Sagittal plane",
+        "Frontal plane",
+        "Transverse plane",
+        "Coronal plane"
+      ],
+      "correct": 0,
+      "explanation": "A sagittal plane runs vertically from front to back, dividing right from left.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Which is an example of positive feedback?",
+      "options": [
+        "Control of body temperature",
+        "Control of blood glucose by insulin",
+        "Oxytocin action during labour",
+        "Baroreceptor reflex"
+      ],
+      "correct": 2,
+      "explanation": "Oxytocin increases contractions, which release more oxytocin, until the baby is born.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Movement of water across a semipermeable membrane is called:",
+      "options": [
+        "Osmosis",
+        "Pinocytosis",
+        "Active transport",
+        "Diffusion"
+      ],
+      "correct": 0,
+      "explanation": "Osmosis is the passive movement of water from lower to higher solute concentration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The total number of bones in the adult human skeleton is:",
+      "options": [
+        "208",
+        "206",
+        "300",
+        "212"
+      ],
+      "correct": 1,
+      "explanation": "Axial 80 + appendicular 126 = 206.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The longest bone of the body is the:",
+      "options": [
+        "Humerus",
+        "Tibia",
+        "Fibula",
+        "Femur"
+      ],
+      "correct": 3,
+      "explanation": "The femur (thigh bone) is the longest and strongest bone.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The number of cervical vertebrae is:",
+      "options": [
+        "12",
+        "5",
+        "4",
+        "7"
+      ],
+      "correct": 3,
+      "explanation": "Seven cervical vertebrae, including atlas (C1) and axis (C2).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The knee joint is an example of a:",
+      "options": [
+        "Ball and socket joint",
+        "Hinge joint",
+        "Saddle joint",
+        "Pivot joint"
+      ],
+      "correct": 1,
+      "explanation": "The knee mainly allows flexion and extension in one plane.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Gout is caused by deposition of:",
+      "options": [
+        "Cholesterol",
+        "Calcium oxalate",
+        "Uric acid (urate) crystals",
+        "Bilirubin"
+      ],
+      "correct": 2,
+      "explanation": "High blood uric acid leads to urate crystals in joints.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Bone-resorbing cells are called:",
+      "options": [
+        "Chondrocytes",
+        "Osteocytes",
+        "Osteoblasts",
+        "Osteoclasts"
+      ],
+      "correct": 3,
+      "explanation": "Osteoclasts dissolve bone matrix and release calcium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "During muscle contraction, calcium binds to:",
+      "options": [
+        "Myosin",
+        "Troponin",
+        "Actin",
+        "Tropomyosin"
+      ],
+      "correct": 1,
+      "explanation": "Ca2+ binds troponin, which shifts tropomyosin off actin's binding sites.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Which band of the sarcomere does NOT change length during contraction?",
+      "options": [
+        "H zone",
+        "Distance between Z lines",
+        "A band",
+        "I band"
+      ],
+      "correct": 2,
+      "explanation": "The A band equals the length of myosin filaments, which do not shorten.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Myasthenia gravis is due to antibodies against:",
+      "options": [
+        "Acetylcholine receptors",
+        "Acetylcholinesterase",
+        "Myosin",
+        "Troponin"
+      ],
+      "correct": 0,
+      "explanation": "Autoantibodies block ACh receptors at the neuromuscular junction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Floating ribs are the rib pairs numbered:",
+      "options": [
+        "11 and 12",
+        "5 to 7",
+        "1 and 2",
+        "8 to 10"
+      ],
+      "correct": 0,
+      "explanation": "Ribs 11 and 12 have no anterior attachment.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The normal life span of a red blood cell is about:",
+      "options": [
+        "60 days",
+        "120 days",
+        "7 days",
+        "30 days"
+      ],
+      "correct": 1,
+      "explanation": "Old RBCs are removed by the spleen and liver after about 120 days.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Which blood group is called the universal donor?",
+      "options": [
+        "AB",
+        "O",
+        "A",
+        "B"
+      ],
+      "correct": 1,
+      "explanation": "Group O RBCs have no A or B antigens.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The most numerous white blood cells are:",
+      "options": [
+        "Neutrophils",
+        "Monocytes",
+        "Eosinophils",
+        "Lymphocytes"
+      ],
+      "correct": 0,
+      "explanation": "Neutrophils form about 40–75 % of WBCs.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Haemophilia A is due to deficiency of factor:",
+      "options": [
+        "VII",
+        "IX",
+        "X",
+        "VIII"
+      ],
+      "correct": 3,
+      "explanation": "Factor VIII (antihaemophilic factor) is lacking in haemophilia A.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Which vitamin is needed for the synthesis of prothrombin?",
+      "options": [
+        "Vitamin K",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C"
+      ],
+      "correct": 0,
+      "explanation": "Vitamin K is needed in the liver for factors II, VII, IX and X.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Platelets are formed from:",
+      "options": [
+        "Monocytes",
+        "Lymphoblasts",
+        "Megakaryocytes",
+        "Erythroblasts"
+      ],
+      "correct": 2,
+      "explanation": "Platelets are fragments pinched off from megakaryocytes in the marrow.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Erythropoietin is secreted mainly by the:",
+      "options": [
+        "Bone marrow",
+        "Liver",
+        "Spleen",
+        "Kidney"
+      ],
+      "correct": 3,
+      "explanation": "The kidney releases erythropoietin when tissue oxygen is low.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Serum differs from plasma in lacking:",
+      "options": [
+        "Fibrinogen",
+        "Albumin",
+        "Glucose",
+        "Water"
+      ],
+      "correct": 0,
+      "explanation": "Fibrinogen is used up in forming the clot.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The thoracic duct drains lymph into the:",
+      "options": [
+        "Right subclavian vein",
+        "Superior vena cava directly",
+        "Portal vein",
+        "Left subclavian vein"
+      ],
+      "correct": 3,
+      "explanation": "It joins the venous system at the left subclavian (with internal jugular) vein.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Histamine and heparin are released by:",
+      "options": [
+        "Lymphocytes",
+        "Neutrophils",
+        "Basophils",
+        "Monocytes"
+      ],
+      "correct": 2,
+      "explanation": "Basophils (and mast cells) store histamine and heparin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The 'graveyard of RBCs' is the:",
+      "options": [
+        "Liver",
+        "Lymph node",
+        "Kidney",
+        "Spleen"
+      ],
+      "correct": 3,
+      "explanation": "The red pulp of the spleen removes old RBCs.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The pacemaker of the heart is the:",
+      "options": [
+        "AV node",
+        "Bundle of His",
+        "SA node",
+        "Purkinje fibres"
+      ],
+      "correct": 2,
+      "explanation": "The SA node fires fastest and sets the heart rate.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The valve between the left atrium and left ventricle is the:",
+      "options": [
+        "Aortic valve",
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Mitral (bicuspid) valve"
+      ],
+      "correct": 3,
+      "explanation": "The mitral valve has two cusps.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Normal blood pressure in a healthy adult is about:",
+      "options": [
+        "140/90 mmHg",
+        "120/80 mmHg",
+        "160/100 mmHg",
+        "100/60 mmHg"
+      ],
+      "correct": 1,
+      "explanation": "Systolic about 120 and diastolic about 80 mmHg.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The first heart sound is due to closure of the:",
+      "options": [
+        "AV valves",
+        "Aortic valve only",
+        "Venous valves",
+        "Semilunar valves"
+      ],
+      "correct": 0,
+      "explanation": "S1 ('lubb') is closure of tricuspid and mitral valves.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The QRS complex of the ECG represents:",
+      "options": [
+        "Atrial depolarisation",
+        "Ventricular depolarisation",
+        "Ventricular repolarisation",
+        "Atrial repolarisation only"
+      ],
+      "correct": 1,
+      "explanation": "QRS marks spread of the impulse through the ventricles.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The pulmonary veins carry:",
+      "options": [
+        "Oxygenated blood to the left atrium",
+        "Oxygenated blood to the right atrium",
+        "Deoxygenated blood to the lungs",
+        "Deoxygenated blood to the right atrium"
+      ],
+      "correct": 0,
+      "explanation": "Pulmonary veins bring oxygenated blood from the lungs to the left atrium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Duration of one cardiac cycle at 75 beats per minute is about:",
+      "options": [
+        "0.8 s",
+        "1.2 s",
+        "0.5 s",
+        "0.3 s"
+      ],
+      "correct": 0,
+      "explanation": "60 ÷ 75 = 0.8 s.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Baroreceptors that regulate blood pressure are located in the:",
+      "options": [
+        "Medulla oblongata",
+        "Atria only",
+        "Carotid sinus and aortic arch",
+        "Kidney"
+      ],
+      "correct": 2,
+      "explanation": "Stretch receptors in the carotid sinus and aortic arch sense BP.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Cardiac output in a resting adult is about:",
+      "options": [
+        "15 L/min",
+        "5 L/min",
+        "1 L/min",
+        "10 L/min"
+      ],
+      "correct": 1,
+      "explanation": "Stroke volume about 70 mL × heart rate 72/min ≈ 5 L/min.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The coronary arteries arise from the:",
+      "options": [
+        "Pulmonary trunk",
+        "Superior vena cava",
+        "Base of the aorta",
+        "Left ventricle wall"
+      ],
+      "correct": 2,
+      "explanation": "They arise from the ascending aorta just above the aortic valve.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The normal tidal volume of an adult is about:",
+      "options": [
+        "3000 mL",
+        "1200 mL",
+        "150 mL",
+        "500 mL"
+      ],
+      "correct": 3,
+      "explanation": "About 500 mL moves in and out in each quiet breath.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Vital capacity equals:",
+      "options": [
+        "ERV + RV",
+        "VC + RV",
+        "TV + IRV",
+        "TV + IRV + ERV"
+      ],
+      "correct": 3,
+      "explanation": "Vital capacity = tidal volume + inspiratory reserve + expiratory reserve volume.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The main muscle of inspiration is the:",
+      "options": [
+        "Rectus abdominis",
+        "Internal intercostal",
+        "Sternocleidomastoid",
+        "Diaphragm"
+      ],
+      "correct": 3,
+      "explanation": "The diaphragm contracts and flattens to enlarge the thorax.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Most carbon dioxide is carried in blood as:",
+      "options": [
+        "Carbaminohaemoglobin",
+        "Bicarbonate ions",
+        "Carbonic acid",
+        "Dissolved CO2"
+      ],
+      "correct": 1,
+      "explanation": "About 70 % travels as HCO3− in plasma.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The right lung has:",
+      "options": [
+        "4 lobes",
+        "1 lobe",
+        "2 lobes",
+        "3 lobes"
+      ],
+      "correct": 3,
+      "explanation": "Right lung: upper, middle and lower lobes; left lung has 2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Surfactant is secreted by:",
+      "options": [
+        "Goblet cells",
+        "Type I alveolar cells",
+        "Alveolar macrophages",
+        "Type II alveolar cells"
+      ],
+      "correct": 3,
+      "explanation": "Type II cells secrete surfactant to lower surface tension.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The most powerful stimulus for breathing in a healthy person is a rise in arterial:",
+      "options": [
+        "Na+",
+        "PO2",
+        "Glucose",
+        "PCO2"
+      ],
+      "correct": 3,
+      "explanation": "Central chemoreceptors respond strongly to CO2 (via H+).",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The pneumotaxic centre is located in the:",
+      "options": [
+        "Medulla",
+        "Hypothalamus",
+        "Pons",
+        "Cerebellum"
+      ],
+      "correct": 2,
+      "explanation": "It lies in the upper pons and limits inspiration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The volume of air remaining in the lungs after maximal expiration is:",
+      "options": [
+        "Vital capacity",
+        "Residual volume",
+        "Expiratory reserve volume",
+        "Tidal volume"
+      ],
+      "correct": 1,
+      "explanation": "Residual volume (about 1200 mL) cannot be breathed out.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "The largest gland of the human body is the:",
+      "options": [
+        "Thyroid",
+        "Parotid",
+        "Pancreas",
+        "Liver"
+      ],
+      "correct": 3,
+      "explanation": "The liver weighs about 1.5 kg.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "HCl in the stomach is secreted by:",
+      "options": [
+        "G cells",
+        "Chief cells",
+        "Parietal (oxyntic) cells",
+        "Mucous cells"
+      ],
+      "correct": 2,
+      "explanation": "Parietal cells secrete HCl and intrinsic factor.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Bile helps in the digestion of fats by:",
+      "options": [
+        "Activating pepsin",
+        "Hydrolysing fats",
+        "Emulsifying fats",
+        "Converting fats to glycerol"
+      ],
+      "correct": 2,
+      "explanation": "Bile salts break fat into small droplets; bile has no enzymes.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Trypsinogen is activated to trypsin by:",
+      "options": [
+        "Pepsin",
+        "Enterokinase",
+        "Bile salts",
+        "HCl"
+      ],
+      "correct": 1,
+      "explanation": "Enterokinase from the duodenal brush border activates trypsinogen.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "The largest salivary gland is the:",
+      "options": [
+        "Buccal",
+        "Sublingual",
+        "Submandibular",
+        "Parotid"
+      ],
+      "correct": 3,
+      "explanation": "The parotid lies in front of and below the ear.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "Fats are absorbed into the:",
+      "options": [
+        "Stomach wall",
+        "Lacteals",
+        "Blood capillaries of villi",
+        "Portal vein directly"
+      ],
+      "correct": 1,
+      "explanation": "Chylomicrons enter the central lacteal (lymph).",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Vitamin B12 is absorbed mainly in the:",
+      "options": [
+        "Duodenum",
+        "Colon",
+        "Jejunum",
+        "Ileum"
+      ],
+      "correct": 3,
+      "explanation": "B12 bound to intrinsic factor is absorbed in the terminal ileum.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Salivary amylase converts starch into:",
+      "options": [
+        "Glucose",
+        "Lactose",
+        "Maltose",
+        "Sucrose"
+      ],
+      "correct": 2,
+      "explanation": "Ptyalin breaks starch into maltose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "The hormone that causes contraction of the gall bladder is:",
+      "options": [
+        "Cholecystokinin (CCK)",
+        "Gastrin",
+        "Secretin",
+        "Insulin"
+      ],
+      "correct": 0,
+      "explanation": "CCK is released when fatty chyme enters the duodenum.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "Kupffer cells are found in the:",
+      "options": [
+        "Stomach",
+        "Pancreas",
+        "Spleen",
+        "Liver"
+      ],
+      "correct": 3,
+      "explanation": "They are phagocytes lining the liver sinusoids.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The number of pairs of cranial nerves is:",
+      "options": [
+        "31",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 3,
+      "explanation": "There are 12 pairs of cranial nerves.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The part of the brain that maintains balance and coordination is the:",
+      "options": [
+        "Medulla oblongata",
+        "Cerebellum",
+        "Cerebrum",
+        "Thalamus"
+      ],
+      "correct": 1,
+      "explanation": "Cerebellar damage causes ataxia.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Vital centres for heart rate, BP and breathing are in the:",
+      "options": [
+        "Cerebral cortex",
+        "Midbrain",
+        "Cerebellum",
+        "Medulla oblongata"
+      ],
+      "correct": 3,
+      "explanation": "The medulla has cardiac, vasomotor and respiratory centres.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "The vagus nerve is cranial nerve number:",
+      "options": [
+        "VII",
+        "IX",
+        "X",
+        "V"
+      ],
+      "correct": 2,
+      "explanation": "Vagus is X, the main parasympathetic nerve.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "Impulses are carried away from the cell body by the:",
+      "options": [
+        "Synapse",
+        "Axon",
+        "Nissl body",
+        "Dendrite"
+      ],
+      "correct": 1,
+      "explanation": "The axon conducts impulses away; dendrites bring them in.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "The sympathetic nervous system has a:",
+      "options": [
+        "Cervical outflow only",
+        "Sacral outflow only",
+        "Thoracolumbar outflow",
+        "Craniosacral outflow"
+      ],
+      "correct": 2,
+      "explanation": "Sympathetic fibres leave the cord from T1 to L2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "Body temperature is regulated by the:",
+      "options": [
+        "Pons",
+        "Thalamus",
+        "Hypothalamus",
+        "Cerebellum"
+      ],
+      "correct": 2,
+      "explanation": "The hypothalamus acts as the body's thermostat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "Broca's (motor speech) area lies in the:",
+      "options": [
+        "Parietal lobe",
+        "Frontal lobe",
+        "Temporal lobe",
+        "Occipital lobe"
+      ],
+      "correct": 1,
+      "explanation": "Broca's area is in the inferior frontal lobe, usually on the left.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "Parkinson's disease is due to lack of dopamine in the:",
+      "options": [
+        "Cerebellum",
+        "Basal ganglia (substantia nigra pathway)",
+        "Medulla",
+        "Spinal cord"
+      ],
+      "correct": 1,
+      "explanation": "Loss of substantia nigra neurons reduces dopamine to the basal ganglia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m10",
+      "unit": 7,
+      "question": "The knee-jerk reflex is an example of a:",
+      "options": [
+        "Conditioned reflex",
+        "Cranial reflex",
+        "Polysynaptic reflex",
+        "Monosynaptic stretch reflex"
+      ],
+      "correct": 3,
+      "explanation": "One synapse between sensory and motor neurons.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m11",
+      "unit": 7,
+      "question": "The spinal cord in adults ends at the level of about:",
+      "options": [
+        "T12",
+        "Coccyx",
+        "L1–L2",
+        "S1"
+      ],
+      "correct": 2,
+      "explanation": "Below L1–L2 the nerve roots form the cauda equina.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "Colour vision is a function of:",
+      "options": [
+        "Optic disc",
+        "Rods",
+        "Cones",
+        "Bipolar cells"
+      ],
+      "correct": 2,
+      "explanation": "Three types of cones respond to red, green and blue light.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Rhodopsin, the visual pigment of rods, requires:",
+      "options": [
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin C",
+        "Vitamin A"
+      ],
+      "correct": 3,
+      "explanation": "Lack of vitamin A causes night blindness.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "The smallest bone of the body is the:",
+      "options": [
+        "Incus",
+        "Malleus",
+        "Hyoid",
+        "Stapes"
+      ],
+      "correct": 3,
+      "explanation": "The stapes fits into the oval window of the inner ear.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "The organ of Corti is concerned with:",
+      "options": [
+        "Hearing",
+        "Balance",
+        "Taste",
+        "Smell"
+      ],
+      "correct": 0,
+      "explanation": "Hair cells of the organ of Corti in the cochlea are hearing receptors.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "Myopia is corrected by a:",
+      "options": [
+        "Cylindrical lens",
+        "Concave lens",
+        "Convex lens",
+        "Bifocal convex lens"
+      ],
+      "correct": 1,
+      "explanation": "A concave lens moves the image back onto the retina.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "The blind spot of the eye is the:",
+      "options": [
+        "Fovea",
+        "Optic disc",
+        "Macula lutea",
+        "Ciliary body"
+      ],
+      "correct": 1,
+      "explanation": "No photoreceptors are present where the optic nerve leaves.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "The Eustachian tube connects the middle ear with the:",
+      "options": [
+        "Nasopharynx",
+        "External ear",
+        "Inner ear",
+        "Larynx"
+      ],
+      "correct": 0,
+      "explanation": "It equalises air pressure on both sides of the eardrum.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "Melanin is produced by cells in the:",
+      "options": [
+        "Dermis",
+        "Stratum basale",
+        "Hypodermis",
+        "Stratum corneum"
+      ],
+      "correct": 1,
+      "explanation": "Melanocytes lie in the stratum basale of the epidermis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "Taste from the anterior two-thirds of the tongue is carried by the:",
+      "options": [
+        "Vagus nerve",
+        "Glossopharyngeal nerve",
+        "Facial nerve",
+        "Hypoglossal nerve"
+      ],
+      "correct": 2,
+      "explanation": "Facial nerve (VII) via the chorda tympani.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m10",
+      "unit": 8,
+      "question": "Aqueous humour drains into the:",
+      "options": [
+        "Lacrimal duct",
+        "Optic nerve",
+        "Vitreous body",
+        "Canal of Schlemm"
+      ],
+      "correct": 3,
+      "explanation": "Poor drainage through the canal of Schlemm raises eye pressure (glaucoma).",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m01",
+      "unit": 9,
+      "question": "The structural and functional unit of the kidney is the:",
+      "options": [
+        "Nephron",
+        "Neuron",
+        "Lobule",
+        "Alveolus"
+      ],
+      "correct": 0,
+      "explanation": "Each kidney has about one million nephrons.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m02",
+      "unit": 9,
+      "question": "Normal glomerular filtration rate is about:",
+      "options": [
+        "650 mL/min",
+        "125 mL/min",
+        "25 mL/min",
+        "1200 mL/min"
+      ],
+      "correct": 1,
+      "explanation": "GFR is about 125 mL/min or 180 L/day.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m03",
+      "unit": 9,
+      "question": "Glucose is completely reabsorbed normally in the:",
+      "options": [
+        "Collecting duct",
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule"
+      ],
+      "correct": 2,
+      "explanation": "The PCT reabsorbs all filtered glucose and amino acids.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m04",
+      "unit": 9,
+      "question": "Renin is secreted by:",
+      "options": [
+        "Juxtaglomerular cells",
+        "Adrenal cortex",
+        "Podocytes",
+        "Macula densa cells"
+      ],
+      "correct": 0,
+      "explanation": "JG cells in the afferent arteriole wall secrete renin.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m05",
+      "unit": 9,
+      "question": "ADH acts mainly on the:",
+      "options": [
+        "Bowman's capsule",
+        "Glomerulus",
+        "Collecting duct",
+        "PCT"
+      ],
+      "correct": 2,
+      "explanation": "ADH makes the collecting ducts permeable to water.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m06",
+      "unit": 9,
+      "question": "Angiotensin I is converted to angiotensin II by:",
+      "options": [
+        "ACE",
+        "ADH",
+        "Renin",
+        "Aldosterone"
+      ],
+      "correct": 0,
+      "explanation": "Angiotensin-converting enzyme, mainly in the lungs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m07",
+      "unit": 9,
+      "question": "Clearance of which substance is used to measure GFR exactly?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "PAH",
+        "Inulin"
+      ],
+      "correct": 3,
+      "explanation": "Inulin is filtered but neither reabsorbed nor secreted.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m08",
+      "unit": 9,
+      "question": "The micturition reflex centre lies in the:",
+      "options": [
+        "Cervical spinal cord",
+        "Medulla",
+        "Sacral spinal cord (S2–S4)",
+        "Thoracic spinal cord"
+      ],
+      "correct": 2,
+      "explanation": "Sacral parasympathetic fibres make the detrusor contract.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m09",
+      "unit": 9,
+      "question": "The renal threshold for glucose is about:",
+      "options": [
+        "180 mg/dL",
+        "80 mg/dL",
+        "300 mg/dL",
+        "120 mg/dL"
+      ],
+      "correct": 0,
+      "explanation": "Above about 180 mg/dL glucose appears in urine.",
+      "probability": "low"
+    },
+    {
+      "id": "u10-m01",
+      "unit": 10,
+      "question": "Which hormone lowers blood glucose?",
+      "options": [
+        "Cortisol",
+        "Glucagon",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "correct": 2,
+      "explanation": "Insulin from β cells promotes glucose uptake and storage.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m02",
+      "unit": 10,
+      "question": "Deficiency of ADH causes:",
+      "options": [
+        "Diabetes insipidus",
+        "Diabetes mellitus",
+        "Cretinism",
+        "Acromegaly"
+      ],
+      "correct": 0,
+      "explanation": "Large volumes of dilute urine are passed.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m03",
+      "unit": 10,
+      "question": "Excess growth hormone in adults causes:",
+      "options": [
+        "Acromegaly",
+        "Myxoedema",
+        "Dwarfism",
+        "Gigantism"
+      ],
+      "correct": 0,
+      "explanation": "After epiphyses fuse, extra GH enlarges hands, feet and jaw.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m04",
+      "unit": 10,
+      "question": "Simple goitre is mainly due to deficiency of:",
+      "options": [
+        "Iron",
+        "Sodium",
+        "Calcium",
+        "Iodine"
+      ],
+      "correct": 3,
+      "explanation": "Iodine is needed to make T3 and T4.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m05",
+      "unit": 10,
+      "question": "Parathormone:",
+      "options": [
+        "Lowers blood calcium",
+        "Raises blood sodium only",
+        "Lowers blood glucose",
+        "Raises blood calcium"
+      ],
+      "correct": 3,
+      "explanation": "PTH releases Ca2+ from bone and increases its reabsorption.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m06",
+      "unit": 10,
+      "question": "Aldosterone is secreted by the:",
+      "options": [
+        "Zona fasciculata",
+        "Adrenal medulla",
+        "Zona glomerulosa",
+        "Zona reticularis"
+      ],
+      "correct": 2,
+      "explanation": "The outermost zone makes mineralocorticoids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m07",
+      "unit": 10,
+      "question": "Oxytocin is released from the:",
+      "options": [
+        "Anterior pituitary",
+        "Posterior pituitary",
+        "Thyroid",
+        "Ovary"
+      ],
+      "correct": 1,
+      "explanation": "It is made in the hypothalamus and released from the posterior pituitary.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m08",
+      "unit": 10,
+      "question": "Moon face and buffalo hump are seen in:",
+      "options": [
+        "Cushing's syndrome",
+        "Graves' disease",
+        "Addison's disease",
+        "Myxoedema"
+      ],
+      "correct": 0,
+      "explanation": "Excess cortisol redistributes fat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m09",
+      "unit": 10,
+      "question": "Glucagon is secreted by:",
+      "options": [
+        "Beta cells",
+        "Alpha cells",
+        "Delta cells",
+        "Acinar cells"
+      ],
+      "correct": 1,
+      "explanation": "Alpha cells of the islets of Langerhans.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m10",
+      "unit": 10,
+      "question": "Exophthalmos is a feature of:",
+      "options": [
+        "Graves' disease (hyperthyroidism)",
+        "Diabetes insipidus",
+        "Hypothyroidism",
+        "Addison's disease"
+      ],
+      "correct": 0,
+      "explanation": "Bulging eyes occur in Graves' disease.",
+      "probability": "low"
+    },
+    {
+      "id": "u11-m01",
+      "unit": 11,
+      "question": "Fertilisation normally takes place in the:",
+      "options": [
+        "Uterus",
+        "Ovary",
+        "Ampulla of the uterine tube",
+        "Cervix"
+      ],
+      "correct": 2,
+      "explanation": "The sperm meets the oocyte in the ampulla.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m02",
+      "unit": 11,
+      "question": "Ovulation in a 28-day cycle occurs around day:",
+      "options": [
+        "7",
+        "1",
+        "28",
+        "14"
+      ],
+      "correct": 3,
+      "explanation": "The LH surge triggers ovulation about day 14.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m03",
+      "unit": 11,
+      "question": "Testosterone is secreted by:",
+      "options": [
+        "Prostate",
+        "Leydig (interstitial) cells",
+        "Seminal vesicles",
+        "Sertoli cells"
+      ],
+      "correct": 1,
+      "explanation": "Leydig cells lie between the seminiferous tubules.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m04",
+      "unit": 11,
+      "question": "The hormone responsible for uterine contractions during labour is:",
+      "options": [
+        "FSH",
+        "Prolactin",
+        "Progesterone",
+        "Oxytocin"
+      ],
+      "correct": 3,
+      "explanation": "Oxytocin acts by positive feedback during parturition.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m05",
+      "unit": 11,
+      "question": "One primary spermatocyte produces:",
+      "options": [
+        "1 sperm",
+        "4 sperm",
+        "8 sperm",
+        "2 sperm"
+      ],
+      "correct": 1,
+      "explanation": "Meiosis gives four spermatids, each becoming a sperm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m06",
+      "unit": 11,
+      "question": "The corpus luteum mainly secretes:",
+      "options": [
+        "hCG",
+        "Progesterone",
+        "FSH",
+        "LH"
+      ],
+      "correct": 1,
+      "explanation": "Progesterone prepares and maintains the endometrium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m07",
+      "unit": 11,
+      "question": "Sperm mature and are stored in the:",
+      "options": [
+        "Seminiferous tubules",
+        "Epididymis",
+        "Urethra",
+        "Prostate"
+      ],
+      "correct": 1,
+      "explanation": "The epididymis stores sperm while they gain motility.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m08",
+      "unit": 11,
+      "question": "The pregnancy test detects:",
+      "options": [
+        "Prolactin",
+        "Oestrogen",
+        "LH",
+        "hCG"
+      ],
+      "correct": 3,
+      "explanation": "hCG from the embryo appears in urine early in pregnancy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m09",
+      "unit": 11,
+      "question": "Fructose in semen is supplied mainly by the:",
+      "options": [
+        "Bulbourethral glands",
+        "Prostate",
+        "Seminal vesicles",
+        "Testes"
+      ],
+      "correct": 2,
+      "explanation": "Seminal vesicle fluid gives fructose as energy for sperm.",
+      "probability": "low"
+    }
+  ]
+}

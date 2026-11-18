@@ -1,0 +1,1067 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on syllabus weight and common patterns in ER-2020 D.Pharm papers. It is not a promise. Marks follow the ER-2020 board paper: long answers 5 marks, short answers 3 marks; very-short (2-mark) questions are for quick revision.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of a typical animal cell with a labelled diagram. Give the functions of its organelles.",
+      "answer": "1. Definition: the cell is the basic structural and functional unit of life.\n2. Diagram: cell membrane, cytoplasm, nucleus with nucleolus and chromatin, mitochondria, rough and smooth ER, ribosomes, Golgi apparatus, lysosomes, centrioles.\n3. Cell membrane: phospholipid bilayer with proteins (fluid mosaic model); selectively permeable; transport, receptors, cell recognition.\n4. Nucleus: double membrane with pores; contains DNA (chromatin); controls cell activities, heredity; nucleolus makes ribosomal RNA.\n5. Mitochondria: double membrane, cristae; aerobic respiration and ATP production (power house).\n6. Ribosomes: protein synthesis. Rough ER: makes and transports proteins. Smooth ER: lipid and steroid synthesis, drug detoxification, Ca2+ store in muscle.\n7. Golgi apparatus: modifies, packs and secretes proteins; forms lysosomes.\n8. Lysosomes: digestive enzymes; destroy worn-out parts and bacteria (suicide bags).\n9. Centrioles: form the spindle during cell division. Cytoskeleton: shape and movement. Cilia and flagella: movement of mucus and sperm."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify tissues of the human body. Describe epithelial tissue with its types, locations and functions.",
+      "answer": "1. Tissue = group of similar cells doing a common function. Four types: epithelial, connective, muscular, nervous.\n2. Characteristics of epithelium: closely packed cells, little matrix, rests on basement membrane, avascular, regenerates well.\n3. Simple squamous – alveoli, blood vessel lining, Bowman's capsule – diffusion and filtration.\n4. Simple cuboidal – kidney tubules, thyroid follicles – secretion and absorption.\n5. Simple columnar – stomach and intestine (goblet cells, microvilli) – absorption and secretion.\n6. Ciliated columnar – uterine tubes; pseudostratified ciliated columnar – trachea – moves mucus.\n7. Stratified squamous keratinised – skin; non-keratinised – mouth, oesophagus, vagina – protection.\n8. Transitional – urinary bladder, ureter – stretching.\n9. Glandular epithelium – exocrine (with ducts) and endocrine (ductless) glands.\n10. Draw simple squamous, cuboidal and columnar epithelium."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the nucleus.",
+      "answer": "Largest organelle, usually central. Double nuclear membrane with pores (lets RNA out). Nucleoplasm contains chromatin (DNA + protein) that forms 46 chromosomes in division. Nucleolus makes ribosomal RNA and ribosomes. Functions: controls all cell activities and metabolism, stores genetic information, DNA replication before division, RNA synthesis for protein production. RBCs lack a nucleus; skeletal muscle fibres have many."
+    },
+    {
+      "id": "u1-l04",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare skeletal, cardiac and smooth muscle tissue.",
+      "answer": "Skeletal: attached to bones, long cylindrical, striated, many peripheral nuclei, voluntary, tires easily. Cardiac: heart wall, branched, striated, one central nucleus, intercalated discs, involuntary, does not tire. Smooth: walls of hollow organs and vessels, spindle-shaped, non-striated, one central nucleus, involuntary, slow and sustained contraction. Draw one fibre of each."
+    },
+    {
+      "id": "u1-l05",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the types of connective tissue with examples.",
+      "answer": "Cells (fibroblasts, macrophages, mast cells, fat cells) scattered in matrix with collagen, elastic and reticular fibres. Types: areolar (under skin, binds organs); adipose (fat store, insulation); dense regular (tendons, ligaments); elastic (large arteries); reticular (spleen, lymph nodes); cartilage – hyaline (trachea, joint ends), fibrocartilage (intervertebral discs), elastic (ear pinna, epiglottis); bone (skeleton); blood (fluid connective tissue). Functions: support, binding, protection, transport, storage."
+    },
+    {
+      "id": "u1-l06",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define homeostasis. Explain negative and positive feedback with examples.",
+      "answer": "Homeostasis: keeping the internal environment (temperature, glucose, pH, BP, water) nearly constant. Control system: receptor → control centre → effector. Negative feedback reverses the change – rise in blood glucose → insulin → glucose falls; rise in temperature → sweating, vasodilation → cooling. Most body controls work this way. Positive feedback increases the change until an event ends it – oxytocin in labour, blood clotting, LH surge. Failure of homeostasis causes disease (diabetes, hypertension)."
+    },
+    {
+      "id": "u1-l07",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the transport of substances across the cell membrane.",
+      "answer": "Passive (no ATP): simple diffusion of O2, CO2 and lipid-soluble drugs from high to low concentration; facilitated diffusion with carrier or channel (glucose); osmosis of water through the membrane. Active (ATP needed): active transport against the gradient – Na+/K+ pump moves 3 Na+ out and 2 K+ in; endocytosis (phagocytosis of bacteria, pinocytosis of fluid); exocytosis (release of hormones, neurotransmitters)."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define anatomy and physiology.",
+      "answer": "Anatomy is the study of the structure of the body and its parts. Physiology is the study of the functions of the body and its parts. Example: the thin wall of the alveolus (anatomy) suits gas exchange (physiology)."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Why are mitochondria called the power house of the cell?",
+      "answer": "They carry out aerobic respiration – oxidation of glucose and fatty acids on the inner membrane (cristae) – and produce most of the cell's ATP, the energy currency used for all activities."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between a tendon and a ligament.",
+      "answer": "Tendon joins muscle to bone, made of dense regular collagen fibres, transmits muscle pull. Ligament joins bone to bone at a joint, contains collagen with some elastic fibres, stabilises the joint."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is the anatomical position?",
+      "answer": "Body standing erect, face forward, feet together, arms hanging by the sides with palms facing forward. All directional terms (anterior, proximal etc.) are described from this position."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define tissue.",
+      "answer": "A tissue is a group of similar cells, with the material between them, that work together to perform a particular function."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify joints. Describe the structure of a synovial joint and the types of synovial joints with examples. Add a note on disorders of joints.",
+      "answer": "1. Joint = place where two or more bones meet.\n2. Classification: fibrous/immovable (skull sutures), cartilaginous/slightly movable (intervertebral discs, pubic symphysis), synovial/freely movable.\n3. Structure of synovial joint (diagram): articular hyaline cartilage, joint cavity, fibrous capsule lined by synovial membrane, synovial fluid, ligaments, bursae, menisci.\n4. Synovial fluid lubricates, nourishes cartilage, absorbs shock.\n5. Types: ball and socket (shoulder, hip), hinge (elbow, knee), pivot (atlanto-axial), condyloid (wrist), saddle (thumb carpometacarpal), gliding (intercarpal).\n6. Movements: flexion, extension, abduction, adduction, rotation, circumduction, pronation, supination.\n7. Disorders: osteoarthritis (cartilage wear), rheumatoid arthritis (autoimmune synovitis), gout (uric acid crystals), sprain, dislocation, bursitis."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the histology of skeletal muscle and explain the mechanism of muscle contraction.",
+      "answer": "1. Muscle → fascicles → fibres → myofibrils → sarcomeres → actin and myosin filaments; coverings epimysium, perimysium, endomysium.\n2. Fibre: long multinucleated cell; sarcolemma, sarcoplasm, sarcoplasmic reticulum (Ca2+ store), T-tubules.\n3. Sarcomere between two Z lines; A band (myosin), I band (actin), H zone, M line. Thin filaments carry tropomyosin and troponin.\n4. Contraction (sliding filament): nerve impulse → ACh at neuromuscular junction → action potential along sarcolemma and T-tubules → Ca2+ released from SR → Ca2+ binds troponin → tropomyosin uncovers actin sites → myosin heads form cross-bridges → power stroke pulls actin to the centre → ATP detaches heads → cycle repeats.\n5. Result: sarcomere shortens; I band and H zone shorten, A band unchanged.\n6. Relaxation: acetylcholinesterase destroys ACh, Ca2+ pumped back into SR.\n7. Energy: ATP from creatine phosphate, glycolysis, aerobic respiration; no ATP → rigor mortis."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of a long bone with a diagram.",
+      "answer": "Diaphysis (shaft) of compact bone around the medullary cavity with yellow marrow; epiphyses (ends) of spongy bone with red marrow; epiphyseal plate (growth in length) becoming the epiphyseal line in adults; articular cartilage on joint surfaces; periosteum outside (osteoblasts, growth in thickness, repair, tendon attachment); endosteum lines the cavity; nutrient artery. Compact bone made of Haversian systems. Example: femur."
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the vertebral column.",
+      "answer": "26 bones in adults: cervical 7, thoracic 12, lumbar 5, sacrum (5 fused), coccyx (4 fused). Typical vertebra: body, vertebral arch, vertebral foramen, spinous and transverse processes. Atlas (C1) supports the skull; axis (C2) with dens allows rotation. Intervertebral discs of fibrocartilage absorb shock. Curves: cervical, thoracic, lumbar, sacral. Functions: supports head and trunk, protects spinal cord, attachment for ribs and muscles, allows movement. Abnormal curves: kyphosis, lordosis, scoliosis."
+    },
+    {
+      "id": "u2-l05",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Name the bones of the upper limb and lower limb.",
+      "answer": "Upper limb (30 each): humerus, radius, ulna, 8 carpals, 5 metacarpals, 14 phalanges; pectoral girdle – clavicle and scapula. Lower limb (30 each): femur, patella, tibia, fibula, 7 tarsals, 5 metatarsals, 14 phalanges; pelvic girdle – hip bone (ilium, ischium, pubis). Femur is the longest bone."
+    },
+    {
+      "id": "u2-l06",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a short note on disorders of skeletal muscle.",
+      "answer": "Myasthenia gravis: autoimmune antibodies against ACh receptors – weakness, drooping eyelids; treated with neostigmine. Muscular dystrophy: inherited progressive degeneration (Duchenne type). Cramp: painful involuntary contraction. Strain: tearing of fibres. Atrophy: wasting from disuse or nerve loss. Fatigue: loss of force after prolonged work. Tetany: spasms from low blood calcium."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is gout?",
+      "answer": "A joint disorder caused by high blood uric acid, with deposition of monosodium urate crystals in joints (often the big toe). It causes sudden painful red swelling (acute arthritis)."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the bone cells and give their functions.",
+      "answer": "Osteoblasts – form new bone; osteocytes – mature cells that maintain bone matrix; osteoclasts – large cells that resorb (break down) bone and release calcium."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are true, false and floating ribs?",
+      "answer": "True ribs (1–7 pairs) join the sternum directly by their own costal cartilage. False ribs (8–10) join through the cartilage of the rib above. Floating ribs (11–12) have no front attachment."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the smallest and the longest bone of the body.",
+      "answer": "Smallest: stapes (middle ear). Longest: femur (thigh bone)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the mechanism of blood coagulation. Add a note on anticoagulants and disorders of clotting.",
+      "answer": "1. Haemostasis: vascular spasm → platelet plug → coagulation.\n2. Clotting factors I–XIII (no VI): I fibrinogen, II prothrombin, III tissue factor, IV calcium, VIII antihaemophilic factor, IX Christmas factor, X Stuart factor, XIII fibrin-stabilising factor.\n3. Extrinsic pathway: tissue factor + factor VII + Ca2+ → activates factor X (fast).\n4. Intrinsic pathway: contact with collagen → XII → XI → IX (+ VIII) → activates X (slower).\n5. Common pathway: factor X + V + Ca2+ + phospholipid → prothrombin activator → prothrombin to thrombin → thrombin converts fibrinogen to fibrin → factor XIII stabilises the fibrin mesh → clot.\n6. Draw the cascade flow chart.\n7. Clot retraction and fibrinolysis by plasmin.\n8. Vitamin K needed for II, VII, IX, X.\n9. Anticoagulants: heparin, warfarin (vitamin K antagonist), EDTA, citrate, oxalate (lab, remove Ca2+).\n10. Disorders: haemophilia A (factor VIII), haemophilia B (IX), vitamin K deficiency, thrombosis, embolism."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the composition and functions of blood. Describe the characteristics and functions of RBCs, WBCs and platelets.",
+      "answer": "1. Blood: fluid connective tissue, about 5 L, pH 7.35–7.45.\n2. Plasma (55 %): water, plasma proteins (albumin, globulins, fibrinogen), nutrients, electrolytes, wastes, hormones, gases. Formed elements (45 %).\n3. Functions: transport of gases, nutrients, wastes, hormones; regulation of temperature, pH, water balance; protection by WBCs, antibodies and clotting.\n4. RBC: biconcave non-nucleated disc, 7.5 µm, 4.5–5.5 million/µL, life 120 days, contains haemoglobin; carries O2 and CO2, buffer.\n5. WBC: 4,000–11,000/µL; neutrophils (40–75 %, phagocytosis), eosinophils (1–6 %, allergy, worms), basophils (0–1 %, histamine, heparin), lymphocytes (20–40 %, immunity), monocytes (2–10 %, macrophages).\n6. Platelets: fragments of megakaryocytes, 1.5–4 lakh/µL, life 7–10 days; platelet plug, clotting, vasoconstriction.\n7. Disorders: anaemia, leucocytosis, leukaemia, thrombocytopenia."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the ABO and Rh blood group systems and the importance of blood groups.",
+      "answer": "ABO: A (antigen A, anti-B), B (antigen B, anti-A), AB (A and B antigens, no antibodies – universal recipient), O (no antigens, anti-A and anti-B – universal donor). Rh: D antigen present = Rh positive. Importance: safe transfusion (mismatch causes agglutination and haemolysis); haemolytic disease of the newborn when an Rh-negative mother carries an Rh-positive baby – prevented with anti-D immunoglobulin; transplantation; paternity and forensic tests."
+    },
+    {
+      "id": "u3-l04",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on white blood corpuscles.",
+      "answer": "Nucleated cells, 4,000–11,000/µL, can leave vessels (diapedesis) and move by chemotaxis. Granulocytes: neutrophils (multi-lobed nucleus, phagocytosis, first line), eosinophils (bilobed, allergy and worm infections), basophils (histamine, heparin). Agranulocytes: lymphocytes (B cells make antibodies, T cells kill infected cells), monocytes (largest, become macrophages). Leucocytosis in infection; leucopenia in some viral infections and drug toxicity."
+    },
+    {
+      "id": "u3-l05",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe haemopoiesis.",
+      "answer": "Formation of blood cells. Sites: yolk sac, liver and spleen in the fetus; red bone marrow after birth (sternum, ribs, vertebrae, pelvis, ends of long bones). All cells come from the pluripotent stem cell → myeloid line (RBCs, platelets via megakaryocytes, granulocytes, monocytes) and lymphoid line (lymphocytes). Erythropoiesis: proerythroblast → erythroblasts → reticulocyte → RBC; needs iron, protein, vitamin B12, folic acid; controlled by erythropoietin from the kidney in hypoxia."
+    },
+    {
+      "id": "u3-l06",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the structure and functions of the spleen.",
+      "answer": "Largest lymphoid organ, in the left upper abdomen behind the stomach. Capsule; red pulp (sinuses, destroys old RBCs) and white pulp (lymphoid tissue). Functions: destroys old RBCs and platelets and saves iron; immunity – lymphocytes, antibodies, filtering microbes; blood reservoir; haemopoiesis in the fetus. Splenomegaly in malaria and leukaemia; splenectomy raises infection risk."
+    },
+    {
+      "id": "u3-l07",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe lymph – its composition, formation and the functions of the lymphatic system.",
+      "answer": "Tissue fluid formed at the arterial end of capillaries; excess enters blind lymph capillaries as lymph. Composition: like plasma with less protein, many lymphocytes, no RBCs; chyle after fat absorption. Flow: lymph capillaries → vessels with valves → lymph nodes → thoracic duct (to left subclavian vein) and right lymphatic duct (right subclavian vein). Functions: returns fluid and proteins to blood (prevents oedema), absorbs fat (lacteals), defence through lymph nodes and lymphocytes."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define haemopoiesis.",
+      "answer": "Haemopoiesis is the formation and development of blood cells (RBCs, WBCs, platelets) from stem cells, mainly in the red bone marrow after birth."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is lymph?",
+      "answer": "Lymph is the clear fluid in lymph vessels, formed from excess tissue fluid. It resembles plasma but has less protein and many lymphocytes; it returns to blood through the thoracic and right lymphatic ducts."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate plasma and serum.",
+      "answer": "Plasma is the liquid part of unclotted blood and contains fibrinogen and clotting factors. Serum is the fluid left after blood clots; it lacks fibrinogen and most clotting factors."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is haemophilia?",
+      "answer": "An inherited (X-linked) bleeding disorder due to lack of a clotting factor: factor VIII in haemophilia A and factor IX in haemophilia B (Christmas disease). Clotting time is prolonged; bleeding after small injuries."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the normal total WBC count and platelet count.",
+      "answer": "WBC: 4,000–11,000 per µL. Platelets: about 1.5–4 lakh per µL."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the anatomy of the human heart with a labelled diagram. Explain the conducting system of the heart.",
+      "answer": "1. Position: mediastinum, between lungs, apex at 5th left intercostal space; size of a fist.\n2. Coverings: fibrous and serous pericardium with pericardial fluid. Wall: epicardium, myocardium, endocardium.\n3. Chambers: right and left atria (receive), right and left ventricles (pump); septa separate the sides; left ventricle wall thickest.\n4. Valves: tricuspid (RA–RV), mitral/bicuspid (LA–LV), pulmonary and aortic semilunar; chordae tendineae and papillary muscles.\n5. Great vessels: venae cavae into RA, pulmonary trunk from RV, four pulmonary veins into LA, aorta from LV.\n6. Diagram of the interior of the heart.\n7. Conducting system: SA node (pacemaker, 70–80/min) → atria → AV node (delay) → bundle of His → right and left bundle branches → Purkinje fibres → ventricles contract from apex.\n8. Nerve supply: sympathetic increases rate and force; vagus slows the heart."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define blood pressure. Give its normal values, factors affecting it and explain its regulation.",
+      "answer": "1. BP = pressure exerted by blood on artery walls. Systolic about 120 mmHg, diastolic about 80 mmHg; pulse pressure 40; MAP ≈ diastolic + 1/3 pulse pressure.\n2. Measured with a sphygmomanometer (Korotkoff sounds).\n3. BP = cardiac output × peripheral resistance. Factors: heart rate, stroke volume, arteriolar diameter, blood volume, elasticity of arteries, viscosity, age, exercise, posture, emotion.\n4. Nervous regulation: vasomotor and cardiac centres in the medulla; baroreceptors in carotid sinus and aortic arch – rise in BP → vagal tone up, sympathetic down → heart rate falls, vasodilation → BP falls (and the reverse); chemoreceptors.\n5. Hormonal: renin–angiotensin–aldosterone system raises BP; ADH; adrenaline and noradrenaline; ANP lowers BP.\n6. Renal long-term control of blood volume.\n7. Hypertension ≥140/90 mmHg; hypotension below about 90/60 mmHg."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the cardiac cycle.",
+      "answer": "Events of one heartbeat, about 0.8 s at 75/min. Atrial systole 0.1 s – atria push the last blood into ventricles. Ventricular systole 0.3 s – AV valves close (first sound), isovolumetric contraction, semilunar valves open, ejection into aorta and pulmonary trunk. Joint diastole 0.4 s – semilunar valves close (second sound), isovolumetric relaxation, AV valves open, passive filling of ventricles. Stroke volume about 70 mL; cardiac output about 5 L/min."
+    },
+    {
+      "id": "u4-l04",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write about heart sounds.",
+      "answer": "First sound (S1, 'lubb'): long, low-pitched; closure of AV valves (tricuspid and mitral) at the start of ventricular systole. Second sound (S2, 'dupp'): short, sharp; closure of aortic and pulmonary semilunar valves at the start of diastole. Third sound – rapid ventricular filling; fourth – atrial contraction (usually not heard). Heard with a stethoscope. Murmurs indicate stenosed or leaking valves."
+    },
+    {
+      "id": "u4-l05",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the basics of ECG with a labelled diagram.",
+      "answer": "ECG records the electrical activity of the heart from skin electrodes (12 leads). P wave – atrial depolarisation; PR interval (0.12–0.20 s) – AV conduction time; QRS complex (0.08–0.10 s) – ventricular depolarisation; ST segment – isoelectric; T wave – ventricular repolarisation. Uses: heart rate and rhythm, arrhythmias, heart block, myocardial infarction, chamber enlargement, electrolyte and drug effects."
+    },
+    {
+      "id": "u4-l06",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe pulmonary, systemic and coronary circulation.",
+      "answer": "Pulmonary: RV → pulmonary trunk → pulmonary arteries (deoxygenated) → lungs → pulmonary veins (oxygenated) → LA; low pressure. Systemic: LV → aorta → arteries → capillaries of all organs → veins → venae cavae → RA; high pressure. Coronary: right and left coronary arteries from the base of the aorta supply the myocardium; filled in diastole; cardiac veins → coronary sinus → RA. Blockage → angina, myocardial infarction."
+    },
+    {
+      "id": "u4-l07",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between arteries and veins.",
+      "answer": "Arteries carry blood away from the heart, veins towards it. Arteries: thick muscular elastic wall, narrow lumen, no valves, high pressure, pulse felt, oxygenated blood (except pulmonary artery). Veins: thin wall, wide lumen, valves present, low pressure, deoxygenated blood (except pulmonary veins), collapse when empty. Both have tunica intima, media and adventitia; capillaries have only endothelium."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is the pacemaker of the heart and why?",
+      "answer": "The sinoatrial (SA) node in the wall of the right atrium. It produces impulses at the fastest rate (about 70–80 per minute), so it sets the rhythm for the whole heart."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define cardiac output and give its normal value.",
+      "answer": "Cardiac output is the volume of blood pumped by each ventricle per minute = stroke volume × heart rate ≈ 70 mL × 72/min ≈ 5 L/min at rest."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are baroreceptors?",
+      "answer": "Stretch receptors in the carotid sinus and aortic arch that sense changes in arterial blood pressure and send impulses (via IX and X nerves) to the medulla to correct BP reflexly."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the normal blood pressure of an adult.",
+      "answer": "About 120/80 mmHg – systolic 120 mmHg and diastolic 80 mmHg."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the anatomy of the respiratory organs with a diagram. Explain the mechanism of respiration.",
+      "answer": "1. Organs: nose and nasal cavity (filter, warm, moisten air; smell), pharynx, larynx (vocal cords, epiglottis), trachea (C-shaped rings, ciliated lining), bronchi, bronchioles, alveoli, lungs (right 3 lobes, left 2), pleura, diaphragm.\n2. Diagram of the respiratory tract.\n3. Alveoli: thin squamous wall, capillaries, surfactant from type II cells.\n4. Inspiration (active): diaphragm contracts and flattens, external intercostals lift ribs → thoracic volume increases → pressure in lungs falls below atmospheric → air enters (Boyle's law).\n5. Expiration (quiet, passive): muscles relax, elastic recoil → volume falls, pressure rises → air leaves. Forced expiration uses internal intercostals and abdominal muscles.\n6. Intrapleural pressure is negative and keeps lungs expanded.\n7. Gas exchange by diffusion (alveolar PO2 104, PCO2 40 mmHg)."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the regulation of respiration. Define respiratory volumes and capacities with normal values.",
+      "answer": "1. Nervous: medullary rhythmicity area (dorsal and ventral groups) sets rhythm; pneumotaxic centre (pons) limits inspiration; apneustic centre prolongs it.\n2. Chemical: central chemoreceptors (medulla) respond to CO2/H+ – strongest stimulus; peripheral chemoreceptors (carotid and aortic bodies) respond to low O2.\n3. Hering–Breuer reflex via vagus prevents over-inflation; cough, sneeze; voluntary control; exercise, temperature.\n4. Volumes: TV 500 mL, IRV 3000 mL, ERV 1100 mL, RV 1200 mL.\n5. Capacities: IC = TV + IRV = 3500 mL; FRC = ERV + RV = 2300 mL; VC = TV + IRV + ERV = 4600 mL; TLC = VC + RV = 5800 mL.\n6. Minute ventilation = TV × rate ≈ 6 L/min; dead space about 150 mL.\n7. Draw the spirogram."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define respiratory volumes and capacities with their normal values.",
+      "answer": "Tidal volume (500 mL) – air in or out in one quiet breath. IRV (3000 mL) – extra air inhaled forcefully. ERV (1100 mL) – extra air exhaled forcefully. Residual volume (1200 mL) – air left after forced expiration. Inspiratory capacity = TV + IRV (3500). FRC = ERV + RV (2300). Vital capacity = TV + IRV + ERV (4600). Total lung capacity = VC + RV (5800). Measured by a spirometer (RV cannot be measured directly)."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the mechanism of breathing.",
+      "answer": "Inspiration: diaphragm contracts and moves down, external intercostals raise the ribs and sternum → thoracic volume rises → intrapulmonary pressure falls below atmospheric → air flows in. Expiration: muscles relax, lungs recoil elastically → volume falls, pressure rises above atmospheric → air flows out (passive in quiet breathing). Forced expiration: internal intercostals and abdominal muscles. Based on Boyle's law."
+    },
+    {
+      "id": "u5-l05",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the transport of oxygen and carbon dioxide in blood.",
+      "answer": "O2: about 97 % as oxyhaemoglobin (each Hb carries 4 O2), 3 % dissolved; release in tissues helped by high CO2, low pH, heat (Bohr effect). CO2: about 70 % as bicarbonate – CO2 + H2O → H2CO3 (carbonic anhydrase in RBC) → H+ + HCO3−; HCO3− moves to plasma in exchange for Cl− (chloride shift); about 23 % as carbaminohaemoglobin; about 7 % dissolved."
+    },
+    {
+      "id": "u5-l06",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the regulation of respiration.",
+      "answer": "Respiratory centres: medulla (rhythm – dorsal and ventral groups), pons (pneumotaxic shortens inspiration, apneustic prolongs it). Chemical: central chemoreceptors sense CO2/H+ in CSF (most powerful); peripheral – carotid and aortic bodies sense low O2. Rise in CO2 → faster, deeper breathing. Hering–Breuer reflex limits inflation. Voluntary control from the cortex; emotion, pain and exercise also change breathing."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define vital capacity and give its normal value.",
+      "answer": "Vital capacity is the maximum volume of air that can be breathed out after the deepest possible inspiration = TV + IRV + ERV, about 4600 mL in a young adult male (less in females)."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is surfactant? Give its function.",
+      "answer": "A lipoprotein (mainly phospholipid) secreted by type II alveolar cells. It lowers surface tension in the alveoli and prevents them from collapsing; lack in premature babies causes respiratory distress syndrome."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the parts of the respiratory tract in order of airflow.",
+      "answer": "Nose/nasal cavity → pharynx → larynx → trachea → primary bronchi → secondary and tertiary bronchi → bronchioles → terminal and respiratory bronchioles → alveolar ducts → alveoli."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define tidal volume and give its normal value.",
+      "answer": "Volume of air breathed in or out in one quiet breath; about 500 mL."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the anatomy of the stomach and small intestine. Explain the physiology of digestion of carbohydrates, proteins and fats.",
+      "answer": "1. Stomach: J-shaped; fundus, body, pylorus; rugae; three muscle layers; gastric glands – chief cells (pepsinogen), parietal cells (HCl, intrinsic factor), mucous cells, G cells (gastrin).\n2. Small intestine: duodenum (25 cm, receives bile and pancreatic juice), jejunum, ileum; circular folds, villi with lacteals, microvilli.\n3. Carbohydrates: mouth – salivary amylase (starch → maltose); small intestine – pancreatic amylase; maltase, sucrase, lactase → glucose, fructose, galactose.\n4. Proteins: stomach – pepsin (proteins → peptones); small intestine – trypsin (activated by enterokinase), chymotrypsin, carboxypeptidase, peptidases → amino acids.\n5. Fats: bile salts emulsify; pancreatic lipase → fatty acids and monoglycerides/glycerol.\n6. Absorption: glucose and amino acids by Na+-linked active transport into portal blood; fats as micelles → chylomicrons → lacteals.\n7. Diagram of the GIT and a villus."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure and functions of the liver. Add a note on bile.",
+      "answer": "1. Largest gland (about 1.5 kg), right upper abdomen under the diaphragm; right and left lobes (plus caudate and quadrate).\n2. Blood supply: hepatic artery and portal vein; drained by hepatic veins.\n3. Hepatic lobule: hexagonal, hepatocyte plates around a central vein, sinusoids with Kupffer cells, portal triads at corners.\n4. Functions: bile secretion; carbohydrate metabolism (glycogenesis, glycogenolysis, gluconeogenesis); protein metabolism (deamination, urea, plasma proteins, clotting factors); fat metabolism (cholesterol, lipoproteins); detoxification and drug metabolism; storage (glycogen, iron, vitamins A, D, B12); bilirubin excretion; heat production; fetal haemopoiesis.\n5. Bile: 500–1000 mL/day; bile salts, pigments (bilirubin), cholesterol, lecithin, water; no enzymes. Stored and concentrated in the gall bladder; released by CCK.\n6. Functions of bile: emulsifies fats, helps absorb fats and vitamins A, D, E, K, excretes bilirubin, neutralises acid chyme."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of the stomach and the composition of gastric juice.",
+      "answer": "Gastric juice: 2–3 L/day, pH 1.5–3.5; HCl and intrinsic factor (parietal cells), pepsinogen (chief cells), mucus and bicarbonate (mucous cells), gastric lipase, water; gastrin is the hormone from G cells. Functions of the stomach: stores food, churns it into chyme, HCl kills microbes and activates pepsin, protein digestion begins, intrinsic factor for vitamin B12 absorption, absorbs alcohol and some drugs, controlled emptying into the duodenum."
+    },
+    {
+      "id": "u6-l04",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the composition and functions of pancreatic juice.",
+      "answer": "1.2–1.5 L/day, alkaline (pH about 8) due to bicarbonate. Enzymes: trypsinogen (activated to trypsin by enterokinase), chymotrypsinogen, carboxypeptidase – protein digestion; pancreatic amylase – starch to maltose; pancreatic lipase – fats to fatty acids and monoglycerides; nucleases. Bicarbonate neutralises acid chyme. Controlled by secretin (bicarbonate) and CCK (enzymes) and the vagus."
+    },
+    {
+      "id": "u6-l05",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the salivary glands and the functions of saliva.",
+      "answer": "Three pairs: parotid (largest, in front of the ear, Stensen's duct), submandibular (Wharton's duct), sublingual (smallest). Saliva 1–1.5 L/day, pH about 6.5–7; water, mucin, salivary amylase, lysozyme, IgA, electrolytes. Functions: moistens food and forms bolus, starts starch digestion, dissolves food for taste, cleans mouth, antibacterial, helps speech and swallowing."
+    },
+    {
+      "id": "u6-l06",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the absorption of digested food in the small intestine.",
+      "answer": "Large surface from circular folds, villi and microvilli. Glucose and galactose – Na+-linked active transport; fructose – facilitated diffusion; amino acids – active transport; all into capillaries → portal vein → liver. Fatty acids and monoglycerides form micelles with bile salts → enter cells → resynthesised into triglycerides → chylomicrons → lacteals → thoracic duct. Water by osmosis; vitamin B12 with intrinsic factor in the ileum; iron and calcium in the duodenum."
+    },
+    {
+      "id": "u6-l07",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the functions of the large intestine.",
+      "answer": "Absorbs water and electrolytes, forming solid faeces; bacterial flora synthesise vitamin K and some B vitamins and ferment fibre; secretes mucus for lubrication; stores faeces in the rectum; defaecation reflex. Parts: caecum with appendix, ascending, transverse, descending and sigmoid colon, rectum, anal canal."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write three functions of the liver.",
+      "answer": "Any three: secretes bile; stores glycogen and regulates blood glucose; forms urea from ammonia; makes plasma proteins and clotting factors; detoxifies drugs and alcohol; stores vitamins and iron."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is intrinsic factor?",
+      "answer": "A glycoprotein secreted by the parietal cells of the stomach. It binds vitamin B12 and allows its absorption in the ileum; lack of it causes pernicious anaemia."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the layers of the wall of the GIT.",
+      "answer": "Mucosa, submucosa (with Meissner's plexus), muscularis externa (inner circular and outer longitudinal muscle with Auerbach's plexus), and serosa (or adventitia)."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the three salivary glands.",
+      "answer": "Parotid, submandibular and sublingual glands."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify the nervous system. Describe the structure and functions of the cerebrum, cerebellum and medulla oblongata.",
+      "answer": "1. Classification: CNS (brain, spinal cord) and PNS (12 cranial and 31 spinal nerves); PNS – afferent and efferent; efferent – somatic and autonomic (sympathetic, parasympathetic). Draw the chart.\n2. Cerebrum: two hemispheres joined by corpus callosum; grey cortex with gyri and sulci, white matter inside, basal ganglia.\n3. Lobes: frontal (motor area, Broca's speech area, thinking), parietal (sensory area), temporal (hearing, Wernicke's area, memory), occipital (vision).\n4. Cerebellum: behind the brainstem; coordination of movement, balance, posture, muscle tone; damage → ataxia.\n5. Medulla oblongata: lowest part of brainstem; cardiac, vasomotor and respiratory centres; reflex centres for swallowing, vomiting, coughing, sneezing; crossing of motor tracts.\n6. Diagram of the brain (side view)."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of the spinal cord. Explain reflex action and the reflex arc with a diagram.",
+      "answer": "1. Spinal cord: about 45 cm, foramen magnum to L1–L2, cauda equina below; cervical and lumbar enlargements; meninges and CSF.\n2. Cross section: central H-shaped grey matter (posterior sensory horns, anterior motor horns, lateral horns), white matter tracts (ascending sensory, descending motor), central canal.\n3. 31 pairs of spinal nerves; dorsal root (sensory, with ganglion) + ventral root (motor) = mixed nerve.\n4. Functions: conduction to and from the brain; reflex centre.\n5. Reflex action: fast, automatic, involuntary response to a stimulus.\n6. Reflex arc: receptor → sensory neuron → integrating centre in the spinal cord (with or without interneuron) → motor neuron → effector. Draw it.\n7. Examples: knee jerk (monosynaptic), withdrawal reflex, plantar reflex; importance in protection and clinical testing."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare the sympathetic and parasympathetic nervous systems with their effects on various organs.",
+      "answer": "1. ANS controls involuntary organs; two-neuron pathway (preganglionic, postganglionic).\n2. Sympathetic: thoracolumbar outflow (T1–L2), ganglia near the cord (chain), short preganglionic and long postganglionic fibres, noradrenaline at organs; fight or flight.\n3. Parasympathetic: craniosacral (III, VII, IX, X, S2–S4), ganglia near/in organs, long preganglionic, short postganglionic, acetylcholine; rest and digest.\n4. Effects: pupil – dilates/constricts; heart – faster/slower; bronchi – dilate/constrict; gut – slows/increases motility and secretion; bladder – relaxes wall/contracts; salivary glands – little thick/much watery saliva; liver – glucose release/glycogen storage; sweat glands – sweating/none.\n5. Drug examples: atropine (blocks parasympathetic), adrenaline (mimics sympathetic)."
+    },
+    {
+      "id": "u7-l04",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the names and functions of the cranial nerves.",
+      "answer": "I olfactory – smell; II optic – vision; III oculomotor – eye movements, pupil constriction, eyelid; IV trochlear – superior oblique; V trigeminal – face sensation, chewing; VI abducens – lateral rectus; VII facial – facial expression, taste anterior 2/3, tears and saliva; VIII vestibulocochlear – hearing and balance; IX glossopharyngeal – taste posterior 1/3, swallowing; X vagus – parasympathetic to heart, lungs, gut, voice; XI accessory – neck and shoulder muscles; XII hypoglossal – tongue movement."
+    },
+    {
+      "id": "u7-l05",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of a neuron with a labelled diagram.",
+      "answer": "Cell body with nucleus and Nissl granules; dendrites – short branched processes carrying impulses towards the cell body; axon – single long process carrying impulses away; axon hillock; myelin sheath formed by Schwann cells with nodes of Ranvier (saltatory conduction); axon terminals with synaptic knobs releasing neurotransmitters. Types: sensory, motor, interneuron; unipolar, bipolar, multipolar."
+    },
+    {
+      "id": "u7-l06",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of the hypothalamus.",
+      "answer": "Controls the autonomic nervous system; regulates body temperature; hunger and satiety centres; thirst and water balance; produces ADH and oxytocin; releasing and inhibiting hormones control the anterior pituitary; sleep–wake rhythm; emotions and behaviour with the limbic system."
+    },
+    {
+      "id": "u7-l07",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the midbrain and basal ganglia.",
+      "answer": "Midbrain: upper brainstem; cerebral peduncles (tracts), corpora quadrigemina – superior colliculi (visual reflexes), inferior colliculi (auditory reflexes); substantia nigra (dopamine); nuclei of III and IV; relay between cerebrum and lower parts. Basal ganglia: grey masses deep in the cerebrum (caudate, putamen, globus pallidus); smooth control of voluntary movement, muscle tone, automatic movements; dopamine lack → Parkinson's disease (tremor, rigidity, slowness)."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is a reflex arc? Give one example.",
+      "answer": "The nerve pathway of a reflex action: receptor → sensory neuron → centre in the spinal cord → motor neuron → effector. Example: knee jerk (patellar reflex) or withdrawal of the hand from a hot object."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the full forms: ANS, CNS, CSF.",
+      "answer": "ANS – autonomic nervous system; CNS – central nervous system; CSF – cerebrospinal fluid."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is CSF? Give two functions.",
+      "answer": "Cerebrospinal fluid is a clear fluid made by the choroid plexuses, filling the ventricles and subarachnoid space. It cushions the brain and spinal cord against injury and carries nutrients and removes wastes."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a synapse?",
+      "answer": "The junction between two neurons (or a neuron and an effector) where the impulse is passed on by a chemical neurotransmitter such as acetylcholine."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of the eye with a labelled diagram. Explain the physiology of vision.",
+      "answer": "1. Accessory structures: eyelids, conjunctiva, lacrimal apparatus (tears with lysozyme), extrinsic muscles.\n2. Wall: fibrous (sclera, cornea), vascular (choroid, ciliary body, iris with pupil), nervous (retina with rods and cones, macula with fovea, optic disc).\n3. Contents: aqueous humour (canal of Schlemm), lens with suspensory ligaments, vitreous humour.\n4. Diagram of the eyeball (horizontal section).\n5. Vision: light → cornea → aqueous → pupil → lens → vitreous → retina; real inverted image.\n6. Photochemistry: rhodopsin in rods (vitamin A) broken by light → impulse → bipolar → ganglion cells → optic nerve → optic chiasma → optic tract → thalamus → occipital visual cortex.\n7. Accommodation: ciliary muscle contracts, lens more convex for near vision; pupil reflex.\n8. Defects: myopia (concave lens), hypermetropia (convex), presbyopia, cataract, glaucoma."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the structure of the ear with a diagram. Explain the physiology of hearing and balance.",
+      "answer": "1. External ear: pinna, external auditory canal with wax glands.\n2. Middle ear: tympanic membrane, ossicles (malleus, incus, stapes), Eustachian tube equalises pressure.\n3. Internal ear: bony and membranous labyrinth with perilymph and endolymph; cochlea with organ of Corti; vestibule (utricle, saccule); three semicircular canals.\n4. Diagram of the ear.\n5. Hearing: sound waves → canal → eardrum vibrates → ossicles amplify → oval window → fluid waves in cochlea → basilar membrane moves → hair cells of organ of Corti bend → cochlear nerve (VIII) → auditory cortex in temporal lobe; round window relieves pressure.\n6. Balance: utricle and saccule (otoliths) sense head position and linear acceleration; semicircular canals (cristae in ampullae) sense rotation; impulses → vestibular nerve → brainstem and cerebellum.\n7. Disorders: otitis media, deafness, vertigo, motion sickness."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure and functions of the skin.",
+      "answer": "Epidermis: stratified squamous keratinised; layers basale (melanocytes), spinosum, granulosum, lucidum, corneum. Dermis: connective tissue with vessels, nerves, receptors (Meissner's, Pacinian, free endings), hair follicles, sebaceous and sweat glands. Hypodermis: fat. Functions: protection, temperature regulation, sensation, vitamin D synthesis, excretion of salts in sweat, absorption of some drugs (transdermal patches), storage of fat, immunity (Langerhans cells)."
+    },
+    {
+      "id": "u8-l04",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the tongue and the sense of taste.",
+      "answer": "Muscular organ with papillae – filiform (no taste buds), fungiform, circumvallate (large, V-shaped row at the back), foliate. Taste buds contain gustatory receptor cells with taste hairs. Five tastes: sweet, sour, salty, bitter, umami. Substances dissolve in saliva → receptors → facial nerve (anterior 2/3) and glossopharyngeal nerve (posterior 1/3) → medulla → thalamus → gustatory cortex. Other functions: chewing, swallowing, speech."
+    },
+    {
+      "id": "u8-l05",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the sense of smell.",
+      "answer": "Olfactory epithelium in the roof of the nasal cavity with olfactory receptor cells (bipolar neurons with cilia), supporting and basal cells. Odour molecules dissolve in mucus → bind receptors → impulses through the cribriform plate in the olfactory nerve (I) → olfactory bulb → olfactory tract → olfactory cortex in the temporal lobe and limbic system (link with memory and emotion). Receptors adapt quickly. Loss = anosmia. Smell adds to flavour."
+    },
+    {
+      "id": "u8-l06",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare rods and cones.",
+      "answer": "Rods: about 120 million, peripheral retina, work in dim light, black-and-white vision, pigment rhodopsin (needs vitamin A); deficiency → night blindness. Cones: about 6–7 million, concentrated in the fovea, bright light, colour vision (three types – red, green, blue), sharp vision. Optic disc has neither (blind spot)."
+    },
+    {
+      "id": "u8-l07",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on common defects of vision and their correction.",
+      "answer": "Myopia: eyeball too long, image in front of the retina, distant objects blurred – concave lens. Hypermetropia: eyeball too short, image behind retina, near objects blurred – convex lens. Presbyopia: loss of lens elasticity with age – convex reading lens. Astigmatism: uneven cornea – cylindrical lens. Cataract: opaque lens – surgery. Glaucoma: raised intraocular pressure from poor aqueous drainage – pressure-lowering drops."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What do you know about glaucoma?",
+      "answer": "Glaucoma is a rise in intraocular pressure due to poor drainage of aqueous humour through the canal of Schlemm. The pressure damages the optic nerve and can cause blindness; it is treated with drops such as timolol or pilocarpine."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Name three sense organs and the cranial nerve of each.",
+      "answer": "Eye – optic nerve (II); ear – vestibulocochlear nerve (VIII); nose – olfactory nerve (I). (Tongue – facial VII and glossopharyngeal IX.)"
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is the blind spot?",
+      "answer": "The optic disc – the point where the optic nerve leaves the retina. It has no rods or cones, so an image falling on it is not seen."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the function of the Eustachian tube?",
+      "answer": "It connects the middle ear to the nasopharynx and equalises air pressure on both sides of the eardrum."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of the nephron with a labelled diagram. Explain the physiology of urine formation.",
+      "answer": "1. Nephron: functional unit, about 1 million per kidney.\n2. Parts: renal corpuscle (glomerulus + Bowman's capsule), PCT, loop of Henle (descending and ascending limbs), DCT, collecting duct; afferent and efferent arterioles; juxtaglomerular apparatus. Draw it.\n3. Glomerular filtration: plasma filtered except proteins and cells; net filtration pressure = 55 − (30 + 15) ≈ 10 mmHg; GFR 125 mL/min (180 L/day).\n4. Tubular reabsorption (about 99 %): PCT – all glucose and amino acids, most Na+, water; loop – water (descending), Na+ and Cl− (ascending); DCT – Na+ under aldosterone, Ca2+ under PTH; collecting duct – water under ADH. Renal threshold for glucose about 180 mg/dL.\n5. Tubular secretion: H+, K+, NH4+, creatinine, drugs (penicillin).\n6. Final urine about 1–1.5 L/day, pH about 6, specific gravity 1.010–1.025."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the anatomy of the urinary system. Explain the renin–angiotensin system and the process of micturition.",
+      "answer": "1. Organs: two kidneys (retroperitoneal, T12–L3; cortex, medulla with pyramids, calyces, pelvis, hilum), two ureters (peristalsis), urinary bladder (detrusor, transitional epithelium, trigone), urethra (female about 4 cm, male about 20 cm), internal and external sphincters.\n2. Renal blood flow about 1.2 L/min.\n3. RAAS: low BP or Na+ → JG cells release renin → angiotensinogen → angiotensin I → ACE (lungs) → angiotensin II → vasoconstriction, aldosterone (Na+ and water retention), thirst, ADH → BP rises; negative feedback. Drugs: ACE inhibitors, ARBs.\n4. Micturition: bladder fills → stretch receptors (urge at about 200–400 mL) → sacral centre S2–S4 → parasympathetic → detrusor contracts, internal sphincter relaxes → voluntary relaxation of the external sphincter (pudendal nerve) by higher centres → urine passed. Infants lack voluntary control."
+    },
+    {
+      "id": "u9-l03",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a brief note on the nephron.",
+      "answer": "Structural and functional unit of the kidney (about 1 million each). Renal corpuscle: glomerulus (capillary tuft between wider afferent and narrower efferent arteriole) inside Bowman's capsule (podocytes) – filtration. PCT (brush border) – most reabsorption. Loop of Henle – concentration of urine. DCT – fine adjustment, aldosterone action, secretion of K+ and H+. Collecting duct – water reabsorption under ADH. Cortical and juxtamedullary types; juxtaglomerular apparatus secretes renin."
+    },
+    {
+      "id": "u9-l04",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the renin–angiotensin–aldosterone system.",
+      "answer": "Stimulus: fall in BP, blood volume or Na+, sympathetic activity. JG cells release renin → converts angiotensinogen (liver) to angiotensin I → ACE (lungs) converts it to angiotensin II → (1) strong vasoconstriction, (2) aldosterone from adrenal cortex → Na+ and water reabsorption, K+ loss, (3) thirst, (4) ADH release. Blood volume and BP rise; renin falls (negative feedback). Importance in hypertension; ACE inhibitors and ARBs act here."
+    },
+    {
+      "id": "u9-l05",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are clearance tests? Explain their importance.",
+      "answer": "Renal clearance = volume of plasma completely cleared of a substance per minute; C = (U × V)/P. Inulin clearance (about 125 mL/min) = GFR; creatinine clearance (about 110–125 mL/min) – practical estimate of GFR; urea clearance (about 70 mL/min); PAH clearance (about 600–650 mL/min) = renal plasma flow. Importance: assess kidney function, detect early renal disease, adjust doses of drugs excreted by the kidney."
+    },
+    {
+      "id": "u9-l06",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the physiology of micturition.",
+      "answer": "Bladder fills → stretch receptors → pelvic nerves → sacral micturition centre (S2–S4) → parasympathetic impulses → detrusor contracts and internal sphincter relaxes. Sensation reaches the brain; when convenient the external sphincter (voluntary, pudendal nerve) relaxes and urine flows; otherwise the cortex inhibits the reflex. Sympathetic nerves favour storage. Disorders: incontinence, retention."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is micturition?",
+      "answer": "Micturition is the act of emptying the urinary bladder. It is a spinal reflex (sacral segments S2–S4) – the detrusor contracts and the sphincters relax – under voluntary control from the brain."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Define GFR and give its normal value.",
+      "answer": "Glomerular filtration rate is the volume of filtrate formed by both kidneys per minute; normal about 125 mL/min, i.e. about 180 litres per day."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is the renal threshold for glucose?",
+      "answer": "The blood glucose level (about 180 mg/dL) above which the tubular carriers are saturated and glucose starts appearing in urine (glycosuria)."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the parts of a nephron.",
+      "answer": "Glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule (opening into the collecting duct)."
+    },
+    {
+      "id": "u10-l01",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Name the hormones of the pituitary gland. Give their functions and disorders.",
+      "answer": "1. Pituitary: pea-sized, in sella turcica, attached to hypothalamus; 'master gland'.\n2. Anterior lobe (controlled by hypothalamic releasing hormones): GH – growth of bone and muscle, protein synthesis, raises blood glucose; TSH – thyroid hormone release; ACTH – cortisol release; FSH – follicle growth, oestrogen, spermatogenesis; LH – ovulation, corpus luteum, testosterone; prolactin – milk production.\n3. Posterior lobe (stores hormones made in hypothalamus): ADH – water reabsorption in collecting ducts, vasoconstriction; oxytocin – uterine contraction in labour, milk ejection.\n4. Disorders: GH excess – gigantism (child), acromegaly (adult); GH deficiency – dwarfism; ADH deficiency – diabetes insipidus.\n5. Feedback control by target-gland hormones."
+    },
+    {
+      "id": "u10-l02",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the hormones of the adrenal gland and the pancreas with their functions. Write a note on diabetes mellitus.",
+      "answer": "1. Adrenal cortex: zona glomerulosa – aldosterone (Na+ and water retention, K+ loss, BP); zona fasciculata – cortisol (raises glucose, anti-inflammatory, immunosuppressive, stress); zona reticularis – androgens.\n2. Adrenal medulla: adrenaline and noradrenaline – fight or flight (heart rate, BP, bronchodilation, blood glucose).\n3. Disorders: Addison's disease, Cushing's syndrome, Conn's syndrome, phaeochromocytoma.\n4. Pancreas: islets of Langerhans – α cells glucagon (raises glucose by glycogenolysis, gluconeogenesis), β cells insulin (lowers glucose, glycogen and fat synthesis), δ cells somatostatin.\n5. Diabetes mellitus: type 1 (β-cell destruction, insulin needed), type 2 (insulin resistance); polyuria, polydipsia, polyphagia, glycosuria, weight loss; complications in eyes, kidneys, nerves, vessels; normal fasting glucose 70–100 mg/dL."
+    },
+    {
+      "id": "u10-l03",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the hormones secreted by the pancreas and thyroid gland.",
+      "answer": "Pancreas (islets): insulin from β cells lowers blood glucose (uptake into cells, glycogenesis, fat synthesis); glucagon from α cells raises glucose (glycogenolysis, gluconeogenesis); somatostatin from δ cells inhibits both. Thyroid: T3 and T4 from follicular cells (need iodine) raise BMR, heat production, growth and brain development; calcitonin from C cells lowers blood calcium. Disorders: diabetes mellitus; cretinism, myxoedema, Graves' disease, goitre."
+    },
+    {
+      "id": "u10-l04",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of thyroid hormones and the disorders of the thyroid gland.",
+      "answer": "T3 and T4: increase BMR and O2 use, heat production, protein synthesis, growth and maturation of nervous system, heart rate, metabolism of carbohydrates and fats. Calcitonin lowers blood Ca2+. Disorders: cretinism (child hypothyroidism – dwarfism, mental retardation), myxoedema (adult – low BMR, weight gain, cold intolerance, puffy face), Graves' disease (hyperthyroidism – weight loss, heat intolerance, tachycardia, exophthalmos), simple goitre (iodine deficiency)."
+    },
+    {
+      "id": "u10-l05",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the parathyroid glands.",
+      "answer": "Four small glands on the back of the thyroid; secrete parathormone (PTH) when blood calcium falls. Actions: bone resorption by osteoclasts, increased Ca2+ reabsorption and phosphate excretion by the kidney, activation of vitamin D → more Ca2+ absorption from the gut. Net effect: raises blood calcium (opposes calcitonin). Hypoparathyroidism → tetany; hyperparathyroidism → high calcium, weak bones, kidney stones."
+    },
+    {
+      "id": "u10-l06",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the functions of the gonadal hormones.",
+      "answer": "Testosterone (Leydig cells): development of male organs, male secondary sexual characteristics (beard, deep voice, muscle), spermatogenesis, libido, anabolic effect. Oestrogen (ovarian follicles): female organs and secondary sexual characteristics, proliferative phase of endometrium. Progesterone (corpus luteum, placenta): secretory endometrium, maintains pregnancy, prepares breasts. Inhibin inhibits FSH; relaxin relaxes pelvic ligaments. Controlled by FSH and LH."
+    },
+    {
+      "id": "u10-s01",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is diabetes insipidus?",
+      "answer": "A disorder due to deficiency of ADH (or kidney unresponsiveness to it). The collecting ducts cannot reabsorb water, so the person passes very large volumes of dilute urine and feels great thirst."
+    },
+    {
+      "id": "u10-s02",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate Addison's disease and Cushing's syndrome.",
+      "answer": "Addison's disease is due to deficiency of adrenal cortical hormones – weakness, low BP, low blood sugar, bronze skin. Cushing's syndrome is due to excess cortisol – moon face, buffalo hump, central obesity, high BP and blood sugar."
+    },
+    {
+      "id": "u10-s03",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the hormones of the posterior pituitary.",
+      "answer": "Antidiuretic hormone (vasopressin) and oxytocin. Both are made in the hypothalamus and stored and released by the posterior pituitary."
+    },
+    {
+      "id": "u10-v01",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the hormones of the islets of Langerhans.",
+      "answer": "Glucagon (alpha cells), insulin (beta cells) and somatostatin (delta cells)."
+    },
+    {
+      "id": "u11-l01",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the anatomy of the female reproductive system with a diagram. Explain the physiology of menstruation.",
+      "answer": "1. Ovaries – ova and oestrogen, progesterone; uterine tubes – fimbriae, ampulla (fertilisation); uterus – fundus, body, cervix; wall perimetrium, myometrium, endometrium; vagina; external genitalia; mammary glands. Draw the diagram.\n2. Menstrual cycle about 28 days, menarche to menopause.\n3. Menstrual phase (days 1–5): endometrium shed with blood; hormones low.\n4. Proliferative phase (6–13): FSH → follicle grows → oestrogen → endometrium repairs and thickens.\n5. Ovulation (about day 14): LH surge → Graafian follicle ruptures.\n6. Secretory phase (15–28): corpus luteum → progesterone → endometrium thick and glandular for implantation.\n7. No fertilisation → corpus luteum degenerates → hormones fall → menstruation. Fertilisation → hCG maintains corpus luteum.\n8. Draw the hormone chart."
+    },
+    {
+      "id": "u11-l02",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the anatomy of the male reproductive system. Explain spermatogenesis and oogenesis.",
+      "answer": "1. Male organs: scrotum (cooler temperature), testes (seminiferous tubules, Sertoli and Leydig cells), epididymis (maturation and storage), vas deferens, seminal vesicles (fructose), ejaculatory ducts, prostate, bulbourethral glands, urethra, penis. Draw the diagram.\n2. Spermatogenesis in seminiferous tubules from puberty: spermatogonium (2n) → mitosis → primary spermatocyte (2n) → meiosis I → 2 secondary spermatocytes (n) → meiosis II → 4 spermatids → spermiogenesis → 4 sperm; controlled by FSH and testosterone.\n3. Sperm: head with acrosome and nucleus, middle piece with mitochondria, tail.\n4. Oogenesis: oogonia → primary oocytes before birth (arrested in prophase I) → from puberty each month meiosis I → secondary oocyte + first polar body → ovulation → meiosis II only after fertilisation → ovum + second polar body.\n5. One spermatocyte gives 4 sperm; one oocyte gives 1 ovum; oogenesis stops at menopause."
+    },
+    {
+      "id": "u11-l03",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on menstruation.",
+      "answer": "Monthly shedding of the functional endometrium with bleeding (days 1–5) when the corpus luteum degenerates and oestrogen and progesterone fall. Part of the 28-day menstrual cycle: menstrual, proliferative (FSH, oestrogen), ovulation (LH surge, day 14), secretory (progesterone). Begins at menarche, stops at menopause and in pregnancy (hCG keeps the corpus luteum). Disorders: amenorrhoea, dysmenorrhoea, menorrhagia."
+    },
+    {
+      "id": "u11-l04",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe pregnancy and parturition.",
+      "answer": "Fertilisation in the ampulla → zygote → cleavage → blastocyst → implantation (day 6–7) → placenta and umbilical cord. Placenta: exchange of gases, nutrients, wastes, antibodies; hormones hCG, oestrogen, progesterone. Pregnancy about 40 weeks. Parturition: stretch of cervix → oxytocin (positive feedback) and prostaglandins → stronger contractions. Stages: dilation of cervix, expulsion of baby, expulsion of placenta. Lactation follows (prolactin, oxytocin)."
+    },
+    {
+      "id": "u11-l05",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe spermatogenesis.",
+      "answer": "Formation of sperm in the seminiferous tubules from puberty. Spermatogonia (2n) multiply by mitosis → primary spermatocyte (2n) → meiosis I → two secondary spermatocytes (n) → meiosis II → four spermatids (n) → spermiogenesis (acrosome, tail, loss of cytoplasm) → spermatozoa. Sertoli cells nourish; FSH and testosterone stimulate; takes about 64–74 days. Sperm carry X or Y chromosome."
+    },
+    {
+      "id": "u11-l06",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the functions of the placenta.",
+      "answer": "Exchange of O2 and CO2 between mother and fetus; supply of nutrients; removal of fetal wastes; passage of maternal IgG antibodies; barrier to many microbes and drugs (not all); endocrine function – hCG, oestrogen, progesterone, human placental lactogen. Maternal and fetal blood do not mix."
+    },
+    {
+      "id": "u11-s01",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is parturition?",
+      "answer": "Parturition is the process of giving birth at the end of pregnancy. Oxytocin-driven uterine contractions (positive feedback) open the cervix and expel the baby and then the placenta."
+    },
+    {
+      "id": "u11-s02",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is ovulation?",
+      "answer": "Release of the secondary oocyte from a mature Graafian follicle of the ovary, about day 14 of a 28-day cycle, triggered by the LH surge."
+    },
+    {
+      "id": "u11-s03",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is the role of hCG?",
+      "answer": "Human chorionic gonadotropin is made by the early embryo/placenta. It keeps the corpus luteum active so progesterone stays high and menstruation stops; its presence in urine is the basis of the pregnancy test."
+    },
+    {
+      "id": "u11-v01",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is menopause?",
+      "answer": "The permanent stopping of menstruation and ovulation, usually at about 45–50 years of age."
+    }
+  ]
+}
