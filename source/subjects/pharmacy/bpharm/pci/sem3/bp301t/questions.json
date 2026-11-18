@@ -1,0 +1,590 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "State Hückel's rule and apply it to three compounds.",
+      "answer": "Cyclic, planar, fully conjugated with (4n+2) π e−. Benzene 6 (aromatic), cyclobutadiene 4 (antiaromatic), cyclopentadienyl anion 6 (aromatic)."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the limitations of Friedel–Crafts alkylation.",
+      "answer": "Polyalkylation, carbocation rearrangement (n-propyl → cumene), fails on deactivated rings and –NH2 rings, aryl/vinyl halides don't react, reversible."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the mechanism of nitration of benzene.",
+      "answer": "HNO3 + 2H2SO4 → NO2+; ring attacks NO2+ → σ-complex; HSO4− removes H+ → nitrobenzene."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the orbital structure of benzene.",
+      "answer": "sp2 carbons, 120°, planar; six p orbitals overlap → π clouds above and below; delocalised 6 e−."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Synthesis and uses of saccharin.",
+      "answer": "Toluene → ClSO3H → NH3 → KMnO4 → heat (–H2O). Sweetener 300–500× sugar for diabetics."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Why are halogens deactivating but o/p directing?",
+      "answer": "–I lowers ring electron density (slower); lone pairs (+R) stabilise o/p σ-complex."
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Prove benzene's extra stability (resonance energy).",
+      "answer": "Expected ΔH hydrogenation 85.8, found 49.8 kcal/mol → 36 kcal/mol resonance energy."
+    },
+    {
+      "id": "u1-s08",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Structure and uses of DDT and BHC.",
+      "answer": "DDT: chlorobenzene + chloral (H2SO4), insecticide. BHC: benzene + 3Cl2 in UV, γ-isomer lindane for scabies/lice."
+    },
+    {
+      "id": "u1-s09",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on chloramine-T.",
+      "answer": "Sodium N-chloro-p-toluenesulfonamide; from p-toluenesulfonamide + NaOCl; releases active Cl; antiseptic, disinfectant."
+    },
+    {
+      "id": "u1-s10",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Sulfonation is reversible — explain with use.",
+      "answer": "SO3 electrophile; dilute acid/steam removes –SO3H; used as a blocking group."
+    },
+    {
+      "id": "u1-s11",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Why is cyclooctatetraene non-aromatic?",
+      "answer": "Tub-shaped (not planar), 8 π e− (4n); behaves like an alkene."
+    },
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the effect of substituents on reactivity and orientation in EAS, with examples.",
+      "answer": "Define I and R effects; classify groups (see the notes); draw σ-complex resonance for anisole (o/p) and nitrobenzene (meta); halogen exception; toluene hyperconjugation."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of benzene: Kekulé, resonance and orbital picture, with evidence.",
+      "answer": "Kekulé + 4 objections; bond length 1.39 Å; resonance hybrid; sp2 orbital diagram; resonance energy calculation; aromaticity rules."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Give the general EAS mechanism and explain nitration, sulfonation, halogenation and Friedel–Crafts reactions.",
+      "answer": "3-step mechanism + energy diagram; electrophile generation and equation for each; FC limitations; acylation advantages."
+    },
+    {
+      "id": "u1-l04",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write the synthesis, structure and uses of DDT, saccharin, BHC and chloramine-T.",
+      "answer": "One labelled equation and 2–3 uses each; mention bans/toxicity for DDT and BHC."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the acidity of phenol and the effect of substituents.",
+      "answer": "Phenoxide resonance-stabilised; EWG (–NO2) increase, EDG (–CH3) decrease acidity; picric > p-nitro > m-nitro > phenol > cresol."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Why is aniline a weaker base than ammonia?",
+      "answer": "N lone pair delocalised into ring; anilinium loses this resonance; sp2 carbon –I."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write any four synthetic uses of benzenediazonium chloride.",
+      "answer": "Sandmeyer (CuCl → ArCl, CuCN → ArCN), KI → ArI, H2O → phenol, H3PO2 → benzene, coupling → azo dyes."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give qualitative tests for phenol.",
+      "answer": "FeCl3 violet; Br2 water white ppt; Liebermann nitroso green→red→blue; phthalein pink."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Structure and uses of cresol, resorcinol and naphthols.",
+      "answer": "Cresol = methylphenol, disinfectant (Lysol); resorcinol = 1,3-diOH, keratolytic; α/β-naphthol: Molisch test, azo dyes."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is diazotisation? Why is it done at 0–5 °C?",
+      "answer": "ArNH2 + NaNO2/HCl → ArN2+Cl−; above 5 °C it loses N2 to phenol."
+    },
+    {
+      "id": "u2-s07",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare acidity of benzoic acid, phenol and acetic acid.",
+      "answer": "Benzoic (4.2) > acetic (4.76) > phenol (10); two equivalent O in carboxylate; phenyl –I."
+    },
+    {
+      "id": "u2-s08",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the ortho effect.",
+      "answer": "Ortho group twists COOH out of plane → benzoic acids stronger; crowds NH3+ → anilines weaker."
+    },
+    {
+      "id": "u2-s09",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Kolbe–Schmidt and Reimer–Tiemann reactions.",
+      "answer": "Phenoxide + CO2 → salicylic acid; phenol + CHCl3/NaOH → salicylaldehyde via :CCl2."
+    },
+    {
+      "id": "u2-s10",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Why does phenol not react with NaHCO3?",
+      "answer": "Phenol (pKa 10) is weaker than H2CO3 (6.4), so cannot release CO2."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the preparation of diazonium salts and their synthetic applications.",
+      "answer": "Diazotisation equation + mechanism; stability at 0–5 °C; full diazonium wheel with named reactions; coupling conditions; drug links (prontosil, Bratton–Marshall)."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain acidity of phenols and basicity of aromatic amines with effect of substituents.",
+      "answer": "Phenoxide and aniline resonance; pKa/pKb tables; o/m/p nitro comparison; H-bond in o-nitrophenol; ortho effect."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the acidity of benzoic acid, effect of substituents, and its reactions and uses.",
+      "answer": "Benzoate resonance; substituent pKa table; ortho effect; reaction table; FeCl3 test; preservative uses."
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write structure, tests and uses of phenol, cresols, resorcinol and naphthols.",
+      "answer": "Structures; tests table; uses table with pharmacy examples."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define iodine value; give its principle, method and significance.",
+      "answer": "g I2 absorbed per 100 g fat; halogen adds to C=C; Wijs ICl, KI, thiosulfate titration; measures unsaturation, classifies drying oils."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define saponification value and give its significance.",
+      "answer": "mg KOH to saponify 1 g fat; reflux with alcoholic KOH, back-titrate with HCl; inversely related to molecular weight; detects adulteration."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is rancidity? Give its types and prevention.",
+      "answer": "Bad smell/taste on storage; hydrolytic, oxidative, ketonic; prevent with cool dark airtight storage and antioxidants (BHA, BHT, vitamin E)."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define acid value and give its significance.",
+      "answer": "mg KOH to neutralise free FA in 1 g; titrate in ethanol–ether with KOH; high value = rancid/poor quality."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on Reichert–Meissl value.",
+      "answer": "mL 0.1 N alkali for steam-volatile water-soluble FA from 5 g; high in butter (17–35); detects ghee adulteration."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain hydrogenation of oils with its importance.",
+      "answer": "H2 + Ni at 180 °C adds to C=C; oil → solid fat (vanaspati); lowers IV, improves keeping; trans fats concern."
+    },
+    {
+      "id": "u3-s07",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain saponification with equation.",
+      "answer": "Triglyceride + 3 NaOH → glycerol + 3 soap; Na soap hard, K soap soft."
+    },
+    {
+      "id": "u3-s08",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define acetyl value and ester value.",
+      "answer": "Acetyl: mg KOH for acetic acid from 1 g acetylated fat → free –OH (castor high). Ester = SV − AV."
+    },
+    {
+      "id": "u3-s09",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Classify fatty acids with examples.",
+      "answer": "Saturated (palmitic, stearic), unsaturated (oleic, linoleic, linolenic), hydroxy (ricinoleic); essential FA."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define and explain the principle, method and significance of acid value, saponification value, iodine value and RM value.",
+      "answer": "Four structured blocks (definition → principle → method → formula → meaning) + typical values table."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the chemical reactions of fats and oils: hydrolysis, hydrogenation, saponification and rancidity.",
+      "answer": "Equations for each; rancidity types table + autoxidation steps; antioxidants; pharmaceutical relevance."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write about fatty acids and the analytical constants used to evaluate oils.",
+      "answer": "Fatty acid table; then all six constants briefly with significance."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write Haworth synthesis of naphthalene.",
+      "answer": "Benzene + succinic anhydride (AlCl3) → Clemmensen → H2SO4 ring closure → Clemmensen → Se dehydrogenation."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Why does naphthalene undergo EAS at the α-position?",
+      "answer": "α-attack σ-complex has two resonance forms keeping one ring benzenoid; β has one; more stable → faster."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the synthesis and reactions of anthracene.",
+      "answer": "Benzene + phthalic anhydride → o-benzoylbenzoic acid → H2SO4 → anthraquinone → Zn dust. Reactions at C9/C10: oxidation, reduction, Br2, Diels–Alder."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Synthesis and uses of triphenylmethane.",
+      "answer": "3 C6H6 + CHCl3 (AlCl3) or Grignard; trityl ion/radical; dyes (gentian violet, malachite green), clotrimazole."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Synthesis and reactions of diphenylmethane.",
+      "answer": "Benzene + benzyl chloride (AlCl3); oxidation → benzophenone; benzhydryl antihistamines."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the structure, synthesis and medicinal importance of phenanthrene.",
+      "answer": "Angular C14H10; Haworth or Pschorr; reactions at 9,10; steroid nucleus and morphine."
+    },
+    {
+      "id": "u4-s07",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain sulfonation of naphthalene at 80 °C and 160 °C.",
+      "answer": "Kinetic 1-sulfonic acid at 80 °C; thermodynamic 2-sulfonic acid at 160 °C (no peri strain)."
+    },
+    {
+      "id": "u4-s08",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Compare anthracene and phenanthrene.",
+      "answer": "Both C14H10; linear vs angular; phenanthrene more stable (92 vs 84 kcal/mol, 5 vs 4 resonance forms); both react at 9,10."
+    },
+    {
+      "id": "u4-s09",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write Gomberg's free radical.",
+      "answer": "Trityl chloride + Ag/Zn → (C6H5)3C•, stabilised by resonance over three rings."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss structure, synthesis and chemical reactions of naphthalene with medicinal uses.",
+      "answer": "Numbering diagram, resonance, bond lengths; Haworth synthesis; reactions table with α-preference explanation and sulfonation temperature; drugs list."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write the synthesis and reactions of anthracene and phenanthrene.",
+      "answer": "Both structures; anthraquinone route and Haworth/Pschorr; 9,10 reactions; medicinal importance (laxatives, anthracyclines, steroids)."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the synthesis, reactions and uses of diphenylmethane and triphenylmethane.",
+      "answer": "Friedel–Crafts and Grignard routes; benzylic reactions; trityl cation/anion/radical; dyes and drugs."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "State Baeyer's strain theory and give its limitations.",
+      "answer": "Flat rings; d = ½(109°28' − α); cyclopropane most strained. Fails: cyclohexane most stable, large rings stable, rings not flat, ignores torsional strain."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain Coulson–Moffitt's concept of banana bonds.",
+      "answer": "Hybrid orbitals can't close below ~104°; overlap outside the internuclear line → bent, weak bonds → easy ring opening; less strain than Baeyer predicted."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Draw and compare chair and boat forms of cyclohexane.",
+      "answer": "Chair: staggered, no strain, most stable. Boat: eclipsed bonds + flagpole H clash, 6.9 kcal/mol higher."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the Sachse–Mohr theory of strainless rings.",
+      "answer": "Rings ≥ 6 puckered, keep 109°28'; chair/boat; Mohr predicted cis/trans decalin; Hückel isolated both."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give methods of preparation and reactions of cyclopropane.",
+      "answer": "Freund (1,3-dibromopropane + Zn), malonic ester, Simmons–Smith; ring-opening with H2, Br2, HBr, H2SO4; no KMnO4 reaction."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain axial and equatorial bonds; why is methylcyclohexane equatorial?",
+      "answer": "6 axial (up/down), 6 equatorial (outward); axial CH3 suffers 1,3-diaxial interactions (~1.7 kcal/mol)."
+    },
+    {
+      "id": "u5-s07",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate angle strain for cyclopropane and cyclobutane.",
+      "answer": "½(109°28' − 60°) = 24°44'; ½(109°28' − 90°) = 9°44'."
+    },
+    {
+      "id": "u5-s08",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Name given cycloalkanes by IUPAC rules.",
+      "answer": "Prefix cyclo-, lowest locants, alphabetical order, cis/trans."
+    },
+    {
+      "id": "u5-s09",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Compare reactivity of cyclopropane and cyclobutane.",
+      "answer": "Cyclopropane opens with Br2/HBr at room temp; cyclobutane needs heat; due to higher strain in cyclopropane."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss Baeyer's strain theory with its limitations, Coulson–Moffitt modification and Sachse–Mohr theory.",
+      "answer": "Postulates, formula and deviation table; heat-of-combustion evidence; 5 limitations; banana bond diagram; strainless rings, decalin proof."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain conformational analysis of cyclohexane and its derivatives.",
+      "answer": "Chair, boat, twist-boat, half-chair with energies; ring flip; axial/equatorial; methylcyclohexane; disubstituted table."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write methods of preparation and chemical reactions of cyclopropane and cyclobutane, explaining their stability.",
+      "answer": "Freund, malonic ester, Simmons–Smith; reaction comparison table; strain-based explanation."
+    }
+  ]
+}

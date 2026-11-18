@@ -1,0 +1,51 @@
+{
+  "id": "degree",
+  "name": "Degree courses",
+  "programmes": [
+    {
+      "id": "ba",
+      "name": "B.A.",
+      "level": "undergraduate",
+      "examBodyId": "hpu",
+      "schemes": [
+        {
+          "id": "current",
+          "name": "Current scheme",
+          "termKind": "semester",
+          "status": "not-sourced",
+          "terms": []
+        }
+      ]
+    },
+    {
+      "id": "bsc",
+      "name": "B.Sc",
+      "level": "undergraduate",
+      "examBodyId": "hpu",
+      "schemes": [
+        {
+          "id": "current",
+          "name": "Current scheme",
+          "termKind": "semester",
+          "status": "not-sourced",
+          "terms": []
+        }
+      ]
+    },
+    {
+      "id": "bcom",
+      "name": "B.Com",
+      "level": "undergraduate",
+      "examBodyId": "hpu",
+      "schemes": [
+        {
+          "id": "current",
+          "name": "Current scheme",
+          "termKind": "semester",
+          "status": "not-sourced",
+          "terms": []
+        }
+      ]
+    }
+  ]
+}

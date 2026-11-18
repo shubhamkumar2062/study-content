@@ -1,0 +1,27 @@
+{
+  "title": "Written questions of one subject (questions.json)",
+  "type": "object",
+  "required": ["questions"],
+  "additionalProperties": false,
+  "properties": {
+    "probabilityNote": { "type": "string" },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "unit", "type", "marks", "probability", "question", "answer"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "unit": { "type": "integer", "minimum": 1, "maximum": 20 },
+          "type": { "enum": ["short", "long", "very-short"] },
+          "marks": { "type": "integer", "minimum": 1, "maximum": 20 },
+          "probability": { "enum": ["high", "medium", "low"] },
+          "question": { "type": "string", "minLength": 5 },
+          "answer": { "type": "string", "minLength": 5 },
+          "tags": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}
