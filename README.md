@@ -76,6 +76,8 @@ JSON is written with sorted keys and no extra spaces, so unchanged content alway
 
 Base URL: `https://<github-user>.github.io/<repo>/v1/` (or a custom domain pointed at Pages).
 
+Backup URL, used by the app only when the main one fails: `https://cdn.jsdelivr.net/gh/<github-user>/<repo>@published/v1/`. The publish workflow copies the built files to the `published` branch on every change and clears jsDelivr's cache for the changed files.
+
 | Request | When |
 | --- | --- |
 | `manifest.json` | at launch and about once a day |
