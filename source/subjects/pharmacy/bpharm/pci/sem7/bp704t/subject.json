@@ -1,0 +1,48 @@
+{
+  "code": "BP704T",
+  "title": "Novel Drug Delivery System",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP704T Novel Drug Delivery Systems",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP704T_B.Pharma-pages-37.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Controlled drug delivery systems and polymers",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Microencapsulation, mucosal and implantable drug delivery systems",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Transdermal, gastroretentive and nasopulmonary drug delivery systems",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Targeted drug delivery",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Ocular and intrauterine drug delivery systems",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

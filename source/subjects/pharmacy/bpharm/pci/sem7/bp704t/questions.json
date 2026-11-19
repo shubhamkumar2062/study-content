@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define controlled drug delivery systems. Give the rationale, advantages and disadvantages, and the criteria for selecting a drug candidate for controlled release.",
+      "answer": "1. Definition: a dosage form that releases drug at a predetermined rate for a set period to keep a nearly constant level in blood or tissue; ideal release is zero order.\n2. Terms: sustained release (slow, not necessarily constant), controlled release (predictable, zero order), delayed release (enteric), repeat action, targeted release.\n3. Rationale: short half-life drugs need frequent doses; conventional forms cause peaks (near toxic level) and troughs (below MEC); CR keeps the level inside the therapeutic window.\n4. Advantages: fewer doses and better compliance; steady levels; fewer peak-related side effects; less total drug; night-time cover; better control of chronic disease; lower overall cost of care.\n5. Disadvantages: dose dumping; dose cannot be adjusted or tablet split; drug cannot be removed quickly if toxic; costly; poor IVIVC for some; gut transit limits oral release to 12–24 h.\n6. Drug selection: half-life about 2–8 h; small to moderate dose; reasonably wide therapeutic index; good absorption along the whole gut (no narrow window); moderate solubility; stable in gut fluids; low or non-saturable first-pass metabolism; effect related to plasma level.\n7. Unsuitable: very short (<1 h) or long (>12 h) half-life, large dose, narrow therapeutic index, absorption window, acid-labile drugs.\n8. Diagram: plasma level vs time for conventional (peaks and troughs) and CR (flat line between MEC and MTC).\n9. Examples: theophylline, nifedipine, diltiazem, metformin, potassium chloride SR products."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe diffusion-controlled, dissolution-controlled and ion-exchange approaches to the design of controlled-release formulations with equations and diagrams.",
+      "answer": "1. Diffusion follows Fick's first law J = −D dC/dx.\n2. Reservoir (membrane) system: drug core inside insoluble membrane (ethyl cellulose, EVA); dM/dt = ADKΔC/L (A area, D diffusion coefficient, K partition coefficient, ΔC concentration difference, L thickness); zero order while core saturated; risk of dose dumping if membrane ruptures; diagram of core + membrane.\n3. Matrix (monolithic) system: drug dispersed in polymer (HPMC, EC, wax); release follows Higuchi Q = [D(2A − Cs)Cs t]^½ = kH√t; porous matrix Q = [(Dε/τ)(2A − εCs)Cs t]^½; easy to make, no rupture risk, rate falls with time. Hydrophobic (pores) and hydrophilic (gel layer) matrices.\n4. Dissolution-controlled: Noyes–Whitney dC/dt = DA(Cs − C)/h. (a) Encapsulation: beads coated with slowly dissolving coats of different thickness give staggered release. (b) Matrix: drug in slowly dissolving wax or fat; release depends on surface erosion.\n5. Combined: insoluble polymer + pore former (EC + HPMC/PEG); pores form and drug diffuses through them.\n6. Ion exchange: cross-linked resin with ionisable groups; cation exchanger (–SO3⁻) binds basic drugs, anion exchanger (–NR3⁺) binds acidic drugs; drug released on exchange with Na⁺/Cl⁻ of gut fluid; rate depends on ion concentration, particle size, cross-linking; coating the drug–resin complex with ethyl cellulose gives SR suspensions; also masks taste.\n7. Mention others: osmotic pumps, hydrogels, gastroretentive systems.\n8. Conclude with a comparison table of release order: reservoir zero, matrix √t, dissolution depends on surface area."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify polymers used in controlled drug delivery. Discuss their properties, advantages and applications with examples.",
+      "answer": "1. Definition: large molecules made of repeating monomer units; form membranes, matrices, coats and carriers.\n2. By origin: natural (gelatin, albumin, alginate, chitosan, starch, guar, xanthan, pectin, hyaluronic acid); semisynthetic (HPMC, MC, EC, Na CMC, cellulose acetate, CAP); synthetic (Eudragit, PVA, PVP, PEG, PLA, PLGA, PCL, polyanhydrides, EVA, silicone, carbomer).\n3. By degradation: biodegradable (PLA, PLGA, PCL, polyanhydrides, polyorthoesters, chitosan, gelatin) vs non-biodegradable (EC, EVA, silicone, PMMA).\n4. By water interaction: soluble (PEG, PVP), hydrogels (HPMC, pHEMA, carbomer), insoluble (EC, EVA, silicone).\n5. By structure: homopolymer, copolymer (random, block, graft); linear, branched, cross-linked. Smart polymers: pH (Eudragit L/S, CAP), temperature (poloxamer 407, PNIPAAm), ions (gellan, alginate).\n6. Properties: molecular weight, Tg (glassy vs rubbery), crystallinity, solubility and swelling, permeability, erosion type (bulk PLGA vs surface polyanhydrides), biocompatibility, mechanical strength, film formation, compatibility, cost.\n7. Ideal polymer: inert, non-toxic, biocompatible, easy to process and sterilise, gives desired release, stable, safe degradation products, cheap.\n8. Advantages: controllable release rate, protection of drug, taste masking, targeting, no removal needed if biodegradable.\n9. Applications table: HPMC matrices; EC membranes; Eudragit L/S enteric, RL/RS SR, E taste masking; carbomer mucoadhesive; PLGA microspheres and implants; EVA ocular inserts and rings; silicone implants and IUDs; cellulose acetate osmotic membranes; alginate/chitosan beads and rafts; polyanhydride wafers."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between sustained release and controlled release dosage forms.",
+      "answer": "| Point | Sustained release | Controlled release |\n|---|---|---|\n| Release | Slow, prolonged, often first order | Predetermined, reproducible, ideally zero order |\n| Plasma level | Prolonged but not constant | Nearly constant within therapeutic window |\n| Control | Mainly duration | Rate and duration (sometimes site) |\n| Effect of body | More affected by GI pH, motility | Largely independent of body conditions |\n| Examples | Matrix SR tablets | Osmotic pumps, transdermal patches, implants |\nBoth reduce dosing frequency and improve compliance; all CR products are sustained, but not all SR products are controlled."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the physicochemical properties of drugs that influence the design of controlled-release formulations.",
+      "answer": "1. Dose size: total dose for the interval must fit one unit; very large doses unsuitable.\n2. Aqueous solubility: very low solubility already limits release; very high solubility is hard to slow; solubility changes with pH along the gut.\n3. pKa and ionisation: un-ionised form absorbed; pH-dependent solubility gives pH-dependent release.\n4. Partition coefficient: moderate log P best; affects diffusion through membranes and polymers.\n5. Stability: acid- or enzyme-labile drugs unsuitable for slow release along the gut.\n6. Molecular size: diffusivity falls with size; peptides need porous or biodegradable systems.\n7. Protein binding: highly bound drugs already long acting."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the equations for zero-order, first-order and Higuchi release kinetics. How is the release mechanism identified from dissolution data?",
+      "answer": "1. Zero order: Q = Q0 + k0t; plot amount released vs t is linear; t1/2 = Q0/2k0; reservoir, osmotic, transdermal systems.\n2. First order: ln(100 − Q) = ln100 − k1t; log % remaining vs t linear; t1/2 = 0.693/k1.\n3. Higuchi: Q = kH√t (from Q = [D(2A − Cs)Cs t]^½); amount released vs √t linear; matrix systems.\n4. Korsmeyer–Peppas: Mt/M∞ = ktⁿ; log–log plot gives n; slab n = 0.5 Fickian, 0.5–1 anomalous, 1 case II (zero order).\n5. Data are fitted to each model and the one with highest r² is chosen; n tells the mechanism. Example: data giving r² 0.971 (zero), 0.988 (first), 0.99997 (Higuchi) and n = 0.50 → Fickian diffusion from a matrix."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "A matrix tablet releases 25% of its drug in the first hour following Higuchi kinetics. Calculate the percentage released at 4 h and 9 h and the time for complete release. Also find the half-life of a first-order system with k = 0.1 h⁻¹.",
+      "answer": "1. Higuchi: Q = kH√t; at 1 h Q = 25%, so kH = 25 % h^−½.\n2. At 4 h: Q = 25 × √4 = 50%.\n3. At 9 h: Q = 25 × √9 = 75%.\n4. Complete release: 100 = 25√t → √t = 4 → t = 16 h.\n5. First order: t1/2 = 0.693/k = 0.693/0.1 = 6.93 h; fraction remaining after 12 h = e^(−1.2) = 0.301, so about 70% released.\n6. Note: in Higuchi release, four times the time is needed to double the amount released."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the ion-exchange resin approach to controlled release.",
+      "answer": "1. Ion-exchange resins: water-insoluble cross-linked polymers with ionisable groups.\n2. Cation exchangers (sulfonic acid, –SO3⁻) bind basic drugs; anion exchangers (quaternary ammonium) bind acidic drugs.\n3. Release: Resin–SO3⁻ Drug-H⁺ + Na⁺ → Resin–SO3⁻ Na⁺ + Drug-H⁺ (and the anion equivalent with Cl⁻) in gut fluids.\n4. Rate depends on ionic strength of fluid, resin particle size, degree of cross-linking, drug loading; not on enzymes.\n5. Coated drug–resin complexes (impregnated with PEG then coated with ethyl cellulose, the Pennkinetic approach) give liquid SR suspensions, for example dextromethorphan polistirex.\n6. Additional use: taste masking and better stability."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the biological properties of drugs relevant to controlled-release formulations.",
+      "answer": "1. Absorption: absorption rate must exceed release rate; drugs with an absorption window in the upper gut are poor candidates for oral CR.\n2. Distribution: large Vd and tissue binding influence the amount to be released.\n3. Metabolism: saturable first-pass or self-inducing metabolism makes slow input unpredictable.\n4. Elimination half-life: ideal about 2–8 h; very short needs too much drug, long gives little benefit.\n5. Duration of action: long pharmacological action reduces need for CR.\n6. Therapeutic index: narrow index makes dose dumping dangerous.\n7. Side effects linked to peaks are reduced by CR.\n8. Disease state and circadian rhythm (nocturnal asthma, morning hypertension) may need timed release."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define therapeutic window.",
+      "answer": "The range of plasma concentration between the minimum effective concentration (MEC) and the minimum toxic concentration (MTC); controlled release aims to keep the level within it."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is dose dumping?",
+      "answer": "Sudden release of a large part of the drug from a controlled-release product (for example due to a ruptured membrane, chewing or alcohol), which can cause toxicity."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define microencapsulation. Discuss its advantages and describe the coacervation–phase separation, solvent evaporation and air suspension methods of microencapsulation.",
+      "answer": "1. Definition: coating of small solids, liquids or gases (core) with a continuous polymer film (wall) to give particles about 1–1000 µm; microcapsules (reservoir) vs microspheres (matrix).\n2. Advantages: sustained release, taste masking, liquids to powders, protection from moisture/light/oxygen, less gastric irritation (KCl, aspirin), separation of incompatibles, reduced volatility, depot injections (PLGA), targeting.\n3. Coacervation–phase separation: three steps — (i) formation of three immiscible phases (vehicle, core, coating), (ii) deposition of liquid coacervate on core, (iii) rigidisation by heat, cross-linking or desolvation. Induced by temperature change, incompatible polymer, non-solvent, salt (simple coacervation of gelatin with sodium sulfate) or polymer–polymer interaction (complex coacervation of gelatin + acacia at pH about 4–4.5).\n4. Solvent evaporation: polymer (PLGA, EC) in volatile solvent (dichloromethane) with drug → emulsified in water with PVA → solvent evaporated → microspheres filtered, washed, dried; w/o/w for water-soluble drugs.\n5. Air suspension (Wurster): solid cores fluidised in upward warm air in a vertical chamber; coating sprayed from the bottom of a partition column; particles cycle through spray and drying zones until the desired coat thickness.\n6. Diagram of Wurster column and microcapsule vs microsphere.\n7. Mention other methods: pan coating, spray drying/congealing, ionic gelation, interfacial polymerisation, multi-orifice centrifugal.\n8. Evaluation: yield, size, SEM, encapsulation efficiency, release."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is mucoadhesion? Explain the theories and factors affecting mucoadhesion, and discuss the formulation considerations of buccal drug delivery systems.",
+      "answer": "1. Definitions: bioadhesion = attachment to a biological surface; mucoadhesion = attachment to mucus-covered surface. Mucus contains negatively charged mucin glycoproteins.\n2. Stages: contact stage (wetting and swelling) and consolidation stage (chain interpenetration, weak bonds).\n3. Theories: electronic (electron transfer, double layer), adsorption (H-bonds, van der Waals), wetting (spreading, contact angle), diffusion (interpenetration of chains), fracture (force of separation), mechanical (interlocking in rough surfaces).\n4. Factors: polymer molecular weight, chain flexibility, cross-linking, H-bonding groups, concentration, swelling, charge; pH, contact time, applied pressure; mucin turnover and disease.\n5. Polymers: carbomer, polycarbophil, Na CMC, sodium alginate, chitosan, HPMC, HPC, PVP; thiomers and lectins.\n6. Buccal mucosa: non-keratinised; transcellular and paracellular routes; enhancers (bile salts, SLS, fatty acids, EDTA, cyclodextrins).\n7. Ideal drug: small dose, no bitter taste, non-irritant, stable at mouth pH, high first-pass metabolism orally.\n8. Buccal patch: backing (EC) + drug/mucoadhesive layer + plasticiser + enhancer; unidirectional release; diagram.\n9. Evaluation: thickness, weight, content uniformity, surface pH, swelling, folding endurance, mucoadhesive strength, residence time, in vitro release, ex vivo permeation (Franz cell).\n10. Advantages: bypass first-pass, quick removal, local and systemic action; limitations: small area, saliva wash-out, restrictions on eating."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define implantable drug delivery systems. Classify them, give advantages and disadvantages, and explain the principle and components of the osmotic pump.",
+      "answer": "1. Definition: sterile devices placed under skin, in muscle or a body cavity to release drug for weeks to years.\n2. Classification: non-biodegradable reservoir (silicone levonorgestrel capsules) and matrix (EVA etonogestrel rod); biodegradable (PLGA goserelin implant, polyanhydride carmustine wafer); pump-type (osmotic — Alzet, DUROS; infusion; vapour pressure); in situ forming implants.\n3. Advantages: long action, compliance, no first-pass, local delivery, low dose, removal possible for non-degradable types.\n4. Disadvantages: surgery or trocar, pain, infection, migration, no dose change, dose dumping risk, cost, polymer toxicity.\n5. Osmotic pump principle: water enters through a semipermeable membrane by osmosis, dissolves drug and osmogen, and the saturated solution is pushed out through an orifice; while solid drug remains, release is zero order.\n6. Rate: dM/dt = (Ak/h)(Δπ − ΔP)Cs.\n7. Components: drug, osmogen (NaCl, KCl, mannitol), semipermeable membrane (cellulose acetate), plasticiser/flux regulator (PEG), push layer (polyethylene oxide) in push–pull systems, laser-drilled orifice.\n8. Types: elementary osmotic pump (water-soluble drugs), push–pull (poorly soluble, nifedipine GITS), implantable Alzet and DUROS.\n9. Diagram of EOP."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between microcapsules and microspheres.",
+      "answer": "| Point | Microcapsules | Microspheres |\n|---|---|---|\n| Structure | Reservoir: core enclosed in a distinct wall | Matrix: drug dispersed throughout polymer |\n| Drug location | Core | Uniformly distributed |\n| Release | Often zero order through wall | Usually √t (Higuchi) or erosion |\n| Risk | Dose dumping if wall breaks | No wall rupture risk |\n| Methods | Coacervation, Wurster, interfacial polymerisation | Solvent evaporation, spray drying, ionic gelation |\nBoth are about 1–1000 µm and are evaluated for size, morphology, entrapment and release."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain complex coacervation with an example.",
+      "answer": "1. Phase separation produced by interaction of two oppositely charged colloids.\n2. Classic pair: gelatin (positive below its isoelectric point) and gum acacia (negative).\n3. Procedure: core dispersed in warm gelatin + acacia solution → pH lowered to about 4–4.5 and diluted with warm water → the two polymers combine to form a coacervate that coats core droplets → cooled to gel the wall → hardened by cross-linking → washed and dried.\n4. Used for oils, flavours, vitamins and drugs; also the basis of carbonless copy paper."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the elementary osmotic pump.",
+      "answer": "1. Core of water-soluble drug with or without osmogen (NaCl), coated with semipermeable cellulose acetate membrane, with a laser-drilled orifice.\n2. Water enters by osmosis, forms saturated solution inside, which is pushed out through the orifice.\n3. Release dM/dt = (Ak/h)(Δπ − ΔP)Cs; constant while undissolved drug remains → zero order.\n4. Advantages: release independent of pH, food and motility; good IVIVC.\n5. Limitations: orifice blockage, mucosal irritation, cost; poorly soluble drugs need push–pull design with polyethylene oxide push layer.\n6. Draw labelled diagram."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the theories of mucoadhesion.",
+      "answer": "1. Electronic theory: electron transfer between polymer and mucus forms a double layer; attraction across it.\n2. Adsorption theory: hydrogen bonds, van der Waals and hydrophobic forces after contact.\n3. Wetting theory: liquid systems spread on mucus; lower contact angle → better adhesion.\n4. Diffusion (interpenetration) theory: polymer and mucin chains diffuse into each other and entangle; depends on chain flexibility and time.\n5. Fracture theory: adhesive strength related to force needed to separate the surfaces.\n6. Mechanical theory: adhesive fills surface irregularities.\nUsually several act together in the contact and consolidation stages."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the advantages and disadvantages of implantable drug delivery systems with examples.",
+      "answer": "Advantages: long duration (weeks to years); better compliance; avoids first-pass metabolism; delivery near the site (carmustine wafer in brain, intravitreal implants); lower total dose; non-biodegradable implants can be removed to stop therapy.\nDisadvantages: surgery or trocar insertion; pain, infection, scarring; migration or breakage; dose cannot be changed; possible polymer toxicity; dose dumping from ruptured reservoir; high cost; only potent drugs.\nExamples: levonorgestrel silicone capsules, etonogestrel EVA rod, goserelin PLGA implant, DUROS osmotic implant."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How are mucoadhesive buccal patches evaluated?",
+      "answer": "1. Thickness and weight uniformity.\n2. Drug content uniformity.\n3. Surface pH (should be near neutral to avoid irritation).\n4. Swelling index.\n5. Folding endurance (films).\n6. Mucoadhesive strength: force to detach patch from excised mucosa using a modified balance or texture analyser.\n7. In vitro residence time on mucosa.\n8. In vitro drug release and ex vivo permeation through buccal mucosa in a Franz diffusion cell.\n9. Stability studies."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define encapsulation efficiency.",
+      "answer": "Encapsulation (entrapment) efficiency = (actual drug content of microparticles ÷ theoretical drug content) × 100."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two osmogens and one semipermeable membrane polymer used in osmotic pumps.",
+      "answer": "Osmogens: sodium chloride, potassium chloride (also mannitol, sucrose). Membrane: cellulose acetate."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define transdermal drug delivery systems. Describe the permeation of drugs through skin, factors affecting permeation and the basic components of TDDS.",
+      "answer": "1. Definition: self-contained patches delivering drug through intact skin into systemic circulation at a controlled rate.\n2. Skin: stratum corneum (about 10–20 µm, dead corneocytes in lipid — brick and mortar) is the main barrier; viable epidermis; dermis with capillaries.\n3. Routes: intercellular (main), transcellular, appendageal (follicles, sweat ducts).\n4. Kinetics: Fick's law J = (DK/h)ΔC = Kp Cv; lag time from plot of cumulative amount vs time.\n5. Biological factors: skin condition, site, hydration (occlusion), temperature, blood flow, age, metabolism, species.\n6. Physicochemical: log P about 1–3, MW below about 500, low melting point, ionisation and vehicle pH, concentration (thermodynamic activity), drug–vehicle interaction.\n7. Components: polymer matrix/membrane (EVA, silicone, PIB, HPMC); drug; permeation enhancer; pressure-sensitive adhesive (PIB, acrylates, silicones); backing laminate (polyester, aluminised film); release liner; plasticisers.\n8. Diagram of patch layers.\n9. Advantages: avoids first-pass, constant input, removable, compliance. Limitations: only potent small drugs, irritation, adhesion problems, slow onset.\n10. Examples: nitroglycerin, scopolamine, nicotine, fentanyl, estradiol, clonidine."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are gastroretentive drug delivery systems? Discuss the approaches for GRDDS with their advantages, disadvantages and applications.",
+      "answer": "1. Definition: dosage forms retained in the stomach for several hours, releasing drug slowly.\n2. Physiology: MMC cycle about 1.5–2 h; phase III housekeeper wave empties stomach in fasting; food delays emptying; pylorus about 12 mm.\n3. Suitable drugs: absorption window in upper gut (levodopa, riboflavin, furosemide), local action (antacids, misoprostol, H. pylori therapy), unstable in intestine (captopril), poorly soluble at alkaline pH (diazepam).\n4. Floating systems (density below about 1.004 g/cm³): HBS (HPMC gel barrier), effervescent (NaHCO3 + citric acid → CO2), volatile liquid, hollow microspheres, alginate rafts.\n5. High-density systems: above about 2.5 g/cm³ with barium sulfate, zinc oxide, iron powder; sit in antrum folds.\n6. Expandable/swelling systems: larger than pylorus; superporous hydrogels.\n7. Inflatable systems: gas-filled chamber, later deflates.\n8. Bioadhesive systems: carbomer, chitosan; limited by mucus turnover.\n9. Magnetic systems.\n10. Advantages: better bioavailability, local action, fewer doses, less colonic exposure. Disadvantages: need fluid and fed state for floating, variable emptying, unsuitable for irritant or acid-labile drugs, risk of obstruction.\n11. Evaluation: floating lag time, total floating time, swelling, density, release, gamma scintigraphy.\n12. Diagram of floating HBS."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe nasal and pulmonary routes of drug delivery. Discuss the formulation of metered dose inhalers, dry powder inhalers, nasal sprays and nebulisers.",
+      "answer": "1. Nasal route: about 150 cm², rich blood supply; avoids first-pass; rapid onset; peptides (desmopressin, calcitonin) and vaccines; limits — small volume (about 0.1 ml/nostril), mucociliary clearance (about 15–20 min), enzymes, irritation.\n2. Pulmonary route: about 70–100 m² alveoli, thin barrier; local therapy in asthma/COPD; deposition by aerodynamic size — above 5 µm impaction in upper airways, 1–5 µm sedimentation in small airways/alveoli, below 1 µm diffusion or exhaled.\n3. pMDI: aluminium canister, metering valve, actuator; propellant HFA-134a/HFA-227 (CFCs phased out); surfactant (oleic acid, sorbitan trioleate, lecithin); co-solvent ethanol; micronised drug 1–5 µm; cold or pressure filling; spacers help coordination.\n4. DPI: micronised drug + coarse lactose carrier; breath-actuated; unit-dose capsule, multi-unit blister, multi-dose reservoir devices; needs good inspiratory flow; moisture sensitive.\n5. Nasal spray: solution/suspension in metered pump; buffer, tonicity agent, preservative (benzalkonium chloride), viscosity agent; tested for dose uniformity, spray pattern, droplet size.\n6. Nebulisers: jet (Venturi), ultrasonic (piezoelectric), vibrating mesh; sterile isotonic solutions; useful for children, elderly, acute attacks.\n7. Evaluation: delivered dose uniformity, cascade impactor (MMAD, fine particle fraction), leak rate, spray pattern.\n8. Diagram of pMDI."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are permeation enhancers? Classify them with examples and mechanisms.",
+      "answer": "1. Agents that reversibly reduce the barrier of stratum corneum to increase drug flux.\n2. Chemical: sulfoxides (DMSO), azone (laurocapram), alcohols and glycols (ethanol, propylene glycol), fatty acids (oleic acid), surfactants (SLS, polysorbates), terpenes (menthol, limonene), urea, pyrrolidones, phospholipids.\n3. Mechanisms: disrupt intercellular lipids, interact with keratin, improve partitioning of drug into skin.\n4. Physical: iontophoresis, electroporation, sonophoresis, microneedles, thermal and laser methods.\n5. Ideal: non-toxic, non-irritant, inert, fast and reversible, unidirectional, compatible."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the different types (formulation approaches) of transdermal patches.",
+      "answer": "1. Membrane-moderated reservoir: drug reservoir between backing and rate-controlling membrane (EVA) with adhesive; zero order (nitroglycerin, scopolamine).\n2. Adhesive-dispersion (drug-in-adhesive): drug in adhesive layer on backing; thin and simple; may be multilayer (nicotine, estradiol).\n3. Matrix diffusion-controlled: drug in polymer disc with peripheral adhesive rim; release ∝ √t.\n4. Microreservoir: aqueous drug suspension dispersed as microdroplets in silicone and cross-linked; combines reservoir and matrix.\nPreparation by solvent casting, form-fill-seal and lamination."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain floating drug delivery systems.",
+      "answer": "1. Systems with bulk density lower than gastric fluid (about 1.004 g/cm³) that float and stay in the stomach.\n2. Non-effervescent: HBS — drug + HPMC in capsule/tablet; outer gel layer, trapped air keeps it buoyant; alginate beads; hollow microspheres; raft-forming alginate liquids.\n3. Effervescent: NaHCO3 (± citric acid) produces CO2 trapped in swollen polymer; single, bilayer or multiple-unit; volatile-liquid inflatable systems.\n4. Requirements: enough gastric fluid, fed state.\n5. Evaluation: floating lag time, total floating time, release.\n6. Examples: levodopa–benserazide HBS, diazepam floating capsules, alginate antacid rafts."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare pressurised metered-dose inhalers and dry powder inhalers.",
+      "answer": "| Point | pMDI | DPI |\n|---|---|---|\n| Energy for aerosol | Propellant (HFA) | Patient's inspiration |\n| Coordination | Needed (or spacer/breath-actuated) | Not needed |\n| Formulation | Drug solution/suspension + surfactant + ethanol | Micronised drug + lactose carrier |\n| Moisture | Not sensitive | Sensitive |\n| Flow dependence | Little | Needs adequate inspiratory flow |\n| Environment | Propellant concerns | No propellant |\nBoth aim at 1–5 µm particles for deep lung deposition."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on nebulisers.",
+      "answer": "1. Devices converting a liquid into a fine mist inhaled over several minutes through mouthpiece or mask.\n2. Jet nebuliser: compressed gas through narrow orifice creates low pressure (Venturi/Bernoulli), draws up liquid and breaks it into droplets; baffles remove large droplets.\n3. Ultrasonic: piezoelectric crystal vibrates at high frequency to form mist; may heat solution.\n4. Vibrating mesh: perforated mesh vibrates and extrudes fine droplets; quiet, portable, little residual volume.\n5. Solutions sterile, near isotonic, suitable pH.\n6. Advantages: no technique needed, large doses, children/elderly/acute use. Limitations: bulky, slow, need power, dose wastage."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the factors affecting nasal drug absorption and methods to improve it.",
+      "answer": "1. Physiological: mucociliary clearance (about 15–20 min), nasal enzymes, blood flow, disease (cold, allergy).\n2. Drug: molecular weight, lipophilicity, ionisation, solubility.\n3. Formulation: pH, osmolality, viscosity, droplet/particle size, site of deposition, volume (about 0.1 ml/nostril).\n4. Improvement: enhancers (bile salts, surfactants, cyclodextrins, chitosan), enzyme inhibitors, mucoadhesive polymers (carbomer, chitosan) to slow clearance, in situ gels, prodrugs, powder formulations."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What particle size range is optimal for deposition in the deep lung?",
+      "answer": "Aerodynamic diameter of about 1–5 µm; larger particles impact in the throat and upper airways, smaller ones are largely exhaled."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is floating lag time?",
+      "answer": "The time taken by a floating gastroretentive dosage form to rise to the surface of the test medium (usually 0.1 N HCl) after it is placed in it."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define targeted drug delivery. Explain the levels and approaches of drug targeting with their advantages and disadvantages.",
+      "answer": "1. Definition: selective delivery of drug to a particular organ, tissue, cell or intracellular site while sparing others; Ehrlich's magic bullet concept.\n2. Components: drug + carrier + targeting ligand.\n3. Ideal system: selective, protects drug, releases at site, non-toxic, non-immunogenic, biodegradable, stable, easy to make.\n4. Levels: first order (organ), second order (specific cells, e.g. tumour cells, Kupffer cells), third order (intracellular, e.g. lysosomes, nucleus).\n5. Passive targeting: RES/macrophage uptake of particles >100 nm in liver and spleen; EPR effect in leaky tumour vessels with poor lymph drainage; PEGylated stealth carriers.\n6. Active targeting: ligands — antibodies, folate, transferrin, galactose (hepatocytes), mannose (macrophages), RGD peptides.\n7. Physical targeting: heat, pH, magnetism, ultrasound, light.\n8. Inverse targeting (RES blockade), dual and double targeting.\n9. Carriers: liposomes, niosomes, nanoparticles, microspheres, conjugates, resealed erythrocytes, dendrimers, antibodies.\n10. Advantages: higher site concentration, less toxicity, lower dose, protection, crossing barriers. Disadvantages: RES clearance, complex and costly, stability problems, immunogenicity, low loading."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are liposomes? Describe their composition, classification, methods of preparation, evaluation and applications.",
+      "answer": "1. Definition: vesicles of one or more concentric phospholipid bilayers enclosing aqueous core; hydrophilic drug in core, lipophilic drug in bilayer; diagram.\n2. Composition: phospholipids (phosphatidylcholine, PE, PG, DPPC), cholesterol (rigidity, less leakage), charge inducers (stearylamine +, dicetyl phosphate −), PEG-lipids (stealth), antioxidants.\n3. Classification by size/lamellarity: MLV (about 0.5–5 µm), SUV (about 20–100 nm), LUV (>100 nm), GUV (>1 µm), multivesicular. By function: conventional, stealth, immunoliposomes, cationic, pH- and thermosensitive.\n4. Preparation: thin-film hydration (Bangham) → MLV; sonication → SUV; extrusion through polycarbonate membranes; French press; ethanol/ether injection; reverse-phase evaporation (high entrapment, LUV); detergent removal by dialysis; freeze–thaw.\n5. Evaluation: size (DLS), shape and lamellarity (TEM), zeta potential, entrapment efficiency after removal of free drug, release, phase transition (DSC), stability (leakage, oxidation).\n6. Applications: PEGylated liposomal doxorubicin (less cardiotoxicity), liposomal amphotericin B (less nephrotoxicity), vaccines, gene delivery, macrophage infections, topical/cosmetic, ocular and pulmonary.\n7. Advantages and limitations: biocompatible, carry both drug types, reduce toxicity vs short shelf life, cost, RES uptake, sterilisation difficulty."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write notes on (a) nanoparticles and (b) monoclonal antibodies in drug delivery.",
+      "answer": "(a) Nanoparticles\n1. Solid colloidal particles about 10–1000 nm carrying drug.\n2. Types: nanospheres (matrix), nanocapsules (reservoir), SLN, NLC, polymeric micelles, dendrimers, gold/silica/iron oxide, albumin-bound.\n3. Polymers: PLA, PLGA, PCL, polyalkylcyanoacrylates, chitosan, albumin.\n4. Preparation: emulsion–solvent evaporation, nanoprecipitation, salting out, emulsification–diffusion, polymerisation, ionic gelation, high-pressure homogenisation, supercritical fluids.\n5. Characterisation: DLS size and PDI, zeta potential, TEM/SEM/AFM, entrapment, release, DSC/XRD.\n6. Applications: cancer (EPR), brain delivery, gene/siRNA, vaccines, imaging, theranostics.\n(b) Monoclonal antibodies\n1. Identical antibodies from one clone binding one epitope.\n2. Hybridoma technique (Köhler and Milstein, 1975): immunised mouse B cells + myeloma cells fused with PEG → HAT selection → cloning → production.\n3. Types: murine (-omab), chimeric (-ximab: rituximab), humanised (-zumab: trastuzumab), human (-umab: adalimumab).\n4. Uses: naked antibodies (trastuzumab HER2, rituximab CD20, bevacizumab VEGF), antibody–drug conjugates (trastuzumab emtansine), radioimmunoconjugates, immunotoxins, immunoliposomes, diagnostics.\n5. Limitations: poor tumour penetration, immunogenicity, cost, injection only."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between liposomes and niosomes.",
+      "answer": "| Point | Liposomes | Niosomes |\n|---|---|---|\n| Bilayer material | Phospholipids + cholesterol | Non-ionic surfactants (Span, Tween, Brij) + cholesterol |\n| Chemical stability | Lower (oxidation, hydrolysis) | Higher |\n| Cost | High | Low |\n| Storage | Special, often under nitrogen | Easier |\n| Raw material purity | Variable natural lipids | Uniform synthetic surfactants |\n| Use | Marketed medicines (doxorubicin, amphotericin B) | Cosmetics, topical, research |\nBoth enclose an aqueous core and carry hydrophilic and lipophilic drugs; prepared by similar methods (film hydration, ether injection, reverse-phase evaporation)."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain passive and active targeting with examples.",
+      "answer": "1. Passive targeting uses natural fate of carriers: uptake of particles by RES macrophages of liver and spleen (useful for leishmaniasis, fungal infections); EPR effect — leaky tumour vessels and poor lymph drainage trap 10–200 nm carriers (PEGylated liposomal doxorubicin).\n2. Active targeting attaches ligands to carriers that bind receptors on target cells: antibodies (HER2), folate (folate receptor on cancer cells), transferrin, galactose (hepatocytes), mannose (macrophages), RGD peptides (tumour vessels).\n3. Active targeting adds cell selectivity but carriers must first reach the site, often by passive means."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods of preparation of liposomes.",
+      "answer": "1. Thin-film hydration (Bangham): lipids in chloroform–methanol, evaporated to a film, hydrated with aqueous drug → MLVs.\n2. Sonication (probe/bath) of MLVs → SUVs.\n3. Extrusion through polycarbonate membranes → uniform LUVs.\n4. French pressure cell: high-pressure passage → unilamellar vesicles.\n5. Solvent injection: ethanol or ether solution of lipids injected into water.\n6. Reverse-phase evaporation: w/o emulsion, solvent removed → gel → LUVs with high entrapment.\n7. Detergent removal: mixed micelles dialysed → vesicles.\n8. Freeze–thaw and dehydration–rehydration increase entrapment."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the EPR effect.",
+      "answer": "1. Enhanced permeability and retention effect: passive accumulation of nanocarriers and macromolecules in tumours.\n2. Tumour blood vessels are leaky with wide endothelial gaps (enhanced permeability).\n3. Tumours have poor lymphatic drainage, so carriers stay (retention).\n4. Carriers of roughly 10–200 nm, long-circulating (PEG coated), exploit it.\n5. Example: PEGylated liposomal doxorubicin.\n6. Limitations: varies between tumours and patients; less in small or poorly vascularised tumours."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the hybridoma technique for production of monoclonal antibodies.",
+      "answer": "1. Mouse immunised with antigen → spleen B lymphocytes collected.\n2. B cells fused with myeloma cells (immortal, non-secreting, HGPRT-deficient) using polyethylene glycol.\n3. Cells grown in HAT medium: unfused myeloma cells die, unfused B cells die naturally; only hybridomas survive.\n4. Supernatants screened (ELISA) for desired antibody.\n5. Positive hybridomas cloned by limiting dilution (single cell).\n6. Selected clone grown in bioreactor or culture → antibody purified.\n7. Developed by Köhler and Milstein (1975). Mouse antibodies may be chimerised or humanised to reduce immunogenicity."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify nanoparticles and give their methods of preparation.",
+      "answer": "Classification: nanospheres (matrix), nanocapsules (reservoir), solid lipid nanoparticles, nanostructured lipid carriers, polymeric micelles, dendrimers, inorganic (gold, silica, iron oxide), protein-based (albumin).\nPreparation: emulsion–solvent evaporation; nanoprecipitation (solvent displacement); salting-out; emulsification–solvent diffusion; polymerisation of alkylcyanoacrylates; ionic gelation (chitosan–tripolyphosphate); hot or cold high-pressure homogenisation (SLN, NLC); supercritical fluid methods.\nCharacterise by DLS, zeta potential, electron microscopy, entrapment efficiency and release."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is inverse targeting?",
+      "answer": "Blocking the reticuloendothelial system (for example with blank carrier particles) so that a later drug-loaded carrier avoids liver and spleen uptake and reaches other sites."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What do the name endings -ximab and -zumab indicate?",
+      "answer": "-ximab: chimeric monoclonal antibody (mouse variable + human constant region), e.g. rituximab; -zumab: humanised antibody, e.g. trastuzumab."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the barriers to ocular drug delivery and the methods used to overcome them. Add a note on ocular formulations.",
+      "answer": "1. Introduction: eye easy to reach but less than about 5% of an eye drop reaches inner eye.\n2. Precorneal barriers: drop 30–50 µl vs cul-de-sac 7–10 µl → overflow and nasolacrimal drainage; tear turnover about 1 µl/min; blinking and reflex tearing; protein binding and tear enzymes; non-productive conjunctival and nasal absorption (systemic side effects).\n3. Corneal barrier: lipophilic epithelium with tight junctions, hydrophilic stroma, endothelium → needs balanced log P.\n4. Blood–aqueous and blood–retinal barriers limit drug from blood to eye; posterior segment hard to reach.\n5. Overcoming: viscosity enhancers (HPMC, PVA); ointments and gels; in situ gels — pH (CAP latex, carbomer), temperature (poloxamer 407), ion (gellan, alginate); mucoadhesives (carbomer, chitosan, hyaluronic acid); prodrugs (dipivefrin, latanoprost); penetration enhancers (BKC, EDTA); cyclodextrins; inserts; colloidal carriers (liposomes, niosomes, nanoparticles); intravitreal injections and implants; iontophoresis; nasolacrimal occlusion.\n6. Formulations: solutions, suspensions, emulsions, ointments, gels, inserts, colloidal systems, drug-loaded contact lenses, intravitreal implants.\n7. Requirements: sterility, preservative for multidose, pH near 7.4 (tolerated about 6.6–9), isotonic (0.9% NaCl), clarity, fine particle size."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define ocular inserts. Classify them and describe the Ocusert system. Give their advantages and disadvantages.",
+      "answer": "1. Definition: sterile thin solid or semisolid devices placed in the conjunctival sac to release drug over a long time.\n2. Classification: insoluble — diffusion (Ocusert), osmotic, contact lenses; soluble — natural (collagen shields), synthetic/semisynthetic (SODI, Lacrisert HPC rod); bioerodible (poly(orthoesters), cross-linked gelatin).\n3. Ocusert: pilocarpine with alginic acid as reservoir sandwiched between two EVA rate-controlling membranes; white titanium dioxide ring for visibility; placed in lower cul-de-sac; releases pilocarpine at nearly constant rate for about one week (glaucoma); diagram.\n4. Advantages: prolonged contact and release, accurate dosing, less systemic absorption, zero order possible, no preservative, better stability, fewer applications.\n5. Disadvantages: foreign-body sensation, accidental loss, difficult insertion/removal, vision interference, cost.\n6. Evaluation: thickness, weight, content uniformity, surface pH, swelling, folding endurance, in vitro release, sterility, irritation tests."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What are intrauterine devices? Discuss their development, mechanism of action, advantages, disadvantages and applications.",
+      "answer": "1. Definition: small flexible devices inserted into uterus through cervix for long-acting reversible contraception; medicated IUDs release copper or hormones.\n2. Development: early rings (Grafenberg); first generation inert plastic (Lippes loop, Margulies coil, Saf-T-coil, with BaSO4 for X-ray visibility); second generation copper (Copper-7, Cu-T 200, Cu-T 380A about 10 years, Multiload Cu-375); third generation hormonal (progesterone IUD about one year, levonorgestrel intrauterine system several years).\n3. Design: size/shape to fit cavity and resist expulsion; biocompatible polyethylene/silicone/EVA; copper surface area; steroid reservoir in silicone membrane for near-zero-order release; inserter tube; removal threads; sterile (ethylene oxide).\n4. Mechanism: foreign-body inflammatory reaction; copper ions spermicidal; progestogen thickens cervical mucus and thins endometrium.\n5. Advantages: long acting, effective, reversible, no daily action, low systemic hormone, reduced menstrual loss with LNG system, cheap, national programme use.\n6. Disadvantages: trained insertion, pain and bleeding, expulsion, rare perforation, pelvic infection after insertion, ectopic risk if failure, no STI protection.\n7. Applications: contraception, emergency contraception (copper), heavy menstrual bleeding, endometrial protection in HRT.\n8. Diagram of Copper T."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the precorneal and corneal barriers to ocular drug absorption.",
+      "answer": "Precorneal: drop volume (30–50 µl) exceeds cul-de-sac capacity (7–10 µl), so most overflows or drains via nasolacrimal duct; tear turnover about 1 µl/min; blinking and reflex tearing from irritant drops; binding to tear proteins; enzymatic metabolism; conjunctival and nasal absorption into blood.\nCorneal: epithelium lipophilic with tight junctions (barrier to hydrophilic drugs); stroma hydrophilic (barrier to very lipophilic drugs); endothelium leaky. Hence drugs with balanced lipophilicity and partial un-ionisation at tear pH penetrate best. Result: usually less than about 5% of the dose enters the eye."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on in situ gelling ophthalmic systems.",
+      "answer": "1. Liquids instilled as drops that turn into gels in the eye, increasing contact time without the blur of ointments.\n2. pH-triggered: cellulose acetate phthalate latex, carbomer — gel as pH rises to tear pH.\n3. Temperature-triggered: poloxamer 407 — gels at eye surface temperature.\n4. Ion-activated: gellan gum, sodium alginate — gel with tear cations (Na⁺, Ca²⁺).\n5. Advantages: accurate dosing as a drop, prolonged residence, fewer doses, better bioavailability.\n6. Evaluation: gelation temperature/pH, viscosity, clarity, sterility, release, irritation."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What preliminary (preformulation) studies are carried out for ocular dosage forms?",
+      "answer": "1. Solubility and need for solubilisers.\n2. pKa and partition coefficient to predict corneal penetration.\n3. pH–stability and pH–solubility: tear pH about 7.4; tolerated about 6.6–9; weak buffer if drug needs lower pH.\n4. Tonicity: isotonic with 0.9% NaCl (tolerated about 0.7–1.5%).\n5. Sterility and preservative selection (benzalkonium chloride, chlorobutanol) or preservative-free unit doses.\n6. Particle size for suspensions.\n7. Viscosity.\n8. Container, closure and contact-lens compatibility; ocular irritation."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the generations of intrauterine devices with examples.",
+      "answer": "1. Early: Grafenberg ring (silk/metal), many complications.\n2. First generation (inert): Lippes loop, Margulies coil, Saf-T-coil; polyethylene with BaSO4; larger, more pain and bleeding.\n3. Second generation (copper): Copper-7, Cu-T 200, Cu-T 380A (about 10 years), Multiload Cu-375; copper is spermicidal; smaller frames, higher efficacy.\n4. Third generation (hormonal): progesterone-releasing IUD (about one year), levonorgestrel intrauterine system (several years); membrane-controlled steroid reservoir; less bleeding; thickens cervical mucus."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the advantages and disadvantages of ocular inserts.",
+      "answer": "Advantages: longer residence and prolonged release; accurate dosing; reduced systemic absorption; zero-order release possible; no preservatives; better stability; fewer administrations and better compliance.\nDisadvantages: foreign-body sensation; may fall out unnoticed; insertion and removal need skill; may disturb vision; higher cost; patient reluctance."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a short note on soluble ocular inserts.",
+      "answer": "1. Inserts that dissolve in tear fluid, so no removal needed.\n2. Natural: collagen shields soaked in drug, dissolve over hours to days.\n3. Synthetic/semisynthetic: soluble ophthalmic drug insert (SODI) of polyacrylamide-type polymer; hydroxypropyl cellulose rod (Lacrisert) for dry eye, placed once daily in lower cul-de-sac.\n4. Advantages: simple, no removal, prolonged contact.\n5. Limitation: release not zero order; may blur vision while dissolving."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the composition of Ocusert?",
+      "answer": "Pilocarpine with alginic acid as the drug reservoir, sandwiched between two ethylene–vinyl acetate rate-controlling membranes, with a titanium dioxide-containing ring for visibility."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "How does copper act in a copper IUD?",
+      "answer": "Copper ions released into the uterine cavity are spermicidal and add to the local inflammatory reaction, preventing fertilisation."
+    }
+  ]
+}

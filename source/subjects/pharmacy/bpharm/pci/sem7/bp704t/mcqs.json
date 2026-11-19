@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The ideal release kinetics of a controlled-release system is:",
+      "options": [
+        "Zero order",
+        "First order",
+        "Second order",
+        "Mixed order"
+      ],
+      "correct": 0,
+      "explanation": "Zero order gives a constant release rate and a steady plasma level.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The Higuchi equation describes drug release from:",
+      "options": [
+        "A reservoir system at constant rate",
+        "A matrix (monolithic) system, Q ∝ √t",
+        "An osmotic pump",
+        "A pure solution"
+      ],
+      "correct": 1,
+      "explanation": "Higuchi kinetics apply to drug dispersed in a matrix: amount released ∝ square root of time.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Release from a membrane reservoir system stays zero order as long as:",
+      "options": [
+        "The membrane is water soluble",
+        "The drug is fully dissolved and diluted",
+        "A saturated drug solution remains inside the core",
+        "The tablet is crushed"
+      ],
+      "correct": 2,
+      "explanation": "Constant ΔC across the membrane gives constant release.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The half-life of a first-order process with rate constant 0.1 h⁻¹ is about:",
+      "options": [
+        "0.693 h",
+        "10 h",
+        "69.3 h",
+        "6.93 h"
+      ],
+      "correct": 3,
+      "explanation": "t1/2 = 0.693/k = 0.693/0.1 = 6.93 h.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "In the Korsmeyer–Peppas model for a slab, n = 0.5 indicates:",
+      "options": [
+        "Fickian diffusion",
+        "Case II transport",
+        "Super case II transport",
+        "Zero-order erosion"
+      ],
+      "correct": 0,
+      "explanation": "n = 0.5 Fickian; 0.5–1 anomalous; 1 case II.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A drug most suitable for an oral controlled-release product has a biological half-life of about:",
+      "options": [
+        "Less than 30 minutes",
+        "2–8 hours",
+        "More than 24 hours",
+        "Exactly 1 minute"
+      ],
+      "correct": 1,
+      "explanation": "Very short or long half-lives are unsuitable; 2–8 h is the usual range.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Basic drugs are bound for sustained release to:",
+      "options": [
+        "Anion exchange resins",
+        "Non-ionic surfactants",
+        "Cation exchange resins",
+        "Ethyl cellulose alone"
+      ],
+      "correct": 2,
+      "explanation": "Basic drugs are cations and exchange on sulfonic acid (cation exchange) resins.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The Noyes–Whitney equation is the basis of:",
+      "options": [
+        "Ion-exchange release",
+        "Osmotic release",
+        "Magnetic targeting",
+        "Dissolution-controlled release"
+      ],
+      "correct": 3,
+      "explanation": "dC/dt = DA(Cs − C)/h describes dissolution rate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Which polymer is biodegradable?",
+      "options": [
+        "Poly(lactic-co-glycolic acid)",
+        "Ethylene–vinyl acetate",
+        "Silicone rubber",
+        "Ethyl cellulose"
+      ],
+      "correct": 0,
+      "explanation": "PLGA hydrolyses to lactic and glycolic acids; the others are non-biodegradable.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Eudragit S100 dissolves at a pH above about:",
+      "options": [
+        "2",
+        "7",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "Eudragit S dissolves above about pH 7 (colon targeting); L above about pH 6.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Polyanhydrides are preferred for some implants because they undergo:",
+      "options": [
+        "Bulk erosion",
+        "No erosion",
+        "Surface erosion",
+        "Crystallisation in the body"
+      ],
+      "correct": 2,
+      "explanation": "Surface erosion wears away the outside layer, giving more constant release.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "A major risk of reservoir controlled-release systems is:",
+      "options": [
+        "Rapid fall in release with time",
+        "Inability to give zero order",
+        "Very cheap manufacture",
+        "Dose dumping if the membrane ruptures"
+      ],
+      "correct": 3,
+      "explanation": "A broken membrane exposes the whole reservoir.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The size range of microcapsules is generally:",
+      "options": [
+        "About 1–1000 µm",
+        "About 1–10 nm",
+        "About 1–5 mm only",
+        "About 10–100 cm"
+      ],
+      "correct": 0,
+      "explanation": "Microparticles span roughly 1 µm to 1 mm.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Complex coacervation classically uses:",
+      "options": [
+        "Ethyl cellulose and cyclohexane",
+        "Gelatin and gum acacia",
+        "PLGA and dichloromethane",
+        "Sodium alginate and calcium chloride"
+      ],
+      "correct": 1,
+      "explanation": "Oppositely charged gelatin and acacia interact at pH about 4–4.5.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The Wurster process of microencapsulation is a type of:",
+      "options": [
+        "Coacervation",
+        "Interfacial polymerisation",
+        "Air suspension coating",
+        "Solvent evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Particles are fluidised in upward air and coated by spray.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Sodium alginate dropped into calcium chloride solution forms beads by:",
+      "options": [
+        "Spray congealing",
+        "Pan coating",
+        "Interfacial polymerisation",
+        "Ionic gelation"
+      ],
+      "correct": 3,
+      "explanation": "Ca²⁺ cross-links alginate chains (egg-box structure).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The theory of mucoadhesion based on interpenetration of polymer and mucin chains is the:",
+      "options": [
+        "Diffusion theory",
+        "Electronic theory",
+        "Wetting theory",
+        "Fracture theory"
+      ],
+      "correct": 0,
+      "explanation": "Chains diffuse into each other and entangle.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which is a cationic mucoadhesive polymer?",
+      "options": [
+        "Carbomer",
+        "Chitosan",
+        "Sodium carboxymethylcellulose",
+        "Sodium alginate"
+      ],
+      "correct": 1,
+      "explanation": "Chitosan carries positive amino groups that bind negative mucin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The backing layer of a buccal patch serves to:",
+      "options": [
+        "Increase drug solubility",
+        "Act as the mucoadhesive",
+        "Give unidirectional release toward the mucosa",
+        "Dissolve quickly in saliva"
+      ],
+      "correct": 2,
+      "explanation": "An impermeable backing stops drug loss into saliva.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The semipermeable membrane of an elementary osmotic pump is commonly made of:",
+      "options": [
+        "Gelatin",
+        "Polyethylene glycol 400",
+        "Lactose",
+        "Cellulose acetate"
+      ],
+      "correct": 3,
+      "explanation": "Cellulose acetate lets water in but keeps drug in.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In a push–pull osmotic pump, the push layer usually contains:",
+      "options": [
+        "Polyethylene oxide with an osmogen",
+        "Pure lactose",
+        "Gelatin only",
+        "Mineral oil"
+      ],
+      "correct": 0,
+      "explanation": "Swelling polyethylene oxide pushes the drug layer out.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Sublingual mucosa compared with buccal mucosa is:",
+      "options": [
+        "Thicker and keratinised",
+        "Thinner and more permeable",
+        "Impermeable to all drugs",
+        "Covered by stratum corneum"
+      ],
+      "correct": 1,
+      "explanation": "Sublingual epithelium is thin, giving rapid absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Carmustine wafers placed in the brain after tumour surgery are made of:",
+      "options": [
+        "Silicone rubber",
+        "Ethylene–vinyl acetate",
+        "Polyanhydride (biodegradable)",
+        "Cellulose acetate"
+      ],
+      "correct": 2,
+      "explanation": "Surface-eroding polyanhydride releases drug locally.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Encapsulation efficiency is calculated as:",
+      "options": [
+        "Weight of coat ÷ weight of core",
+        "Particle size ÷ yield",
+        "Yield × drug solubility",
+        "Actual drug content ÷ theoretical drug content × 100"
+      ],
+      "correct": 3,
+      "explanation": "It compares drug actually entrapped with the amount added.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The main barrier to transdermal permeation is the:",
+      "options": [
+        "Stratum corneum",
+        "Dermis",
+        "Subcutaneous fat",
+        "Sweat glands"
+      ],
+      "correct": 0,
+      "explanation": "Dead keratinised cells in lipid (brick and mortar) limit permeation.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "An ideal drug for transdermal delivery has a molecular weight below about:",
+      "options": [
+        "5,000 Da",
+        "500 Da",
+        "50,000 Da",
+        "1,000,000 Da"
+      ],
+      "correct": 1,
+      "explanation": "Small molecules (below about 500 Da) cross skin best.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Laurocapram is better known as:",
+      "options": [
+        "DMSO",
+        "Limonene",
+        "Azone",
+        "Propylene glycol"
+      ],
+      "correct": 2,
+      "explanation": "Azone is a classic chemical permeation enhancer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Using an electric current to drive charged drugs through skin is:",
+      "options": [
+        "Sonophoresis",
+        "Electrophoresis of proteins",
+        "Microencapsulation",
+        "Iontophoresis"
+      ],
+      "correct": 3,
+      "explanation": "Iontophoresis uses a small current.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The layer of a transdermal patch removed before application is the:",
+      "options": [
+        "Release liner",
+        "Backing laminate",
+        "Rate-controlling membrane",
+        "Drug reservoir"
+      ],
+      "correct": 0,
+      "explanation": "The siliconised liner protects the adhesive until use.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Steady-state skin flux is given by:",
+      "options": [
+        "J = k√t",
+        "J = Kp × Cv",
+        "J = 0.693/k",
+        "J = Q0 + k0t"
+      ],
+      "correct": 1,
+      "explanation": "Flux = permeability coefficient × concentration in vehicle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The 'housekeeper wave' that empties the fasting stomach is phase:",
+      "options": [
+        "I of the MMC",
+        "II of the MMC",
+        "III of the migrating myoelectric complex",
+        "IV of the MMC"
+      ],
+      "correct": 2,
+      "explanation": "Phase III has strong contractions that sweep the stomach.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Effervescent floating systems usually contain:",
+      "options": [
+        "Barium sulfate",
+        "Magnesium stearate",
+        "Titanium dioxide",
+        "Sodium bicarbonate"
+      ],
+      "correct": 3,
+      "explanation": "NaHCO3 releases CO2 in gastric acid, lowering density.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "High-density gastroretentive systems use weighting agents such as:",
+      "options": [
+        "Barium sulfate",
+        "Sodium bicarbonate",
+        "Hydroxypropyl methylcellulose",
+        "Lactose"
+      ],
+      "correct": 0,
+      "explanation": "Dense materials (BaSO4, ZnO, iron powder) make pellets sink.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Particles that deposit mainly in small airways and alveoli have an aerodynamic diameter of about:",
+      "options": [
+        "20–50 µm",
+        "1–5 µm",
+        "100–200 µm",
+        "0.001–0.01 µm"
+      ],
+      "correct": 1,
+      "explanation": "Larger ones impact in the throat; smaller ones are exhaled.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The propellant now used in metered-dose inhalers in place of CFCs is:",
+      "options": [
+        "Butane",
+        "Nitrous oxide",
+        "HFA-134a",
+        "Chlorine"
+      ],
+      "correct": 2,
+      "explanation": "Hydrofluoroalkanes replaced ozone-depleting CFCs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "The usual carrier in dry powder inhalers is:",
+      "options": [
+        "Sodium chloride",
+        "Starch paste",
+        "Talc",
+        "Lactose"
+      ],
+      "correct": 3,
+      "explanation": "Coarse inhalation-grade lactose improves flow and dosing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The EPR effect is the basis of:",
+      "options": [
+        "Passive targeting of tumours",
+        "Active ligand targeting",
+        "Inverse targeting",
+        "Magnetic targeting"
+      ],
+      "correct": 0,
+      "explanation": "Leaky vessels and poor lymph drainage trap nanocarriers.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Targeting a drug to an intracellular site such as the lysosome is:",
+      "options": [
+        "First-order targeting",
+        "Third-order targeting",
+        "Second-order targeting",
+        "Zero-order targeting"
+      ],
+      "correct": 1,
+      "explanation": "Organ = first, cell = second, intracellular = third order.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Liposomes are vesicles made mainly of:",
+      "options": [
+        "Non-ionic surfactants only",
+        "Proteins only",
+        "Phospholipids and cholesterol",
+        "Polysaccharides only"
+      ],
+      "correct": 2,
+      "explanation": "Phospholipid bilayers stabilised by cholesterol.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The original thin-film hydration method of liposome preparation is credited to:",
+      "options": [
+        "Higuchi",
+        "Köhler and Milstein",
+        "Wurster",
+        "Bangham"
+      ],
+      "correct": 3,
+      "explanation": "Bangham described lipid vesicles from hydrated films.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Small unilamellar vesicles are usually produced from MLVs by:",
+      "options": [
+        "Sonication",
+        "Spray congealing",
+        "Coacervation",
+        "Pan coating"
+      ],
+      "correct": 0,
+      "explanation": "Ultrasound breaks MLVs into SUVs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Niosomes are formed from:",
+      "options": [
+        "Phospholipids only",
+        "Non-ionic surfactants with cholesterol",
+        "Cationic polymers",
+        "Albumin"
+      ],
+      "correct": 1,
+      "explanation": "Spans, Tweens or Brij with cholesterol form niosomes.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "PEGylated 'stealth' liposomes are designed to:",
+      "options": [
+        "Be taken up rapidly by the liver",
+        "Dissolve in the stomach",
+        "Avoid RES uptake and circulate longer",
+        "Bind calcium ions"
+      ],
+      "correct": 2,
+      "explanation": "PEG gives a steric coat that reduces opsonisation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Particle size of nanoparticles is commonly measured by:",
+      "options": [
+        "Angle of repose",
+        "Friability test",
+        "Karl Fischer titration",
+        "Dynamic light scattering"
+      ],
+      "correct": 3,
+      "explanation": "DLS (photon correlation spectroscopy) gives size and polydispersity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The hybridoma technique was developed by:",
+      "options": [
+        "Köhler and Milstein",
+        "Paul Ehrlich",
+        "Bangham",
+        "Higuchi"
+      ],
+      "correct": 0,
+      "explanation": "They fused myeloma and B cells in 1975.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A monoclonal antibody name ending in -zumab indicates it is:",
+      "options": [
+        "Fully murine",
+        "Humanised",
+        "Chimeric",
+        "A small-molecule drug"
+      ],
+      "correct": 1,
+      "explanation": "-zumab = humanised; -ximab = chimeric; -umab = human.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Galactose ligands target drug carriers to:",
+      "options": [
+        "Red blood cells",
+        "Neurons",
+        "Hepatocytes",
+        "Skin keratinocytes"
+      ],
+      "correct": 2,
+      "explanation": "Asialoglycoprotein receptors on hepatocytes bind galactose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Blocking the RES with blank carriers before giving the drug carrier is:",
+      "options": [
+        "Dual targeting",
+        "Active targeting",
+        "Third-order targeting",
+        "Inverse targeting"
+      ],
+      "correct": 3,
+      "explanation": "RES blockade lets carriers reach other organs.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The usual capacity of the lower conjunctival cul-de-sac is about:",
+      "options": [
+        "7–10 µl",
+        "30–50 µl",
+        "200 µl",
+        "1 ml"
+      ],
+      "correct": 0,
+      "explanation": "A 30–50 µl drop overflows the small cul-de-sac.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The corneal stroma is:",
+      "options": [
+        "Lipophilic",
+        "Hydrophilic",
+        "Keratinised",
+        "Impermeable to water"
+      ],
+      "correct": 1,
+      "explanation": "Stroma is mostly water and collagen; epithelium is lipophilic.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Ocusert releases pilocarpine through:",
+      "options": [
+        "Cellulose acetate with a laser orifice",
+        "Gelatin capsule shell",
+        "Ethylene–vinyl acetate membranes",
+        "Collagen shield"
+      ],
+      "correct": 2,
+      "explanation": "Drug + alginic acid reservoir between two EVA membranes.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Ocusert is designed to release drug for about:",
+      "options": [
+        "One hour",
+        "One year",
+        "Ten years",
+        "One week"
+      ],
+      "correct": 3,
+      "explanation": "It replaces frequent pilocarpine drops for about a week.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Poloxamer 407 forms in situ gels in the eye in response to:",
+      "options": [
+        "Temperature",
+        "pH",
+        "Calcium ions",
+        "Light"
+      ],
+      "correct": 0,
+      "explanation": "It gels at ocular surface temperature.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Gellan gum forms ophthalmic in situ gels in response to:",
+      "options": [
+        "Temperature only",
+        "Cations in tears",
+        "Light",
+        "Enzymes"
+      ],
+      "correct": 1,
+      "explanation": "Ion-activated gelation with Na⁺ and Ca²⁺.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Dipivefrin is used in the eye as a:",
+      "options": [
+        "Preservative",
+        "Viscosity enhancer",
+        "Prodrug of adrenaline",
+        "Insert polymer"
+      ],
+      "correct": 2,
+      "explanation": "The lipophilic prodrug penetrates the cornea and is converted to adrenaline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Lacrisert is a soluble ocular insert made of:",
+      "options": [
+        "Ethylene–vinyl acetate",
+        "Silicone rubber",
+        "Polyanhydride",
+        "Hydroxypropyl cellulose"
+      ],
+      "correct": 3,
+      "explanation": "HPC rod used once daily for dry eye.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The Lippes loop is an example of a:",
+      "options": [
+        "Non-medicated (inert) IUD",
+        "Copper IUD",
+        "Progesterone IUD",
+        "Levonorgestrel system"
+      ],
+      "correct": 0,
+      "explanation": "First-generation inert plastic device.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Copper T 380A belongs to the:",
+      "options": [
+        "First generation",
+        "Second generation of IUDs",
+        "Third generation",
+        "Pre-generation silk rings"
+      ],
+      "correct": 1,
+      "explanation": "Copper-bearing devices form the second generation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Hormone-releasing IUDs act mainly by:",
+      "options": [
+        "Releasing copper ions",
+        "Dissolving in the uterus within a day",
+        "Thickening cervical mucus and thinning the endometrium",
+        "Increasing ovulation"
+      ],
+      "correct": 2,
+      "explanation": "Progestogen effects on mucus and endometrium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "The blood–retinal barrier mainly limits:",
+      "options": [
+        "Drainage of tears",
+        "Tear protein binding",
+        "Entry of air into the eye",
+        "Entry of systemically given drugs into the retina and vitreous"
+      ],
+      "correct": 3,
+      "explanation": "Tight junctions keep blood-borne drugs out of the posterior segment.",
+      "probability": "medium"
+    }
+  ]
+}
