@@ -1,0 +1,163 @@
+{
+  "code": "ER20-23T",
+  "title": "Biochemistry and Clinical Pathology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020), D.Pharm second year, Biochemistry & Clinical Pathology ER20-23T and ER20-23P (university copy of the PCI syllabus)",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-23T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-23P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to biochemistry and carbohydrates",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Proteins and amino acids",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Lipids",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Nucleic acids and introduction to biotechnology",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Enzymes",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Vitamins",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Carbohydrate metabolism and biological oxidation",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Lipid metabolism",
+      "notes": "notes/unit-8.md"
+    },
+    {
+      "number": 9,
+      "title": "Amino acid metabolism and jaundice",
+      "notes": "notes/unit-9.md"
+    },
+    {
+      "number": 10,
+      "title": "Minerals, water and electrolytes",
+      "notes": "notes/unit-10.md"
+    },
+    {
+      "number": 11,
+      "title": "Organ function tests",
+      "notes": "notes/unit-11.md"
+    },
+    {
+      "number": 12,
+      "title": "Introduction to pathology of blood and urine",
+      "notes": "notes/unit-12.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "carbohydrates-qualitative",
+      "title": "Qualitative analysis of carbohydrates",
+      "file": "practicals/carbohydrates-qualitative.md"
+    },
+    {
+      "id": "proteins-amino-acids-qualitative",
+      "title": "Qualitative analysis of proteins and amino acids",
+      "file": "practicals/proteins-amino-acids-qualitative.md"
+    },
+    {
+      "id": "lipids-qualitative",
+      "title": "Qualitative analysis of lipids",
+      "file": "practicals/lipids-qualitative.md"
+    },
+    {
+      "id": "urine-normal-constituents",
+      "title": "Urine analysis: normal constituents",
+      "file": "practicals/urine-normal-constituents.md"
+    },
+    {
+      "id": "urine-abnormal-constituents",
+      "title": "Urine analysis: abnormal constituents",
+      "file": "practicals/urine-abnormal-constituents.md"
+    },
+    {
+      "id": "urine-glucose-estimation",
+      "title": "Estimation of glucose in urine (Benedict's quantitative method)",
+      "file": "practicals/urine-glucose-estimation.md"
+    },
+    {
+      "id": "urine-creatinine-estimation",
+      "title": "Estimation of creatinine in urine (Jaffe's method)",
+      "file": "practicals/urine-creatinine-estimation.md"
+    },
+    {
+      "id": "urine-chloride-estimation",
+      "title": "Estimation of chlorides in urine (Volhard's method)",
+      "file": "practicals/urine-chloride-estimation.md"
+    },
+    {
+      "id": "blood-glucose-estimation",
+      "title": "Estimation of blood glucose (GOD-POD method)",
+      "file": "practicals/blood-glucose-estimation.md"
+    },
+    {
+      "id": "serum-creatinine-estimation",
+      "title": "Estimation of serum creatinine (Jaffe's method)",
+      "file": "practicals/serum-creatinine-estimation.md"
+    },
+    {
+      "id": "serum-cholesterol-estimation",
+      "title": "Estimation of serum cholesterol (CHOD-PAP method)",
+      "file": "practicals/serum-cholesterol-estimation.md"
+    },
+    {
+      "id": "serum-calcium-estimation",
+      "title": "Estimation of serum calcium (OCPC method)",
+      "file": "practicals/serum-calcium-estimation.md"
+    },
+    {
+      "id": "blood-urea-estimation",
+      "title": "Estimation of blood urea (urease-Berthelot method)",
+      "file": "practicals/blood-urea-estimation.md"
+    },
+    {
+      "id": "sgot-sgpt-estimation",
+      "title": "Estimation of serum SGOT (AST) and SGPT (ALT)",
+      "file": "practicals/sgot-sgpt-estimation.md"
+    },
+    {
+      "id": "starch-hydrolysis",
+      "title": "Hydrolysis of starch by acid and by salivary amylase",
+      "file": "practicals/starch-hydrolysis.md"
+    }
+  ]
+}

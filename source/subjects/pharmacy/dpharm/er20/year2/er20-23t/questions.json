@@ -1,0 +1,1004 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight and common patterns in ER-2020 D.Pharm papers. It is not a promise. Long answers here are 5-mark and short answers 3-mark, matching the ER-2020 board pattern; very-short answers are 2-mark revision questions. Normal laboratory values are commonly quoted reference ranges; ranges vary by laboratory.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define carbohydrates. Classify them with suitable examples.",
+      "answer": "1. Definition: carbohydrates are polyhydroxy aldehydes or polyhydroxy ketones, or substances that give these on hydrolysis; general formula Cn(H2O)n.\n2. Monosaccharides (cannot be hydrolysed further): classified by number of carbons – trioses (glyceraldehyde, dihydroxyacetone), tetroses (erythrose), pentoses (ribose, xylose, ribulose), hexoses (glucose, galactose, mannose, fructose), heptoses (sedoheptulose); and by functional group – aldoses (glucose) and ketoses (fructose).\n3. Disaccharides (two units by a glycosidic bond): maltose (Glc + Glc), lactose (Gal + Glc), sucrose (Glc + Fru).\n4. Oligosaccharides (3–10 units): raffinose; sugar chains of glycoproteins.\n5. Polysaccharides (more than 10 units): (a) homopolysaccharides – one kind of unit: starch, glycogen, cellulose, dextrin (glucose), inulin (fructose); (b) heteropolysaccharides – two or more kinds: heparin, hyaluronic acid, chondroitin sulphate, agar.\n6. Draw the classification tree and give one example for each class."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structures and biological importance of maltose, lactose and sucrose.",
+      "answer": "1. Maltose (malt sugar): two glucose units joined by an α(1→4) glycosidic bond; has a free anomeric carbon, so it is reducing; formed by amylase digestion of starch; hydrolysed by maltase to 2 glucose.\n2. Lactose (milk sugar): galactose joined β(1→4) to glucose; reducing; found in milk; hydrolysed by lactase; lack of lactase causes lactose intolerance; used as a tablet diluent.\n3. Sucrose (cane sugar): glucose α1 joined to fructose β2 (α1→β2); both anomeric carbons are used in the bond, so it is non-reducing; hydrolysis by acid or invertase gives invert sugar (laevorotatory).\n4. Draw: Glc-α(1→4)-Glc; Gal-β(1→4)-Glc; Glc-α1↔β2-Fru (Haworth forms).\n5. Importance: dietary sources of energy; sucrose as sweetening agent and syrup base; lactose in infant nutrition and as excipient; maltose as an intermediate of starch digestion."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the cell and its biochemical organization with the functions of its organelles.",
+      "answer": "1. Cell = structural and functional unit of life; prokaryotic (no nucleus, 70S ribosomes, bacteria) and eukaryotic (true nucleus, organelles, 80S ribosomes).\n2. Plasma membrane: lipid bilayer with proteins and cholesterol (fluid mosaic model); selective transport, receptors.\n3. Nucleus: DNA; replication and transcription; nucleolus makes rRNA.\n4. Mitochondria: TCA cycle, β-oxidation, ETC and oxidative phosphorylation (ATP), ketogenesis, part of urea cycle.\n5. Rough ER: protein synthesis; smooth ER: lipid and steroid synthesis, drug metabolism by cytochrome P450.\n6. Golgi apparatus: glycosylation, packaging and secretion of proteins.\n7. Lysosomes: acid hydrolases – intracellular digestion; peroxisomes: catalase, oxidation of very long chain fatty acids.\n8. Ribosomes: protein synthesis; cytosol: glycolysis, HMP shunt, fatty acid and glycogen synthesis.\n9. Add a labelled diagram of a cell."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the scope of biochemistry in pharmacy.",
+      "answer": "1. Explains how drugs act on enzymes and receptors (statins, allopurinol, aspirin).\n2. Drug metabolism by liver enzymes (cytochrome P450) – dose and interactions.\n3. Clinical laboratory tests (glucose, urea, creatinine, LFT, lipid profile) used in diagnosis and monitoring.\n4. Nutrition counselling – vitamins, minerals, ORS.\n5. Biotechnology products – insulin, vaccines, monoclonal antibodies.\n6. Understanding metabolic diseases such as diabetes, jaundice, gout and phenylketonuria."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Give the principle and result of Molisch's, Benedict's and Seliwanoff's tests.",
+      "answer": "1. Molisch's: conc. H2SO4 dehydrates any carbohydrate to furfural/hydroxymethylfurfural, which condenses with α-naphthol – violet ring at the junction; general test for carbohydrates.\n2. Benedict's: reducing sugars reduce Cu2+ (blue) in alkaline citrate solution to red Cu2O on boiling – green, yellow, orange or brick-red precipitate.\n3. Seliwanoff's: ketoses are dehydrated quickly by HCl to hydroxymethylfurfural, which forms a cherry-red colour with resorcinol – fructose (aldoses react only on long heating)."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the chemical nature of starch and glycogen.",
+      "answer": "1. Both are homopolysaccharides of glucose.\n2. Starch (plants): amylose about 15–20% (unbranched α(1→4) chain, helix, blue with iodine) and amylopectin about 80–85% (α(1→4) with α(1→6) branches every 24–30 units, reddish-violet with iodine).\n3. Glycogen (animal starch): stored in liver and muscle; α(1→4) chains with α(1→6) branches every 8–12 units (more branched); red-brown with iodine; many ends allow quick release of glucose.\n4. Both non-reducing for practical purposes."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the biological role of carbohydrates.",
+      "answer": "1. Main source of energy (about 4 kcal/g); glucose is the main fuel of brain and red cells.\n2. Storage as glycogen and starch.\n3. Structural – cellulose, chitin, mucopolysaccharides of cartilage and joints.\n4. Ribose and deoxyribose in RNA, DNA, ATP, NAD, FAD, CoA.\n5. Cell recognition and blood group antigens (glycoproteins); heparin as anticoagulant.\n6. Dietary fibre; protein sparing; glucuronic acid for detoxification."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on the chemical properties of monosaccharides.",
+      "answer": "1. Reducing property – reduce Benedict's/Fehling's reagent.\n2. Osazone formation with phenylhydrazine (glucose, fructose, mannose give same osazone).\n3. Mutarotation – change of optical rotation by α ⇌ β interconversion.\n4. Oxidation to aldonic and uronic acids; reduction to sugar alcohols (sorbitol, mannitol).\n5. Dehydration by strong acids to furfural derivatives (Molisch, Seliwanoff, Bial).\n6. Glycoside and ester (phosphate) formation; fermentation by yeast."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is mutarotation?",
+      "answer": "Mutarotation is the gradual change in the optical rotation of a freshly prepared sugar solution until a constant value is reached, because the α and β anomers interconvert through the open-chain form (glucose reaches about 1/3 α and 2/3 β)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are epimers? Give an example.",
+      "answer": "Epimers are sugars that differ only in the configuration around one carbon atom other than the anomeric carbon, e.g. glucose and galactose (C4 epimers) or glucose and mannose (C2 epimers)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify proteins on the basis of composition and solubility with examples.",
+      "answer": "1. Definition: proteins are polymers of L-α-amino acids joined by peptide bonds.\n2. Composition: (a) simple – only amino acids (albumin, globulin); (b) conjugated – protein + prosthetic group: glycoproteins (mucin), lipoproteins (LDL), nucleoproteins (chromatin), phosphoproteins (casein), chromoproteins (haemoglobin), metalloproteins (ferritin, ceruloplasmin); (c) derived – primary (coagulated proteins, proteans, metaproteins) and secondary (proteoses, peptones, peptides).\n3. Solubility (simple proteins): albumins – water, heat coagulable (serum albumin, ovalbumin); globulins – dilute salt (immunoglobulins, myosin); glutelins – dilute acid/alkali (glutenin, oryzenin); prolamines – 70–80% alcohol (gliadin, zein); histones – basic, with DNA; protamines – strongly basic (salmine); scleroproteins – insoluble (keratin, collagen, elastin).\n4. Present as a classification chart and table."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the four levels of organisation of protein structure.",
+      "answer": "1. Primary: sequence of amino acids from N- to C-terminal, held by peptide bonds (and disulphide bonds); decided by the gene; e.g. insulin A chain 21 and B chain 30 amino acids; a single change causes sickle cell anaemia (valine for glutamate at β6).\n2. Secondary: regular local folding held by hydrogen bonds between peptide C=O and N–H: α-helix (right-handed, 3.6 residues per turn, keratin) and β-pleated sheet (parallel or antiparallel, silk fibroin); collagen triple helix.\n3. Tertiary: complete 3-D folding of one chain; stabilised by disulphide bonds, hydrogen bonds, ionic bonds, hydrophobic interactions and van der Waals forces; forms active sites (myoglobin).\n4. Quaternary: arrangement of two or more subunits; e.g. haemoglobin 2α + 2β, LDH tetramer.\n5. Denaturation destroys secondary to quaternary structure (heat, acids, heavy metals) without breaking peptide bonds, causing loss of activity.\n6. Draw simple diagrams of each level."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify amino acids based on chemical nature and nutritional requirement with examples.",
+      "answer": "1. Definition: organic compounds with an amino and a carboxyl group on the same α-carbon; about 20 occur in proteins; L-form.\n2. Chemical nature: aliphatic (glycine, alanine); branched chain (valine, leucine, isoleucine); hydroxyl (serine, threonine); sulphur (cysteine, methionine); acidic and amides (aspartate, glutamate, asparagine, glutamine); basic (lysine, arginine, histidine); aromatic (phenylalanine, tyrosine, tryptophan); imino acid (proline).\n3. Nutritional: essential – valine, leucine, isoleucine, threonine, methionine, phenylalanine, tryptophan, lysine; semi-essential – arginine, histidine (needed in growth); non-essential – glycine, alanine, serine, aspartate, glutamate, tyrosine, cysteine, proline etc. Memory aid PVT TIM HALL.\n4. Metabolic fate: ketogenic (leucine, lysine), both (isoleucine, phenylalanine, tyrosine, tryptophan, threonine), glucogenic (rest)."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Compare kwashiorkor and marasmus.",
+      "answer": "| Feature | Kwashiorkor | Marasmus |\n| Cause | Protein deficiency with fair calories | Protein + energy deficiency |\n| Age | 1–4 years | Below 1 year |\n| Oedema | Present | Absent |\n| Fat/muscle | Partly preserved | Severe wasting, old-man face |\n| Liver | Fatty, enlarged | Not fatty |\n| Skin, hair | Flaky paint dermatitis, flag sign | Dry, loose skin |\n| Albumin | Very low | Near normal |"
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the colour reactions of proteins (any three) with principle.",
+      "answer": "1. Biuret test: in alkali, Cu2+ forms a violet complex with two or more peptide bonds – proteins and peptides.\n2. Ninhydrin test: α-amino group reacts with ninhydrin on boiling – Ruhemann's purple (proline yellow).\n3. Xanthoproteic test: nitration of aromatic rings by conc. HNO3 – yellow, turning orange with alkali (tyrosine, tryptophan).\n4. Millon's test: mercury reagent with phenol group of tyrosine – red.\n5. Hopkins–Cole: indole ring of tryptophan with glyoxylic acid and H2SO4 – violet ring."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the biological roles of proteins.",
+      "answer": "1. Enzymes (catalysis). 2. Structural – collagen, keratin, elastin. 3. Transport – haemoglobin, albumin, transferrin, lipoproteins. 4. Hormones – insulin, growth hormone. 5. Defence – antibodies, clotting factors. 6. Contraction – actin, myosin. 7. Storage – ferritin, casein. 8. Receptors and channels. 9. Oncotic pressure and buffering (albumin, haemoglobin). 10. Energy in starvation (4 kcal/g)."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is denaturation of proteins? Give its causes and significance.",
+      "answer": "1. Loss of the native secondary, tertiary and quaternary structure without breaking peptide bonds, with loss of biological activity.\n2. Causes: heat, strong acids/alkalis, heavy metal salts, alcohol, urea, detergents, UV, shaking.\n3. Effects: lower solubility, loss of enzyme/hormone activity, easier digestion.\n4. Significance: sterilisation by heat and alcohol; egg white or milk as antidote in heavy metal poisoning; usually irreversible."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define peptide bond.",
+      "answer": "A peptide bond (–CO–NH–) is the amide bond formed between the carboxyl group of one amino acid and the amino group of another, with the loss of one molecule of water."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the isoelectric pH of an amino acid?",
+      "answer": "It is the pH at which the amino acid (or protein) carries no net electric charge (exists as a zwitterion); solubility is minimum and it does not move in an electric field."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define lipids. Give Bloor's classification of lipids with examples.",
+      "answer": "1. Definition: naturally occurring compounds insoluble in water and soluble in fat solvents (chloroform, ether), which are esters of fatty acids with alcohols or related substances, used by living organisms.\n2. Simple lipids – esters of fatty acids with alcohols: (a) fats and oils = triglycerides (ghee, groundnut oil); (b) waxes – fatty acid + long-chain alcohol (beeswax, lanolin, spermaceti).\n3. Compound lipids – with an extra group: (a) phospholipids – glycerophospholipids (lecithin, cephalin, phosphatidylinositol), sphingophospholipids (sphingomyelin); (b) glycolipids (cerebrosides, gangliosides); (c) lipoproteins (chylomicrons, VLDL, LDL, HDL); (d) others (sulpholipids).\n4. Derived lipids – from hydrolysis: fatty acids, glycerol, steroids (cholesterol, bile acids), fat-soluble vitamins, ketone bodies, eicosanoids.\n5. Mention amphipathic lipids (phospholipids, bile salts) and draw the chart."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the types, composition and functions of lipoproteins.",
+      "answer": "1. Lipoproteins are spherical particles that carry insoluble lipids in blood: core of triglycerides and cholesterol esters; surface of phospholipids, free cholesterol and apoproteins (draw).\n2. Separated by ultracentrifugation (density) or electrophoresis.\n3. Chylomicrons: made in intestine; about 85–90% triglyceride; apo B-48, C-II, E; carry dietary fat; largest, lightest.\n4. VLDL: made in liver; mainly endogenous triglyceride; apo B-100, C-II, E; carry liver TG to tissues.\n5. IDL: from VLDL; changes to LDL.\n6. LDL: richest in cholesterol; apo B-100; delivers cholesterol to tissues via LDL receptors; excess causes atherosclerosis ('bad cholesterol').\n7. HDL: smallest, densest, protein-rich; apo A-I; reverse cholesterol transport from tissues to liver ('good cholesterol').\n8. Lipoprotein lipase (activated by apo C-II) breaks down TG of chylomicrons and VLDL; LDL-receptor defect causes familial hypercholesterolaemia."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the structure and functions of cholesterol in the body.",
+      "answer": "1. Cholesterol is the main animal sterol (derived lipid), C27H46O; not present in plants.\n2. Structure: cyclopentanoperhydrophenanthrene nucleus (rings A, B, C six-membered, D five-membered); –OH at C3; double bond C5–C6; methyl groups C18, C19; 8-carbon side chain at C17 (draw).\n3. Exists free and esterified (about two-thirds esterified in plasma); carried mostly in LDL.\n4. Sources: diet (egg yolk, meat, ghee) and synthesis in liver from acetyl CoA; key enzyme HMG-CoA reductase (blocked by statins).\n5. Functions: (a) part of cell membranes, controls fluidity; (b) precursor of bile acids (fat digestion, main route of elimination); (c) steroid hormones – cortisol, aldosterone, sex hormones; (d) 7-dehydrocholesterol → vitamin D3 in skin; (e) myelin and nerve tissue; (f) waterproofing of skin.\n6. Clinical: excess → atherosclerosis; desirable total cholesterol commonly quoted below about 200 mg/dl."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Classify fatty acids with examples. What are essential fatty acids?",
+      "answer": "1. Saturated – no double bond: butyric (4C), palmitic (16C), stearic (18C).\n2. Monounsaturated – oleic (18:1).\n3. Polyunsaturated – linoleic (18:2, ω-6), α-linolenic (18:3, ω-3), arachidonic (20:4), EPA, DHA.\n4. By chain length: short, medium, long; cis and trans.\n5. Essential fatty acids: cannot be made in the body and must be taken in diet – linoleic and α-linolenic acid (arachidonic semi-essential). Functions: membrane phospholipids, prostaglandin precursors, lower cholesterol; deficiency causes phrynoderma."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Define saponification value, iodine value and acid value with their significance.",
+      "answer": "1. Saponification value: mg KOH needed to saponify 1 g fat – indicates average molecular weight (higher value = shorter chains).\n2. Iodine value: g iodine absorbed by 100 g fat – degree of unsaturation (oils high).\n3. Acid value: mg KOH to neutralise free fatty acids in 1 g fat – indicates rancidity/freshness.\n(Also Reichert–Meissl number for volatile fatty acids – detects ghee adulteration.)"
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is rancidity? Write its types and prevention.",
+      "answer": "1. Rancidity is the development of unpleasant smell and taste in fats and oils on storage.\n2. Hydrolytic: lipases (microbial) and moisture release free short-chain fatty acids (butyric acid in butter).\n3. Oxidative: oxygen attacks double bonds of unsaturated fatty acids → peroxides, aldehydes, ketones; helped by light, heat, metals.\n4. Prevention: cool, dark, airtight storage; antioxidants such as tocopherol, BHA, BHT, propyl gallate."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the qualitative tests for lipids.",
+      "answer": "1. Solubility – insoluble in water, soluble in chloroform.\n2. Translucent (grease) spot on paper.\n3. Emulsification with bile salt/soap.\n4. Saponification with alcoholic KOH – froth.\n5. Acrolein test – heating with KHSO4 gives pungent acrolein (glycerol).\n6. Sudan III – red oil layer.\n7. Salkowski (red chloroform layer) and Liebermann–Burchard (green) – cholesterol."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is HDL called good cholesterol?",
+      "answer": "HDL carries cholesterol from tissues and artery walls back to the liver for excretion as bile acids (reverse cholesterol transport), so a high HDL level protects against atherosclerosis."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the acrolein test?",
+      "answer": "When glycerol (or a fat containing it) is heated with potassium bisulphate, it is dehydrated to acrolein, which has a sharp irritating smell; it is a test for glycerol."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the Watson and Crick model of DNA.",
+      "answer": "1. Proposed by Watson and Crick in 1953 (using X-ray data of Franklin and Wilkins and Chargaff's rules).\n2. Two polynucleotide strands wound into a right-handed double helix about a common axis.\n3. Strands are antiparallel (5′→3′ and 3′→5′).\n4. Sugar–phosphate backbone outside, bases inside, stacked perpendicular to the axis.\n5. Complementary base pairing by hydrogen bonds: A=T (2 H-bonds), G≡C (3 H-bonds); purine always pairs with pyrimidine, so A = T and G = C (Chargaff).\n6. Dimensions: diameter 2 nm; pitch 3.4 nm per turn; about 10 base pairs per turn; 0.34 nm between base pairs.\n7. Major and minor grooves for protein binding.\n8. Strands separate on heating (denaturation) and re-join on cooling (annealing).\n9. Draw the double helix with base pairs. Mention A-DNA and Z-DNA (left-handed) as other forms."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure and functions of different types of RNA.",
+      "answer": "1. RNA: single-stranded polynucleotide of ribonucleotides; sugar ribose; bases A, G, C and uracil; does not follow Chargaff's rule; folds into hairpin loops.\n2. mRNA (about 5%): linear copy of a gene; 5′ cap and 3′ poly-A tail in eukaryotes; carries codons (triplets) to ribosomes – template for protein synthesis.\n3. tRNA (about 15%): small (about 75–90 nucleotides); cloverleaf structure with acceptor stem (CCA end carrying the amino acid), D-loop, TψC loop and anticodon loop; unusual bases; carries specific amino acids and reads codons (adaptor).\n4. rRNA (about 80%): with proteins forms ribosomes (large and small subunits); one rRNA acts as peptidyl transferase (ribozyme).\n5. Small RNAs: snRNA (splicing), miRNA and siRNA (gene silencing).\n6. Draw tRNA cloverleaf. Add a table comparing DNA and RNA."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is biotechnology? Explain recombinant DNA technology and its applications in pharmacy.",
+      "answer": "1. Biotechnology: use of living organisms, cells or their parts to make useful products; traditional (fermentation – antibiotics, alcohol) and modern (genetic engineering, hybridoma).\n2. Recombinant DNA steps: isolate the desired gene; cut gene and plasmid vector with the same restriction enzyme; join with DNA ligase; introduce into host (E. coli, yeast) – transformation; select transformed cells (antibiotic marker); grow in fermenter; purify product.\n3. Tools: restriction endonucleases, ligase, vectors (plasmids, phages), host cells, PCR.\n4. Applications: human insulin, growth hormone, erythropoietin, interferons, factor VIII, alteplase, recombinant hepatitis B vaccine; monoclonal antibodies by hybridoma technology (trastuzumab, rituximab); diagnostics (ELISA, PCR); gene therapy; transgenic crops.\n5. Advantages: pure human proteins in bulk, less allergy; limitations: cost, cold chain, ethical concerns."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between DNA and RNA.",
+      "answer": "| DNA | RNA |\n| Deoxyribose sugar | Ribose sugar |\n| Bases A, G, C, T | Bases A, G, C, U |\n| Double-stranded helix | Mostly single-stranded |\n| Follows Chargaff's rule | Does not |\n| Mainly in nucleus | Nucleus and cytoplasm |\n| Stable; genetic material | Less stable; protein synthesis |\n| One main type | mRNA, tRNA, rRNA |"
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate nucleosides and nucleotides with examples.",
+      "answer": "1. Nucleoside = nitrogenous base + pentose sugar joined by a β-N-glycosidic bond (C1′ to N9 of purine or N1 of pyrimidine): adenosine, guanosine, cytidine, uridine, thymidine.\n2. Nucleotide = nucleoside + phosphate (usually at C5′): AMP, ADP, ATP, GTP, cAMP, dTMP.\n3. Nucleotides are units of nucleic acids and also act as energy carriers (ATP), second messengers (cAMP) and parts of coenzymes (NAD, FAD, CoA)."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the purine and pyrimidine bases. Write their importance.",
+      "answer": "1. Purines (two fused rings): adenine, guanine; minor – hypoxanthine, xanthine; end product uric acid (gout).\n2. Pyrimidines (one ring): cytosine (DNA, RNA), thymine (DNA), uracil (RNA).\n3. Importance: carry genetic code by base pairing (A–T/U, G–C); parts of ATP, GTP, NAD, FAD, CoA, cAMP.\n4. Drug analogues: 5-fluorouracil, 6-mercaptopurine, allopurinol, acyclovir, zidovudine."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the functions of DNA. State the central dogma.",
+      "answer": "1. Stores genetic information in base sequence.\n2. Replication – exact copies passed to daughter cells (semi-conservative).\n3. Transcription – template for RNA, which directs protein synthesis.\n4. Mutations give variation, genetic disease and cancer.\n5. Central dogma: DNA → (transcription) RNA → (translation) protein; DNA copies itself by replication; reverse transcription (RNA → DNA) in retroviruses."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name two products of recombinant DNA technology.",
+      "answer": "Human insulin and recombinant hepatitis B vaccine (others: growth hormone, erythropoietin, interferons)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a codon?",
+      "answer": "A codon is a sequence of three bases on mRNA that codes for one amino acid or a stop signal; AUG is the start codon and UAA, UAG, UGA are stop codons."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define enzymes. Give the IUB classification of enzymes with examples.",
+      "answer": "1. Enzymes are protein biological catalysts that speed up reactions without being consumed; act on substrates at the active site.\n2. IUBMB classification by type of reaction (EC numbers):\n   (1) Oxidoreductases – oxidation–reduction: lactate dehydrogenase, alcohol dehydrogenase, cytochrome oxidase, catalase.\n   (2) Transferases – transfer of groups: hexokinase, ALT, AST, creatine kinase.\n   (3) Hydrolases – hydrolysis: amylase, lipase, pepsin, urease, acetylcholinesterase.\n   (4) Lyases – addition/removal of groups to double bonds without hydrolysis: aldolase, fumarase, carbonic anhydrase, decarboxylases.\n   (5) Isomerases – interconversion of isomers: triose phosphate isomerase, phosphoglucomutase.\n   (6) Ligases – joining with ATP: DNA ligase, glutamine synthetase, pyruvate carboxylase.\n   (7) Translocases added in 2018 (membrane transport).\n3. Each enzyme has a 4-digit EC number (e.g. hexokinase EC 2.7.1.1)."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the factors affecting enzyme activity.",
+      "answer": "1. Substrate concentration: rate rises then reaches Vmax (saturation); hyperbolic curve; Km = substrate concentration at half Vmax (low Km = high affinity).\n2. Enzyme concentration: rate directly proportional with excess substrate.\n3. Temperature: rate rises to optimum (about 37 °C for human enzymes) then falls due to denaturation; cold inactivates reversibly.\n4. pH: bell-shaped curve with optimum pH (pepsin about 1.5–2, amylase about 6.8, trypsin about 8, ALP about 9–10).\n5. Product concentration – product/feedback inhibition.\n6. Activators – metal ions (Mg2+, Cl− for salivary amylase, Zn2+).\n7. Inhibitors – competitive, non-competitive, irreversible.\n8. Time and radiation.\n9. Draw the three graphs (substrate, temperature, pH)."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are enzyme inhibitors? Explain competitive and non-competitive inhibition with examples.",
+      "answer": "1. Inhibitors are substances that reduce enzyme activity; reversible (competitive, non-competitive, uncompetitive) or irreversible.\n2. Competitive: inhibitor resembles substrate and binds the active site; reversed by excess substrate; Km increases, Vmax unchanged. Examples: malonate – succinate dehydrogenase; statins – HMG-CoA reductase; methotrexate – dihydrofolate reductase; sulphonamides – bacterial dihydropteroate synthase; allopurinol – xanthine oxidase; ethanol in methanol poisoning.\n3. Non-competitive: binds a different site; not reversed by substrate; Km unchanged, Vmax decreased. Examples: heavy metals (Hg, Pb) on –SH enzymes; cyanide on cytochrome oxidase.\n4. Irreversible: covalent bond – organophosphates on acetylcholinesterase; aspirin on cyclooxygenase. Suicide inhibition – allopurinol, 5-fluorouracil.\n5. Table of differences and a graph/Lineweaver–Burk sketch if possible.\n6. Importance: many drugs act as enzyme inhibitors."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Explain the mechanism of enzyme action.",
+      "answer": "1. Enzymes lower the activation energy, providing an easier path to the transition state.\n2. E + S ⇌ ES → E + P (enzyme–substrate complex).\n3. Lock and key model (Fischer): rigid active site fits substrate exactly.\n4. Induced fit model (Koshland): active site changes shape on binding to fit substrate, bringing catalytic groups into position.\n5. Catalysis by proximity and orientation, bond strain, acid–base, covalent and metal ion catalysis."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the therapeutic and diagnostic importance of enzymes.",
+      "answer": "1. Therapeutic: streptokinase, urokinase, alteplase (thrombolysis); L-asparaginase (leukaemia); pancreatin, papain (digestion); hyaluronidase (spreading of injections); serratiopeptidase (inflammation); dornase alfa (cystic fibrosis); collagenase (debridement).\n2. Diagnostic: ALT/AST (liver, heart), ALP (obstructive jaundice, bone disease), amylase and lipase (pancreatitis), CK-MB and LDH (myocardial infarction), acid phosphatase (prostate), GGT (alcohol).\n3. Analytical reagents: GOD-POD, urease, cholesterol oxidase."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are isoenzymes? Give two examples with clinical importance.",
+      "answer": "1. Isoenzymes are different molecular forms of an enzyme that catalyse the same reaction but differ in structure, tissue distribution and properties.\n2. Lactate dehydrogenase: LDH1–LDH5; LDH1 rich in heart (raised in myocardial infarction), LDH5 in liver and muscle.\n3. Creatine kinase: CK-MM (muscle), CK-MB (heart – myocardial infarction), CK-BB (brain).\n4. Useful to locate the damaged organ."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Define coenzyme and cofactor. Give examples of coenzymes derived from vitamins.",
+      "answer": "1. Holoenzyme = apoenzyme (protein) + cofactor (non-protein); cofactor may be a metal ion (Mg2+, Zn2+) or an organic coenzyme; tightly bound coenzyme = prosthetic group.\n2. NAD/NADP – niacin; FAD/FMN – riboflavin; TPP – thiamine; PLP – pyridoxine; CoA – pantothenic acid; biotin; THF – folic acid; methylcobalamin – B12."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Km.",
+      "answer": "Km (Michaelis constant) is the substrate concentration at which the reaction rate is half of the maximum velocity (Vmax); a low Km indicates high affinity of the enzyme for its substrate."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are zymogens? Give two examples.",
+      "answer": "Zymogens (proenzymes) are inactive precursors of enzymes that are activated when needed, e.g. pepsinogen → pepsin, trypsinogen → trypsin."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify vitamins. Write the sources, functions and deficiency diseases of vitamin A.",
+      "answer": "1. Vitamins: organic substances needed in small amounts in diet; fat-soluble (A, D, E, K) and water-soluble (B-complex, C).\n2. Vitamin A: retinol (alcohol), retinal, retinoic acid; provitamin β-carotene.\n3. Sources: fish liver oils, liver, egg yolk, milk, butter; carrots, green leafy vegetables, papaya, mango (carotenes).\n4. Functions: vision – 11-cis-retinal + opsin = rhodopsin; light isomerises it to all-trans-retinal (visual cycle); health of epithelium; growth, reproduction, immunity; antioxidant (β-carotene).\n5. RDA: about 600–1000 µg retinol equivalents per day for adults.\n6. Deficiency: night blindness (earliest), xerophthalmia – conjunctival xerosis, Bitot's spots, corneal xerosis, keratomalacia, blindness; follicular hyperkeratosis; infections.\n7. Excess: hypervitaminosis A, teratogenic."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the coenzyme forms, functions and deficiency diseases of B-complex vitamins.",
+      "answer": "1. B1 thiamine → TPP: oxidative decarboxylation (PDH, α-KG DH), transketolase; deficiency beriberi (dry, wet), Wernicke–Korsakoff.\n2. B2 riboflavin → FMN, FAD: hydrogen carriers; deficiency angular stomatitis, cheilosis, glossitis.\n3. B3 niacin → NAD, NADP: dehydrogenases; deficiency pellagra – dermatitis, diarrhoea, dementia.\n4. B5 pantothenic acid → coenzyme A: acyl transfer; burning foot syndrome.\n5. B6 pyridoxine → PLP: transamination, decarboxylation; convulsions, neuropathy (isoniazid-induced).\n6. B7 biotin → carboxylation (pyruvate and acetyl CoA carboxylase); dermatitis (raw egg avidin).\n7. B9 folic acid → THF: one-carbon transfer, DNA synthesis; megaloblastic anaemia, neural tube defects.\n8. B12 cobalamin → methylcobalamin, deoxyadenosylcobalamin: methionine synthase, methylmalonyl CoA mutase; pernicious/megaloblastic anaemia, neuropathy; needs intrinsic factor.\n9. Present as a table."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the sources, active form, functions and deficiency of vitamin D.",
+      "answer": "1. Steroid derivative: D2 ergocalciferol (plants), D3 cholecalciferol (formed in skin from 7-dehydrocholesterol by UV light).\n2. Sources: sunlight, fish liver oils, fatty fish, egg yolk, fortified foods.\n3. Activation: liver 25-hydroxylation → 25-hydroxycholecalciferol; kidney 1-α-hydroxylation (stimulated by PTH) → 1,25-dihydroxycholecalciferol (calcitriol), the active hormone.\n4. Functions: increases intestinal absorption of calcium and phosphate, renal reabsorption and bone mobilisation; mineralisation of bones and teeth.\n5. RDA: about 10–15 µg (400–600 IU) per day.\n6. Deficiency: rickets in children (bow legs, rickety rosary, skull bossing, pigeon chest), osteomalacia in adults, tetany.\n7. Excess: hypercalcaemia, kidney stones."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on vitamin C (ascorbic acid).",
+      "answer": "1. Water-soluble, strong reducing agent; humans cannot synthesise it; destroyed by heat and air.\n2. Sources: amla, guava, citrus fruits, tomato, green vegetables.\n3. Functions: hydroxylation of proline and lysine in collagen; iron absorption; antioxidant; synthesis of carnitine, noradrenaline, steroids; immunity.\n4. RDA about 40–80 mg/day.\n5. Deficiency – scurvy: spongy bleeding gums, loose teeth, petechiae, poor wound healing, anaemia; Barlow's disease in infants."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the functions and deficiency of vitamin K.",
+      "answer": "1. K1 phylloquinone (plants), K2 menaquinones (gut bacteria), K3 menadione (synthetic).\n2. Function: coenzyme for γ-carboxylation of glutamate residues of clotting factors II, VII, IX, X (and proteins C, S, osteocalcin).\n3. Deficiency: bleeding tendency, prolonged prothrombin time; haemorrhagic disease of the newborn (vitamin K given at birth); in obstructive jaundice, malabsorption, antibiotics.\n4. Warfarin is a vitamin K antagonist; vitamin K is its antidote."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate fat-soluble and water-soluble vitamins.",
+      "answer": "| Fat-soluble | Water-soluble |\n| A, D, E, K | B-complex, C |\n| Need bile and fat for absorption | Absorbed directly |\n| Stored in liver and fat | Not stored (except B12) |\n| Excess may be toxic (A, D) | Excess excreted in urine |\n| Deficiency slow | Deficiency quick |\n| Mostly not coenzymes | Mostly act as coenzymes |"
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on vitamin E.",
+      "answer": "1. Tocopherols; α-tocopherol most active.\n2. Sources: vegetable oils (wheat germ, sunflower), nuts, seeds, green vegetables.\n3. Function: main fat-soluble antioxidant – protects PUFA in membranes and LDL from free radicals; protects red cells; works with selenium; used as antioxidant in formulations.\n4. RDA about 8–10 mg/day.\n5. Deficiency (rare): haemolytic anaemia in premature infants, neuropathy, muscle weakness; sterility in rats."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are the 3 Ds of pellagra?",
+      "answer": "Dermatitis (on sun-exposed skin), diarrhoea and dementia, caused by niacin deficiency (a fourth D, death, if untreated)."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is pyridoxine given with isoniazid?",
+      "answer": "Isoniazid reacts with pyridoxal and increases its excretion, causing vitamin B6 deficiency and peripheral neuropathy; pyridoxine supplements prevent this."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe glycolysis with its energetics and regulation.",
+      "answer": "1. Definition: breakdown of glucose to 2 pyruvate (aerobic) or 2 lactate (anaerobic); Embden–Meyerhof pathway; site cytosol of all cells.\n2. Preparatory phase: glucose → G-6-P (hexokinase/glucokinase, –ATP) → F-6-P (isomerase) → F-1,6-bisP (PFK-1, –ATP) → aldolase gives glyceraldehyde-3-P + DHAP (triose phosphate isomerase converts DHAP).\n3. Pay-off phase (×2): G-3-P → 1,3-BPG (G3P dehydrogenase, NADH) → 3-PG (phosphoglycerate kinase, +ATP) → 2-PG (mutase) → PEP (enolase; inhibited by fluoride) → pyruvate (pyruvate kinase, +ATP).\n4. Anaerobic: pyruvate → lactate (LDH) regenerates NAD+.\n5. Energetics: 4 ATP made – 2 used = net 2 ATP anaerobic; aerobic net 7 ATP (2 + 2 NADH × 2.5) [8 by older values].\n6. Regulation: irreversible enzymes hexokinase, PFK-1 (rate-limiting; activated by AMP, fructose-2,6-bisP; inhibited by ATP, citrate), pyruvate kinase; insulin stimulates, glucagon inhibits.\n7. Significance: only ATP source in RBCs and in anaerobic muscle; intermediates for synthesis; 2,3-BPG in RBC.\n8. Draw the pathway (without structures)."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the TCA cycle and write its energetics and significance.",
+      "answer": "1. Definition: cyclic oxidation of acetyl CoA to CO2 and water in the mitochondrial matrix (Krebs, 1937).\n2. Reactions: acetyl CoA + oxaloacetate → citrate (citrate synthase) → isocitrate (aconitase) → α-ketoglutarate (isocitrate DH, NADH, CO2) → succinyl CoA (α-KG DH, NADH, CO2) → succinate (succinate thiokinase, GTP) → fumarate (succinate DH, FADH2) → malate (fumarase) → oxaloacetate (malate DH, NADH).\n3. Energetics per acetyl CoA: 3 NADH (7.5) + 1 FADH2 (1.5) + 1 GTP (1) = 10 ATP (12 by older values).\n4. Regulation: citrate synthase, isocitrate DH, α-KG DH; inhibited by ATP, NADH; activated by ADP, Ca2+.\n5. Inhibitors: fluoroacetate (aconitase), arsenite (α-KG DH), malonate (SDH).\n6. Significance: final common pathway of carbohydrate, fat, protein oxidation; amphibolic (intermediates for amino acids, haem, fatty acids, glucose); linked to urea cycle; needs B vitamins.\n7. Draw the cycle."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the regulation of blood glucose level. Add a note on diabetes mellitus.",
+      "answer": "1. Normal fasting plasma glucose about 70–100 mg/dl (ranges vary by laboratory).\n2. After meals insulin (β-cells) lowers glucose: increases uptake by muscle and fat (GLUT4), glycolysis, glycogenesis, lipogenesis; decreases gluconeogenesis and glycogenolysis. Insulin is the only hormone that lowers blood glucose.\n3. In fasting/stress: glucagon (glycogenolysis, gluconeogenesis), adrenaline (rapid glycogenolysis), cortisol (gluconeogenesis), growth hormone and thyroxine raise glucose.\n4. Liver stores and releases glucose; kidney excretes glucose above renal threshold (about 180 mg/dl).\n5. Diabetes mellitus: chronic hyperglycaemia due to insulin deficiency/resistance; type 1 (autoimmune, insulin) and type 2 (insulin resistance, obesity, oral drugs).\n6. Symptoms: polyuria, polydipsia, polyphagia, weight loss; biochemical – glycosuria, ketosis, hyperlipidaemia.\n7. Commonly used cut-offs: fasting ≥126 mg/dl, 2-hour OGTT ≥200 mg/dl, HbA1c ≥6.5%.\n8. Complications: ketoacidosis, retinopathy, nephropathy, neuropathy, heart disease."
+    },
+    {
+      "id": "u7-l04",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the electron transport chain and oxidative phosphorylation.",
+      "answer": "1. Site: inner mitochondrial membrane.\n2. Components: Complex I (NADH–CoQ reductase, FMN, Fe–S), Complex II (succinate–CoQ reductase, FAD), coenzyme Q, Complex III (cytochrome b–c1), cytochrome c, Complex IV (cytochrome oxidase a–a3, Cu) → O2 reduced to water.\n3. Protons are pumped at complexes I, III and IV into the intermembrane space.\n4. Oxidative phosphorylation: ATP synthesis from ADP + Pi coupled to electron transport; chemiosmotic theory (Mitchell) – proton gradient drives ATP synthase (complex V, F0–F1).\n5. P/O ratio: NADH 2.5 (3 old), FADH2 1.5 (2 old).\n6. Inhibitors: rotenone, amobarbital (I); antimycin A (III); cyanide, CO, H2S (IV); oligomycin (ATP synthase). Uncouplers: 2,4-dinitrophenol, thermogenin, high-dose salicylates – energy lost as heat.\n7. Draw the chain."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the steps of glycogenesis and glycogenolysis.",
+      "answer": "1. Glycogenesis (insulin): glucose → G-6-P (hexokinase) → G-1-P (phosphoglucomutase) → UDP-glucose (UDP-glucose pyrophosphorylase, UTP) → glycogen synthase adds α(1→4) units to primer (glycogenin) → branching enzyme makes α(1→6) branches.\n2. Glycogenolysis (glucagon, adrenaline): glycogen phosphorylase (PLP) releases G-1-P; debranching enzyme removes branches; G-1-P → G-6-P; in liver glucose-6-phosphatase gives free glucose; muscle lacks it, so uses G-6-P for glycolysis."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Name the glycogen storage diseases with enzyme defects.",
+      "answer": "1. Type I von Gierke – glucose-6-phosphatase: hypoglycaemia, hepatomegaly, lactic acidosis.\n2. Type II Pompe – lysosomal acid maltase (α-1,4-glucosidase): cardiomegaly.\n3. Type III Cori – debranching enzyme.\n4. Type IV Andersen – branching enzyme: cirrhosis.\n5. Type V McArdle – muscle phosphorylase: exercise cramps.\n6. Type VI Hers – liver phosphorylase."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the energetics of complete oxidation of one glucose molecule.",
+      "answer": "1. Glycolysis: 2 ATP + 2 NADH (5) = 7 (malate shuttle) [old 8].\n2. Pyruvate → acetyl CoA: 2 NADH = 5 [6].\n3. TCA (2 turns): 6 NADH (15) + 2 FADH2 (3) + 2 GTP (2) = 20 [24].\n4. Total = 32 ATP (30 with glycerol phosphate shuttle) by new P/O values; 38 (36) by old values."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on galactosaemia and lactose intolerance.",
+      "answer": "1. Galactosaemia: deficiency of galactose-1-phosphate uridyl transferase; galactose and galactose-1-P accumulate in infants on milk – vomiting, jaundice, liver damage, cataract (galactitol), mental retardation; treat with lactose-free diet.\n2. Lactose intolerance: lactase deficiency; undigested lactose fermented by colon bacteria – bloating, cramps, diarrhoea after milk; avoid milk, use curd or lactase."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is sodium fluoride added to blood samples for glucose estimation?",
+      "answer": "Fluoride inhibits enolase of glycolysis, so blood cells cannot use up glucose after collection, and the glucose value stays correct."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is substrate-level phosphorylation? Give one example.",
+      "answer": "Formation of ATP directly from a high-energy substrate without the electron transport chain, e.g. phosphoglycerate kinase or pyruvate kinase in glycolysis, succinate thiokinase in the TCA cycle."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe β-oxidation of palmitic acid and calculate its energy yield.",
+      "answer": "1. Definition: stepwise removal of 2-carbon (acetyl CoA) units from fatty acids with oxidation at the β-carbon; site mitochondrial matrix.\n2. Activation in cytosol: fatty acid + CoA + ATP → acyl CoA + AMP + PPi (acyl CoA synthetase) – costs 2 ATP.\n3. Transport: carnitine shuttle – CPT-I (rate-limiting, inhibited by malonyl CoA), translocase, CPT-II.\n4. Each cycle: (a) acyl CoA dehydrogenase – FADH2; (b) enoyl CoA hydratase – hydration; (c) β-hydroxyacyl CoA dehydrogenase – NADH; (d) thiolase – acetyl CoA + acyl CoA shorter by 2 C.\n5. Palmitic acid (C16): 7 cycles → 8 acetyl CoA, 7 FADH2, 7 NADH.\n6. ATP: 8 × 10 = 80; 7 × 1.5 = 10.5; 7 × 2.5 = 17.5; total 108 − 2 = 106 ATP net (old values: 96 + 14 + 21 = 131 − 2 = 129).\n7. Draw the cycle (no structures needed)."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are ketone bodies? Explain ketogenesis, ketolysis and ketoacidosis.",
+      "answer": "1. Ketone bodies: acetoacetate, β-hydroxybutyrate, acetone.\n2. Ketogenesis – liver mitochondria only: 2 acetyl CoA → acetoacetyl CoA (thiolase) → + acetyl CoA → HMG-CoA (HMG-CoA synthase, rate-limiting) → acetoacetate (HMG-CoA lyase) → β-hydroxybutyrate (dehydrogenase) / acetone (spontaneous).\n3. Increased when β-oxidation is high and oxaloacetate low: starvation, uncontrolled diabetes, low-carbohydrate diet.\n4. Ketolysis – extrahepatic tissues (heart, muscle, kidney, brain in starvation): β-hydroxybutyrate → acetoacetate → acetoacetyl CoA (thiophorase, using succinyl CoA; absent in liver) → 2 acetyl CoA → TCA.\n5. Ketoacidosis: production exceeds use → ketonaemia, ketonuria and metabolic acidosis; in type 1 diabetes – insulin lack → excess lipolysis → acetyl CoA flood.\n6. Features: fruity breath, Kussmaul breathing, dehydration, vomiting, coma; Rothera's test; treatment insulin, fluids, potassium."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on hypercholesterolaemia and fatty liver.",
+      "answer": "1. Hypercholesterolaemia: raised serum cholesterol (commonly TC above about 200 mg/dl, LDL above about 130 mg/dl).\n2. Primary: familial hypercholesterolaemia – LDL receptor defect, xanthomas, early heart attacks. Secondary: high saturated/trans fat diet, obesity, diabetes, hypothyroidism, nephrotic syndrome, obstructive jaundice.\n3. Effects: atherosclerosis → coronary heart disease, stroke.\n4. Management: diet, exercise, statins (HMG-CoA reductase), ezetimibe, bile acid sequestrants.\n5. Fatty liver: excess triglyceride in liver cells due to more fat coming in (diabetes, starvation, high-fat diet), more synthesis (alcohol, excess carbohydrate) or less export as VLDL (protein deficiency, lack of lipotropic factors, CCl4).\n6. Lipotropic factors: choline, methionine, betaine, inositol.\n7. May progress to steatohepatitis and cirrhosis; treat cause."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on lipolysis and its regulation.",
+      "answer": "1. Hydrolysis of stored triglycerides in adipose tissue to glycerol and free fatty acids by adipose triglyceride lipase, hormone-sensitive lipase (key enzyme) and monoacylglycerol lipase.\n2. Fatty acids go to tissues bound to albumin for β-oxidation; glycerol goes to liver for gluconeogenesis/glycolysis.\n3. Stimulated by adrenaline, noradrenaline, glucagon (cAMP), growth hormone, cortisol; inhibited by insulin.\n4. Increased in fasting, stress and diabetes."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is the role of carnitine in fatty acid oxidation?",
+      "answer": "1. Long-chain acyl CoA cannot cross the inner mitochondrial membrane.\n2. CPT-I (outer membrane) transfers acyl group to carnitine → acyl carnitine.\n3. Translocase carries acyl carnitine into the matrix in exchange for carnitine.\n4. CPT-II regenerates acyl CoA inside.\n5. CPT-I is rate-limiting and inhibited by malonyl CoA; carnitine deficiency causes muscle weakness and fasting hypoglycaemia."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Why can the liver not use ketone bodies?",
+      "answer": "1. Liver makes ketone bodies in mitochondria from acetyl CoA.\n2. Utilisation needs succinyl CoA–acetoacetate CoA transferase (thiophorase) to activate acetoacetate to acetoacetyl CoA.\n3. Liver lacks this enzyme, so ketone bodies are exported to heart, muscle, kidney and brain."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are lipotropic factors? Write their role.",
+      "answer": "1. Substances that prevent fatty liver by helping export of fat from liver.\n2. Examples: choline, methionine, betaine, inositol (also B12, folate).\n3. They supply choline/methyl groups for phosphatidylcholine (lecithin) synthesis, needed for VLDL formation; without them fat accumulates in liver."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the ketone bodies.",
+      "answer": "Acetoacetate, β-hydroxybutyrate and acetone."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "How many ATP are obtained from complete oxidation of one palmitic acid?",
+      "answer": "106 ATP net by newer P/O values (108 gross − 2 for activation); 129 by older values."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the urea cycle with its significance.",
+      "answer": "1. Definition: conversion of toxic ammonia to urea in the liver (Krebs–Henseleit, ornithine cycle).\n2. Mitochondria: NH3 + CO2 + 2 ATP → carbamoyl phosphate (carbamoyl phosphate synthetase I; activator N-acetylglutamate; rate-limiting); carbamoyl phosphate + ornithine → citrulline (ornithine transcarbamoylase).\n3. Cytosol: citrulline + aspartate + ATP → argininosuccinate (argininosuccinate synthetase); → arginine + fumarate (argininosuccinate lyase); arginine → urea + ornithine (arginase).\n4. Nitrogen from NH3 and aspartate; carbon from CO2; 3 ATP (4 high-energy bonds) per urea.\n5. Fumarate links with TCA cycle (Krebs bicycle).\n6. Significance: detoxifies ammonia; main nitrogen excretion (about 20–30 g urea/day); arginine synthesis; blood urea rises in kidney failure and falls in liver failure.\n7. Disorders: hyperammonaemia type I (CPS-I), type II (OTC), citrullinaemia, argininosuccinic aciduria, hyperargininaemia.\n8. Draw the cycle."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define jaundice. Classify it and give the differences between the three types.",
+      "answer": "1. Jaundice: yellow colour of skin, sclera and mucosa due to raised serum bilirubin, visible above about 2–2.5 mg/dl (normal total about 0.2–1.0 mg/dl).\n2. Bilirubin metabolism (brief): haem → biliverdin → unconjugated bilirubin (albumin-bound) → liver conjugation (UDP-glucuronyl transferase) → bile → urobilinogen in gut → stercobilin (faeces) / urobilin (urine).\n3. Pre-hepatic (haemolytic): excess haemolysis, neonatal jaundice; unconjugated ↑; indirect van den Bergh; no bilirubin in urine (acholuric); urobilinogen ↑; dark stools.\n4. Hepatic: hepatitis, cirrhosis, drugs; both forms ↑; biphasic; bilirubin in urine; ALT/AST markedly ↑.\n5. Post-hepatic (obstructive): gallstones, carcinoma head of pancreas; conjugated ↑; direct positive; bilirubin and bile salts in urine (itching); urobilinogen absent; clay-coloured stools; ALP markedly ↑.\n6. Present differences as a table."
+    },
+    {
+      "id": "u9-l03",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain transamination and deamination with their significance.",
+      "answer": "1. Transamination: transfer of amino group from an α-amino acid to an α-keto acid (usually α-ketoglutarate → glutamate) by transaminases with PLP (vitamin B6); reversible; all amino acids except lysine, threonine.\n2. ALT: alanine + α-KG ⇌ pyruvate + glutamate; AST: aspartate + α-KG ⇌ oxaloacetate + glutamate.\n3. Significance: funnels amino groups to glutamate, synthesis of non-essential amino acids, link to carbohydrate metabolism, diagnostic value of ALT/AST.\n4. Deamination: removal of amino group as NH3. Oxidative – glutamate dehydrogenase (liver mitochondria, NAD/NADP) → α-KG + NH3; also amino acid oxidases. Non-oxidative – dehydratases (serine, threonine), histidase.\n5. Transdeamination = transamination + oxidative deamination of glutamate.\n6. Significance: liberates ammonia for urea synthesis; carbon skeleton used for energy, glucose or fat."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on phenylketonuria.",
+      "answer": "1. Autosomal recessive deficiency of phenylalanine hydroxylase (phenylalanine → tyrosine).\n2. Phenylalanine accumulates and forms phenylpyruvate, phenyllactate, phenylacetate excreted in urine; tyrosine, melanin and catecholamines reduced.\n3. Features: mental retardation, seizures, fair skin and hair, mousy odour of urine.\n4. Diagnosis: Guthrie test/newborn screening; ferric chloride test (green).\n5. Treatment: low-phenylalanine diet from infancy; avoid aspartame."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on alkaptonuria.",
+      "answer": "1. Inborn error (Garrod) – deficiency of homogentisate oxidase in tyrosine breakdown.\n2. Homogentisic acid excreted in urine; oxidises on standing (especially alkaline) to black pigment – urine darkens.\n3. Adults: ochronosis (dark pigment in cartilage, ears, sclera), arthritis, heart valve disease.\n4. Tests: darkening on standing/alkali, ferric chloride, false positive Benedict's.\n5. Treatment: low phenylalanine/tyrosine diet, vitamin C; nitisinone."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write about disorders of ammonia metabolism (hyperammonaemia).",
+      "answer": "1. Raised blood ammonia, toxic to brain (depletes α-KG, glutamine accumulation).\n2. Acquired: liver failure, cirrhosis, portal-systemic shunt, GI bleeding.\n3. Inherited urea cycle defects: CPS-I (type I), OTC (type II, most common), citrullinaemia, argininosuccinic aciduria, hyperargininaemia.\n4. Features: vomiting, lethargy, flapping tremor, slurred speech, convulsions, coma.\n5. Treatment: low-protein diet, lactulose, rifaximin/neomycin, sodium benzoate/phenylbutyrate, arginine, dialysis."
+    },
+    {
+      "id": "u9-s04",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is decarboxylation of amino acids? Give examples of biogenic amines formed.",
+      "answer": "1. Removal of COOH as CO2 from an amino acid by decarboxylases with PLP, forming amines.\n2. Histidine → histamine (allergy, gastric acid); tyrosine/DOPA → dopamine → noradrenaline → adrenaline; 5-hydroxytryptophan → serotonin (→ melatonin); glutamate → GABA (inhibitory transmitter); cysteine → cysteamine; serine → ethanolamine.\n3. Carbidopa (decarboxylase inhibitor) is given with levodopa."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the source of the two nitrogen atoms of urea?",
+      "answer": "One nitrogen comes from free ammonia (via carbamoyl phosphate) and the other from aspartate."
+    },
+    {
+      "id": "u9-v02",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is kernicterus?",
+      "answer": "Kernicterus is brain damage in newborns caused by very high unconjugated bilirubin crossing the immature blood–brain barrier and depositing in the basal ganglia."
+    },
+    {
+      "id": "u10-l01",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the sources, functions and deficiency diseases of calcium and iron.",
+      "answer": "1. Calcium: 99% in bones and teeth. Sources – milk, ragi, green leafy vegetables, sesame. Absorption increased by vitamin D, decreased by phytates and oxalates. Functions – bones and teeth, blood clotting, muscle contraction, nerve transmission, second messenger, enzyme activation. Plasma about 9–11 mg/dl, regulated by PTH, calcitriol, calcitonin. RDA about 600–1000 mg/day. Deficiency – rickets, osteomalacia, osteoporosis, tetany.\n2. Iron: in haemoglobin, myoglobin, cytochromes, catalase; stored as ferritin, carried by transferrin. Sources – liver, meat, green leafy vegetables, jaggery, dates; vitamin C increases and tea/phytates decrease absorption. RDA about 17–19 mg (men), 21–29 mg (women), more in pregnancy. Deficiency – iron deficiency anaemia (microcytic hypochromic, fatigue, pallor, koilonychia, pica); excess – haemochromatosis."
+    },
+    {
+      "id": "u10-l02",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the distribution of water in the body and water balance.",
+      "answer": "1. Total body water about 60% of body weight in adult men (about 42 L in 70 kg), less in women and obese, more in infants.\n2. ICF about 2/3 (40% body weight); ECF about 1/3 (20%) – interstitial fluid 15%, plasma 5%, transcellular fluid (CSF, joint fluid).\n3. Intake about 2.5 L/day: drinking 1.2–1.5 L, food 0.7–1 L, metabolic water 0.3 L.\n4. Output about 2.5 L/day: urine 1.5 L, skin 0.5 L, lungs 0.4 L, faeces 0.1–0.2 L; insensible loss 0.8–0.9 L; obligatory urine about 500 ml.\n5. Regulation: thirst and ADH (osmoreceptors), renin–angiotensin–aldosterone (volume), ANP.\n6. Disorders: dehydration, oedema, diabetes insipidus, SIADH.\n7. Draw compartment diagram and table."
+    },
+    {
+      "id": "u10-l03",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is dehydration? Write its causes and the composition and principle of oral rehydration solution.",
+      "answer": "1. Dehydration: water loss exceeding intake, usually with sodium loss; isotonic, hypertonic, hypotonic types.\n2. Causes: diarrhoea, vomiting, excessive sweating, fever, burns, uncontrolled diabetes, diabetes insipidus, diuretics, poor intake, haemorrhage.\n3. Features: thirst, dry mouth, sunken eyes, slow skin pinch, scanty dark urine; severe – shock, unconsciousness.\n4. ORT: oral replacement of water and electrolytes; principle – sodium–glucose co-transport (SGLT1) in intestine continues in diarrhoea; water follows.\n5. WHO low-osmolarity ORS per litre: NaCl 2.6 g, glucose anhydrous 13.5 g, KCl 1.5 g, trisodium citrate dihydrate 2.9 g; Na 75, Cl 65, glucose 75, K 20, citrate 10 mmol/L; osmolarity 245 mOsm/L.\n6. Use: dissolve in 1 L clean water, use within 24 hours, small frequent sips, continue feeding; give zinc to children.\n7. Severe dehydration with shock needs IV fluids."
+    },
+    {
+      "id": "u10-s01",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the functions and deficiency of iodine, zinc and copper.",
+      "answer": "1. Iodine: thyroid hormones T3, T4; sources iodised salt, sea food; RDA about 150 µg; deficiency – goitre, cretinism.\n2. Zinc: carbonic anhydrase, ALP, alcohol dehydrogenase, insulin storage, wound healing, immunity; deficiency – growth retardation, hypogonadism, poor healing, acrodermatitis enteropathica.\n3. Copper: ceruloplasmin, cytochrome oxidase, lysyl oxidase, SOD; deficiency – anaemia, Menkes disease; excess – Wilson's disease."
+    },
+    {
+      "id": "u10-s02",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Compare the electrolyte composition of ECF and ICF.",
+      "answer": "| Ion (about, mEq/L) | Plasma/ECF | ICF |\n| Na+ | 140 | 10–15 |\n| K+ | 4–5 | 140–150 |\n| Mg2+ | 2 | 25–40 |\n| Cl− | 100–105 | 5–10 |\n| HCO3− | 24–28 | 10 |\n| Phosphate, proteins | Low | High |\nECF rich in Na+ and Cl−; ICF in K+, Mg2+, phosphate; maintained by Na+/K+-ATPase."
+    },
+    {
+      "id": "u10-s03",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the functions of water in the body.",
+      "answer": "1. Universal solvent – medium for all reactions. 2. Transport of nutrients, hormones, wastes. 3. Temperature regulation by sweating. 4. Excretion of wastes in urine. 5. Lubrication – saliva, synovial fluid. 6. Protection – CSF, amniotic fluid. 7. Takes part in hydrolysis. 8. Maintains blood volume and cell shape."
+    },
+    {
+      "id": "u10-s04",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on fluoride and its effects on teeth.",
+      "answer": "1. Main source drinking water (also tea, sea fish).\n2. Forms fluorapatite in tooth enamel, making it resistant to acid – prevents dental caries; strengthens bone.\n3. Deficiency – dental caries.\n4. Excess (high-fluoride water) – dental fluorosis (mottled, brown teeth) and skeletal fluorosis (stiff joints, bone thickening); endemic in parts of India."
+    },
+    {
+      "id": "u10-s05",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the functions of sodium and potassium.",
+      "answer": "1. Sodium: main ECF cation; ECF volume and osmotic pressure; nerve impulse; acid–base balance; co-transport of glucose and amino acids; regulated by aldosterone; plasma about 135–145 mEq/L.\n2. Potassium: main ICF cation; intracellular osmolality; resting membrane potential – heart rhythm, nerve and muscle; plasma about 3.5–5.0 mEq/L; hypokalaemia (diuretics) – weakness, arrhythmias; hyperkalaemia (kidney failure) – cardiac arrest."
+    },
+    {
+      "id": "u10-v01",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the osmolarity of WHO low-osmolarity ORS?",
+      "answer": "245 mOsm per litre."
+    },
+    {
+      "id": "u10-v02",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define trace elements with two examples.",
+      "answer": "Trace elements (microminerals) are minerals needed in amounts less than about 100 mg per day, e.g. iron, iodine, zinc, copper, selenium."
+    },
+    {
+      "id": "u11-l01",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of the kidney and describe the tests to assess kidney function.",
+      "answer": "1. Functions: excretion of wastes (urea, creatinine, uric acid, drugs), water and electrolyte balance, acid–base balance, erythropoietin, renin, calcitriol, gluconeogenesis, blood pressure control.\n2. Urine examination: volume, specific gravity (fixed about 1.010 in CKD), protein/microalbuminuria, blood, casts.\n3. Blood urea about 15–40 mg/dl (BUN about 7–20): raised in pre-renal, renal, post-renal causes; low in liver failure.\n4. Serum creatinine about 0.6–1.2 mg/dl: more reliable (independent of diet); rises after about 50% GFR loss.\n5. Uric acid and electrolytes (K+ and phosphate rise, HCO3− falls in kidney failure).\n6. Clearance C = UV/P: inulin (gold standard GFR), creatinine clearance (about 90–140 ml/min), urea clearance, eGFR (Cockcroft–Gault, CKD-EPI).\n7. Tubular tests: concentration (water deprivation) and dilution tests.\n8. Values are commonly quoted; ranges vary by laboratory."
+    },
+    {
+      "id": "u11-l02",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of the liver and describe liver function tests.",
+      "answer": "1. Functions: carbohydrate (glycogen, gluconeogenesis), lipid (cholesterol, lipoproteins, ketones, bile acids), protein (albumin, clotting factors, urea), excretion of bilirubin and drugs, detoxification (P450, conjugation), storage (glycogen, vitamins A, D, B12, iron), Kupffer cells.\n2. Excretory: serum bilirubin total (about 0.2–1.0 mg/dl), direct (up to about 0.3), indirect; van den Bergh; urine bilirubin, urobilinogen, bile salts.\n3. Enzymes: ALT (SGPT) and AST (SGOT) about 5–40 U/L – hepatocellular damage; ALP about 40–130 U/L and GGT – cholestasis.\n4. Synthetic: total protein about 6–8 g/dl, albumin about 3.5–5 g/dl, A:G about 1.2–2 (reversed in cirrhosis), prothrombin time (prolonged in severe liver disease).\n5. Others: blood ammonia, glucose, viral markers, α-fetoprotein.\n6. Pattern: ALT ↑↑ in hepatitis, ALP ↑↑ in obstruction. Values vary by laboratory."
+    },
+    {
+      "id": "u11-l03",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a lipid profile? Write the tests included and their clinical significance.",
+      "answer": "1. Group of blood tests of lipids to assess cardiovascular risk; sample after 9–12 hour fast.\n2. Total cholesterol – desirable below about 200 mg/dl; borderline 200–239; high ≥240.\n3. LDL – optimal below about 100 mg/dl; high ≥160.\n4. HDL – low below about 40 (men)/50 (women); ≥60 protective.\n5. Triglycerides – normal below about 150 mg/dl; very high ≥500 (pancreatitis risk).\n6. VLDL = TG/5; ratios TC/HDL (below about 4.5–5), LDL/HDL (below about 3).\n7. Friedewald: LDL = TC − HDL − TG/5 (valid if TG < 400 mg/dl).\n8. Significance: high LDL/TC – atherosclerosis, CHD (familial, diabetes, hypothyroidism, nephrotic syndrome, obstructive jaundice); high TG – obesity, diabetes, alcohol; low HDL – smoking, inactivity; guides diet and statin therapy. Ranges vary by laboratory and guideline."
+    },
+    {
+      "id": "u11-s01",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define clearance. Explain creatinine clearance test.",
+      "answer": "1. Clearance: volume of plasma completely cleared of a substance by the kidneys per minute; C = UV/P.\n2. Creatinine clearance: 24-hour urine collected with a blood sample; urine and plasma creatinine measured.\n3. Example: V = 1 ml/min, U = 120 mg/dl, P = 1.0 mg/dl → C = 120 ml/min.\n4. Commonly quoted normal about 90–140 ml/min; falls in kidney disease; slightly overestimates GFR; used to adjust drug doses."
+    },
+    {
+      "id": "u11-s02",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Why is serum creatinine a better index of kidney function than blood urea?",
+      "answer": "1. Creatinine is produced at a constant rate from muscle creatine phosphate.\n2. It is not much affected by diet, hydration, protein breakdown or GI bleeding, unlike urea.\n3. It is filtered freely and not reabsorbed.\n4. Urea is also affected by liver function (low in liver failure).\n5. Limitation: rises only after about half of GFR is lost; depends on muscle mass."
+    },
+    {
+      "id": "u11-s03",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the significance of serum ALT, AST and ALP.",
+      "answer": "1. ALT (SGPT): mainly liver cytosol – markedly raised in viral hepatitis, toxic liver injury; more liver-specific.\n2. AST (SGOT): liver, heart, muscle – raised in liver disease, myocardial infarction, muscle injury; AST:ALT > 2 suggests alcoholic liver disease.\n3. ALP: bile ducts, bone – markedly raised in obstructive jaundice and bone diseases (rickets, Paget's, tumours); higher in children and pregnancy.\n(Commonly quoted normals: ALT/AST about 5–40 U/L, ALP about 40–130 U/L; vary by laboratory.)"
+    },
+    {
+      "id": "u11-s04",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write about the van den Bergh reaction.",
+      "answer": "1. Bilirubin reacts with diazotised sulphanilic acid to form reddish-purple azobilirubin.\n2. Direct reaction: conjugated (water-soluble) bilirubin reacts directly in water.\n3. Indirect: unconjugated bilirubin reacts only after adding alcohol (methanol), which gives total bilirubin; indirect = total − direct.\n4. Direct positive – obstructive jaundice; indirect – haemolytic; biphasic – hepatic."
+    },
+    {
+      "id": "u11-v01",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the Friedewald formula.",
+      "answer": "LDL-cholesterol = Total cholesterol − HDL-cholesterol − (Triglycerides ÷ 5), all in mg/dl; valid only when triglycerides are below 400 mg/dl."
+    },
+    {
+      "id": "u11-v02",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which test is the gold standard for measuring GFR?",
+      "answer": "Inulin clearance, because inulin is freely filtered and is neither reabsorbed nor secreted by the tubules."
+    },
+    {
+      "id": "u12-l01",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the abnormal erythrocytes seen in a blood smear and their significance.",
+      "answer": "1. Normal RBC: biconcave non-nucleated disc, 7–8 µm, central pallor, life about 120 days.\n2. Size: microcytes (MCV < about 80 fl) – iron deficiency, thalassaemia; macrocytes (> about 100 fl) – B12/folate deficiency, liver disease, alcohol; anisocytosis.\n3. Colour: hypochromic – iron deficiency, thalassaemia; polychromasia – reticulocytosis.\n4. Shape (poikilocytosis): sickle cells – sickle cell anaemia; spherocytes – hereditary spherocytosis, autoimmune haemolysis; target cells – thalassaemia, liver disease; schistocytes – DIC, microangiopathic haemolysis; tear-drop cells – myelofibrosis; elliptocytes; acanthocytes – liver disease; burr cells – uraemia.\n5. Inclusions: Howell–Jolly bodies – splenectomy; basophilic stippling – lead poisoning; Heinz bodies – G6PD deficiency; nucleated RBCs – severe haemolysis, marrow infiltration; malaria parasites; rouleaux – multiple myeloma.\n6. Summarise as a table."
+    },
+    {
+      "id": "u12-l02",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the normal and abnormal constituents of urine and their significance.",
+      "answer": "1. Normal physical: volume about 1–2 L/day, pale yellow (urochrome), clear, pH about 6 (4.5–8), specific gravity about 1.003–1.030.\n2. Normal organic: urea about 20–30 g/day, creatinine about 1–2 g/day, uric acid about 0.4–0.8 g/day, ammonia, hippuric acid, traces of urobilinogen.\n3. Normal inorganic: chloride, sodium, potassium, phosphate, sulphate, calcium.\n4. Abnormal: glucose (Benedict's) – diabetes, renal glycosuria; protein (heat-acetic acid, sulphosalicylic acid) – nephrotic syndrome, glomerulonephritis; Bence-Jones protein – multiple myeloma; ketone bodies (Rothera's) – diabetic ketoacidosis, starvation; bilirubin (Fouchet's) and bile salts (Hay's) – hepatic/obstructive jaundice; excess urobilinogen (Ehrlich's) – haemolytic jaundice; blood/haemoglobin – stones, infection, haemolysis; pus cells – UTI; casts – kidney disease; chyle – filariasis.\n5. Values vary with diet and laboratory."
+    },
+    {
+      "id": "u12-l03",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the role of lymphocytes and platelets in health and disease.",
+      "answer": "1. Lymphocytes (about 20–40% of WBC): B cells → plasma cells → antibodies (humoral immunity); T cells – helper (CD4), cytotoxic (CD8) – cell-mediated immunity; NK cells; immunological memory.\n2. Lymphocytosis: viral infections (infectious mononucleosis), whooping cough, TB, CLL, ALL; lymphopenia: HIV/AIDS, steroids, chemotherapy, radiation.\n3. Platelets: fragments of megakaryocytes, 1.5–4.5 lakh/µl (about), life 7–10 days; haemostasis – adhesion to collagen (vWF), activation, aggregation (ADP, thromboxane A2), platelet plug, surface for coagulation; wound healing.\n4. Thrombocytopenia: dengue, ITP, aplastic anaemia, leukaemia, drugs, DIC, hypersplenism → petechiae, purpura, bleeding, prolonged bleeding time.\n5. Thrombocytosis: infection, inflammation, iron deficiency, post-splenectomy, essential thrombocythaemia → clotting risk.\n6. Drugs: aspirin, clopidogrel (antiplatelets)."
+    },
+    {
+      "id": "u12-s01",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the tests for ketone bodies, bile salts and bilirubin in urine.",
+      "answer": "1. Rothera's test (ketones): saturate urine with ammonium sulphate, add sodium nitroprusside, layer liquor ammonia – purple (permanganate-coloured) ring with acetoacetate and acetone.\n2. Hay's sulphur test (bile salts): sprinkle sulphur powder – it sinks because bile salts lower surface tension.\n3. Fouchet's test (bilirubin): precipitate with barium chloride, add Fouchet's reagent (ferric chloride in trichloroacetic acid) to the precipitate – green/blue colour (biliverdin)."
+    },
+    {
+      "id": "u12-s02",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is thrombocytopenia? Give its causes.",
+      "answer": "1. Platelet count below about 1.5 lakh/µl; spontaneous bleeding usually when very low.\n2. Decreased production: aplastic anaemia, leukaemia, marrow infiltration, chemotherapy, radiation, B12/folate deficiency, alcohol.\n3. Increased destruction: ITP, dengue, malaria, drugs (heparin, quinine), DIC.\n4. Sequestration: hypersplenism.\n5. Features: petechiae, purpura, bruises, bleeding gums, epistaxis, menorrhagia."
+    },
+    {
+      "id": "u12-s03",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the significance of proteinuria and glycosuria.",
+      "answer": "1. Proteinuria: more than about 150 mg protein/day; glomerular disease (nephrotic syndrome, glomerulonephritis, diabetic nephropathy, hypertension, pre-eclampsia), tubular disease, fever, exercise, orthostatic; Bence-Jones – multiple myeloma; tests – heat and acetic acid, sulphosalicylic acid, dipstick.\n2. Glycosuria: glucose in urine when blood glucose exceeds renal threshold (about 180 mg/dl) – diabetes mellitus; renal glycosuria (low threshold), alimentary, pregnancy, SGLT2 inhibitors; tests – Benedict's, glucose oxidase strip."
+    },
+    {
+      "id": "u12-s04",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the physical characteristics of normal urine.",
+      "answer": "1. Volume about 1–2 L/day. 2. Colour pale yellow to amber (urochrome). 3. Clear when fresh. 4. Faintly aromatic odour; ammoniacal on standing. 5. Reaction slightly acidic, pH about 6 (4.5–8). 6. Specific gravity about 1.003–1.030 (usually 1.015–1.025). (Values vary with intake and laboratory.)"
+    },
+    {
+      "id": "u12-v01",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are Bence-Jones proteins?",
+      "answer": "They are free immunoglobulin light chains in urine, seen in multiple myeloma; they precipitate on heating to about 40–60 °C and redissolve near boiling."
+    },
+    {
+      "id": "u12-v02",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the significance of Howell–Jolly bodies?",
+      "answer": "They are small nuclear remnants in red cells, seen after splenectomy or when the spleen does not work (e.g. sickle cell disease), and in megaloblastic anaemia."
+    }
+  ]
+}
