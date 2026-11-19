@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The partition coefficient of a drug is usually measured between water and:",
+      "options": [
+        "n-Octanol",
+        "Chloroform",
+        "Liquid paraffin",
+        "Diethyl ether"
+      ],
+      "correct": 0,
+      "explanation": "n-Octanol is the standard reference solvent because its hydroxyl group and long chain mimic a membrane lipid.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which form of a weak acidic drug crosses the lipid membrane most easily?",
+      "options": [
+        "The ionized form",
+        "The unionized form",
+        "The sodium salt",
+        "The hydrated form"
+      ],
+      "correct": 1,
+      "explanation": "Only the unionized, lipid-soluble species diffuses passively; the ionized form is hydrophilic.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Replacement of a carboxylic acid group by a tetrazole ring is an example of:",
+      "options": [
+        "Classical monovalent bioisosterism",
+        "Chelation",
+        "Non-classical bioisosterism",
+        "Geometrical isomerism"
+      ],
+      "correct": 2,
+      "explanation": "The tetrazole has a similar acidity and charge distribution but a different size and valency, so it is a non-classical bioisostere.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which of the following is a phase II (conjugation) reaction?",
+      "options": [
+        "N-Dealkylation",
+        "Aromatic hydroxylation",
+        "Nitro reduction",
+        "Glucuronidation"
+      ],
+      "correct": 3,
+      "explanation": "Glucuronidation attaches UDP-glucuronic acid; the other three are phase I functionalisation reactions.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Which conjugation reaction does NOT increase the water solubility of a drug?",
+      "options": [
+        "Acetylation",
+        "Glucuronidation",
+        "Sulphation",
+        "Glycine conjugation"
+      ],
+      "correct": 0,
+      "explanation": "Acetylation (and methylation) gives less soluble products, which is why acetylated sulphonamides may crystallise in the kidney.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which drug is a strong inducer of liver microsomal enzymes?",
+      "options": [
+        "Cimetidine",
+        "Rifampicin",
+        "Ketoconazole",
+        "Erythromycin"
+      ],
+      "correct": 1,
+      "explanation": "Rifampicin, phenobarbitone, phenytoin and carbamazepine induce; cimetidine, ketoconazole and erythromycin inhibit.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Acidic drugs bind mainly to which plasma protein?",
+      "options": [
+        "Transferrin",
+        "Alpha1-acid glycoprotein",
+        "Albumin",
+        "Haemoglobin"
+      ],
+      "correct": 2,
+      "explanation": "Albumin binds acidic drugs such as warfarin and phenylbutazone; basic drugs bind alpha1-acid glycoprotein.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Calcium disodium EDTA is used as an antidote in poisoning by:",
+      "options": [
+        "Iron",
+        "Copper",
+        "Cyanide",
+        "Lead"
+      ],
+      "correct": 3,
+      "explanation": "EDTA chelates lead; desferrioxamine is used for iron and penicillamine for copper.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The hypothesis explaining why one enantiomer is more active by three-point attachment to the receptor is:",
+      "options": [
+        "Easson-Stedman hypothesis",
+        "Meyer-Overton rule",
+        "Ferguson principle",
+        "Hansch analysis"
+      ],
+      "correct": 0,
+      "explanation": "Easson and Stedman explained enantiomeric differences by three-point contact; the other names relate to anaesthetic potency and to quantitative SAR.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Conversion of codeine to morphine in the body is an example of:",
+      "options": [
+        "N-Dealkylation",
+        "O-Dealkylation",
+        "Sulphation",
+        "Deamination"
+      ],
+      "correct": 1,
+      "explanation": "The 3-methyl ether is removed by CYP2D6, so codeine behaves as a prodrug of morphine.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The rate-limiting enzyme in the biosynthesis of catecholamines is:",
+      "options": [
+        "Dopamine beta-hydroxylase",
+        "DOPA decarboxylase",
+        "Tyrosine hydroxylase",
+        "Phenylethanolamine-N-methyltransferase"
+      ],
+      "correct": 2,
+      "explanation": "Tyrosine hydroxylase converts tyrosine to DOPA and controls the rate of the whole pathway.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The final urinary metabolite used to diagnose phaeochromocytoma is:",
+      "options": [
+        "Homovanillic acid",
+        "Vanillylmandelic acid",
+        "Normetanephrine",
+        "5-Hydroxyindoleacetic acid"
+      ],
+      "correct": 1,
+      "explanation": "Combined action of MAO and COMT on adrenaline and noradrenaline gives vanillylmandelic acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "A bulky tert-butyl group on the nitrogen of a phenylethylamine gives:",
+      "options": [
+        "Alpha1 selectivity",
+        "Alpha2 selectivity",
+        "Loss of all activity",
+        "Beta2 selectivity"
+      ],
+      "correct": 3,
+      "explanation": "Larger branched N-substituents such as tert-butyl direct the molecule to beta2 receptors, as in salbutamol and terbutaline.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Salbutamol is orally active because the 3-position of the ring carries:",
+      "options": [
+        "A hydroxymethyl group",
+        "A hydroxyl group",
+        "A chlorine atom",
+        "A methoxy group"
+      ],
+      "correct": 0,
+      "explanation": "The -CH2OH group cannot be methylated by catechol-O-methyltransferase, so the drug survives first-pass metabolism.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Propranolol is synthesised from 1-naphthol, isopropylamine and:",
+      "options": [
+        "Ethylene oxide",
+        "Epichlorohydrin",
+        "Chloroacetyl chloride",
+        "Ethylenediamine"
+      ],
+      "correct": 1,
+      "explanation": "The phenolate opens epichlorohydrin to give the aryloxy epoxide, which isopropylamine then opens.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which alpha blocker acts irreversibly by forming an ethyleniminium ion?",
+      "options": [
+        "Prazosin",
+        "Tolazoline",
+        "Phenoxybenzamine",
+        "Phentolamine"
+      ],
+      "correct": 2,
+      "explanation": "Phenoxybenzamine is a haloalkylamine that cyclises to a reactive intermediate and binds covalently, so its action lasts for days.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "A para substituent on the benzene ring of an aryloxypropanolamine usually gives:",
+      "options": [
+        "Partial agonist activity",
+        "Alpha blocking activity",
+        "Loss of beta blockade",
+        "Beta1 (cardio) selectivity"
+      ],
+      "correct": 3,
+      "explanation": "Atenolol, metoprolol and bisoprolol are para-substituted and cardioselective; the naphthalene ring of propranolol gives non-selective blockade.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Tolazoline is prepared by condensing ethylenediamine with the imino ether obtained from:",
+      "options": [
+        "Benzyl cyanide",
+        "Benzaldehyde",
+        "Benzoic acid",
+        "Benzophenone"
+      ],
+      "correct": 0,
+      "explanation": "Benzyl cyanide with ethanolic hydrogen chloride gives the imino ether, which cyclises with ethylenediamine to 2-benzyl-2-imidazoline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which of these is an indirectly acting sympathomimetic that shows tachyphylaxis?",
+      "options": [
+        "Phenylephrine",
+        "Pseudoephedrine",
+        "Dobutamine",
+        "Isoproterenol"
+      ],
+      "correct": 1,
+      "explanation": "Pseudoephedrine acts by releasing stored noradrenaline, so repeated doses give a smaller response as the stores empty.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Stimulation of presynaptic alpha2 receptors causes:",
+      "options": [
+        "Increased noradrenaline release",
+        "Bronchodilation",
+        "Reduced noradrenaline release",
+        "Increased renin release"
+      ],
+      "correct": 2,
+      "explanation": "Alpha2 receptors are inhibitory autoreceptors coupled to Gi; clonidine and methyldopa use this to lower sympathetic outflow.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Acetylcholine is synthesised from choline and acetyl coenzyme A by:",
+      "options": [
+        "Acetylcholinesterase",
+        "Choline acetyltransferase",
+        "Monoamine oxidase",
+        "Catechol-O-methyltransferase"
+      ],
+      "correct": 1,
+      "explanation": "Choline acetyltransferase works in the cytoplasm of the cholinergic nerve ending; the rate-limiting step is choline uptake.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Carbachol resists hydrolysis by cholinesterase because it contains:",
+      "options": [
+        "An ether linkage",
+        "A quaternary nitrogen",
+        "A beta-methyl group",
+        "A carbamate group"
+      ],
+      "correct": 3,
+      "explanation": "The nitrogen lone pair of the carbamate reduces the electrophilic character of the carbonyl carbon, so hydrolysis is very slow.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The muscarinic receptor that slows the heart is:",
+      "options": [
+        "M2",
+        "M1",
+        "M3",
+        "M5"
+      ],
+      "correct": 0,
+      "explanation": "Cardiac M2 receptors couple to Gi, lowering cAMP and slowing rate and conduction.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Pralidoxime reactivates cholinesterase by:",
+      "options": [
+        "Blocking the anionic site",
+        "Removing the phosphate group from the serine residue",
+        "Hydrolysing acetylcholine directly",
+        "Blocking muscarinic receptors"
+      ],
+      "correct": 1,
+      "explanation": "Its nucleophilic oxime group attacks the phosphorus atom and carries the phosphate away as a phosphorylated oxime.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Which statement about neostigmine is correct?",
+      "options": [
+        "It is a tertiary amine that enters the brain",
+        "It is an irreversible organophosphate inhibitor",
+        "It is a quaternary carbamate with no central action",
+        "It is a cholinesterase reactivator"
+      ],
+      "correct": 2,
+      "explanation": "The permanent positive charge keeps it out of the brain and makes oral absorption poor, so oral doses are far larger than injected ones.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "In organophosphate poisoning, 'ageing' of the enzyme means:",
+      "options": [
+        "Slow synthesis of new enzyme",
+        "Spontaneous hydrolysis of the inhibitor",
+        "Binding of the inhibitor to the anionic site",
+        "Loss of an alkyl group from the phosphorylated enzyme"
+      ],
+      "correct": 3,
+      "explanation": "Once ageing has occurred the phosphorus-enzyme bond cannot be broken by a reactivator, so pralidoxime must be given early.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Ipratropium bromide is preferred to atropine as an inhaled bronchodilator because it:",
+      "options": [
+        "Carries a permanent positive charge and is poorly absorbed",
+        "Is a selective M2 agonist",
+        "Is a tertiary amine with central action",
+        "Blocks nicotinic receptors"
+      ],
+      "correct": 0,
+      "explanation": "Being quaternary, it stays in the airway after inhalation and causes few systemic or central effects.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The Grignard reagent used in the synthesis of procyclidine is:",
+      "options": [
+        "Phenylmagnesium bromide",
+        "Cyclohexylmagnesium bromide",
+        "Ethylmagnesium bromide",
+        "Methylmagnesium iodide"
+      ],
+      "correct": 1,
+      "explanation": "It adds to the Mannich ketone 3-(pyrrolidin-1-yl)propiophenone to give the tertiary alcohol.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "According to the SAR of parasympathomimetics, a beta-methyl group on the ethylene chain gives:",
+      "options": [
+        "Nicotinic selectivity",
+        "Loss of activity",
+        "Muscarinic selectivity with resistance to hydrolysis",
+        "Antagonist activity"
+      ],
+      "correct": 2,
+      "explanation": "Methacholine and bethanechol carry this group and act almost only at muscarinic receptors.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Which drug combination is used in organophosphate insecticide poisoning?",
+      "options": [
+        "Neostigmine and physostigmine",
+        "Naloxone and flumazenil",
+        "Carbachol and pilocarpine",
+        "Atropine and pralidoxime"
+      ],
+      "correct": 3,
+      "explanation": "Atropine blocks the muscarinic effects of excess acetylcholine while pralidoxime frees the enzyme, provided ageing has not occurred.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "For benzodiazepine activity, the essential substituent is an electron-withdrawing group at position:",
+      "options": [
+        "7",
+        "1",
+        "3",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "Chlorine, nitro or trifluoromethyl at position 7 is required; nitro-substituted members such as clonazepam are the most potent.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Benzodiazepines act on the GABA-A receptor by increasing the:",
+      "options": [
+        "Duration of chloride channel opening",
+        "Frequency of chloride channel opening",
+        "Synthesis of GABA",
+        "Release of glutamate"
+      ],
+      "correct": 1,
+      "explanation": "Barbiturates increase the duration; the frequency effect of benzodiazepines needs GABA to be present, which makes overdose safer.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The specific antagonist used in benzodiazepine overdose is:",
+      "options": [
+        "Naloxone",
+        "Pralidoxime",
+        "Flumazenil",
+        "N-Acetylcysteine"
+      ],
+      "correct": 2,
+      "explanation": "Flumazenil competitively blocks the benzodiazepine site on the GABA-A receptor.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Barbituric acid itself has no hypnotic activity because:",
+      "options": [
+        "It is too lipid soluble",
+        "It has no carbonyl group",
+        "It is a strong base",
+        "Both hydrogens at C5 are unsubstituted"
+      ],
+      "correct": 3,
+      "explanation": "Activity needs a 5,5-disubstituted compound with about six to ten carbons in the two substituents.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Replacing the C2 oxygen of a barbiturate with sulphur produces a drug that is:",
+      "options": [
+        "Ultra-short acting after intravenous injection",
+        "Long acting and orally used",
+        "Inactive",
+        "An anticonvulsant of choice"
+      ],
+      "correct": 0,
+      "explanation": "Thiobarbiturates such as thiopental are highly lipid soluble, reach the brain at once and then redistribute to muscle and fat.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "A phenothiazine with a two-carbon side chain at N10, such as promethazine, acts mainly as an:",
+      "options": [
+        "Anticonvulsant",
+        "Antihistamine",
+        "Antipsychotic",
+        "Antidepressant"
+      ],
+      "correct": 1,
+      "explanation": "Antipsychotic activity needs a three-carbon chain; shortening it to two carbons gives antihistaminic and antiemetic action.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Among phenothiazine side chains, the most potent antipsychotics carry:",
+      "options": [
+        "A dimethylamino group",
+        "A piperidine ring",
+        "A piperazine ring",
+        "A morpholine ring"
+      ],
+      "correct": 2,
+      "explanation": "Piperazine derivatives such as trifluoperazine are the most potent and cause the most extrapyramidal effects.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Phenytoin is prepared by condensing urea with:",
+      "options": [
+        "Benzoin",
+        "Benzaldehyde",
+        "Benzophenone",
+        "Benzil"
+      ],
+      "correct": 3,
+      "explanation": "Benzil and urea in alcoholic alkali undergo a benzilic acid type rearrangement, giving 5,5-diphenylhydantoin.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The drug of choice for absence (petit mal) seizures among the following is:",
+      "options": [
+        "Ethosuximide",
+        "Phenytoin",
+        "Carbamazepine",
+        "Phenobarbitone"
+      ],
+      "correct": 0,
+      "explanation": "Its two small alkyl groups and succinimide ring give selective blockade of thalamic T-type calcium channels.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Carbamazepine is obtained by treating iminostilbene with phosgene followed by:",
+      "options": [
+        "Urea",
+        "Ammonia",
+        "Methylamine",
+        "Sodium ethoxide"
+      ],
+      "correct": 1,
+      "explanation": "Ammonia converts the carbamoyl chloride into the carboxamide, the group essential for anticonvulsant activity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "A general anaesthetic with a low MAC value is:",
+      "options": [
+        "Fast in onset",
+        "Slow in recovery",
+        "Highly potent",
+        "Poorly lipid soluble"
+      ],
+      "correct": 2,
+      "explanation": "MAC is the concentration needed to stop movement in half the patients, so a low value means high potency; speed depends on the blood : gas coefficient.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Halothane is chemically:",
+      "options": [
+        "A fluorinated ether",
+        "2-Bromo-2-chloro-1,1,1-trifluoroethane",
+        "Trichloroethylene",
+        "A cyclopropane derivative"
+      ],
+      "correct": 1,
+      "explanation": "It is a halogenated alkane made from trichloroethylene by fluorination and then bromination.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The short duration of action of thiopental after a single intravenous dose is due to:",
+      "options": [
+        "Rapid metabolism in the liver",
+        "Rapid renal excretion",
+        "Hydrolysis in plasma",
+        "Redistribution from brain to muscle and fat"
+      ],
+      "correct": 3,
+      "explanation": "Metabolism is slow; the patient wakes because the drug leaves the brain for less perfused tissues, so repeated doses accumulate.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Ketamine produces dissociative anaesthesia by blocking:",
+      "options": [
+        "The NMDA receptor channel",
+        "The GABA-A receptor",
+        "Mu opioid receptors",
+        "Nicotinic receptors at the end plate"
+      ],
+      "correct": 0,
+      "explanation": "NMDA blockade separates thalamocortical from limbic activity, giving analgesia and amnesia with open eyes and preserved reflexes.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In the morphine molecule, converting the N-methyl group to an N-allyl group gives a compound that is:",
+      "options": [
+        "More potent as an analgesic",
+        "An antagonist or mixed agonist-antagonist",
+        "Inactive at all opioid receptors",
+        "A selective antitussive"
+      ],
+      "correct": 1,
+      "explanation": "N-Allyl, N-cyclopropylmethyl and N-cyclobutylmethyl groups convert agonists into antagonists such as nalorphine and naloxone.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The drug of choice to reverse respiratory depression in opioid overdose is:",
+      "options": [
+        "Flumazenil",
+        "Pentazocine",
+        "Naloxone",
+        "Atropine"
+      ],
+      "correct": 2,
+      "explanation": "Naloxone is a pure antagonist; it acts within minutes but briefly, so repeated doses may be needed.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Codeine is less potent than morphine because its:",
+      "options": [
+        "Basic nitrogen is quaternised",
+        "6-Hydroxyl is acetylated",
+        "7,8 Double bond is saturated",
+        "3-Phenolic hydroxyl is methylated"
+      ],
+      "correct": 3,
+      "explanation": "The free phenolic 3-OH is needed for high potency; codeine acts largely as a prodrug demethylated by CYP2D6.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Aspirin inhibits cyclo-oxygenase irreversibly by:",
+      "options": [
+        "Acetylating a serine residue in the enzyme",
+        "Chelating the haem iron",
+        "Competing with arachidonic acid",
+        "Reducing the peroxidase site"
+      ],
+      "correct": 0,
+      "explanation": "Covalent acetylation lasts the lifetime of the platelet, about seven to ten days, which is the basis of low-dose antiplatelet therapy.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Mefenamic acid is prepared by the Ullmann condensation of 2,3-dimethylaniline with:",
+      "options": [
+        "Salicylic acid",
+        "2-Chlorobenzoic acid",
+        "Anthranilic acid ethyl ester",
+        "Phthalic anhydride"
+      ],
+      "correct": 1,
+      "explanation": "Copper catalysed displacement of the chlorine gives N-(2,3-dimethylphenyl)anthranilic acid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The first step in the classical synthesis of ibuprofen from isobutylbenzene is:",
+      "options": [
+        "Darzens condensation",
+        "Nitration",
+        "Friedel-Crafts acylation",
+        "Grignard addition"
+      ],
+      "correct": 2,
+      "explanation": "Acetic anhydride with aluminium chloride gives 4-isobutylacetophenone, which then undergoes the Darzens reaction.",
+      "probability": "medium"
+    }
+  ]
+}

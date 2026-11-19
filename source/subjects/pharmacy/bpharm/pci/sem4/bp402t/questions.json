@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the physicochemical properties of drugs in relation to their biological action, with suitable examples.",
+      "answer": "1. Introduction: a drug must dissolve, cross membranes, travel in blood and still fit the receptor; the properties below decide whether it can.\n2. Ionization: weak acids and bases follow the Henderson-Hasselbalch equation; only the unionized form crosses membranes, while the ionized form often binds the receptor. Weak acids (aspirin) are absorbed partly from the stomach, weak bases (atropine) from the intestine. Ion trapping is used in aspirin poisoning by alkalinizing urine. Quaternary drugs (neostigmine) are always charged, so they are poorly absorbed and stay out of the brain.\n3. Solubility: both water and lipid solubility are needed; polar groups (-OH, -COOH, -NH2) raise water solubility, alkyl and aryl groups raise lipid solubility; salts are used for injections.\n4. Partition coefficient: P = concentration in n-octanol / concentration in water, quoted as log P. Activity rises, peaks (about log P 2 for CNS drugs) and then falls. Thiopental is highly lipophilic and enters the brain within seconds; neostigmine does not enter at all. Hansch used log P with electronic and steric terms for quantitative correlation.\n5. Hydrogen bonding: holds the drug on the receptor (phenolic OH groups of adrenaline); too many donor/acceptor groups block membrane passage; intramolecular hydrogen bonding hides polarity and aids absorption.\n6. Protein binding: acidic drugs bind albumin, basic drugs alpha1-acid glycoprotein; only free drug acts, is filtered and is metabolised; high binding gives long action (warfarin, phenylbutazone); displacement raises free drug suddenly (sulphonamides and bilirubin in newborns).\n7. Chelation: ring formation with a metal; EDTA for lead, dimercaprol for arsenic and mercury, penicillamine for copper, desferrioxamine for iron; unwanted chelation of tetracyclines with calcium and iron blocks absorption.\n8. Bioisosterism: replacement by groups of similar size or electron distribution, classical (H/F, -O-/-S-, -OH/-NH2) and non-classical (-COOH replaced by tetrazole); 5-fluorouracil is the standard example.\n9. Stereochemistry: optical isomers differ because the receptor is chiral (levo-adrenaline about 10 times the dextro form; S-ibuprofen active; levodopa active). Geometrical isomerism changes the distance between pharmacophoric groups (trans-diethylstilbestrol active, cis much weaker; cis-flupenthixol active).\n10. Conclusion: structure modification in medicinal chemistry is largely the controlled adjustment of these properties."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principles of drug metabolism. Describe phase I and phase II reactions with suitable examples.",
+      "answer": "1. Definition and purpose: biotransformation converts lipid-soluble drugs to more water-soluble products that the kidney can excrete; the liver microsomal enzymes, chiefly cytochrome P450, do most of the work; other sites are gut wall, plasma, lung and kidney.\n2. Phase I (functionalisation) introduces or unmasks a polar group (-OH, -NH2, -SH, -COOH). The product may be inactive, still active or more active.\n3. Phase I oxidations: aromatic hydroxylation (phenytoin to p-hydroxyphenytoin; propranolol to active 4-hydroxypropranolol); aliphatic hydroxylation (pentobarbital); N-dealkylation (diazepam to nordazepam, imipramine to desipramine); O-dealkylation (codeine to morphine); S-oxidation (chlorpromazine sulphoxide); N-oxidation; oxidative deamination by monoamine oxidase; desulphuration (thiopental to pentobarbital, parathion to the more toxic paraoxon).\n4. Phase I reduction and hydrolysis: nitro and azo reduction (prontosil to sulphanilamide, chloramphenicol); ester hydrolysis (aspirin to salicylic acid, procaine by plasma esterase) and the slower amide hydrolysis (lidocaine).\n5. Phase II (conjugation) attaches a polar endogenous molecule and almost always gives an inactive product: glucuronidation with UDP-glucuronic acid (morphine, paracetamol), sulphation with PAPS (saturable), glycine conjugation (salicylic acid to salicyluric acid, benzoic acid to hippuric acid), glutathione conjugation (the toxic paracetamol metabolite NAPQI), acetylation with acetyl-CoA (isoniazid, sulphonamides), methylation with S-adenosylmethionine (adrenaline by COMT).\n6. Exception worth stating: acetylation and methylation reduce water solubility, so acetylated sulphonamides may crystallise in the kidney.\n7. Significance: explains prodrugs (enalapril, codeine), active metabolites, toxic metabolites, drug interactions and dose adjustment in liver disease.\n8. Conclusion with a sequence example: paracetamol is mainly glucuronidated and sulphated; when these are saturated, P450 forms NAPQI, which glutathione removes, and liver necrosis follows when glutathione runs out."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write notes on the history and development of medicinal chemistry, the concept of bioisosterism and the role of stereochemistry in drug action.",
+      "answer": "1. History: crude drugs (opium, cinchona, belladonna) were used before any chemistry was known; isolation of morphine, then quinine, atropine and caffeine, in the early nineteenth century proved that a single compound carries the activity.\n2. Synthetic era: ether and chloroform as anaesthetics, acetylsalicylic acid, antipyrine, and barbital in 1903 as the first synthetic hypnotic.\n3. Receptor era: Ehrlich's selective staining work introduced the receptor idea and planned chemotherapy; prontosil led to the sulphonamides, and penicillin began the antibiotic era.\n4. Modern era: systematic structure modification produced antihistamines, phenothiazines, benzodiazepines and beta blockers; receptor cloning, enzyme crystal structures and computer-aided design now allow rational design.\n5. Bioisosterism definition: replacement of an atom or group by another of similar size, shape or electron distribution, keeping or usefully changing the activity.\n6. Classical bioisosteres: monovalent (H/F, -OH/-NH2/-SH, -Cl/-Br/-CF3), divalent (-O-/-S-/-NH-/-CH2-), trivalent (-N=/-CH=), and ring equivalents (benzene/thiophene/pyridine).\n7. Non-classical bioisosteres: -COOH replaced by tetrazole, sulphonamide or hydroxamic acid; ester replaced by amide for metabolic stability.\n8. Uses of bioisosterism: 5-fluorouracil as an antimetabolite; better absorption or longer duration; reduced toxicity; patent protection on an established lead.\n9. Optical isomerism: the receptor is chiral, so enantiomers differ; levo-adrenaline about ten times the dextro form, S-ibuprofen the active COX inhibitor, levodopa carried by an amino-acid transporter; the Easson-Stedman hypothesis explains this by three-point attachment.\n10. Geometrical isomerism: restricted rotation fixes the distance between pharmacophoric groups; trans-diethylstilbestrol is oestrogenic while the cis form is weak, and cis-flupenthixol is the active antipsychotic isomer."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define partition coefficient. Explain its importance in drug action with examples.",
+      "answer": "P = concentration of drug in n-octanol / concentration in water at equilibrium, usually expressed as log P. It measures lipophilicity, that is the ability to cross lipid membranes. Activity in a series rises with log P, reaches an optimum and then falls, because very lipophilic drugs are held in fat and bound to plasma protein; about log P 2 suits CNS drugs. Examples: thiopental is far more lipophilic than pentobarbital and enters the brain within seconds; the quaternary neostigmine has a negative log P and acts only in the periphery; methylating the phenolic OH of morphine (codeine) raises lipophilicity. Hansch analysis uses log P with electronic (sigma) and steric (Es) parameters to correlate structure with activity. Practically, log P guides the choice of salt, the route and the prodrug strategy."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss protein binding of drugs and its pharmaceutical significance.",
+      "answer": "Drugs bind reversibly to plasma proteins: acidic drugs mainly to albumin and basic drugs to alpha1-acid glycoprotein, through ionic bonds, hydrogen bonds and van der Waals forces (Drug + Protein in equilibrium with the complex). Significance: (1) only the free fraction crosses membranes, reaches the receptor, is filtered by the kidney and is metabolised; (2) binding acts as a store that prolongs action, as with warfarin and phenylbutazone; (3) it lowers the apparent volume of distribution; (4) highly bound drugs are not removed by dialysis; (5) displacement interactions raise free drug suddenly, as when sulphonamides displace bilirubin in the newborn (kernicterus) or aspirin displaces warfarin (bleeding); (6) in hypoalbuminaemia, liver disease or renal failure the free fraction rises, so the same total concentration can be toxic."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is chelation? Discuss its importance in medicinal chemistry with examples.",
+      "answer": "A chelate is a ring structure formed when one ligand donates two or more electron pairs to a single metal ion; the ligand is called multidentate or chelating, and the ring is usually five- or six-membered. Chelates are more stable than complexes with similar monodentate ligands (the chelate effect, largely an entropy gain). Therapeutic uses: calcium disodium EDTA for lead poisoning, dimercaprol (BAL) for arsenic, mercury and gold, penicillamine for copper in Wilson's disease, desferrioxamine for iron overload. Other uses: EDTA as a preservative aid that removes metal ions catalysing oxidation, and in complexometric titrations. Unwanted chelation: tetracyclines bind calcium, magnesium, aluminium and iron, so milk and antacids block absorption and the drug stains growing teeth and bone. Natural chelates are haemoglobin (iron) and chlorophyll (magnesium)."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the factors affecting drug metabolism and explain any three with examples.",
+      "answer": "Factors: species and strain, age, sex and hormones, genetics, enzyme induction, enzyme inhibition, disease, diet and environment, route and dose (saturation), and stereochemistry. Three explained: (1) Genetics - isoniazid is acetylated quickly by fast acetylators and slowly by slow acetylators, who develop peripheral neuritis more often; CYP2D6 poor metabolisers need lower doses of several antidepressants; atypical plasma cholinesterase causes prolonged apnoea with succinylcholine. (2) Enzyme induction - phenobarbitone, rifampicin, carbamazepine, phenytoin and smoking increase enzyme levels over days, reducing the effect of other drugs such as oral contraceptives; the effect also takes days to wear off. (3) Age - newborns have immature glucuronidation, causing the grey baby syndrome with chloramphenicol, while in the elderly reduced liver blood flow and enzyme activity slow clearance, so doses must be lowered."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the influence of ionization on drug absorption and action.",
+      "answer": "Most drugs are weak acids or bases, and the fraction ionized follows the Henderson-Hasselbalch equation: for an acid pH = pKa + log([A-]/[HA]), for a base pH = pKa + log([B]/[BH+]). Only the unionized form crosses lipid membranes by passive diffusion, while the ionized form is usually the one that binds receptors with an anionic site. Consequences: weak acids such as aspirin are partly absorbed from the acidic stomach; weak bases such as atropine are absorbed mainly from the intestine; ion trapping keeps an acid in the alkaline plasma and in alkaline urine, which is why urine alkalinization speeds the excretion of salicylate in poisoning. Permanently charged quaternary drugs (neostigmine, ipratropium) are poorly absorbed and do not enter the brain, which is used deliberately when only peripheral action is wanted. Ionization also controls solubility, so salts are chosen for injections."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define lead compound, pharmacophore and prodrug with one example each.",
+      "answer": "Lead compound: a molecule with useful but imperfect activity used as a starting point for modification (for example sulphanilamide from prontosil). Pharmacophore: the arrangement of groups and distances a molecule must have to fit its receptor (for example the aromatic ring, quaternary carbon, two-carbon bridge and basic nitrogen of morphine). Prodrug: an inactive derivative converted in the body to the active drug (for example enalapril to enalaprilat, or codeine to morphine)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give two examples each of classical and non-classical bioisosteres.",
+      "answer": "Classical: -H replaced by -F (5-fluorouracil); -O- replaced by -S- in a ring or chain; also -OH for -NH2 and -Cl for -CF3. Non-classical: a carboxylic acid replaced by a tetrazole ring (as in losartan) or by a sulphonamide group; an ester replaced by an amide for metabolic stability."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the biosynthesis and catabolism of catecholamines. Add a note on adrenergic receptors and their distribution.",
+      "answer": "1. Biosynthesis: phenylalanine is hydroxylated to tyrosine; tyrosine hydroxylase (with tetrahydrobiopterin) converts tyrosine to DOPA and is the rate-limiting step, inhibited by metyrosine and by end-product feedback.\n2. DOPA decarboxylase (aromatic L-amino acid decarboxylase, pyridoxal phosphate) gives dopamine; carbidopa and benserazide block this enzyme outside the brain and are given with levodopa.\n3. Dopamine beta-hydroxylase inside the storage vesicle (copper and ascorbic acid needed) gives noradrenaline.\n4. Phenylethanolamine-N-methyltransferase (PNMT), present chiefly in the adrenal medulla and needing S-adenosylmethionine, gives adrenaline; this is why adrenaline is mainly a hormone and noradrenaline mainly a transmitter.\n5. Storage and release: stored in vesicles with ATP and chromogranin, released by calcium-dependent exocytosis.\n6. Catabolism, step 1: reuptake-1 into the nerve ending ends the signal and is blocked by cocaine and tricyclic antidepressants; uptake-2 removes amine into surrounding tissue.\n7. Catabolism, step 2: monoamine oxidase on mitochondria inside the nerve deaminates the amine to an aldehyde and then to acid or glycol products.\n8. Catabolism, step 3: catechol-O-methyltransferase outside the nerve methylates the 3-OH group to give normetanephrine and metanephrine; the combined final product is vanillylmandelic acid (VMA), measured in urine for phaeochromocytoma; dopamine gives homovanillic acid.\n9. Consequence for drug design: catechols are destroyed by COMT and are inactive orally and short acting, so modification of the ring (phenylephrine, salbutamol, terbutaline) is used to obtain oral, longer-acting drugs.\n10. Receptors: alpha1 on vascular smooth muscle, iris radial muscle and bladder neck (vasoconstriction, mydriasis, retention; Gq); alpha2 presynaptic and central (less noradrenaline release, fall in sympathetic outflow, platelet aggregation; Gi); beta1 in the heart and juxtaglomerular cells (rate, force, renin; Gs); beta2 in bronchi, uterus and skeletal-muscle vessels (bronchodilation, uterine relaxation, glycogenolysis; Gs); beta3 in fat and bladder; D1 in renal and mesenteric vessels. Potency: adrenaline is about equal to noradrenaline at alpha, while isoprenaline is strongest at beta."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the structure activity relationship of sympathomimetic agents. Classify them with examples and uses.",
+      "answer": "1. Parent structure: beta-phenylethylamine, that is an aromatic ring, a two-carbon chain and a terminal amine; four regions can be modified.\n2. Aromatic ring: a 3,4-dihydroxy (catechol) pattern gives maximum activity at alpha and beta receptors but is destroyed by COMT, so such drugs are short acting and not orally active (adrenaline, noradrenaline, isoprenaline, dopamine).\n3. Ring modification: removing the 4-OH (phenylephrine, metaraminol) keeps alpha activity and gives oral activity; replacing the 3-OH with hydroxymethyl (salbutamol) or using a 3,5-dihydroxy pattern (terbutaline) resists COMT and keeps beta2 activity; removing both hydroxyls (ephedrine, amphetamine) gives central and indirect action; an imidazoline ring with a lipophilic aryl group gives alpha agonist decongestants (naphazoline, oxymetazoline, xylometazoline).\n4. Beta-hydroxyl group: needed for strong direct action; the R (laevorotatory) configuration is far more active, explained by three-point attachment (Easson-Stedman).\n5. Alpha-carbon substituent: a methyl group (ephedrine, amphetamine) blocks monoamine oxidase, prolongs action, gives oral activity and increases indirect action.\n6. Nitrogen substituent decides selectivity: hydrogen favours alpha (noradrenaline), methyl gives alpha and beta (adrenaline), isopropyl gives beta (isoproterenol), tert-butyl or bulkier gives beta2 selectivity (terbutaline, salbutamol, salmeterol); quaternisation abolishes activity.\n7. Classification - direct acting: noradrenaline, adrenaline, phenylephrine, dopamine, dobutamine, isoproterenol, salbutamol, terbutaline, bitolterol, methyldopa, clonidine, and the imidazoline decongestants.\n8. Classification - indirect acting (release stored noradrenaline, show tachyphylaxis): hydroxyamphetamine, pseudoephedrine, propylhexedrine.\n9. Classification - mixed action: ephedrine and metaraminol.\n10. Uses: anaphylaxis and cardiac arrest (adrenaline), shock and hypotension (noradrenaline, dopamine, phenylephrine, metaraminol), asthma and premature labour (salbutamol, terbutaline), nasal decongestion (oxymetazoline, pseudoephedrine), hypertension in pregnancy (methyldopa), cardiogenic shock (dobutamine)."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify adrenergic antagonists. Discuss the structure activity relationship of beta blockers and give the synthesis of propranolol.",
+      "answer": "1. Classification of alpha blockers: imidazolines, competitive and short acting (tolazoline, phentolamine); haloalkylamines, irreversible through an ethyleniminium ion (phenoxybenzamine); quinazolines, alpha1 selective (prazosin, terazosin, doxazosin); ergot alkaloids (dihydroergotamine, methysergide).\n2. Uses of alpha blockers: phaeochromocytoma, hypertension, benign prostatic hyperplasia (prazosin group), peripheral vascular disease, migraine (ergot group). Non-selective blockers also block presynaptic alpha2, so reflex tachycardia is marked, which prazosin avoids.\n3. Classification of beta blockers: non-selective (propranolol, metibranolol, labetalol and carvedilol with added alpha block), beta1 selective or cardioselective (atenolol, metoprolol, betaxolol, bisoprolol, esmolol), and those with partial agonist activity.\n4. General structure: early drugs were aryl ethanolamines; nearly all modern blockers are aryloxypropanolamines, Ar-O-CH2-CH(OH)-CH2-NH-R.\n5. SAR point 1: the inserted -OCH2- group raises potency 10 to 100 times over the matching ethanolamine.\n6. SAR point 2: a secondary amine with isopropyl or tert-butyl is essential; primary, tertiary and quaternary amines are much weaker.\n7. SAR point 3: the beta-hydroxyl must be present and the S configuration carries nearly all the blocking activity.\n8. SAR point 4: a bicyclic aromatic ring (naphthalene in propranolol) gives potent non-selective block and high lipid solubility with CNS effects; a para substituent on a benzene ring gives beta1 selectivity (atenolol, metoprolol), while ortho or meta substitution reduces it.\n9. SAR point 5: lipophilic blockers are cleared by the liver and enter the brain; hydrophilic ones (atenolol, nadolol) are excreted unchanged; an ester in the molecule (esmolol) gives a half-life of minutes.\n10. Synthesis of propranolol: 1-naphthol is treated with epichlorohydrin and sodium hydroxide; the phenolate opens the epoxide, chloride is lost and the epoxide ring reforms, giving 1-(1-naphthyloxy)-2,3-epoxypropane. Heating this with isopropylamine opens the epoxide at the less hindered carbon to give 1-(isopropylamino)-3-(1-naphthyloxy)propan-2-ol, isolated as the hydrochloride. Uses: hypertension, angina, arrhythmias, migraine prophylaxis, thyrotoxicosis and anxiety tremor; avoided in asthma."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the synthesis of phenylephrine and mention its uses.",
+      "answer": "Synthesis: (1) 3-Hydroxyacetophenone is brominated on the side-chain methyl group with bromine to give omega-bromo-3-hydroxyacetophenone. (2) Reaction with N-benzylmethylamine replaces bromide and gives the amino ketone. (3) Hydrogenation over palladium on charcoal reduces the ketone to the secondary alcohol and at the same time removes the benzyl protecting group, giving racemic phenylephrine. (4) Resolution with (+)-tartaric acid gives the active (-)-R-enantiomer, used as the hydrochloride. Chemistry note: there is no 4-OH group, so COMT cannot act quickly, which makes the drug orally active and longer acting than adrenaline, with mainly alpha1 action. Uses: nasal decongestant, mydriatic without cycloplegia, and to raise blood pressure in hypotension, including during spinal anaesthesia."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Outline the synthesis of salbutamol. Why is it orally active and beta2 selective?",
+      "answer": "Synthesis: (1) Methyl salicylate is acetylated by Friedel-Crafts reaction with acetyl chloride and aluminium chloride to give methyl 5-acetylsalicylate. (2) The side-chain methyl is brominated with bromine to give the omega-bromoacetyl compound. (3) Condensation with N-benzyl-tert-butylamine gives the amino ketone. (4) Reduction with lithium aluminium hydride converts the ketone to the secondary alcohol and the aromatic ester to a hydroxymethyl group. (5) Hydrogenolysis over palladium removes the benzyl group; the product is isolated as salbutamol sulphate. Oral activity: the 3-position carries -CH2OH instead of -OH, so catechol-O-methyltransferase cannot methylate it and the drug survives the gut and liver. Beta2 selectivity: the bulky tert-butyl group on the nitrogen directs the molecule to beta2 receptors, so it dilates bronchi with little cardiac stimulation. Uses: asthma and chronic obstructive airway disease, and to delay premature labour."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify alpha adrenergic blocking agents with examples and uses.",
+      "answer": "(1) Imidazolines, competitive and short acting: tolazoline and phentolamine; non-selective for alpha1 and alpha2, used in peripheral vascular disease and in phaeochromocytoma, including the control of blood pressure during surgery. (2) Haloalkylamines, non-competitive and irreversible: phenoxybenzamine, which cyclises to a reactive ethyleniminium ion and binds covalently, so the action lasts for days; used in phaeochromocytoma. (3) Quinazolines, alpha1 selective: prazosin, terazosin and doxazosin, used in hypertension and benign prostatic hyperplasia; they cause less reflex tachycardia because presynaptic alpha2 receptors are spared, but first-dose hypotension occurs. (4) Ergot alkaloids: dihydroergotamine and methysergide, partial agonists with additional 5-HT actions, used in migraine. (5) Others worth naming: yohimbine as a selective alpha2 blocker. Common adverse effects are postural hypotension, nasal stuffiness, miosis and failure of ejaculation."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of tolazoline and state its pharmacological use.",
+      "answer": "Synthesis: (1) Benzyl cyanide (phenylacetonitrile) is treated with dry hydrogen chloride in ethanol to give the imino ether hydrochloride (Pinner reaction). (2) The imino ether is condensed with ethylenediamine; ethanol and ammonia are eliminated and the five-membered ring closes. (3) The product is 2-benzyl-2-imidazoline, isolated as tolazoline hydrochloride. Structure note: the imidazoline ring provides the basic nitrogen that mimics the amine of noradrenaline, while the benzyl group supplies the lipophilic bulk that converts an agonist into an antagonist. Pharmacology: a competitive, non-selective alpha blocker with direct vasodilator and histamine-like actions; it has been used in peripheral vascular disease and in persistent pulmonary hypertension of the newborn. Adverse effects include tachycardia, flushing and increased gastric acid secretion, so it is avoided in peptic ulcer."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe adrenergic receptors, their distribution and the responses produced.",
+      "answer": "Alpha1: vascular smooth muscle, radial muscle of the iris, bladder neck and prostate; coupled to Gq and the IP3/calcium pathway; produces vasoconstriction, mydriasis and urinary retention. Alpha2: presynaptic nerve endings, vasomotor centre, platelets and pancreatic beta cells; coupled to Gi, lowering cAMP; reduces noradrenaline release and central sympathetic outflow, aggregates platelets and reduces insulin release; the target of clonidine and methyldopa. Beta1: heart and juxtaglomerular cells; Gs with a rise in cAMP; increases rate, force and conduction and releases renin. Beta2: bronchial, uterine and skeletal-muscle vessels and liver; Gs; bronchodilation, uterine relaxation, vasodilation and glycogenolysis. Beta3: adipose tissue and bladder detrusor; lipolysis and bladder relaxation. D1: renal, mesenteric and coronary vessels; vasodilation, used with low-dose dopamine. Noradrenaline has little beta2 action, which is why it raises blood pressure without dilating bronchi."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why are catecholamines inactive when given orally?",
+      "answer": "The catechol (3,4-dihydroxy) group is rapidly methylated by catechol-O-methyltransferase and the amine is deaminated by monoamine oxidase in the gut wall and liver, so almost none reaches the circulation; they are also poorly absorbed because they are polar. Changing the ring (phenylephrine, salbutamol, terbutaline) or removing both hydroxyls (ephedrine) gives orally active drugs."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is tachyphylaxis? Name two indirectly acting sympathomimetics that show it.",
+      "answer": "Tachyphylaxis is the rapid fall in response on repeated dosing within a short time. Indirectly acting sympathomimetics cause it because they act by releasing stored noradrenaline, and the stores become exhausted. Examples: pseudoephedrine and hydroxyamphetamine (also propylhexedrine; ephedrine, which has mixed action, shows it as well)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the biosynthesis and catabolism of acetylcholine. Discuss the structure activity relationship of parasympathomimetic agents.",
+      "answer": "1. Biosynthesis: choline is taken into the nerve ending by a sodium-dependent carrier; this uptake is rate-limiting and is blocked by hemicholinium.\n2. Choline acetyltransferase in the cytoplasm transfers an acetyl group from acetyl coenzyme A (formed from pyruvate) to choline, giving acetylcholine.\n3. Storage and release: a vesicular transporter (blocked by vesamicol) loads the vesicles; calcium entry triggers exocytosis, which botulinum toxin prevents.\n4. Catabolism: acetylcholinesterase hydrolyses acetylcholine within milliseconds to choline and acetic acid; about half the choline is taken back up. Butyrylcholinesterase in plasma and liver hydrolyses succinylcholine and ester drugs.\n5. Enzyme mechanism: the anionic site holds the quaternary nitrogen, the esteratic site (serine assisted by histidine) attacks the carbonyl; choline leaves, the acetylated enzyme is formed and water then frees the enzyme. This explains carbamate and organophosphate inhibitors.\n6. SAR point 1: the quaternary trimethylammonium head gives the strongest binding; replacing a methyl with ethyl weakens activity and larger groups give antagonists; a tertiary amine such as pilocarpine still acts and penetrates better.\n7. SAR point 2: the five-atom rule - exactly two carbons should separate the nitrogen from the ester oxygen.\n8. SAR point 3: an acetate ester gives maximum potency; replacing it with a carbamate (carbachol, bethanechol) resists hydrolysis and prolongs action.\n9. SAR point 4: a beta-methyl group (methacholine, bethanechol) gives resistance to the enzyme and muscarinic selectivity, while an alpha-methyl group favours nicotinic action.\n10. Drugs and uses: acetylcholine in eye surgery, methacholine in bronchial challenge testing, carbachol in glaucoma and bladder atony, bethanechol in urinary retention and postoperative gut atony, pilocarpine in glaucoma and for dry mouth."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify cholinesterase inhibitors. Explain their mechanism, the features of organophosphate poisoning and the action of pralidoxime.",
+      "answer": "1. Classification - simple reversible (competitive) inhibitors: edrophonium chloride, tacrine hydrochloride.\n2. Carbamates (slowly reversible): physostigmine (tertiary, enters eye and brain), neostigmine, pyridostigmine, ambenonium chloride and rivastigmine.\n3. Organophosphates (irreversible): isoflurophate, echothiophate iodide, and the insecticides parathion and malathion; nerve gases belong here as well.\n4. Mechanism of carbamates: the drug carbamoylates the serine of the esteratic site; the carbamoylated enzyme hydrolyses slowly, so inhibition lasts minutes to hours.\n5. Mechanism of organophosphates: they phosphorylate the same serine, and the phosphorylated enzyme is hydrolysed so slowly that recovery depends on new enzyme synthesis.\n6. Ageing: loss of one alkyl group from the phosphorylated enzyme makes the bond permanent, and after this no reactivator works.\n7. Prodrug point: parathion and malathion are desulphurated in the liver to the active oxon; malathion is safe in mammals because plasma carboxylesterases destroy it quickly.\n8. Features of poisoning: the effects are those of excess acetylcholine - muscarinic (salivation, lacrimation, sweating, miosis, bronchospasm, bronchial secretion, vomiting, diarrhoea, bradycardia), nicotinic (muscle fasciculation, weakness and finally paralysis) and central (restlessness, confusion, convulsions, respiratory depression); death is from respiratory failure.\n9. Treatment: remove contaminated clothing and wash the skin, maintain the airway, give atropine in repeated doses until secretions dry, and give a reactivator early; diazepam controls convulsions.\n10. Pralidoxime: a quaternary pyridinium aldoxime; the charged nitrogen is attracted to the anionic site, which places the nucleophilic oxime group next to the phosphorus held on serine. The oxime removes the phosphate group as a phosphorylated oxime and frees the enzyme. It must be given before ageing, it does not reverse carbamate inhibition, and being quaternary it does not act in the brain.\n11. Therapeutic uses of this group: myasthenia gravis (neostigmine, pyridostigmine; edrophonium for the test), reversal of non-depolarising muscle relaxants, glaucoma, atony of bladder and gut, and Alzheimer's disease (rivastigmine, donepezil)."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the structure activity relationship of cholinergic blocking agents. Classify them with examples and give the synthesis of dicyclomine hydrochloride.",
+      "answer": "1. General structure: an ester or alcohol in which a bulky acid part is joined to an aminoalcohol, that is (aryl)(aryl or cycloalkyl)(OH)C-CO-O-CH2CH2-N(R)2.\n2. SAR point 1: two bulky rings must be attached to the carbon next to the carbonyl; at least one should be aromatic and the other may be cyclohexyl or thienyl. With only one small group, the molecule behaves as an agonist.\n3. SAR point 2: a free hydroxyl or an ether oxygen on that carbon strengthens binding by hydrogen bonding; atropine has it.\n4. SAR point 3: a cationic nitrogen is essential. Tertiary amines (atropine, dicyclomine, benztropine) are orally absorbed and reach the eye and brain; quaternary compounds (ipratropium, propantheline, glycopyrrolate, clidinium) act only peripherally and are poorly absorbed.\n5. SAR point 4: two to three carbons should separate the nitrogen from the ester oxygen; large quaternary compounds add ganglion and neuromuscular block at high dose.\n6. Classification - solanaceous alkaloids and analogues: atropine sulphate, hyoscyamine sulphate, scopolamine hydrobromide, homatropine hydrobromide and ipratropium bromide.\n7. Classification - synthetic mydriatics: tropicamide and cyclopentolate hydrochloride.\n8. Classification - antispasmodics: tertiary (dicyclomine hydrochloride) and quaternary (clidinium bromide, glycopyrrolate, methantheline bromide, propantheline bromide, isopropamide iodide, tridihexethyl chloride).\n9. Classification - central antiparkinsonian agents: benztropine mesylate, orphenadrine citrate, biperiden hydrochloride, procyclidine hydrochloride and ethopropazine hydrochloride.\n10. Synthesis of dicyclomine: benzyl cyanide is treated with 1,5-dibromopentane and sodium amide, both bromides being displaced by the same carbon to give 1-phenylcyclohexane-1-carbonitrile; acid hydrolysis gives the corresponding carboxylic acid; catalytic hydrogenation of the benzene ring gives bicyclohexyl-1-carboxylic acid; this is converted to the acid chloride with thionyl chloride and esterified with 2-(diethylamino)ethanol; the product is isolated as dicyclomine hydrochloride, used in irritable bowel syndrome and colic.\n11. Adverse effects of the class: dry mouth, blurred vision, constipation, urinary retention and tachycardia; contraindicated in closed-angle glaucoma and prostatic enlargement."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the synthesis of carbachol and explain why it is resistant to cholinesterase.",
+      "answer": "Synthesis: (1) 2-Chloroethanol is treated with phosgene to give 2-chloroethyl chloroformate. (2) Reaction with ammonia replaces the chlorine of the carbonyl group and gives 2-chloroethyl carbamate. (3) Heating with trimethylamine in a closed vessel makes the nitrogen quaternary by displacing the chloride on the ethyl chain, giving carbamoylcholine chloride (carbachol). Resistance to hydrolysis: the ester group of acetylcholine is replaced by a carbamate. The nitrogen lone pair of the carbamate delocalises into the carbonyl, making that carbon much less electrophilic, so the serine of acetylcholinesterase attacks it very slowly; any carbamoylated enzyme also recovers slowly. The action is therefore long. Carbachol acts at both muscarinic and nicotinic receptors and is used as eye drops in glaucoma and for bladder atony; it is not given by injection because the effects are widespread."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Outline the synthesis of neostigmine and state its uses.",
+      "answer": "Synthesis: (1) 3-Dimethylaminophenol is treated with dimethylcarbamoyl chloride in the presence of a base; the phenolic hydroxyl is converted into the dimethylcarbamate ester, giving 3-(dimethylcarbamoyloxy)-N,N-dimethylaniline. (2) The product is quaternised by heating with methyl bromide, giving neostigmine bromide; dimethyl sulphate gives the methylsulphate salt used for injection. Chemistry: the carbamate group carbamoylates the esteratic site of acetylcholinesterase and the quaternary nitrogen binds the anionic site, so the enzyme is inhibited for hours; the drug also stimulates nicotinic receptors at the muscle end plate directly. Uses: myasthenia gravis, reversal of non-depolarising muscle relaxants (with atropine or glycopyrrolate to block muscarinic effects), postoperative urinary retention and paralytic ileus. Being quaternary it does not enter the brain, so the oral dose is far larger than the injected dose."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of ipratropium bromide. How does it differ from atropine in use?",
+      "answer": "Synthesis: (1) Atropine is demethylated at the ring nitrogen by the von Braun reaction with cyanogen bromide followed by hydrolysis, giving noratropine. (2) Noratropine is alkylated with isopropyl bromide to give N-isopropylnoratropine. (3) Treatment with methyl bromide quaternises the nitrogen, giving ipratropium bromide. Difference from atropine: atropine is a tertiary amine, so it is absorbed orally, enters the brain and the eye and produces systemic effects such as dry mouth, tachycardia, blurred vision and central excitement. Ipratropium carries a permanent positive charge, so after inhalation it stays in the airway, is poorly absorbed and does not reach the brain. It is therefore used as an inhaled bronchodilator in chronic obstructive pulmonary disease and in asthma, with very few systemic effects, while atropine is used as an antispasmodic, a mydriatic, a drying agent before anaesthesia and an antidote in organophosphate poisoning and bradycardia."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe cholinergic receptors and their distribution.",
+      "answer": "Muscarinic receptors are G-protein coupled and are blocked by atropine. M1 occurs in the brain, gastric parietal cells and ganglia (acid secretion, memory, Gq). M2 occurs in the heart and slows rate and conduction through Gi. M3 occurs on smooth muscle, glands and the eye and produces bronchoconstriction, increased gut motility, secretion, miosis, accommodation and detrusor contraction through Gq. M4 and M5 are mainly central. Nicotinic receptors are ligand-gated ion channels. The muscle type (Nm) at the neuromuscular junction produces contraction and is blocked by tubocurarine; the neuronal type (Nn) in autonomic ganglia, adrenal medulla and brain carries ganglionic transmission and catecholamine release and is blocked by hexamethonium. The distinction explains why atropine removes secretions and slows the gut but does not paralyse muscle, and why neuromuscular blockers do not affect the heart."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of procyclidine hydrochloride and name three other centrally acting anticholinergic drugs with their use.",
+      "answer": "Synthesis: (1) Acetophenone, formaldehyde and pyrrolidine hydrochloride are heated together in a Mannich reaction to give 3-(pyrrolidin-1-yl)propiophenone. (2) The ketone is treated with cyclohexylmagnesium bromide in dry ether, the Grignard reagent adding to the carbonyl group. (3) Hydrolysis of the complex with dilute acid gives the tertiary alcohol 1-cyclohexyl-1-phenyl-3-(pyrrolidin-1-yl)propan-1-ol, isolated as the hydrochloride. The molecule shows the expected features: one aromatic and one alicyclic ring, a hydroxyl group and a basic tertiary nitrogen three carbons away. Other centrally acting anticholinergics: benztropine mesylate, biperiden hydrochloride and orphenadrine citrate (ethopropazine and trihexyphenidyl also belong here). All are used in drug-induced extrapyramidal symptoms and for the tremor and rigidity of Parkinson's disease, where they act by restoring the balance between dopamine and acetylcholine in the striatum."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is the oral dose of neostigmine much larger than its injected dose?",
+      "answer": "Neostigmine is a quaternary ammonium compound, so it carries a permanent positive charge and is poorly absorbed from the gut. Only a small fraction of an oral dose reaches the circulation, so a much larger dose is needed by mouth. The same charge also keeps it out of the brain, so it has no central effects."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is meant by ageing of cholinesterase?",
+      "answer": "After an organophosphate has phosphorylated the serine of the esteratic site, one alkyl group is lost from the phosphorus. The remaining bond is extremely stable, so the enzyme can no longer be reactivated by pralidoxime and recovery depends on fresh enzyme synthesis. This is why the reactivator must be given as early as possible."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the structure activity relationship and mechanism of action of benzodiazepines. Give the synthesis of diazepam.",
+      "answer": "1. Nucleus: 1,4-benzodiazepine, a benzene ring fused to a seven-membered ring with nitrogen at positions 1 and 4, usually carrying a phenyl group at position 5.\n2. SAR point 1: an electron-withdrawing group at position 7 (Cl, NO2, CF3) is essential; a nitro group gives the most potent members such as clonazepam and nitrazepam.\n3. SAR point 2: substitution at positions 6, 8 or 9 reduces activity.\n4. SAR point 3: the 5-phenyl ring is needed, and substitution at its 2-prime (ortho) position with fluorine or chlorine increases potency, while para substitution lowers it.\n5. SAR point 4: a carbonyl group at position 2, or an equivalent such as the fused triazole ring of alprazolam, is required.\n6. SAR point 5: an alkyl group at N1 (methyl in diazepam) increases activity and is removed in the body to give the active metabolite nordazepam.\n7. SAR point 6: a 3-hydroxyl (oxazepam, lorazepam) allows direct glucuronidation, so these drugs have no active metabolite and are preferred in the elderly and in liver disease.\n8. SAR point 7: saturation of the 4,5 double bond or opening of the seven-membered ring destroys activity.\n9. Mechanism: benzodiazepines bind between the alpha and gamma subunits of the GABA-A receptor and increase the frequency of chloride channel opening caused by GABA. They need GABA to be present, so there is a ceiling to the depression they produce, which makes overdose much safer than with barbiturates. Flumazenil is the specific antagonist.\n10. Uses and examples: anxiety (diazepam, alprazolam), insomnia (nitrazepam, zolpidem at the same site), status epilepticus (lorazepam, diazepam), muscle spasm, alcohol withdrawal (chlordiazepoxide) and premedication.\n11. Synthesis of diazepam: 5-chloro-2-(methylamino)benzophenone is acylated with chloroacetyl chloride to give the chloroacetamide; treatment with ammonia replaces the chlorine by an amino group, which then attacks the ketone carbon; loss of water closes the seven-membered ring and gives diazepam. Starting from 2-amino-5-chlorobenzophenone the same sequence gives nordazepam, which is methylated with dimethyl sulphate and alkali to give diazepam."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify barbiturates with examples. Discuss their structure activity relationship, mechanism of action and the synthesis of barbital.",
+      "answer": "1. Chemistry: barbiturates are 5,5-disubstituted derivatives of barbituric acid (malonylurea), which is itself inactive.\n2. Classification by duration - long acting (6 to 8 hours): barbital and phenobarbital, used in epilepsy and sedation.\n3. Intermediate acting: amobarbital and butabarbital, used as hypnotics.\n4. Short acting: pentobarbital and secobarbital, used as hypnotics.\n5. Ultra-short acting: thiopental, thiamylal and methohexital, used intravenously to induce anaesthesia.\n6. SAR point 1: both hydrogens at C5 must be replaced; monosubstituted compounds are inactive.\n7. SAR point 2: the two substituents should contain about six to ten carbons in total; fewer gives weak activity and many more causes convulsions and poor absorption.\n8. SAR point 3: branched, unsaturated or alicyclic substituents raise potency and shorten the duration.\n9. SAR point 4: replacing the oxygen at C2 by sulphur (thiobarbiturates) greatly increases lipid solubility and gives an immediate, very short action; methylation at N1 has a similar shortening effect, but methylation at both nitrogens causes convulsions.\n10. SAR point 5: barbiturates are weak acids because of the imide hydrogen, so sodium salts are water soluble but strongly alkaline and irritant.\n11. Mechanism: they bind the GABA-A receptor and increase the duration of chloride channel opening; at higher concentrations they open the channel without GABA and also block glutamate receptors, which is why overdose causes fatal respiratory depression and why there is no ceiling effect. They are strong enzyme inducers and are porphyrinogenic.\n12. Synthesis of barbital: diethyl malonate is treated with sodium ethoxide and ethyl bromide, and the alkylation is repeated to give diethyl diethylmalonate; this is condensed with urea in the presence of sodium ethoxide, both ester groups reacting with the nitrogen atoms of urea, ethanol being eliminated and the six-membered ring closing; acidification gives barbital (5,5-diethylbarbituric acid). Replacing one ethyl group with phenyl gives phenobarbital."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antipsychotic agents. Discuss the structure activity relationship of phenothiazines and give the synthesis of chlorpromazine.",
+      "answer": "1. Classification - phenothiazines with an aliphatic side chain: promazine hydrochloride, chlorpromazine hydrochloride and triflupromazine.\n2. Phenothiazines with a piperidine side chain: thioridazine hydrochloride and piperacetazine hydrochloride.\n3. Phenothiazines with a piperazine side chain: prochlorperazine maleate and trifluoperazine hydrochloride; these are the most potent and give the most extrapyramidal effects.\n4. Ring analogues of phenothiazines: chlorprothixene and thiothixene (thioxanthenes, where N10 is replaced by carbon joined by a double bond, so only the cis isomer is active), loxapine succinate (dibenzoxazepine) and clozapine (dibenzodiazepine, the first atypical drug, effective in resistant cases but causing agranulocytosis).\n5. Butyrophenones: haloperidol, droperidol and the benzisoxazole risperidone.\n6. Beta-amino ketones: molindone hydrochloride. Benzamides: sulpiride.\n7. Mechanism: blockade of dopamine D2 receptors in the mesolimbic pathway controls hallucinations and delusions; blockade in the nigrostriatal pathway causes extrapyramidal symptoms, and in the tuberoinfundibular pathway raises prolactin. Atypical drugs also block 5-HT2A, giving fewer movement disorders.\n8. SAR point 1: the side chain at N10 must be three carbons long; a two-carbon chain gives antihistaminic activity instead, as in promethazine.\n9. SAR point 2: the chain must end in a basic nitrogen; a dimethylamino group gives moderate potency, piperidine adds antimuscarinic action and piperazine gives the highest potency.\n10. SAR point 3: an electron-withdrawing substituent at position 2 increases activity, in the order CF3 greater than Cl greater than H; the substituent must be at position 2, and branching on the side chain lowers activity.\n11. Synthesis of chlorpromazine: 3-chlorodiphenylamine is heated with sulphur and a trace of iodine to give 2-chlorophenothiazine; the ring nitrogen is deprotonated with sodamide in xylene; alkylation with 1-dimethylamino-3-chloropropane gives chlorpromazine, isolated as the hydrochloride.\n12. Uses and adverse effects: schizophrenia, mania, intractable hiccup and as an antiemetic; adverse effects include sedation, postural hypotension from alpha blockade, antimuscarinic effects, extrapyramidal symptoms, tardive dyskinesia, galactorrhoea, photosensitivity and jaundice."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure activity relationship of anticonvulsants.",
+      "answer": "Most classical anticonvulsants share a ring containing a -CO-NH-CO- (ureide) fragment, with two substituents on the carbon between the carbonyl groups. (1) At least one aryl group on that carbon gives activity against generalised tonic-clonic and partial seizures, as in phenytoin and mephenytoin. (2) Only small alkyl groups on that carbon shift the activity to absence seizures, as in ethosuximide and trimethadione. (3) Larger alkyl or aryl groups raise lipid solubility and increase sedation. (4) The imide NH is weakly acidic and probably hydrogen bonds to the target protein; alkylating it gives a prodrug that is demethylated in the body, as with mephenytoin and methsuximide. (5) The ring size and the heteroatom decide the class and the spectrum: hydantoins (five-membered, two nitrogens) act on tonic-clonic seizures, while oxazolidinediones and succinimides act on absence seizures. (6) Compounds outside this pattern, such as carbamazepine and valproate, keep a carboxamide or carboxylic acid group that appears to play the same role."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the mechanisms by which anticonvulsant drugs act, with one example of each.",
+      "answer": "(1) Blockade of voltage-gated sodium channels in the inactivated state, which stops repetitive high-frequency firing without affecting normal transmission: phenytoin, carbamazepine, valproate and lamotrigine. (2) Blockade of T-type calcium channels in thalamic neurons, which abolishes the three-per-second spike and wave rhythm of absence seizures: ethosuximide and trimethadione. (3) Enhancement of GABA transmission, either by prolonging chloride channel opening (phenobarbitone), increasing the frequency of opening (clonazepam and diazepam), raising GABA levels by inhibiting its breakdown (valproate, vigabatrin) or blocking its reuptake (tiagabine). (4) Reduction of excitatory glutamate transmission at NMDA and AMPA receptors: felbamate and topiramate. (5) Binding to the alpha2-delta subunit of calcium channels, lowering transmitter release: gabapentin and pregabalin. Several drugs use more than one mechanism, which explains the broad spectrum of valproate."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the synthesis of phenytoin and mention its uses and important adverse effects.",
+      "answer": "Synthesis: (1) Benzaldehyde undergoes the benzoin condensation with a thiamine or cyanide catalyst to give benzoin. (2) Benzoin is oxidised with concentrated nitric acid (or copper(II) sulphate in pyridine) to benzil. (3) Benzil is refluxed with urea in alcoholic sodium hydroxide; a nitrogen attacks one carbonyl group and a benzilic acid type rearrangement moves a phenyl group so that both phenyls end on the same carbon, closing the five-membered ring. (4) The sodium salt that separates is dissolved in water and acidified with dilute hydrochloric acid, precipitating phenytoin (5,5-diphenylhydantoin), which is recrystallised from alcohol. Uses: generalised tonic-clonic and partial seizures, status epilepticus by slow intravenous injection, and in trigeminal neuralgia and certain arrhythmias. Adverse effects: gum hypertrophy, hirsutism, acne, nystagmus and ataxia with high levels, megaloblastic anaemia from folate deficiency, osteomalacia and teratogenicity; it shows saturation kinetics, so a small dose increase can raise levels sharply."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of carbamazepine and state its uses.",
+      "answer": "Synthesis: (1) Iminostilbene (5H-dibenz[b,f]azepine) is the starting material; it is obtained by dehydrogenating iminodibenzyl. (2) The ring nitrogen is treated with phosgene, giving the carbamoyl chloride at position 5. (3) Reaction with ammonia replaces the chlorine by an amino group, giving carbamazepine (5H-dibenz[b,f]azepine-5-carboxamide). The carboxamide group is essential; without it the anticonvulsant action is lost. Mechanism: it blocks voltage-gated sodium channels in the inactivated state. Uses: partial and generalised tonic-clonic seizures, trigeminal neuralgia (the drug of choice), bipolar disorder and alcohol withdrawal. Important points: it induces its own metabolism, so the dose often has to be raised after a few weeks; the active metabolite is the 10,11-epoxide; adverse effects include diplopia, ataxia, hyponatraemia, rash including rare severe skin reactions, and bone marrow depression, so blood counts are monitored."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of ethosuximide and name the other succinimide anticonvulsants with their use.",
+      "answer": "Synthesis: (1) Methyl ethyl ketone (butan-2-one) is condensed with ethyl cyanoacetate in the presence of a base (Knoevenagel condensation) to give ethyl 2-cyano-3-methylpent-2-enoate. (2) Hydrogen cyanide, produced in the flask from potassium cyanide and acid, adds across the double bond to give a compound with two nitrile groups and one ester. (3) Hydrolysis with mineral acid converts the nitriles and the ester into carboxylic acid groups, and loss of carbon dioxide gives 2-ethyl-2-methylsuccinic acid. (4) Heating with ammonia or urea closes the ring with loss of water, giving the cyclic imide 2-ethyl-2-methylsuccinimide, that is ethosuximide. Note how the two small alkyl groups, rather than aryl groups, direct the activity towards absence seizures. Other succinimides: phensuximide and methsuximide, the latter being demethylated in the body to the active N-desmethyl form. Use: ethosuximide is the drug of choice for absence (petit mal) seizures; gastrointestinal upset, drowsiness and rarely blood dyscrasias are the main adverse effects."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is barbiturate overdose more dangerous than benzodiazepine overdose?",
+      "answer": "Benzodiazepines only increase the frequency of chloride channel opening in response to GABA, so their effect has a ceiling and depends on the transmitter being present. Barbiturates prolong channel opening and, at higher concentrations, open the channel even without GABA and block excitatory receptors as well, so central depression deepens with dose and leads to coma and respiratory failure. A specific antagonist, flumazenil, is also available for benzodiazepines."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name the miscellaneous sedative-hypnotics in the syllabus with their chemical class.",
+      "answer": "Glutethimide is an amide/imide type (a piperidinedione related to the barbiturates). Meprobamate is a dicarbamate of a propanediol and ethchlorvynol is an unsaturated alcohol, both belonging to the alcohols and carbamates group. Paraldehyde is a cyclic trimer of acetaldehyde, and triclofos sodium is a phosphate ester prodrug of trichloroethanol, both belonging to the aldehydes and their derivatives."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify general anaesthetics with examples. Explain the factors governing their potency and speed, and give the synthesis of halothane.",
+      "answer": "1. Definition: a general anaesthetic produces reversible loss of consciousness and of pain sensation, with loss of reflexes and muscle relaxation.\n2. Classification - inhalation anaesthetics, volatile liquids: halothane (a halogenated alkane) and the ethers methoxyflurane, enflurane, isoflurane, sevoflurane and desflurane.\n3. Inhalation anaesthetics, gases: nitrous oxide, which is a weak anaesthetic but a good analgesic.\n4. Intravenous agents - ultra-short-acting barbiturates: thiopental sodium, thiamylal sodium and methohexital sodium.\n5. Intravenous agents - dissociative: ketamine hydrochloride, which blocks the NMDA receptor channel; also propofol and the benzodiazepines used for induction and sedation.\n6. Mechanism: inhalation agents open GABA-A and glycine channels and block NMDA and nicotinic channels; the Meyer-Overton rule relates potency to solubility in oil.\n7. Potency is measured by MAC, the minimum alveolar concentration preventing movement on skin incision in half of patients; a low MAC means a potent agent.\n8. Speed is governed by the blood : gas partition coefficient; a low value means little drug dissolves in blood, so alveolar concentration rises quickly and induction and recovery are fast, as with desflurane, sevoflurane and nitrous oxide.\n9. Structure and properties: fluorine substitution reduces flammability and metabolism; chlorine and bromine raise potency but also toxicity and the risk of arrhythmia; ethers are gentler on the heart than alkanes.\n10. Properties and drawbacks of halothane: potent, non-irritant, non-flammable and pleasant to breathe, but it sensitises the heart to catecholamines, relaxes the uterus, is partly metabolised and rarely causes hepatitis; it is stored in amber bottles with thymol as a stabiliser.\n11. Synthesis of halothane: trichloroethylene is treated with hydrogen fluoride in the presence of an antimony halide catalyst, giving 1-chloro-2,2,2-trifluoroethane; this is brominated with bromine at high temperature or under ultraviolet light, replacing a hydrogen of the CH2 group; the product, 2-bromo-2-chloro-1,1,1-trifluoroethane, is purified by fractional distillation."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the structure activity relationship of morphine analogues. Classify narcotic analgesics and their antagonists with examples and uses.",
+      "answer": "1. Structure of morphine: a pentacyclic molecule whose essential features are an aromatic ring with a phenolic 3-hydroxyl, a quaternary carbon, a two-carbon bridge and a basic tertiary nitrogen, arranged in a T shape.\n2. SAR point 1: the free phenolic 3-OH is needed for full potency; methylating it (codeine) reduces potency about ten-fold, and codeine acts as a prodrug demethylated by CYP2D6 to morphine.\n3. SAR point 2: acetylating both the 3- and 6-hydroxyls (heroin) raises lipid solubility and speeds entry into the brain, increasing euphoria and abuse liability.\n4. SAR point 3: the 6-OH is less important; converting it to a ketone with saturation of the 7,8 double bond (hydromorphone, oxycodone) raises potency.\n5. SAR point 4: the basic nitrogen is essential and must be protonated at body pH; N-methyl gives an agonist, while N-allyl, N-cyclopropylmethyl or N-cyclobutylmethyl converts the molecule into an antagonist or mixed agonist-antagonist (nalorphine, naloxone, pentazocine).\n6. SAR point 5: rings can be removed step by step while keeping activity, giving morphinans (levorphanol), benzomorphans (pentazocine), 4-phenylpiperidines (pethidine, fentanyl) and the open-chain methadone, which shows that the minimum requirement is the aromatic ring, the quaternary carbon, the bridge and the basic nitrogen.\n7. SAR point 6: only the laevorotatory isomer is analgesic; the dextro isomers keep antitussive activity (dextromethorphan).\n8. Receptors: mu, kappa and delta receptors are inhibitory G-protein coupled receptors that open potassium channels and close calcium channels; mu agonism gives analgesia, euphoria, respiratory depression, constipation, miosis and dependence.\n9. Classification with examples: natural and semisynthetic morphine derivatives (morphine sulphate, codeine); 4-phenylpiperidines (meperidine, anileridine, fentanyl citrate, and the antidiarrhoeals diphenoxylate and loperamide); open-chain methadone group (methadone hydrochloride, propoxyphene); morphinans (levorphanol tartrate); benzomorphans and mixed agonist-antagonists (pentazocine).\n10. Antagonists: nalorphine hydrochloride and levallorphan tartrate (partial agonists) and naloxone hydrochloride, a pure antagonist given intravenously in opioid overdose, which acts within minutes but briefly, so repeated doses are needed; naltrexone is the long-acting oral relative.\n11. Uses: severe pain and myocardial infarction (morphine), cough (codeine), anaesthesia and patch therapy for chronic pain (fentanyl), maintenance treatment of opioid dependence (methadone) and diarrhoea (loperamide)."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify non-steroidal anti-inflammatory drugs with examples. Explain their mechanism of action and give the synthesis of ibuprofen.",
+      "answer": "1. Mechanism: NSAIDs inhibit cyclo-oxygenase, which converts arachidonic acid to prostaglandins and thromboxane. Less prostaglandin E2 means less pain, fever and inflammation; less gastric prostaglandin causes ulceration and less renal prostaglandin causes salt and water retention.\n2. COX-1 is constitutive in stomach, platelets and kidney; COX-2 is induced at sites of inflammation, which is the basis of the selective coxibs.\n3. Aspirin is unique in acetylating a serine residue in the COX channel, so inhibition is irreversible and lasts the life of the platelet, about seven to ten days, which is why a low dose prevents thrombosis.\n4. Classification - salicylates: sodium salicylate and aspirin.\n5. Fenamates (N-aryl anthranilic acids): mefenamic acid and meclofenamate.\n6. Aryl and heteroaryl acetic acids: indomethacin, sulindac (a sulphoxide prodrug), tolmetin, zomepirac, diclofenac and ketorolac.\n7. Arylpropionic acids: ibuprofen, naproxen and ketoprofen, which have the best gastric tolerance of the older group.\n8. Enolic acids (oxicams): piroxicam and tenoxicam, with long half-lives allowing once-daily dosing.\n9. Aniline derivatives: phenacetin, now withdrawn for nephrotoxicity, and acetaminophen (paracetamol), which is analgesic and antipyretic but almost without anti-inflammatory action; overdose damages the liver and is treated with N-acetylcysteine. Pyrazolones such as antipyrine and phenylbutazone are largely withdrawn because of agranulocytosis.\n10. General SAR: an acidic group (carboxylic acid or enol) separated by one carbon or none from a flat aromatic ring, with a second lipophilic ring or halogen held out of the plane; the acid binds an arginine at the mouth of the COX channel.\n11. Synthesis of ibuprofen: isobutylbenzene is acetylated with acetic anhydride and aluminium chloride (Friedel-Crafts) to give 4-isobutylacetophenone; condensation with ethyl chloroacetate and sodium ethoxide (Darzens reaction) gives the glycidic ester; hydrolysis and decarboxylation give 2-(4-isobutylphenyl)propanal; the aldehyde is converted to the oxime with hydroxylamine, dehydrated to the nitrile and hydrolysed to ibuprofen. A modern route hydrogenates the ketone and carbonylates the alcohol with carbon monoxide over a palladium catalyst, producing far less waste. Only the S enantiomer inhibits COX, and the R form is largely converted to it in the body."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the synthesis of ketamine and explain what is meant by dissociative anaesthesia.",
+      "answer": "Synthesis: (1) 2-Chlorobenzonitrile is treated with cyclopentylmagnesium bromide and the resulting ketimine is hydrolysed to give (2-chlorophenyl) cyclopentyl ketone. (2) The ring carbon next to the carbonyl is brominated to give the 1-bromocyclopentyl ketone. (3) Reaction with methylamine gives a hydroxyimine intermediate. (4) Heating in a high-boiling solvent such as decalin causes an alpha-hydroxyimine rearrangement in which the five-membered ring expands to a six-membered cyclohexanone and the nitrogen moves onto the ring carbon, giving ketamine, isolated as the hydrochloride. Dissociative anaesthesia: ketamine blocks the NMDA receptor channel and separates the thalamocortical from the limbic system, so the patient appears awake with open eyes but is unresponsive, has profound analgesia and amnesia, and keeps airway reflexes and muscle tone. Blood pressure and heart rate rise, which suits shocked and trauma patients. Emergence may bring vivid dreams or hallucinations, reduced by a benzodiazepine; the S enantiomer is more potent with fewer such reactions."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Outline the synthesis of fentanyl and state its uses.",
+      "answer": "Synthesis: (1) N-Phenethyl-4-piperidone is condensed with aniline to give the imine (Schiff base). (2) The imine is reduced with sodium borohydride to 4-anilino-1-phenethylpiperidine. (3) The secondary aromatic amine is acylated with propionic anhydride or propionyl chloride, giving the propionanilide fentanyl, isolated as the citrate. Structure note: fentanyl is a 4-anilinopiperidine; the piperidine nitrogen is the basic centre, the phenethyl group fills the lipophilic pocket and the molecule keeps the morphine pharmacophore without the morphine ring system. Pharmacology and uses: a pure mu agonist about eighty to a hundred times as potent as morphine, with a rapid onset and short action after injection because of high lipid solubility and redistribution. It is used during anaesthesia, for breakthrough cancer pain as a lozenge or buccal tablet and as a transdermal patch for chronic severe pain. Respiratory depression and chest wall rigidity after rapid injection are the main dangers; naloxone reverses it."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of methadone and explain why it is used in opioid dependence.",
+      "answer": "Synthesis: (1) Diphenylacetonitrile is treated with sodamide and then with 1-dimethylamino-2-chloropropane; alkylation gives 4-dimethylamino-2,2-diphenylvaleronitrile. (2) The nitrile is treated with ethylmagnesium bromide, which adds to the nitrile carbon to give a magnesium ketimine salt. (3) Hydrolysis with dilute acid converts the ketimine to the ketone, giving methadone, isolated as the hydrochloride. Structure note: methadone has no fused ring system, yet it folds so that the two phenyl groups, the quaternary carbon and the basic nitrogen reproduce the morphine pharmacophore; the analgesic activity resides in the laevorotatory isomer. Use in dependence: methadone is well absorbed by mouth, is long acting because it is highly protein bound and slowly released from tissues, and produces a steady blood level without the peaks that cause euphoria. A single daily oral dose therefore prevents withdrawal and blocks the effect of injected opioids, allowing a supervised, gradual reduction. It also blocks the NMDA receptor, which helps in some chronic pain."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of mefenamic acid and describe the fenamate class.",
+      "answer": "Synthesis: 2-chlorobenzoic acid and 2,3-dimethylaniline are heated together in a solvent such as dimethylformamide or amyl alcohol with copper or copper(II) acetate as catalyst and potassium carbonate as base (Ullmann condensation). The amine nitrogen displaces the chlorine on the aromatic ring. Acidification of the mixture gives N-(2,3-dimethylphenyl)anthranilic acid, that is mefenamic acid, which is recrystallised from toluene or alcohol. Fenamates: these are N-aryl derivatives of anthranilic acid, a nitrogen bioisostere of salicylic acid; the class includes mefenamic acid, meclofenamic acid and flufenamic acid. They inhibit cyclo-oxygenase and may also antagonise prostaglandin receptors. The two ortho methyl groups force the two rings out of plane, which suits the COX channel. Uses: mild to moderate pain, especially dysmenorrhoea, dental pain and fever. Diarrhoea is common and may be severe, haemolytic anaemia has been reported, and like all NSAIDs they can cause gastric ulceration and renal impairment."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the synthesis of methohexital sodium. Why do ultra-short-acting barbiturates have such a brief action?",
+      "answer": "Synthesis: (1) Diethyl malonate is alkylated twice with sodium ethoxide, first with allyl bromide and then with the halide carrying the 1-methyl-2-pentynyl group, giving the disubstituted malonate. (2) Condensation with N-methylurea in the presence of sodium ethoxide closes the six-membered ring with loss of ethanol, giving methohexital, an N-methylated oxybarbiturate. (3) Treatment with the calculated quantity of sodium hydroxide gives the water-soluble sodium salt, supplied as a sterile powder to be dissolved before use. Brief action: these drugs are extremely lipid soluble because of sulphur at C2 (thiopental, thiamylal) or N-methylation (methohexital), so after intravenous injection they reach the brain in one circulation time. The plasma level then falls as the drug is redistributed into muscle and later into fat, and the brain concentration falls with it, so the patient wakes in a few minutes. Metabolism is slow, so repeated doses accumulate and recovery becomes prolonged; the alkaline solution is irritant and intra-arterial injection can cause gangrene."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define MAC and state what the blood : gas partition coefficient tells you.",
+      "answer": "MAC (minimum alveolar concentration) is the concentration of an inhaled anaesthetic in the alveoli that prevents movement in response to a standard surgical stimulus in half of the patients; a low MAC means a potent agent. The blood : gas partition coefficient measures how much of the agent dissolves in blood; a low value means the alveolar concentration rises quickly, so induction and recovery are fast, as with desflurane, sevoflurane and nitrous oxide."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is the antiplatelet action of aspirin irreversible?",
+      "answer": "Aspirin transfers its acetyl group to a serine residue in the cyclo-oxygenase channel, forming a covalent bond, so that enzyme molecule can never work again. Platelets have no nucleus and cannot make new enzyme, so the effect lasts until new platelets are formed, about seven to ten days. Other NSAIDs only compete reversibly and their effect ends as the drug is cleared."
+    }
+  ]
+}

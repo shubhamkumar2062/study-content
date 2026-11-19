@@ -1,0 +1,138 @@
+{
+  "code": "BP402T",
+  "title": "Medicinal Chemistry I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP402T Medicinal Chemistry I and BP406P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP402T_B.Pharma-pages-19.pdf"
+  },
+  "practicalCodes": [
+    "BP406P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to medicinal chemistry, physicochemical properties and drug metabolism",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Adrenergic drugs: neurotransmitters, sympathomimetics and adrenergic antagonists",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Cholinergic drugs: parasympathomimetics, anticholinesterases and cholinergic blockers",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "CNS drugs I: sedative-hypnotics, antipsychotics and anticonvulsants",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "CNS drugs II: general anaesthetics, analgesics and anti-inflammatory agents",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "prep-pyrazole",
+      "title": "Preparation of 1,3-pyrazole (3,5-dimethylpyrazole)",
+      "file": "practicals/prep-pyrazole.md"
+    },
+    {
+      "id": "prep-oxazole",
+      "title": "Preparation of 1,3-oxazole (2,4,5-triphenyloxazole)",
+      "file": "practicals/prep-oxazole.md"
+    },
+    {
+      "id": "prep-benzimidazole",
+      "title": "Preparation of benzimidazole",
+      "file": "practicals/prep-benzimidazole.md"
+    },
+    {
+      "id": "prep-benztriazole",
+      "title": "Preparation of benztriazole",
+      "file": "practicals/prep-benztriazole.md"
+    },
+    {
+      "id": "prep-diphenylquinoxaline",
+      "title": "Preparation of 2,3-diphenylquinoxaline",
+      "file": "practicals/prep-diphenylquinoxaline.md"
+    },
+    {
+      "id": "prep-benzocaine",
+      "title": "Preparation of benzocaine",
+      "file": "practicals/prep-benzocaine.md"
+    },
+    {
+      "id": "prep-phenytoin",
+      "title": "Preparation of phenytoin",
+      "file": "practicals/prep-phenytoin.md"
+    },
+    {
+      "id": "prep-phenothiazine",
+      "title": "Preparation of phenothiazine",
+      "file": "practicals/prep-phenothiazine.md"
+    },
+    {
+      "id": "prep-barbiturate",
+      "title": "Preparation of a barbiturate (barbituric acid)",
+      "file": "practicals/prep-barbiturate.md"
+    },
+    {
+      "id": "assay-chlorpromazine",
+      "title": "Assay of chlorpromazine hydrochloride",
+      "file": "practicals/assay-chlorpromazine.md"
+    },
+    {
+      "id": "assay-phenobarbitone",
+      "title": "Assay of phenobarbitone",
+      "file": "practicals/assay-phenobarbitone.md"
+    },
+    {
+      "id": "assay-atropine",
+      "title": "Assay of atropine sulphate",
+      "file": "practicals/assay-atropine.md"
+    },
+    {
+      "id": "assay-ibuprofen",
+      "title": "Assay of ibuprofen",
+      "file": "practicals/assay-ibuprofen.md"
+    },
+    {
+      "id": "assay-aspirin",
+      "title": "Assay of aspirin",
+      "file": "practicals/assay-aspirin.md"
+    },
+    {
+      "id": "assay-furosemide",
+      "title": "Assay of furosemide",
+      "file": "practicals/assay-furosemide.md"
+    },
+    {
+      "id": "partition-coefficient-benzoic-acid",
+      "title": "Partition coefficient of benzoic acid (octanol–water)",
+      "file": "practicals/partition-coefficient-benzoic-acid.md"
+    },
+    {
+      "id": "partition-coefficient-ibuprofen",
+      "title": "Partition coefficient of ibuprofen (octanol–water)",
+      "file": "practicals/partition-coefficient-ibuprofen.md"
+    }
+  ]
+}
