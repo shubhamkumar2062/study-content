@@ -1,0 +1,626 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the five-kingdom classification proposed by R. H. Whittaker. Give the basis of classification and the salient features of each kingdom with examples. Add a note on viruses.",
+      "answer": "1. Proposed by R. H. Whittaker (1969) to replace the two-kingdom system (Plantae, Animalia), which could not place bacteria and fungi.\n2. Basis: cell structure (prokaryotic or eukaryotic), body organisation (unicellular or multicellular), mode of nutrition (autotrophic or heterotrophic), reproduction and evolutionary relationships.\n3. Monera: prokaryotic, unicellular, cell wall present (peptidoglycan in most bacteria); autotrophic or heterotrophic; binary fission. Archaebacteria (methanogens, halophiles), eubacteria, cyanobacteria (Nostoc, Anabaena), mycoplasma (no wall). Example: Escherichia coli, Lactobacillus.\n4. Protista: unicellular eukaryotes, mostly aquatic; diatoms, dinoflagellates, euglenoids (Euglena), slime moulds, protozoans (Amoeba, Paramecium, Plasmodium).\n5. Fungi: eukaryotic, heterotrophic (saprophytic or parasitic), chitin cell wall, body of hyphae forming mycelium (yeast is unicellular); spores. Examples: Penicillium, yeast, mushroom (Agaricus); symbiotic lichens and mycorrhiza.\n6. Plantae: eukaryotic, multicellular, chlorophyll, cellulose wall, autotrophic; algae, mosses, ferns, gymnosperms, angiosperms; alternation of generations. Few partial heterotrophs (Cuscuta, insectivorous plants).\n7. Animalia: eukaryotic, multicellular, heterotrophic (holozoic), no cell wall, food stored as glycogen and fat; most move and reproduce sexually.\n8. Comparison table of cell type, wall, body, nutrition and examples scores well.\n9. Viruses: not placed in the five kingdoms; nucleic acid (DNA or RNA) in a protein capsid; non-cellular; multiply only in living host cells; can be crystallised (TMV by Stanley). Ivanowsky (1892) first noted them. Diseases: influenza, polio, AIDS; plant mosaic.\n10. Viroids (free RNA) and prions (infectious proteins) are smaller agents."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Compare the internal structure (anatomy) of a dicot stem and a monocot stem, and of a dicot root and a monocot root, with labelled diagrams.",
+      "answer": "1. Terms: epidermis, cortex, endodermis, pericycle, vascular bundles (xylem carries water, phloem carries food), pith; conjoint/radial, open/closed, exarch/endarch.\n2. Dicot stem (sunflower): epidermis with cuticle and hairs; hypodermis of collenchyma; cortex, endodermis (starch sheath), pericycle; vascular bundles few, arranged in a ring; conjoint, collateral, open (cambium present), endarch; wedge-shaped; large pith.\n3. Monocot stem (maize): epidermis with cuticle, no hairs; hypodermis of sclerenchyma; ground tissue not divided; many bundles scattered; conjoint, collateral, closed; each with a sclerenchyma bundle sheath; water (protoxylem) cavity; no phloem parenchyma; skull-shaped bundles.\n4. Dicot root (bean, sunflower): epiblema with root hairs, cortex, endodermis with Casparian strips, pericycle; radial bundles; 2–4 xylem (diarch to tetrarch), exarch; pith small or absent; secondary growth occurs.\n5. Monocot root (maize): same layers; more than 6 xylem bundles (polyarch), exarch; large pith; no secondary growth.\n6. Draw: ring of bundles vs scattered bundles; root with xylem arms alternating with phloem.\n7. Conclude with a 5–6 row comparison table."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the parts of a typical flower. Explain the position of ovary, aestivation and placentation with one example each, and write the floral formula of mustard.",
+      "answer": "1. Flower is the reproductive shoot; pedicel and thalamus bear four whorls.\n2. Calyx (sepals, protect bud), corolla (petals, attract pollinators), androecium (stamens: filament + anther with pollen), gynoecium (carpels: stigma, style, ovary with ovules).\n3. Bisexual or unisexual; actinomorphic (mustard, Datura) or zygomorphic (pea).\n4. Position of ovary: hypogynous, superior ovary (mustard, China rose, brinjal); perigynous, half-inferior (plum, rose, peach); epigynous, inferior ovary (guava, cucumber, sunflower ray florets).\n5. Aestivation: valvate (Calotropis), twisted (China rose, cotton), imbricate (gulmohur, Cassia), vexillary (pea, bean).\n6. Placentation: marginal (pea), axile (China rose, tomato, lemon), parietal (mustard, Argemone), free central (Dianthus, primrose), basal (sunflower, marigold).\n7. Floral formula symbols: ⚥ bisexual, ⊕ actinomorphic, K, C, A, G; line below G for superior ovary.\n8. Mustard (Brassicaceae): ⊕ ⚥ K2+2 C4 A2+4 G(2), ovary superior; four free petals in a cross; tetradynamous stamens (four long, two short).\n9. Labelled L.S. of a flower."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are the characteristics of living organisms? Which of them are the defining characters?",
+      "answer": "1. Cellular organisation: made of one or more cells.\n2. Metabolism: all chemical reactions of the body (anabolism, catabolism).\n3. Growth from inside (crystals grow only from outside).\n4. Reproduction: making new individuals.\n5. Response to stimuli (consciousness), homeostasis and movement.\n6. Growth and reproduction alone cannot define life: mules and worker bees do not reproduce; non-living things can grow by addition.\n7. Defining characters: metabolism, cellular organisation and response to the environment, present in all living things and absent in non-living ones."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is binomial nomenclature? State its rules with suitable examples.",
+      "answer": "1. Two-part scientific naming of organisms, established by Carolus Linnaeus.\n2. First word = genus, second = specific epithet: Mangifera indica (mango, Anacardiaceae), Homo sapiens (man).\n3. Names in Latin or Latinised.\n4. Genus begins with a capital letter, epithet with a small letter.\n5. Printed in italics; handwritten names underlined separately.\n6. Author's name may follow in short form: Mangifera indica L.\n7. Plant names follow the International Code of Nomenclature for algae, fungi and plants; animal names the zoological code.\n8. Advantage: one universal name for each species, unlike local common names."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the modifications of root with examples and their families.",
+      "answer": "1. Storage roots (tap root): conical — carrot (Apiaceae); fusiform — radish (Brassicaceae); napiform — turnip (Brassicaceae), beetroot (Amaranthaceae).\n2. Tuberous adventitious root — sweet potato (Convolvulaceae).\n3. Prop roots from branches give support — banyan (Moraceae).\n4. Stilt roots from lower nodes — maize, sugarcane (Poaceae).\n5. Pneumatophores (breathing roots growing upward in swamps) — Rhizophora (Rhizophoraceae).\n6. Functions: storage, support, aeration.\n7. Tap root system in dicots; fibrous in monocots; adventitious roots arise from parts other than the radicle."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the modifications of stem with examples.",
+      "answer": "1. Underground storage stems: tuber — potato (Solanaceae), with eyes (buds); rhizome — ginger, turmeric (Zingiberaceae); corm — Colocasia (Araceae); bulb — onion, food in fleshy leaves around a reduced stem.\n2. Stem tendrils for climbing — grapevine (Vitaceae), cucumber (Cucurbitaceae).\n3. Thorns for protection — Citrus (Rutaceae), Bougainvillea (Nyctaginaceae).\n4. Phylloclade — flat green stem doing photosynthesis — Opuntia (Cactaceae), Euphorbia.\n5. Runners, stolons, offsets for vegetative spread — grass, Pistia, Eichhornia.\n6. Recognised as stems because they have nodes, internodes and buds."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify fruits with one example each and give their families.",
+      "answer": "1. Fruit = ripened ovary; wall = pericarp (epicarp, mesocarp, endocarp).\n2. Simple fleshy: berry (tomato, Solanaceae), drupe (mango, Anacardiaceae; coconut, Arecaceae), pepo (cucumber, Cucurbitaceae), hesperidium (orange, Rutaceae), pome (apple, Rosaceae — false fruit, thalamus edible).\n3. Dry dehiscent: legume (pea, Fabaceae), siliqua (mustard, Brassicaceae), capsule (cotton, Malvaceae; Datura, Solanaceae).\n4. Dry indehiscent: caryopsis (wheat, rice, Poaceae), cypsela (sunflower, Asteraceae).\n5. Aggregate (from many free carpels): custard apple (Annonaceae), strawberry (Rosaceae).\n6. Composite/multiple (from a whole inflorescence): jackfruit (Moraceae), pineapple (Bromeliaceae), fig (Moraceae).\n7. Parthenocarpic fruit forms without fertilisation (seedless banana)."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is an inflorescence? Differentiate racemose and cymose inflorescence with examples, and name three special types.",
+      "answer": "1. Inflorescence: arrangement of flowers on the floral axis.\n2. Racemose: main axis keeps growing; flowers lateral; oldest at base (acropetal) — mustard (Brassicaceae); spike — Achyranthes; umbel — coriander (Apiaceae); capitulum — sunflower (Asteraceae); spadix — Colocasia (Araceae).\n3. Cymose: main axis ends in a flower; limited growth; oldest flower at the top (basipetal) — jasmine (Oleaceae).\n4. Special types: cyathium — Euphorbia (Euphorbiaceae); verticillaster — tulsi (Lamiaceae); hypanthodium — fig (Moraceae)."
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate a dicot seed and a monocot seed with labelled diagrams.",
+      "answer": "1. Seed = fertilised, ripened ovule with embryo (radicle, plumule, cotyledons) and seed coat.\n2. Dicot (gram, bean — Fabaceae): two cotyledons, fleshy with food; endosperm usually absent; seed coat of testa and tegmen; hilum and micropyle visible.\n3. Monocot (maize — Poaceae): one cotyledon (scutellum); endosperm large, with aleurone layer; seed coat fused with fruit wall (grain); plumule covered by coleoptile, radicle by coleorhiza.\n4. Diagrams: bean seed opened showing two cotyledons; L.S. of maize grain showing endosperm, scutellum, coleoptile, coleorhiza."
+    },
+    {
+      "id": "u1-s08",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare a dicot (dorsiventral) leaf and a monocot (isobilateral) leaf in section.",
+      "answer": "1. Dicot leaf (mango): held at an angle; upper and lower surfaces differ.\n2. Mesophyll differentiated into palisade (upper) and spongy (lower) parenchyma.\n3. More stomata on the lower surface.\n4. Reticulate venation; bundle sheath around veins.\n5. Monocot leaf (grass, maize): held upright; both surfaces alike; stomata on both surfaces about equally.\n6. Mesophyll undifferentiated.\n7. Bulliform cells in the upper epidermis let the leaf roll in dry weather.\n8. Parallel venation. Draw both sections."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define taxonomy and name the ranks of the taxonomic hierarchy.",
+      "answer": "Taxonomy is the science of identifying, naming and classifying organisms. Ranks: kingdom, phylum/division, class, order, family, genus, species."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a virus? Who crystallised the tobacco mosaic virus?",
+      "answer": "A virus is a non-cellular particle of nucleic acid (DNA or RNA) in a protein coat that multiplies only inside living host cells. W. M. Stanley crystallised TMV (1935)."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define phyllotaxy and give its types with examples.",
+      "answer": "Phyllotaxy is the arrangement of leaves on the stem: alternate (China rose), opposite (Calotropis, guava) and whorled (Alstonia)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the composition of blood. Explain the mechanism of coagulation of blood with a flow chart.",
+      "answer": "1. Blood: fluid connective tissue, about 5 L in an adult; plasma about 55%, formed elements about 45%.\n2. Plasma: 90–92% water, 6–8% proteins (albumin — osmotic balance; globulins — defence; fibrinogen — clotting), salts, glucose, amino acids, lipids, hormones, urea, gases. Serum = plasma without clotting factors.\n3. RBC: about 5–5.5 million/mm³; biconcave, no nucleus; haemoglobin 12–16 g/100 ml; made in red bone marrow; life about 120 days; carry O2.\n4. WBC: 6,000–8,000/mm³; neutrophils 60–65%, lymphocytes 20–25%, monocytes 6–8%, eosinophils 2–3%, basophils 0.5–1%; defence.\n5. Platelets: 1.5–3.5 lakh/mm³; from megakaryocytes; clotting.\n6. Coagulation: injury → platelets and tissues release factors → prothrombin activator (thrombokinase) forms.\n7. Prothrombin → thrombin (needs Ca2+).\n8. Thrombin converts soluble fibrinogen → insoluble fibrin threads.\n9. Fibrin network traps blood cells → clot.\n10. Ca2+ essential (citrate/oxalate prevent clotting); vitamin K needed for prothrombin; heparin prevents clotting in vessels; haemophilia = defective clotting."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of the human heart with a labelled diagram. Explain the cardiac cycle and define cardiac output.",
+      "answer": "1. Hollow muscular organ between the lungs, size of a fist; covered by pericardium with pericardial fluid; wall: epicardium, myocardium, endocardium.\n2. Four chambers: two atria (receive blood) and two ventricles (pump); left ventricle wall thickest; interatrial and interventricular septa.\n3. Valves: tricuspid (right atrium–ventricle), bicuspid/mitral (left), pulmonary and aortic semilunar valves.\n4. Vessels: venae cavae into right atrium; pulmonary artery from right ventricle; pulmonary veins into left atrium; aorta from left ventricle. Double circulation.\n5. Conduction: SA node (pacemaker, 70–75/min) → AV node → bundle of His → Purkinje fibres; heart is myogenic.\n6. Cardiac cycle (0.8 s at 72 beats/min): joint diastole (chambers fill) → atrial systole (about 0.1 s) → ventricular systole (about 0.3 s; AV valves close, 'lubb'; semilunar valves open; ejection) → ventricular diastole (semilunar valves close, 'dub'; AV valves open).\n7. Stroke volume about 70 ml per beat.\n8. Cardiac output = stroke volume × heart rate ≈ 70 × 72 ≈ 5 L/min; rises in exercise.\n9. Diagram of heart with chambers, valves and vessels."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the role of digestive enzymes in the digestion of carbohydrates, proteins and fats. Add a note on absorption of digested food.",
+      "answer": "1. Digestion: breakdown of large insoluble food into small soluble molecules by enzymes.\n2. Mouth: salivary amylase (ptyalin) — starch → maltose.\n3. Stomach: HCl activates pepsinogen to pepsin; pepsin — proteins → proteoses and peptones; rennin (infants) curdles milk; gastric lipase (little).\n4. Duodenum, pancreatic juice: amylase — starch → maltose; trypsinogen activated by enterokinase to trypsin; trypsin, chymotrypsin, carboxypeptidase — proteins → peptides; lipase — fats → fatty acids, glycerol, monoglycerides; nucleases.\n5. Bile: bile salts emulsify fats and activate lipase (no enzymes).\n6. Intestinal juice: dipeptidases → amino acids; maltase, lactase, sucrase → monosaccharides; nucleotidases and nucleosidases.\n7. End products: glucose and other monosaccharides, amino acids, fatty acids and glycerol.\n8. Absorption mainly in small intestine (villi and microvilli): simple diffusion, facilitated transport (fructose), active transport with Na+ (glucose, amino acids), osmosis (water).\n9. Fats: micelles → rebuilt in cells → chylomicrons → lacteals (lymph) → blood.\n10. Assimilation: absorbed nutrients used by cells for energy and building tissue."
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the mechanism of breathing. Describe the exchange of gases and the transport of oxygen and carbon dioxide in blood.",
+      "answer": "1. Breathing: air exchange between atmosphere and alveoli; driven by pressure differences.\n2. Inspiration (active): diaphragm contracts and flattens; external intercostals lift ribs and sternum; chest volume rises; lung pressure falls below atmospheric; air enters.\n3. Expiration (passive at rest): muscles relax; volume falls; pressure rises; air leaves. Abdominal muscles help in forced expiration. Rate 12–16/min.\n4. Exchange: simple diffusion along partial pressure gradients. Alveoli pO2 104, pCO2 40 mmHg; deoxygenated blood pO2 40, pCO2 45; tissues pO2 40, pCO2 45.\n5. CO2 is 20–25 times more soluble than O2; diffusion membrane is very thin.\n6. O2 transport: about 97% as oxyhaemoglobin, 3% dissolved; binding favoured by high pO2, low pCO2, low H+, lower temperature (lungs); oxygen dissociation curve is sigmoid; 100 ml oxygenated blood delivers about 5 ml O2.\n7. CO2 transport: 20–25% carbamino-haemoglobin; about 70% as bicarbonate (carbonic anhydrase: CO2 + H2O ⇌ H2CO3 ⇌ HCO3− + H+); about 7% dissolved; 100 ml deoxygenated blood delivers about 4 ml CO2.\n8. Regulation: rhythm centre (medulla), pneumotaxic centre (pons), chemosensitive area (CO2, H+)."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the ABO and Rh blood group systems. Why is O called the universal donor?",
+      "answer": "1. Blood groups depend on antigens on RBCs and antibodies in plasma (Landsteiner).\n2. A: antigen A, anti-B; B: antigen B, anti-A; AB: both antigens, no antibodies; O: no antigens, anti-A and anti-B.\n3. Mismatched transfusion → agglutination of donor RBCs.\n4. O has no A or B antigens, so its cells are not clumped by recipient antibodies — universal donor; AB has no antibodies — universal recipient.\n5. Rh antigen present = Rh-positive (most people); Rh-negative persons form anti-Rh after exposure.\n6. Rh-negative mother with Rh-positive fetus: second pregnancy may cause erythroblastosis fetalis; prevented by anti-Rh antibodies given after the first delivery."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is lymph? Give its composition and functions.",
+      "answer": "1. Tissue fluid leaks from capillaries; the part that enters lymphatic vessels is lymph.\n2. Composition: like plasma with fewer proteins; many lymphocytes; no RBCs or platelets; milky after fatty meals (fat from lacteals).\n3. Functions: returns tissue fluid and proteins to blood (thoracic duct); absorbs and carries fats; lymph nodes filter germs; lymphocytes make antibodies; nutrient exchange.\n4. Blocked lymph flow causes oedema."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is an ECG? Explain the waves of a normal ECG with a diagram.",
+      "answer": "1. Electrocardiogram: graph of the electrical activity of the heart recorded by an electrocardiograph from electrodes on the limbs and chest.\n2. P wave: atrial depolarisation → atrial contraction.\n3. QRS complex: ventricular depolarisation → ventricular contraction (start of systole).\n4. T wave: ventricular repolarisation → end of systole.\n5. Number of QRS complexes per minute gives heart rate.\n6. Changes in shape or spacing indicate heart disease (heart attack, rhythm problems).\n7. Draw P, QRS, T on a baseline."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate arteries, veins and capillaries.",
+      "answer": "1. Arteries carry blood away from the heart; veins towards it; capillaries connect them.\n2. Walls: arteries thick, elastic, muscular; veins thinner; capillaries one cell thick.\n3. Lumen: narrow in arteries, wide in veins.\n4. Valves: present in veins only.\n5. Pressure: high in arteries, low in veins.\n6. Blood: arteries oxygenated (except pulmonary artery), veins deoxygenated (except pulmonary veins).\n7. Capillaries are the site of exchange of gases, nutrients and wastes.\n8. Wall layers: tunica externa, media, intima."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Name the digestive glands of man and give the secretions and functions of each.",
+      "answer": "1. Salivary glands (parotid, submandibular, sublingual): saliva with amylase and lysozyme.\n2. Gastric glands: chief cells — pepsinogen; parietal cells — HCl and intrinsic factor; mucus cells — mucus.\n3. Liver: bile (stored in gall bladder); bile salts emulsify fats; largest gland.\n4. Pancreas: pancreatic juice (amylase, trypsinogen, chymotrypsinogen, lipase, nucleases); islets make insulin and glucagon.\n5. Intestinal glands: succus entericus with dipeptidases, maltase, lactase, sucrase, nucleotidases, and mucus."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define and give normal values of respiratory volumes and capacities.",
+      "answer": "1. Tidal volume: air in or out in normal breath, about 500 ml.\n2. Inspiratory reserve volume: extra forced inspiration, 2,500–3,000 ml.\n3. Expiratory reserve volume: extra forced expiration, 1,000–1,100 ml.\n4. Residual volume: air left after forced expiration, 1,100–1,200 ml.\n5. Inspiratory capacity = TV + IRV; expiratory capacity = TV + ERV; functional residual capacity = ERV + RV.\n6. Vital capacity = TV + IRV + ERV; total lung capacity = VC + RV.\n7. Measured with a spirometer; minute volume = TV × rate ≈ 6–8 L/min."
+    },
+    {
+      "id": "u2-s07",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How is respiration regulated in man?",
+      "answer": "1. Respiratory rhythm centre in medulla oblongata sets the basic rhythm.\n2. Pneumotaxic centre in pons shortens inspiration, changing the rate.\n3. Chemosensitive area near the rhythm centre responds to rise in CO2 and H+ and increases breathing.\n4. Peripheral chemoreceptors in aortic arch and carotid arteries sense CO2, H+ (and low O2) and signal the centre.\n5. CO2 is the main driver; O2 has a minor role normally.\n6. Voluntary control is possible for short periods (holding the breath)."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define cardiac output and give its normal value.",
+      "answer": "Cardiac output is the volume of blood pumped by each ventricle per minute = stroke volume × heart rate ≈ 70 ml × 72 ≈ 5 litres per minute."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the role of enterokinase?",
+      "answer": "Enterokinase, secreted by the intestinal mucosa, converts inactive trypsinogen into active trypsin, which then activates other pancreatic protein-digesting enzymes."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define tidal volume and vital capacity.",
+      "answer": "Tidal volume is the air breathed in or out in one normal breath (about 500 ml). Vital capacity is the maximum air breathed out after a maximum breath in (TV + IRV + ERV)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of a nephron with a labelled diagram and explain the process of urine formation.",
+      "answer": "1. Nephron: structural and functional unit of the kidney; about one million per kidney.\n2. Parts: glomerulus (capillary tuft between afferent and efferent arterioles) inside Bowman's capsule (together the Malpighian body); proximal convoluted tubule; loop of Henle (descending and ascending limbs); distal convoluted tubule; collecting duct. Peritubular capillaries and vasa recta.\n3. Cortical nephrons (short loops) and juxtamedullary nephrons (long loops).\n4. Glomerular filtration: blood pressure forces water and small solutes through endothelium, basement membrane and podocyte slits; cells and proteins stay; GFR about 125 ml/min (180 L/day).\n5. Reabsorption: about 99% of filtrate; PCT reabsorbs nearly all glucose and amino acids and 70–80% of salts and water; descending limb permeable to water; ascending limb to salts not water; DCT reabsorbs Na+ and water under hormones; collecting duct reabsorbs water under ADH.\n6. Tubular secretion: H+, K+, NH3, creatinine, drugs added to filtrate; keeps ionic and acid–base balance.\n7. Counter-current mechanism of loop of Henle and vasa recta concentrates urine (up to about four times).\n8. Urine: 1–1.5 L/day, slightly acidic, 25–30 g urea per day.\n9. Diagram of nephron with blood supply."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of a neuron. Explain the generation and conduction of a nerve impulse and the transmission at a chemical synapse.",
+      "answer": "1. Neuron: structural and functional unit of nervous system.\n2. Cell body (cyton) with nucleus and Nissl's granules; dendrites carry impulses towards the cell body; single axon carries impulses away; synaptic knobs with neurotransmitter vesicles; myelin sheath from Schwann cells; nodes of Ranvier.\n3. Types: multipolar, bipolar, unipolar; myelinated and non-myelinated fibres.\n4. Resting potential: membrane polarised, outside positive, inside negative, about −70 mV; Na+/K+ pump (3 Na+ out, 2 K+ in); membrane more permeable to K+.\n5. Stimulus opens Na+ channels; Na+ rushes in; inside becomes positive = depolarisation (action potential).\n6. Na+ channels close, K+ channels open; K+ moves out = repolarisation; pump restores ions.\n7. The depolarised site excites the next site; impulse travels one way; saltatory conduction from node to node in myelinated fibres is faster.\n8. Chemical synapse: impulse at terminal releases neurotransmitter (acetylcholine) into synaptic cleft; binds receptors on next membrane; opens ion channels; new impulse. Electrical synapses pass current directly.\n9. Diagram of neuron and synapse."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Name the endocrine glands of the human body. Give the hormones secreted by each and their functions, with disorders of excess or deficiency.",
+      "answer": "1. Hormones: chemical messengers secreted by ductless glands into blood, acting on target organs.\n2. Hypothalamus: releasing (GnRH) and inhibiting (somatostatin) hormones controlling the pituitary.\n3. Anterior pituitary: GH (growth; gigantism, acromegaly, dwarfism), prolactin (milk), TSH, ACTH, LH and FSH (gonads; LH causes ovulation); intermediate lobe MSH.\n4. Posterior pituitary: oxytocin (uterine contraction, milk ejection), ADH (water reabsorption; lack → diabetes insipidus).\n5. Pineal: melatonin (day–night rhythm).\n6. Thyroid: T4 and T3 (metabolism; cretinism, myxoedema, goitre with iodine lack, Graves' disease), thyrocalcitonin (lowers Ca).\n7. Parathyroid: PTH (raises blood Ca).\n8. Thymus: thymosins (T lymphocytes).\n9. Adrenal cortex: cortisol (glucose, anti-inflammatory), aldosterone (Na+ and water retention); Addison's disease, Cushing's syndrome. Adrenal medulla: adrenaline and noradrenaline (fight or flight).\n10. Pancreatic islets: insulin from β cells (lowers glucose; lack → diabetes mellitus), glucagon from α cells (raises glucose).\n11. Testis: testosterone; ovary: oestrogen, progesterone.\n12. Others: ANF (heart), erythropoietin (kidney), gastrin, secretin, CCK (gut)."
+    },
+    {
+      "id": "u3-l04",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe spermatogenesis and oogenesis with diagrams. Give the differences between them.",
+      "answer": "1. Gametogenesis forms haploid gametes (n = 23) from diploid cells (2n = 46) by meiosis.\n2. Spermatogenesis (seminiferous tubules, from puberty): spermatogonium (2n) → mitosis → primary spermatocyte (2n) → meiosis I → 2 secondary spermatocytes (n) → meiosis II → 4 spermatids (n) → spermiogenesis → 4 sperm.\n3. Control: GnRH → LH (Leydig cells → testosterone) and FSH (Sertoli cells).\n4. Sperm: head with nucleus and acrosome, neck, middle piece with mitochondria, tail.\n5. Oogenesis (ovary, begins before birth): oogonia (2n) → primary oocytes, arrested in prophase I inside primary follicles; at puberty, each cycle one completes meiosis I → secondary oocyte (n) + first polar body; secondary oocyte released at ovulation; meiosis II completes after sperm entry → ovum + second polar body.\n6. Follicles: primary → secondary → tertiary (antrum) → Graafian follicle → corpus luteum after ovulation.\n7. Differences: testes vs ovaries; puberty vs before birth; 4 sperm vs 1 ovum; equal vs unequal division; motile small sperm vs large non-motile ovum; continuous vs cyclic till menopause."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the different modes of excretion in animals with examples.",
+      "answer": "1. Ammonotelism: ammonia, most toxic, needs much water; bony fish, aquatic amphibians, aquatic insects.\n2. Ureotelism: urea, less toxic, made in the liver; mammals, terrestrial amphibians, marine fish.\n3. Uricotelism: uric acid, least toxic, removed with little water as paste or pellet; reptiles, birds, land snails, insects.\n4. Excretory organs: flame cells (Planaria), nephridia (earthworm), Malpighian tubules (cockroach), green glands (prawn), kidneys (vertebrates).\n5. Lungs, liver and skin also help in man."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the renin–angiotensin system and its role in regulating blood pressure.",
+      "answer": "1. Fall in BP or GFR is sensed by the juxtaglomerular apparatus.\n2. JG cells release renin.\n3. Renin converts angiotensinogen (from liver) to angiotensin I.\n4. Angiotensin-converting enzyme (ACE), mainly in lungs, converts it to angiotensin II.\n5. Angiotensin II constricts blood vessels and raises BP.\n6. It also makes the adrenal cortex release aldosterone → Na+ and water reabsorption in DCT → blood volume and BP rise; GFR restored.\n7. ANF from the heart opposes it. ACE inhibitors lower BP by blocking this step.\n8. Note: renin (kidney) differs from rennin (gastric enzyme)."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the functions of cerebrum, cerebellum, hypothalamus and medulla oblongata.",
+      "answer": "1. Cerebrum: thinking, intelligence, memory, learning, voluntary actions; sensory, motor and association areas; speech.\n2. Cerebellum: coordination of voluntary movements, balance (equilibrium) and posture.\n3. Hypothalamus: body temperature, hunger, thirst; secretes hypothalamic releasing hormones controlling the pituitary; emotions with the limbic system.\n4. Medulla oblongata: centres for breathing, heart rate and BP, gastric secretion; reflexes of swallowing, coughing, sneezing and vomiting.\n5. Add a simple diagram of the brain showing these parts."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the structure of the spinal cord and explain a reflex arc.",
+      "answer": "1. Long cord in the vertebral canal from medulla to about the first or second lumbar vertebra; covered by meninges; CSF in central canal.\n2. Cross-section: inner H-shaped grey matter, outer white matter.\n3. 31 pairs of spinal nerves; dorsal root (sensory, with ganglion), ventral root (motor).\n4. Functions: conducts impulses to and from the brain; reflex centre.\n5. Reflex: quick involuntary response (knee jerk, withdrawal from heat).\n6. Reflex arc: receptor → afferent neuron → spinal cord (interneuron) → efferent neuron → effector (muscle)."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify the human nervous system with a chart.",
+      "answer": "1. CNS: brain and spinal cord.\n2. PNS: 12 pairs cranial and 31 pairs spinal nerves.\n3. PNS fibres: afferent (to CNS) and efferent (from CNS).\n4. Efferent: somatic (to skeletal muscles, voluntary) and autonomic (to smooth muscle, heart, glands, involuntary).\n5. Autonomic: sympathetic (fight or flight) and parasympathetic (rest and digest).\n6. Visceral nervous system connects CNS with internal organs."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the menstrual cycle with the role of hormones.",
+      "answer": "1. Cycle of about 28 days in females from menarche to menopause.\n2. Menstrual phase (days 1–5): endometrium shed with bleeding.\n3. Follicular (proliferative) phase: FSH and LH rise; follicle grows to Graafian follicle; oestrogen rises; endometrium regenerates.\n4. Ovulation (about day 14): LH surge ruptures the Graafian follicle; secondary oocyte released.\n5. Luteal (secretory) phase: corpus luteum secretes progesterone; endometrium thick and glandular for implantation.\n6. No fertilisation: corpus luteum degenerates, progesterone falls, menstruation begins. Fertilisation: corpus luteum persists; no menstruation.\n7. Contraceptive pills suppress the LH surge."
+    },
+    {
+      "id": "u3-s07",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the male reproductive system of man with a diagram.",
+      "answer": "1. Testes in scrotum, 2–2.5 °C below body temperature; lobules with seminiferous tubules.\n2. Spermatogonia and Sertoli cells line tubules; Leydig cells secrete testosterone.\n3. Duct path: rete testis → vasa efferentia → epididymis (stores sperm) → vas deferens → ejaculatory duct → urethra.\n4. Penis: copulatory organ; urethra carries urine and semen.\n5. Accessory glands: seminal vesicles, prostate, bulbourethral glands form seminal plasma (fructose, calcium, enzymes).\n6. Labelled diagram."
+    },
+    {
+      "id": "u3-s08",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the female reproductive system of man with a diagram.",
+      "answer": "1. Ovaries: produce ova and oestrogen, progesterone.\n2. Oviducts: infundibulum with fimbriae, ampulla (fertilisation), isthmus.\n3. Uterus: perimetrium, myometrium (contractions in labour), endometrium (cyclic changes, implantation).\n4. Cervix and vagina form the birth canal.\n5. External genitalia: mons pubis, labia majora, labia minora, hymen, clitoris.\n6. Mammary glands produce milk.\n7. Labelled diagram."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the function of ADH? Name the disorder caused by its deficiency.",
+      "answer": "ADH (vasopressin) from the posterior pituitary increases water reabsorption in the DCT and collecting duct, reducing urine output. Deficiency causes diabetes insipidus."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define synapse and name one neurotransmitter.",
+      "answer": "A synapse is the junction between two neurons (or a neuron and an effector) where the impulse is passed on. Acetylcholine is a neurotransmitter."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is GFR? Give its normal value.",
+      "answer": "Glomerular filtration rate is the volume of filtrate formed by both kidneys per minute: about 125 ml/min, or 180 litres per day."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are essential mineral elements? Give the criteria of essentiality. Classify them into macro- and micronutrients and describe the role and deficiency symptoms of any five.",
+      "answer": "1. Hydroponics (von Sachs, 1860) showed which elements are needed.\n2. Criteria: absolutely necessary for growth and reproduction; requirement specific (not replaceable); directly involved in metabolism.\n3. 17 essential elements: C, H, O from air and water, 14 from soil.\n4. Macronutrients (>10 mmol/kg dry matter): C, H, O, N, P, K, S, Ca, Mg.\n5. Micronutrients (<10 mmol/kg): Fe, Mn, Cu, Mo, Zn, B, Cl, Ni.\n6. N: proteins, nucleic acids, chlorophyll; deficiency chlorosis in older leaves, stunting.\n7. P: membranes, nucleic acids, ATP; poor roots, delayed flowering.\n8. K: stomata, turgor, enzymes; marginal chlorosis and necrosis.\n9. Ca: middle lamella (calcium pectate), spindle; death of growing tips.\n10. Mg: in chlorophyll, activates enzymes; chlorosis between veins of old leaves.\n11. Fe: cytochromes, ferredoxin, chlorophyll synthesis; chlorosis of young leaves. Zn: auxin synthesis; little leaf. Mo: nitrogenase.\n12. Mobile N, K, Mg show symptoms in old leaves; S, Ca in young leaves; excess Mn causes toxicity."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the nitrogen cycle. Explain biological nitrogen fixation and the formation of root nodules in leguminous plants.",
+      "answer": "1. Air is about 78% N2, unusable directly because of N≡N triple bond.\n2. Fixation routes: lightning/UV, industrial (Haber), biological.\n3. Cycle: N2 → (fixation) NH3 → plants absorb → proteins → animals; dead bodies and wastes → ammonification → NH3; nitrification: NH3 → NO2− (Nitrosomonas, Nitrococcus) → NO3− (Nitrobacter); NO3− absorbed by plants; denitrification NO3− → N2 (Pseudomonas, Thiobacillus).\n4. Biological fixation by prokaryotes with nitrogenase: free-living aerobic Azotobacter, Beijerinckia; anaerobic Clostridium, Rhodospirillum; cyanobacteria Anabaena, Nostoc; symbiotic Rhizobium (legumes), Frankia (Alnus).\n5. N2 + 8e− + 8H+ + 16 ATP → 2NH3 + H2 + 16 ADP + 16 Pi.\n6. Nodule formation: Rhizobium multiplies near roots and attaches to root hairs → root hair curls → infection thread carries bacteria into cortex → cortical cells divide → nodule; vascular connection forms.\n7. Nitrogenase is inactivated by O2; leghaemoglobin (pink) keeps O2 low.\n8. Ammonia → glutamic acid by reductive amination → other amino acids by transamination; amides asparagine and glutamine transported in xylem.\n9. Significance: legumes enrich soil; crop rotation."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the light and dark reactions of photosynthesis with a note on the site of photosynthesis.",
+      "answer": "1. Photosynthesis: green plants use light absorbed by chlorophyll to make glucose from CO2 and water, releasing O2: 6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O.\n2. Site: chloroplasts of mesophyll; grana (thylakoids) for light reaction, stroma for dark reaction.\n3. Pigments: chlorophyll a (chief), chlorophyll b, xanthophylls, carotenoids; absorb blue and red.\n4. Light reaction: PS II (P680) and PS I (P700); photolysis of water 2H2O → 4H+ + O2 + 4e−; electron transport (Z-scheme) reduces NADP+ to NADPH.\n5. Non-cyclic photophosphorylation gives ATP, NADPH, O2; cyclic (PS I only) gives ATP only.\n6. ATP synthesis by chemiosmosis through ATP synthase.\n7. Dark reaction (Calvin cycle, C3): carboxylation — RuBP + CO2 → 2 molecules 3-PGA by RuBisCO; reduction using ATP and NADPH to triose phosphate; regeneration of RuBP.\n8. One glucose needs 6 turns, 18 ATP and 12 NADPH.\n9. C4 pathway (maize, sugarcane): PEP carboxylase, OAA, Kranz anatomy, no photorespiration.\n10. Labelled chloroplast diagram."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the factors affecting photosynthesis and state Blackman's law of limiting factors.",
+      "answer": "1. Blackman (1905): when a process depends on several factors, its rate is limited by the factor nearest its minimum.\n2. Light: rate rises with intensity until other factors limit; very strong light damages chlorophyll; quality and duration matter.\n3. CO2: major limiting factor (about 0.03–0.04% in air); raised CO2 increases yield in greenhouses; C4 plants saturate at lower levels.\n4. Temperature: enzyme-controlled dark reaction has an optimum; C4 plants have higher optimum.\n5. Water: shortage closes stomata and causes wilting.\n6. Internal: chlorophyll content, leaf number, age and orientation.\n7. Graph of rate against light intensity with a plateau."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are photosynthetic pigments? Explain their role with absorption and action spectra.",
+      "answer": "1. Pigments absorb light of particular wavelengths; separated by paper chromatography.\n2. Chlorophyll a (blue-green) — chief pigment, reaction centres.\n3. Chlorophyll b (yellow-green), xanthophylls (yellow), carotenoids (yellow-orange) — accessory pigments that widen the light range and pass energy to chlorophyll a; carotenoids protect from photo-oxidation.\n4. Absorption maxima in blue and red; green reflected.\n5. Absorption spectrum matches the action spectrum, showing chlorophyll drives photosynthesis."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate cyclic and non-cyclic photophosphorylation.",
+      "answer": "1. Non-cyclic: both PS I and PS II; cyclic: PS I only.\n2. Non-cyclic electrons go to NADP+; cyclic electrons return to PS I.\n3. Non-cyclic gives ATP + NADPH; cyclic gives ATP only.\n4. Photolysis of water and O2 release only in non-cyclic.\n5. Non-cyclic in grana thylakoids; cyclic in stroma lamellae.\n6. Cyclic operates when only light of wavelength beyond 680 nm is available or NADPH is not needed."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a short note on the C4 pathway.",
+      "answer": "1. Hatch and Slack pathway; in maize, sugarcane, sorghum (tropical grasses).\n2. Kranz anatomy: large bundle sheath cells around veins.\n3. In mesophyll, PEP (3C) accepts CO2 by PEP carboxylase → oxaloacetic acid (4C), first stable product.\n4. 4C acid moves to bundle sheath, releases CO2; Calvin cycle runs there with RuBisCO.\n5. No photorespiration; efficient in high light and temperature; higher productivity.\n6. Contrast with C3: first product 3-PGA."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the fate of ammonia in plants (nitrogen assimilation).",
+      "answer": "1. Ammonia exists as NH4+, toxic in excess, so it is fixed quickly.\n2. Reductive amination: NH4+ + α-ketoglutaric acid + NADPH → glutamic acid + water.\n3. Transamination: amino group of glutamic acid transferred to other keto acids by transaminases → other amino acids.\n4. Amides: asparagine and glutamine formed by adding NH2 to aspartic and glutamic acid; carry more nitrogen; transported in xylem.\n5. Soybean exports fixed nitrogen as ureides."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain nitrification and denitrification with the organisms involved.",
+      "answer": "1. Nitrification: oxidation of ammonia to nitrate in soil in two steps.\n2. NH3 → NO2− by Nitrosomonas and Nitrococcus.\n3. NO2− → NO3− by Nitrobacter.\n4. These are chemoautotrophs (get energy from oxidation).\n5. Nitrate is absorbed by plants.\n6. Denitrification: NO3− → N2 gas by Pseudomonas and Thiobacillus; returns nitrogen to air and lowers soil fertility."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is chlorosis? Name two elements whose deficiency causes it.",
+      "answer": "Chlorosis is loss of chlorophyll leading to yellowing of leaves. It is caused by deficiency of nitrogen, magnesium (also K, S, Fe, Mn, Zn, Mo)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is hydroponics?",
+      "answer": "Hydroponics is the growing of plants in a nutrient solution of known composition without soil; it was shown by Julius von Sachs in 1860 and helps identify essential elements."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is leghaemoglobin? Give its function.",
+      "answer": "Leghaemoglobin is a pink oxygen-binding pigment in legume root nodules. It keeps oxygen low around nitrogenase, which is inactivated by oxygen."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe glycolysis with a flow chart and its energy balance. Explain alcoholic and lactic acid fermentation.",
+      "answer": "1. Respiration releases energy (ATP) from food; respiratory substrate mainly glucose.\n2. Glycolysis (EMP pathway; Embden, Meyerhof, Parnas): in cytoplasm, no O2 needed, in all organisms.\n3. Steps: glucose → glucose-6-phosphate (ATP used, hexokinase) → fructose-6-phosphate → fructose-1,6-bisphosphate (ATP used, phosphofructokinase) → split into 2 triose phosphates (aldolase) → 1,3-bisphosphoglyceric acid (2 NADH formed) → 3-phosphoglyceric acid (2 ATP) → 2-phosphoglyceric acid → PEP → pyruvic acid (2 ATP).\n4. Energy: 2 ATP used, 4 formed, net 2 ATP; 2 NADH.\n5. Fate of pyruvic acid: ethanol, lactic acid or aerobic Krebs cycle.\n6. Alcoholic fermentation (yeast): pyruvic acid → acetaldehyde + CO2 (pyruvic acid decarboxylase) → ethanol (alcohol dehydrogenase, NADH used).\n7. Lactic acid fermentation (Lactobacillus, muscle): pyruvic acid + NADH → lactic acid (lactate dehydrogenase).\n8. NAD+ regenerated so glycolysis continues; less than 7% of energy released; yeast dies at about 13% ethanol.\n9. Uses: bread, alcohol, curd, vinegar, antibiotics."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Draw a labelled diagram of a plant cell and describe the structure and functions of the cell organelles.",
+      "answer": "1. Cell: smallest unit of life; cell theory (Schleiden, Schwann; Virchow — omnis cellula e cellula).\n2. Cell wall: cellulose, hemicellulose, pectin; middle lamella; plasmodesmata; support and protection.\n3. Plasma membrane: fluid mosaic model (Singer and Nicolson, 1972); lipid bilayer with proteins; selectively permeable; passive and active transport.\n4. Nucleus: double envelope with pores, chromatin, nucleolus; controls the cell; heredity.\n5. ER: rough (ribosomes; protein synthesis), smooth (lipids, steroids, detoxification).\n6. Golgi apparatus: packaging, glycoproteins, lysosome formation.\n7. Lysosomes: hydrolytic enzymes; digestion; suicide bags.\n8. Vacuole: large central, tonoplast; storage, turgidity.\n9. Mitochondria: double membrane, cristae, matrix with DNA and 70S ribosomes; ATP by aerobic respiration.\n10. Plastids: chloroplasts (photosynthesis), chromoplasts (colour), leucoplasts (storage).\n11. Ribosomes: 80S/70S; protein synthesis. Cytoskeleton, microbodies; centrioles absent in higher plants.\n12. Labelled diagram."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is cell division? Describe the stages of mitosis and meiosis and give their significance and differences.",
+      "answer": "1. Cell cycle: G1, S (DNA copied), G2, M; G0 for non-dividing cells.\n2. Mitosis (equational, 2n → 2n): prophase (chromosomes condense, spindle forms, nuclear envelope and nucleolus vanish); metaphase (chromosomes on equator, attached at kinetochores); anaphase (centromeres split, chromatids to poles); telophase (nuclei re-form); cytokinesis by furrow (animal) or cell plate (plant).\n3. Significance of mitosis: growth, repair, constant chromosome number, asexual reproduction; uncontrolled mitosis = cancer.\n4. Meiosis (reductional, 2n → n), two divisions, four cells.\n5. Prophase I substages: leptotene, zygotene (synapsis, bivalents), pachytene (crossing over), diplotene (chiasmata), diakinesis.\n6. Metaphase I bivalents on equator; anaphase I homologues separate; telophase I; interkinesis; meiosis II like mitosis.\n7. Significance: constant chromosome number across generations; variation by crossing over and random assortment.\n8. Differences table: somatic vs reproductive cells; 1 vs 2 divisions; 2 vs 4 cells; 2n vs n; no crossing over vs crossing over; identical vs different."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify plant and animal tissues. Describe the location and functions of each type.",
+      "answer": "1. Tissue: group of similar cells of common origin doing a common function.\n2. Plant meristematic: apical (length), intercalary (grasses), lateral (cambium; thickness).\n3. Plant simple permanent: parenchyma (living, thin walls; storage, photosynthesis), collenchyma (living, corner thickening; support to young parts), sclerenchyma (dead, lignified fibres and sclereids; strength).\n4. Plant complex: xylem (tracheids, vessels, fibres, parenchyma; water conduction), phloem (sieve tubes, companion cells, parenchyma, fibres; food conduction).\n5. Animal epithelial: squamous (alveoli, vessels), cuboidal (ducts, nephron tubules), columnar (stomach, intestine), ciliated (bronchioles, oviduct), compound (skin), glandular.\n6. Connective: areolar, adipose, dense regular (tendons, ligaments), dense irregular (dermis), cartilage, bone, blood.\n7. Muscular: skeletal (striated, voluntary), smooth (involuntary, gut wall), cardiac (branched, intercalated discs).\n8. Neural: neurons and neuroglia; control and coordination."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the phases of plant growth and the growth curve. Distinguish arithmetic and geometric growth.",
+      "answer": "1. Growth: irreversible permanent increase in size; indeterminate in plants because of meristems.\n2. Phases: meristematic (dividing cells, dense cytoplasm), elongation (vacuolation, enlargement), maturation (full size, differentiation).\n3. Arithmetic growth: one daughter cell divides; Lt = L0 + rt; straight-line graph.\n4. Geometric growth: both daughter cells divide; W1 = W0 e^rt.\n5. With limited nutrients the curve is sigmoid: lag, log (exponential) and stationary phases.\n6. Absolute vs relative growth rate."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on plant growth regulators with their physiological effects.",
+      "answer": "1. Small organic substances controlling growth in small amounts.\n2. Auxins (IAA, IBA, NAA, 2,4-D): cell elongation, apical dominance, rooting of cuttings, parthenocarpy, weed killer.\n3. Gibberellins (GA3): stem elongation, bolting, grape stalk length, sugarcane yield, malting.\n4. Cytokinins (kinetin, zeatin): cell division, new shoots, delay senescence, overcome apical dominance.\n5. Abscisic acid: stress hormone, stomatal closure, dormancy, inhibits germination.\n6. Ethylene: fruit ripening, abscission, female flowers in cucumber; ethephon used commercially."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the conditions necessary for plant growth? Explain differentiation, dedifferentiation and redifferentiation.",
+      "answer": "1. Water (turgidity for cell enlargement, medium for reactions).\n2. Oxygen (respiration for energy).\n3. Nutrients (building material and energy).\n4. Optimum temperature (enzymes).\n5. Light and gravity (direction and stages of growth).\n6. Differentiation: meristem cells specialise (xylem loses protoplasm).\n7. Dedifferentiation: permanent cells regain division (cork cambium formation).\n8. Redifferentiation: such cells specialise again (cork).\n9. Plasticity: heterophylly in cotton, coriander, larkspur, buttercup."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the fluid mosaic model of the plasma membrane and give its functions.",
+      "answer": "1. Proposed by Singer and Nicolson (1972).\n2. Lipid bilayer of phospholipids, polar heads outward, tails inward; cholesterol in animal cells.\n3. Proteins: peripheral (on surface) and integral (embedded or passing through).\n4. Quasi-fluid: lipids and proteins move sideways.\n5. Functions: selectively permeable barrier; passive transport (diffusion, osmosis); active transport using ATP (Na+/K+ pump); cell recognition and signalling.\n6. Diagram of the bilayer with proteins."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate prokaryotic and eukaryotic cells, and plant and animal cells.",
+      "answer": "1. Prokaryotic: no true nucleus (nucleoid), no membrane-bound organelles, 70S ribosomes, small (1–10 µm), plasmids; bacteria.\n2. Eukaryotic: true nucleus, membrane organelles, 80S ribosomes, larger; plants, animals, fungi, protists.\n3. Plant cell: cellulose wall, chloroplasts, large central vacuole, no centrioles, starch stored.\n4. Animal cell: no wall, no plastids, small vacuoles, centrioles present, glycogen stored."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the types of epithelial tissue with their locations and functions.",
+      "answer": "1. Covers surfaces and lines cavities; cells close together on a basement membrane.\n2. Squamous: flat, one layer; blood vessels, alveoli; diffusion.\n3. Cuboidal: cube-shaped; gland ducts, nephron tubules; secretion, absorption.\n4. Columnar: tall, often with microvilli; stomach, intestine; absorption, secretion.\n5. Ciliated: bronchioles, fallopian tube; moves mucus or ova.\n6. Compound (stratified): skin, mouth lining; protection.\n7. Glandular: exocrine and endocrine glands.\n8. Junctions: tight, adhering, gap."
+    },
+    {
+      "id": "u5-s07",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the structure and functions of mitochondria and chloroplasts.",
+      "answer": "1. Mitochondria: double membrane; inner folded into cristae; matrix with circular DNA, 70S ribosomes and enzymes; aerobic respiration and ATP — powerhouse of the cell.\n2. Chloroplasts: double membrane; thylakoids stacked as grana joined by stroma lamellae; stroma with enzymes, DNA, ribosomes; photosynthesis (light reaction in grana, dark in stroma).\n3. Both are semi-autonomous (own DNA and ribosomes, divide by fission).\n4. Labelled diagrams of both."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define respiratory quotient and give its value for carbohydrates and fats.",
+      "answer": "RQ is the ratio of the volume of CO2 released to the volume of O2 used in respiration. It is 1 for carbohydrates and less than 1 (about 0.7) for fats."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is apical dominance? Which hormone causes it?",
+      "answer": "Apical dominance is the suppression of lateral (side) buds by the growing shoot tip. It is caused by auxin produced at the apex; removing the tip lets side branches grow."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define tissue and name the four basic animal tissues.",
+      "answer": "A tissue is a group of similar cells of common origin doing a common function. Animal tissues: epithelial, connective, muscular and neural."
+    }
+  ]
+}

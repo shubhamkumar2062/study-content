@@ -1,0 +1,113 @@
+{
+  "code": "BP106RBT",
+  "title": "Remedial Biology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP106RBT Remedial Biology and BP112RBP practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP106RBT-BP106RMT_B.Pharma-pages-7.pdf"
+  },
+  "practicalCodes": [
+    "BP112RBP"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "The living world and morphology of flowering plants",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Body fluids and circulation, digestion and absorption, breathing and respiration",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Excretion, neural control, chemical coordination and human reproduction",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Plant mineral nutrition and photosynthesis",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Plant respiration, growth and development, the cell and tissues",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "study-of-microscope",
+      "title": "Study of the compound microscope",
+      "file": "practicals/study-of-microscope.md"
+    },
+    {
+      "id": "section-cutting",
+      "title": "Section cutting techniques (free-hand sections)",
+      "file": "practicals/section-cutting.md"
+    },
+    {
+      "id": "mounting-and-staining",
+      "title": "Mounting and staining of sections",
+      "file": "practicals/mounting-and-staining.md"
+    },
+    {
+      "id": "permanent-slide-preparation",
+      "title": "Permanent slide preparation",
+      "file": "practicals/permanent-slide-preparation.md"
+    },
+    {
+      "id": "cell-and-inclusions",
+      "title": "Study of the cell and its inclusions",
+      "file": "practicals/cell-and-inclusions.md"
+    },
+    {
+      "id": "morphology-plant-parts",
+      "title": "Study of stem, root, leaf, seed, fruit, flower and their modifications",
+      "file": "practicals/morphology-plant-parts.md"
+    },
+    {
+      "id": "frog-computer-model",
+      "title": "Detailed study of frog using computer models",
+      "file": "practicals/frog-computer-model.md"
+    },
+    {
+      "id": "microscopic-plant-tissues",
+      "title": "Microscopic study and identification of tissues of stem, root, leaf, seed, fruit and flower",
+      "file": "practicals/microscopic-plant-tissues.md"
+    },
+    {
+      "id": "identification-of-bones",
+      "title": "Identification of human bones",
+      "file": "practicals/identification-of-bones.md"
+    },
+    {
+      "id": "blood-group",
+      "title": "Determination of blood group",
+      "file": "practicals/blood-group.md"
+    },
+    {
+      "id": "blood-pressure",
+      "title": "Determination of blood pressure",
+      "file": "practicals/blood-pressure.md"
+    },
+    {
+      "id": "tidal-volume",
+      "title": "Determination of tidal volume",
+      "file": "practicals/tidal-volume.md"
+    }
+  ]
+}

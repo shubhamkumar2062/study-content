@@ -1,0 +1,70 @@
+{
+  "tests": [
+    {
+      "id": "hptu-pci-full",
+      "title": "Full mock paper (35 marks, 1.5 hours)",
+      "patternSource": "PCI B.Pharm regulations, question paper pattern for a 35-mark end-semester theory paper: Section I long answers, answer 1 out of 2 (10 marks); Section II short answers, answer 5 out of 7 (5 marks each). BP106RBT is a Non University Examination, so your college sets the paper. Confirm with your college.",
+      "durationMinutes": 90,
+      "totalMarks": 35,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Section I: Long answer (answer any 1)",
+          "source": "long",
+          "marksEach": 10,
+          "count": 2,
+          "attempt": 1
+        },
+        {
+          "id": "b",
+          "title": "Section II: Short answers (answer any 5)",
+          "source": "short",
+          "marksEach": 5,
+          "count": 7,
+          "attempt": 5
+        }
+      ]
+    },
+    {
+      "id": "sessional-nue",
+      "title": "Sessional mock (30 marks, 1 hour)",
+      "patternSource": "PCI B.Pharm regulations, sessional pattern for subjects with a Non University Examination: long answers 1 out of 2 × 10, short answers 4 out of 6 × 5. Confirm with your college.",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Long answer (answer any 1)",
+          "source": "long",
+          "marksEach": 10,
+          "count": 2,
+          "attempt": 1
+        },
+        {
+          "id": "b",
+          "title": "Short answers (answer any 4)",
+          "source": "short",
+          "marksEach": 5,
+          "count": 6,
+          "attempt": 4
+        }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Objective questions",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        }
+      ]
+    }
+  ]
+}

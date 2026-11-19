@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The five-kingdom classification was proposed by:",
+      "options": [
+        "R. H. Whittaker",
+        "Carolus Linnaeus",
+        "Ernst Haeckel",
+        "Robert Hooke"
+      ],
+      "correct": 0,
+      "explanation": "Whittaker proposed five kingdoms in 1969.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Binomial nomenclature was established by:",
+      "options": [
+        "Charles Darwin",
+        "Carolus Linnaeus",
+        "R. H. Whittaker",
+        "Gregor Mendel"
+      ],
+      "correct": 1,
+      "explanation": "Linnaeus established the two-part scientific naming system.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Prokaryotic organisms are placed in the kingdom:",
+      "options": [
+        "Protista",
+        "Fungi",
+        "Monera",
+        "Plantae"
+      ],
+      "correct": 2,
+      "explanation": "Monera contains bacteria, which have no true nucleus.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The cell wall of fungi is made of:",
+      "options": [
+        "Cellulose",
+        "Peptidoglycan",
+        "Pectin only",
+        "Chitin"
+      ],
+      "correct": 3,
+      "explanation": "Fungal walls contain chitin; plant walls have cellulose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Organisms that lack a cell wall and are the smallest living cells known are:",
+      "options": [
+        "Mycoplasma",
+        "Cyanobacteria",
+        "Diatoms",
+        "Yeasts"
+      ],
+      "correct": 0,
+      "explanation": "Mycoplasma have no cell wall at all.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Tobacco mosaic virus was first crystallised by:",
+      "options": [
+        "D. J. Ivanowsky",
+        "W. M. Stanley",
+        "M. W. Beijerinck",
+        "R. H. Whittaker"
+      ],
+      "correct": 1,
+      "explanation": "Stanley crystallised TMV in 1935.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Carrot is an example of a:",
+      "options": [
+        "Fusiform root",
+        "Napiform root",
+        "Conical root",
+        "Tuberous stem"
+      ],
+      "correct": 2,
+      "explanation": "Carrot (Apiaceae) is a conical storage tap root.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Potato is a modified:",
+      "options": [
+        "Root",
+        "Leaf",
+        "Fruit",
+        "Stem (tuber)"
+      ],
+      "correct": 3,
+      "explanation": "Potato has eyes (buds) at nodes, so it is a stem tuber.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Axile placentation is seen in:",
+      "options": [
+        "China rose and tomato",
+        "Pea",
+        "Mustard",
+        "Sunflower"
+      ],
+      "correct": 0,
+      "explanation": "Axile: ovules on a central axis; pea is marginal, mustard parietal, sunflower basal.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Mango is botanically a:",
+      "options": [
+        "Berry",
+        "Drupe",
+        "Pome",
+        "Caryopsis"
+      ],
+      "correct": 1,
+      "explanation": "Mango (Anacardiaceae) has a stony endocarp, so it is a drupe.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Vascular bundles scattered in the ground tissue are typical of:",
+      "options": [
+        "Dicot stem",
+        "Dicot root",
+        "Monocot stem",
+        "Monocot root"
+      ],
+      "correct": 2,
+      "explanation": "Monocot stems have many scattered, closed bundles.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Bulliform cells are found in the leaves of:",
+      "options": [
+        "Mango",
+        "Peepal",
+        "Hibiscus",
+        "Grasses (monocots)"
+      ],
+      "correct": 3,
+      "explanation": "Bulliform cells let grass leaves roll up in dry weather.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The normal life span of human red blood cells is about:",
+      "options": [
+        "120 days",
+        "30 days",
+        "60 days",
+        "365 days"
+      ],
+      "correct": 0,
+      "explanation": "RBCs live about 120 days and are destroyed in the spleen.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The most abundant white blood cells are:",
+      "options": [
+        "Lymphocytes",
+        "Neutrophils",
+        "Monocytes",
+        "Basophils"
+      ],
+      "correct": 1,
+      "explanation": "Neutrophils form about 60–65% of WBCs.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Conversion of prothrombin to thrombin requires:",
+      "options": [
+        "Sodium ions",
+        "Potassium ions",
+        "Calcium ions",
+        "Iron ions"
+      ],
+      "correct": 2,
+      "explanation": "Ca2+ is essential for clotting; citrate prevents clotting by binding it.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The universal donor blood group is:",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correct": 3,
+      "explanation": "Group O has no A or B antigens on its RBCs.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The pacemaker of the human heart is the:",
+      "options": [
+        "SA node",
+        "AV node",
+        "Bundle of His",
+        "Purkinje fibres"
+      ],
+      "correct": 0,
+      "explanation": "The sino-atrial node starts each heartbeat.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The bicuspid (mitral) valve lies between the:",
+      "options": [
+        "Right atrium and right ventricle",
+        "Left atrium and left ventricle",
+        "Left ventricle and aorta",
+        "Right ventricle and pulmonary artery"
+      ],
+      "correct": 1,
+      "explanation": "Bicuspid on the left side; tricuspid on the right.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The QRS complex of the ECG represents:",
+      "options": [
+        "Depolarisation of the atria",
+        "Repolarisation of the ventricles",
+        "Depolarisation of the ventricles",
+        "Closure of semilunar valves"
+      ],
+      "correct": 2,
+      "explanation": "QRS marks ventricular depolarisation; T is repolarisation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Trypsinogen is activated to trypsin by:",
+      "options": [
+        "HCl",
+        "Bile salts",
+        "Pepsin",
+        "Enterokinase"
+      ],
+      "correct": 3,
+      "explanation": "Enterokinase of the intestinal mucosa activates trypsinogen.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Fats after absorption enter the:",
+      "options": [
+        "Lacteals of the villi",
+        "Hepatic portal vein directly",
+        "Gastric glands",
+        "Bile duct"
+      ],
+      "correct": 0,
+      "explanation": "Chylomicrons pass into lacteals (lymph vessels).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The normal tidal volume of an adult is about:",
+      "options": [
+        "150 ml",
+        "500 ml",
+        "1,200 ml",
+        "3,000 ml"
+      ],
+      "correct": 1,
+      "explanation": "About 500 ml of air moves in a normal breath.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Most carbon dioxide is transported in blood as:",
+      "options": [
+        "Carbamino-haemoglobin",
+        "Dissolved CO2",
+        "Bicarbonate",
+        "Carbonic acid gas bubbles"
+      ],
+      "correct": 2,
+      "explanation": "About 70% travels as bicarbonate, formed with carbonic anhydrase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "The pneumotaxic centre is located in the:",
+      "options": [
+        "Medulla oblongata",
+        "Cerebellum",
+        "Hypothalamus",
+        "Pons"
+      ],
+      "correct": 3,
+      "explanation": "The pneumotaxic centre in the pons modifies the rhythm set in the medulla.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Birds and reptiles excrete nitrogen mainly as:",
+      "options": [
+        "Uric acid",
+        "Ammonia",
+        "Urea",
+        "Creatine"
+      ],
+      "correct": 0,
+      "explanation": "They are uricotelic, saving water.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The structural and functional unit of the kidney is the:",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "Villus"
+      ],
+      "correct": 1,
+      "explanation": "Each kidney has about one million nephrons.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The normal glomerular filtration rate in a healthy adult is about:",
+      "options": [
+        "12.5 ml/min",
+        "500 ml/min",
+        "125 ml/min",
+        "1,250 ml/min"
+      ],
+      "correct": 2,
+      "explanation": "GFR is about 125 ml/min, or 180 L/day.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Renin is secreted by:",
+      "options": [
+        "Chief cells of the stomach",
+        "Adrenal medulla",
+        "Posterior pituitary",
+        "Juxtaglomerular cells of the kidney"
+      ],
+      "correct": 3,
+      "explanation": "JG cells release renin when BP or GFR falls.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Angiotensin I is converted to angiotensin II by:",
+      "options": [
+        "Angiotensin-converting enzyme",
+        "Renin",
+        "Rennin",
+        "Aldosterone"
+      ],
+      "correct": 0,
+      "explanation": "ACE, mainly in the lungs, forms angiotensin II.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The resting membrane potential of a neuron is about:",
+      "options": [
+        "+70 mV",
+        "−70 mV",
+        "0 mV",
+        "−7 mV"
+      ],
+      "correct": 1,
+      "explanation": "Inside is negative to outside by about 70 mV at rest.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The myelin sheath of peripheral nerve fibres is formed by:",
+      "options": [
+        "Nissl's granules",
+        "Neuroglia of the cortex",
+        "Schwann cells",
+        "Podocytes"
+      ],
+      "correct": 2,
+      "explanation": "Schwann cells wrap the axon to form myelin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Balance and coordination of voluntary movements are controlled by the:",
+      "options": [
+        "Medulla oblongata",
+        "Hypothalamus",
+        "Thalamus",
+        "Cerebellum"
+      ],
+      "correct": 3,
+      "explanation": "The cerebellum keeps equilibrium and posture.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Deficiency of ADH causes:",
+      "options": [
+        "Diabetes insipidus",
+        "Diabetes mellitus",
+        "Goitre",
+        "Acromegaly"
+      ],
+      "correct": 0,
+      "explanation": "Without ADH, large volumes of dilute urine are passed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Insulin is secreted by the:",
+      "options": [
+        "α cells of the islets of Langerhans",
+        "β cells of the islets of Langerhans",
+        "Adrenal cortex",
+        "Thyroid gland"
+      ],
+      "correct": 1,
+      "explanation": "β cells make insulin; α cells make glucagon.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Testosterone is secreted by:",
+      "options": [
+        "Sertoli cells",
+        "Spermatogonia",
+        "Leydig cells",
+        "Seminal vesicles"
+      ],
+      "correct": 2,
+      "explanation": "Leydig (interstitial) cells lie between seminiferous tubules.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Ovulation in a 28-day menstrual cycle is triggered by a surge of:",
+      "options": [
+        "FSH alone",
+        "Progesterone",
+        "Prolactin",
+        "LH"
+      ],
+      "correct": 3,
+      "explanation": "The LH surge around day 14 ruptures the Graafian follicle.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Hydroponics was first demonstrated by:",
+      "options": [
+        "Julius von Sachs",
+        "Melvin Calvin",
+        "F. F. Blackman",
+        "Robert Hill"
+      ],
+      "correct": 0,
+      "explanation": "Von Sachs grew plants in nutrient solution in 1860.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Which one is a micronutrient?",
+      "options": [
+        "Magnesium",
+        "Molybdenum",
+        "Potassium",
+        "Calcium"
+      ],
+      "correct": 1,
+      "explanation": "Mo is needed in trace amounts; Mg, K, Ca are macronutrients.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The element present at the centre of the chlorophyll molecule is:",
+      "options": [
+        "Iron",
+        "Manganese",
+        "Magnesium",
+        "Copper"
+      ],
+      "correct": 2,
+      "explanation": "Mg sits at the centre of chlorophyll.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Deficiency symptoms of nitrogen, potassium and magnesium appear first in older leaves because these elements are:",
+      "options": [
+        "Immobile in the plant",
+        "Toxic in excess",
+        "Taken up only as gases",
+        "Mobile in the plant"
+      ],
+      "correct": 3,
+      "explanation": "Mobile elements move from old to young leaves when in short supply.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Conversion of ammonia to nitrite in soil is carried out by:",
+      "options": [
+        "Nitrosomonas",
+        "Nitrobacter",
+        "Pseudomonas",
+        "Rhizobium"
+      ],
+      "correct": 0,
+      "explanation": "Nitrosomonas (and Nitrococcus) oxidise ammonia; Nitrobacter oxidises nitrite.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Denitrification is brought about by:",
+      "options": [
+        "Nitrobacter",
+        "Pseudomonas",
+        "Azotobacter",
+        "Anabaena"
+      ],
+      "correct": 1,
+      "explanation": "Pseudomonas and Thiobacillus return N2 to the air.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The pink pigment in legume root nodules is:",
+      "options": [
+        "Chlorophyll b",
+        "Phycocyanin",
+        "Leghaemoglobin",
+        "Carotene"
+      ],
+      "correct": 2,
+      "explanation": "Leghaemoglobin keeps oxygen low for nitrogenase.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The enzyme that fixes atmospheric nitrogen is:",
+      "options": [
+        "Nitrate reductase",
+        "RuBisCO",
+        "Transaminase",
+        "Nitrogenase"
+      ],
+      "correct": 3,
+      "explanation": "Nitrogenase converts N2 to NH3 and is inactivated by O2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The oxygen released in photosynthesis comes from:",
+      "options": [
+        "Water",
+        "Carbon dioxide",
+        "Glucose",
+        "Chlorophyll"
+      ],
+      "correct": 0,
+      "explanation": "Photolysis of water releases O2.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The first stable product of the Calvin (C3) cycle is:",
+      "options": [
+        "Oxaloacetic acid",
+        "3-phosphoglyceric acid",
+        "Pyruvic acid",
+        "Malic acid"
+      ],
+      "correct": 1,
+      "explanation": "RuBisCO joins CO2 to RuBP to give two 3-PGA molecules.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "The reaction centre of photosystem I is:",
+      "options": [
+        "P680",
+        "P600",
+        "P700",
+        "P650"
+      ],
+      "correct": 2,
+      "explanation": "PS I absorbs best at 700 nm; PS II at 680 nm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Kranz anatomy is characteristic of:",
+      "options": [
+        "C3 plants such as wheat",
+        "Mosses",
+        "Ferns",
+        "C4 plants such as maize"
+      ],
+      "correct": 3,
+      "explanation": "Large bundle sheath cells around veins mark C4 plants.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Glycolysis takes place in the:",
+      "options": [
+        "Cytoplasm",
+        "Mitochondrial matrix",
+        "Inner mitochondrial membrane",
+        "Chloroplast stroma"
+      ],
+      "correct": 0,
+      "explanation": "Glycolysis occurs in the cytoplasm in all living cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The net gain of ATP in glycolysis per glucose is:",
+      "options": [
+        "4",
+        "2",
+        "8",
+        "38"
+      ],
+      "correct": 1,
+      "explanation": "Four ATP are formed and two are used.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The end product of glycolysis is:",
+      "options": [
+        "Lactic acid",
+        "Acetyl CoA",
+        "Pyruvic acid",
+        "Ethanol"
+      ],
+      "correct": 2,
+      "explanation": "Glucose is split into two pyruvic acid molecules.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "In alcoholic fermentation by yeast, pyruvic acid is first converted to:",
+      "options": [
+        "Lactic acid",
+        "Acetyl CoA",
+        "Citric acid",
+        "Acetaldehyde and CO2"
+      ],
+      "correct": 3,
+      "explanation": "Pyruvic acid decarboxylase forms acetaldehyde, which is reduced to ethanol.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The respiratory quotient of carbohydrates is:",
+      "options": [
+        "1.0",
+        "0.7",
+        "0.9",
+        "More than 4"
+      ],
+      "correct": 0,
+      "explanation": "Equal volumes of CO2 released and O2 used.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Apical dominance is caused by:",
+      "options": [
+        "Cytokinin",
+        "Auxin",
+        "Abscisic acid",
+        "Ethylene"
+      ],
+      "correct": 1,
+      "explanation": "Auxin from the shoot tip suppresses lateral buds.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The plant hormone that causes fruit ripening is:",
+      "options": [
+        "Gibberellin",
+        "Auxin",
+        "Ethylene",
+        "Abscisic acid"
+      ],
+      "correct": 2,
+      "explanation": "Ethylene raises respiration and ripens fruits.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The 'stress hormone' of plants is:",
+      "options": [
+        "Gibberellic acid",
+        "Indole-3-acetic acid",
+        "Zeatin",
+        "Abscisic acid"
+      ],
+      "correct": 3,
+      "explanation": "ABA closes stomata and induces dormancy under stress.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The fluid mosaic model of the cell membrane was proposed by:",
+      "options": [
+        "Singer and Nicolson",
+        "Schleiden and Schwann",
+        "Watson and Crick",
+        "Hatch and Slack"
+      ],
+      "correct": 0,
+      "explanation": "Singer and Nicolson proposed it in 1972.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "'Omnis cellula e cellula' was stated by:",
+      "options": [
+        "Robert Hooke",
+        "Rudolf Virchow",
+        "Theodor Schwann",
+        "Anton van Leeuwenhoek"
+      ],
+      "correct": 1,
+      "explanation": "Virchow said all cells arise from pre-existing cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Crossing over occurs during:",
+      "options": [
+        "Leptotene of prophase I",
+        "Metaphase II",
+        "Pachytene of prophase I",
+        "Anaphase of mitosis"
+      ],
+      "correct": 2,
+      "explanation": "Non-sister chromatids exchange segments in pachytene.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Tendons, which join muscle to bone, are made of:",
+      "options": [
+        "Adipose tissue",
+        "Cartilage",
+        "Smooth muscle",
+        "Dense regular connective tissue"
+      ],
+      "correct": 3,
+      "explanation": "Collagen fibres in parallel bundles give tendons strength.",
+      "probability": "medium"
+    }
+  ]
+}
