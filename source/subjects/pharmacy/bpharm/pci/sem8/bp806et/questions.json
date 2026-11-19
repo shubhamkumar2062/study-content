@@ -1,0 +1,410 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the WHO guidelines for quality control of herbal drugs. Mention the parameters used to assess identity, purity and safety of herbal materials.",
+      "answer": "1. Source: WHO 'Quality control methods for medicinal plant materials' (1998), updated as 'Quality control methods for herbal materials' (2011) — a manual of test methods for national standards, not a pharmacopoeia.\n2. Sampling: up to 5 containers sample all; 6–50 sample 5; above 50 sample 10%; three samples (top, middle, bottom); pooled sample reduced by quartering; retained reference sample.\n3. Identity: macroscopy (shape, size, colour, fracture, odour, taste), microscopy (stomata, trichomes, crystals, starch), TLC fingerprint against a reference.\n4. Purity: foreign matter (500 g roots/bark, 250 g leaves/seeds, 50 g cut material); total ash at 500–600 °C, acid-insoluble ash (sand), water-soluble ash; extractive values (hot and cold); water by toluene distillation and loss on drying.\n5. Special tests: volatile oil, bitterness value (quinine hydrochloride reference), haemolytic activity, tannins (hide powder), swelling index, foaming index (1000/a).\n6. Safety (contaminants): pesticide residues (GC), arsenic and toxic metals (AAS/ICP), microbial contamination (total viable count, E. coli, Salmonella), aflatoxins B1, B2, G1, G2 (HPLC with fluorescence), radioactive contamination.\n7. Limits: WHO cannot recommend single international limits; gives examples of national limits; WHO-suggested lead 10 mg/kg, cadmium 0.3 mg/kg; microbial examples (teas/topical aerobic bacteria 10^7/g; other internal herbal materials 10^5/g; Salmonella absent).\n8. Limits from data: grand mean ± 3 SD of about 20 batches.\n9. Significance: uniform quality, detection of adulteration, patient safety, export acceptance."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is adulteration of crude drugs? Classify the types of adulteration with examples and describe the methods used to evaluate commercial crude drugs.",
+      "answer": "1. Definition: debasement of a crude drug by admixture, substitution or removal of constituents, deliberate or accidental.\n2. Reasons: scarcity, high price, confusion of vernacular names, ignorance of authentic plant, careless collection and storage.\n3. Types: substitution with inferior commercial varieties (Indian for Alexandrian senna); exhausted drug (extracted ginger, clove); superficially similar cheaper plants or wrong parts; artificially manufactured material (imitation nutmeg); addition of synthetic principles (synthetic citral in lemon oil); worthless heavy materials (sand, stones); harmful or spoiled drug (mouldy, insect-infested).\n4. Organoleptic evaluation: colour, odour, taste, size, shape, surface, fracture.\n5. Microscopic: sections and powder; histochemical tests; quantitative microscopy — stomatal number and index, palisade ratio, vein-islet and vein-termination number, lycopodium spore method.\n6. Physical: moisture, ash values, extractive values, swelling and foaming index, viscosity, refractive index, optical rotation, melting point.\n7. Chemical: identity tests (Borntrager's for anthraquinones), assays, acid/saponification values.\n8. Chromatographic and spectroscopic: TLC/HPTLC fingerprint, HPLC marker assay.\n9. Biological: bioassay when chemistry is inadequate.\n10. Conclusion: a combination of methods is needed; each detects different kinds of adulteration."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the WHO 'Basic tests for drugs'. How do they differ from pharmacopoeial tests? Add a note on tests for contaminants in herbal materials.",
+      "answer": "1. Basic tests for drugs: WHO volumes for pharmaceutical substances, medicinal plant materials and dosage forms.\n2. Purpose: confirm identity when full analysis is not possible; detect gross degradation; screen suspect samples in the supply chain.\n3. Features: simple reagents and apparatus, short tests with clear results, can be done by a trained pharmacist outside a full laboratory.\n4. Tests — substances: appearance, solubility, colour/precipitation reactions, melting behaviour, simple TLC; plant materials: macroscopy, odour/taste, microscopy, simple chemical tests, UV fluorescence, TLC; dosage forms: visual inspection, identity reaction, simple disintegration, signs of degradation.\n5. Difference: basic tests only confirm identity/gross quality; pharmacopoeial tests give full identity, purity and assay with limits and validated methods. A sample passing a basic test is not proven to be of pharmacopoeial quality; failures must be sent for full analysis.\n6. Contaminant tests: pesticide residues (organochlorine, organophosphorus, pyrethroids by GC; limits from ADI and daily intake of the herb); heavy metals (lead, cadmium, arsenic, mercury by AAS/ICP; WHO-suggested lead 10 mg/kg, cadmium 0.3 mg/kg); microbes (TVC, yeasts and moulds, E. coli, Salmonella, S. aureus); aflatoxins (B1, B2, G1, G2; HPLC with fluorescence; test materials with history of contamination); radioactivity after nuclear accidents."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on ash values and their significance in evaluation of crude drugs.",
+      "answer": "1. Total ash: 2–4 g drug ignited at 500–600 °C until carbon-free; includes physiological ash (from plant tissue) and non-physiological ash (adhering earth).\n2. Acid-insoluble ash: total ash boiled with dilute HCl, residue ignited; measures silica — sand and soil.\n3. Water-soluble ash: total ash boiled with water; loss in weight; low in exhausted drugs.\n4. Sulphated ash: after treatment with sulphuric acid; used for some drugs.\n5. Significance: detect earthy adulteration, exhausted drug, careless collection; part of identity and purity specification."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the WHO procedure for sampling of herbal materials.",
+      "answer": "1. Inspect each container for labelling, damage and moisture; sample damaged containers separately.\n2. Number to sample: up to 5 containers — all; 6–50 — 5; more than 50 — 10%, rounded up to the nearest multiple of 10.\n3. Take three original samples from top, middle and bottom (first at least 10 cm deep in sacks; grain probe for seeds).\n4. Combine into a pooled sample and mix.\n5. Reduce by quartering: square heap, divide diagonally, keep two opposite quarters, repeat.\n6. Divide the average sample into final samples for testing (fragmentation, identity, impurities, moisture, ash, actives) and keep a retained reference portion."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the determination of foaming index and swelling index.",
+      "answer": "1. Foaming index: 1 g coarse powder boiled in 100 ml water for 30 min, filtered, made to 100 ml.\n2. Pour 1, 2, 3 … 10 ml into 10 tubes, make each to 10 ml, shake lengthwise 15 s, stand 15 min, measure foam.\n3. Index = 1000/a, where a = ml of decoction in the tube giving 1 cm foam; foam below 1 cm in all tubes means index below 100. Used for saponin drugs.\n4. Swelling index: volume (ml) occupied by 1 g of drug after swelling in water.\n5. Drug in a 25 ml stoppered cylinder with 25 ml water, shaken every 10 min for 1 h, stood 3 h; volume read; mean of at least three determinations. Used for isabgol, linseed, fenugreek."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on quantitative microscopy (leaf constants).",
+      "answer": "1. Stomatal number: average stomata per sq mm of epidermis.\n2. Stomatal index: SI = S × 100/(E + S); S = stomata, E = epidermal cells per unit area; constant for a species.\n3. Palisade ratio: average palisade cells beneath one epidermal cell.\n4. Vein-islet number: vein islets per sq mm of leaf; vein-termination number: vein endings per sq mm.\n5. Lycopodium spore method: lycopodium spores (uniform size and number per mg) used as internal standard to find the percentage of a powdered drug or adulterant with countable elements.\n6. Use: distinguish closely related species (Indian and Alexandrian senna), detect adulteration in powders."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is acid-insoluble ash?",
+      "answer": "The residue left after boiling the total ash with dilute hydrochloric acid and igniting; it measures silica, mainly sand and earthy matter adhering to the drug."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define bitterness value.",
+      "answer": "The bitterness of a herbal material compared with quinine hydrochloride; one unit equals the bitterness of a solution of 1 g quinine hydrochloride in 2000 ml. Used for bitters such as gentian and chirata."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the WHO guidelines on Good Agricultural and Collection Practices (GACP) for medicinal plants.",
+      "answer": "1. Published by WHO (2003); NMPB in India has issued GACP guidelines based on them.\n2. Objectives: quality, safety and efficacy at the source; help national guidelines; sustainable cultivation and collection; respect for local communities.\n3. Identification and authentication: botanical name and family, local names, voucher specimen in a herbarium.\n4. Seeds and propagation material: authentic, pure, disease-free.\n5. Cultivation: site free from heavy metals and pesticide residues; suitable climate and soil; clean irrigation water; composted manure; minimum, approved pesticides with records; integrated pest management.\n6. Harvest: best season and time for constituents; dry weather; clean tools; no contact with soil.\n7. Collection of wild plants: permits; no endangered species; sustainable methods; trained collectors.\n8. Primary processing: inspection and sorting, washing if allowed, drying on clean surfaces protected from animals and dust, specific processing.\n9. Packaging and labelling; storage and transport in dry, pest-proof stores; fumigation only with permitted agents.\n10. Equipment, personnel (training, hygiene, protection), documentation for traceability, quality assurance, ethical and legal issues (benefit sharing, threatened species).\n11. Benefits: consistent raw material, less contamination, traceability, export acceptance, conservation."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the WHO guidelines on good manufacturing practices (GMP) for herbal medicines. What should a specification for a herbal material include?",
+      "answer": "1. WHO GMP for herbal medicines (2007) is supplementary to the main WHO GMP text.\n2. Quality assurance: herbal materials as starting materials; supplier qualification.\n3. Sanitation and hygiene: separate areas for receipt, cleaning and storage of raw herbs.\n4. Qualification and validation: cleaning, extraction, drying and decontamination.\n5. Complaints, recalls, contract production, self-inspection.\n6. Personnel: training in botany/pharmacognosy and GMP; protection from dust and toxic/allergenic plants.\n7. Premises: raw herbs separate from processed and finished goods; pest-proof; dust extraction in cutting, grinding, sieving and mixing; quarantine areas.\n8. Equipment: cleanable; dedicated where needed.\n9. Materials: quarantine, sampling, voucher and reference samples, protected storage.\n10. Documentation, good practices in production (fixed solvent and ratio, in-process controls) and in quality control (fingerprints, contaminants, stability).\n11. Specification: botanical name and family; source, cultivated/wild, collection time, pre-treatment; part used; macroscopic and microscopic description; identity tests including TLC fingerprint; assay of actives/markers; foreign matter, ash, moisture, extractives; pesticides, heavy metals, microbes, aflatoxins, fumigants, radioactivity; particle size, swelling index; storage. Extracts add solvent, drug–extract ratio and residual solvents."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is good laboratory practice (GLP)? Explain the OECD principles of GLP and their importance for herbal drugs.",
+      "answer": "1. Definition: quality system for the organisational process and conditions under which non-clinical safety studies are planned, performed, monitored, recorded, archived and reported.\n2. Standard text: OECD Principles of GLP; in India, certification by the National GLP Compliance Monitoring Authority (NGCMA) under the Department of Science and Technology.\n3. Test facility organisation and personnel: management duties; study director for each study.\n4. Quality assurance programme: independent QA unit inspects studies and audits reports.\n5. Facilities: separate areas for test systems, test items, archives, waste.\n6. Apparatus, materials and reagents: calibrated, maintained, labelled.\n7. Test systems: housing and care of animals; records.\n8. Test and reference items: identity, batch, purity, stability recorded.\n9. SOPs for all routine work.\n10. Performance of study: approved study plan; raw data recorded and signed.\n11. Reporting and archiving.\n12. Importance for herbals: toxicity data of extracts and phytopharmaceuticals accepted by regulators only from GLP labs; test item must be a characterised extract (identity, DER, fingerprint, markers); good documentation and data integrity."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between quality assurance, GMP and quality control.",
+      "answer": "1. Quality assurance: the total system of arrangements ensuring products are fit for intended use — covers design, development, production, control, distribution, complaints.\n2. GMP: part of QA ensuring products are consistently produced and controlled to quality standards — premises, equipment, staff, processes, records.\n3. Quality control: part of GMP concerned with sampling, specifications, testing and release or rejection.\n4. Relation: QA ⊃ GMP ⊃ QC.\n5. Example in herbal unit: QA approves suppliers and validation; GMP sets separate raw herb store and dust control; QC tests ash, TLC fingerprint and microbes before release."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on Schedule T.",
+      "answer": "1. Schedule T of the Drugs and Cosmetics Rules, 1945: GMP for Ayurvedic, Siddha and Unani medicines; compliance is a condition of the manufacturing licence.\n2. Part I headings: location and premises, water supply, waste disposal, container cleaning, stores (raw material, packing material, finished goods, quarantine), working space, health, clothing and sanitation of workers, medical services, machinery and equipment, batch manufacturing records, distribution records, record of market complaints and adverse reactions, quality control.\n3. Part II: recommended machinery and minimum manufacturing area for each ASU dosage form.\n4. Poisonous ASU ingredients (Schedule E(1)) stored separately.\n5. Benefits: consistent quality, GMP certificate, export readiness."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is cGMP? How does it apply to the herbal industry?",
+      "answer": "1. cGMP = current good manufacturing practice: GMP kept up to date with present-day technology and systems, not only the minimum written earlier.\n2. Elements: validated processes, change control, deviation handling, CAPA, data integrity and audit trails, environmental monitoring, product quality review, risk management.\n3. Herbal application: validated extraction and drying, dust control, microbial monitoring of raw herbs, fingerprint-based release, traceability to farm.\n4. Inspectors judge against current practice; WHO-GMP certification needed for many export markets."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Why is quality assurance more difficult for herbal products than for synthetic drugs?",
+      "answer": "1. Starting material is a variable living plant (genotype, soil, climate, season).\n2. Many constituents; actives may be unknown; no single assay.\n3. Identification needs botanical skill; look-alike species and confusing names.\n4. Contamination begins in the field: pesticides, heavy metals, microbes, aflatoxins.\n5. Powders generate dust — cross-contamination and explosion risk.\n6. Hygroscopic, bulky materials attract insects and mould in storage.\n7. Specifications rely on fingerprints and markers."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a voucher specimen?",
+      "answer": "A properly dried, labelled specimen of the authenticated plant deposited in a herbarium, so that the identity of the batch can be checked later."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Expand GACP and NGCMA.",
+      "answer": "GACP = Good Agricultural and Collection Practices; NGCMA = National GLP Compliance Monitoring Authority (India, under the Department of Science and Technology)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the EU regulatory framework for herbal medicinal products with special reference to traditional herbal registration.",
+      "answer": "1. Bodies: EMA and its Committee on Herbal Medicinal Products (HMPC); Directive 2001/83/EC; Directive 2004/24/EC on traditional herbal medicinal products; European Pharmacopoeia.\n2. Definitions: herbal substance, herbal preparation, herbal medicinal product; whole herbal substance or preparation regarded as the active substance.\n3. Full marketing authorisation: own quality, non-clinical and clinical data.\n4. Well-established use: at least 10 years of well-established medicinal use in the EU with recognised efficacy and acceptable safety, shown by literature.\n5. Traditional use registration conditions: indications not needing medical supervision; oral, external or inhalation use; specified strength and posology; traditional use for at least 30 years, including 15 years in the EU; data show not harmful and efficacy plausible.\n6. Full quality data required in all routes.\n7. Labels state use is based exclusively on long-standing use.\n8. EU herbal monographs and the EU list simplify applications.\n9. Quality guidelines: quality of herbal products; specifications; GACP for starting materials; stability; declaration on labels.\n10. Relevance to India: route for export of Ayurvedic products to Europe."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the ICH guidelines applicable to quality control of herbal drugs.",
+      "answer": "1. ICH: International Council for Harmonisation; no guideline exclusively for herbals, but its guidelines are applied.\n2. Q1A(R2) stability: long-term 25 °C/60% RH or 30 °C/65% RH; intermediate 30 °C/65% RH; accelerated 40 °C/75% RH for 6 months; 12 months long-term data at submission.\n3. Q1B photostability: light-sensitive constituents (hypericin, curcuminoids).\n4. Q2 validation: specificity, linearity, range, accuracy, precision, LOD, LOQ, robustness — for HPLC/HPTLC methods of markers.\n5. Q3C residual solvents (class 1, 2, 3) in extracts; Q3D elemental impurities (Pb, Cd, As, Hg).\n6. Q6A approach to specifications adapted to herbals.\n7. Q7 GMP for active ingredients — herbal extracts.\n8. Q8, Q9, Q10: development, risk management, quality system.\n9. M4 CTD: Modules 1–5.\n10. Safety S-series and E6 GCP for new herbal drugs.\n11. Benefit: dossiers acceptable to regulators in many regions."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the WHO research guidelines for evaluating the safety and efficacy of herbal medicines.",
+      "answer": "1. Source: WHO research guidelines (Western Pacific Regional Office) and General guidelines for methodologies on research and evaluation of traditional medicine (2000).\n2. Principles: standardised, identified test material; traditional use counts as evidence; new preparation, indication, route, dose or combination needs new data; ethics (Helsinki, ethics committee, informed consent).\n3. Safety: literature and traditional-use review → acute toxicity → repeated-dose toxicity (duration linked to clinical use) → special studies when needed (local tolerance, sensitisation, genotoxicity, carcinogenicity, reproductive toxicity) → herb–drug interactions; GLP labs; parameters: weight, clinical signs, haematology, biochemistry, histopathology.\n4. Efficacy: pharmacological studies in vitro and in animals supporting the claim.\n5. Clinical trials under GCP: phase I safety; phase II efficacy and dose; phase III randomised controlled confirmation; phase IV post-marketing.\n6. Special problems: placebo matching, individualised traditional treatment, outcome measures, batch consistency, concomitant drugs.\n7. Post-marketing pharmacovigilance.\n8. India: NDCT Rules 2019, ICMR guidelines, AYUSH research councils."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate standardised, quantified and other extracts.",
+      "answer": "1. Standardised extract: adjusted to a defined content of constituents with known therapeutic activity; stated as a value with tolerance; e.g., senna leaf dry extract (hydroxyanthracene glycosides).\n2. Quantified extract: adjusted to a defined range of constituents (active markers) by mixing batches; e.g., ginkgo leaf extract (flavone glycosides, terpene lactones).\n3. Other extracts: not adjusted; defined by process (herb, solvent, DER) and specification with analytical markers.\n4. Classification from the European Pharmacopoeia."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the Committee on Herbal Medicinal Products (HMPC) and EU herbal monographs.",
+      "answer": "1. HMPC: scientific committee of the European Medicines Agency, set up under Directive 2004/24/EC.\n2. Duties: EU herbal monographs, EU list of herbal substances for traditional use, quality and safety guidelines, advice to member states.\n3. Monograph content: well-established and/or traditional use, indications, posology, contraindications, warnings, interactions, adverse effects.\n4. Applicants matching the EU list need not separately prove traditional use or safety.\n5. Helps harmonise herbal regulation across EU countries."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are markers? Distinguish active and analytical markers.",
+      "answer": "1. Markers: chemically defined constituents or groups used for control purposes, whether or not therapeutically active.\n2. Active markers: contribute to the therapeutic activity (sennosides in senna).\n3. Analytical markers: used only for identity and consistency; activity not proven.\n4. Uses: identity, batch consistency, adjusting extracts, stability.\n5. Quantified extracts use active markers; other extracts use analytical markers."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Give the structure of the Common Technical Document (CTD).",
+      "answer": "1. Module 1: regional administrative information.\n2. Module 2: summaries — quality overall summary, non-clinical and clinical overviews.\n3. Module 3: quality — herbal substance, herbal preparation, finished product, stability.\n4. Module 4: non-clinical study reports.\n5. Module 5: clinical study reports.\n6. ICH M4 guideline; accepted by many regulators; used for herbal export dossiers."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What period of traditional use is needed for EU traditional herbal registration?",
+      "answer": "At least 30 years of medicinal use before the application, including at least 15 years within the European Union (Directive 2004/24/EC)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define drug–extract ratio (DER).",
+      "answer": "The ratio of the quantity of herbal substance used to the quantity of extract obtained; for example 4–6:1 means 4 to 6 kg of dried herb gives 1 kg of extract."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss stability testing of herbal medicines. Mention the problems specific to herbal products and the conditions of testing.",
+      "answer": "1. Definition: ability to keep identity, strength, quality and purity within limits through shelf life in the marketed pack; shelf life defined.\n2. Problems: many and unknown actives, interactions, volatile and labile constituents (oils, glycosides, polyphenols), hygroscopic powders, microbial load, natural variation.\n3. Approach: marker assay + chromatographic fingerprint + physical tests + microbial quality + dosage-form tests (alcohol in asavas, peroxide value of oils, sugar in syrups).\n4. Climatic zones: I 21 °C/45%, II 25/60, III 30/35, IVa 30/65, IVb 30/75; India zone IVb.\n5. Protocol: normally 3 batches; marketed pack; long-term (30/75 for India), accelerated 40 °C/75% RH; intermediate if significant change.\n6. Sampling: long-term 0, 3, 6, 9, 12, 18, 24 months then yearly; accelerated 0, 3, 6 months.\n7. Photostability (ICH Q1B), in-use stability, ongoing stability of one production batch yearly.\n8. Arrhenius principle behind accelerated testing; less reliable for complex mixtures.\n9. Evaluation → shelf life and storage statement; Rule 161-B for ASU shelf life."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the application of chromatographic techniques in standardisation of herbal products with emphasis on HPTLC fingerprinting.",
+      "answer": "1. Uses: identity by fingerprint, detection of adulteration, marker assay, batch consistency, stability, contaminants.\n2. Fingerprint: characteristic pattern of bands/peaks; judged by number, position (Rf/retention time), colour and intensity.\n3. TLC: silica gel; Rf = distance of spot/distance of solvent front; quick identity.\n4. HPTLC steps: sample/standard preparation → band application by automatic applicator on silica gel 60 F254 → development in saturated twin-trough chamber → drying → visualisation at 254/366 nm and after derivatisation (anisaldehyde–sulphuric acid, Dragendorff) → densitometric scanning → comparison and quantification.\n5. HPTLC advantages: many samples in parallel, low solvent use and cost, visual image plus data, crude extracts accepted.\n6. HPLC: reversed-phase C18, gradient, PDA detection; accurate assay of sennosides, curcuminoids, glycyrrhizin; HPLC fingerprints.\n7. GC: volatile oils, pesticides, residual solvents.\n8. Column chromatography for isolating reference markers; LC–MS/GC–MS for unknowns and synthetic adulterants.\n9. Validation (ICH Q2): specificity, linearity, range, accuracy, precision, LOD, LOQ, robustness."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the documents required for new drug application and export registration of herbal products. Add a note on the provisions of the Drugs and Cosmetics Act for ASU drugs.",
+      "answer": "1. Indian categories: classical ASU (textual reference), patent/proprietary ASU (safety and effectiveness, Rule 158-B), phytopharmaceutical drugs (purified standardised fraction with at least four defined compounds; CDSCO under NDCT Rules 2019).\n2. Dossier: administrative papers; plant identity (botanical name, voucher, source, GACP); quality (extraction, DER, specifications, marker assay, fingerprint, contaminants, CoA, stability); non-clinical (pharmacology, toxicity); clinical (traditional evidence, trials); labelling. CTD format for regulated markets.\n3. Export: manufacturing licence; GMP/WHO-GMP certificate; COPP or free sale certificate; country-format dossier; test reports for heavy metals (compulsory for ASU exports), pesticides, microbes, aflatoxins; botanical/phytosanitary certificate; Biological Diversity Act and CITES clearance; Pharmexcil registration.\n4. D&C Act Chapter IV-A: section 3(a) definition; 33C ASU DTAB; 33D ASU DCC; 33E misbranded; 33EE adulterated; 33EEA spurious; 33EEC prohibitions.\n5. Rules: 158-B licensing; 161 labelling; 161-B shelf life; Schedule E(1) poisonous drugs; Schedule T GMP.\n6. Licence from State Licensing Authority after inspection."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on climatic zones and stability testing conditions.",
+      "answer": "1. Zone I temperate 21 °C/45% RH; II subtropical 25/60; III hot dry 30/35; IVa hot humid 30/65; IVb hot very humid 30/75.\n2. India: zone IVb, long-term 30 °C/75% RH.\n3. ICH long-term 25/60 or 30/65; intermediate 30/65; accelerated 40 °C/75% RH for 6 months.\n4. Test points long-term 0, 3, 6, 9, 12, 18, 24 months, then yearly; accelerated 0, 3, 6.\n5. Photostability by ICH Q1B."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a chromatographic fingerprint? Give its significance in herbal standardisation.",
+      "answer": "1. A chromatographic pattern of the extractable constituents characteristic of a herbal material or product.\n2. Assessed by number, Rf or retention time, colour and relative intensity of bands/peaks.\n3. Obtained by TLC, HPTLC, HPLC or GC.\n4. Significance: identity, detection of substitution and adulteration, batch consistency, stability, quality when actives are unknown; accepted by WHO.\n5. Should accompany marker assay to prevent spiking."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define phytopharmaceutical drug and mention the data required for its approval in India.",
+      "answer": "1. Purified and standardised fraction of an extract of a medicinal plant or its part, with defined minimum four bioactive or phytochemical compounds assessed qualitatively and quantitatively.\n2. Regulated by CDSCO as a new drug under the New Drugs and Clinical Trials Rules, 2019.\n3. Data: botanical identity, source and GACP; process of extraction and fractionation; specifications; markers and fingerprint; stability.\n4. Non-clinical safety and pharmacology.\n5. Clinical trial data as required."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the validation parameters of an analytical method as per ICH Q2.",
+      "answer": "1. Specificity — measures analyte without interference.\n2. Linearity — response proportional to concentration.\n3. Range — interval with suitable linearity, accuracy and precision.\n4. Accuracy — closeness to true value (recovery).\n5. Precision — repeatability, intermediate precision, reproducibility.\n6. LOD and LOQ.\n7. Robustness — unaffected by small changes."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Rf value.",
+      "answer": "Rf = distance travelled by the spot from the origin ÷ distance travelled by the solvent front from the origin; always less than 1."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What do Sections 33C and 33D of the Drugs and Cosmetics Act deal with?",
+      "answer": "Section 33C constitutes the ASU Drugs Technical Advisory Board; Section 33D constitutes the ASU Drugs Consultative Committee."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the WHO guidelines on safety monitoring of herbal medicines in pharmacovigilance systems.",
+      "answer": "1. Pharmacovigilance: detection, assessment, understanding and prevention of adverse effects or other drug-related problems.\n2. WHO guidelines (2004): include herbal medicines in national pharmacovigilance systems.\n3. Objectives: include herbals; standard terms; guidance on reporting, assessment and communication; safe use.\n4. Challenges: under-reporting; naming and identity problems (aristolochia substitution causing kidney damage); contamination and adulteration with synthetic drugs; herb–drug interactions (St John's wort with ciclosporin, warfarin, oral contraceptives); multi-herb products; traditional practitioners outside the system.\n5. Report contents: patient details; product name, manufacturer, batch, botanical name, part, preparation, source, dose, dates; reaction, outcome, dechallenge/rechallenge; reporter; sample retained.\n6. Causality: WHO–UMC categories (certain, probable, possible, unlikely, conditional, unassessable).\n7. Product analysis for identity and contaminants.\n8. Signal detection in the WHO database at the Uppsala Monitoring Centre.\n9. Regulatory action: warnings, restrictions, recalls, communication.\n10. India: PvPI (IPC); AYUSH pharmacovigilance programme with national coordinating centre at AIIA, New Delhi; also misleading advertisements."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write about the role of chemical and biological markers in the standardisation of herbal products.",
+      "answer": "1. Marker: chemically defined constituent or group used for quality control.\n2. Types: active (sennosides), analytical, negative/toxic (aristolochic acids, pyrrolizidine alkaloids).\n3. Uses: authentication, standardisation of extracts, batch consistency, process control, stability, dissolution, safety limits.\n4. Examples: senna–sennosides; turmeric–curcuminoids; ashwagandha–withanolides/withaferin A; liquorice–glycyrrhizin; brahmi–bacosides; kalmegh–andrographolide; vasaka–vasicine; guggul–guggulsterones; pepper–piperine; ginkgo–flavone glycosides and terpene lactones.\n5. Selection: specific, measurable, stable, linked to activity, reference standard available, validated method.\n6. Limitations: may not reflect total activity; spiking; natural variation; costly standards → use with fingerprint.\n7. Biological markers: bioassays (antimicrobial, antioxidant, enzyme inhibition); protein/isoenzyme patterns; DNA markers — RFLP, RAPD, AFLP, SSR, SCAR, DNA barcoding (ITS2, rbcL, matK, psbA–trnH).\n8. DNA markers: unaffected by age, environment, part; small samples; separate related species; but show identity only, fail in degraded/processed products.\n9. Complete standardisation = identity (micro + DNA + fingerprint) + quality (marker) + activity (bioassay) + safety."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Compare the various herbal pharmacopoeias and describe the regulatory requirements for herbal medicines.",
+      "answer": "1. Pharmacopoeia: official book of legal standards for identity, quality, purity, strength.\n2. API (PCIM&H, Ministry of AYUSH): statutory; Part I single drugs, Part II formulations; includes Ayurvedic properties, uses, dose. UPI, SPI, HPI similar for other systems.\n3. IP includes herbal monographs; Indian Herbal Pharmacopoeia (IDMA with RRL Jammu) non-statutory with modern methods.\n4. British Herbal Pharmacopoeia; European Pharmacopoeia (statutory, strict contaminant limits); USP (dietary supplement botanicals); Chinese (TCM volume); Japanese (crude drugs, Kampo).\n5. WHO monographs: advisory; Commission E and ESCOP: therapeutic monographs.\n6. Comparison: all have botanical definition, macro/microscopy, TLC identity, purity tests; Ph. Eur./USP stronger assays and contaminant limits; API adds traditional properties; WHO adds uses and safety.\n7. Indian limits quoted: Pb 10 ppm, Hg 1 ppm, As 3 ppm, Cd 0.3 ppm.\n8. Regulatory requirements: quality, safety, efficacy, labelling, post-marketing surveillance.\n9. Country systems: India (AYUSH, Chapter IV-A, classical/proprietary/phytopharmaceutical); EU (three routes); USA (DSHEA 1994 supplements vs botanical drugs); Canada (natural health products); Australia (listed/registered)."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on DNA-based markers in authentication of herbal drugs.",
+      "answer": "1. Techniques: RFLP, RAPD, AFLP, microsatellites (SSR), SCAR, DNA barcoding with ITS2, rbcL, matK, psbA–trnH.\n2. Advantages: sequence not affected by age, season, environment or plant part; small sample; distinguishes related species and powders.\n3. Uses: authentication, detection of adulterants and substitutes, chemotypes, elite varieties.\n4. Limitations: shows identity not content or quality; DNA degraded in extracts and processed products; needs equipment and databases."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What information should be recorded in an adverse reaction report for a herbal medicine?",
+      "answer": "1. Patient: age, sex, weight, illness, other medicines including herbs.\n2. Product: name, manufacturer, batch, botanical names, part used, preparation type, source, dose, route, dates, reason for use.\n3. Reaction: description, onset, severity, treatment, outcome, dechallenge and rechallenge.\n4. Reporter: name, profession, contact.\n5. Retained sample of the product for analysis."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the Ayurvedic Pharmacopoeia of India.",
+      "answer": "1. Published by the Ministry of AYUSH through the Pharmacopoeia Commission for Indian Medicine & Homoeopathy, Ghaziabad.\n2. Statutory standards for Ayurvedic drugs.\n3. Part I: single drugs; Part II: compound formulations.\n4. Monograph: names, botanical source, macro/microscopy, identity, TLC, purity limits (foreign matter, ash, extractives, moisture), assay where available.\n5. Ayurvedic properties (rasa, guna, virya, vipaka, karma), formulations, therapeutic uses, dose."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How are herbal products regulated in the USA?",
+      "answer": "1. Most sold as dietary supplements under DSHEA, 1994.\n2. No pre-market approval of efficacy; manufacturer responsible for safety and labelling; structure/function claims allowed, not disease claims.\n3. Dietary supplement GMP applies.\n4. Disease claims need approval as a botanical drug through FDA, which has issued botanical drug development guidance.\n5. USP monographs give quality standards for botanical supplements."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a negative marker? Give an example.",
+      "answer": "A toxic or undesirable constituent whose absence or low level must be shown during quality control, for example aristolochic acids or pyrrolizidine alkaloids."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the WHO centre that maintains the global database of adverse drug reaction reports.",
+      "answer": "The Uppsala Monitoring Centre (WHO Collaborating Centre for International Drug Monitoring), Sweden."
+    }
+  ]
+}

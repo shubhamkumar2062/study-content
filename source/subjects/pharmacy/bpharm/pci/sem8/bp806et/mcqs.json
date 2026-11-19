@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "As per WHO, if a batch of herbal material has 30 containers, samples are taken from:",
+      "options": [
+        "5 containers",
+        "All 30 containers",
+        "3 containers",
+        "10 containers"
+      ],
+      "correct": 0,
+      "explanation": "Batches of 6–50 units are sampled from 5 containers.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Acid-insoluble ash mainly indicates the presence of:",
+      "options": [
+        "Calcium oxalate",
+        "Organic matter",
+        "Silica such as sand and earth",
+        "Volatile oil"
+      ],
+      "correct": 2,
+      "explanation": "Silica from sand and soil does not dissolve when total ash is boiled with dilute HCl.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The WHO-suggested maximum limit for lead in herbal materials is:",
+      "options": [
+        "0.3 mg/kg",
+        "10 mg/kg",
+        "1 mg/kg",
+        "50 mg/kg"
+      ],
+      "correct": 1,
+      "explanation": "WHO has suggested 10 mg/kg for lead and 0.3 mg/kg for cadmium.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The WHO-suggested maximum limit for cadmium in herbal materials is:",
+      "options": [
+        "10 mg/kg",
+        "3 mg/kg",
+        "1 mg/kg",
+        "0.3 mg/kg"
+      ],
+      "correct": 3,
+      "explanation": "Cadmium 0.3 mg/kg; lead 10 mg/kg.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Foaming index is calculated as:",
+      "options": [
+        "100/a",
+        "a/1000",
+        "10 × a",
+        "1000/a"
+      ],
+      "correct": 3,
+      "explanation": "a is the ml of decoction in the tube giving 1 cm of foam.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Bitterness value is determined by comparison with:",
+      "options": [
+        "Gentian extract",
+        "Quinine hydrochloride",
+        "Sucrose",
+        "Caffeine"
+      ],
+      "correct": 1,
+      "explanation": "One unit equals the bitterness of 1 g quinine hydrochloride in 2000 ml.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Water content of a drug rich in volatile oil is best determined by:",
+      "options": [
+        "Azeotropic (toluene) distillation",
+        "Loss on drying at 105 °C",
+        "Total ash",
+        "Swelling index"
+      ],
+      "correct": 0,
+      "explanation": "Toluene distillation measures water alone; LOD also counts volatile matter.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Stomatal index is given by:",
+      "options": [
+        "E × 100/(E + S)",
+        "S/E",
+        "S × 100/(E + S)",
+        "(E + S)/S"
+      ],
+      "correct": 2,
+      "explanation": "S = stomata and E = epidermal cells per unit area.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "For determination of foreign matter, the WHO sample size for leaves, flowers, seeds and fruits is:",
+      "options": [
+        "500 g",
+        "50 g",
+        "250 g",
+        "1 kg"
+      ],
+      "correct": 2,
+      "explanation": "500 g for roots and bark, 250 g for leaves/flowers/seeds/fruits, 50 g for cut material.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "WHO 'Basic tests for drugs' are mainly meant to:",
+      "options": [
+        "Confirm identity and detect gross degradation",
+        "Replace pharmacopoeial assays",
+        "Determine shelf life",
+        "Measure bioavailability"
+      ],
+      "correct": 0,
+      "explanation": "They are simple screening tests and do not replace full pharmacopoeial analysis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "WHO guidelines on Good Agricultural and Collection Practices for medicinal plants were published in:",
+      "options": [
+        "1998",
+        "2011",
+        "2019",
+        "2003"
+      ],
+      "correct": 3,
+      "explanation": "WHO GACP for medicinal plants appeared in 2003.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "GMP for Ayurvedic, Siddha and Unani medicines in India is given in:",
+      "options": [
+        "Schedule M",
+        "Schedule T",
+        "Schedule E(1)",
+        "Schedule Y"
+      ],
+      "correct": 1,
+      "explanation": "Schedule T of the Drugs and Cosmetics Rules gives GMP for ASU drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Which is the correct relation?",
+      "options": [
+        "QC includes GMP, which includes QA",
+        "QA includes GMP, which includes QC",
+        "GMP includes QA, which includes QC",
+        "QA and QC are unrelated to GMP"
+      ],
+      "correct": 1,
+      "explanation": "Quality control is part of GMP, and GMP is part of quality assurance.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "A voucher specimen is deposited in a:",
+      "options": [
+        "Stability chamber",
+        "Quarantine store",
+        "Microbiology laboratory",
+        "Herbarium"
+      ],
+      "correct": 3,
+      "explanation": "It allows the identity of the plant to be checked later.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "GLP applies mainly to:",
+      "options": [
+        "Clinical trials in patients",
+        "Cultivation of medicinal plants",
+        "Non-clinical safety studies",
+        "Retail pharmacy"
+      ],
+      "correct": 2,
+      "explanation": "GLP covers planning, conduct, recording and reporting of non-clinical safety studies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "In India, GLP compliance of test facilities is certified by:",
+      "options": [
+        "NGCMA under the Department of Science and Technology",
+        "Ministry of AYUSH",
+        "Indian Pharmacopoeia Commission",
+        "State Licensing Authority"
+      ],
+      "correct": 0,
+      "explanation": "The National GLP Compliance Monitoring Authority works under DST.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "In GLP, the person with overall responsibility for a study is the:",
+      "options": [
+        "Study director",
+        "Quality assurance auditor",
+        "Archivist",
+        "Animal attendant"
+      ],
+      "correct": 0,
+      "explanation": "Each GLP study has a study director; QA is independent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A special premises requirement in WHO GMP for herbal medicines is:",
+      "options": [
+        "Class A clean rooms for all operations",
+        "No separate quarantine area",
+        "Dust extraction during cutting, grinding and mixing",
+        "Storing raw herbs with finished goods"
+      ],
+      "correct": 2,
+      "explanation": "Herbal powders produce dust that causes cross-contamination.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Schedule T Part II deals with:",
+      "options": [
+        "Poisonous ASU drugs",
+        "Machinery and minimum manufacturing area for ASU dosage forms",
+        "Labelling of ASU drugs",
+        "Shelf life of ASU drugs"
+      ],
+      "correct": 1,
+      "explanation": "Part I gives GMP requirements; Part II lists machinery and minimum area.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The 'c' in cGMP stands for:",
+      "options": [
+        "Controlled",
+        "Certified",
+        "Clinical",
+        "Current"
+      ],
+      "correct": 3,
+      "explanation": "cGMP means current good manufacturing practice.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Traditional herbal medicinal product registration in the EU was introduced by:",
+      "options": [
+        "Directive 2001/20/EC",
+        "Regulation 726/2004 alone",
+        "ICH Q1A(R2)",
+        "Directive 2004/24/EC"
+      ],
+      "correct": 3,
+      "explanation": "Directive 2004/24/EC amended Directive 2001/83/EC.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "For EU traditional use registration, the minimum traditional use required is:",
+      "options": [
+        "10 years in the EU",
+        "30 years, including 15 years in the EU",
+        "15 years anywhere",
+        "50 years, including 30 in the EU"
+      ],
+      "correct": 1,
+      "explanation": "30 years of use, of which at least 15 within the EU.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The EMA committee responsible for herbal medicines is the:",
+      "options": [
+        "HMPC",
+        "CHMP",
+        "PRAC",
+        "CVMP"
+      ],
+      "correct": 0,
+      "explanation": "Committee on Herbal Medicinal Products.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "An extract adjusted to a defined content of constituents with known therapeutic activity is a:",
+      "options": [
+        "Quantified extract",
+        "Other extract",
+        "Standardised extract",
+        "Native extract only"
+      ],
+      "correct": 2,
+      "explanation": "Quantified extracts are adjusted to a range of active markers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Ginkgo leaf extract adjusted to ranges of flavone glycosides and terpene lactones is an example of:",
+      "options": [
+        "Standardised extract",
+        "Other extract",
+        "Quantified extract",
+        "Tincture"
+      ],
+      "correct": 2,
+      "explanation": "Its constituents are accepted as contributing but not proven alone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The ICH accelerated stability condition is:",
+      "options": [
+        "40 °C / 75% RH",
+        "25 °C / 60% RH",
+        "30 °C / 65% RH",
+        "5 °C / ambient"
+      ],
+      "correct": 0,
+      "explanation": "Accelerated testing is 40 °C ± 2 °C / 75% RH ± 5% RH for 6 months.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "ICH Q3C deals with:",
+      "options": [
+        "Photostability",
+        "Analytical validation",
+        "GCP",
+        "Residual solvents"
+      ],
+      "correct": 3,
+      "explanation": "Q3C classifies residual solvents into classes 1, 2 and 3.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The well-established use route in the EU requires medicinal use in the EU for at least:",
+      "options": [
+        "5 years",
+        "10 years",
+        "30 years",
+        "15 years"
+      ],
+      "correct": 1,
+      "explanation": "Well-established use is shown by literature over at least 10 years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Module 3 of the Common Technical Document contains:",
+      "options": [
+        "Clinical study reports",
+        "Quality data",
+        "Non-clinical study reports",
+        "Regional administrative data"
+      ],
+      "correct": 1,
+      "explanation": "Module 4 is non-clinical, Module 5 clinical, Module 1 regional.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "According to WHO research guidelines, which of the following needs fresh safety data even for a traditionally used herb?",
+      "options": [
+        "The same decoction at the traditional dose",
+        "The same traditional preparation for the same use",
+        "Repackaging without any change",
+        "A new concentrated extract replacing the traditional decoction"
+      ],
+      "correct": 3,
+      "explanation": "A new preparation, indication, route, dose or combination needs new data.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "India falls in climatic zone:",
+      "options": [
+        "II",
+        "III",
+        "IVb",
+        "I"
+      ],
+      "correct": 2,
+      "explanation": "Hot and very humid zone IVb, long-term testing at 30 °C / 75% RH.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The long-term stability condition for climatic zone IVb is:",
+      "options": [
+        "30 °C / 75% RH",
+        "25 °C / 60% RH",
+        "30 °C / 35% RH",
+        "21 °C / 45% RH"
+      ],
+      "correct": 0,
+      "explanation": "Zone IVb (hot, very humid) uses 30 °C / 75% RH.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Rf value is the ratio of:",
+      "options": [
+        "Distance moved by the spot to distance moved by the solvent front",
+        "Solvent front distance to spot distance",
+        "Spot width to plate width",
+        "Retention time to dead time"
+      ],
+      "correct": 0,
+      "explanation": "Rf is always less than 1.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Densitometric scanning of plates is a feature of:",
+      "options": [
+        "GC",
+        "Paper chromatography",
+        "HPTLC",
+        "Column chromatography"
+      ],
+      "correct": 2,
+      "explanation": "HPTLC uses automated application, development and densitometry.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Pesticide residues and essential oils are best analysed by:",
+      "options": [
+        "Paper chromatography",
+        "Gas chromatography",
+        "Polarimetry",
+        "Ion exchange"
+      ],
+      "correct": 1,
+      "explanation": "GC suits volatile and thermally stable analytes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "A phytopharmaceutical drug must have a defined minimum of how many bioactive or phytochemical compounds?",
+      "options": [
+        "One",
+        "Two",
+        "Ten",
+        "Four"
+      ],
+      "correct": 3,
+      "explanation": "It is a purified and standardised fraction with at least four defined compounds.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The ASU Drugs Technical Advisory Board is constituted under section:",
+      "options": [
+        "33D",
+        "33E",
+        "33EEA",
+        "33C"
+      ],
+      "correct": 3,
+      "explanation": "33D constitutes the ASU Drugs Consultative Committee.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Shelf life of ASU medicines in India is laid down in:",
+      "options": [
+        "Rule 158-B",
+        "Rule 161-B",
+        "Schedule T",
+        "Schedule E(1)"
+      ],
+      "correct": 1,
+      "explanation": "Rule 158-B covers licensing; Rule 161-B shelf life.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Which is NOT an ICH Q2 validation parameter?",
+      "options": [
+        "Bioavailability",
+        "Specificity",
+        "Robustness",
+        "Limit of quantitation"
+      ],
+      "correct": 0,
+      "explanation": "Bioavailability is a pharmacokinetic property, not a method validation parameter.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A document certifying that a product is licensed and sold in the exporting country under the WHO certification scheme is the:",
+      "options": [
+        "Certificate of analysis",
+        "Batch manufacturing record",
+        "Certificate of Pharmaceutical Product (COPP)",
+        "Master formula record"
+      ],
+      "correct": 2,
+      "explanation": "The COPP is issued under the WHO certification scheme for export.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "WHO guidelines on safety monitoring of herbal medicines in pharmacovigilance systems were published in:",
+      "options": [
+        "1993",
+        "2011",
+        "2004",
+        "2019"
+      ],
+      "correct": 2,
+      "explanation": "WHO issued them in 2004.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The global WHO database of adverse drug reaction reports is maintained by the:",
+      "options": [
+        "Uppsala Monitoring Centre",
+        "European Medicines Agency",
+        "US FDA",
+        "Indian Pharmacopoeia Commission"
+      ],
+      "correct": 0,
+      "explanation": "UMC in Sweden is the WHO Collaborating Centre for International Drug Monitoring.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The chemical marker of senna is:",
+      "options": [
+        "Glycyrrhizin",
+        "Andrographolide",
+        "Piperine",
+        "Sennosides"
+      ],
+      "correct": 3,
+      "explanation": "Sennosides A and B are the laxative anthraquinone glycosides of senna.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Withaferin A is a marker for:",
+      "options": [
+        "Turmeric",
+        "Ashwagandha",
+        "Brahmi",
+        "Vasaka"
+      ],
+      "correct": 1,
+      "explanation": "Withanolides such as withaferin A are used for Withania somnifera.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Which of the following is a DNA barcoding region used for plant authentication?",
+      "options": [
+        "HbA1c",
+        "ITS2",
+        "CYP3A4",
+        "ATP synthase of animals"
+      ],
+      "correct": 1,
+      "explanation": "ITS2, rbcL, matK and psbA–trnH are standard plant barcode regions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "A limitation of DNA markers in herbal standardisation is that they:",
+      "options": [
+        "Change with season and age",
+        "Need kilograms of sample",
+        "Cannot distinguish related species",
+        "Show identity but not content of active constituents"
+      ],
+      "correct": 3,
+      "explanation": "DNA proves which plant it is, not how much active it contains.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The Ayurvedic Pharmacopoeia of India is published through the:",
+      "options": [
+        "Indian Pharmacopoeia Commission",
+        "CDSCO",
+        "Pharmacopoeia Commission for Indian Medicine & Homoeopathy",
+        "WHO"
+      ],
+      "correct": 2,
+      "explanation": "PCIM&H, Ghaziabad, works under the Ministry of AYUSH.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Aristolochic acid in a herbal product is an example of a:",
+      "options": [
+        "Negative (toxic) marker",
+        "Active marker",
+        "Analytical marker",
+        "Biological marker"
+      ],
+      "correct": 0,
+      "explanation": "Its absence or low level must be shown because it damages the kidney.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "In the USA, most herbal products are marketed as:",
+      "options": [
+        "Dietary supplements under DSHEA 1994",
+        "Prescription drugs only",
+        "Cosmetics",
+        "Homoeopathic drugs"
+      ],
+      "correct": 0,
+      "explanation": "Disease claims need approval as a botanical drug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Which herbal monograph series is advisory and not legally binding?",
+      "options": [
+        "European Pharmacopoeia",
+        "Ayurvedic Pharmacopoeia of India",
+        "WHO monographs on selected medicinal plants",
+        "United States Pharmacopeia"
+      ],
+      "correct": 2,
+      "explanation": "WHO monographs are models for countries to adapt.",
+      "probability": "low"
+    }
+  ]
+}
