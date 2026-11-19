@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which of the following is a non-reducing disaccharide?",
+      "options": [
+        "Sucrose",
+        "Lactose",
+        "Maltose",
+        "Isomaltose"
+      ],
+      "correct": 0,
+      "explanation": "In sucrose both anomeric carbons form the α1→β2 bond, so no free reducing group remains.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Glucose and galactose are epimers at carbon number:",
+      "options": [
+        "C1",
+        "C4",
+        "C2",
+        "C3"
+      ],
+      "correct": 1,
+      "explanation": "Galactose differs from glucose only in the configuration at C4.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which amino acids are purely ketogenic?",
+      "options": [
+        "Glycine and alanine",
+        "Phenylalanine and tyrosine",
+        "Leucine and lysine",
+        "Serine and threonine"
+      ],
+      "correct": 2,
+      "explanation": "Leucine and lysine give only acetyl-CoA or acetoacetate.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Casein of milk is an example of a:",
+      "options": [
+        "Glycoprotein",
+        "Chromoprotein",
+        "Lipoprotein",
+        "Phosphoprotein"
+      ],
+      "correct": 3,
+      "explanation": "Casein carries phosphate groups on serine residues.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Which of these is an essential fatty acid?",
+      "options": [
+        "Linoleic acid",
+        "Palmitic acid",
+        "Stearic acid",
+        "Oleic acid"
+      ],
+      "correct": 0,
+      "explanation": "Humans cannot insert double bonds beyond C9, so linoleic acid must be eaten.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The secondary structure of proteins is mainly stabilised by:",
+      "options": [
+        "Peptide bonds",
+        "Hydrogen bonds",
+        "Disulphide bonds",
+        "Glycosidic bonds"
+      ],
+      "correct": 1,
+      "explanation": "α-Helix and β-sheet are held by hydrogen bonds between backbone groups.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "A reaction with a negative ΔG is described as:",
+      "options": [
+        "Endergonic",
+        "At equilibrium",
+        "Exergonic",
+        "Endothermic only"
+      ],
+      "correct": 2,
+      "explanation": "Negative ΔG means free energy is released and the reaction can proceed spontaneously.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The standard free energy of hydrolysis of ATP to ADP is about:",
+      "options": [
+        "−61.9 kJ/mol",
+        "−13.8 kJ/mol",
+        "+30.5 kJ/mol",
+        "−30.5 kJ/mol"
+      ],
+      "correct": 3,
+      "explanation": "ATP → ADP + Pi releases about −30.5 kJ/mol (−7.3 kcal/mol).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Which compound has a higher phosphate group transfer potential than ATP?",
+      "options": [
+        "Phosphoenolpyruvate",
+        "Glucose-6-phosphate",
+        "Glucose-1-phosphate",
+        "Glycerol-3-phosphate"
+      ],
+      "correct": 0,
+      "explanation": "PEP releases about −61.9 kJ/mol on hydrolysis, more than ATP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Cyclic AMP is broken down by:",
+      "options": [
+        "Adenylyl cyclase",
+        "Phosphodiesterase",
+        "Protein kinase A",
+        "Phosphorylase"
+      ],
+      "correct": 1,
+      "explanation": "Phosphodiesterase converts cAMP to 5′-AMP; methylxanthines inhibit it.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The redox potential of the NAD+/NADH couple is about:",
+      "options": [
+        "+0.82 V",
+        "0.00 V",
+        "−0.32 V",
+        "+0.32 V"
+      ],
+      "correct": 2,
+      "explanation": "NAD+/NADH has a negative potential, so NADH is a good electron donor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Creatine phosphate belongs to which class of high-energy compounds?",
+      "options": [
+        "Enol phosphates",
+        "Thioesters",
+        "Acyl phosphates",
+        "Guanidino phosphates (phosphagens)"
+      ],
+      "correct": 3,
+      "explanation": "Creatine phosphate stores high-energy phosphate in muscle as a phosphagen.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The rate-limiting enzyme of glycolysis is:",
+      "options": [
+        "Phosphofructokinase-1",
+        "Hexokinase",
+        "Aldolase",
+        "Enolase"
+      ],
+      "correct": 0,
+      "explanation": "PFK-1 is the main control point, regulated by ATP, citrate, AMP and fructose-2,6-bisphosphate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Fluoride is added to blood samples for glucose estimation because it inhibits:",
+      "options": [
+        "Hexokinase",
+        "Enolase",
+        "Pyruvate kinase",
+        "Aldolase"
+      ],
+      "correct": 1,
+      "explanation": "Fluoride (with Mg2+ and phosphate) inhibits enolase and stops glycolysis in the sample.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Net ATP produced by anaerobic glycolysis per glucose is:",
+      "options": [
+        "4",
+        "8",
+        "2",
+        "38"
+      ],
+      "correct": 2,
+      "explanation": "Four ATP are formed and two used, giving net two ATP.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Complete oxidation of one glucose molecule yields, by the newer convention:",
+      "options": [
+        "38 ATP",
+        "12 ATP",
+        "106 ATP",
+        "32 ATP"
+      ],
+      "correct": 3,
+      "explanation": "With 2.5 ATP per NADH and 1.5 per FADH2, glucose gives about 32 ATP (38 by the older count).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Malonate inhibits which enzyme of the TCA cycle?",
+      "options": [
+        "Succinate dehydrogenase",
+        "Aconitase",
+        "Fumarase",
+        "Citrate synthase"
+      ],
+      "correct": 0,
+      "explanation": "Malonate is a competitive inhibitor of succinate dehydrogenase.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which TCA cycle step produces GTP by substrate-level phosphorylation?",
+      "options": [
+        "Malate dehydrogenase",
+        "Succinyl-CoA synthetase",
+        "Isocitrate dehydrogenase",
+        "Fumarase"
+      ],
+      "correct": 1,
+      "explanation": "Succinyl-CoA → succinate is coupled to GTP formation.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The rate-limiting enzyme of the HMP shunt is:",
+      "options": [
+        "Transketolase",
+        "Transaldolase",
+        "Glucose-6-phosphate dehydrogenase",
+        "Lactonase"
+      ],
+      "correct": 2,
+      "explanation": "G6PD catalyses the first oxidative step and produces NADPH.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "G6PD deficiency causes haemolysis on exposure to:",
+      "options": [
+        "Insulin",
+        "Metformin",
+        "Vitamin C in normal diet",
+        "Primaquine"
+      ],
+      "correct": 3,
+      "explanation": "Primaquine is an oxidant drug that triggers haemolysis when NADPH is low.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Von Gierke disease is due to deficiency of:",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Muscle phosphorylase",
+        "Branching enzyme",
+        "Acid maltase"
+      ],
+      "correct": 0,
+      "explanation": "Type I GSD lacks glucose-6-phosphatase, causing severe fasting hypoglycaemia.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Which enzyme of gluconeogenesis needs biotin?",
+      "options": [
+        "PEP carboxykinase",
+        "Pyruvate carboxylase",
+        "Fructose-1,6-bisphosphatase",
+        "Glucose-6-phosphatase"
+      ],
+      "correct": 1,
+      "explanation": "Pyruvate carboxylase is a biotin-dependent carboxylase.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Cyanide is toxic because it inhibits:",
+      "options": [
+        "Complex I",
+        "ATP synthase",
+        "Cytochrome oxidase (Complex IV)",
+        "Succinate dehydrogenase"
+      ],
+      "correct": 2,
+      "explanation": "Cyanide blocks Complex IV, stopping electron flow to oxygen.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "2,4-Dinitrophenol acts on mitochondria as an:",
+      "options": [
+        "Inhibitor of Complex III",
+        "Inhibitor of ATP synthase",
+        "Activator of the ETC complexes",
+        "Uncoupler of oxidative phosphorylation"
+      ],
+      "correct": 3,
+      "explanation": "DNP carries protons across the inner membrane, so no ATP is made and heat is released.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The rate-limiting step of β-oxidation is catalysed by:",
+      "options": [
+        "Carnitine acyltransferase I",
+        "Thiolase",
+        "Enoyl-CoA hydratase",
+        "Acyl-CoA dehydrogenase"
+      ],
+      "correct": 0,
+      "explanation": "CPT-I controls entry of fatty acids into mitochondria and is inhibited by malonyl-CoA.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Net ATP from complete oxidation of palmitic acid by the newer convention is:",
+      "options": [
+        "129",
+        "106",
+        "38",
+        "32"
+      ],
+      "correct": 1,
+      "explanation": "7 FADH2, 7 NADH and 8 acetyl-CoA give 108 ATP, less 2 for activation = 106 (129 by the older count).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Ketone bodies cannot be used by the liver because it lacks:",
+      "options": [
+        "HMG-CoA synthase",
+        "HMG-CoA lyase",
+        "Succinyl-CoA:acetoacetate CoA transferase (thiophorase)",
+        "Thiolase"
+      ],
+      "correct": 2,
+      "explanation": "Thiophorase activates acetoacetate in extrahepatic tissues; the liver lacks it.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The rate-limiting enzyme of fatty acid synthesis is:",
+      "options": [
+        "Fatty acid synthase",
+        "Thioesterase",
+        "Citrate lyase",
+        "Acetyl-CoA carboxylase"
+      ],
+      "correct": 3,
+      "explanation": "Acetyl-CoA carboxylase (biotin) forms malonyl-CoA and is the control point.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The reducing agent used in fatty acid synthesis is:",
+      "options": [
+        "NADPH",
+        "NADH",
+        "FADH2",
+        "FMNH2"
+      ],
+      "correct": 0,
+      "explanation": "NADPH from the HMP shunt and malic enzyme supplies reducing power.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Statins lower blood cholesterol by inhibiting:",
+      "options": [
+        "HMG-CoA synthase",
+        "HMG-CoA reductase",
+        "7α-hydroxylase",
+        "Lipoprotein lipase"
+      ],
+      "correct": 1,
+      "explanation": "Statins are competitive inhibitors of HMG-CoA reductase.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The coenzyme required for transamination is:",
+      "options": [
+        "Thiamine pyrophosphate",
+        "Biotin",
+        "Pyridoxal phosphate",
+        "Tetrahydrofolate"
+      ],
+      "correct": 2,
+      "explanation": "Aminotransferases use PLP (vitamin B6).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The rate-limiting enzyme of the urea cycle is:",
+      "options": [
+        "Arginase",
+        "Argininosuccinate lyase",
+        "Ornithine transcarbamoylase",
+        "Carbamoyl phosphate synthetase I"
+      ],
+      "correct": 3,
+      "explanation": "CPS-I in mitochondria is activated by N-acetylglutamate.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Phenylketonuria is due to deficiency of:",
+      "options": [
+        "Phenylalanine hydroxylase",
+        "Tyrosinase",
+        "Homogentisate oxidase",
+        "Tyrosine aminotransferase"
+      ],
+      "correct": 0,
+      "explanation": "Phenylalanine cannot be converted to tyrosine, so it accumulates.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Urine that turns black on standing is characteristic of:",
+      "options": [
+        "Phenylketonuria",
+        "Alkaptonuria",
+        "Albinism",
+        "Maple syrup urine disease"
+      ],
+      "correct": 1,
+      "explanation": "Homogentisic acid in urine oxidises to a dark pigment on standing.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The immediate precursor of noradrenaline is:",
+      "options": [
+        "Tyrosine",
+        "Adrenaline",
+        "Dopamine",
+        "Tryptophan"
+      ],
+      "correct": 2,
+      "explanation": "Dopamine β-hydroxylase converts dopamine to noradrenaline.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "In obstructive jaundice, urine shows:",
+      "options": [
+        "Bilirubin absent and urobilinogen increased",
+        "Both absent",
+        "Urobilinogen increased only",
+        "Bilirubin present and urobilinogen absent"
+      ],
+      "correct": 3,
+      "explanation": "Conjugated bilirubin spills into urine, while blocked bile flow stops urobilinogen formation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The first purine nucleotide formed in de novo synthesis is:",
+      "options": [
+        "Inosine monophosphate (IMP)",
+        "AMP",
+        "GMP",
+        "XMP"
+      ],
+      "correct": 0,
+      "explanation": "IMP (base hypoxanthine) is formed first and then converted to AMP and GMP.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The committed step of purine synthesis is catalysed by:",
+      "options": [
+        "PRPP synthetase",
+        "Glutamine PRPP amidotransferase",
+        "Adenylosuccinate lyase",
+        "IMP dehydrogenase"
+      ],
+      "correct": 1,
+      "explanation": "It forms 5-phosphoribosylamine and is feedback-inhibited by purine nucleotides.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "C4, C5 and N7 of the purine ring come from:",
+      "options": [
+        "Aspartate",
+        "Glutamine",
+        "Glycine",
+        "CO2"
+      ],
+      "correct": 2,
+      "explanation": "Glycine is incorporated whole, providing C4, C5 and N7.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Lesch–Nyhan syndrome is due to deficiency of:",
+      "options": [
+        "Adenosine deaminase",
+        "Xanthine oxidase",
+        "APRT",
+        "HGPRT"
+      ],
+      "correct": 3,
+      "explanation": "Loss of the salvage enzyme HGPRT causes hyperuricaemia and self-mutilation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Allopurinol is used in gout because it inhibits:",
+      "options": [
+        "Xanthine oxidase",
+        "Adenosine deaminase",
+        "HGPRT",
+        "Uricase"
+      ],
+      "correct": 0,
+      "explanation": "Blocking xanthine oxidase reduces uric acid formation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The rate-limiting enzyme of pyrimidine synthesis in humans is:",
+      "options": [
+        "Carbamoyl phosphate synthetase I",
+        "Carbamoyl phosphate synthetase II",
+        "Orotate phosphoribosyltransferase",
+        "Thymidylate synthase"
+      ],
+      "correct": 1,
+      "explanation": "Cytosolic CPS-II uses glutamine and is inhibited by UTP.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "5-Fluorouracil inhibits:",
+      "options": [
+        "Dihydrofolate reductase",
+        "Ribonucleotide reductase",
+        "Thymidylate synthase",
+        "DNA ligase"
+      ],
+      "correct": 2,
+      "explanation": "Its product fluoro-dUMP blocks thymidylate synthase (suicide inhibition).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The number of hydrogen bonds between guanine and cytosine is:",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "correct": 3,
+      "explanation": "G≡C pairs have three hydrogen bonds; A=T pairs have two.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The semiconservative nature of DNA replication was proved by:",
+      "options": [
+        "Meselson and Stahl",
+        "Watson and Crick",
+        "Jacob and Monod",
+        "Avery and MacLeod"
+      ],
+      "correct": 0,
+      "explanation": "Density experiments with 15N and 14N showed hybrid DNA after one generation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Rifampicin inhibits:",
+      "options": [
+        "DNA gyrase",
+        "Bacterial DNA-dependent RNA polymerase",
+        "Bacterial 30S ribosome",
+        "Reverse transcriptase"
+      ],
+      "correct": 1,
+      "explanation": "Rifampicin binds the β subunit of bacterial RNA polymerase and blocks transcription initiation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Which is a stop codon?",
+      "options": [
+        "AUG",
+        "UGG",
+        "UAG",
+        "GUA"
+      ],
+      "correct": 2,
+      "explanation": "UAA, UAG and UGA are the three stop codons.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Chloramphenicol inhibits protein synthesis by blocking:",
+      "options": [
+        "Aminoacyl-tRNA binding to the 30S subunit",
+        "eEF-2 by ADP-ribosylation",
+        "RNA polymerase",
+        "Peptidyl transferase of the 50S subunit"
+      ],
+      "correct": 3,
+      "explanation": "Chloramphenicol binds the 50S subunit and inhibits peptide bond formation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Hexokinase belongs to which IUB class?",
+      "options": [
+        "Transferases",
+        "Hydrolases",
+        "Lyases",
+        "Oxidoreductases"
+      ],
+      "correct": 0,
+      "explanation": "Hexokinase transfers a phosphate group from ATP to glucose (EC 2).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Enzymes that join two molecules using ATP are:",
+      "options": [
+        "Lyases",
+        "Ligases",
+        "Isomerases",
+        "Hydrolases"
+      ],
+      "correct": 1,
+      "explanation": "Ligases (synthetases) form bonds coupled to ATP hydrolysis (EC 6).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Km is defined as the substrate concentration at which:",
+      "options": [
+        "Velocity equals Vmax",
+        "The enzyme is denatured",
+        "Velocity is half of Vmax",
+        "Velocity is zero"
+      ],
+      "correct": 2,
+      "explanation": "Km equals [S] at Vmax/2 and reflects affinity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "In a Lineweaver–Burk plot, the y-intercept equals:",
+      "options": [
+        "−1/Km",
+        "Km/Vmax",
+        "Vmax",
+        "1/Vmax"
+      ],
+      "correct": 3,
+      "explanation": "At 1/[S] = 0, 1/v = 1/Vmax.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In competitive inhibition:",
+      "options": [
+        "Km increases and Vmax is unchanged",
+        "Vmax decreases and Km is unchanged",
+        "Both Km and Vmax decrease",
+        "Both Km and Vmax increase"
+      ],
+      "correct": 0,
+      "explanation": "Excess substrate overcomes the inhibitor, so Vmax is reached at higher [S].",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Organophosphate insecticides inhibit acetylcholinesterase by:",
+      "options": [
+        "Competitive reversible inhibition",
+        "Irreversible inhibition",
+        "Allosteric activation",
+        "Uncompetitive inhibition"
+      ],
+      "correct": 1,
+      "explanation": "They phosphorylate the active-site serine covalently.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Allosteric enzymes typically show:",
+      "options": [
+        "A rectangular hyperbola",
+        "A straight line through the origin",
+        "A sigmoid velocity–substrate curve",
+        "No response to effectors"
+      ],
+      "correct": 2,
+      "explanation": "Cooperative binding gives an S-shaped curve.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The isoenzyme of creatine kinase raised in myocardial infarction is:",
+      "options": [
+        "CK-BB",
+        "CK-MM",
+        "CK-AB",
+        "CK-MB"
+      ],
+      "correct": 3,
+      "explanation": "CK-MB is mainly found in heart muscle.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "L-Asparaginase is used therapeutically in:",
+      "options": [
+        "Acute lymphoblastic leukaemia",
+        "Myocardial infarction",
+        "Gout",
+        "Cystic fibrosis"
+      ],
+      "correct": 0,
+      "explanation": "Leukaemic cells cannot make asparagine and are starved by the enzyme.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Streptokinase is used as a:",
+      "options": [
+        "Digestive aid",
+        "Thrombolytic agent",
+        "Spreading agent for injections",
+        "Anticancer agent"
+      ],
+      "correct": 1,
+      "explanation": "It activates plasminogen to dissolve clots.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Pyridoxal phosphate is the coenzyme form of:",
+      "options": [
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin B12"
+      ],
+      "correct": 2,
+      "explanation": "PLP is derived from pyridoxine.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Biotin acts as a coenzyme for:",
+      "options": [
+        "Transamination",
+        "Oxidative decarboxylation",
+        "One-carbon transfer",
+        "Carboxylation reactions"
+      ],
+      "correct": 3,
+      "explanation": "Biotin carries CO2 in pyruvate and acetyl-CoA carboxylases.",
+      "probability": "high"
+    }
+  ]
+}

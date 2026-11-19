@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define carbohydrates. Classify them with examples and describe the biological role of carbohydrates. Add a note on isomerism of monosaccharides.",
+      "answer": "1. Definition: polyhydroxy aldehydes or ketones, or compounds that give them on hydrolysis; many have the formula (CH2O)n.\n2. Monosaccharides: by carbon number (triose glyceraldehyde, pentose ribose, hexose glucose/fructose/galactose) and by group (aldoses, ketoses).\n3. Disaccharides: sucrose (glucose + fructose, α1→β2, non-reducing), lactose (galactose + glucose, β1→4, reducing), maltose (glucose + glucose, α1→4, reducing).\n4. Polysaccharides: homopolysaccharides (starch: amylose and amylopectin; glycogen; cellulose; inulin; dextrin; chitin) and heteropolysaccharides (hyaluronic acid, heparin, chondroitin sulphate).\n5. Isomerism: D/L forms; epimers (glucose–galactose at C4, glucose–mannose at C2); anomers α and β; mutarotation of glucose (about +112° to +52.7°).\n6. Roles: main fuel (brain, red cells), storage as glycogen, structure (cellulose, glycosaminoglycans), parts of nucleic acids and coenzymes, glycoproteins in cell recognition, dietary fibre.\n7. Pharmacy link: lactose as tablet diluent, starch as disintegrant, heparin as anticoagulant, inulin for GFR measurement."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are high-energy compounds? Classify them with examples. Explain the biological significance of ATP and cyclic AMP.",
+      "answer": "1. Definition: compounds that release a large free energy (more than about 25–30 kJ/mol) on hydrolysis of a particular bond (~P); energy comes from product stabilisation, not from the bond itself.\n2. Classes: phosphoanhydrides (ATP, GTP, PPi); enol phosphate (PEP, −61.9 kJ/mol); acyl phosphates (1,3-bisphosphoglycerate −49.3, carbamoyl phosphate); guanidino phosphates (creatine phosphate −43.1); thioesters (acetyl-CoA, succinyl-CoA); sulphonium (SAM).\n3. ATP structure: adenine + ribose + 3 phosphates with two anhydride bonds; ΔG°′ of hydrolysis −30.5 kJ/mol (−7.3 kcal/mol).\n4. ATP lies midway in the scale, so it accepts phosphate from PEP and 1,3-BPG and donates to glucose etc.: the energy currency.\n5. Made by oxidative phosphorylation, substrate-level phosphorylation, creatine phosphate.\n6. Uses: biosynthesis, muscle contraction, active transport (Na+/K+-ATPase), protein phosphorylation, nucleotide and coenzyme formation.\n7. cAMP: made from ATP by adenylyl cyclase (Gs), destroyed by phosphodiesterase; activates protein kinase A.\n8. cAMP roles: second messenger for glucagon, adrenaline (β), ACTH, TSH, PTH; glycogenolysis, lipolysis, gene expression (CREB).\n9. Drug links: caffeine and theophylline inhibit phosphodiesterase; cholera toxin keeps Gs active."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain free energy and its relationship with enthalpy and entropy. Distinguish exergonic and endergonic reactions. Explain redox potential and its relation to free energy with an example.",
+      "answer": "1. Free energy (G): energy available to do work at constant temperature and pressure.\n2. ΔG = ΔH − TΔS (enthalpy, absolute temperature, entropy).\n3. Exergonic: ΔG negative, spontaneous, energy released (ATP hydrolysis). Endergonic: ΔG positive, needs energy (glucose + Pi → glucose-6-P). ΔG = 0 at equilibrium.\n4. ΔG predicts direction, not rate; enzymes lower activation energy only.\n5. ΔG°′ = −2.303 RT log K′eq; ΔG values are additive, so endergonic reactions are coupled to ATP hydrolysis (glucose + ATP → G6P, −16.7 kJ/mol).\n6. Redox potential E°′: tendency of a couple to accept electrons relative to hydrogen electrode at pH 7; negative = good donor (NAD+/NADH −0.32 V), positive = good acceptor (½O2/H2O +0.82 V).\n7. ΔG°′ = −nFΔE°′; for NADH → O2, ΔE°′ = 1.14 V, ΔG°′ ≈ −220 kJ/mol.\n8. Significance: electrons flow from negative to positive potential along the ETC; energy captured as ATP."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify lipids with examples and give their biological roles.",
+      "answer": "1. Lipids: water-insoluble, organic-solvent-soluble compounds related to fatty acids.\n2. Simple lipids: fats and oils (triacylglycerols), waxes.\n3. Compound lipids: phospholipids (lecithin, cephalin, phosphatidylinositol, sphingomyelin), glycolipids (cerebrosides, gangliosides), lipoproteins.\n4. Derived lipids: fatty acids, glycerol, steroids (cholesterol), fat-soluble vitamins, ketone bodies.\n5. Roles: energy store (about 9 kcal/g), membranes, insulation, precursors of steroid hormones, bile acids, vitamin D and eicosanoids, carriers of fat-soluble vitamins, lung surfactant."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify amino acids on the basis of side chain, nutritional requirement and metabolic fate.",
+      "answer": "1. Side chain: non-polar (glycine, alanine, valine, leucine, phenylalanine), polar uncharged (serine, threonine, cysteine, tyrosine, asparagine, glutamine), acidic (aspartate, glutamate), basic (lysine, arginine, histidine).\n2. Nutritional: essential (phenylalanine, valine, threonine, tryptophan, isoleucine, methionine, histidine, leucine, lysine; arginine semi-essential) and non-essential.\n3. Metabolic fate: purely ketogenic (leucine, lysine); ketogenic and glucogenic (phenylalanine, tyrosine, tryptophan, isoleucine); rest glucogenic.\n4. Note: amino acids exist as zwitterions; solubility is lowest at the isoelectric pH."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structural organisation of proteins and classify proteins on the basis of composition.",
+      "answer": "1. Primary: amino acid sequence joined by peptide bonds.\n2. Secondary: α-helix and β-sheet held by hydrogen bonds.\n3. Tertiary: 3-D folding of a chain (disulphide, ionic, hydrogen, hydrophobic bonds).\n4. Quaternary: assembly of subunits (haemoglobin).\n5. Simple proteins: albumins, globulins, histones, protamines, scleroproteins (keratin, collagen).\n6. Conjugated: glyco-, lipo-, nucleo-, phospho- (casein), chromo- (haemoglobin), metalloproteins.\n7. Derived: primary (denatured) and secondary (proteoses, peptones, peptides).\n8. Denaturation destroys higher structures but not the primary structure."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the biological role of nucleic acids. Distinguish nucleoside and nucleotide with examples.",
+      "answer": "1. Nucleic acids: polymers of nucleotides joined by 3′,5′-phosphodiester bonds.\n2. Bases: purines (A, G), pyrimidines (C, T in DNA, U in RNA).\n3. Nucleoside = base + pentose (adenosine); nucleotide = nucleoside + phosphate (AMP, ATP).\n4. DNA stores genetic information; RNA (mRNA, tRNA, rRNA) expresses it as protein.\n5. Free nucleotides: energy carriers (ATP, GTP), second messengers (cAMP, cGMP), parts of coenzymes (NAD+, FAD, CoA).\n6. Chargaff's rule: A = T and G = C in DNA."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on cyclic AMP as a second messenger.",
+      "answer": "1. Hormone binds a receptor linked to Gs → adenylyl cyclase converts ATP to cAMP + PPi.\n2. cAMP activates protein kinase A by releasing its catalytic subunits.\n3. PKA phosphorylates enzymes: glycogen phosphorylase on, glycogen synthase off, hormone-sensitive lipase on.\n4. Phosphodiesterase converts cAMP to 5′-AMP and ends the signal; caffeine and theophylline inhibit it.\n5. Hormones using cAMP: glucagon, adrenaline (β), ACTH, TSH, PTH, vasopressin (V2).\n6. Gi-linked receptors lower cAMP; cholera toxin keeps Gs active, causing diarrhoea."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the concept of coupled reactions with a suitable example.",
+      "answer": "1. An endergonic reaction cannot proceed alone (ΔG positive).\n2. Coupling with an exergonic reaction sharing a common intermediate makes the total ΔG negative.\n3. Example: glucose + Pi → glucose-6-P (+13.8 kJ/mol) coupled with ATP → ADP + Pi (−30.5 kJ/mol) gives −16.7 kJ/mol overall (hexokinase).\n4. ATP is the usual coupling agent because it lies midway on the scale of phosphate group transfer potential.\n5. Other examples: activation of fatty acids and amino acids, active transport by Na+/K+-ATPase."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define epimers with an example.",
+      "answer": "Epimers are sugars that differ in configuration around only one carbon atom other than the anomeric carbon, e.g. glucose and galactose (C4), glucose and mannose (C2)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are essential fatty acids? Name two.",
+      "answer": "Fatty acids that the body cannot make and must obtain from the diet, because humans cannot introduce double bonds beyond carbon 9: linoleic acid (ω-6) and α-linolenic acid (ω-3)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe glycolysis with its reactions and enzymes. Calculate the energetics under aerobic and anaerobic conditions and state its significance.",
+      "answer": "1. Definition: breakdown of glucose to 2 pyruvate (aerobic) or 2 lactate (anaerobic); cytosol of all cells.\n2. Steps: hexokinase (ATP used) → phosphoglucose isomerase → PFK-1 (ATP used, rate-limiting) → aldolase → triose phosphate isomerase → G3P dehydrogenase (NADH) → phosphoglycerate kinase (ATP) → phosphoglycerate mutase → enolase → pyruvate kinase (ATP); anaerobic: lactate dehydrogenase.\n3. Irreversible steps: hexokinase, PFK-1, pyruvate kinase.\n4. Energetics: 4 ATP made − 2 ATP used = net 2 ATP + 2 NADH.\n5. Anaerobic: 2 ATP. Aerobic (newer convention): 2 + 2 × 2.5 = 7 ATP via malate–aspartate shuttle, 5 via glycerol phosphate shuttle. Older: 8 and 6.\n6. Regulation: PFK-1 inhibited by ATP and citrate, activated by AMP and fructose-2,6-bisphosphate; insulin favours glycolysis.\n7. Significance: only energy source of red cells; quick ATP for muscle; supplies pyruvate and intermediates; 2,3-BPG in red cells; fluoride inhibits enolase (glucose sample vials)."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the citric acid cycle with reactions and enzymes. Give its energetics and explain why it is called an amphibolic pathway.",
+      "answer": "1. Final common oxidative pathway of carbohydrate, fat and protein; mitochondrial matrix.\n2. Link: pyruvate → acetyl-CoA by PDH complex (TPP, lipoic acid, CoA, FAD, NAD+), 1 NADH.\n3. Steps: citrate synthase → aconitase → isocitrate dehydrogenase (NADH, CO2) → α-KG dehydrogenase (NADH, CO2) → succinyl-CoA synthetase (GTP) → succinate dehydrogenase (FADH2) → fumarase → malate dehydrogenase (NADH).\n4. Per turn: 3 NADH + 1 FADH2 + 1 GTP = 10 ATP (newer) or 12 ATP (older).\n5. Per glucose: glycolysis 7 + PDH 5 + TCA 20 = 32 ATP (newer); 8 + 6 + 24 = 38 ATP (older).\n6. Regulation: isocitrate dehydrogenase, α-KG dehydrogenase and citrate synthase; inhibited by ATP and NADH, activated by ADP and Ca2+.\n7. Amphibolic: catabolic (oxidation) and anabolic (citrate → fatty acids; α-KG and OAA → amino acids; succinyl-CoA → heme; OAA → glucose); anaplerosis by pyruvate carboxylase.\n8. Inhibitors: fluoroacetate (aconitase), arsenite (α-KG dehydrogenase), malonate (SDH)."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the electron transport chain and the mechanism of oxidative phosphorylation. Add a note on inhibitors and uncouplers.",
+      "answer": "1. ETC: carriers in inner mitochondrial membrane passing electrons from NADH/FADH2 to O2.\n2. Complex I (NADH–CoQ reductase, FMN, Fe–S, pumps 4 H+); Complex II (succinate dehydrogenase, FAD, no pumping); CoQ; Complex III (cyt b, c1, pumps 4 H+); cyt c; Complex IV (cyt a, a3, Cu, pumps 2 H+; O2 → H2O).\n3. Chemiosmotic theory (Mitchell): proton gradient (pH + electrical) across the membrane; H+ return through F0 of ATP synthase drives F1 to make ATP (rotary binding-change mechanism).\n4. About 4 H+ per ATP: NADH (10 H+) gives 2.5 ATP, FADH2 (6 H+) 1.5 ATP; older P/O values 3 and 2.\n5. Substrate-level phosphorylation: phosphoglycerate kinase, pyruvate kinase, succinyl-CoA synthetase.\n6. Inhibitors: Complex I rotenone, amytal; II malonate; III antimycin A, BAL; IV cyanide, CO, azide, H2S; ATP synthase oligomycin; translocase atractyloside.\n7. Uncouplers: 2,4-dinitrophenol, thermogenin (brown fat), high-dose salicylates; O2 used, no ATP, heat produced."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the HMP shunt and its significance. Add a note on G6PD deficiency.",
+      "answer": "1. Cytosol of liver, adipose, adrenal, red cells; no ATP made.\n2. Oxidative phase: G6PD (NADPH, rate-limiting) → lactonase → 6-phosphogluconate dehydrogenase (NADPH, CO2) → ribulose-5-P.\n3. Non-oxidative phase: isomerase, epimerase, transketolase (TPP), transaldolase → fructose-6-P and G3P.\n4. Significance: NADPH for fatty acid and steroid synthesis, reduced glutathione in red cells, cytochrome P450, respiratory burst; ribose-5-P for nucleotides.\n5. G6PD deficiency: X-linked; low NADPH → oxidised glutathione falls → Heinz bodies, haemolysis with primaquine, sulphonamides, dapsone, fava beans; resistance to falciparum malaria."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe gluconeogenesis and its significance.",
+      "answer": "1. Synthesis of glucose from lactate, glycerol, glucogenic amino acids and propionate; mainly liver, also kidney.\n2. Bypasses: pyruvate carboxylase (biotin, ATP) + PEP carboxykinase (GTP); fructose-1,6-bisphosphatase; glucose-6-phosphatase.\n3. Cost: 4 ATP + 2 GTP + 2 NADH per glucose from 2 pyruvate.\n4. Regulation: glucagon and cortisol stimulate, insulin inhibits; acetyl-CoA activates pyruvate carboxylase.\n5. Significance: maintains blood glucose in fasting for brain and red cells; removes lactate (Cori cycle) and glycerol; glucose–alanine cycle."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain glycogenesis and glycogenolysis with their regulation.",
+      "answer": "1. Glycogenesis: glucose → G6P → G1P (phosphoglucomutase) → UDP-glucose (UDP-glucose pyrophosphorylase) → glycogen synthase (α1→4, on glycogenin primer) → branching enzyme (α1→6).\n2. Glycogenolysis: phosphorylase (PLP) releases G1P from α1→4 bonds; debranching enzyme (transferase + α1→6 glucosidase) frees glucose at branches.\n3. Liver: glucose-6-phosphatase releases glucose to blood; muscle lacks it.\n4. Regulation: glucagon/adrenaline → cAMP → PKA → phosphorylase on, synthase off; insulin opposite; Ca2+ and AMP activate muscle phosphorylase."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on glycogen storage diseases.",
+      "answer": "1. Inherited defects of glycogen metabolism leading to abnormal amount or structure of glycogen.\n2. Type I von Gierke: glucose-6-phosphatase; hypoglycaemia, enlarged liver and kidney, lactic acidosis, hyperuricaemia.\n3. Type II Pompe: lysosomal acid maltase; cardiomegaly, infant death.\n4. Type III Cori: debranching enzyme. Type IV Andersen: branching enzyme, cirrhosis.\n5. Type V McArdle: muscle phosphorylase; cramps on exercise, no rise in lactate.\n6. Type VI Hers: liver phosphorylase. Type VII Tarui: muscle PFK."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the hormonal regulation of blood glucose. Add a note on diabetes mellitus.",
+      "answer": "1. Fasting plasma glucose about 70–100 mg/dl (ranges vary by laboratory).\n2. Insulin (β-cells) lowers glucose: uptake by GLUT4, glycogenesis, glycolysis, lipogenesis; inhibits gluconeogenesis.\n3. Glucagon, adrenaline, cortisol, growth hormone and thyroxine raise glucose.\n4. Diabetes: chronic hyperglycaemia from defective insulin secretion and/or action; type 1 (autoimmune, insulin-dependent, ketoacidosis), type 2 (insulin resistance, obesity).\n5. Diagnosis: FPG ≥ 126, 2-h OGTT ≥ 200, HbA1c ≥ 6.5%, random ≥ 200 mg/dl with symptoms.\n6. Changes: glycosuria, polyuria, ketosis, dyslipidaemia; complications: retinopathy, nephropathy, neuropathy, atherosclerosis."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Distinguish oxidative phosphorylation and substrate-level phosphorylation.",
+      "answer": "1. Oxidative: ATP made using energy of electron transfer through ETC to O2; substrate-level: phosphate transferred directly from a high-energy substrate.\n2. Site: inner mitochondrial membrane vs cytosol and matrix.\n3. Oxygen and ETC needed vs not needed.\n4. Mechanism: proton gradient and ATP synthase vs enzyme-catalysed transfer.\n5. Yield per glucose: about 28 of 32 ATP vs 4 (2 net in glycolysis + 2 GTP).\n6. Examples of substrate level: phosphoglycerate kinase, pyruvate kinase, succinyl-CoA synthetase."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are uncouplers? Give two examples.",
+      "answer": "Uncouplers let protons leak across the inner mitochondrial membrane so electron transport and O2 use continue but ATP is not made and energy is released as heat; examples: 2,4-dinitrophenol and thermogenin (also high-dose salicylates)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the five coenzymes of the pyruvate dehydrogenase complex.",
+      "answer": "Thiamine pyrophosphate (B1), lipoic acid, coenzyme A (B5), FAD (B2) and NAD+ (B3)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe β-oxidation of palmitic acid with reactions. Calculate the energy yield and state its significance.",
+      "answer": "1. Site: mitochondrial matrix; liver, heart, muscle.\n2. Activation: palmitate + CoA + ATP → palmitoyl-CoA + AMP + PPi (thiokinase); costs 2 high-energy bonds.\n3. Transport by carnitine shuttle: CPT-I (rate-limiting, inhibited by malonyl-CoA), translocase, CPT-II.\n4. Each cycle: acyl-CoA dehydrogenase (FADH2) → enoyl-CoA hydratase → hydroxyacyl-CoA dehydrogenase (NADH) → thiolase (acetyl-CoA + acyl-CoA shorter by 2C).\n5. Palmitate: 7 cycles → 8 acetyl-CoA + 7 FADH2 + 7 NADH.\n6. Newer: 7 × 1.5 + 7 × 2.5 + 8 × 10 = 108 − 2 = 106 ATP. Older: 14 + 21 + 96 = 131 − 2 = 129 ATP.\n7. Odd chains give propionyl-CoA → succinyl-CoA (biotin, B12).\n8. Significance: major fuel in fasting and for heart; source of acetyl-CoA for ketogenesis; defects (carnitine deficiency) cause hypoglycaemia and muscle weakness."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the urea cycle with reactions. Discuss its regulation, energetics and disorders.",
+      "answer": "1. Liver; converts toxic ammonia to urea.\n2. Mitochondria: CPS-I (NH3 + CO2 + 2 ATP → carbamoyl phosphate; activated by N-acetylglutamate); ornithine transcarbamoylase (→ citrulline).\n3. Cytosol: argininosuccinate synthetase (citrulline + aspartate + ATP → argininosuccinate + AMP + PPi); argininosuccinate lyase (→ arginine + fumarate); arginase (→ urea + ornithine).\n4. N sources: ammonia and aspartate; carbon from CO2.\n5. Energy: 3 ATP, 4 high-energy bonds per urea.\n6. Link with TCA through fumarate (Krebs bicycle).\n7. Regulation: N-acetylglutamate, high-protein diet induces enzymes.\n8. Disorders: hyperammonaemia I (CPS-I), II (OTC, most common, X-linked, orotic aciduria), citrullinaemia (ASS), argininosuccinic aciduria (ASL), hyperargininaemia (arginase); vomiting, lethargy, mental retardation, coma.\n9. Treatment: low-protein diet, sodium benzoate, phenylbutyrate, arginine, lactulose."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the catabolism of phenylalanine and tyrosine. Discuss phenylketonuria, alkaptonuria, albinism and tyrosinaemia.",
+      "answer": "1. Phenylalanine → tyrosine (phenylalanine hydroxylase, BH4).\n2. Tyrosine → p-hydroxyphenylpyruvate (tyrosine aminotransferase, PLP) → homogentisate (p-hydroxyphenylpyruvate dioxygenase, vitamin C) → maleylacetoacetate (homogentisate oxidase) → fumarylacetoacetate (isomerase) → fumarate + acetoacetate (fumarylacetoacetate hydrolase): glucogenic and ketogenic.\n3. Other fates of tyrosine: melanin (tyrosinase), catecholamines, thyroid hormones.\n4. PKU: phenylalanine hydroxylase; phenylpyruvate, phenylacetate in urine (mousy odour), mental retardation, light pigmentation; ferric chloride test, newborn screening; low-phenylalanine diet.\n5. Alkaptonuria: homogentisate oxidase; urine darkens on standing, ochronosis, arthritis.\n6. Albinism: tyrosinase; no melanin, photophobia, skin cancer risk.\n7. Tyrosinaemia I: fumarylacetoacetate hydrolase, liver and kidney failure (nitisinone); type II: tyrosine aminotransferase, eye and skin lesions."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the formation and utilisation of ketone bodies. Add a note on ketoacidosis.",
+      "answer": "1. Ketone bodies: acetoacetate, β-hydroxybutyrate, acetone.\n2. Ketogenesis in liver mitochondria: thiolase → acetoacetyl-CoA; HMG-CoA synthase (rate-limiting) → HMG-CoA; HMG-CoA lyase → acetoacetate; reduced to β-hydroxybutyrate; acetone formed spontaneously.\n3. Utilisation in heart, muscle, kidney, brain (starvation): thiophorase (succinyl-CoA:acetoacetate CoA transferase) and thiolase give acetyl-CoA; liver lacks thiophorase.\n4. Ketoacidosis: in uncontrolled diabetes and starvation; ketonaemia, ketonuria, acetone breath, metabolic acidosis, Kussmaul breathing, dehydration; detected by Rothera's test; treated with insulin and fluids."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe de novo synthesis of palmitic acid.",
+      "answer": "1. Cytosol of liver, adipose, mammary gland; fed state.\n2. Acetyl-CoA transported out of mitochondria as citrate (citrate lyase in cytosol).\n3. Acetyl-CoA carboxylase (biotin, ATP) → malonyl-CoA; rate-limiting, activated by citrate and insulin.\n4. Fatty acid synthase with ACP: condensation, reduction (NADPH), dehydration, reduction (NADPH); 7 cycles.\n5. Thioesterase releases palmitate.\n6. Overall: 8 acetyl-CoA + 7 ATP + 14 NADPH → palmitate; NADPH from HMP shunt and malic enzyme."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the conversion of cholesterol into bile acids, steroid hormones and vitamin D.",
+      "answer": "1. Bile acids: 7α-hydroxylase (rate-limiting) → cholic and chenodeoxycholic acids; conjugated with glycine/taurine; bacteria form deoxycholic and lithocholic acids; enterohepatic circulation.\n2. Steroid hormones: desmolase (side-chain cleavage) → pregnenolone → progesterone → corticosterone → aldosterone; 17-OH progesterone → cortisol; androstenedione → testosterone → oestradiol (aromatase).\n3. Vitamin D: 7-dehydrocholesterol + UV-B in skin → cholecalciferol → 25-hydroxylation in liver → 1α-hydroxylation in kidney → calcitriol.\n4. Significance: bile salts aid fat digestion; route of cholesterol excretion; statins inhibit HMG-CoA reductase in cholesterol synthesis."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe transamination, deamination and decarboxylation of amino acids.",
+      "answer": "1. Transamination: transfer of amino group to α-keto acid by aminotransferases with PLP; ALT (alanine + α-KG ⇌ pyruvate + glutamate), AST; reversible; collects nitrogen as glutamate.\n2. Oxidative deamination: glutamate dehydrogenase releases NH3; transdeamination = transamination + deamination.\n3. Non-oxidative deamination: serine, threonine dehydratases, histidase.\n4. Decarboxylation: amino acid → amine + CO2 with PLP; histidine → histamine, glutamate → GABA, 5-HTP → serotonin, DOPA → dopamine.\n5. Clinical: serum ALT and AST in liver disease."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the catabolism of heme. Classify jaundice and give its biochemical differences.",
+      "answer": "1. Heme oxygenase → biliverdin + CO + Fe; biliverdin reductase → bilirubin (unconjugated, albumin-bound).\n2. Liver: UDP-glucuronyl transferase → bilirubin diglucuronide → bile.\n3. Gut bacteria → urobilinogen → stercobilin (faeces); some urobilin in urine.\n4. Serum bilirubin about 0.2–1.0 mg/dl; jaundice visible above about 2 mg/dl.\n5. Haemolytic: unconjugated ↑, no urine bilirubin, urobilinogen ↑.\n6. Hepatic: both ↑, ALT/AST high.\n7. Obstructive: conjugated ↑, urine bilirubin present, urobilinogen absent, clay stools, ALP high.\n8. Neonatal jaundice, Gilbert, Crigler–Najjar, Dubin–Johnson."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the synthesis and significance of catecholamines, serotonin and melatonin.",
+      "answer": "1. Tyrosine → DOPA (tyrosine hydroxylase, BH4, rate-limiting) → dopamine (DOPA decarboxylase, PLP) → noradrenaline (dopamine β-hydroxylase, vitamin C, Cu) → adrenaline (PNMT, SAM).\n2. Degraded by MAO and COMT to VMA (raised in phaeochromocytoma).\n3. Tryptophan → 5-HTP (tryptophan hydroxylase) → serotonin (decarboxylase) → N-acetylserotonin → melatonin (pineal, SAM).\n4. Dopamine: movement (Parkinson's), prolactin control; noradrenaline/adrenaline: sympathetic actions, used in shock and anaphylaxis.\n5. Serotonin: mood, gut motility (5-HIAA raised in carcinoid); melatonin: sleep–wake rhythm."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the rate-limiting enzyme of cholesterol synthesis? Name a drug that inhibits it.",
+      "answer": "HMG-CoA reductase; it is competitively inhibited by statins such as atorvastatin."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define fatty liver and name two lipotropic factors.",
+      "answer": "Fatty liver is excessive accumulation of triacylglycerol in liver cells; lipotropic factors that prevent it include choline and methionine (also betaine, inositol)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe de novo synthesis of purine nucleotides. Add a note on the salvage pathway and its disorder.",
+      "answer": "1. Site: cytosol, mainly liver; ring built on ribose-5-phosphate.\n2. Ribose-5-P → PRPP (PRPP synthetase).\n3. PRPP + glutamine → 5-phosphoribosylamine (glutamine PRPP amidotransferase, committed and rate-limiting; feedback inhibited by AMP, GMP, IMP).\n4. Glycine, formyl-THF, glutamine, CO2, aspartate added stepwise → IMP.\n5. Atom sources: N1 aspartate; C2, C8 formyl-THF; N3, N9 glutamine; C4, C5, N7 glycine; C6 CO2.\n6. IMP → AMP (aspartate, GTP); IMP → GMP (IMP dehydrogenase, glutamine, ATP).\n7. Salvage: HGPRT (hypoxanthine, guanine), APRT (adenine) with PRPP; saves energy; important in brain.\n8. Lesch–Nyhan syndrome: HGPRT deficiency, hyperuricaemia, gout, self-mutilation.\n9. Inhibitors: methotrexate, 6-mercaptopurine, mycophenolate."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe DNA replication in detail. Explain why it is called semiconservative.",
+      "answer": "1. Semiconservative: each daughter duplex has one parent and one new strand; proved by Meselson and Stahl using 15N/14N density.\n2. Initiation at origins (many in eukaryotes); bidirectional replication forks.\n3. Helicase unwinds; single-strand binding proteins; topoisomerase relieves supercoils (gyrase inhibited by quinolones).\n4. Primase makes RNA primer.\n5. DNA polymerase (pol III in prokaryotes; δ, ε in eukaryotes) adds nucleotides 5′→3′; leading strand continuous, lagging strand as Okazaki fragments.\n6. Primer removal (pol I / RNase H) and gap filling; DNA ligase joins fragments.\n7. Proofreading by 3′→5′ exonuclease; telomerase at chromosome ends.\n8. Drugs: aciclovir, zidovudine, cytarabine, etoposide."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the process of protein synthesis (translation). Give the characteristics of the genetic code and inhibitors of protein synthesis.",
+      "answer": "1. Genetic code: triplet, 64 codons, 61 sense, 3 stop (UAA, UAG, UGA), AUG start; degenerate, unambiguous, non-overlapping, commaless, nearly universal, wobble.\n2. Activation: aminoacyl-tRNA synthetase attaches amino acid to tRNA using ATP.\n3. Initiation: 40S subunit + mRNA + Met-tRNAi at AUG (P site), eIFs and GTP; 60S joins → 80S complex.\n4. Elongation: aminoacyl-tRNA enters A site (EF-1, GTP); peptidyl transferase (28S rRNA) forms peptide bond; translocation (EF-2, GTP).\n5. Termination: stop codon, release factors, ribosome dissociates.\n6. Energy: 4 high-energy bonds per peptide bond.\n7. Post-translational modification: folding, cleavage, glycosylation, phosphorylation.\n8. Inhibitors: aminoglycosides and tetracyclines (30S), chloramphenicol, macrolides, linezolid (50S), puromycin, cycloheximide, diphtheria toxin (eEF-2), ricin."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the catabolism of purine nucleotides. Add a note on hyperuricaemia and gout.",
+      "answer": "1. AMP → IMP or adenosine → inosine (adenosine deaminase) → hypoxanthine (nucleoside phosphorylase) → xanthine → uric acid (xanthine oxidase).\n2. GMP → guanosine → guanine → xanthine (guanase).\n3. Uric acid about 3–7 mg/dl in men (ranges vary by laboratory); humans lack uricase.\n4. Hyperuricaemia: over-production (Lesch–Nyhan, cancer chemotherapy, high-purine diet) or under-excretion (renal failure, thiazides, low-dose aspirin).\n5. Gout: monosodium urate crystals in joints (big toe), tophi, kidney stones.\n6. Treatment: NSAIDs, colchicine for attacks; allopurinol, febuxostat; probenecid; rasburicase."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of DNA (Watson–Crick model).",
+      "answer": "1. Two polynucleotide strands in a right-handed double helix around a common axis.\n2. Antiparallel strands (5′→3′ and 3′→5′).\n3. Sugar–phosphate backbone outside, bases inside.\n4. Complementary pairing: A=T (2 H bonds), G≡C (3 H bonds); Chargaff's rule.\n5. B-DNA: 2 nm wide, about 10 bp and 3.4 nm per turn, 0.34 nm per bp; major and minor grooves.\n6. Other forms: A-DNA, Z-DNA (left-handed).\n7. Functions: genetic store, template for replication and transcription."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe transcription in eukaryotes with post-transcriptional modifications.",
+      "answer": "1. RNA synthesis on a DNA template by DNA-dependent RNA polymerase; no primer needed; 5′→3′.\n2. Pol I (rRNA), pol II (mRNA), pol III (tRNA, 5S rRNA).\n3. Initiation at promoter (TATA box about −25) with transcription factors; elongation; termination.\n4. Processing: 5′ 7-methylguanosine cap, 3′ poly-A tail, splicing of introns by spliceosome (snRNPs); alternative splicing.\n5. Inhibitors: rifampicin (bacterial RNA polymerase), actinomycin D, α-amanitin."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the biosynthesis of pyrimidine nucleotides.",
+      "answer": "1. Carbamoyl phosphate synthetase II (glutamine + CO2 + 2 ATP; cytosolic; rate-limiting).\n2. Aspartate transcarbamoylase → carbamoyl aspartate → dihydroorotase → dihydroorotate.\n3. Dihydroorotate dehydrogenase (mitochondria) → orotate.\n4. Orotate + PRPP → OMP → UMP (UMP synthase).\n5. UMP → UTP → CTP (CTP synthetase).\n6. dTMP: thymidylate synthase (5-FU inhibits), DHFR (methotrexate inhibits); ribonucleotide reductase (hydroxyurea).\n7. Orotic aciduria: UMP synthase defect, megaloblastic anaemia, treated with uridine."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the organisation of the mammalian genome.",
+      "answer": "1. Human haploid genome about 3 × 10^9 bp on 23 chromosomes; about 20,000 protein-coding genes; only 1–2% codes for protein.\n2. DNA wrapped around histone octamer (H2A, H2B, H3, H4) → nucleosome; H1 on linker DNA; 30 nm fibre; looped domains; chromosome.\n3. Euchromatin (active) and heterochromatin (inactive).\n4. Split genes with exons and introns; repetitive DNA (satellite, LINEs, SINEs/Alu); pseudogenes.\n5. Telomeres maintained by telomerase; mitochondrial DNA circular, maternally inherited."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Distinguish DNA and RNA. Describe the structure and function of tRNA.",
+      "answer": "1. DNA: deoxyribose, thymine, double-stranded, genetic store. RNA: ribose, uracil, single-stranded, expression.\n2. tRNA: 75–90 nucleotides, cloverleaf secondary structure, L-shaped 3-D.\n3. Acceptor arm with CCA at 3′ end carries amino acid.\n4. Anticodon arm pairs with mRNA codon; D arm and TψC arm help ribosome binding; contains unusual bases.\n5. Function: adaptor that brings the correct amino acid to the ribosome."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are Okazaki fragments?",
+      "answer": "Short DNA pieces synthesised discontinuously on the lagging strand during replication, each started from an RNA primer and later joined by DNA ligase."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the stop codons and the start codon.",
+      "answer": "Stop codons are UAA, UAG and UGA; the start codon is AUG, which codes for methionine."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define enzymes. Describe their properties and the IUB classification with examples.",
+      "answer": "1. Enzymes: biological catalysts, mostly proteins (ribozymes are RNA), that speed reactions without being consumed.\n2. Holoenzyme = apoenzyme + cofactor (metal ion or coenzyme); zymogens are inactive precursors.\n3. Properties: high efficiency; lower activation energy without changing equilibrium; specificity (absolute, group, bond, stereo); lock-and-key and induced-fit models; temperature optimum about 37–40 °C; pH optimum (pepsin about 2, trypsin about 8); regulation.\n4. IUB classes with EC numbers: 1 oxidoreductases (LDH, alcohol dehydrogenase); 2 transferases (ALT, AST, hexokinase); 3 hydrolases (pepsin, lipase, urease); 4 lyases (aldolase, fumarase, carbonic anhydrase); 5 isomerases (triose phosphate isomerase, phosphoglucomutase); 6 ligases (glutamine synthetase, pyruvate carboxylase, DNA ligase).\n5. EC number has four digits (class, subclass, sub-subclass, serial), e.g. hexokinase EC 2.7.1.1.\n6. Translocases added as class 7 in 2018."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain enzyme kinetics with the Michaelis–Menten equation and Lineweaver–Burk plot. Discuss the types of enzyme inhibition with examples.",
+      "answer": "1. Effect of substrate: hyperbolic curve, saturation at Vmax.\n2. v = Vmax[S]/(Km + [S]); Km = [S] at half Vmax; low Km = high affinity (hexokinase vs glucokinase).\n3. Lineweaver–Burk: 1/v = (Km/Vmax)(1/[S]) + 1/Vmax; y-intercept 1/Vmax, x-intercept −1/Km, slope Km/Vmax.\n4. Competitive: substrate analogue at active site; Km ↑, Vmax same; lines meet on y-axis; malonate (SDH), statins, methotrexate, sulphonamides, allopurinol.\n5. Non-competitive: binds elsewhere; Vmax ↓, Km same; lines meet on x-axis; heavy metals, cyanide.\n6. Uncompetitive: binds ES only; both ↓; parallel lines; phenylalanine on placental ALP.\n7. Irreversible: covalent; organophosphates (AChE), aspirin (COX), iodoacetate.\n8. Suicide: allopurinol, 5-FU, clavulanic acid.\n9. Importance in drug design: most drugs are enzyme inhibitors."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the regulation of enzyme activity. Add a note on the therapeutic and diagnostic applications of enzymes and isoenzymes.",
+      "answer": "1. Allosteric: regulatory site, sigmoid kinetics, feedback inhibition (PFK-1 by ATP/citrate, ATCase by CTP).\n2. Covalent modification: phosphorylation/dephosphorylation (glycogen phosphorylase, synthase).\n3. Zymogen activation: trypsinogen → trypsin.\n4. Induction and repression: lac operon; CYP450 induced by rifampicin, phenobarbitone; heme represses ALA synthase.\n5. Compartmentation and isoenzymes.\n6. Diagnostic: ALT, AST (liver), ALP (bone, obstructive jaundice), GGT (alcohol), CK-MB and LDH-1 (MI), amylase and lipase (pancreatitis), cholinesterase (organophosphate poisoning).\n7. Isoenzymes: LDH-1 to LDH-5; CK-BB, MB, MM.\n8. Therapeutic: streptokinase, urokinase, alteplase (thrombolysis), L-asparaginase (ALL), hyaluronidase, pancreatin, dornase alfa, collagenase, rasburicase."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on isoenzymes with suitable examples.",
+      "answer": "1. Different molecular forms of an enzyme catalysing the same reaction but differing in structure, electrophoretic mobility, Km, tissue distribution.\n2. LDH: tetramer of H and M subunits; LDH-1 (H4, heart) to LDH-5 (M4, liver/muscle); LDH-1 > LDH-2 in MI.\n3. CK: dimer; CK-BB brain, CK-MB heart (MI), CK-MM skeletal muscle.\n4. ALP: liver, bone, placental (Regan), intestinal.\n5. Separated by electrophoresis; help locate the damaged organ."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure and biochemical functions of coenzymes derived from B vitamins.",
+      "answer": "1. TPP (B1): thiazole + pyrimidine + pyrophosphate; oxidative decarboxylation (PDH), transketolase.\n2. FAD/FMN (B2): isoalloxazine; H carrier (succinate dehydrogenase).\n3. NAD+/NADP+ (B3): nicotinamide dinucleotide; hydride carrier (LDH, G6PD).\n4. CoA (B5): pantothenate + β-mercaptoethylamine + ADP; acyl carrier.\n5. PLP (B6): transamination, decarboxylation.\n6. Biotin (B7): carboxylation (pyruvate and acetyl-CoA carboxylases).\n7. THF (B9): one-carbon transfer. Cobalamin (B12): methyl transfer, methylmalonyl-CoA mutase."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on therapeutic applications of enzymes.",
+      "answer": "1. Thrombolytics: streptokinase, urokinase, alteplase in MI and stroke.\n2. L-Asparaginase in acute lymphoblastic leukaemia.\n3. Pancreatin/pancrelipase in pancreatic insufficiency.\n4. Hyaluronidase to increase spread of injected drugs.\n5. Dornase alfa in cystic fibrosis.\n6. Papain, trypsin–chymotrypsin, serratiopeptidase, collagenase for debridement and swelling.\n7. Rasburicase, imiglucerase (Gaucher's), lactase.\n8. Limits: allergy, oral destruction, cost."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain allosteric regulation of enzymes with examples.",
+      "answer": "1. Allosteric enzymes have a regulatory site distinct from the active site.\n2. Effector binding changes shape and activity; positive and negative effectors.\n3. Usually multi-subunit, sigmoid kinetics (cooperativity), do not follow Michaelis–Menten.\n4. Catalyse the committed step; feedback inhibition by end product.\n5. Examples: PFK-1 (ATP, citrate −; AMP, F-2,6-BP +), ATCase (CTP −, ATP +), acetyl-CoA carboxylase (citrate +), CPS-I (N-acetylglutamate +)."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain enzyme induction and repression with examples.",
+      "answer": "1. Induction: inducer increases enzyme synthesis at gene level; lac operon (Jacob and Monod).\n2. In humans: insulin induces glucokinase; cortisol induces PEPCK; drugs (rifampicin, phenobarbitone, phenytoin) induce CYP450 causing drug interactions.\n3. Repression: end product reduces enzyme synthesis; heme represses δ-ALA synthase, cholesterol represses HMG-CoA reductase, trp operon.\n4. Slower than allosteric control (hours to days)."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the diagnostic importance of serum enzymes.",
+      "answer": "1. ALT and AST: liver disease (ALT more specific); AST also in MI.\n2. ALP: obstructive jaundice, bone disease. GGT: alcohol, cholestasis.\n3. CK-MB, LDH-1: myocardial infarction (troponin now preferred).\n4. Amylase and lipase: acute pancreatitis.\n5. Acid phosphatase: prostate cancer. Cholinesterase: organophosphate poisoning.\n6. Values are about and ranges vary by laboratory; enzymes also used as reagents (GOD-POD, cholesterol oxidase)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Km and give its significance.",
+      "answer": "Km is the substrate concentration at which the reaction velocity is half the maximum velocity; it indicates the affinity of an enzyme for its substrate (low Km means high affinity)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate apoenzyme and holoenzyme.",
+      "answer": "An apoenzyme is the inactive protein part of an enzyme; a holoenzyme is the active complete enzyme formed when the apoenzyme combines with its cofactor or coenzyme."
+    }
+  ]
+}

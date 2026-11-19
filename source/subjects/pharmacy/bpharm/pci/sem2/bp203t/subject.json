@@ -1,0 +1,113 @@
+{
+  "code": "BP203T",
+  "title": "Biochemistry",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP203T Biochemistry and BP209P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP203T_B.Pharma-pages-10.pdf"
+  },
+  "practicalCodes": [
+    "BP209P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Biomolecules and bioenergetics",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Carbohydrate metabolism and biological oxidation",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Lipid metabolism and amino acid metabolism",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Nucleic acid metabolism and genetic information transfer",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Enzymes",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "qualitative-carbohydrates",
+      "title": "Qualitative analysis of carbohydrates (glucose, fructose, lactose, maltose, sucrose, starch)",
+      "file": "practicals/qualitative-carbohydrates.md"
+    },
+    {
+      "id": "protein-identification",
+      "title": "Identification tests for proteins (albumin and casein)",
+      "file": "practicals/protein-identification.md"
+    },
+    {
+      "id": "dnsa-biuret-estimation",
+      "title": "Estimation of reducing sugars (DNSA method) and proteins (biuret method)",
+      "file": "practicals/dnsa-biuret-estimation.md"
+    },
+    {
+      "id": "urine-abnormal-constituents",
+      "title": "Qualitative analysis of urine for abnormal constituents",
+      "file": "practicals/urine-abnormal-constituents.md"
+    },
+    {
+      "id": "blood-creatinine",
+      "title": "Determination of blood creatinine (Jaffe's method)",
+      "file": "practicals/blood-creatinine.md"
+    },
+    {
+      "id": "blood-sugar",
+      "title": "Determination of blood sugar (GOD-POD method)",
+      "file": "practicals/blood-sugar.md"
+    },
+    {
+      "id": "serum-cholesterol",
+      "title": "Determination of serum total cholesterol",
+      "file": "practicals/serum-cholesterol.md"
+    },
+    {
+      "id": "buffer-preparation-ph",
+      "title": "Preparation of buffer solutions and measurement of pH",
+      "file": "practicals/buffer-preparation-ph.md"
+    },
+    {
+      "id": "enzymatic-hydrolysis-starch",
+      "title": "Enzymatic hydrolysis of starch (achromic point)",
+      "file": "practicals/enzymatic-hydrolysis-starch.md"
+    },
+    {
+      "id": "salivary-amylase-activity",
+      "title": "Determination of salivary amylase activity",
+      "file": "practicals/salivary-amylase-activity.md"
+    },
+    {
+      "id": "amylase-temperature-effect",
+      "title": "Effect of temperature on salivary amylase activity",
+      "file": "practicals/amylase-temperature-effect.md"
+    },
+    {
+      "id": "amylase-substrate-effect",
+      "title": "Effect of substrate concentration on salivary amylase activity",
+      "file": "practicals/amylase-substrate-effect.md"
+    }
+  ]
+}
