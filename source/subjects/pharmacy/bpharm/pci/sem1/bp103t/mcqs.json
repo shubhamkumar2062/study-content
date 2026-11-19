@@ -1,0 +1,704 @@
+{
+ "mcqs": [
+  {
+   "id": "u1-m01",
+   "unit": 1,
+   "question": "The first edition of the Indian Pharmacopoeia was published in:",
+   "options": [
+    "1955",
+    "1946",
+    "1966",
+    "1985"
+   ],
+   "correct": 0,
+   "explanation": "IP 1955 was the first edition, following the Chopra Committee's recommendation.",
+   "probability": "high"
+  },
+  {
+   "id": "u1-m02",
+   "unit": 1,
+   "question": "The Pharmacy Council of India was constituted under the:",
+   "options": [
+    "Drugs and Cosmetics Act, 1940",
+    "Drugs and Magic Remedies Act, 1954",
+    "Poisons Act, 1919",
+    "Pharmacy Act, 1948"
+   ],
+   "correct": 3,
+   "explanation": "The Pharmacy Act, 1948 created PCI to regulate pharmacy education and registration.",
+   "probability": "high"
+  },
+  {
+   "id": "u1-m03",
+   "unit": 1,
+   "question": "Who is known as the father of pharmacy education in India?",
+   "options": [
+    "Col. R. N. Chopra",
+    "Acharya P. C. Ray",
+    "Prof. M. L. Schroff",
+    "William Martindale"
+   ],
+   "correct": 2,
+   "explanation": "Prof. Schroff began university pharmacy education at Banaras Hindu University.",
+   "probability": "medium"
+  },
+  {
+   "id": "u1-m04",
+   "unit": 1,
+   "question": "Martindale (The Extra Pharmacopoeia) is best described as:",
+   "options": [
+    "The official pharmacopoeia of India",
+    "A drug information reference book, not an official standard",
+    "The official pharmacopoeia of the USA",
+    "A book of excipient standards"
+   ],
+   "correct": 1,
+   "explanation": "Martindale gives drug information worldwide but has no legal standing as a standard.",
+   "probability": "medium"
+  },
+  {
+   "id": "u1-m05",
+   "unit": 1,
+   "question": "In a prescription, the part that gives directions to the patient is the:",
+   "options": [
+    "Inscription",
+    "Signatura",
+    "Superscription",
+    "Subscription"
+   ],
+   "correct": 1,
+   "explanation": "Signatura (Sig.) contains the directions transferred to the label.",
+   "probability": "high"
+  },
+  {
+   "id": "u1-m06",
+   "unit": 1,
+   "question": "Young's rule for calculating a child's dose is:",
+   "options": [
+    "Age/(Age + 12) × adult dose",
+    "Age/20 × adult dose",
+    "Age in months/150 × adult dose",
+    "Weight in lb/150 × adult dose"
+   ],
+   "correct": 0,
+   "explanation": "Young's rule uses age + 12 in the denominator; Dilling uses 20, Fried 150 months, Clark 150 lb.",
+   "probability": "high"
+  },
+  {
+   "id": "u1-m07",
+   "unit": 1,
+   "question": "Using Clark's rule, the dose for a child weighing 30 lb, when the adult dose is 300 mg, is:",
+   "options": [
+    "30 mg",
+    "100 mg",
+    "90 mg",
+    "60 mg"
+   ],
+   "correct": 3,
+   "explanation": "30/150 × 300 = 60 mg.",
+   "probability": "high"
+  },
+  {
+   "id": "u1-m08",
+   "unit": 1,
+   "question": "The average adult body surface area used in paediatric dose calculation is:",
+   "options": [
+    "1.0 m²",
+    "2.5 m²",
+    "1.73 m²",
+    "0.73 m²"
+   ],
+   "correct": 2,
+   "explanation": "Child dose = BSA/1.73 × adult dose.",
+   "probability": "medium"
+  },
+  {
+   "id": "u1-m09",
+   "unit": 1,
+   "question": "The Latin abbreviation 'p.c.' means:",
+   "options": [
+    "Before food",
+    "At bedtime",
+    "After food",
+    "When required"
+   ],
+   "correct": 2,
+   "explanation": "p.c. = post cibum (after food); a.c. = before food.",
+   "probability": "medium"
+  },
+  {
+   "id": "u1-m10",
+   "unit": 1,
+   "question": "Fried's rule is used to calculate the dose for:",
+   "options": [
+    "Adults over 65 years",
+    "Infants, using age in months",
+    "Children by body weight",
+    "Children by body surface area"
+   ],
+   "correct": 1,
+   "explanation": "Fried's rule: age in months/150 × adult dose.",
+   "probability": "medium"
+  },
+  {
+   "id": "u2-m01",
+   "unit": 2,
+   "question": "One grain is equal to approximately:",
+   "options": [
+    "64.8 mg",
+    "6.48 mg",
+    "648 mg",
+    "0.648 mg"
+   ],
+   "correct": 0,
+   "explanation": "1 grain = 64.8 mg.",
+   "probability": "high"
+  },
+  {
+   "id": "u2-m02",
+   "unit": 2,
+   "question": "Proof spirit contains about:",
+   "options": [
+    "49.3% v/v ethanol",
+    "95% v/v ethanol",
+    "100% v/v ethanol",
+    "57.1% v/v ethanol"
+   ],
+   "correct": 3,
+   "explanation": "Proof spirit is about 57.1% v/v ethanol; % v/v × 1.753 = degree proof.",
+   "probability": "high"
+  },
+  {
+   "id": "u2-m03",
+   "unit": 2,
+   "question": "Alcohol of 90% v/v strength is expressed as:",
+   "options": [
+    "57.8 under proof",
+    "42.2 under proof",
+    "90 over proof",
+    "57.8 over proof"
+   ],
+   "correct": 3,
+   "explanation": "90 × 1.753 = 157.8 proof, i.e. 57.8 o.p.",
+   "probability": "high"
+  },
+  {
+   "id": "u2-m04",
+   "unit": 2,
+   "question": "The freezing point of blood and tears is about:",
+   "options": [
+    "0 °C",
+    "−0.9 °C",
+    "−0.52 °C",
+    "−1.86 °C"
+   ],
+   "correct": 2,
+   "explanation": "Isotonic solutions are adjusted to a freezing point depression of 0.52 °C.",
+   "probability": "high"
+  },
+  {
+   "id": "u2-m05",
+   "unit": 2,
+   "question": "The sodium chloride equivalent of dextrose (M 180, non-electrolyte, L_iso 1.9) is about:",
+   "options": [
+    "0.90",
+    "0.18",
+    "0.50",
+    "1.00"
+   ],
+   "correct": 1,
+   "explanation": "E = 17 × 1.9/180 = 0.18; so 5% dextrose is isotonic.",
+   "probability": "medium"
+  },
+  {
+   "id": "u2-m06",
+   "unit": 2,
+   "question": "In alligation alternate, to mix 95% and 40% alcohol to make 70% alcohol, the parts of 95% and 40% are:",
+   "options": [
+    "30 and 25",
+    "25 and 30",
+    "70 and 40",
+    "55 and 30"
+   ],
+   "correct": 0,
+   "explanation": "95% gets 70 − 40 = 30 parts; 40% gets 95 − 70 = 25 parts.",
+   "probability": "high"
+  },
+  {
+   "id": "u2-m07",
+   "unit": 2,
+   "question": "Which of the following pairs forms a eutectic mixture?",
+   "options": [
+    "Camphor and menthol",
+    "Lactose and starch",
+    "Sodium chloride and potassium chloride",
+    "Talc and kaolin"
+   ],
+   "correct": 0,
+   "explanation": "Camphor, menthol, phenol and thymol liquefy when mixed.",
+   "probability": "high"
+  },
+  {
+   "id": "u2-m08",
+   "unit": 2,
+   "question": "Glauber's salt (sodium sulphate decahydrate) is an example of a substance that is:",
+   "options": [
+    "Deliquescent",
+    "Explosive",
+    "Eutectic-forming",
+    "Efflorescent"
+   ],
+   "correct": 3,
+   "explanation": "It loses water of crystallisation in dry air, so the dried form is used.",
+   "probability": "medium"
+  },
+  {
+   "id": "u2-m09",
+   "unit": 2,
+   "question": "In effervescent granules, citric acid, tartaric acid and sodium bicarbonate are commonly used in the ratio:",
+   "options": [
+    "2 : 1 : 3.44",
+    "1 : 1 : 1",
+    "1 : 2 : 3.44",
+    "1 : 2 : 1.2"
+   ],
+   "correct": 2,
+   "explanation": "1 g citric acid needs 1.2 g and 2 g tartaric acid needs 2.24 g NaHCO3; total 3.44.",
+   "probability": "medium"
+  },
+  {
+   "id": "u2-m10",
+   "unit": 2,
+   "question": "Geometric dilution is used when:",
+   "options": [
+    "Two liquids of different strengths are mixed",
+    "A small amount of potent drug is mixed with a large amount of diluent",
+    "An emulsion is prepared by the dry gum method",
+    "A suppository base is calibrated"
+   ],
+   "correct": 1,
+   "explanation": "Equal amounts are mixed and the quantity is doubled each time for uniform distribution.",
+   "probability": "medium"
+  },
+  {
+   "id": "u3-m01",
+   "unit": 3,
+   "question": "Simple Syrup IP contains sucrose:",
+   "options": [
+    "85% w/v",
+    "66.7% w/w",
+    "50% w/w",
+    "33.3% w/w"
+   ],
+   "correct": 1,
+   "explanation": "Simple Syrup IP is 66.7% w/w sucrose and is self-preserving.",
+   "probability": "high"
+  },
+  {
+   "id": "u3-m02",
+   "unit": 3,
+   "question": "A liniment is applied to the skin:",
+   "options": [
+    "With friction (rubbing)",
+    "Without friction by dabbing",
+    "Only on broken skin",
+    "Only to the mucous membranes"
+   ],
+   "correct": 0,
+   "explanation": "Liniments are rubbed in; lotions are dabbed on.",
+   "probability": "high"
+  },
+  {
+   "id": "u3-m03",
+   "unit": 3,
+   "question": "The main reason for using glycerin as the base of throat paints is that it:",
+   "options": [
+    "Evaporates rapidly",
+    "Is a strong local anaesthetic",
+    "Is a good emulsifying agent",
+    "Is viscous and clings to the mucosa"
+   ],
+   "correct": 3,
+   "explanation": "Glycerin's viscosity keeps the paint in contact with the throat.",
+   "probability": "medium"
+  },
+  {
+   "id": "u3-m04",
+   "unit": 3,
+   "question": "According to Stokes' law, the rate of sedimentation of particles is directly proportional to the:",
+   "options": [
+    "Viscosity of the medium",
+    "Square root of the particle diameter",
+    "Square of the particle diameter",
+    "Volume of the container"
+   ],
+   "correct": 2,
+   "explanation": "v = d²(ρs − ρo)g/18η.",
+   "probability": "high"
+  },
+  {
+   "id": "u3-m05",
+   "unit": 3,
+   "question": "Which statement is true of a deflocculated suspension?",
+   "options": [
+    "It settles fast with a clear supernatant",
+    "It forms a loose, bulky sediment",
+    "It settles slowly but forms a hard cake",
+    "It has a low zeta potential"
+   ],
+   "correct": 2,
+   "explanation": "Separate particles pack tightly and cake; flocculated systems settle fast but redisperse easily.",
+   "probability": "high"
+  },
+  {
+   "id": "u3-m06",
+   "unit": 3,
+   "question": "Sedimentation volume (F) is defined as:",
+   "options": [
+    "Original volume / ultimate volume of sediment",
+    "Ultimate volume of sediment / original volume of suspension",
+    "Volume of supernatant / volume of sediment",
+    "Height of sediment × viscosity"
+   ],
+   "correct": 1,
+   "explanation": "F = Vu/Vo; a value near 1 is desirable.",
+   "probability": "medium"
+  },
+  {
+   "id": "u3-m07",
+   "unit": 3,
+   "question": "In the dry gum method, the ratio of oil : water : gum for a fixed oil is:",
+   "options": [
+    "4 : 2 : 1",
+    "3 : 2 : 1",
+    "2 : 2 : 1",
+    "1 : 2 : 4"
+   ],
+   "correct": 0,
+   "explanation": "4:2:1 for fixed oils, 3:2:1 for mineral oil, 2:2:1 for volatile oils.",
+   "probability": "high"
+  },
+  {
+   "id": "u3-m08",
+   "unit": 3,
+   "question": "In the conductivity test, the bulb glows when the emulsion is:",
+   "options": [
+    "Water-in-oil",
+    "A pure oil",
+    "A multiple O/W/O emulsion with oil outside",
+    "Oil-in-water"
+   ],
+   "correct": 3,
+   "explanation": "Water as the continuous phase conducts electricity.",
+   "probability": "high"
+  },
+  {
+   "id": "u3-m09",
+   "unit": 3,
+   "question": "Surfactants with HLB values of 3–6 are used as:",
+   "options": [
+    "O/W emulsifying agents",
+    "Solubilising agents",
+    "Detergents",
+    "W/O emulsifying agents"
+   ],
+   "correct": 3,
+   "explanation": "Low HLB (lipophilic) favours W/O; 8–18 favours O/W.",
+   "probability": "medium"
+  },
+  {
+   "id": "u3-m10",
+   "unit": 3,
+   "question": "Creaming of an emulsion is:",
+   "options": [
+    "Irreversible separation of phases",
+    "The same as phase inversion",
+    "Reversible on shaking",
+    "Caused only by microbial growth"
+   ],
+   "correct": 2,
+   "explanation": "Globules gather but remain separate; cracking is irreversible.",
+   "probability": "medium"
+  },
+  {
+   "id": "u4-m01",
+   "unit": 4,
+   "question": "Displacement value is defined as the:",
+   "options": [
+    "Weight of base displaced by 1 ml of drug",
+    "Parts by weight of drug that displace one part by weight of base",
+    "Volume of mould occupied by the base",
+    "Melting point difference between drug and base"
+   ],
+   "correct": 1,
+   "explanation": "DV = weight of drug/weight of base displaced.",
+   "probability": "high"
+  },
+  {
+   "id": "u4-m02",
+   "unit": 4,
+   "question": "The amount of theobroma oil needed for 10 suppositories (1 g mould) each containing 300 mg zinc oxide (DV 5) is:",
+   "options": [
+    "9.4 g",
+    "7.0 g",
+    "9.7 g",
+    "8.5 g"
+   ],
+   "correct": 0,
+   "explanation": "Drug 3 g displaces 3/5 = 0.6 g; 10 − 0.6 = 9.4 g.",
+   "probability": "high"
+  },
+  {
+   "id": "u4-m03",
+   "unit": 4,
+   "question": "Theobroma oil melts at about:",
+   "options": [
+    "30–35 °C",
+    "40–45 °C",
+    "50–55 °C",
+    "20–25 °C"
+   ],
+   "correct": 0,
+   "explanation": "It melts just below body temperature.",
+   "probability": "high"
+  },
+  {
+   "id": "u4-m04",
+   "unit": 4,
+   "question": "The main problem caused by overheating theobroma oil during melting is:",
+   "options": [
+    "Hydrolysis to glycerin",
+    "Formation of an emulsion",
+    "Increase in melting point to 60 °C",
+    "Formation of unstable low-melting polymorphs"
+   ],
+   "correct": 3,
+   "explanation": "Melt gently (creamy melt) to keep the stable form.",
+   "probability": "medium"
+  },
+  {
+   "id": "u4-m05",
+   "unit": 4,
+   "question": "Which suppository base is hygroscopic and needs a preservative?",
+   "options": [
+    "Theobroma oil",
+    "Hard fat",
+    "Glycero-gelatin",
+    "Hydrogenated vegetable oil"
+   ],
+   "correct": 2,
+   "explanation": "Glycerin draws water from mucosa and gelatin supports microbes.",
+   "probability": "medium"
+  },
+  {
+   "id": "u4-m06",
+   "unit": 4,
+   "question": "Compression moulding of suppositories is especially suitable for:",
+   "options": [
+    "Large-scale melting of PEG bases",
+    "Heat-sensitive drugs",
+    "Glycero-gelatin bases",
+    "Drugs that must be dissolved in molten base"
+   ],
+   "correct": 1,
+   "explanation": "No heat is applied in compression moulding.",
+   "probability": "medium"
+  },
+  {
+   "id": "u4-m07",
+   "unit": 4,
+   "question": "The usual weight of an adult rectal suppository is about:",
+   "options": [
+    "0.5 g",
+    "2 g",
+    "5 g",
+    "8 g"
+   ],
+   "correct": 1,
+   "explanation": "About 1 g for children and 2 g for adults; pessaries are 3–8 g.",
+   "probability": "medium"
+  },
+  {
+   "id": "u4-m08",
+   "unit": 4,
+   "question": "The mixing of potassium permanganate with glycerin is an example of:",
+   "options": [
+    "Explosive chemical incompatibility",
+    "Therapeutic incompatibility",
+    "Physical incompatibility",
+    "Intentional incompatibility"
+   ],
+   "correct": 0,
+   "explanation": "Strong oxidisers react violently with organic reducing substances.",
+   "probability": "high"
+  },
+  {
+   "id": "u4-m09",
+   "unit": 4,
+   "question": "Tetracycline given with antacids leads to reduced effect because of:",
+   "options": [
+    "Eutectic formation",
+    "Effervescence",
+    "Emulsion cracking",
+    "Chelation with metal ions"
+   ],
+   "correct": 3,
+   "explanation": "Calcium, magnesium and aluminium chelate tetracycline and reduce absorption.",
+   "probability": "high"
+  },
+  {
+   "id": "u4-m10",
+   "unit": 4,
+   "question": "Liquefaction of camphor and menthol on mixing is a:",
+   "options": [
+    "Chemical incompatibility",
+    "Therapeutic incompatibility",
+    "Physical incompatibility",
+    "Explosive reaction"
+   ],
+   "correct": 2,
+   "explanation": "No new substance is formed; it is a eutectic.",
+   "probability": "medium"
+  },
+  {
+   "id": "u5-m01",
+   "unit": 5,
+   "question": "The main barrier to drug penetration through the skin is the:",
+   "options": [
+    "Dermis",
+    "Subcutaneous fat",
+    "Stratum corneum",
+    "Sweat glands"
+   ],
+   "correct": 2,
+   "explanation": "Dead keratinised cells in a lipid matrix form the main barrier.",
+   "probability": "high"
+  },
+  {
+   "id": "u5-m02",
+   "unit": 5,
+   "question": "Wool fat (anhydrous lanolin) is classified as a/an:",
+   "options": [
+    "Hydrocarbon base",
+    "Absorption base",
+    "Water-soluble base",
+    "Water-removable O/W base"
+   ],
+   "correct": 1,
+   "explanation": "It absorbs water to form a W/O emulsion.",
+   "probability": "high"
+  },
+  {
+   "id": "u5-m03",
+   "unit": 5,
+   "question": "Polyethylene glycol ointment is an example of a:",
+   "options": [
+    "Water-soluble base",
+    "Hydrocarbon base",
+    "Absorption base",
+    "W/O emulsion base"
+   ],
+   "correct": 0,
+   "explanation": "PEG bases are fat-free and completely water-washable.",
+   "probability": "high"
+  },
+  {
+   "id": "u5-m04",
+   "unit": 5,
+   "question": "In Fick's law of diffusion J = D K ΔC / h, 'h' stands for the:",
+   "options": [
+    "Height of the container",
+    "Heat of solution",
+    "Hydration of the skin",
+    "Thickness of the membrane"
+   ],
+   "correct": 3,
+   "explanation": "Flux falls as membrane thickness increases.",
+   "probability": "medium"
+  },
+  {
+   "id": "u5-m05",
+   "unit": 5,
+   "question": "Carbopol forms a gel when it is:",
+   "options": [
+    "Acidified with hydrochloric acid",
+    "Heated to 100 °C",
+    "Mixed with liquid paraffin",
+    "Neutralised with triethanolamine"
+   ],
+   "correct": 3,
+   "explanation": "Neutralisation ionises and uncoils the polymer, thickening it.",
+   "probability": "medium"
+  },
+  {
+   "id": "u5-m06",
+   "unit": 5,
+   "question": "A paste differs from an ointment because a paste contains:",
+   "options": [
+    "No base at all",
+    "Only water-soluble ingredients",
+    "A high proportion of finely powdered solids",
+    "An emulsifying agent"
+   ],
+   "correct": 2,
+   "explanation": "High solid content makes pastes stiff and absorbent.",
+   "probability": "medium"
+  },
+  {
+   "id": "u5-m07",
+   "unit": 5,
+   "question": "The instrument used to measure the consistency of ointments is the:",
+   "options": [
+    "Stalagmometer",
+    "Cone penetrometer",
+    "Franz diffusion cell",
+    "Pycnometer"
+   ],
+   "correct": 1,
+   "explanation": "The depth a standard cone sinks into the product measures consistency.",
+   "probability": "medium"
+  },
+  {
+   "id": "u5-m08",
+   "unit": 5,
+   "question": "The Franz diffusion cell is used to study:",
+   "options": [
+    "In vitro drug release or permeation from semisolids",
+    "Particle size of suspensions",
+    "Viscosity of syrups",
+    "Melting point of suppositories"
+   ],
+   "correct": 0,
+   "explanation": "Product is placed on a membrane over receptor fluid and samples are analysed.",
+   "probability": "medium"
+  },
+  {
+   "id": "u5-m09",
+   "unit": 5,
+   "question": "In the fusion method of preparing ointments, ingredients are melted:",
+   "options": [
+    "In decreasing order of melting point",
+    "In increasing order of melting point",
+    "All together at 100 °C",
+    "Only after adding the drug"
+   ],
+   "correct": 0,
+   "explanation": "Highest-melting ingredient first, then lower ones, stirring till cool.",
+   "probability": "high"
+  },
+  {
+   "id": "u5-m10",
+   "unit": 5,
+   "question": "Occlusion increases drug penetration through skin mainly by:",
+   "options": [
+    "Destroying sweat glands",
+    "Increasing drug ionisation",
+    "Reducing blood flow",
+    "Increasing hydration of the stratum corneum"
+   ],
+   "correct": 3,
+   "explanation": "Prevented water loss makes the stratum corneum swell and become more permeable.",
+   "probability": "medium"
+  }
+ ]
+}

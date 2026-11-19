@@ -1,0 +1,183 @@
+{
+  "code": "BP103T",
+  "title": "Pharmaceutics I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Mohanlal Sukhadia University), BP103T Pharmaceutics I; BP109P practical list from the same PCI syllabus",
+    "url": "https://mlsu.ac.in/syllabus/pgs/BP103T.pdf"
+  },
+  "practicalCodes": [
+    "BP109P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "History of pharmacy, pharmacopoeias, dosage forms, prescription and posology",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Pharmaceutical calculations, powders and liquid dosage forms",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Monophasic liquids, suspensions and emulsions",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Suppositories and pharmaceutical incompatibilities",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Semisolid dosage forms",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "syrup-ip",
+      "title": "Syrup IP (simple syrup)",
+      "file": "practicals/syrup-ip.md"
+    },
+    {
+      "id": "compound-syrup-ferrous-phosphate",
+      "title": "Compound syrup of ferrous phosphate (BPC)",
+      "file": "practicals/compound-syrup-ferrous-phosphate.md"
+    },
+    {
+      "id": "piperazine-citrate-elixir",
+      "title": "Piperazine citrate elixir",
+      "file": "practicals/piperazine-citrate-elixir.md"
+    },
+    {
+      "id": "paracetamol-paediatric-elixir",
+      "title": "Paracetamol paediatric elixir",
+      "file": "practicals/paracetamol-paediatric-elixir.md"
+    },
+    {
+      "id": "terpin-hydrate-linctus",
+      "title": "Terpin hydrate linctus",
+      "file": "practicals/terpin-hydrate-linctus.md"
+    },
+    {
+      "id": "iodine-throat-paint",
+      "title": "Iodine throat paint (Mandl's paint)",
+      "file": "practicals/iodine-throat-paint.md"
+    },
+    {
+      "id": "strong-ammonium-acetate-solution",
+      "title": "Strong solution of ammonium acetate",
+      "file": "practicals/strong-ammonium-acetate-solution.md"
+    },
+    {
+      "id": "cresol-with-soap-solution",
+      "title": "Cresol with soap solution",
+      "file": "practicals/cresol-with-soap-solution.md"
+    },
+    {
+      "id": "lugols-solution",
+      "title": "Lugol's solution (aqueous iodine solution)",
+      "file": "practicals/lugols-solution.md"
+    },
+    {
+      "id": "calamine-lotion",
+      "title": "Calamine lotion",
+      "file": "practicals/calamine-lotion.md"
+    },
+    {
+      "id": "magnesium-hydroxide-mixture",
+      "title": "Magnesium hydroxide mixture",
+      "file": "practicals/magnesium-hydroxide-mixture.md"
+    },
+    {
+      "id": "aluminium-hydroxide-gel",
+      "title": "Aluminium hydroxide gel",
+      "file": "practicals/aluminium-hydroxide-gel.md"
+    },
+    {
+      "id": "turpentine-liniment",
+      "title": "Turpentine liniment",
+      "file": "practicals/turpentine-liniment.md"
+    },
+    {
+      "id": "liquid-paraffin-emulsion",
+      "title": "Liquid paraffin emulsion",
+      "file": "practicals/liquid-paraffin-emulsion.md"
+    },
+    {
+      "id": "ors-powder",
+      "title": "ORS powder (WHO)",
+      "file": "practicals/ors-powder.md"
+    },
+    {
+      "id": "effervescent-granules",
+      "title": "Effervescent granules",
+      "file": "practicals/effervescent-granules.md"
+    },
+    {
+      "id": "dusting-powder",
+      "title": "Dusting powder (zinc, starch and talc)",
+      "file": "practicals/dusting-powder.md"
+    },
+    {
+      "id": "divided-powders",
+      "title": "Divided powders",
+      "file": "practicals/divided-powders.md"
+    },
+    {
+      "id": "glycero-gelatin-suppository",
+      "title": "Glycero-gelatin suppositories",
+      "file": "practicals/glycero-gelatin-suppository.md"
+    },
+    {
+      "id": "cocoa-butter-suppository",
+      "title": "Cocoa butter suppositories (with displacement value)",
+      "file": "practicals/cocoa-butter-suppository.md"
+    },
+    {
+      "id": "zinc-oxide-suppository",
+      "title": "Zinc oxide suppositories",
+      "file": "practicals/zinc-oxide-suppository.md"
+    },
+    {
+      "id": "sulphur-ointment",
+      "title": "Sulphur ointment",
+      "file": "practicals/sulphur-ointment.md"
+    },
+    {
+      "id": "non-staining-iodine-ointment",
+      "title": "Non-staining iodine ointment with methyl salicylate",
+      "file": "practicals/non-staining-iodine-ointment.md"
+    },
+    {
+      "id": "carbopol-gel",
+      "title": "Carbopol gel",
+      "file": "practicals/carbopol-gel.md"
+    },
+    {
+      "id": "iodine-gargle",
+      "title": "Iodine gargle",
+      "file": "practicals/iodine-gargle.md"
+    },
+    {
+      "id": "chlorhexidine-mouthwash",
+      "title": "Chlorhexidine mouthwash",
+      "file": "practicals/chlorhexidine-mouthwash.md"
+    }
+  ]
+}

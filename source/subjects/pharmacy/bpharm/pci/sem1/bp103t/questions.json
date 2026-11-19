@@ -1,0 +1,500 @@
+{
+ "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+ "questions": [
+  {
+   "id": "u1-l01",
+   "unit": 1,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Define prescription. Draw a model prescription and explain its parts. Describe how a pharmacist should handle a prescription and list the common errors in prescriptions.",
+   "answer": "1. Definition: a written order from a registered medical practitioner to a pharmacist to prepare and dispense a medicine for a named patient, with directions for use.\n2. Model prescription: prescriber's name, qualification, registration number and address at the top; date; patient name, age, sex, weight; Rx; drug, strength and quantity; directions to pharmacist; directions to patient; signature.\n3. Parts: date; patient details; superscription (Rx, from Latin 'recipe' = take thou); inscription (names and quantities of ingredients, main part); subscription (instructions to the pharmacist, dosage form and quantity to supply); signatura (directions to the patient, copied on the label); renewal/refill instructions; prescriber's signature and registration number.\n4. Handling: receive it personally and politely; read and check legality, legibility, doses, incompatibilities and interactions; consult the prescriber about any doubt, never the patient; collect ingredients and check labels three times; weigh and measure accurately; compound one prescription at a time; fill into a suitable container; label with patient name, drug, directions, date, pharmacy name and auxiliary labels; enter in the prescription register; hand over with counselling.\n5. Errors: illegible handwriting; sound-alike or look-alike drug names; decimal errors (.5 mg read as 5 mg, 5.0 mg read as 50 mg); unclear abbreviations (o.d., U); wrong dose, route, frequency or duration; missing age or weight for children; incompatibilities and interactions; missing date, signature or registration number."
+  },
+  {
+   "id": "u1-l02",
+   "unit": 1,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "What is posology? Discuss the factors affecting the dose of a drug. Describe the methods used to calculate paediatric doses with one worked example of each.",
+   "answer": "1. Posology: the branch of pharmacy dealing with doses of drugs (Greek posos = how much). Dose = quantity given at one time to produce the desired effect.\n2. Factors: age (children and elderly need less); body weight and surface area; sex, pregnancy and lactation; route (IV dose smaller than oral); time of administration (empty stomach vs after food); disease state (renal or hepatic failure reduces elimination); tolerance; idiosyncrasy and genetic factors; cumulation (digoxin); drug interactions; emotional and environmental factors; rate of metabolism and excretion.\n3. Age-based rules (adult dose 500 mg): Young's = Age/(Age + 12) × adult dose; 6 years → 6/18 × 500 = 166.7 mg. Dilling's = Age/20 × adult dose; 10 years → 250 mg. Cowling's = age at next birthday/24 × adult dose; next birthday 6 → 125 mg. Fried's (infants) = age in months/150 × adult dose; 6 months → 20 mg.\n4. Weight-based: Clark's = weight (lb)/150 × adult dose; 30 lb → 100 mg; or weight (kg)/70; 20 kg → 142.9 mg. Or mg/kg × body weight.\n5. BSA-based (most accurate): child dose = BSA (m²)/1.73 × adult dose; 0.8 m² → 231.2 mg. BSA by nomogram or Mosteller √(height cm × weight kg/3600).\n6. Note: age rules ignore body size; weight or BSA rules are preferred; check the maximum dose."
+  },
+  {
+   "id": "u1-l03",
+   "unit": 1,
+   "type": "long",
+   "marks": 10,
+   "probability": "medium",
+   "question": "Describe the history of the profession of pharmacy in India with reference to pharmacy education, industry and professional organisations. Add a note on pharmacy as a career.",
+   "answer": "1. Ancient period: Ayurveda (Charaka Samhita, Sushruta Samhita), Unani and Siddha; physician himself prepared medicines.\n2. British period: imported allopathic drugs, chemist shops in port cities, untrained compounders in hospitals, no drug control, adulteration common.\n3. Drugs Enquiry (Chopra) Committee 1930–31 recommended drug legislation and a national pharmacopoeia → Drugs Act 1940 (Drugs and Cosmetics Act) and Rules 1945.\n4. Education: Prof. M. L. Schroff began university pharmacy education at Banaras Hindu University (degree course 1937), called the father of pharmacy education in India; Indian Pharmaceutical Association 1939; Pharmacy Act 1948 created the Pharmacy Council of India (1949), which sets standards for D.Pharm, B.Pharm, Pharm.D and maintains registration through State Councils; later M.Pharm, Ph.D. and Pharm.D programmes.\n5. Industry: Bengal Chemical and Pharmaceutical Works by Acharya P. C. Ray (company 1901) was the first Indian firm; public sector units (HAL, IDPL) and private firms grew; Patents Act 1970 enabled generic manufacture; India is now a major exporter of generics.\n6. Organisations: PCI, CDSCO under DCGI, Indian Pharmacopoeia Commission, IPA, Indian Pharmaceutical Congress Association, AICTE.\n7. Career: community and hospital pharmacy, clinical pharmacy, industry (R&D, production, QC, QA, regulatory affairs, marketing), government (drug inspector, government analyst), teaching and research, clinical research and pharmacovigilance, entrepreneurship."
+  },
+  {
+   "id": "u1-s01",
+   "unit": 1,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Define pharmacopoeia. Write a short note on the Indian Pharmacopoeia.",
+   "answer": "Pharmacopoeia: an official book issued under government authority that lays down standards of identity, purity and strength of drugs and their preparations, with test methods. Indian Pharmacopoeia: first edition 1955 (after the Chopra Committee); later editions 1966, 1985, 1996, 2007, 2010, 2014, 2018 and the current 2022 edition; published by the Indian Pharmacopoeia Commission, Ghaziabad, under the Ministry of Health; it is the legal book of standards under the Drugs and Cosmetics Act; contains general notices, appendices (test methods, reagents) and monographs on drug substances, dosage forms, vaccines, herbal and veterinary products. Each monograph gives definition, description, solubility, identification, tests for purity, assay, storage and labelling."
+  },
+  {
+   "id": "u1-s02",
+   "unit": 1,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Compare the BP, USP and Martindale (Extra Pharmacopoeia).",
+   "answer": "British Pharmacopoeia: first published 1864; now prepared by the BP Commission and published every year; official standards in the UK; includes European Pharmacopoeia monographs. United States Pharmacopeia: first published 1820 by the US Pharmacopeial Convention; now issued with the National Formulary as USP–NF (USP covers drugs and dosage forms, NF covers excipients); official in the USA. Martindale (Extra Pharmacopoeia): first compiled by William Martindale in 1883, now 'Martindale: The Complete Drug Reference'; not an official standard but a reference giving actions, uses, adverse effects, interactions, doses and proprietary names of drugs used worldwide."
+  },
+  {
+   "id": "u1-s03",
+   "unit": 1,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Define dosage form. Why are dosage forms needed? Classify dosage forms with examples.",
+   "answer": "Dosage form: the physical form in which a drug is given, made by combining it with excipients (tablet, syrup, ointment). Needed for: accurate dosing of potent drugs; protection from air, moisture, light and gastric acid; masking taste and odour; controlled or sustained release; site-specific delivery (eye, rectum, skin); convenience for children and unconscious patients; rapid action (injections). Classification by physical state: solids (powders, granules, tablets, capsules, suppositories), semisolids (ointments, creams, pastes, gels), liquids (solutions, syrups, elixirs, suspensions, emulsions, injections), gases (aerosols, inhalations). By route: oral, parenteral, topical, rectal, vaginal, ophthalmic, otic, nasal, inhalation, sublingual."
+  },
+  {
+   "id": "u1-s04",
+   "unit": 1,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Calculate the dose for: (a) a child of 4 years by Young's rule, (b) a child weighing 33 lb by Clark's rule, and (c) a child of BSA 0.6 m², when the adult dose is 250 mg.",
+   "answer": "(a) Young's rule: 4/(4 + 12) × 250 = 4/16 × 250 = 62.5 mg. (b) Clark's rule: 33/150 × 250 = 0.22 × 250 = 55 mg. (c) BSA rule: 0.6/1.73 × 250 = 0.3468 × 250 = 86.7 mg. Write each formula, substitute, and give the answer with its unit."
+  },
+  {
+   "id": "u1-s05",
+   "unit": 1,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "What is a prescription? List the parts of a prescription and give the meaning of ten Latin abbreviations used in prescriptions.",
+   "answer": "Prescription: written order from a registered practitioner to a pharmacist to dispense a medicine for a named patient. Parts: date, patient details, superscription (Rx), inscription, subscription, signatura, renewal, prescriber's signature and registration number. Abbreviations: a.c. before food; p.c. after food; b.d. twice daily; t.d.s. three times daily; q.i.d. four times daily; h.s. at bedtime; stat immediately; p.r.n. when required; s.o.s. if necessary; q.s. quantity sufficient; ad up to; mist. mixture; ung. ointment."
+  },
+  {
+   "id": "u1-s06",
+   "unit": 1,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Explain the body surface area method of calculating a child's dose. Calculate the dose for a child 120 cm tall weighing 25 kg if the adult dose is 500 mg.",
+   "answer": "BSA relates closely to blood volume, metabolic rate and kidney function, so it gives a better estimate than age or weight, and is used for anticancer drugs. Child dose = BSA (m²)/1.73 × adult dose, where 1.73 m² is the average adult BSA. BSA is read from a nomogram or calculated by the Mosteller formula BSA = √(height cm × weight kg/3600). Here BSA = √(120 × 25/3600) = √0.8333 = 0.913 m². Dose = 0.913/1.73 × 500 = 0.5277 × 500 = 263.8 mg (about 264 mg)."
+  },
+  {
+   "id": "u1-v01",
+   "unit": 1,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "high",
+   "question": "State Young's rule and Fried's rule.",
+   "answer": "Young's rule: child dose = Age/(Age + 12) × adult dose (children 1–12 years). Fried's rule: infant dose = age in months/150 × adult dose."
+  },
+  {
+   "id": "u1-v02",
+   "unit": 1,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "medium",
+   "question": "What is meant by superscription and signatura?",
+   "answer": "Superscription is the symbol Rx (Latin 'recipe', take thou) at the start of the prescription. Signatura (Sig.) is the set of directions to the patient, which the pharmacist copies onto the label."
+  },
+  {
+   "id": "u2-l01",
+   "unit": 2,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Define isotonic solution. Explain the freezing point depression method and the sodium chloride equivalent method of adjusting isotonicity, with one numerical example of each.",
+   "answer": "1. Isotonic solutions have the same osmotic pressure as body fluids; they freeze at −0.52 °C like blood and 0.9% w/v NaCl. Hypotonic solutions cause haemolysis; hypertonic cause crenation. Needed for eye drops, nasal drops and injections.\n2. Freezing point method: W = (0.52 − a)/b, where W = g of adjusting substance per 100 ml, a = freezing point depression of the unadjusted drug solution, b = depression by 1% of the adjusting substance (0.576 °C for NaCl).\n3. Example: 100 ml of 2% drug, FPD of 1% drug = 0.10 °C; a = 0.20; W = (0.52 − 0.20)/0.576 = 0.556 g NaCl.\n4. Sodium chloride equivalent (E): weight of NaCl osmotically equal to 1 g drug; E = 17 × L_iso/M (L_iso 1.9 non-electrolyte, 3.4 for 1:1 electrolyte).\n5. NaCl to add per 100 ml = 0.9 − (% drug × E). Example: 1% ephedrine HCl (E 0.30): 0.9 − 0.30 = 0.60 g NaCl per 100 ml.\n6. Molecular weight link: dextrose M 180, E = 17 × 1.9/180 = 0.18; isotonic strength = 0.9/0.18 = 5% w/v.\n7. White–Vincent: V = w × E × 111.1 ml of water makes w g of drug isotonic; 0.3 g ephedrine HCl → 10 ml.\n8. If a ≥ 0.52 the solution is already isotonic or hypertonic and nothing is added."
+  },
+  {
+   "id": "u2-l02",
+   "unit": 2,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "What are powders? Classify them. Discuss the problems in dispensing eutectic, efflorescent and hygroscopic powders. Add a note on effervescent granules and geometric dilution.",
+   "answer": "1. Powders: mixtures of finely divided dry drugs for internal or external use; advantages (fast dissolution, stable, flexible dose) and disadvantages (taste not masked, unsuitable for hygroscopic or volatile drugs, inaccurate bulk dosing).\n2. Classification: bulk powders for internal use (antacid, effervescent) and external use (dusting powders, insufflations, snuffs, dentifrices); divided powders (individually wrapped doses); simple (one drug) and compound (several drugs).\n3. Eutectic mixtures: camphor, menthol, phenol, thymol, chloral hydrate liquefy when mixed (melting point falls below room temperature). Remedies: dispense separately; mix each with light MgO, light MgCO3 or kaolin; or allow to liquefy and absorb on an inert powder.\n4. Efflorescent substances (Glauber's salt, sodium carbonate, alum, citric acid monohydrate) lose water of crystallisation; use the dried/anhydrous form in equivalent amount; airtight packing.\n5. Hygroscopic/deliquescent substances (calcium chloride, potassium carbonate, zinc chloride, potassium citrate) absorb moisture; pack in waxed or foil-lined papers or airtight containers; add absorbent; prepare in dry conditions.\n6. Effervescent granules: drug + citric acid + tartaric acid + sodium bicarbonate in ratio 1:2:3.44 (1 g citric acid needs 1.2 g NaHCO3, 1 g tartaric acid needs 1.12 g); prepared by fusion (water of crystallisation of citric acid binds) or wet granulation with alcohol; dried at low temperature; stored airtight.\n7. Geometric dilution: potent drug triturated with an equal amount of diluent, then diluent equal to the mixture added each time until all is mixed; ensures uniform distribution; triturations (1 in 10) used when the dose is below the weighable amount."
+  },
+  {
+   "id": "u2-l03",
+   "unit": 2,
+   "type": "long",
+   "marks": 10,
+   "probability": "medium",
+   "question": "Explain alligation medial and alligation alternate with examples. Define proof spirit and show how to convert percentage strength of alcohol to degree proof with examples.",
+   "answer": "1. Alligation medial: strength of a mixture = Σ(quantity × strength)/Σ quantity. Example: 50 ml of 95%, 30 ml of 70% and 20 ml of 40% alcohol → (4750 + 2100 + 800)/100 = 76.5% v/v.\n2. Alligation alternate: ratio of two strengths to give a desired strength; subtract diagonally (higher strength gets D − L parts, lower gets H − D parts); water is 0%.\n3. Example: 95% and 40% to give 70% → 30 parts of 95% and 25 parts of 40% (6:5); for 1100 ml, 600 ml + 500 ml; check (57,000 + 20,000)/1100 = 70%.\n4. Example: 950 ml of 70% from 95% → 950 × 70/95 = 700 ml of 95%, made up to volume with water.\n5. Proof spirit: mixture of ethanol and water containing about 57.1% v/v ethanol at 51 °F; British excise standard; stronger = over proof (o.p.), weaker = under proof (u.p.).\n6. Conversion: degree proof = % v/v × 1.753; o.p. = proof − 100; u.p. = 100 − proof; % v/v = proof/1.753.\n7. Examples: 90% v/v → 157.8 proof = 57.8 o.p.; 40% v/v → 70.1 proof = 29.9 u.p.; 60 o.p. = 160 proof = 91.3% v/v.\n8. Dilution: 1000 ml of 60 o.p. to 30 u.p. → final volume 1000 × 160/70 = 2285.7 ml, add 1285.7 ml water. US proof = 2 × % v/v."
+  },
+  {
+   "id": "u2-s01",
+   "unit": 2,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "How many ml of 95% v/v alcohol and of 40% v/v alcohol should be mixed to obtain 550 ml of 70% v/v alcohol?",
+   "answer": "Alligation alternate: 95% gets 70 − 40 = 30 parts; 40% gets 95 − 70 = 25 parts; total 55 parts. 95% alcohol = 30/55 × 550 = 300 ml; 40% alcohol = 25/55 × 550 = 250 ml. Check: (300 × 95 + 250 × 40)/550 = (28,500 + 10,000)/550 = 70%. (Volume contraction ignored.)"
+  },
+  {
+   "id": "u2-s02",
+   "unit": 2,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Define proof spirit. Express (a) 80% v/v alcohol and (b) 30% v/v alcohol in terms of over proof or under proof.",
+   "answer": "Proof spirit is a mixture of ethanol and water containing about 57.1% v/v ethanol at 51 °F; it is 100° proof. Degree proof = % v/v × 1.753. (a) 80 × 1.753 = 140.2° proof → 40.2 o.p. (b) 30 × 1.753 = 52.6° proof → 100 − 52.6 = 47.4 u.p."
+  },
+  {
+   "id": "u2-s03",
+   "unit": 2,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "How much sodium chloride is needed to make 50 ml of a 1% w/v drug solution isotonic? The freezing point depression of a 1% solution of the drug is 0.14 °C.",
+   "answer": "W = (0.52 − a)/b per 100 ml, with a = 0.14 °C (1% drug) and b = 0.576 °C (1% NaCl). W = (0.52 − 0.14)/0.576 = 0.38/0.576 = 0.660 g per 100 ml. For 50 ml: 0.660 × 50/100 = 0.330 g NaCl."
+  },
+  {
+   "id": "u2-s04",
+   "unit": 2,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Write a note on the excipients used in liquid dosage forms.",
+   "answer": "Vehicles and solvents (purified water, ethanol, glycerin, propylene glycol, PEG 400, fixed oils); cosolvents to raise solubility; buffers (citrate, phosphate) to keep pH for stability and comfort; preservatives (methyl and propyl parabens, benzoic acid, sodium benzoate, chlorocresol, benzalkonium chloride); antioxidants (sodium metabisulphite, ascorbic acid, BHA, BHT); chelating agents (disodium edetate); sweeteners (sucrose, sorbitol, saccharin, aspartame); flavours (orange, peppermint, vanilla); permitted colours; viscosity enhancers and suspending agents (methylcellulose, sodium CMC, tragacanth, bentonite); wetting agents (polysorbates); emulsifying agents for emulsions."
+  },
+  {
+   "id": "u2-s05",
+   "unit": 2,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "List and explain the techniques used to enhance the solubility of poorly soluble drugs.",
+   "answer": "pH adjustment (weak acids more soluble at higher pH, weak bases at lower pH); salt formation (sodium phenobarbitone, atropine sulphate); cosolvency with water-miscible solvents (ethanol, propylene glycol, glycerin); complexation (iodine with KI forms soluble triiodide; cyclodextrin inclusion complexes; caffeine with sodium benzoate); micellar solubilisation with surfactants above the CMC (polysorbate 80); hydrotropy with high concentrations of salts such as sodium benzoate or urea; particle size reduction (micronisation, nanosuspensions) to increase dissolution rate; solid dispersions in PEG or PVP; prodrugs (phosphate esters); use of metastable polymorphs or amorphous forms."
+  },
+  {
+   "id": "u2-s06",
+   "unit": 2,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Explain the imperial and metric systems of weights and measures. Convert 7.5 grains to mg and 3 fluid ounces to ml.",
+   "answer": "Metric system is decimal: kg, g, mg, µg; L, ml, µl. Imperial (avoirdupois) and apothecaries' systems: 1 grain = 64.8 mg; 20 grains = 1 scruple; 60 grains = 1 drachm; 480 grains = 1 apothecary ounce (31.1 g); 437.5 grains = 1 avoirdupois ounce (28.35 g); 16 oz = 1 lb (453.6 g). Volume: 60 minims = 1 fluid drachm (3.55 ml); 8 fluid drachms = 1 fluid ounce (28.4 ml); 20 fl oz = 1 pint (568 ml); 8 pints = 1 gallon (4.546 L). Conversions: 7.5 × 64.8 = 486 mg; 3 × 28.4 = 85.2 ml."
+  },
+  {
+   "id": "u2-v01",
+   "unit": 2,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "high",
+   "question": "What is a eutectic mixture? Give two examples.",
+   "answer": "A mixture of two or more substances whose melting point is lower than that of each component, so it liquefies at room temperature. Examples: camphor with menthol; phenol with camphor (also thymol, chloral hydrate)."
+  },
+  {
+   "id": "u2-v02",
+   "unit": 2,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "medium",
+   "question": "How much potassium permanganate is required to prepare 500 ml of a 1 in 2000 solution?",
+   "answer": "1 g in 2000 ml, so for 500 ml: 500/2000 = 0.25 g (250 mg) of potassium permanganate."
+  },
+  {
+   "id": "u3-l01",
+   "unit": 3,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Define suspension. Give its advantages and disadvantages. Differentiate between flocculated and deflocculated suspensions. Discuss the stability problems of suspensions and methods to overcome them.",
+   "answer": "1. Suspension: biphasic preparation of fine insoluble solid particles dispersed in a liquid, usually with a suspending agent.\n2. Advantages: insoluble drugs in liquid form, taste masking, better chemical stability than solutions, sustained release (depot injections), easy for children. Disadvantages: settling and caking, dose uniformity needs shaking, bulky, needs preservative.\n3. Flocculated: particles form loose flocs; settle fast; loose, bulky sediment; easy redispersion; clear supernatant quickly; low zeta potential.\n4. Deflocculated: separate particles; settle slowly; compact sediment forms a hard cake; difficult redispersion; supernatant stays cloudy; high zeta potential.\n5. Stokes' law v = d²(ρs − ρo)g/18η: settling slowed by small particles, low density difference, high viscosity.\n6. Stability problems: sedimentation, caking, crystal growth (Ostwald ripening), polymorphic change, microbial growth, chemical degradation.\n7. Remedies: reduce and narrow particle size; suspending agents to increase viscosity (tragacanth, methylcellulose, sodium CMC, bentonite); controlled flocculation using electrolytes, surfactants or polymers; structured vehicles; density adjustment with sorbitol or glycerin; preservatives; buffers and antioxidants; steady storage temperature.\n8. Evaluation: sedimentation volume F = Vu/Vo, degree of flocculation β = F/F∞, redispersibility, particle size, zeta potential, viscosity."
+  },
+  {
+   "id": "u3-l02",
+   "unit": 3,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Define emulsion. Classify emulsions and emulsifying agents. Describe the tests used to identify the type of emulsion and the methods of preparation.",
+   "answer": "1. Emulsion: biphasic system of two immiscible liquids, one dispersed as globules in the other, stabilised by an emulsifying agent.\n2. Types: O/W (oral, washable creams), W/O (cold creams, oily calamine lotion), multiple (W/O/W, O/W/O), microemulsions.\n3. Emulsifying agents: natural hydrophilic colloids (acacia, tragacanth, gelatin, egg yolk, methylcellulose: O/W); sterol-containing (wool fat, wool alcohols, cholesterol, beeswax: W/O); surfactants: anionic (sodium lauryl sulphate and monovalent soaps O/W; calcium soaps W/O), cationic (cetrimide), non-ionic (polysorbates O/W, sorbitan esters W/O); finely divided solids (bentonite, Mg(OH)2: O/W; carbon black, talc: W/O). HLB 3–6 W/O, 8–18 O/W.\n4. Identification tests: dilution (O/W mixes with water); dye solubility (amaranth colours continuous water phase in O/W; Sudan III colours oil); conductivity (O/W conducts, bulb glows); fluorescence under UV (W/O whole field fluoresces); cobalt chloride paper (turns pink with O/W).\n5. Methods: dry gum (oil + gum, then all water at once; 4:2:1 fixed oil, 3:2:1 mineral oil, 2:2:1 volatile oil; primary emulsion with clicking sound); wet gum (mucilage first, oil added in portions); Forbes bottle method (volatile oils); nascent soap method (calcium soap from oleic acid and lime water → W/O); mechanical methods (homogeniser, colloid mill, ultrasonic)."
+  },
+  {
+   "id": "u3-l03",
+   "unit": 3,
+   "type": "long",
+   "marks": 10,
+   "probability": "medium",
+   "question": "Define and give one example each of gargles, mouthwashes, throat paints, ear drops, nasal drops, enemas, syrups, elixirs, liniments and lotions. Describe the methods of preparing syrups.",
+   "answer": "1. Gargle: aqueous solution for the throat, not swallowed, often diluted with warm water; phenol gargle.\n2. Mouthwash: aqueous solution to clean and deodorise the mouth; chlorhexidine 0.2% mouthwash, compound sodium chloride mouthwash.\n3. Throat paint: viscous glycerin-based liquid applied with a brush; compound iodine paint (Mandl's paint).\n4. Ear drops: liquids instilled in the ear for wax removal or infection; sodium bicarbonate ear drops.\n5. Nasal drops: aqueous, isotonic solutions for the nose, never oily; ephedrine nasal drops.\n6. Enemas: liquids introduced into the rectum, evacuant or retention; soap enema, prednisolone enema.\n7. Syrup: concentrated aqueous sucrose solution; Simple Syrup IP 66.7% w/w.\n8. Elixir: clear sweetened hydroalcoholic liquid; paracetamol paediatric elixir.\n9. Liniment: liquid rubbed into intact skin; turpentine liniment.\n10. Lotion: liquid applied without friction; calamine lotion.\n11. Preparation of syrups: solution with heat (quick, heat-stable ingredients, minimal heating to avoid inversion and caramelisation); agitation without heat (heat-labile, volatile ingredients); percolation (water through a bed of sucrose); addition of medicated liquid (tincture or extract) to syrup. Problems: inversion, crystallisation, fermentation; strain, fill and store in well-closed containers."
+  },
+  {
+   "id": "u3-s01",
+   "unit": 3,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "State Stokes' law. Explain its significance in the formulation of suspensions.",
+   "answer": "v = d²(ρs − ρo)g/18η, where v = settling velocity, d = particle diameter, ρs and ρo = densities of particle and medium, g = gravity, η = viscosity. Significance: settling can be slowed by reducing particle size (v falls with the square of d; halving d gives one quarter the rate), reducing the density difference (sorbitol, glycerin, sucrose in the vehicle), and increasing viscosity with suspending agents. It assumes spherical, dilute, non-interacting particles, so it gives only a guide for real suspensions."
+  },
+  {
+   "id": "u3-s02",
+   "unit": 3,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "List the tests used to identify the type of emulsion and explain any two.",
+   "answer": "Tests: dilution, dye solubility, conductivity, fluorescence, cobalt chloride (filter paper) test. Dilution test: an O/W emulsion mixes readily with water because water is the continuous phase; a W/O emulsion does not. Conductivity test: electrodes connected to a bulb are dipped in the emulsion; O/W conducts and the bulb glows, W/O does not conduct. Dye test: with water-soluble amaranth the continuous phase is coloured in O/W; with oil-soluble Sudan III the globules are coloured in O/W."
+  },
+  {
+   "id": "u3-s03",
+   "unit": 3,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Discuss the stability problems of emulsions and methods to overcome them.",
+   "answer": "Creaming or sedimentation: globules collect at top or bottom; reversible on shaking; reduced by smaller globules (homogenisation), higher viscosity, smaller density difference. Flocculation: loose clusters, reversible. Cracking (coalescence): globules fuse and phases separate permanently; prevented by adequate emulsifier, avoiding incompatible additives (electrolytes, alcohol, oppositely charged surfactants), extremes of heat and freezing, and microbial growth. Phase inversion: O/W changes to W/O; prevent by suitable phase-volume ratio and avoiding substances that alter the emulsifier (calcium salts with sodium soaps). Microbial growth: preservatives such as parabens. Rancidity: antioxidants (BHA, BHT, tocopherol) and well-filled containers."
+  },
+  {
+   "id": "u3-s04",
+   "unit": 3,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Differentiate between liniments and lotions with examples.",
+   "answer": "Liniment: liquid or semi-liquid applied to intact skin with friction; alcoholic or oily vehicle; rubefacient, counter-irritant or analgesic (turpentine oil, methyl salicylate, camphor); never applied to broken skin; examples turpentine liniment, methyl salicylate liniment. Lotion: liquid applied without friction by dabbing; aqueous or hydroalcoholic, often a suspension; cooling, soothing, protective or antipruritic; some may be used on broken skin; example calamine lotion. Both labelled 'For external use only'."
+  },
+  {
+   "id": "u3-s05",
+   "unit": 3,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Explain the dry gum and wet gum methods of preparing emulsions.",
+   "answer": "Dry gum (continental) method: the oil is triturated with powdered acacia in a dry mortar, then the whole of the water for the primary emulsion is added at once and triturated rapidly until a thick white primary emulsion with a clicking sound forms; then diluted with the remaining vehicle. Ratio oil : water : gum is 4:2:1 for fixed oils, 3:2:1 for mineral oil and 2:2:1 for volatile oils. Wet gum (English) method: the gum is first triturated with the water to form a mucilage, then the oil is added in small portions with continuous trituration until the primary emulsion forms; same ratios; slower but suitable for larger batches and viscous oils."
+  },
+  {
+   "id": "u3-s06",
+   "unit": 3,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Define syrup. Write a note on Simple Syrup IP and the problems encountered in syrups.",
+   "answer": "Syrup: concentrated, viscous aqueous solution of sucrose, with or without medicinal or flavouring agents. Simple Syrup IP contains 66.7% w/w sucrose in purified water; it is nearly saturated and self-preserving because its high osmotic pressure draws water from microorganisms; used as a vehicle and sweetener. Problems: inversion of sucrose to glucose and fructose on prolonged heating, especially with acids, causing darkening and fermentation; crystallisation at the neck of the bottle (cap locking) from supersaturation or evaporation; fermentation and mould in dilute syrups, controlled by preservatives and correct concentration."
+  },
+  {
+   "id": "u3-v01",
+   "unit": 3,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "high",
+   "question": "What is sedimentation volume? Give its formula.",
+   "answer": "The ratio of the final (ultimate) volume of sediment to the original volume of the suspension: F = Vu/Vo. A value close to 1 indicates a good suspension."
+  },
+  {
+   "id": "u3-v02",
+   "unit": 3,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "medium",
+   "question": "Why are oily nasal drops avoided?",
+   "answer": "Oil can be inhaled into the lungs and cause lipoid pneumonia, and oils slow the movement of nasal cilia; so nasal drops are aqueous and isotonic."
+  },
+  {
+   "id": "u4-l01",
+   "unit": 4,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Define suppositories. Give their advantages and disadvantages. Classify suppository bases and discuss their merits and demerits.",
+   "answer": "1. Suppository: solid unit dosage form for insertion into rectum, vagina or urethra that melts, softens or dissolves to release the drug for local or systemic action.\n2. Types: rectal (about 1 g child, 2 g adult, torpedo shape), vaginal pessaries (3–8 g), urethral bougies.\n3. Advantages: when oral route is impossible (vomiting, unconsciousness, children); drugs irritant to stomach or destroyed by gastric acid; partial avoidance of first-pass metabolism; local action in haemorrhoids and constipation; no taste.\n4. Disadvantages: poor patient acceptance; erratic absorption; local irritation; melting in hot weather; costly to make.\n5. Ideal base: melts at body temperature or dissolves in body fluids, non-irritant, compatible, stable, contracts on cooling, releases drug readily.\n6. Fatty bases: theobroma oil (melts 30–35 °C, bland; but polymorphic, turns rancid, poor contraction needs lubricant, softens in heat); synthetic hard fats (no polymorphism problem, contract well, stable); emulsified bases.\n7. Water-soluble/miscible bases: glycero-gelatin (gelatin, glycerin, water; good for pessaries; hygroscopic, irritant, needs preservative); polyethylene glycols (dissolve, stable, no refrigeration; may irritate, incompatible with some drugs); soap glycerin.\n8. Surfactant bases also used."
+  },
+  {
+   "id": "u4-l02",
+   "unit": 4,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Describe the methods of preparation of suppositories. Define displacement value and explain how it is determined. Calculate the amount of theobroma oil needed for 12 suppositories each containing 250 mg of a drug of displacement value 2.5 in a 1 g mould.",
+   "answer": "1. Hand rolling: drug mixed with grated base to a plastic mass, rolled into a cylinder and cut; small scale, theobroma oil.\n2. Compression moulding: grated base and drug forced into moulds by pressure; no heat, good for heat-labile and insoluble drugs.\n3. Fusion (pour moulding): calibrate mould with the base; lubricate (soap spirit for theobroma oil, liquid paraffin for glycero-gelatin); melt base gently on a water bath; dissolve or levigate drug; pour near setting point slightly overfilling; cool; trim; remove; wrap and store cool.\n4. Displacement value: parts by weight of drug that displace one part by weight of base.\n5. Determination: weigh 6 plain suppositories (a); prepare 6 with x% drug and weigh (b); drug c = b × x/100; base present = b − c; base displaced = a − (b − c); DV = c/[a − (b − c)]. Example: a = 6.0 g, b = 8.5 g with 40% drug → c = 3.4 g, base 5.1 g, displaced 0.9 g, DV = 3.78.\n6. Numerical: total drug = 12 × 0.25 = 3.0 g; base displaced = 3.0/2.5 = 1.2 g; base needed = 12 × 1 − 1.2 = 10.8 g theobroma oil."
+  },
+  {
+   "id": "u4-l03",
+   "unit": 4,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Define incompatibility. Classify incompatibilities and explain physical, chemical and therapeutic incompatibilities with examples and methods to overcome them.",
+   "answer": "1. Definition: undesirable change when two or more substances are mixed or given together, making the product unacceptable in appearance, stability, safety or effect. Intentional (effervescence, in situ soap) or unintentional.\n2. Physical: no new substance. Insolubility (resinous tinctures in water → add with tragacanth); immiscibility (oils and water → emulsify); liquefaction of eutectics (camphor, menthol, phenol → dispense separately or absorb on light MgO or kaolin); precipitation on solvent change; salting out; adsorption; hygroscopic changes.\n3. Chemical: a reaction forms a new substance. Precipitation (alkaloidal salts with alkalis; tannic acid with alkaloids; sodium phenobarbitone in acid); effervescence (bicarbonate with acids); oxidation (adrenaline, phenols); hydrolysis (aspirin, esters); colour change (iron with tannins); explosive mixtures (potassium permanganate or chlorate with glycerin, sugar, sulphur); chelation (tetracycline with Ca, Mg, Al, Fe). Correction: change order of mixing, dilute, suspending agent, adjust pH, dispense separately, protect from light, release gas before closing.\n4. Therapeutic: undesired effect in the patient. Antagonism (beta-blocker with beta-agonist); toxic synergism (sedatives with alcohol); interference with absorption (tetracycline with antacids or milk); contraindications (aspirin in peptic ulcer); overdose. Corrected only after consulting the prescriber."
+  },
+  {
+   "id": "u4-s01",
+   "unit": 4,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Define displacement value. Calculate the amount of base required to prepare 10 suppositories each containing 300 mg of zinc oxide (displacement value 5) using a 1 g mould.",
+   "answer": "Displacement value is the number of parts by weight of drug that displaces one part by weight of the base (usually theobroma oil). Total zinc oxide = 10 × 0.3 = 3.0 g. Base displaced = 3.0/5 = 0.6 g. Base required = (10 × 1) − 0.6 = 9.4 g theobroma oil. (If 2 extra are made for losses: 12 − 3.6/5 = 11.28 g base with 3.6 g zinc oxide.)"
+  },
+  {
+   "id": "u4-s02",
+   "unit": 4,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Write a note on the evaluation of suppositories.",
+   "answer": "Visual examination for uniform colour, shape, absence of cracks, pits, fat bloom and drug sedimentation (cut lengthwise). Uniformity of weight of 20 suppositories. Content uniformity and assay. Melting range (macro melting range test) for fatty bases. Liquefaction or softening time at 37 °C under load. Breaking (hardness) test: weight needed to break the suppository. Disintegration test at 37 °C (fatty bases about 30 minutes, water-soluble about 60 minutes). Dissolution or drug release testing. Stability on storage (hardness, melting point, appearance)."
+  },
+  {
+   "id": "u4-s03",
+   "unit": 4,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Discuss theobroma oil as a suppository base.",
+   "answer": "Theobroma oil (cocoa butter) is the fat from roasted cocoa seeds, a mixture of triglycerides. Merits: melts at about 30–35 °C, just below body temperature; solid at room temperature; bland, non-irritant, releases drug well. Demerits: polymorphism — heating much above 36 °C and fast cooling gives unstable low-melting crystal forms, so it must be melted gently to a creamy consistency; does not contract much on cooling, so the mould must be lubricated (soap spirit); turns rancid; softens in hot climates; melting point is lowered by some drugs (chloral hydrate); immiscible with body fluids; leakage. Synthetic hard fats overcome most of these drawbacks."
+  },
+  {
+   "id": "u4-s04",
+   "unit": 4,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Write a note on glycero-gelatin and polyethylene glycol suppository bases.",
+   "answer": "Glycero-gelatin base: gelatin, glycerin and water (glycerol suppositories contain about 14% gelatin and 70% glycerol); dissolves slowly in body fluids; suitable for vaginal pessaries and laxative suppositories; drawbacks: hygroscopic (dehydrates mucosa, irritation), supports microbes (preservative needed), longer preparation, must be stored airtight, mould lubricated with liquid paraffin, and the mould holds about 1.2 times its nominal theobroma oil weight. PEG (macrogol) bases: mixtures of PEGs of different molecular weights give required hardness; dissolve rather than melt; stable, no refrigeration, do not support microbes; drawbacks: can irritate mucosa (moisten before insertion), incompatible with some drugs, hygroscopic."
+  },
+  {
+   "id": "u4-s05",
+   "unit": 4,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Explain chemical incompatibility with suitable examples.",
+   "answer": "Chemical incompatibility is a reaction between ingredients that forms a new substance, visible or not. Examples: precipitation of free base from alkaloidal salts by alkalis; tannic acid precipitating alkaloids; sodium phenobarbitone giving free phenobarbitone in acid; effervescence when sodium bicarbonate meets acids (CO2 can burst the bottle); oxidation of adrenaline and phenols; hydrolysis of aspirin and procaine; colour change of iron salts with tannins and salicylates; explosive mixtures of strong oxidisers (potassium permanganate, potassium chlorate) with glycerin, sugar or sulphur; chelation of tetracyclines with calcium, magnesium, aluminium and iron. Correct by changing order of mixing, diluting, adding a suspending agent, adjusting pH, separate dispensing, or (with prescriber's consent) using another salt."
+  },
+  {
+   "id": "u4-s06",
+   "unit": 4,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Explain therapeutic incompatibility with examples. How should a pharmacist deal with it?",
+   "answer": "Therapeutic incompatibility occurs when a combination or dose gives an effect in the patient different from that intended. Examples: antagonism (propranolol with salbutamol; cholinergic with anticholinergic drugs); toxic synergism (sedatives or opioids with alcohol); reduced absorption (tetracycline with antacids, milk or iron); contraindication (aspirin in peptic ulcer; certain drugs in pregnancy); overdose or wrong frequency; duplicate drugs of the same class. Handling: the pharmacist must not change the prescription on his own; he contacts the prescriber, explains the problem, records the change agreed, and counsels the patient."
+  },
+  {
+   "id": "u4-v01",
+   "unit": 4,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "high",
+   "question": "What is the purpose of calibrating a suppository mould?",
+   "answer": "The nominal capacity refers to theobroma oil; calibration with the base actually used (by weighing plain suppositories) gives the true weight each cavity holds, so the amount of base and drug can be calculated correctly."
+  },
+  {
+   "id": "u4-v02",
+   "unit": 4,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "medium",
+   "question": "Give two examples of explosive (fire-risk) incompatibilities.",
+   "answer": "Potassium permanganate with glycerin; potassium chlorate with sulphur, sugar or tannic acid (strong oxidising agents with reducing or organic substances)."
+  },
+  {
+   "id": "u5-l01",
+   "unit": 5,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Define ointments. Classify ointment bases with examples. Discuss the ideal properties of an ointment base and the methods of preparing ointments.",
+   "answer": "1. Ointment: soft, greasy (or water-soluble) semisolid for external application, with drug dissolved or dispersed in a base.\n2. Ideal base: inert, non-irritant, non-sensitising, compatible, stable (no rancidity), releases drug, easy to apply and remove, non-staining, suitable consistency, free from microbes.\n3. Hydrocarbon (oleaginous) bases: soft paraffin, hard paraffin, liquid paraffin, vegetable oils, beeswax; greasy, occlusive, emollient, anhydrous, not washable.\n4. Absorption bases: anhydrous (wool fat, wool alcohols ointment, hydrophilic petrolatum) and W/O emulsion types (hydrous wool fat, cold cream); absorb water, greasy.\n5. Water-removable (O/W) bases: hydrophilic ointment, vanishing cream; washable, non-greasy, absorb exudates.\n6. Water-soluble bases: polyethylene glycol ointment; fat-free, washable, non-occlusive.\n7. Choice of base: dry scaly lesions → greasy occlusive; wet oozing lesions → washable or drying base; stability and release of drug.\n8. Preparation: trituration/incorporation (levigate finely powdered drug with a little base on a tile, add remaining base); fusion (melt ingredients in decreasing order of melting point on a water bath, stir till cool); chemical reaction (non-staining iodine ointment); emulsification (oil and aqueous phases heated to 70–75 °C and mixed, stirred till cool)."
+  },
+  {
+   "id": "u5-l02",
+   "unit": 5,
+   "type": "long",
+   "marks": 10,
+   "probability": "high",
+   "question": "Explain the structure of the skin. Discuss the mechanisms of drug penetration through the skin and the factors influencing dermal penetration.",
+   "answer": "1. Skin layers: stratum corneum (dead keratinised cells in a lipid matrix, 'bricks and mortar', main barrier), viable epidermis, dermis (blood vessels, nerves, hair follicles, sweat and sebaceous glands), subcutaneous fat.\n2. Mechanisms: transepidermal route — intercellular (through lipid channels; main route) and transcellular; transappendageal (shunt) route through hair follicles, sebaceous glands and sweat ducts, small area but important early and for large or ionised molecules.\n3. Passive diffusion obeys Fick's law J = D K ΔC/h.\n4. Drug factors: small molecular size (below about 500), balanced partition coefficient (log P about 1–3), high concentration up to saturation, un-ionised form, low melting point.\n5. Vehicle factors: release of drug from base, occlusion (greasy bases hydrate skin), penetration enhancers (propylene glycol, DMSO, oleic acid, urea, ethanol), pH of vehicle.\n6. Skin factors: hydration, site (thin skin of face and scrotum vs thick palms and soles), damaged or diseased skin, age (infants at risk), blood flow, temperature, skin metabolism.\n7. Application factors: area, amount, rubbing, duration."
+  },
+  {
+   "id": "u5-l03",
+   "unit": 5,
+   "type": "long",
+   "marks": 10,
+   "probability": "medium",
+   "question": "Describe the preparation of pastes, creams and gels. Write a note on the evaluation of semisolid dosage forms.",
+   "answer": "1. Pastes: high proportion of finely powdered solids; stiff, absorbent, protective; prepared by triturating sifted powders with part of the base (often warmed) or liquid paraffin, then adding the rest, or by fusion; examples compound zinc paste, Lassar's paste (zinc oxide, starch, 2% salicylic acid in white soft paraffin).\n2. Creams: semisolid emulsions; O/W vanishing cream (stearic acid partly neutralised to soap) and W/O cold cream (beeswax, liquid paraffin, borax, water); oil phase and aqueous phase heated separately to about 70–75 °C, internal phase added to external with stirring, stirred until cool, perfume added below about 40 °C, homogenised.\n3. Gels: liquid in a gelling-agent network; agents tragacanth, sodium alginate, cellulose derivatives, carbomers, poloxamers, bentonite; carbopol dispersed slowly in water, allowed to swell, neutralised with triethanolamine to pH 6–7 to form clear gel; problems syneresis and microbial growth.\n4. Evaluation: appearance and homogeneity; drug content uniformity; pH; viscosity and rheology (Brookfield); consistency by cone penetrometer; spreadability S = M × L/T; extrudability from tubes; in vitro release with Franz diffusion cell; skin irritation and sensitisation; microbial limits (sterility for eye ointments); minimum fill; stability (phase separation, colour, odour, viscosity, content)."
+  },
+  {
+   "id": "u5-s01",
+   "unit": 5,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "Classify ointment bases with examples and give one advantage and one disadvantage of each class.",
+   "answer": "Hydrocarbon bases (soft paraffin, liquid paraffin, beeswax): occlusive and emollient, but greasy and hard to wash off. Absorption bases — anhydrous (wool fat, hydrophilic petrolatum) and W/O type (hydrous wool fat, cold cream): take up water or aqueous drug solutions, but greasy and wool fat may sensitise. Water-removable O/W bases (hydrophilic ointment, vanishing cream): washable and non-greasy, but less occlusive and need preservatives. Water-soluble bases (PEG ointment): fat-free, non-staining, washable, but non-occlusive and may be incompatible with some drugs."
+  },
+  {
+   "id": "u5-s02",
+   "unit": 5,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "List the factors influencing dermal penetration of drugs.",
+   "answer": "Drug: molecular weight below about 500, balanced partition coefficient (log P about 1–3), concentration and solubility, degree of ionisation, melting point. Vehicle: drug release from base, occlusion, penetration enhancers (propylene glycol, DMSO, oleic acid, urea), pH. Skin: hydration, site and thickness, integrity (damaged skin absorbs more), age, blood flow, temperature, enzymes. Application: area, amount, duration, rubbing. Flux follows Fick's law J = D K ΔC/h."
+  },
+  {
+   "id": "u5-s03",
+   "unit": 5,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Describe the trituration and fusion methods of preparing ointments.",
+   "answer": "Trituration (incorporation): used when the base is soft and the drug is a solid or small amount of liquid; the finely powdered drug is levigated with a small amount of base or liquid paraffin on an ointment slab with a spatula until smooth, then the remaining base is added in portions (geometric dilution); soluble drugs may be dissolved in a little water first. Fusion: used when the base contains hard ingredients (hard paraffin, waxes, wool fat) or the drug dissolves in the molten base; ingredients are melted on a water bath starting with the highest melting point, drugs added, then stirred continuously while cooling to avoid lumps and graininess; overheating is avoided."
+  },
+  {
+   "id": "u5-s04",
+   "unit": 5,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "Write a note on gels and the preparation of a carbopol gel.",
+   "answer": "Gels are semisolids in which a liquid is held in a three-dimensional network of a gelling agent; usually clear and non-greasy. Gelling agents: natural (tragacanth, sodium alginate, pectin, gelatin), cellulose derivatives (methylcellulose, HPMC, sodium CMC), synthetic (carbomers, poloxamers), inorganic (bentonite, aluminium hydroxide). Single-phase and two-phase gels. Carbopol gel: sprinkle carbomer slowly onto water with constant stirring to avoid lumps, allow to swell, add preservative and drug, then neutralise with triethanolamine (or NaOH) to about pH 6–7; ionisation uncoils the polymer and a clear thick gel forms. Problems: syneresis, microbial growth."
+  },
+  {
+   "id": "u5-s05",
+   "unit": 5,
+   "type": "short",
+   "marks": 5,
+   "probability": "medium",
+   "question": "What are excipients used in semisolid dosage forms? Give their functions with examples.",
+   "answer": "Bases (soft paraffin, wool fat, PEGs, emulsifying wax); emulsifying agents (cetostearyl alcohol with sodium lauryl sulphate, polysorbates, sorbitan esters, wool alcohols); stiffening agents (hard paraffin, beeswax, cetyl alcohol); gelling agents (carbomer, HPMC, sodium CMC); neutralisers (triethanolamine); humectants (glycerin, propylene glycol, sorbitol); preservatives (parabens, chlorocresol, phenoxyethanol); antioxidants (BHA, BHT, tocopherol); penetration enhancers (propylene glycol, DMSO, oleic acid, urea); buffers; chelating agents (disodium edetate); perfumes and colours."
+  },
+  {
+   "id": "u5-s06",
+   "unit": 5,
+   "type": "short",
+   "marks": 5,
+   "probability": "high",
+   "question": "How are semisolid dosage forms evaluated? Explain spreadability with a formula.",
+   "answer": "Tests: appearance and homogeneity; drug content uniformity; pH; viscosity with a rotational viscometer; consistency with a cone penetrometer; spreadability; extrudability from tubes; in vitro drug release with a Franz diffusion cell; skin irritation and sensitisation; microbial limits and sterility (eye ointments, plus metal particle test); minimum fill; stability. Spreadability (parallel slide method): the sample is placed between two glass slides and a weight is tied to the upper slide; S = M × L/T, where M is the weight, L the length moved and T the time taken. Example: 50 g, 7.5 cm, 10 s → S = 37.5 g·cm/s; a shorter time means better spreadability."
+  },
+  {
+   "id": "u5-v01",
+   "unit": 5,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "high",
+   "question": "Differentiate between an ointment and a paste.",
+   "answer": "An ointment is a soft, greasy single-phase semisolid with a small amount of solid; a paste contains a high proportion of finely powdered solids, so it is stiffer, less greasy, more absorbent and stays in place."
+  },
+  {
+   "id": "u5-v02",
+   "unit": 5,
+   "type": "very-short",
+   "marks": 2,
+   "probability": "medium",
+   "question": "What is the role of triethanolamine in a carbopol gel?",
+   "answer": "It neutralises the acidic carbomer polymer; the ionised chains uncoil by charge repulsion and the dispersion thickens into a clear gel at about pH 6–7."
+  }
+ ]
+}
