@@ -1,0 +1,128 @@
+{
+  "code": "BP701T",
+  "title": "Instrumental Methods of Analysis",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP701T Instrumental Methods of Analysis and BP705P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP701T_B.Pharma-pages-34.pdf"
+  },
+  "practicalCodes": [
+    "BP705P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "UV-visible spectroscopy and fluorimetry",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "IR spectroscopy, flame photometry, atomic absorption spectroscopy and nepheloturbidimetry",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Column, thin layer and paper chromatography; electrophoresis",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Gas chromatography and HPLC",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Ion exchange, gel and affinity chromatography",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "absorption-maxima-solvent-effect",
+      "title": "Absorption maxima and effect of solvents on the absorption maxima of organic compounds",
+      "file": "practicals/absorption-maxima-solvent-effect.md"
+    },
+    {
+      "id": "dextrose-colorimetry",
+      "title": "Estimation of dextrose by colorimetry",
+      "file": "practicals/dextrose-colorimetry.md"
+    },
+    {
+      "id": "sulfanilamide-colorimetry",
+      "title": "Estimation of sulfanilamide by colorimetry (Bratton–Marshall reaction)",
+      "file": "practicals/sulfanilamide-colorimetry.md"
+    },
+    {
+      "id": "ibuprofen-paracetamol-simultaneous",
+      "title": "Simultaneous estimation of ibuprofen and paracetamol by UV spectroscopy",
+      "file": "practicals/ibuprofen-paracetamol-simultaneous.md"
+    },
+    {
+      "id": "paracetamol-uv-assay",
+      "title": "Assay of paracetamol by UV spectrophotometry",
+      "file": "practicals/paracetamol-uv-assay.md"
+    },
+    {
+      "id": "quinine-fluorimetry",
+      "title": "Estimation of quinine sulfate by fluorimetry",
+      "file": "practicals/quinine-fluorimetry.md"
+    },
+    {
+      "id": "fluorescence-quenching",
+      "title": "Study of quenching of fluorescence",
+      "file": "practicals/fluorescence-quenching.md"
+    },
+    {
+      "id": "sodium-flame-photometry",
+      "title": "Determination of sodium by flame photometry",
+      "file": "practicals/sodium-flame-photometry.md"
+    },
+    {
+      "id": "potassium-flame-photometry",
+      "title": "Determination of potassium by flame photometry",
+      "file": "practicals/potassium-flame-photometry.md"
+    },
+    {
+      "id": "chloride-sulphate-nephelometry",
+      "title": "Determination of chlorides and sulphates by nephelo-turbidimetry",
+      "file": "practicals/chloride-sulphate-nephelometry.md"
+    },
+    {
+      "id": "amino-acids-paper-chromatography",
+      "title": "Separation of amino acids by paper chromatography",
+      "file": "practicals/amino-acids-paper-chromatography.md"
+    },
+    {
+      "id": "sugars-tlc",
+      "title": "Separation of sugars by thin layer chromatography",
+      "file": "practicals/sugars-tlc.md"
+    },
+    {
+      "id": "plant-pigments-column",
+      "title": "Separation of plant pigments by column chromatography",
+      "file": "practicals/plant-pigments-column.md"
+    },
+    {
+      "id": "hplc-demonstration",
+      "title": "Demonstration experiment on HPLC",
+      "file": "practicals/hplc-demonstration.md"
+    },
+    {
+      "id": "gc-demonstration",
+      "title": "Demonstration experiment on gas chromatography",
+      "file": "practicals/gc-demonstration.md"
+    }
+  ]
+}

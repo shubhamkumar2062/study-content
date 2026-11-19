@@ -1,0 +1,732 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The Beer–Lambert law states that absorbance is directly proportional to:",
+      "options": [
+        "Concentration and path length",
+        "Transmittance only",
+        "Wavelength and temperature",
+        "Square of concentration"
+      ],
+      "correct": 0,
+      "explanation": "A = εbc, so absorbance rises linearly with concentration (c) and path length (b).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which transition requires the highest energy?",
+      "options": [
+        "n → π*",
+        "σ → σ*",
+        "π → π*",
+        "n → σ*"
+      ],
+      "correct": 1,
+      "explanation": "σ → σ* needs the largest energy and occurs below 150 nm in the vacuum UV.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "A shift of λmax to a longer wavelength is called:",
+      "options": [
+        "Hypsochromic shift",
+        "Hyperchromic shift",
+        "Bathochromic shift",
+        "Hypochromic shift"
+      ],
+      "correct": 2,
+      "explanation": "Bathochromic means red shift (longer wavelength); hyperchromic is increased intensity.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The source commonly used for the UV region in a spectrophotometer is:",
+      "options": [
+        "Tungsten filament lamp",
+        "Nernst glower",
+        "Hollow cathode lamp",
+        "Deuterium lamp"
+      ],
+      "correct": 3,
+      "explanation": "Deuterium (or hydrogen) discharge lamps give continuous radiation from about 160 to 380 nm.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Cuvettes for measurements at 250 nm must be made of:",
+      "options": [
+        "Quartz or fused silica",
+        "Ordinary glass",
+        "Polystyrene",
+        "Sodium chloride"
+      ],
+      "correct": 0,
+      "explanation": "Glass and most plastics absorb below about 350 nm; quartz is transparent in the UV.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "An auxochrome is best described as a group that:",
+      "options": [
+        "Absorbs strongly in the visible region by itself",
+        "Has lone pairs and shifts the chromophore absorption to longer wavelength",
+        "Contains only σ electrons and no lone pairs",
+        "Always causes a hypsochromic shift"
+      ],
+      "correct": 1,
+      "explanation": "Auxochromes such as –OH and –NH2 conjugate their lone pairs with the chromophore.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "If %T is 10, the absorbance is:",
+      "options": [
+        "0.1",
+        "2.0",
+        "1.0",
+        "0.5"
+      ],
+      "correct": 2,
+      "explanation": "A = 2 − log %T = 2 − 1 = 1.0.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "In a fluorimeter the emitted light is usually measured at an angle of:",
+      "options": [
+        "0° (in line)",
+        "45°",
+        "180°",
+        "90° to the incident beam"
+      ],
+      "correct": 3,
+      "explanation": "Measuring at right angles keeps transmitted exciting light away from the detector.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Phosphorescence results from the transition:",
+      "options": [
+        "T1 → S0",
+        "S1 → S0",
+        "S2 → S1",
+        "S0 → S1"
+      ],
+      "correct": 0,
+      "explanation": "Phosphorescence is spin-forbidden emission from the lowest triplet state, hence slow.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Quinine sulphate fluorescence is quenched by:",
+      "options": [
+        "Sulphate ions",
+        "Chloride ions",
+        "Dilute sulphuric acid",
+        "Distilled water"
+      ],
+      "correct": 1,
+      "explanation": "Halide ions cause collisional quenching; quinine is measured in dilute sulphuric acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The detector with a series of dynodes giving very high gain is the:",
+      "options": [
+        "Photovoltaic cell",
+        "Thermocouple",
+        "Photomultiplier tube",
+        "Golay cell"
+      ],
+      "correct": 2,
+      "explanation": "Each dynode releases several secondary electrons, giving gains of about a million.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "The Vierordt method in UV spectroscopy is used for:",
+      "options": [
+        "Determination of pKa only",
+        "Calibration of wavelength",
+        "Removal of stray light",
+        "Simultaneous estimation of two components"
+      ],
+      "correct": 3,
+      "explanation": "It solves two simultaneous equations from absorbances at two wavelengths.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The number of fundamental vibrational modes of CO2 is:",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "CO2 is linear: 3N − 5 = 9 − 5 = 4.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "A molecular vibration is IR active only if it causes a change in:",
+      "options": [
+        "Polarisability only",
+        "Dipole moment",
+        "Molecular weight",
+        "Spin multiplicity"
+      ],
+      "correct": 1,
+      "explanation": "IR absorption needs an oscillating dipole; the symmetric stretch of CO2 is inactive.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The Golay cell is a detector used in:",
+      "options": [
+        "UV spectroscopy",
+        "Flame photometry",
+        "IR spectroscopy",
+        "HPLC"
+      ],
+      "correct": 2,
+      "explanation": "It is a pneumatic detector in which IR heats xenon gas that bends a mirrored diaphragm.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The Nernst glower is made of:",
+      "options": [
+        "Silicon carbide",
+        "Tungsten wire",
+        "Nichrome wire",
+        "Oxides of rare earth elements such as zirconium and yttrium"
+      ],
+      "correct": 3,
+      "explanation": "The globar is silicon carbide; the Nernst glower is a rare-earth oxide rod.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "In flame photometry sodium is measured at:",
+      "options": [
+        "589 nm",
+        "766 nm",
+        "671 nm",
+        "422 nm"
+      ],
+      "correct": 0,
+      "explanation": "Sodium emits its yellow D line near 589 nm; potassium is measured near 766 nm.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The radiation source in atomic absorption spectroscopy is:",
+      "options": [
+        "Deuterium lamp",
+        "Hollow cathode lamp",
+        "Globar",
+        "Xenon arc lamp"
+      ],
+      "correct": 1,
+      "explanation": "The lamp cathode contains the element to be measured, so it emits the exact resonance line.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Lanthanum chloride is added in AAS determination of calcium to overcome:",
+      "options": [
+        "Ionisation interference",
+        "Spectral interference",
+        "Chemical interference from phosphate",
+        "Viscosity effects"
+      ],
+      "correct": 2,
+      "explanation": "La acts as a releasing agent by binding phosphate preferentially.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Nephelometry measures:",
+      "options": [
+        "Light transmitted through the suspension",
+        "Light emitted by excited atoms",
+        "Light absorbed by ground-state atoms",
+        "Light scattered at 90° by suspended particles"
+      ],
+      "correct": 3,
+      "explanation": "Turbidimetry measures transmitted light; nephelometry measures scattered light.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "A KBr pellet in IR is used for handling:",
+      "options": [
+        "Solid samples",
+        "Gaseous samples",
+        "Volatile liquids",
+        "Aqueous solutions"
+      ],
+      "correct": 0,
+      "explanation": "The solid is ground with dry KBr and pressed into a transparent disc.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "In flame photometry an ionisation suppressor such as caesium is added because it:",
+      "options": [
+        "Forms a coloured complex",
+        "Is easily ionised and supplies electrons that reduce analyte ionisation",
+        "Raises flame temperature",
+        "Acts as a releasing agent for phosphate"
+      ],
+      "correct": 1,
+      "explanation": "Excess electrons from Cs push the analyte ionisation equilibrium back toward atoms.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Rf value is defined as:",
+      "options": [
+        "Distance moved by solvent front / distance moved by solute",
+        "Retention time / dead time",
+        "Distance moved by solute / distance moved by solvent front",
+        "Distance moved by solute / length of plate"
+      ],
+      "correct": 2,
+      "explanation": "Rf is always between 0 and 1.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Silica gel G used for TLC contains a binder of:",
+      "options": [
+        "Starch",
+        "Magnesium oxide",
+        "Sodium chloride",
+        "Calcium sulphate (gypsum)"
+      ],
+      "correct": 3,
+      "explanation": "G stands for gypsum, about 13% calcium sulphate.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The main mechanism of separation in paper chromatography is:",
+      "options": [
+        "Partition",
+        "Adsorption",
+        "Ion exchange",
+        "Size exclusion"
+      ],
+      "correct": 0,
+      "explanation": "Water held by cellulose acts as the stationary liquid phase.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Ninhydrin is used to detect:",
+      "options": [
+        "Alkaloids",
+        "Amino acids",
+        "Sugars",
+        "Steroids"
+      ],
+      "correct": 1,
+      "explanation": "Amino acids give purple spots with ninhydrin on heating; alkaloids are detected with Dragendorff's reagent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Which solvent has the highest eluting power on silica gel?",
+      "options": [
+        "Petroleum ether",
+        "Chloroform",
+        "Methanol",
+        "Benzene"
+      ],
+      "correct": 2,
+      "explanation": "In the eluotropic series methanol is far more polar than the other three.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Chromatography was first described by:",
+      "options": [
+        "Martin and Synge",
+        "Stahl",
+        "James and Martin",
+        "Tswett"
+      ],
+      "correct": 3,
+      "explanation": "Tswett separated plant pigments on a calcium carbonate column in 1906.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "In SDS-PAGE proteins are separated mainly according to their:",
+      "options": [
+        "Molecular weight",
+        "Isoelectric point",
+        "Hydrophobicity",
+        "Optical rotation"
+      ],
+      "correct": 0,
+      "explanation": "SDS gives a uniform charge-to-mass ratio, so the gel sieves by size.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "At its isoelectric point a protein in electrophoresis:",
+      "options": [
+        "Moves to the anode",
+        "Does not move",
+        "Moves to the cathode",
+        "Moves fastest"
+      ],
+      "correct": 1,
+      "explanation": "Net charge is zero at the pI, so there is no electrophoretic migration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Capillary electrophoresis commonly uses capillaries made of:",
+      "options": [
+        "Stainless steel",
+        "Polyethylene",
+        "Fused silica",
+        "Copper"
+      ],
+      "correct": 2,
+      "explanation": "Fused silica capillaries of 25–100 µm internal diameter are standard; their silanols create electro-osmotic flow.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Two-dimensional paper chromatography involves:",
+      "options": [
+        "Using two papers side by side",
+        "Developing twice in the same direction",
+        "Spraying two reagents",
+        "Developing in two solvents at right angles"
+      ],
+      "correct": 3,
+      "explanation": "After the first run the paper is dried, turned 90° and developed in a second solvent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The most widely used detector in gas chromatography is the:",
+      "options": [
+        "Flame ionisation detector",
+        "Refractive index detector",
+        "Fluorescence detector",
+        "Electrochemical detector"
+      ],
+      "correct": 0,
+      "explanation": "FID responds to almost all organic compounds with high sensitivity.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The electron capture detector is especially sensitive to:",
+      "options": [
+        "Hydrocarbons",
+        "Halogenated compounds",
+        "Water",
+        "Carbon dioxide"
+      ],
+      "correct": 1,
+      "explanation": "Electronegative atoms capture electrons from the Ni-63 ionised carrier gas.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The number of theoretical plates N is calculated as:",
+      "options": [
+        "tR/W",
+        "L × H",
+        "16 (tR/W)²",
+        "(tR − t0)/t0"
+      ],
+      "correct": 2,
+      "explanation": "N = 16(tR/W)² using base width, or 5.54(tR/W½)² using half-height width.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "In the van Deemter equation the C term represents:",
+      "options": [
+        "Eddy diffusion",
+        "Longitudinal diffusion",
+        "Column length",
+        "Resistance to mass transfer"
+      ],
+      "correct": 3,
+      "explanation": "C·u grows with flow rate because solutes cannot equilibrate quickly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The most commonly used stationary phase in reversed-phase HPLC is:",
+      "options": [
+        "Octadecylsilane (C18)",
+        "Plain silica",
+        "Alumina",
+        "Cellulose"
+      ],
+      "correct": 0,
+      "explanation": "C18 bonded silica is non-polar; the mobile phase is water with methanol or acetonitrile.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Silylation reagents such as BSTFA are used in GC to:",
+      "options": [
+        "Remove water from the carrier gas",
+        "Make polar compounds volatile and stable",
+        "Coat the column wall",
+        "Ionise compounds in the detector"
+      ],
+      "correct": 1,
+      "explanation": "They replace active hydrogens with trimethylsilyl groups.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "A resolution value considered to give baseline separation is:",
+      "options": [
+        "0.5",
+        "0.8",
+        "1.5",
+        "1.0"
+      ],
+      "correct": 2,
+      "explanation": "Rs of 1.5 or more means the peaks are separated to the baseline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Temperature programming in GC is the counterpart of which technique in HPLC?",
+      "options": [
+        "Isocratic elution",
+        "Guard column",
+        "Loop injection",
+        "Gradient elution"
+      ],
+      "correct": 3,
+      "explanation": "Both change the eluting strength during the run for wide-ranging mixtures.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "A refractive index detector cannot be used with:",
+      "options": [
+        "Gradient elution",
+        "Isocratic elution",
+        "Sugars",
+        "Polymers"
+      ],
+      "correct": 0,
+      "explanation": "Changing mobile-phase composition changes the refractive index of the baseline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The carrier gas preferred with a thermal conductivity detector is:",
+      "options": [
+        "Nitrogen",
+        "Helium",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "correct": 1,
+      "explanation": "Helium has high thermal conductivity, giving a large signal difference for solutes.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The commonest matrix of synthetic ion exchange resins is a copolymer of:",
+      "options": [
+        "Acrylamide and agarose",
+        "Dextran and epichlorohydrin",
+        "Styrene and divinylbenzene",
+        "Cellulose and silica"
+      ],
+      "correct": 2,
+      "explanation": "Divinylbenzene cross-links the polystyrene chains into an insoluble network.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Sulphonic acid groups on a resin make it a:",
+      "options": [
+        "Weak acid cation exchanger",
+        "Strong base anion exchanger",
+        "Weak base anion exchanger",
+        "Strong acid cation exchanger"
+      ],
+      "correct": 3,
+      "explanation": "–SO3H is fully ionised over the whole pH range.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Exchange capacity of an ion exchange resin is expressed in:",
+      "options": [
+        "Milliequivalents per gram",
+        "Millilitres per minute",
+        "Grams per litre",
+        "Moles per kilogram of solvent"
+      ],
+      "correct": 0,
+      "explanation": "Capacity counts exchangeable sites per unit mass or volume of resin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "In gel chromatography the molecules that elute first are the:",
+      "options": [
+        "Smallest molecules",
+        "Largest molecules",
+        "Most polar molecules",
+        "Most charged molecules"
+      ],
+      "correct": 1,
+      "explanation": "Large molecules are excluded from the gel pores and travel through the void volume.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Sephadex is made from cross-linked:",
+      "options": [
+        "Agarose",
+        "Polyacrylamide",
+        "Dextran",
+        "Polystyrene"
+      ],
+      "correct": 2,
+      "explanation": "Sephadex is dextran cross-linked with epichlorohydrin; Bio-Gel P is polyacrylamide.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The substance used to find the void volume of a gel column is:",
+      "options": [
+        "Sodium chloride",
+        "Glucose",
+        "Uracil",
+        "Blue Dextran 2000"
+      ],
+      "correct": 3,
+      "explanation": "Its very large size excludes it from all pores.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Cyanogen bromide is used in affinity chromatography to:",
+      "options": [
+        "Activate agarose for coupling the ligand",
+        "Elute the bound protein",
+        "Stain the separated proteins",
+        "Regenerate ion exchange resins"
+      ],
+      "correct": 0,
+      "explanation": "CNBr-activated agarose reacts with amino groups of the ligand or spacer arm.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Protein A affinity columns are used to purify:",
+      "options": [
+        "DNA fragments",
+        "IgG antibodies",
+        "Sugars",
+        "Inorganic ions"
+      ],
+      "correct": 1,
+      "explanation": "Protein A binds the Fc region of IgG specifically.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A resin with quaternary ammonium groups is a:",
+      "options": [
+        "Weak base anion exchanger",
+        "Strong acid cation exchanger",
+        "Strong base anion exchanger",
+        "Chelating resin"
+      ],
+      "correct": 2,
+      "explanation": "Quaternary ammonium groups stay positively charged at all pH values.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The spacer arm in affinity chromatography serves to:",
+      "options": [
+        "Increase gel pore size",
+        "Neutralise the ligand",
+        "Detect the eluted protein",
+        "Reduce steric hindrance between matrix and target"
+      ],
+      "correct": 3,
+      "explanation": "It holds the ligand away from the bead surface so the target can reach it.",
+      "probability": "low"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State and derive the Beer–Lambert law. Discuss the deviations from Beer's law with examples.",
+      "answer": "1. Statement: when monochromatic light passes through a solution, absorbance is proportional to path length (Lambert) and concentration (Beer): A = log(I0/I) = εbc.\n2. Terms: I0 incident, I transmitted intensity; T = I/I0; A = −log T = 2 − log %T; ε molar absorptivity (L mol⁻¹ cm⁻¹); b path length (cm); c concentration; A(1%, 1 cm) for c in g/100 ml; ε = A(1%, 1 cm) × M/10.\n3. Derivation: for a thin layer db, −dI/I = k c db; integrate from I0 to I and 0 to b: ln(I0/I) = kcb; convert to log: log(I0/I) = (k/2.303)cb = εbc.\n4. Real deviations: concentration above about 0.01 M, interactions between molecules, change of refractive index.\n5. Chemical deviations: association, dissociation, complexation or reaction with solvent; dichromate–chromate equilibrium with pH; benzoic acid dimers; remedy by buffering or measuring at the isosbestic point.\n6. Instrumental deviations: polychromatic radiation, stray light, wide slits, mismatched or dirty cells, detector non-linearity, fluorescence of sample.\n7. Positive vs negative deviation sketch (curve bending up or toward the concentration axis).\n8. Example: ε = 15,000, A = 0.45, b = 1 cm → c = 3.0 × 10⁻⁵ M. Keep A within 0.2–0.8."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the instrumentation of a double-beam UV-visible spectrophotometer with a neat block diagram. Explain the working of the photomultiplier tube.",
+      "answer": "1. Block diagram: source → entrance slit → monochromator → exit slit → beam splitter/chopper → sample and reference cells → detector → amplifier → ratio recorder.\n2. Sources: deuterium/hydrogen lamp 160–380 nm for UV; tungsten-halogen 350–2500 nm for visible; xenon arc for both.\n3. Wavelength selectors: absorption and interference filters (colorimeters); monochromator with prism (quartz for UV, glass for visible) or diffraction grating (linear dispersion); slits control band width.\n4. Cells: matched quartz/fused-silica cuvettes, 1 cm path, for UV; glass for visible only.\n5. Double beam: chopper sends light alternately through reference and sample, so lamp drift and solvent absorbance cancel and the spectrum can be scanned.\n6. Detectors: photovoltaic cell, phototube, PMT, silicon photodiode / diode array.\n7. PMT: evacuated tube with a photocathode and 9–16 dynodes at successively higher potentials (about 100 V steps); a photoelectron strikes dynode 1 and releases several secondary electrons; cascade gives a gain of about 10⁶; anode collects current proportional to light intensity.\n8. PMT features: very sensitive, fast; needs stable high voltage; must not be exposed to strong light when on; dark current.\n9. Readout: amplifier and display or computer giving absorbance or transmittance."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the theory of fluorescence with the help of a Jablonski diagram. Discuss the factors affecting fluorescence and describe the instrumentation of a spectrofluorimeter.",
+      "answer": "1. Photoluminescence: absorption of light followed by emission at a longer wavelength.\n2. States: singlet (all spins paired, multiplicity 1), doublet (one unpaired electron, 2), triplet (two parallel unpaired spins, 3); multiplicity = 2S + 1.\n3. Jablonski diagram: absorption S0 → S1/S2; vibrational relaxation; internal conversion S2 → S1; external conversion by collisions; intersystem crossing S1 → T1; fluorescence S1 → S0 (10⁻⁹–10⁻⁶ s); phosphorescence T1 → S0 (slow).\n4. Stokes shift; quantum yield φ; F = Kφ I0 εbc in dilute solutions.\n5. Factors: conjugation and aromaticity, structural rigidity (fluorescein vs phenolphthalein), substituents (–OH, –NH2 increase; –NO2, –COOH, heavy atoms decrease), pH, temperature, viscosity, dissolved oxygen, concentration (inner filter, self-quenching), solvent, photodecomposition.\n6. Instrument: xenon arc or mercury lamp → excitation monochromator → quartz cell polished on four sides → emission monochromator at 90° → PMT → readout.\n7. Filter fluorimeter vs spectrofluorimeter; reference beam for lamp fluctuations; calibration with quinine sulphate in 0.05 M H2SO4.\n8. Applications: quinine, riboflavin, thiamine as thiochrome, adrenaline, derivatized amino acids, HPLC fluorescence detectors."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the types of electronic transitions in organic molecules with examples.",
+      "answer": "1. σ → σ*: highest energy, below 150 nm (vacuum UV); saturated hydrocarbons; such compounds are good solvents.\n2. n → σ*: 150–250 nm; compounds with lone pairs, e.g. methanol, amines, alkyl halides.\n3. π → π*: alkenes, aromatics; intense (ε above 10⁴ when conjugated, K band); conjugation shifts to longer λ.\n4. n → π*: lowest energy, 270–350 nm; weak (ε below 100, R band); carbonyl and nitro groups.\n5. Energy order: σ → σ* > n → σ* > π → π* > n → π*; diagram of orbital levels."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define chromophore and auxochrome. Explain the different spectral shifts with examples.",
+      "answer": "1. Chromophore: group that absorbs UV/visible light (C=C, C=O, N=N, NO2, aromatic ring).\n2. Auxochrome: saturated group with lone pairs (–OH, –NH2, –OR, –Cl) that does not absorb above 200 nm itself but shifts and intensifies the chromophore band.\n3. Bathochromic (red) shift: to longer λ; conjugation, auxochrome, phenol → phenoxide in alkali.\n4. Hypsochromic (blue) shift: to shorter λ; aniline → anilinium in acid; n → π* in polar solvent.\n5. Hyperchromic: increase in intensity; hypochromic: decrease (steric hindrance in ortho-substituted biphenyls)."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the methods of multicomponent analysis by UV spectrophotometry.",
+      "answer": "1. Principle: absorbances are additive when components do not interact.\n2. Simultaneous equation (Vierordt): A1 = ax1Cx + ay1Cy, A2 = ax2Cx + ay2Cy; Cx = (A2ay1 − A1ay2)/(ax2ay1 − ax1ay2), Cy = (A1ax2 − A2ax1)/(ax2ay1 − ax1ay2); λ1 and λ2 are the λmax of each drug.\n3. Absorbance ratio (Q-value) method using the isosbestic point and λmax of one drug.\n4. Derivative spectroscopy: zero-crossing technique for overlapping bands.\n5. Difference spectrophotometry and geometric correction; example: paracetamol + ibuprofen tablets."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are spectrophotometric titrations? Explain the types of titration curves and their advantages.",
+      "answer": "1. End point found by following absorbance (corrected for dilution) against titrant volume.\n2. Curves: titrant absorbs (flat then rising), analyte absorbs (falling then flat), product absorbs (rising then flat), and combinations; end point at the intersection of the two lines.\n3. Measure at a wavelength where only one species absorbs strongly.\n4. Advantages: dilute and coloured solutions, weak reactions, many readings so precise, no indicator needed.\n5. Examples: Cu²⁺ or Fe³⁺ with EDTA."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is quenching of fluorescence? Explain its types and the Stern–Volmer equation.",
+      "answer": "1. Quenching: any process that lowers fluorescence intensity.\n2. Collisional (dynamic): quencher collides with excited molecule (halides with quinine, oxygen).\n3. Static: non-fluorescent ground-state complex.\n4. Concentration (self) quenching and inner filter effect at high concentration; chemical quenching (pH change, reaction); temperature quenching.\n5. Stern–Volmer: F0/F = 1 + Ksv[Q]; plot F0/F vs [Q] gives slope Ksv; example F0 = 100, F = 80 at 0.01 M → Ksv = 25 M⁻¹.\n6. Uses: estimation of halides, drug–protein binding."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the effect of solvent on the absorption spectra of organic compounds.",
+      "answer": "1. Solvent must dissolve the sample and be transparent (cut-off: water 190 nm, ethanol about 205 nm, chloroform about 245 nm).\n2. π → π*: polar solvent stabilises the more polar excited state → bathochromic shift.\n3. n → π*: hydrogen bonding stabilises lone pairs in the ground state → hypsochromic shift (acetone carbonyl band).\n4. Polar solvents remove fine structure seen in hexane or vapour.\n5. pH changes ionisation and spectrum, so the pharmacopoeia specifies acid or alkali solvents."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define molar absorptivity and specific absorbance A(1%, 1 cm).",
+      "answer": "Molar absorptivity ε is the absorbance of a 1 mol/L solution in a 1 cm cell (L mol⁻¹ cm⁻¹). A(1%, 1 cm) is the absorbance of a 1% w/v solution in a 1 cm cell; ε = A(1%, 1 cm) × M/10."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "A solution transmits 40% of incident light. Calculate its absorbance.",
+      "answer": "A = 2 − log %T = 2 − log 40 = 2 − 1.602 = 0.398."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate fluorescence and phosphorescence.",
+      "answer": "Fluorescence is emission from the excited singlet S1 → S0, very fast (about 10⁻⁹–10⁻⁶ s) and stops when excitation stops; phosphorescence is emission from the triplet T1 → S0, spin-forbidden, slow, lasting 10⁻⁴ s to seconds."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the fundamental modes of vibration in polyatomic molecules. Discuss the factors affecting vibrational frequencies and the sample handling techniques in IR spectroscopy.",
+      "answer": "1. IR absorption needs a change in dipole moment; Hooke's law ν̄ = (1/2πc)√(k/µ).\n2. Degrees of freedom: 3N − 6 vibrational modes (non-linear), 3N − 5 (linear); H2O 3, CO2 4 (symmetric stretch IR inactive).\n3. Stretching: symmetric and asymmetric. Bending: in-plane scissoring and rocking; out-of-plane wagging and twisting (diagram with CH2).\n4. Factors: bond strength and reduced mass; inductive effect raises C=O; conjugation lowers it; hydrogen bonding lowers and broadens O–H; coupled vibrations; Fermi resonance (aldehyde C–H doublet); bond angle and ring strain; field effect; physical state.\n5. Solids: KBr pellet, Nujol mull, solid film; liquids: neat film between NaCl/KBr plates; solutions in CCl4, CS2 in matched cells; gases in 10 cm gas cell; ATR.\n6. Precautions: dry samples, avoid glass and water, salt plates kept in a desiccator."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle, instrumentation, interferences and applications of atomic absorption spectroscopy. How does it differ from flame photometry?",
+      "answer": "1. Principle: ground-state free atoms absorb their own resonance line; A = kc (Beer's law); most atoms in flame are in ground state, so less temperature dependent.\n2. Block diagram: hollow cathode lamp → chopper → atomiser (flame or graphite furnace) → monochromator → PMT → readout.\n3. Hollow cathode lamp: cathode of the analyte metal, Ne/Ar fill, sputtering and excitation give sharp lines; EDL for volatile elements.\n4. Atomisers: laminar flow burner (10 cm slot; air–acetylene or N2O–acetylene); graphite furnace (dry, ash, atomise; ppb); cold vapour (Hg); hydride generation (As, Se).\n5. Interferences: spectral and background (D2 lamp or Zeeman correction), chemical (phosphate with Ca; La/Sr releasing agent, EDTA), ionisation (Cs/K suppressor), physical/matrix (standard addition).\n6. Applications: Pb, Cd, As, Hg impurities; Zn in insulin; Ca, Mg, Cu, Fe, Li; blood lead; catalyst residues.\n7. Differences from flame photometry: absorption vs emission; needs lamp; less flame dependence; about 70 elements vs mainly alkali metals; higher sensitivity."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the principle, instrumentation, interferences and applications of flame photometry.",
+      "answer": "1. Principle: metal atoms in a flame are thermally excited and emit characteristic radiation; intensity ∝ concentration.\n2. Events: nebulisation → desolvation → vaporisation → atomisation → excitation → emission.\n3. Wavelengths: Na 589, K 766, Li 671, Ca 622 nm.\n4. Instrument: nebuliser, burner (total consumption or premix laminar), flame (propane/natural gas–air, acetylene–air), mirror and lens, filter or monochromator, photocell/phototube/PMT, readout.\n5. Interferences: spectral, ionisation (suppressor), chemical (releasing agent), physical/matrix, self-absorption.\n6. Quantitation: calibration curve, standard addition, internal standard (lithium).\n7. Applications: Na and K in serum, ORS, IV fluids, lithium tablets, glass.\n8. Limitations: few elements, interferences, flame stability."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on detectors used in IR spectroscopy.",
+      "answer": "1. Thermocouple: junction of two metals (Bi–Sb), blackened; temperature difference gives voltage; thermopile.\n2. Bolometer: thin blackened Pt or Ni strip; resistance changes with temperature; Wheatstone bridge.\n3. Thermistor: semiconductor metal oxides; large resistance change; more sensitive.\n4. Golay cell: xenon gas chamber with blackened membrane; expansion bends a mirrored diaphragm; reflected light read by photocell.\n5. Pyroelectric: TGS/DTGS crystal; polarisation changes with rate of temperature change; fast, used in FTIR; MCT photoconductive cooled detector."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on IR sources and wavelength selectors.",
+      "answer": "1. Nernst glower: rare-earth oxide rod, 1500–2000 °C, preheating needed.\n2. Globar: silicon carbide rod, about 1300 °C, self-starting.\n3. Nichrome or rhodium wire: low intensity, long life.\n4. Selectors: NaCl, KBr, CsI prisms (hygroscopic, kept dry); diffraction gratings with better resolution.\n5. FTIR: Michelson interferometer with fixed and moving mirrors and beam splitter; fast scanning, better signal-to-noise."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between nephelometry and turbidimetry. Give their applications.",
+      "answer": "1. Both depend on scattering of light by suspended particles (Tyndall effect).\n2. Turbidimetry measures transmitted light in line with the beam; denser suspensions; S = log(I0/I) = kbc; colorimeter can be used.\n3. Nephelometry measures scattered light at 90°; dilute suspensions; Is = Ks·c; needs sensitive detector, fluorimeter can be used.\n4. Conditions: fixed mixing, time, temperature, protective colloid (gelatin, glycerol–ethanol).\n5. Applications: sulphate as BaSO4, chloride as AgCl, clarity of solutions, water turbidity (formazin, NTU), microbiological assay of antibiotics."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the interferences in flame photometry and AAS and how they are overcome.",
+      "answer": "1. Spectral: overlapping lines, flame background; narrow selector, background correction (D2 lamp, Zeeman).\n2. Chemical: refractory compounds (Ca phosphate); releasing agents La/Sr, protective agent EDTA, hotter flame.\n3. Ionisation: easily ionised elements in hot flame; add Cs or K.\n4. Physical/matrix: viscosity, dissolved solids; matrix matching, standard addition, dilution.\n5. Self-absorption in emission at high concentration; work dilute."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the hollow cathode lamp with a diagram.",
+      "answer": "1. Glass cylinder with quartz window filled with Ne or Ar at low pressure.\n2. Cathode: hollow cup made of or lined with the element being determined; anode of tungsten or nickel.\n3. Applied potential ionises the gas; ions strike the cathode and sputter metal atoms.\n4. Collisions excite the metal atoms, which emit the sharp resonance lines of that element.\n5. One lamp per element (or multi-element); sharp lines narrower than the absorption line give sensitivity; electrodeless discharge lamps for As, Se."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Calculate the number of vibrational modes in H2O and CO2.",
+      "answer": "H2O is non-linear: 3N − 6 = 3(3) − 6 = 3. CO2 is linear: 3N − 5 = 3(3) − 5 = 4."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why are KBr and NaCl used for IR sample cells?",
+      "answer": "Alkali halides are transparent to mid-IR radiation, while glass and quartz absorb it; they are hygroscopic, so samples must be dry."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the role of lithium in flame photometry?",
+      "answer": "It is used as an internal standard: a fixed amount is added to all solutions and the ratio of analyte to lithium emission corrects for flame and spray fluctuations."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe thin layer chromatography under the headings principle, methodology, Rf value, advantages, disadvantages and applications.",
+      "answer": "1. Principle: adsorption (and partition) on a thin layer of adsorbent; solvent rises by capillary action.\n2. Plates: silica gel G (gypsum binder), H, F254; alumina, cellulose; layer about 0.25 mm; pouring, spreading, dipping, spraying; pre-coated plates.\n3. Activation at 100–110 °C for 30–60 min.\n4. Spotting 1.5–2 cm above edge with capillary; small spots.\n5. Development in a saturated chamber (filter-paper lined); ascending; mark front.\n6. Detection: UV 254/366 nm, iodine vapour, ninhydrin, Dragendorff, anisaldehyde–H2SO4, charring.\n7. Rf = distance by solute/distance by solvent front; factors affecting Rf; use reference standards; e.g. 4.5/10 = 0.45.\n8. Advantages: fast, cheap, sensitive, corrosive reagents, many samples together.\n9. Disadvantages: mainly qualitative, Rf variability, limited load.\n10. Applications: identity and related-substance tests, reaction monitoring, herbal fingerprinting, amino acids, sugars, lipids; HPTLC, 2D and preparative TLC."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is electrophoresis? Discuss the factors affecting electrophoretic mobility and describe gel and capillary electrophoresis.",
+      "answer": "1. Definition: migration of charged particles in an electric field; mobility µ = v/E = q/(6πηr).\n2. Factors: charge (buffer pH vs pI), size and shape, field strength, buffer pH and ionic strength, temperature, viscosity, supporting medium (adsorption, molecular sieving, electro-osmosis), time.\n3. Gel electrophoresis: agarose for DNA; polyacrylamide (acrylamide + bis-acrylamide, APS, TEMED) with controlled pores; slab or disc.\n4. SDS-PAGE: SDS gives uniform charge/mass, separation by molecular weight; Coomassie or silver stain.\n5. Isoelectric focusing and 2D electrophoresis.\n6. Capillary electrophoresis: fused-silica capillary 25–100 µm, 10–30 kV, electro-osmotic flow, hydrodynamic or electrokinetic injection, on-column UV detection; CZE, MEKC, CGE.\n7. Applications: serum proteins, haemoglobin variants, protein drug purity and MW, DNA analysis, isoenzymes, chiral drugs by CE."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe adsorption column chromatography with respect to methodology, advantages, disadvantages and applications.",
+      "answer": "1. Principle: differential adsorption on a solid packed in a column.\n2. Column: glass tube, length:diameter 10–30:1, glass wool plug.\n3. Adsorbents: alumina, silica gel, MgO, CaCO3, charcoal, starch, sucrose; activity grades; uniform particle size.\n4. Packing: wet (slurry, preferred) and dry methods; avoid air bubbles and cracks.\n5. Sample applied as narrow band in least polar solvent.\n6. Elution: eluotropic series (petroleum ether … methanol, water); isocratic, stepwise, gradient; frontal and displacement analysis.\n7. Detection of bands and fractions (colour, TLC, UV).\n8. Advantages: preparative scale, simple, recovery of components. Disadvantages: slow, solvent-consuming, lower resolution, irreversible adsorption.\n9. Applications: isolation of natural products (alkaloids, pigments), purification of synthetic drugs, separation of isomers."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the different development techniques used in paper chromatography.",
+      "answer": "1. Ascending: solvent at the bottom rises by capillarity; simple.\n2. Descending: solvent trough at the top; flows down by capillarity and gravity; faster, longer runs.\n3. Ascending–descending: paper over a rod.\n4. Radial (circular): spot at centre of disc, wick feeds solvent; components form rings.\n5. Two-dimensional: develop, dry, turn 90°, develop in second solvent; for complex mixtures such as amino acid hydrolysates."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between TLC and paper chromatography.",
+      "answer": "1. Stationary phase: adsorbent layer vs water held in cellulose.\n2. Mechanism: mainly adsorption vs partition.\n3. Time: minutes vs hours.\n4. Spots: compact vs diffuse; TLC more sensitive.\n5. Reagents: corrosive sprays and charring possible on TLC, not on paper; TLC adsorbent can be chosen."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on partition column chromatography.",
+      "answer": "1. Stationary phase is a liquid (water, buffer) held on silica, kieselguhr, Celite or cellulose.\n2. Mobile phase is an immiscible solvent; separation by partition coefficient.\n3. Reversed-phase when the stationary liquid is non-polar.\n4. Introduced by Martin and Synge for amino acids.\n5. Applications: amino acids, steroids, alkaloids, polar compounds poorly separated by adsorption."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the methods of detection (visualisation) used in TLC.",
+      "answer": "1. Visual for coloured compounds.\n2. UV light: 254 nm on F254 plates (dark spots), 366 nm for fluorescent compounds.\n3. Iodine vapour (general, brown spots).\n4. Specific sprays: ninhydrin (amino acids), Dragendorff (alkaloids), FeCl3 (phenols), 2,4-DNP (carbonyls), anisaldehyde–H2SO4 (sugars, terpenes).\n5. Charring with H2SO4 and heat; densitometry for quantitation."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on paper electrophoresis.",
+      "answer": "1. Filter paper strip soaked in buffer with ends in buffer tanks with electrodes.\n2. Sample applied at centre; voltage applied for a set time.\n3. Cations move to cathode, anions to anode; separation by charge/size.\n4. Paper dried and stained (amido black, bromophenol blue, ninhydrin).\n5. Uses: serum proteins (albumin, α1, α2, β, γ), amino acids; cellulose acetate gives better results; limitations: adsorption, electro-osmosis, slow."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Rf value. Calculate Rf if the solvent front moved 12 cm and the spot 3 cm.",
+      "answer": "Rf = distance travelled by solute/distance travelled by solvent front = 3/12 = 0.25."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an eluotropic series?",
+      "answer": "A list of solvents arranged in order of increasing eluting power (polarity) on a polar adsorbent, e.g. petroleum ether < chloroform < ethyl acetate < acetone < methanol < water."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is electro-osmotic flow?",
+      "answer": "Bulk movement of buffer toward the cathode in a capillary or support whose wall is negatively charged (ionised silanol groups), because the attracted cations drag the liquid with them."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the instrumentation of gas chromatography with a block diagram. Explain any three detectors used in GC.",
+      "answer": "1. Block diagram: carrier gas cylinder → two-stage regulator and flow controller → heated injection port → column in oven → detector → amplifier/data system.\n2. Carrier gas: N2, He, H2, Ar; inert, dry, pure; suited to detector.\n3. Injector: microsyringe through septum, port about 50 °C above highest bp; split/splitless; headspace and gas valves.\n4. Columns: packed (1–3 m, 2–4 mm, support coated with liquid) vs capillary (10–100 m, 0.1–0.53 mm, WCOT/SCOT/PLOT); phases polydimethylsiloxane, phenyl methyl siloxane, PEG.\n5. Oven: isothermal or programmed.\n6. FID: H2–air flame ionises organic carbon; ions collected; sensitive, wide range, destructive, no response to water.\n7. TCD: heated filaments in Wheatstone bridge; thermal conductivity change; universal, non-destructive, less sensitive; He or H2 carrier.\n8. ECD: Ni-63 β source; electronegative solutes capture electrons and reduce current; halogens, pesticides.\n9. Others: NPD, FPD, MS."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the instrumentation of HPLC with a block diagram. Add a note on the detectors used.",
+      "answer": "1. Block diagram: solvent reservoirs → degasser → pump (with gradient mixer) → injector → guard column → analytical column (oven) → detector → data system.\n2. Reservoir and filtration (0.45 µm); degassing by helium sparging, vacuum, sonication or in-line degasser.\n3. Pumps: reciprocating piston (most common, pulse damper), syringe, constant-pressure; up to about 400 bar; isocratic or gradient.\n4. Injector: six-port Rheodyne loop valve (20 µl), load and inject positions; autosampler.\n5. Columns: guard column; analytical stainless steel 250 × 4.6 mm, 5 µm C18 (reversed phase) or silica (normal phase); column oven.\n6. Detectors: UV-visible (most common), PDA (peak purity), fluorescence, refractive index (universal, no gradient), electrochemical, conductivity, ELSD, MS.\n7. Data system and system suitability (RSD, tailing, plates, resolution).\n8. Applications: assay, impurities, stability-indicating methods, bioanalysis."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the theory of chromatography with reference to plate theory, rate theory and the parameters used to evaluate a chromatographic separation.",
+      "answer": "1. Retention time, dead time, adjusted retention, retention volume.\n2. Capacity factor k = (tR − t0)/t0; selectivity α = k2/k1.\n3. Plate theory: column as theoretical plates; N = 16(tR/W)² = 5.54(tR/W½)²; HETP = L/N.\n4. Rate theory: van Deemter H = A + B/u + Cu; A eddy diffusion, B longitudinal diffusion, C mass transfer; optimum flow at minimum H (sketch).\n5. Resolution Rs = 2(tR2 − tR1)/(W1 + W2); Rs ≥ 1.5 baseline.\n6. Tailing factor T = W0.05/2f.\n7. Worked example: tR 6.0 min, W 0.40 min → N = 3600; t0 1.2, peaks 4.8 and 6.0 min, widths 0.36 and 0.40 → k1 3.0, k2 4.0, α 1.33, Rs 3.16.\n8. Ways to improve resolution: change mobile phase, smaller particles, longer column, temperature."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is derivatization in GC? Give its purposes and methods.",
+      "answer": "1. Chemical conversion of polar, non-volatile or heat-labile compounds into volatile, stable derivatives.\n2. Purposes: increase volatility and stability, reduce tailing, improve separation (chiral), improve detector response (ECD).\n3. Silylation: BSA, BSTFA, TMCS, HMDS for –OH, –COOH, –NH, –SH (sugars, steroids).\n4. Acylation: acetic or trifluoroacetic anhydride for amines, alcohols.\n5. Alkylation/esterification: diazomethane, BF3–methanol for acids (fatty acid methyl esters); oximes for carbonyls."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is temperature programming in GC? Discuss its advantages.",
+      "answer": "1. Raising the column temperature in a planned way during the run (e.g. 50 °C hold, 10 °C/min to 250 °C).\n2. Needed for mixtures with a wide boiling range; isothermal low temperature gives slow broad late peaks, high temperature crowds early peaks.\n3. Advantages: sharp peaks for all, shorter run, better resolution and detection.\n4. Problems: column bleed and baseline drift, cooling time, flow change with temperature.\n5. Equivalent of gradient elution in HPLC."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare normal phase and reversed phase HPLC.",
+      "answer": "1. Stationary phase: polar silica/cyano/amino vs non-polar C18, C8.\n2. Mobile phase: non-polar (hexane-based) vs polar (water/buffer with methanol or acetonitrile).\n3. Elution order: non-polar first vs polar first.\n4. Increasing polarity of mobile phase decreases retention in normal phase, increases it in reversed phase.\n5. Reversed phase most used for drugs (reproducible, aqueous samples); normal phase for isomers and lipophilic compounds."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on pumps and injectors used in HPLC.",
+      "answer": "1. Pump requirements: pulse-free constant flow, high pressure, inert, wide flow range.\n2. Reciprocating piston pump with check valves and pulse dampers; dual pistons.\n3. Syringe (displacement) pump: pulse-free, limited volume; pneumatic constant-pressure pump.\n4. Rheodyne six-port valve with fixed loop: load at atmospheric pressure, inject into high-pressure stream; reproducible volume.\n5. Autosamplers for unattended runs; gradient by low- or high-pressure mixing."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the advantages, disadvantages and applications of gas chromatography.",
+      "answer": "1. Advantages: high resolution, speed, sensitivity, small samples, precision, GC-MS identification.\n2. Disadvantages: only volatile and thermally stable compounds (or derivatives); destructive detectors; not for salts, proteins.\n3. Applications: residual solvents (headspace), ethanol in tinctures, essential oils, fatty acid methyl esters.\n4. Toxicology, forensic, pesticide residues, steroid testing.\n5. Purity of solvents and intermediates."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Calculate the number of theoretical plates if tR = 6.0 min and peak width at base = 0.40 min.",
+      "answer": "N = 16(tR/W)² = 16(6.0/0.40)² = 16 × 225 = 3600 plates."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define resolution in chromatography.",
+      "answer": "Rs = 2(tR2 − tR1)/(W1 + W2), the separation between two peaks relative to their widths; Rs ≥ 1.5 means baseline separation."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two universal detectors, one for GC and one for HPLC.",
+      "answer": "Thermal conductivity detector (GC) and refractive index detector (HPLC)."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe ion exchange chromatography with reference to classification, ion exchange resins, properties, mechanism, factors affecting and applications.",
+      "answer": "1. Definition: reversible exchange of counter-ions between solution and insoluble exchanger with fixed charged groups; equations for cation and anion exchange.\n2. Classification: natural/synthetic inorganic, synthetic resins, modified cellulose/dextran; strong acid (–SO3H), weak acid (–COOH), strong base (quaternary ammonium), weak base (amine) with examples (Dowex 50, IRC-50, Dowex 1, IR-45).\n3. Resin preparation: styrene–divinylbenzene copolymer; sulphonation or chloromethylation + amination.\n4. Properties: cross-linking, swelling, exchange capacity (meq/g), particle size, selectivity, stability, regeneration.\n5. Mechanism: film diffusion, particle diffusion, exchange, back diffusion; rate-controlling step; selectivity coefficient.\n6. Factors: nature of resin, charge and hydrated size of ions, pH, ionic strength, temperature, solvent, complexing agents, flow rate.\n7. Methodology: conditioning, packing, loading, washing, elution (salt or pH gradient), detection, regeneration.\n8. Applications: DM water and softening, amino acid analysis, rare earths, antibiotic recovery, drug resinates, cholestyramine, ion chromatography."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the theory, instrumentation and applications of gel chromatography and affinity chromatography.",
+      "answer": "1. Gel chromatography: separation by size; large molecules excluded from pores elute first; small enter pores and elute last.\n2. Ve = V0 + Kd·Vi; Kav = (Ve − V0)/(Vt − V0); exclusion limit, fractionation range; Ve linear with log M.\n3. Gels: Sephadex (dextran), Bio-Gel P (polyacrylamide), Sepharose (agarose), Styragel (GPC).\n4. Set-up: swollen gel packed in column, Blue Dextran for V0, small sample, isocratic buffer, UV 280 nm, fraction collector.\n5. Applications: desalting, protein purification, MW determination, polymer MW distribution, aggregates in protein drugs.\n6. Affinity: specific reversible binding of target to ligand coupled to CNBr-activated agarose through a spacer arm.\n7. Ligand pairs: enzyme–inhibitor, antigen–antibody, protein A–IgG, lectin–glycoprotein, Ni-NTA–His tag.\n8. Steps: equilibrate, load, wash, elute (free ligand, pH, salt), regenerate; low-pressure column with UV detector and fraction collector.\n9. Applications: enzymes, monoclonal antibodies, recombinant proteins, mRNA, immunoaffinity clean-up."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the properties of ion exchange resins.",
+      "answer": "1. Cross-linking (% DVB): controls hardness, swelling, pore size, selectivity.\n2. Swelling in water depends on cross-linking, counter-ion and ionic strength.\n3. Exchange capacity in meq/g; determined by converting to H⁺ form, eluting with NaCl and titrating released acid; e.g. 42.5 ml of 0.1 M NaOH for 1.0 g → 4.25 meq/g.\n4. Particle size and shape; selectivity (higher charge, smaller hydrated radius held more).\n5. Chemical, thermal and mechanical stability; regeneration."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the mechanism of the ion exchange process.",
+      "answer": "1. Diffusion of ion through the liquid film to the bead.\n2. Diffusion inside the bead to the exchange site.\n3. Chemical exchange at the fixed group (fast).\n4. Diffusion of the released ion out of the bead and through the film.\n5. Slowest step (film or particle diffusion) controls rate; equilibrium by selectivity coefficient."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the factors affecting ion exchange separation.",
+      "answer": "1. Type of resin and cross-linking.\n2. Charge and hydrated size of ions.\n3. pH: charge of weak exchangers and of amphoteric solutes relative to pI.\n4. Ionic strength of eluent; temperature; solvent.\n5. Complexing agents, flow rate and column size."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on affinity chromatography.",
+      "answer": "1. Principle: specific reversible binding to an immobilised ligand.\n2. Matrix: agarose activated with CNBr; spacer arm (6-aminohexanoic acid) avoids steric hindrance.\n3. Ligands: substrate analogues, antibodies, protein A/G, lectins, Ni-NTA.\n4. Steps: load, wash, elute (specific ligand, pH, salt, chaotropes), regenerate.\n5. Applications and limitations: enzyme and antibody purification; ligand cost and leakage."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the applications of gel chromatography.",
+      "answer": "1. Desalting and buffer exchange (Sephadex G-25).\n2. Purification and fractionation of proteins, enzymes, nucleic acids, viruses.\n3. Molecular weight of proteins from calibration (Ve vs log M).\n4. Molecular weight distribution of polymers by GPC (PEG, povidone, dextran).\n5. Detection of aggregates in protein drugs; separation of free and bound drug."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "In gel chromatography, which molecules are eluted first and why?",
+      "answer": "The largest molecules, because they are excluded from the pores of the gel and travel only through the void volume between the beads."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Calculate Kd if V0 = 30 ml, Vi = 60 ml and Ve = 54 ml.",
+      "answer": "Kd = (Ve − V0)/Vi = (54 − 30)/60 = 0.40."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give one example each of a strong acid cation exchanger and a strong base anion exchanger.",
+      "answer": "Strong acid cation: Dowex 50 or Amberlite IR-120 (–SO3H). Strong base anion: Dowex 1 or Amberlite IRA-400 (quaternary ammonium)."
+    }
+  ]
+}
