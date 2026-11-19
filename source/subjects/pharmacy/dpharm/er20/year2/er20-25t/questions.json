@@ -1,0 +1,977 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight and common patterns in ER-2020 D.Pharm papers. It is not a promise. Long answers here are 5-mark and short answers 3-mark, matching the ER-2020 board pattern.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define hospital pharmacy. Describe its scope and draw the organisational structure of a hospital pharmacy.",
+      "answer": "1. Definition: hospital pharmacy is the department or service of a hospital, run by registered pharmacists, responsible for selection, procurement, storage, preparation, distribution and safe use of medicines and medical supplies for in-patients and out-patients, and for drug information.\n2. Scope: (a) procurement and inventory control; (b) dispensing to OPD and distribution to wards, ICU, OT; (c) bulk compounding, sterile products, IV admixtures, TPN; (d) clinical services – ward rounds, chart review, ADR monitoring, counselling; (e) drug information; (f) committee work – P&T, infection control, antimicrobial stewardship; (g) special services – radiopharmacy, poison information; (h) education and research; (i) quality and safety for NABH/NQAS.\n3. Structure: Governing body → Medical Superintendent → Pharmacy department headed by Chief Pharmacist → sections: purchase and central drug store; OPD dispensing; in-patient/ward supply (satellite pharmacies); compounding and IV admixture; clinical and drug information services.\n4. Staff: chief pharmacist, deputy/senior pharmacists, clinical pharmacists, pharmacists, store keepers, clerical staff and attendants.\n5. The pharmacy is a service department reporting to the medical superintendent and working with medical, nursing and administrative departments."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the professional responsibilities, qualification and job specification of a hospital pharmacist. Add a note on workload requirements.",
+      "answer": "1. Responsibilities: follow the formulary and drug policies; purchase and store quality medicines; dispense correctly with labels and counselling; run an efficient ward distribution system; control NDPS and Schedule H1 drugs; prepare sterile and non-sterile products, IV admixtures and TPN; provide drug information; monitor ADRs and prevent errors; serve on P&T and infection control committees; train staff; keep legal records.\n2. Qualification: D.Pharm or B.Pharm with registration in the State Pharmacy Council (compulsory under the Pharmacy Act, 1948); senior posts need higher degrees and experience as per recruitment rules; clinical pharmacists – Pharm.D or M.Pharm (Pharmacy Practice).\n3. Job specification: written statement of the minimum qualities needed for a post – education, registration, experience, skills (communication, accuracy, computer use), physical fitness, honesty; differs from job description, which lists the duties.\n4. Workload requirements: staffing planned from number of beds and occupancy, OPD prescriptions per day, type of distribution system, 24-hour services and shifts, leave reserve, extra services (compounding, TPN, clinical rounds, DI), and norms such as IPHS and NABH.\n5. Inter-professional relationships with doctors, nurses, laboratory staff, administration and patients are part of the job."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is NABH accreditation? Describe the role of the pharmacist in NABH accreditation of a hospital. Add a short note on NQAS.",
+      "answer": "1. NABH = National Accreditation Board for Hospitals and Healthcare Providers, a constituent board of the Quality Council of India; it accredits hospitals that meet its quality standards (voluntary).\n2. Standards are arranged in chapters; Management of Medication (MOM) is the pharmacy chapter; Hospital Infection Control and Patient Safety and Quality Improvement are related.\n3. Pharmacist's role: (a) prepare and update the formulary with the committee; (b) safe storage – temperature logs, security, separation of LASA and high-risk drugs; (c) check emergency trolleys; (d) ensure prescriptions are legible, dated, signed, without unsafe abbreviations; (e) dispense after pharmacist check with labels and FEFO; (f) identify and handle high-alert drugs; (g) ADR and medication error reporting, analysis and presentation at quality meetings; (h) policies on narcotics, recall, expired drugs, patients' own medicines; (i) write SOPs and train staff; (j) take part in audits and indicators.\n4. NQAS = National Quality Assurance Standards for public health facilities, developed by NHSRC under MoHFW; facilities assessed in eight areas of concern: service provision, patient rights, inputs, support services, clinical services, infection control, quality management and outcome.\n5. Pharmacist in NQAS: no stock-outs of essential drugs, cold chain, FEFO, records, counselling, help in audits."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on Good Pharmacy Practice (GPP) in a hospital.",
+      "answer": "1. GPP = pharmacy practice that meets the needs of people using pharmaceutical services by providing optimal, evidence-based care (joint FIP/WHO guidelines).\n2. Four roles: (a) prepare, obtain, store, distribute, dispense and dispose of medical products; (b) effective medication therapy management; (c) maintain and improve professional performance; (d) improve the health system and public health.\n3. In hospitals: patient's welfare first; quality-assured medicines; clean, secure, temperature-controlled storage; written SOPs; every order checked before dispensing; ADRs and errors reported; continuing education."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a short note on the FIP Basel Statements.",
+      "answer": "1. Statements on the future of hospital pharmacy agreed at an FIP global conference in Basel, Switzerland in 2008 and revised in 2014.\n2. Grouped as overarching statements plus six themes: procurement; influences on prescribing; preparation and delivery; administration; monitoring of medicines use; human resources, training and development.\n3. They describe ideal hospital pharmacy practice – pharmacist involvement in procurement and formulary, safe compounding and unit-dose supply, support to safe administration, ADR and error monitoring, and enough trained staff – so that the patient receives the right medicine, dose, route and time with correct information and documentation."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between job description and job specification.",
+      "answer": "Job description: describes the job – duties, responsibilities, reporting line, working hours; used for work allotment and appraisal.\nJob specification: describes the person required – qualification, registration, experience, skills, attitude and physical fitness; used for recruitment and selection.\nExample: job description of a ward pharmacist lists daily supply, chart review and counselling; job specification states D.Pharm/B.Pharm, state registration and two years' experience."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Explain inter-professional relationships of a hospital pharmacist.",
+      "answer": "1. With doctors – advice on drug choice, dose, interactions, formulary alternatives; P&T Committee work.\n2. With nurses – ward supply, storage on wards, administration technique, IV compatibility, error reporting.\n3. With laboratory staff – drug levels and culture reports for dose and antibiotic choice.\n4. With administration – budget, purchase, staffing.\n5. With patients – counselling and follow-up.\nBased on mutual respect, clear communication, shared goal of patient safety and documented recommendations."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define hospital pharmacy.",
+      "answer": "Hospital pharmacy is the department of a hospital, under registered pharmacists, responsible for selection, procurement, storage, preparation, distribution and safe use of medicines and medical supplies, and for drug information to staff and patients."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Expand NABH and NQAS.",
+      "answer": "NABH – National Accreditation Board for Hospitals and Healthcare Providers (a board of the Quality Council of India). NQAS – National Quality Assurance Standards (for public health facilities, developed by NHSRC)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define Pharmacy and Therapeutics Committee. Write its objectives, composition and functions.",
+      "answer": "1. Definition: an advisory and policy-making body of physicians, pharmacists, nurses and administrators that acts as the link between the medical staff and the pharmacy and decides all matters on selection and use of drugs in the hospital.\n2. Objectives: (a) advisory – advise staff and administration on drugs; (b) educational – keep staff up to date; (c) drug policy – develop formulary and drug-use policies; (d) promote rational, safe and economical drug use.\n3. Composition: chairperson – senior physician or medical superintendent; members – heads of major clinical departments; secretary – chief pharmacist; nursing superintendent; administrator/finance officer; microbiologist and clinical pharmacologist/clinical pharmacist as needed; meets regularly (every 2–3 months), minutes kept.\n4. Functions: prepare and revise hospital formulary; evaluate new drug requests; frame policies – generic substitution, non-formulary drugs, medical representatives and samples, investigational drugs, automatic stop orders, patients' own drugs; monitor ADRs and medication errors; drug use evaluation; antibiotic policy and standard treatment guidelines; approve emergency drug lists; education through bulletins; advise on purchase and quality."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define hospital formulary. Describe its contents and the procedure for its development and use.",
+      "answer": "1. Definition: a continually revised list of drugs approved for use in the hospital by the P&T Committee, with important information on each, reflecting current clinical judgement of the medical staff.\n2. Contents: title and introduction with committee members; hospital policies and procedures (formulary policy, non-formulary request, prescription rules, stop orders, narcotic rules, ADR reporting); drug listing by therapeutic category – generic name, brands, dosage forms and strengths stocked, dose, indications, contraindications, ADRs, interactions, special notes; special information – interaction tables, IV compatibility, renal doses, antidotes, lab values, abbreviations; indexes.\n3. Development: committee decides → pharmacist lists drugs in use with consumption and cost → grouped by therapeutic class → departments review → selection on efficacy, safety, need, total cost, NLEM, no duplication → pharmacist writes monographs → draft circulated → approval → printing/electronic distribution → regular (yearly) revision.\n4. Use: prescribing from it; non-formulary drugs only on justified request; purchase limited to formulary items; reference for nurses and pharmacists; generic substitution; training.\n5. Advantages: rational and cheaper therapy, smaller inventory, better purchase terms; limitation: needs regular updating."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the Infection Control Committee. Discuss the role of the pharmacist in preventing antimicrobial resistance.",
+      "answer": "1. Infection Control Committee: multidisciplinary committee that plans, carries out and monitors the programme to prevent hospital-acquired infections (infections appearing usually 48 h or more after admission).\n2. Composition: medical superintendent or senior clinician (chair), microbiologist (often secretary), infection control nurses, heads of medicine, surgery, paediatrics, ICU, OT, chief pharmacist, nursing superintendent, CSSD, housekeeping, engineering.\n3. Functions: policies on hand hygiene, isolation, sterilisation and disinfection, bio-medical waste; surveillance and outbreak investigation; antibiotic policy and antibiogram; choice and dilution of disinfectants; staff training and vaccination; needle-stick policy.\n4. AMR: survival of microbes despite antimicrobials; caused by unnecessary or wrong antibiotic use, OTC sale, poor infection control, poor adherence.\n5. Pharmacist's role: prepare antibiotic policy; restricted (reserve) antibiotics only with approval; review every antibiotic order (indication, dose, duration, renal adjustment); antimicrobial stewardship – de-escalation, IV-to-oral switch, stop unnecessary combinations; automatic stop orders; monitor consumption (DDD per 100 bed-days); no sale without prescription, Schedule H1 register; counsel patients to complete course; educate staff; AWaRe classification (Access, Watch, Reserve)."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "List the criteria for selection of a drug for inclusion in the hospital formulary.",
+      "answer": "1. Proven efficacy and safety from good evidence.\n2. Real therapeutic need – not a duplicate of a listed drug.\n3. Total cost of treatment, not only unit price.\n4. Availability of quality-assured products from reliable suppliers.\n5. Preference to drugs in the National List of Essential Medicines.\n6. Convenient dosage forms for hospital use; stability and storage needs.\nA drug profile (monograph) is prepared by the pharmacist for the committee."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is a drug profile (monograph) for inclusion in a hospital formulary?",
+      "answer": "A written summary prepared by the pharmacist for the P&T Committee when a new drug is requested. It contains generic and brand names, pharmacology, approved indications, comparison with existing formulary drugs, dose and dosage forms, adverse effects, contraindications and interactions, cost comparison and a recommendation – add, add with restrictions, or reject."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the advantages and limitations of a hospital formulary system.",
+      "answer": "Advantages: rational and safe prescribing; avoids duplication; smaller inventory and less money blocked; bulk purchase at better prices; quick reference for staff; supports generic substitution; useful in training.\nLimitations: may restrict prescriber freedom; needs regular revision; may delay access to new drugs; depends on active committee work."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a short note on the WHO AWaRe classification of antibiotics.",
+      "answer": "WHO groups antibiotics to guide stewardship: (1) Access – first-choice drugs with lower resistance potential, e.g., amoxicillin; (2) Watch – higher resistance potential, use for specific indications, e.g., ceftriaxone, azithromycin, meropenem; (3) Reserve – last-resort drugs for multi-drug-resistant infections, e.g., colistin, linezolid, tigecycline. Hospitals use it to restrict Reserve drugs and monitor Watch drugs."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who is the secretary of the Pharmacy and Therapeutics Committee and what is his/her role?",
+      "answer": "The chief pharmacist. He/she prepares the agenda, collects drug use and cost data, prepares drug monographs and the formulary, records and circulates the minutes, and implements decisions."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an automatic stop order?",
+      "answer": "A hospital policy under which certain drugs (for example antibiotics, opioids, anticoagulants) are automatically stopped after a set number of days unless the prescriber re-orders them, to prevent unnecessary prolonged use."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the tender system of drug purchase. Add a note on e-tender and quotation methods.",
+      "answer": "1. Tender: formal written invitation to suppliers to quote prices for specified items under stated conditions; the contract goes to the lowest acceptable qualified bidder (L1).\n2. Types: open (advertised) tender; limited tender (registered suppliers only); single tender (only one source).\n3. Steps: prepare list with specifications (generic name, strength, IP/BP standard, pack, shelf life on delivery) and quantity → tender notice with last date → bidders submit EMD, technical bid and price bid separately (two-bid system) → technical bids opened (licences, GMP certificate, turnover, non-conviction, quality reports) → price bids of qualified firms opened → comparative statement → purchase committee approves L1 → rate/supply contract and performance security; EMD of others returned → purchase orders, receipt, quality check, payment.\n4. E-tender: same process online through CPPP, state portals or GeM; transparent, wider participation, less paperwork, faster; needs internet, digital signatures, trained staff.\n5. Quotation method: for small or urgent buys; quotations from at least three suppliers, comparative statement, order to lowest acceptable rate; quicker but less competitive."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is Economic Order Quantity? Derive its use with a numerical example and explain reorder level and safety stock.",
+      "answer": "1. EOQ = the order size at which the total of annual ordering cost and carrying cost is minimum; EOQ = √(2DS/H), D = annual demand, S = cost per order, H = carrying cost per unit per year.\n2. Example: D = 3,600 vials, S = Rs 200, H = Rs 4 → EOQ = √(2 × 3600 × 200 / 4) = √360,000 = 600 vials; 6 orders a year; ordering cost 6 × 200 = Rs 1,200; average stock 300 × 4 = Rs 1,200 carrying cost; total Rs 2,400 (minimum; equal ordering and carrying costs).\n3. Lead time = time from order to receipt. Safety stock = (maximum daily use − normal daily use) × lead time.\n4. Reorder level = normal daily use × lead time + safety stock. Example: normal use 50/day, maximum 70/day, lead time 10 days → safety stock (70 − 50) × 10 = 200; ROL = 500 + 200 = 700 units.\n5. Maximum stock = ROL + ROQ − (minimum use × minimum lead time); limitations of EOQ – assumes steady demand and price."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain ABC and VED analysis with an example. What is the ABC–VED matrix?",
+      "answer": "1. ABC analysis: items classified by annual consumption value (quantity × unit cost) – A ≈ 10–20% of items, ≈ 70% of value (strict control); B ≈ 20–30% items, ≈ 20% value (moderate); C ≈ 60–70% items, ≈ 10% value (simple control).\n2. Steps: list items → annual value → arrange descending → cumulative % of value and items → cut-off.\n3. Example: of 14 items worth Rs 30 lakh, meropenem, albumin and insulin (3 items, 21%) used 66.7% of money – class A; next 4 items 22.7% – B; remaining 7 items 10.7% – C.\n4. VED: by criticality – Vital (life-saving, never out of stock: adrenaline, insulin, ASV), Essential (short stock-out tolerable: most antibiotics), Desirable (little harm if absent: vitamins, tonics).\n5. ABC–VED matrix: category I – AV, AE, AD, BV, CV (top management attention); category II – BE, CE, BD; category III – CD (least control). E.g., meropenem in ICU = AV (I); vitamin B-complex = CD (III).\n6. Other analyses: FSN (fast, slow, non-moving), SDE (scarce, difficult, easy), HML (high, medium, low unit cost)."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Calculate inventory turnover: drugs worth Rs 60 lakh were consumed in a year; opening stock Rs 8 lakh, closing stock Rs 12 lakh. Interpret the result.",
+      "answer": "Average inventory = (8 + 12)/2 = Rs 10 lakh. Inventory turnover = consumption ÷ average inventory = 60 ÷ 10 = 6 times a year. Days of stock = 365 ÷ 6 ≈ 61 days. Interpretation: on average about two months' stock is held; a higher turnover means less money blocked, a very low turnover means overstocking and expiry risk."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What are high-alert medications? Give examples and the precautions taken.",
+      "answer": "High-alert medications are drugs with higher risk of serious harm when used wrongly. Examples: concentrated potassium chloride, hypertonic saline, insulin, heparin and warfarin, opioids, neuromuscular blockers, cytotoxic drugs, inotropes, IV oxytocin, magnesium sulfate injection.\nPrecautions: separate storage with red 'High Alert' labels; concentrated KCl not kept on wards; independent double check before administration; standard concentrations; limited access; staff training."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a short note on Schedule H1 drugs.",
+      "answer": "1. Schedule H1 of the Drugs Rules covers certain higher antibiotics, anti-TB drugs and some habit-forming drugs.\n2. Sold only on prescription of a registered medical practitioner.\n3. Label: symbol Rx in red and a boxed warning in red that the drug is dangerous to take except under medical advice and is not to be sold without prescription.\n4. A separate register records prescriber's name and address, patient's name, drug and quantity supplied; kept for three years.\n5. Aims to curb antimicrobial resistance and misuse."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between short-term and long-term purchase of drugs in a hospital.",
+      "answer": "Short-term (local/emergency) purchase: small quantities for urgent needs or items not covered by contract; bought on quotations from local suppliers; quick but costlier per unit and less quality control.\nLong-term (annual) purchase: whole year's requirement estimated; bought by tender or rate contract; better price and quality assurance; deliveries staggered; needs planning and storage."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the formula for EOQ.",
+      "answer": "EOQ = √(2DS/H), where D = annual demand, S = ordering cost per order and H = carrying cost per unit per year."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is VED analysis?",
+      "answer": "Classification of inventory items by their criticality to patient care into Vital (life-saving, must never be out of stock), Essential (short stock-out tolerable) and Desirable (little harm if not available)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the inventory management of the central drug store with respect to storage conditions, methods of storage and distribution.",
+      "answer": "1. Central drug store: main storage point for receipt, checking, storage and issue of medicines and supplies; ground floor near loading bay; one-way flow receive → check → quarantine → store → issue.\n2. Storage conditions: as per label/IP – freezer about −25 to −10 °C, refrigerator 2–8 °C, cool place 8–25 °C, protect from light and moisture; temperature and humidity logged twice daily; racks off the floor and away from walls; heavy items low.\n3. Separate areas: NDPS (double lock), Schedule H1 and high-alert, inflammables, corrosives, external preparations, LASA kept apart, expired/rejected/recalled segregated; pest control; restricted access.\n4. Methods of storage: alphabetical by generic name; pharmacological/therapeutic class; dosage form; frequency of use; manufacturer; bin-coded locations – usually a combination (dosage form, then alphabetical) with bin cards.\n5. Distribution: indents from wards/sub-stores on fixed days → pharmacist checks quantities → items picked by FEFO → issue voucher signed → records updated; special indents for NDPS and H1 drugs."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is cold chain? Describe the devices used for cold storage and the precautions in maintaining the cold chain.",
+      "answer": "1. Cold chain: system of people, equipment and procedures keeping temperature-sensitive products (vaccines, insulin, biologicals, oxytocin) within the recommended range, usually +2 to +8 °C, from manufacturer to patient.\n2. Importance: heat damage is cumulative and irreversible; freezing destroys freeze-sensitive vaccines (HepB, pentavalent, DPT, Td, IPV, PCV); damaged vaccine looks normal.\n3. Devices: pharmacy refrigerator (2–8 °C); ice-lined refrigerator (top-opening, ice lining holds 2–8 °C during long power cuts; freeze-sensitive vaccines kept in the upper basket); deep freezer (about −15 to −25 °C for ice packs and freezable vaccines); walk-in cooler (2–8 °C bulk) and walk-in freezer (about −15 to −25 °C) at state/regional stores; cold boxes and vaccine carriers with conditioned ice packs for transport.\n4. Precautions: thermometer or data logger in each unit, temperature recorded twice daily; minimal door opening; no food; unit away from wall and sunlight; conditioned ice packs; check VVM (inner square lighter than circle = usable); shake test if freezing suspected; contingency plan for power failure; FEFO."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the procedure for removal, handling and disposal of expired drugs in a hospital, including narcotics and cytotoxic drugs.",
+      "answer": "1. Monthly expiry check; near-expiry list (e.g., next 3 months) circulated for use or transfer; return to supplier where contract permits replacement.\n2. Expired items removed immediately, marked 'Expired – not for use', kept in separate locked area, entered in expired drugs register (name, batch, quantity, value, expiry).\n3. Condemnation committee approves write-off; disposal as per Bio-Medical Waste Management Rules, 2016 – discarded/expired medicines are yellow category; returned to manufacturer or sent to common bio-medical waste treatment facility for incineration; aerosols not burned; no antibiotics or cytotoxics into drains.\n4. Narcotics: remain locked and recorded until destroyed by a committee in the manner allowed under the NDPS Act and state rules; destruction certificate signed; NDPS register closed; partly used ampoules discarded with a witness, both sign; empty ampoules returned.\n5. Cytotoxic drugs: yellow bags/containers labelled 'Cytotoxic'; returned to manufacturer or incinerated above 1200 °C; handlers wear gloves, gown, mask, eye protection; spill kit available."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate FIFO and FEFO methods with an example.",
+      "answer": "FIFO (first in, first out): stock received first is issued first – based on date of receipt.\nFEFO (first expiry, first out): stock with the earliest expiry is issued first, whatever the date of receipt – preferred for medicines.\nExample: batch A received in January expires next year; batch B received in March expires next June – FIFO issues A first, FEFO issues B first, avoiding expiry. New stock is placed behind old stock with expiry written boldly."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "List the documents maintained for purchase and inventory in a hospital pharmacy.",
+      "answer": "Purchase: requirement/indent, tender papers and comparative statement, supply/rate contract, purchase order, delivery challan and invoice, goods received note, quality test reports, payment records.\nInventory: stock register/ledger (with batch and expiry), bin cards, indent book and issue vouchers, NDPS register, Schedule H1 register, expiry register, cold chain temperature log, physical stock verification report, condemnation register."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is an ice-lined refrigerator (ILR)? How are vaccines stored in it?",
+      "answer": "ILR is a top-opening refrigerator with a lining of water-filled tubes or ice packs around the cabinet; the ice keeps the inside at +2 to +8 °C during long power cuts. Used at hospitals and PHCs for vaccines. Vaccines are kept in the baskets provided; freeze-sensitive vaccines (HepB, pentavalent, DPT, Td, IPV) in the upper part away from the cold walls; temperature recorded twice daily with a thermometer; door opened as little as possible."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is a vaccine vial monitor (VVM)? How is it read?",
+      "answer": "A heat-sensitive label on a vaccine vial that darkens with cumulative heat exposure. Reading: if the inner square is lighter than the outer circle, the vaccine can be used (if not expired); if the square matches or is darker than the circle, the vaccine has had too much heat and must be discarded. VVM does not show freezing damage – for that the shake test is used."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the temperature range for the cold chain?",
+      "answer": "+2 °C to +8 °C for most vaccines and refrigerated medicines; freezers (for ice packs and freezable vaccines) are kept at about −15 to −25 °C."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name four freeze-sensitive vaccines.",
+      "answer": "Hepatitis B, pentavalent, DPT, Td/TT, IPV and pneumococcal conjugate vaccine (any four)."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define unit dose drug distribution system. Describe its procedure, advantages and disadvantages.",
+      "answer": "1. Unit dose = single dose packed and labelled ready to administer. Unit dose drug distribution = pharmacist-coordinated system in which medicines are dispensed in unit-dose packages ready to administer and not more than 24 hours' supply is on the ward at any time.\n2. Procedure: doctor's order (copy or electronic) to pharmacy → pharmacist enters into patient medication profile, checks dose, allergy, interactions → patient-specific drawer of a medication cart filled for 24 h, second check → cart exchanged on ward daily; returned doses credited → nurse gives each dose and records on MAR → new orders supplied in between.\n3. Types: centralised (main pharmacy) or decentralised (satellite pharmacies).\n4. Example: bed 12 on amoxicillin TDS, pantoprazole OD, paracetamol QID, enoxaparin OD → 9 labelled doses in the 24 h drawer.\n5. Advantages: fewest medication errors; less wastage and pilferage; credit for unused doses; small ward stock; accurate charges; more nursing time; pharmacist involved in therapy.\n6. Disadvantages: high initial cost (packaging machines, carts, software); more pharmacy staff and longer hours; not all drugs available as unit doses (repackaging); needs good communication."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare individual prescription order system and floor stock system of drug distribution with their advantages and disadvantages.",
+      "answer": "1. Individual prescription order: doctor's order for each patient sent to pharmacy; pharmacist dispenses patient's medicines in labelled containers, usually for several days.\nAdvantages: every order reviewed by pharmacist; close team contact; correct billing; better inventory control than floor stock.\nDisadvantages: delay in supply; more pharmacy staff; several days' stock on ward → wastage, returns; nurses still prepare doses.\n2. Floor stock: stock of common drugs kept on wards; nurses take doses as ordered; charged or non-charged (free) floor stock.\nAdvantages: immediate availability; fewer orders to pharmacy; fewer pharmacy staff; fewer returns.\nDisadvantages: no pharmacist review → more medication errors; large ward stock → money blocked, expiry, pilferage; more nurse workload; poor storage on wards; difficult charging.\n3. Floor stock suits emergency, OT and cheap common items; par level = average daily use × restock interval + buffer.\n4. Most hospitals use a combination; unit dose and drug basket systems overcome many disadvantages."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the distribution and storage of narcotic and psychotropic substances in a hospital. Add a note on distribution to ICU and emergency wards.",
+      "answer": "1. Law: NDPS Act, 1985 and rules; strict records.\n2. Storage: steel cupboard with two separate locks fixed to wall; keys with pharmacist in charge and sister-in-charge; keys and stock handed over with count at shift change; separate shelf for each drug; nothing else in the cupboard.\n3. Distribution: only on written order/special indent signed by a registered medical practitioner; small fixed ward stock replaced only when empty ampoules and administration record are returned; narcotic register on ward and in pharmacy – date, patient, bed, drug, dose, quantity, balance, signatures of giver and witness; unused part discarded with witness; count every shift; discrepancy reported; expired stock kept until destroyed by committee.\n4. ICU/ICCU/NICU/emergency: sealed crash cart checked daily and after use; par-level floor stock or automated dispensing cabinet; satellite 24-hour pharmacy; standard infusion concentrations; NICU – weight-based small doses, oral syringes, preservative-free products; emergency – rapid antidotes and ASV; refrigerated items with temperature log; narcotics under double lock."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on the drug basket method of drug distribution.",
+      "answer": "1. Pharmacy prepares a separate labelled basket or tray for each patient (name, bed number) containing that patient's medicines for a fixed period, usually 24 hours, from current orders.\n2. Baskets go to the ward in a trolley; nurse gives doses from the patient's basket; basket returns for daily refill.\n3. Advantages: patient's medicines kept separate, daily pharmacist check, small ward stock, easy credit of returns, cheaper than full unit dose.\n4. Disadvantages: doses may not be individually labelled unit doses; daily filling and transport; extra supply needed when orders change."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are automated dispensing systems? List their advantages and disadvantages.",
+      "answer": "Machines and software that store, count, pack, dispense and track medicines: automated dispensing cabinets on wards (open only the right drawer for a verified order), central pharmacy robots, tablet counting machines, unit-dose packaging machines, carousels, barcode medication administration, smart infusion pumps, CPOE.\nAdvantages: fewer errors, better stock control and security of controlled drugs, instant records, staff time saved.\nDisadvantages: high cost, power/software failure, training needed, alert overrides; pharmacist check still essential."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "A ward uses 20 bottles of normal saline per day and is restocked every 2 days with a buffer of 10 bottles. On restocking day 18 bottles are present. How many bottles should be supplied?",
+      "answer": "Par level = (average daily use × days between restocking) + buffer = (20 × 2) + 10 = 50 bottles. Quantity to supply = par level − present stock = 50 − 18 = 32 bottles."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the advantages and disadvantages of the floor stock system.",
+      "answer": "Advantages: drugs immediately available; fewer orders and less pharmacy staff; fewer returns.\nDisadvantages: no pharmacist review of each order → more medication errors; large ward stock blocks money and leads to expiry and pilferage; more nurse workload; poor storage on wards; difficult to charge patients correctly. Charged and non-charged (free) floor stock are its two types."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define unit dose.",
+      "answer": "A unit dose is a single dose of a medicine packed and labelled ready for administration to the patient, e.g., one tablet in a labelled blister or a pre-filled syringe."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a crash cart?",
+      "answer": "A sealed emergency trolley kept in each ward, ICU, OT and casualty, containing a fixed list of life-saving drugs and equipment (adrenaline, atropine, amiodarone, defibrillator, airway items); checked daily and refilled immediately after use."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is an IV admixture? Describe IV admixture services in a hospital and the incompatibilities of IV admixtures.",
+      "answer": "1. IV admixture: sterile solution made by adding one or more drugs to a large-volume parenteral fluid (5% dextrose, normal saline) for IV infusion. IV admixture service: centralised pharmacy service where trained staff prepare these under aseptic conditions.\n2. Facilities: clean room with HEPA-filtered air; horizontal laminar air flow workbench for routine admixtures; vertical LAF/Class II biological safety cabinet for cytotoxics (protects operator).\n3. Procedure: check order and compatibility → gowning, hand washing, alcohol-wiped surfaces → aseptic technique (work well inside hood, swab ports, sterile syringes, filter needles for ampoules) → inspect against light/dark background → label (patient, drug, dose, fluid, volume, rate, time prepared, expiry, initials) → store and deliver.\n4. Incompatibilities: physical – precipitation (Ca + PO4; Ca + bicarbonate; ceftriaxone + Ca; phenytoin in dextrose; amphotericin B in saline), colour change, gas, sorption (insulin, nitroglycerin to PVC); chemical – hydrolysis, oxidation, pH effects (ampicillin less stable in dextrose; catecholamines inactivated by bicarbonate; aminoglycoside + penicillin in same bag); therapeutic – opposing or additive effects in the body.\n5. Prevention: check references, add one drug at a time, avoid additions to blood, mannitol, bicarbonate, lipids, amino acids; separate lines/flush; use promptly."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define total parenteral nutrition. Write its indications, components, preparation and complications.",
+      "answer": "1. Definition: intravenous supply of all daily needs – water, energy, protein, electrolytes, vitamins, trace elements – when the gut cannot be used; partial PN supplies only part.\n2. Indications: short bowel syndrome and severe malabsorption, intestinal obstruction, prolonged ileus, severe pancreatitis or high-output fistula, major surgery/trauma/burns with non-functioning gut, premature neonates; rule – if the gut works, use it.\n3. Components: dextrose (about 3.4 kcal/g), amino acids (4 kcal/g), lipid emulsion 10–20% (9 kcal/g, essential fatty acids), electrolytes (Na, K, Ca, Mg, PO4, Cl, acetate), vitamins, trace elements (Zn, Cu, Se, Mn, Cr); central (concentrated) or peripheral (low osmolarity, below about 900 mOsm/L); 2-in-1 or 3-in-1 bags.\n4. Preparation: pharmacist checks calculations and Ca–PO4 compatibility → LAF aseptic compounding: amino acids and dextrose, phosphate early, calcium late and diluted, lipid last, vitamins and trace elements just before use → inspect → label → refrigerate, protect from light.\n5. Example: dextrose 200 g + amino acids 60 g + lipid 50 g = 680 + 240 + 450 = 1,370 kcal; nitrogen 9.6 g; NPC:N ≈ 118:1.\n6. Complications: catheter infection, thrombosis, pneumothorax, air embolism; hyper/hypoglycaemia, electrolyte imbalance, refeeding syndrome, liver dysfunction, high triglycerides; precipitation; monitor weight, glucose, electrolytes, LFT."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on compounding in hospitals with emphasis on bulk compounding.",
+      "answer": "1. Compounding: preparation, mixing, packing and labelling of medicines by a pharmacist from ingredients – extemporaneous (one patient) or bulk (batches for stock).\n2. Reasons: products not available (special strengths, preservative-free eye drops), cheaper in bulk, patient-specific sterile products, quick supply.\n3. Bulk products: non-sterile – antiseptic dilutions (chlorhexidine, povidone-iodine), mouthwashes, calamine lotion, liniments, ointments, oral liquids, hand rubs; sterile – bladder irrigations, eye drops, sterile water/saline for irrigation.\n4. Requirements: separate area and aseptic room, balances, mixers, purified water, autoclave, LAF; master formula, SOPs, batch records; QC tests; labels with batch, date, expiry, storage, 'for hospital use'; trained pharmacists; licence where needed.\n5. Steps: master formula → requisition (FEFO) → weighing with double check → mixing → in-process checks → filling and labelling → QC → release → storage and issue.\n6. Example: 10 L of 0.05% chlorhexidine from 5% concentrate – V1 = 0.05 × 10,000 / 5 = 100 mL made up to 10 L.\n7. Advantages: low cost, supply security; disadvantages: space, staff, QC needed, short expiry."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "1,000 mL of normal saline is to be infused over 8 hours with a set delivering 20 drops/mL. Calculate the flow rate in mL/h and drops per minute.",
+      "answer": "mL per hour = 1000 ÷ 8 = 125 mL/h. Drops per minute = (volume × drop factor) ÷ time in minutes = (1000 × 20) ÷ (8 × 60) = 20,000 ÷ 480 ≈ 42 drops/min."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Give examples of physical and chemical incompatibilities in IV admixtures.",
+      "answer": "Physical: calcium + phosphate precipitate; calcium + sodium bicarbonate → calcium carbonate; ceftriaxone + calcium; phenytoin crystallises in dextrose; diazepam precipitates on dilution; amphotericin B precipitates in saline; insulin and nitroglycerin sorb to PVC.\nChemical: ampicillin degrades faster in dextrose; adrenaline, noradrenaline, dopamine inactivated in alkaline bicarbonate; gentamicin inactivated by penicillins in the same container; light-sensitive drugs (nitroprusside) degrade."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Dopamine 400 mg is added to 250 mL of 5% dextrose. Calculate the infusion rate (mL/h) for a 60 kg patient needing 5 µg/kg/min.",
+      "answer": "Concentration = 400 mg/250 mL = 1.6 mg/mL = 1,600 µg/mL. Dose = 5 × 60 = 300 µg/min = 18,000 µg/h. Rate = 18,000 ÷ 1,600 = 11.25 mL/h."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between horizontal and vertical laminar air flow workbenches.",
+      "answer": "Horizontal LAF: HEPA-filtered air flows from the back of the bench towards the operator; protects the product only; used for routine IV admixtures and TPN.\nVertical LAF/biological safety cabinet (Class II): filtered air flows down from the top and is drawn away at the front; protects both product and operator; used for cytotoxic and hazardous drugs."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the caloric values of dextrose, amino acids and lipids used in TPN.",
+      "answer": "Dextrose (monohydrate) about 3.4 kcal/g, amino acids 4 kcal/g, lipid 9 kcal/g."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is refeeding syndrome?",
+      "answer": "A dangerous fall in blood phosphate, potassium and magnesium (with fluid shifts) when a severely malnourished patient is fed, orally or by TPN, too quickly; prevented by starting feeds slowly and replacing electrolytes."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are radiopharmaceuticals? Describe their storage, dispensing and disposal.",
+      "answer": "1. Definition: medicinal preparations containing a radionuclide, used for diagnosis or therapy; e.g., Tc-99m (about 6 h, imaging, from Mo-99 generator), I-131 (about 8 days, thyroid therapy), F-18 FDG (about 110 min, PET).\n2. Safety: ALARA – time, distance, shielding; TLD badges; AERB licence; Radiological Safety Officer.\n3. Storage: restricted hot lab with trefoil sign; lead pots, lead bricks, lockable cabinets, fume cupboards for volatile iodine; required temperature; receipt records (nuclide, activity, calibration time, batch); generators shielded; area monitored.\n4. Dispensing: prescription → decay-corrected activity calculated → aseptic preparation in shielded LAF → QC (radiochemical purity, pH, clarity) → dose drawn in lead syringe shield → measured in dose calibrator → labelled with patient, product, activity at stated time, radiation symbol → shielded transport → record.\n5. Disposal: decay-in-storage about 10 half-lives (Tc-99m about 60 h; I-131 about 80 days), survey to background, labels removed, then normal/bio-medical waste; generators returned to supplier; low-activity liquids released only within regulatory limits; long-lived waste through authorised agency; records kept."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the applications of computers in hospital pharmacy practice.",
+      "answer": "1. Prescription processing: electronic orders, labels, dose and interaction checks.\n2. Patient medication profiles: current and past drugs, allergies, weight, renal function.\n3. Inventory control: real-time stock, reorder alerts, expiry (FEFO) alerts, ABC/VED and consumption reports.\n4. Purchase: indents, purchase orders, supplier records, e-tender, GRN.\n5. Billing and accounts: per-dose charges, insurance.\n6. Distribution: unit-dose fill lists, automated dispensing cabinets, barcode checks.\n7. Drug information: electronic references, interaction and IV compatibility databases.\n8. Clinical: pharmacokinetic and TPN calculations, renal dosing, CPOE with decision support.\n9. Pharmacovigilance: ADR and error reporting.\n10. Narcotic registers with audit trail; formulary on intranet; reports for committees and accreditation.\n11. Advantages: speed, accuracy, legibility, fewer errors, easy audit; disadvantages: cost, training, system failure (need back-up), data security, alert fatigue."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is an electronic health record? Describe its benefits and concerns, and name software used in hospital pharmacy.",
+      "answer": "1. EHR: digital, longitudinal record of a person's health information – demographics, history, diagnoses, medications, allergies, lab and imaging results, immunisations, notes and discharge summaries – shared securely among authorised providers over time.\n2. EMR vs EHR: EMR is the digital chart of one organisation; EHR is shareable across providers and lifelong.\n3. Benefits for pharmacy: full medication and allergy history, accurate reconciliation at admission and discharge, lab values for dose adjustment, fewer duplicate tests and prescriptions, data for drug use studies.\n4. Concerns: privacy and confidentiality, cyber-security, interoperability standards, cost and training, consent.\n5. India: Ayushman Bharat Digital Mission with ABHA number linking records with consent.\n6. Software: hospital information system with pharmacy module; e-Hospital (NIC) for government hospitals; state drug supply chain software such as e-Aushadhi; pharmacy inventory and billing software; drug information databases; online ADR reporting tools; spreadsheets for analyses."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "A vial contains 800 MBq of Tc-99m preparation in 8 mL at 8:00 am. What volume should be drawn at 11:00 am to give a 370 MBq dose? (T½ = 6 h)",
+      "answer": "A = A0 × (1/2)^(t/T½) = 800 × (1/2)^(3/6) = 800 × 0.707 ≈ 566 MBq at 11 am. Concentration = 566 ÷ 8 ≈ 70.7 MBq/mL. Volume = 370 ÷ 70.7 ≈ 5.2 mL."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Explain the ALARA principle in handling radiopharmaceuticals.",
+      "answer": "ALARA = As Low As Reasonably Achievable radiation exposure. Achieved by: (1) Time – minimise time near the source; (2) Distance – exposure falls with the square of distance, use tongs; (3) Shielding – lead pots, bricks, lead-glass screens, syringe shields. Also TLD badges, area monitoring, gloves, no eating in the area, spill kits."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is a technetium generator?",
+      "answer": "A shielded column containing the longer-lived parent molybdenum-99 bound to alumina; it decays to the short-lived daughter technetium-99m, which is washed out ('eluted' or 'milked') with sterile saline when needed. It lets hospitals have Tc-99m (half-life about 6 h) daily for imaging kits; elution records are kept and the used generator is returned to the supplier."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on CPOE and clinical decision support systems.",
+      "answer": "CPOE (computerised prescriber order entry): doctors enter medication orders directly into the computer – no illegible handwriting or transcription errors; orders reach the pharmacy instantly.\nCDSS: software checking orders against patient data – alerts for allergy, interaction, dose range, renal dosing, duplication, pregnancy. Together they reduce prescribing errors; too many alerts cause alert fatigue."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define half-life of a radionuclide.",
+      "answer": "The time required for the activity (number of radioactive atoms) of a radionuclide to fall to half its initial value; e.g., about 6 hours for Tc-99m."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Expand ABHA and EHR.",
+      "answer": "ABHA – Ayushman Bharat Health Account; EHR – Electronic Health Record."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define clinical pharmacy. Describe its scope and development in India and other countries.",
+      "answer": "1. Definition: area of pharmacy in which pharmacists provide direct patient care that optimises medicine use and promotes health, wellness and disease prevention – patient-oriented rather than product-oriented.\n2. Goals: maximise benefit, minimise risk, minimise cost, respect patient choice.\n3. Scope: ward rounds, chart review, medication history and reconciliation, ADR monitoring, drug and poison information, counselling, TDM, antimicrobial stewardship, drug use evaluation, special clinics, MTM/HMR, research and education.\n4. Other countries: USA – ward-based services from the 1960s, unit dose and DI centres, Pharm.D as practice degree, ACCP and ASHP; UK – ward pharmacy from late 1960s–70s, pharmacists as independent prescribers; Australia/Canada – medication reconciliation, home reviews.\n5. India: dispensing-only role till 1990s; clinical services began in a few teaching hospitals in the 1990s; Pharm.D introduced by PCI in 2008; PvPI 2010; Pharmacy Practice Regulations 2015; ER-2020 adds subject to D.Pharm; NABH and corporate hospitals employ clinical pharmacists.\n6. Barriers: few posts, poor recognition, workload, training gaps."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the daily activities of a clinical pharmacist with their goals and procedures.",
+      "answer": "1. Ward round participation – visit patients with the team; goal: part of therapy decisions; procedure: prepare from notes and labs, give brief evidence-based suggestions, follow up and document interventions.\n2. Treatment chart review – check patient details, allergies, indication, dose, frequency, route, duration, renal/hepatic adjustment, interactions, duplications, administration records, monitoring needs; discuss problems with prescriber; document.\n3. ADR monitoring – detect, assess causality (WHO-UMC/Naranjo), severity and preventability, inform doctor, document, report on national form.\n4. Drug and poison information – receive query, background, search sources, evaluate, reply, document, follow up.\n5. Medication history – interview patient/family, use multiple sources, record prescription, OTC, herbal drugs, allergies, adherence; compare with admission orders (reconciliation).\n6. Patient counselling – prepare, open, explain each medicine, dose, technique, side effects, storage, missed dose, lifestyle; teach-back; written information.\n7. Inter-professional collaboration – rounds, team meetings, SBAR communication, shared protocols and training."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the following clinical terms and their significance in drug therapy: paediatrics, geriatrics, antenatal care and postnatal care.",
+      "answer": "1. Paediatrics: medical care of children; age groups (ICH): preterm newborn, term newborn 0–27 days, infant/toddler 28 days–23 months, child 2–11 years, adolescent 12–16/18 years. Significance: doses by weight or BSA; immature liver and kidney in neonates (chloramphenicol grey baby); need for drops/syrups; frequent dose changes with growth.\n2. Geriatrics: care of people usually 65 years and above. Significance: reduced kidney and liver function, more sensitivity to sedatives and anticoagulants, polypharmacy, falls, poor memory and adherence → 'start low, go slow', regular review.\n3. Antenatal care: care of mother and foetus during pregnancy (India: at least four visits). Significance: iron–folic acid and calcium, Td vaccination, screening for BP, Hb, glucose; avoid teratogens (isotretinoin, warfarin, valproate, ACE inhibitors), especially in the first trimester.\n4. Postnatal care: care of mother and newborn after delivery, mainly first six weeks. Significance: bleeding, infection, anaemia, depression; breastfeeding support; drugs safe in lactation; newborn immunisation.\n5. Child dose rules: Young's age/(age+12); Clark's weight (lb)/150; BSA/1.73 × adult dose; mg/kg preferred."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is a medication history interview? Describe the procedure.",
+      "answer": "A structured interview to record all medicines the patient takes or recently took, with allergies and past ADRs, to avoid omissions, duplications and interactions and to support medicine reconciliation.\nProcedure: introduce and obtain consent; use multiple sources (patient, family, old prescriptions, medicine packs, records); ask about prescription and OTC drugs, herbal/traditional products, supplements, vaccines, allergies with reaction details, adherence, alcohol and tobacco, recently stopped drugs; compare with admission orders; report differences; document on a form."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "List the steps of patient counselling.",
+      "answer": "1. Preparation – review prescription and history; quiet, private place.\n2. Opening – greet, introduce, confirm identity, explain purpose, assess existing knowledge.\n3. Content – name and purpose of each drug, dose, timing, technique (inhaler, insulin), duration, common side effects and actions, precautions, storage, missed dose, lifestyle and follow-up.\n4. Check understanding – teach-back.\n5. Closing – written information/pictograms, invite questions, document."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "A 6-year-old child weighing 20 kg needs a drug whose adult dose is 500 mg. Calculate the dose by Young's and Clark's rules.",
+      "answer": "Young's rule: [age/(age + 12)] × adult dose = 6/18 × 500 ≈ 167 mg.\nClark's rule: [weight in lb/150] × adult dose; 20 kg ≈ 44 lb → 44/150 × 500 ≈ 147 mg.\nRules give different values; mg/kg dosing from a paediatric reference is preferred (e.g., paracetamol 15 mg/kg = 300 mg per dose)."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate traditional pharmacy practice and clinical pharmacy.",
+      "answer": "Traditional: product-oriented; dispensing what is prescribed; works in the pharmacy; outcome is a correctly supplied product.\nClinical: patient-oriented; checks that therapy suits the patient; works on wards and in the team; outcome is the best therapeutic result with least harm and cost."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is polypharmacy?",
+      "answer": "The use of many medicines at the same time by one patient (often taken as five or more), common in the elderly; it increases the risk of interactions, ADRs and non-adherence."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What do the abbreviations TDS, HS and SOS mean?",
+      "answer": "TDS – three times a day; HS – at bedtime; SOS – if needed (when required)."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define pharmaceutical care. Describe the principles and the procedure to provide pharmaceutical care.",
+      "answer": "1. Definition (Hepler and Strand, 1990): the responsible provision of drug therapy for the purpose of achieving definite outcomes that improve a patient's quality of life. Outcomes: cure; elimination or reduction of symptoms; arresting or slowing disease; prevention.\n2. Principles: patient-centred; pharmacist accepts responsibility for outcomes; therapeutic relationship; systematic process; collaboration with team; documentation; continuity; ethics and confidentiality.\n3. Procedure – Step 1 Assessment: collect demographics, history, diagnoses, all medicines incl. OTC/herbal, allergies, social history, labs, vitals, patient concerns; match drugs to problems; identify DRPs (indication → effectiveness → safety → adherence).\n4. Step 2 Care plan: therapeutic goals for each condition; interventions (start, stop, change drug or dose, education, referral); monitoring plan; agreement with patient and prescriber.\n5. Step 3 Follow-up evaluation: check outcomes, new problems, record status (resolved, improved, unchanged, worse), revise plan – cycle continues.\n6. Documentation: SOAP note (subjective, objective, assessment, plan), PWDT or FARM."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define drug-related problems. Classify them with suitable examples.",
+      "answer": "1. DRP: an event or situation involving drug therapy that actually or potentially interferes with desired health outcomes; actual (present) or potential (likely).\n2. Eight categories (Strand and colleagues): (a) untreated indication – hypertensive diabetic with no antihypertensive; (b) improper drug selection – NSAID in peptic ulcer; (c) sub-therapeutic dose – low antibiotic dose in severe infection; (d) failure to receive drug – cannot afford, missed dose; (e) overdose – full gentamicin dose in kidney failure; (f) ADR – cough with ACE inhibitor; (g) drug interaction – warfarin + metronidazole bleeding; (h) drug use without indication – antibiotic for viral cold.\n3. Seven categories in four needs (Cipolle, Strand, Morley): indication – unnecessary therapy, needs additional therapy; effectiveness – ineffective drug, dose too low; safety – ADR, dose too high; adherence – non-adherence.\n4. Other systems: PCNE classification records problems, causes and interventions.\n5. Causes: prescribing, transcription and dispensing errors, poor communication at transfers, polypharmacy, old age, organ impairment, poor understanding, cost."
+    },
+    {
+      "id": "u9-l03",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is Medication Therapy Management? Describe its core elements. Compare it with Home Medication Review.",
+      "answer": "1. MTM: distinct service or group of services by pharmacists to optimise therapeutic outcomes for individual patients, independent of but linkable to supply of a medicine; developed in the USA (Medicare, 2003 law).\n2. Patients: multiple chronic diseases, polypharmacy, high-risk drugs, recent discharge, poor adherence, high costs.\n3. Five core elements: (a) medication therapy review (comprehensive or targeted); (b) personal medication record given to the patient; (c) medication-related action plan; (d) intervention and referral; (e) documentation and follow-up.\n4. Benefits: better adherence and disease control, fewer ADRs and admissions, lower cost.\n5. HMR: structured review by a trained pharmacist at the patient's home, usually on the doctor's referral (Australia); pharmacist collects all medicines in the house, checks storage, expired and duplicate items, OTC/herbal use, understanding and adherence; writes report to doctor; management plan agreed.\n6. Comparison: MTM – pharmacy/clinic/phone/home, USA, gives PMR and action plan to patient; HMR – home only, Australia, doctor referral, report to doctor; both aim to find and solve DRPs and improve adherence."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the SOAP format of documenting a pharmaceutical care intervention.",
+      "answer": "S – Subjective: what the patient reports (symptoms, concerns, adherence).\nO – Objective: measurable data – vitals, lab values, drug chart, doses.\nA – Assessment: pharmacist's judgement – the drug-related problem and its cause.\nP – Plan: recommendation to prescriber, patient education and monitoring (what, how often, who).\nExample: S – stomach pain; O – ibuprofen + enalapril, SCr 1.8; A – NSAID gastritis and interaction risk; P – stop ibuprofen, paracetamol instead, recheck creatinine in one week."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on home medication review.",
+      "answer": "1. Structured review of a patient's medicines in his/her home by a trained pharmacist, usually on doctor's referral (well established in Australia).\n2. For elderly on many drugs, recent discharge, high-risk drugs, confusion, suspected non-adherence or ADRs.\n3. Pharmacist checks all medicines at home, storage, expired/duplicate items, OTC and herbal use, technique and understanding; sends report to the doctor; plan agreed and followed up.\n4. Advantage: real picture of medicine use; limitation: time, travel and trained staff needed."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between clinical pharmacy and pharmaceutical care.",
+      "answer": "Clinical pharmacy: a discipline – the set of activities (ward rounds, chart review, TDM, DI) by which pharmacists improve drug therapy, mainly in hospitals.\nPharmaceutical care: a philosophy and process of practice in which the pharmacist takes responsibility for the patient's drug-related needs and outcomes through assessment, care plan and follow-up; applies in hospital and community."
+    },
+    {
+      "id": "u9-s04",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "A 70-year-old woman (55 kg) has serum creatinine 1.8 mg/dL and takes metformin 1 g twice daily. Calculate her creatinine clearance and comment.",
+      "answer": "CrCl = [(140 − 70) × 55] / (72 × 1.8) × 0.85 = 3850 / 129.6 × 0.85 ≈ 29.7 × 0.85 ≈ 25 mL/min. This is severely reduced kidney function; metformin is not advised at this level (risk of lactic acidosis) – a drug-related problem (improper selection/dose too high) to be discussed with the prescriber."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who gave the definition of pharmaceutical care and when?",
+      "answer": "Hepler and Strand, in 1990."
+    },
+    {
+      "id": "u9-v02",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the five core elements of MTM.",
+      "answer": "Medication therapy review, personal medication record, medication-related action plan, intervention and referral, documentation and follow-up."
+    },
+    {
+      "id": "u10-l01",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe liver function tests and their interpretation. Name drugs that cause liver damage.",
+      "answer": "1. Bilirubin: total 0.3–1.2 mg/dL; direct (conjugated) raised in hepatocellular disease and obstruction; indirect raised in haemolysis.\n2. ALT (SGPT) up to about 40 U/L – liver-specific, raised in hepatitis; AST (SGOT) up to about 40 U/L – also heart and muscle; AST:ALT more than 2 suggests alcoholic liver disease.\n3. ALP about 40–130 U/L – raised in cholestasis and bone disease; GGT – cholestasis, alcohol, enzyme inducers.\n4. Total protein 6–8 and albumin 3.5–5.0 g/dL – low in chronic liver disease, malnutrition (affects protein-bound drugs); PT/INR prolonged in poor synthetic function.\n5. Patterns: hepatocellular – ALT/AST very high; cholestatic – ALP/GGT and conjugated bilirubin high; pre-hepatic – unconjugated bilirubin high with normal enzymes; chronic failure – low albumin, high INR.\n6. Hepatotoxic drugs: paracetamol overdose, isoniazid, rifampicin, pyrazinamide, valproate, methotrexate, amoxicillin–clavulanate, statins (enzyme rise); pharmacist monitors LFTs and suggests changes."
+    },
+    {
+      "id": "u10-l02",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss renal function tests and their significance in drug therapy, with the Cockcroft–Gault equation.",
+      "answer": "1. Blood urea 15–40 mg/dL (BUN 7–20) – raised in kidney failure, dehydration, GI bleed, high protein intake.\n2. Serum creatinine 0.6–1.2 mg/dL (men), 0.5–1.1 (women) – better marker, depends on muscle mass.\n3. Creatinine clearance/eGFR – normal eGFR above about 90 mL/min/1.73 m²; stages CKD; guides dosing.\n4. Cockcroft–Gault: CrCl = [(140 − age) × weight (kg)] / (72 × SCr mg/dL), × 0.85 for women. Example: man 60 y, 70 kg, SCr 2.0 → (80 × 70)/144 ≈ 39 mL/min.\n5. Others: uric acid 3.5–7.2 mg/dL; urine analysis (specific gravity 1.005–1.030, protein, glucose, ketones, casts); microalbuminuria 30–300 mg/day.\n6. Significance: dose reduction or longer intervals for renally cleared drugs (aminoglycosides, vancomycin, beta-lactams, acyclovir, enoxaparin, digoxin, metformin); detect nephrotoxicity (aminoglycosides, amphotericin B, NSAIDs, contrast, cisplatin, lithium); avoid 'triple whammy' (NSAID + ACE inhibitor/ARB + diuretic)."
+    },
+    {
+      "id": "u10-l03",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on fluid and electrolyte balance and the interpretation of serum electrolytes.",
+      "answer": "1. Total body water ≈ 60% of body weight in adult men; two-thirds intracellular, one-third extracellular (three-quarters interstitial, one-quarter plasma); 70 kg man ≈ 42 L (ICF 28 L, ECF 14 L).\n2. Dehydration – thirst, dry mouth, poor turgor, low urine, low BP, raised urea; overload – oedema, breathlessness, raised JVP.\n3. Maintenance in children (Holliday–Segar): 100 mL/kg for first 10 kg, 50 mL/kg for next 10 kg, 20 mL/kg thereafter per day (20 kg child = 1,500 mL/day).\n4. Sodium 135–145 mmol/L: low with thiazides, SIADH (carbamazepine, SSRIs), vomiting; high in dehydration.\n5. Potassium 3.5–5.0: low with loop/thiazide diuretics, salbutamol, insulin (raises digoxin toxicity); high in kidney failure, ACE inhibitors/ARBs, spironolactone – dangerous arrhythmias.\n6. Chloride 98–106; bicarbonate 22–28 (low in metabolic acidosis, high in alkalosis); calcium 8.5–10.5 mg/dL; magnesium 1.7–2.4 mg/dL (low with diuretics, long-term PPIs); phosphate 2.5–4.5 mg/dL (low in refeeding).\n7. Anion gap = Na − (Cl + HCO3), about 8–12; e.g., 140 − (100 + 14) = 26 → high anion gap acidosis (DKA, lactic acidosis, methanol, salicylate)."
+    },
+    {
+      "id": "u10-s01",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Interpret thyroid function tests.",
+      "answer": "TSH (about 0.4–4.0 mIU/L) is the best screening test. Primary hypothyroidism – TSH high, free T4 low; subclinical hypothyroidism – TSH high, free T4 normal; hyperthyroidism (Graves') – TSH suppressed, free T4/T3 high; secondary (pituitary) hypothyroidism – TSH low/normal, T4 low. Drug points: levothyroxine adjusted by TSH 6–8 weeks after change; amiodarone and lithium affect thyroid; carbimazole – check WBC if fever/sore throat."
+    },
+    {
+      "id": "u10-s02",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Name the cardiac markers used in myocardial infarction and state their significance.",
+      "answer": "Troponin I/T – most specific and sensitive; rises within about 3–6 h and stays raised about 7–14 days. CK-MB – rises about 4–6 h, normal in about 2–3 days, useful for re-infarction. LDH – rises later (12–24 h), stays 10–14 days, less specific. Myoglobin – early (1–3 h) but not specific. Other cardiac tests: lipid profile, BNP for heart failure, ECG, echocardiography."
+    },
+    {
+      "id": "u10-s03",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate obstructive and restrictive lung disease based on pulmonary function tests.",
+      "answer": "Obstructive (asthma, COPD): FEV1 reduced, FVC normal or reduced, FEV1/FVC below 0.70; reversibility of 12% and 200 mL or more after bronchodilator suggests asthma.\nRestrictive (pulmonary fibrosis incl. amiodarone/methotrexate-induced, obesity, chest-wall disease): FVC reduced, FEV1 reduced proportionately, FEV1/FVC normal or high."
+    },
+    {
+      "id": "u10-s04",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Explain the red cell indices and their use in classifying anaemia.",
+      "answer": "MCV (about 80–100 fL): low → microcytic anaemia (iron deficiency, thalassaemia); high → macrocytic anaemia (vitamin B12 or folate deficiency, methotrexate, alcohol); normal → normocytic (acute blood loss, chronic disease).\nMCH (27–32 pg) and MCHC (32–36 g/dL) are low in iron deficiency (hypochromic). Reticulocyte count shows marrow response to treatment."
+    },
+    {
+      "id": "u10-v01",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the normal ranges of serum sodium and potassium.",
+      "answer": "Sodium 135–145 mmol/L; potassium 3.5–5.0 mmol/L."
+    },
+    {
+      "id": "u10-v02",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is INR? State the usual target for warfarin therapy.",
+      "answer": "International normalised ratio – a standardised prothrombin time ratio used to monitor oral anticoagulants; usual target 2–3 for most indications (higher for some mechanical heart valves)."
+    },
+    {
+      "id": "u11-l01",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify poisoning. Describe the general management of a poisoned patient.",
+      "answer": "1. Poison: substance which in sufficient quantity damages health or causes death; antidote counteracts its effect.\n2. Types: by intent – accidental, suicidal, homicidal, therapeutic/iatrogenic; by duration – acute, chronic; by route – ingestion, inhalation, skin, injection, bites/stings; by agent – drugs, pesticides, household chemicals, plants, metals, animal toxins, alcohols; by action – corrosive, irritant, neurotoxic, cardiotoxic, asphyxiant.\n3. Management: (a) resuscitation – airway, breathing, circulation, glucose, seizure control; (b) history (what, how much, when) and examination for toxidrome (cholinergic, anticholinergic, opioid, sedative, sympathomimetic); (c) decontamination – wash skin, irrigate eyes; activated charcoal 50 g (1 g/kg child) within about 1 h, not for alcohols, iron, lithium, corrosives, hydrocarbons; gastric lavage only for life-threatening ingestion within about 1 h with airway protection, never for corrosives or kerosene; no ipecac; (d) enhanced elimination – urine alkalinisation, haemodialysis, multiple-dose charcoal; (e) specific antidote; (f) supportive care, monitoring, psychiatric evaluation, medico-legal reporting."
+    },
+    {
+      "id": "u11-l02",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the clinical manifestations and antidotes for: (a) organophosphate poisoning, (b) paracetamol overdose, (c) opioid overdose, (d) iron poisoning, (e) methanol poisoning.",
+      "answer": "(a) Organophosphate: cholinergic signs – salivation, lacrimation, urination, diarrhoea, vomiting, sweating, pinpoint pupils, bradycardia, bronchorrhoea, fasciculations, respiratory failure; treatment – decontamination, atropine repeated till secretions dry (atropinisation) + pralidoxime.\n(b) Paracetamol: few early symptoms (nausea), liver damage after 24–72 h; dose above about 150 mg/kg potentially toxic; N-acetylcysteine (150 mg/kg over 1 h, 50 mg/kg over 4 h, 100 mg/kg over 16 h), best within 8 h; activated charcoal if within 1 h.\n(c) Opioid: coma, pinpoint pupils, slow breathing; naloxone, airway support.\n(d) Iron: vomiting, GI bleeding, shock, metabolic acidosis, later liver failure; desferrioxamine; charcoal does not bind iron.\n(e) Methanol: drunkenness, then blurred vision, blindness, severe metabolic acidosis; fomepizole or ethanol to block alcohol dehydrogenase, sodium bicarbonate, haemodialysis, folinic acid."
+    },
+    {
+      "id": "u11-l03",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define drug information centre. Write its requirements, services and the information resources used, with their advantages and disadvantages.",
+      "answer": "1. DIC: facility staffed by trained pharmacists with references that provides current, evaluated, unbiased drug information to professionals and public; PIC gives 24-hour poisoning advice (National Poisons Information Centre, AIIMS, New Delhi).\n2. Requirements: quiet space near pharmacy/wards; trained DI pharmacists with clinical support; up-to-date references; computers, internet, dedicated phone; query forms and database; SOPs; funding.\n3. Services: answering queries; support to P&T Committee; bulletins; ADR monitoring; education; drug use evaluation; for PIC – 24-hour advice, antidote information, toxicovigilance, prevention campaigns.\n4. Primary sources (journals – Lancet, NEJM, BMJ, Indian Journal of Pharmacology): most current and detailed; but voluminous, need evaluation skill, costly.\n5. Secondary sources (PubMed/MEDLINE, Embase, IPA, Cochrane): help locate primary articles quickly; but abstracts may mislead, time lag, search skill needed.\n6. Tertiary sources (Martindale, Goodman & Gilman, BNF, NFI, IP, CIMS, IDR, AHFS, Micromedex, Lexicomp): easy and quick; but may be outdated, limited detail, possible bias.\n7. Search order: tertiary → secondary → primary."
+    },
+    {
+      "id": "u11-s01",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "List the antidotes for: heparin, warfarin, benzodiazepines, cyanide, digoxin and methaemoglobinaemia.",
+      "answer": "Heparin – protamine sulfate; warfarin – vitamin K1 (phytomenadione), with FFP/prothrombin complex for serious bleeding; benzodiazepines – flumazenil (with caution); cyanide – hydroxocobalamin, or amyl/sodium nitrite followed by sodium thiosulfate; digoxin – digoxin-specific antibody (Fab) fragments; methaemoglobinaemia – methylene blue."
+    },
+    {
+      "id": "u11-s02",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate primary, secondary and tertiary sources of drug information with examples.",
+      "answer": "Primary: original research published first, mainly journal articles (clinical trials, case reports) – e.g., Lancet, NEJM, Indian Journal of Pharmacology.\nSecondary: indexing and abstracting services that lead to primary literature – PubMed/MEDLINE, Embase, International Pharmaceutical Abstracts.\nTertiary: compiled summaries – textbooks, compendia, databases – Martindale, BNF, National Formulary of India, CIMS, IDR, Micromedex."
+    },
+    {
+      "id": "u11-s03",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "A 50 kg woman swallowed 20 tablets of paracetamol 500 mg. Calculate the dose per kg and the N-acetylcysteine doses in the 21-hour regimen.",
+      "answer": "Total = 20 × 500 = 10,000 mg; per kg = 10,000/50 = 200 mg/kg – above the commonly quoted 150 mg/kg toxic threshold. NAC: 150 mg/kg over 1 h = 7,500 mg; 50 mg/kg over 4 h = 2,500 mg; 100 mg/kg over 16 h = 5,000 mg; total 300 mg/kg = 15 g. Check serum level at 4 h on the nomogram."
+    },
+    {
+      "id": "u11-s04",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Why are gastric lavage and induced vomiting avoided in kerosene and corrosive poisoning?",
+      "answer": "Kerosene/hydrocarbons: low viscosity – easily aspirated into lungs during vomiting or lavage, causing chemical pneumonitis.\nCorrosives: lavage tube or vomiting can perforate the already burnt oesophagus/stomach and re-expose tissues.\nTreatment is supportive (oxygen, airway care; endoscopy for corrosives); neutralisation is also avoided."
+    },
+    {
+      "id": "u11-v01",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the antidote for organophosphate poisoning?",
+      "answer": "Atropine (repeated doses until atropinisation) together with pralidoxime (an oxime that reactivates acetylcholinesterase)."
+    },
+    {
+      "id": "u11-v02",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two secondary sources of drug information.",
+      "answer": "PubMed/MEDLINE and Embase (also International Pharmaceutical Abstracts, Cochrane Library)."
+    },
+    {
+      "id": "u12-l01",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define pharmacovigilance. Write its aims and scope and give an overview of the Pharmacovigilance Programme of India.",
+      "answer": "1. WHO definition: the science and activities relating to the detection, assessment, understanding and prevention of adverse effects or any other drug-related problem.\n2. Need: pre-marketing trials are small and short; rare, long-term and special-population ADRs appear only after wide use.\n3. Aims: patient safety; early detection of new ADRs (signals); benefit–risk assessment and regulatory action; rational use; education.\n4. Scope: ADRs, medication errors, lack of efficacy, substandard and falsified products, misuse/abuse, poisoning, interactions; also vaccines (AEFI), devices, herbal and blood products.\n5. Methods: spontaneous reporting (main), intensive monitoring, cohort and case–control studies, registries, PSURs.\n6. PvPI: started 2010; National Coordination Centre at Indian Pharmacopoeia Commission, Ghaziabad; ADR monitoring centres in medical colleges/hospitals; reports on IPC 'Suspected ADR Reporting Form', online, app or helpline 1800-180-3024; data to WHO Uppsala Monitoring Centre; recommendations to CDSCO.\n7. Pharmacist's role: detect, assess causality, report, educate, counsel."
+    },
+    {
+      "id": "u12-l02",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define medication error. Describe its types, consequences and strategies to minimise medication errors. Add a note on LASA drugs and Tall Man lettering.",
+      "answer": "1. Definition (NCC MERP): any preventable event that may cause or lead to inappropriate medication use or patient harm while the medication is in the control of the health-care professional, patient or consumer.\n2. Types by stage: prescribing (wrong drug/dose, illegible, unsafe abbreviations), transcribing, dispensing (LASA mix-up, wrong strength, wrong label), administration (wrong patient, route, time, rate, omission, crushing SR tablets), monitoring, patient errors; NCC MERP index A (potential) to I (death).\n3. Consequences: harm, longer stay, disability, death; cost and legal action to hospital; stress to staff.\n4. Strategies: non-punitive reporting and root cause analysis; CPOE with decision support; generic names, no 'U', no trailing zero, leading zero; pharmacist check, double checks, barcodes; unit-dose system; remove concentrated KCl from wards; standard concentrations; rights of administration (patient, drug, dose, route, time, documentation, reason, response); smart pumps, BCMA; staff and patient education.\n5. LASA drugs: names or packs that look or sound alike. Tall Man lettering (ISMP) highlights the differing part: hydrALAZINE/hydrOXYzine, DOPamine/DOBUTamine, predniSONE/prednisoLONE, vinBLAStine/vinCRIStine, glipiZIDE/glyBURIDE; also store apart, LASA stickers, read-back of verbal orders."
+    },
+    {
+      "id": "u12-l03",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define drug interaction. Classify drug interactions with examples and discuss their clinical significance.",
+      "answer": "1. Definition: change in the effect of one drug (object) by another drug, food, herb or disease (precipitant).\n2. Pharmaceutical: outside body – IV incompatibilities.\n3. Pharmacokinetic: absorption – tetracycline/ciprofloxacin + antacids, iron (chelation), PPIs reduce ketoconazole; distribution – protein-binding displacement of warfarin; metabolism – inducers (rifampicin, carbamazepine, phenytoin, phenobarbital) cause oral contraceptive failure, inhibitors (clarithromycin, erythromycin, ketoconazole, cimetidine, grapefruit) raise simvastatin, warfarin, theophylline; excretion – probenecid raises penicillin, thiazides/NSAIDs raise lithium.\n4. Pharmacodynamic: additive – alcohol + benzodiazepine, warfarin + aspirin, ACE inhibitor + spironolactone, QT drugs together; antagonistic – salbutamol + propranolol, NSAIDs vs antihypertensives; others – sildenafil + nitrates, MAOI + tyramine, SSRI + tramadol.\n5. Drug–food, drug–disease and drug–lab interactions.\n6. Clinical significance: severity (major, moderate, minor), documentation level, onset (rapid or delayed – induction takes 1–2 weeks), patient factors (elderly, organ impairment, narrow therapeutic index drugs – warfarin, digoxin, lithium, phenytoin, theophylline); some interactions are useful (probenecid + penicillin, levodopa + carbidopa).\n7. Management: avoid, substitute, adjust dose, separate timing, monitor, counsel."
+    },
+    {
+      "id": "u12-s01",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Classify adverse drug reactions according to Rawlins and Thompson with examples.",
+      "answer": "Type A (augmented): dose-related extension of pharmacology, common, predictable – hypoglycaemia with insulin, bleeding with warfarin.\nType B (bizarre): not dose-related, rare, unpredictable – anaphylaxis to penicillin, Stevens–Johnson syndrome.\nExtended: C chronic (steroid osteoporosis), D delayed (teratogenicity, cancer), E end-of-use (rebound hypertension after clonidine), F failure (contraceptive failure with enzyme inducer)."
+    },
+    {
+      "id": "u12-s02",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on causality assessment of ADRs.",
+      "answer": "Causality assessment judges how likely a drug caused the reaction.\nWHO-UMC scale: certain, probable/likely, possible, unlikely, conditional/unclassified, unassessable/unclassifiable – based on time relationship, other causes, dechallenge and rechallenge.\nNaranjo algorithm: ten questions scored; ≥9 definite, 5–8 probable, 1–4 possible, ≤0 doubtful. Example: rash after co-trimoxazole that settles on stopping, no other cause, known reaction → score 7, probable."
+    },
+    {
+      "id": "u12-s03",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Explain enzyme induction and enzyme inhibition interactions with examples.",
+      "answer": "Enzyme induction: precipitant increases liver enzyme (e.g., CYP450) activity → object drug metabolised faster → lower levels, therapeutic failure; develops over days to weeks. Inducers: rifampicin, carbamazepine, phenytoin, phenobarbital – oral contraceptive failure, reduced warfarin effect.\nEnzyme inhibition: precipitant reduces metabolism → object drug accumulates → toxicity; quick onset. Inhibitors: clarithromycin, erythromycin, ketoconazole, fluconazole, cimetidine, grapefruit juice – raised simvastatin (myopathy), warfarin (bleeding), theophylline (seizures)."
+    },
+    {
+      "id": "u12-s04",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between an adverse drug reaction and a medication error.",
+      "answer": "ADR: noxious, unintended response at normal doses used correctly; may not be preventable (e.g., anaphylaxis to first dose of penicillin).\nMedication error: preventable mistake in prescribing, dispensing, administration or monitoring; may or may not cause harm (e.g., giving 10 times the intended dose). An error can cause an ADR (preventable ADR); a near miss is an error caught before reaching the patient."
+    },
+    {
+      "id": "u12-v01",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Where is the National Coordination Centre of PvPI located?",
+      "answer": "At the Indian Pharmacopoeia Commission (IPC), Ghaziabad."
+    },
+    {
+      "id": "u12-v02",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is Tall Man lettering? Give one example.",
+      "answer": "Use of upper-case letters to highlight the differing parts of look-alike drug names, recommended by ISMP, e.g., hydrALAZINE / hydrOXYzine."
+    }
+  ]
+}

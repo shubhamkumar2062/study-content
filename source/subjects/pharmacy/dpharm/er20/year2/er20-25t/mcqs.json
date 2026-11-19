@@ -1,0 +1,1516 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Registration of a pharmacist in India is with the:",
+      "options": [
+        "State Pharmacy Council",
+        "Drugs Controller General of India",
+        "Indian Pharmacopoeia Commission",
+        "Quality Council of India"
+      ],
+      "correct": 0,
+      "explanation": "Under the Pharmacy Act, 1948 pharmacists register with their State Pharmacy Council.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "NABH is a constituent board of the:",
+      "options": [
+        "Pharmacy Council of India",
+        "Quality Council of India",
+        "Medical Council of India",
+        "Indian Pharmacopoeia Commission"
+      ],
+      "correct": 1,
+      "explanation": "NABH works under the Quality Council of India.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The NABH chapter most directly related to pharmacy is:",
+      "options": [
+        "Facility Management and Safety (FMS)",
+        "Human Resource Management (HRM)",
+        "Management of Medication (MOM)",
+        "Information Management System (IMS)"
+      ],
+      "correct": 2,
+      "explanation": "MOM covers formulary, storage, prescription, dispensing and monitoring of medicines.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "NQAS standards are meant mainly for:",
+      "options": [
+        "Private corporate hospitals only",
+        "Pharmaceutical factories",
+        "Retail pharmacies",
+        "Public health facilities"
+      ],
+      "correct": 3,
+      "explanation": "NQAS (developed by NHSRC) applies to district hospitals, CHCs and PHCs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The FIP Basel Statements on hospital pharmacy were first agreed in:",
+      "options": [
+        "2008",
+        "1998",
+        "2003",
+        "2015"
+      ],
+      "correct": 0,
+      "explanation": "They were agreed in Basel in 2008 and revised in 2014.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A written statement of the qualities a person needs for a post is called:",
+      "options": [
+        "Job description",
+        "Job specification",
+        "Job evaluation",
+        "Job rotation"
+      ],
+      "correct": 1,
+      "explanation": "Job specification describes the person; job description describes the duties.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The joint FIP/WHO Good Pharmacy Practice guidelines describe how many main roles of the pharmacist?",
+      "options": [
+        "Two",
+        "Six",
+        "Four",
+        "Eight"
+      ],
+      "correct": 2,
+      "explanation": "Supply of products, medication therapy management, professional performance and public health.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "ASHP, whose standards are used as a reference for hospital pharmacy, stands for:",
+      "options": [
+        "Association of State Hospital Pharmacies",
+        "American Standards for Hospital Practice",
+        "Asian Society of Hospital Pharmacists",
+        "American Society of Health-System Pharmacists"
+      ],
+      "correct": 3,
+      "explanation": "ASHP sets practice standards for health-system pharmacy in the USA.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "In a hospital, the pharmacy is best described as a:",
+      "options": [
+        "Service department",
+        "Clinical department",
+        "Revenue department only",
+        "Teaching department only"
+      ],
+      "correct": 0,
+      "explanation": "The pharmacy serves all clinical departments and reports to the medical superintendent.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The secretary of the Pharmacy and Therapeutics Committee is usually the:",
+      "options": [
+        "Medical superintendent",
+        "Chief pharmacist",
+        "Nursing superintendent",
+        "Microbiologist"
+      ],
+      "correct": 1,
+      "explanation": "The chief pharmacist prepares agenda, data and minutes.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "A continually revised list of drugs approved for use in a hospital is called the:",
+      "options": [
+        "Pharmacopoeia",
+        "Drug index",
+        "Hospital formulary",
+        "Price list"
+      ],
+      "correct": 2,
+      "explanation": "The formulary is prepared and revised by the P&T Committee.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The member secretary of the Infection Control Committee is usually the:",
+      "options": [
+        "Pharmacist",
+        "Hospital engineer",
+        "Dietitian",
+        "Microbiologist"
+      ],
+      "correct": 3,
+      "explanation": "The microbiologist or infection control officer usually acts as secretary.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "In the WHO AWaRe classification, colistin belongs to the:",
+      "options": [
+        "Reserve group",
+        "Access group",
+        "Watch group",
+        "Not classified"
+      ],
+      "correct": 0,
+      "explanation": "Reserve antibiotics are last-resort drugs for multi-drug-resistant infections.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Amoxicillin is classified in the WHO AWaRe system as:",
+      "options": [
+        "Watch",
+        "Access",
+        "Reserve",
+        "Restricted"
+      ],
+      "correct": 1,
+      "explanation": "Access antibiotics are first-choice drugs with lower resistance potential.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "A policy under which antibiotics are discontinued after a fixed period unless re-ordered is a:",
+      "options": [
+        "Standing order",
+        "Verbal order",
+        "Automatic stop order",
+        "PRN order"
+      ],
+      "correct": 2,
+      "explanation": "Automatic stop orders prevent unnecessarily prolonged therapy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which is NOT a criterion for including a drug in the hospital formulary?",
+      "options": [
+        "Proven efficacy and safety",
+        "Total cost of therapy",
+        "Inclusion in the National List of Essential Medicines",
+        "Availability of free samples from a company"
+      ],
+      "correct": 3,
+      "explanation": "Selection depends on evidence, need and cost, not on promotional samples.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A hospital-acquired infection is usually defined as one appearing:",
+      "options": [
+        "48 hours or more after admission",
+        "Within 6 hours of admission",
+        "Only after discharge",
+        "Only in the operation theatre"
+      ],
+      "correct": 0,
+      "explanation": "Infections not present or incubating at admission, commonly appearing after 48 hours.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The National Action Plan on AMR in India (2017) follows the approach called:",
+      "options": [
+        "Health for All",
+        "One Health",
+        "Make in India",
+        "Universal Access"
+      ],
+      "correct": 1,
+      "explanation": "One Health links human, animal and environmental health in tackling resistance.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The formula for economic order quantity is:",
+      "options": [
+        "√(DS/2H)",
+        "2DS/H",
+        "√(2DS/H)",
+        "√(2DH/S)"
+      ],
+      "correct": 2,
+      "explanation": "EOQ = √(2 × annual demand × ordering cost / carrying cost per unit).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "At the economic order quantity:",
+      "options": [
+        "Ordering cost is zero",
+        "Carrying cost is maximum",
+        "Stock-out cost is maximum",
+        "Ordering cost equals carrying cost"
+      ],
+      "correct": 3,
+      "explanation": "Total cost is minimum where the two costs are equal.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "In ABC analysis, items are classified according to their:",
+      "options": [
+        "Annual consumption value",
+        "Criticality to patients",
+        "Rate of movement",
+        "Ease of procurement"
+      ],
+      "correct": 0,
+      "explanation": "ABC uses annual quantity × unit cost.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "VED analysis classifies items according to:",
+      "options": [
+        "Unit price",
+        "Criticality",
+        "Annual value",
+        "Shelf life"
+      ],
+      "correct": 1,
+      "explanation": "Vital, Essential and Desirable reflect how critical an item is.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "With normal use 50 units/day, lead time 10 days and safety stock 200 units, the reorder level is:",
+      "options": [
+        "500 units",
+        "250 units",
+        "700 units",
+        "2,000 units"
+      ],
+      "correct": 2,
+      "explanation": "ROL = 50 × 10 + 200 = 700.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The Schedule H1 register must be kept for:",
+      "options": [
+        "1 year",
+        "2 years",
+        "5 years",
+        "3 years"
+      ],
+      "correct": 3,
+      "explanation": "Schedule H1 records are retained for three years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "In the tender system, the bidder with the lowest acceptable price is called:",
+      "options": [
+        "L1",
+        "H1",
+        "T1",
+        "Q1"
+      ],
+      "correct": 0,
+      "explanation": "L1 = lowest qualified bidder.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "FSN analysis is based on:",
+      "options": [
+        "Unit cost",
+        "Rate of movement of items",
+        "Criticality",
+        "Source of supply"
+      ],
+      "correct": 1,
+      "explanation": "Fast-moving, slow-moving and non-moving items.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Which belongs to category I of the ABC–VED matrix?",
+      "options": [
+        "CD",
+        "BE",
+        "CV",
+        "CE"
+      ],
+      "correct": 2,
+      "explanation": "Category I = AV, AE, AD, BV, CV.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Most vaccines and refrigerated medicines must be kept at:",
+      "options": [
+        "−25 to −15 °C",
+        "+8 to +15 °C",
+        "+15 to +25 °C",
+        "+2 to +8 °C"
+      ],
+      "correct": 3,
+      "explanation": "The cold chain range is 2–8 °C.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "FEFO stands for:",
+      "options": [
+        "First Expiry, First Out",
+        "First Entry, First Out",
+        "Fast Entry, Fast Out",
+        "Final Expiry, Final Out"
+      ],
+      "correct": 0,
+      "explanation": "Stock with the earliest expiry is issued first.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Which vaccine is damaged by freezing?",
+      "options": [
+        "Oral polio vaccine",
+        "Hepatitis B vaccine",
+        "Measles–rubella vaccine",
+        "BCG vaccine"
+      ],
+      "correct": 1,
+      "explanation": "HepB, pentavalent, DPT, Td, IPV and PCV are freeze-sensitive.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "A vaccine should be discarded when the VVM shows:",
+      "options": [
+        "Inner square lighter than the outer circle",
+        "A white outer circle",
+        "Inner square the same colour as or darker than the outer circle",
+        "No square at all"
+      ],
+      "correct": 2,
+      "explanation": "Matching or darker square means too much heat exposure.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "An ice-lined refrigerator is especially useful because it:",
+      "options": [
+        "Keeps vaccines frozen at −20 °C",
+        "Needs no temperature monitoring",
+        "Opens from the front",
+        "Keeps 2–8 °C during long power cuts"
+      ],
+      "correct": 3,
+      "explanation": "Its ice lining holds temperature when power is off; it is top-opening.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Under the BMW Rules 2016, expired and discarded medicines go in the:",
+      "options": [
+        "Yellow category",
+        "Red category",
+        "White category",
+        "Blue category"
+      ],
+      "correct": 0,
+      "explanation": "Discarded medicines and cytotoxic drugs are yellow category.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Expired cytotoxic drugs are incinerated at a temperature above:",
+      "options": [
+        "500 °C",
+        "1200 °C",
+        "800 °C",
+        "121 °C"
+      ],
+      "correct": 1,
+      "explanation": "Return to manufacturer or high-temperature incineration above 1200 °C.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The card kept at the storage place showing receipts, issues and balance of an item is the:",
+      "options": [
+        "Indent card",
+        "Gate pass",
+        "Bin card",
+        "Prescription card"
+      ],
+      "correct": 2,
+      "explanation": "Bin cards give the running balance at the bin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "According to IP, a 'cool place' is one where the temperature is between:",
+      "options": [
+        "2 °C and 8 °C",
+        "−10 °C and 0 °C",
+        "25 °C and 40 °C",
+        "8 °C and 25 °C"
+      ],
+      "correct": 3,
+      "explanation": "Cool place in IP terms is 8–25 °C.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The drug distribution system with the fewest medication errors is the:",
+      "options": [
+        "Unit dose system",
+        "Floor stock system",
+        "Individual prescription order system",
+        "Bulk issue system"
+      ],
+      "correct": 0,
+      "explanation": "Every dose is checked by the pharmacist and labelled until given.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "In a unit dose system, the supply on the ward at any time is not more than:",
+      "options": [
+        "3 days",
+        "24 hours",
+        "7 days",
+        "1 month"
+      ],
+      "correct": 1,
+      "explanation": "Only a 24-hour supply in ready-to-administer packs.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The main disadvantage of the floor stock system is:",
+      "options": [
+        "Delay in drug availability",
+        "Need for many pharmacy staff",
+        "Increased medication errors",
+        "High cost of carts"
+      ],
+      "correct": 2,
+      "explanation": "Orders are not reviewed by the pharmacist before use.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Cheap, commonly used items supplied to wards without patient-wise charging form:",
+      "options": [
+        "Charged floor stock",
+        "Unit dose stock",
+        "Reserve stock",
+        "Non-charged floor stock"
+      ],
+      "correct": 3,
+      "explanation": "Their cost is included in bed charges.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Narcotic drugs on a ward are kept in:",
+      "options": [
+        "A double-locked cupboard",
+        "The ward refrigerator",
+        "An open shelf near the nurses' station",
+        "The crash cart"
+      ],
+      "correct": 0,
+      "explanation": "Two separate locks and a register are required.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "A computer-controlled ward cabinet that opens only the drawer of a verified order is an:",
+      "options": [
+        "Laminar air flow cabinet",
+        "Automated dispensing cabinet",
+        "Ice-lined refrigerator",
+        "Carousel"
+      ],
+      "correct": 1,
+      "explanation": "ADCs track every removal and alert the pharmacy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Par level 50, present stock 18: quantity to be supplied is:",
+      "options": [
+        "50",
+        "18",
+        "32",
+        "68"
+      ],
+      "correct": 2,
+      "explanation": "Top-up = par level − present stock.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "In the drug basket method, the pharmacy prepares:",
+      "options": [
+        "One large basket per ward for a month",
+        "Baskets of samples for doctors",
+        "Baskets of expired drugs for disposal",
+        "A labelled basket of medicines for each patient, usually for 24 hours"
+      ],
+      "correct": 3,
+      "explanation": "Patient-wise baskets are refilled daily.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Before giving a dose, the nurse scans the patient's wrist-band and the dose label. This is:",
+      "options": [
+        "Barcode medication administration",
+        "CPOE",
+        "Floor stock",
+        "Drug basket method"
+      ],
+      "correct": 0,
+      "explanation": "BCMA confirms right patient and right drug.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "Cytotoxic IV admixtures are prepared in a:",
+      "options": [
+        "Horizontal laminar flow workbench",
+        "Vertical laminar flow / Class II biological safety cabinet",
+        "Open dispensing counter",
+        "Fume hood without filters"
+      ],
+      "correct": 1,
+      "explanation": "Vertical flow protects both the operator and the product.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Calcium and phosphate in TPN may cause:",
+      "options": [
+        "Gas formation",
+        "Colour change only",
+        "Precipitation",
+        "Increased stability"
+      ],
+      "correct": 2,
+      "explanation": "Calcium phosphate precipitate can block lung capillaries.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "The energy given by 1 g of lipid is about:",
+      "options": [
+        "4 kcal",
+        "3.4 kcal",
+        "7 kcal",
+        "9 kcal"
+      ],
+      "correct": 3,
+      "explanation": "Fat gives 9 kcal/g; amino acids 4; dextrose monohydrate 3.4.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Phenytoin injection should not be diluted in 5% dextrose because it:",
+      "options": [
+        "Crystallises out",
+        "Turns blue",
+        "Becomes radioactive",
+        "Forms a gas"
+      ],
+      "correct": 0,
+      "explanation": "Phenytoin precipitates in dextrose; normal saline is used.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "Loss of insulin or nitroglycerin onto PVC bags is an example of:",
+      "options": [
+        "Hydrolysis",
+        "Sorption",
+        "Oxidation",
+        "Therapeutic incompatibility"
+      ],
+      "correct": 1,
+      "explanation": "These drugs are taken up by plastic tubing and bags.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "1,000 mL is infused over 8 h with a 20 drops/mL set. The rate is about:",
+      "options": [
+        "21 drops/min",
+        "125 drops/min",
+        "42 drops/min",
+        "83 drops/min"
+      ],
+      "correct": 2,
+      "explanation": "(1000 × 20)/(8 × 60) ≈ 42.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "To make 10 L of 0.05% solution from a 5% concentrate, the volume of concentrate needed is:",
+      "options": [
+        "10 mL",
+        "1,000 mL",
+        "50 mL",
+        "100 mL"
+      ],
+      "correct": 3,
+      "explanation": "C1V1 = C2V2 → 0.05 × 10,000 / 5 = 100 mL.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Peripheral parenteral nutrition is limited mainly by the:",
+      "options": [
+        "Osmolarity of the solution",
+        "Colour of the solution",
+        "Volume of the bag label",
+        "Brand of amino acids"
+      ],
+      "correct": 0,
+      "explanation": "High osmolarity causes thrombophlebitis in small veins.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "The rapid fall of phosphate, potassium and magnesium when feeding a starved patient is called:",
+      "options": [
+        "Dumping syndrome",
+        "Refeeding syndrome",
+        "Red man syndrome",
+        "Grey baby syndrome"
+      ],
+      "correct": 1,
+      "explanation": "Start feeds slowly and replace electrolytes.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The most widely used radionuclide for diagnostic imaging is:",
+      "options": [
+        "Iodine-131",
+        "Cobalt-60",
+        "Technetium-99m",
+        "Carbon-14"
+      ],
+      "correct": 2,
+      "explanation": "Tc-99m is a gamma emitter with a half-life of about 6 hours.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The half-life of technetium-99m is about:",
+      "options": [
+        "6 minutes",
+        "6 days",
+        "60 days",
+        "6 hours"
+      ],
+      "correct": 3,
+      "explanation": "Its short half-life suits imaging.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "The SI unit of radioactivity is the:",
+      "options": [
+        "Becquerel",
+        "Curie",
+        "Gray",
+        "Sievert"
+      ],
+      "correct": 0,
+      "explanation": "1 Bq = 1 disintegration per second.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "Technetium-99m is obtained in hospitals from a generator containing:",
+      "options": [
+        "Iodine-131",
+        "Molybdenum-99",
+        "Fluorine-18",
+        "Thallium-201"
+      ],
+      "correct": 1,
+      "explanation": "Mo-99 decays to Tc-99m, which is eluted with saline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "The three rules of ALARA are:",
+      "options": [
+        "Temperature, light and air",
+        "Dose, route and frequency",
+        "Time, distance and shielding",
+        "Sterility, pyrogens and particles"
+      ],
+      "correct": 2,
+      "explanation": "Reduce time, increase distance, use shielding.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "The activity of a radiopharmaceutical dose is checked before dispensing using a:",
+      "options": [
+        "pH meter",
+        "Refractometer",
+        "Spirometer",
+        "Dose calibrator"
+      ],
+      "correct": 3,
+      "explanation": "An ionisation chamber measures the activity in the syringe.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "Short-lived radioactive waste is usually stored for decay for about:",
+      "options": [
+        "10 half-lives",
+        "1 half-life",
+        "2 half-lives",
+        "100 half-lives"
+      ],
+      "correct": 0,
+      "explanation": "After about 10 half-lives activity falls to about 1/1000.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "Computerised prescriber order entry mainly prevents:",
+      "options": [
+        "Power failures",
+        "Illegible handwriting and transcription errors",
+        "Drug expiry",
+        "Temperature excursions"
+      ],
+      "correct": 1,
+      "explanation": "Orders go electronically to the pharmacy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "India's national digital health programme that provides the ABHA number is:",
+      "options": [
+        "PvPI",
+        "NQAS",
+        "Ayushman Bharat Digital Mission",
+        "e-Aushadhi"
+      ],
+      "correct": 2,
+      "explanation": "ABDM links health records with an ABHA number.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "The six-year Pharm.D programme was introduced in India by PCI in:",
+      "options": [
+        "1998",
+        "2002",
+        "2015",
+        "2008"
+      ],
+      "correct": 3,
+      "explanation": "Pharm.D started in 2008.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Clinical pharmacy is best described as:",
+      "options": [
+        "Patient-oriented practice to optimise medicine use",
+        "Manufacture of medicines in hospital",
+        "Purchase of drugs by tender",
+        "Packaging of medicines"
+      ],
+      "correct": 0,
+      "explanation": "It focuses on the patient rather than the product.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "According to ICH age groups, a term newborn is aged:",
+      "options": [
+        "1–12 months",
+        "0–27 days",
+        "2–11 years",
+        "12–18 years"
+      ],
+      "correct": 1,
+      "explanation": "Term newborn = birth to 27 days.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "Postnatal care mainly covers the period of:",
+      "options": [
+        "First trimester",
+        "Last trimester",
+        "First six weeks after delivery",
+        "First year of the child"
+      ],
+      "correct": 2,
+      "explanation": "The postnatal period is about 42 days.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "Young's rule for child dose is:",
+      "options": [
+        "Weight in lb/150 × adult dose",
+        "BSA/1.73 × adult dose",
+        "Age/20 × adult dose",
+        "Age/(Age + 12) × adult dose"
+      ],
+      "correct": 3,
+      "explanation": "Young's rule is age-based for children of 1–12 years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "Clark's rule calculates the child dose using:",
+      "options": [
+        "Weight in pounds divided by 150",
+        "Age divided by 12",
+        "Height in cm divided by 100",
+        "Body surface area divided by 1.73"
+      ],
+      "correct": 0,
+      "explanation": "Child dose = (weight in lb/150) × adult dose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "Asking the patient to repeat instructions in their own words during counselling is called:",
+      "options": [
+        "Feedback form",
+        "Teach-back",
+        "Prompting",
+        "Read-back"
+      ],
+      "correct": 1,
+      "explanation": "Teach-back checks understanding.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "The prescription abbreviation 'HS' means:",
+      "options": [
+        "Twice daily",
+        "Before food",
+        "At bedtime",
+        "Immediately"
+      ],
+      "correct": 2,
+      "explanation": "HS (hora somni) = at bedtime.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "SBAR, used in inter-professional communication, stands for:",
+      "options": [
+        "Sign, Book, Approve, Record",
+        "Stop, Breathe, Act, Review",
+        "Symptom, Blood, Analysis, Result",
+        "Situation, Background, Assessment, Recommendation"
+      ],
+      "correct": 3,
+      "explanation": "SBAR gives structured, clear communication.",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m01",
+      "unit": 9,
+      "question": "Pharmaceutical care was defined by:",
+      "options": [
+        "Hepler and Strand",
+        "Naranjo and Busto",
+        "Rawlins and Thompson",
+        "Cockcroft and Gault"
+      ],
+      "correct": 0,
+      "explanation": "Hepler and Strand gave the definition in 1990.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m02",
+      "unit": 9,
+      "question": "Antibiotic prescribed for a common cold is a drug-related problem of the type:",
+      "options": [
+        "Untreated indication",
+        "Drug use without indication",
+        "Sub-therapeutic dose",
+        "Failure to receive drug"
+      ],
+      "correct": 1,
+      "explanation": "There is no valid medical indication.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m03",
+      "unit": 9,
+      "question": "A diabetic patient with high blood pressure receiving no antihypertensive has a DRP of:",
+      "options": [
+        "Overdose",
+        "Drug interaction",
+        "Untreated indication",
+        "Improper drug selection"
+      ],
+      "correct": 2,
+      "explanation": "A condition needing treatment is untreated.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m04",
+      "unit": 9,
+      "question": "In the SOAP note, 'O' stands for:",
+      "options": [
+        "Opinion",
+        "Outcome",
+        "Order",
+        "Objective"
+      ],
+      "correct": 3,
+      "explanation": "Objective data: vitals, labs, drug chart.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m05",
+      "unit": 9,
+      "question": "Which is NOT one of the four outcomes of pharmaceutical care?",
+      "options": [
+        "Increasing sales of medicines",
+        "Cure of disease",
+        "Reduction of symptoms",
+        "Prevention of disease"
+      ],
+      "correct": 0,
+      "explanation": "Outcomes: cure, symptom relief, arresting/slowing disease, prevention.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m06",
+      "unit": 9,
+      "question": "Home Medication Review is best established in:",
+      "options": [
+        "India",
+        "Australia",
+        "Brazil",
+        "Japan"
+      ],
+      "correct": 1,
+      "explanation": "Australia runs a structured Home Medicines Review programme.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m07",
+      "unit": 9,
+      "question": "A personal medication record (PMR) is a core element of:",
+      "options": [
+        "Floor stock system",
+        "Tender process",
+        "Medication Therapy Management",
+        "Cold chain"
+      ],
+      "correct": 2,
+      "explanation": "MTM gives the patient an updated medicine list.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m08",
+      "unit": 9,
+      "question": "In the 'four needs' grouping, adverse drug reaction and dosage too high fall under:",
+      "options": [
+        "Indication",
+        "Effectiveness",
+        "Adherence",
+        "Safety"
+      ],
+      "correct": 3,
+      "explanation": "Safety problems are ADRs and excessive doses.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m09",
+      "unit": 9,
+      "question": "PCNE, which publishes a DRP classification, is the:",
+      "options": [
+        "Pharmaceutical Care Network Europe",
+        "Pharmacy Council of Northern England",
+        "Pharmacovigilance Centre for New Era",
+        "Patient Care National Evaluation"
+      ],
+      "correct": 0,
+      "explanation": "PCNE classifies problems, causes and interventions.",
+      "probability": "low"
+    },
+    {
+      "id": "u10-m01",
+      "unit": 10,
+      "question": "The normal range of serum potassium is about:",
+      "options": [
+        "135–145 mmol/L",
+        "3.5–5.0 mmol/L",
+        "22–28 mmol/L",
+        "8.5–10.5 mmol/L"
+      ],
+      "correct": 1,
+      "explanation": "Sodium is 135–145; bicarbonate 22–28.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m02",
+      "unit": 10,
+      "question": "The most specific marker of myocardial damage is:",
+      "options": [
+        "LDH",
+        "ALP",
+        "Cardiac troponin",
+        "Amylase"
+      ],
+      "correct": 2,
+      "explanation": "Troponin I/T is the preferred marker.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m03",
+      "unit": 10,
+      "question": "A raised TSH with low free T4 indicates:",
+      "options": [
+        "Primary hyperthyroidism",
+        "Secondary hyperthyroidism",
+        "Normal thyroid function",
+        "Primary hypothyroidism"
+      ],
+      "correct": 3,
+      "explanation": "The pituitary raises TSH when thyroid output falls.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m04",
+      "unit": 10,
+      "question": "An FEV1/FVC ratio below 0.70 indicates:",
+      "options": [
+        "Obstructive lung disease",
+        "Restrictive lung disease",
+        "Normal lungs",
+        "Anaemia"
+      ],
+      "correct": 0,
+      "explanation": "Seen in asthma and COPD.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m05",
+      "unit": 10,
+      "question": "A low MCV (microcytic) anaemia is typical of:",
+      "options": [
+        "Vitamin B12 deficiency",
+        "Iron deficiency",
+        "Folate deficiency",
+        "Methotrexate therapy"
+      ],
+      "correct": 1,
+      "explanation": "B12/folate deficiency causes macrocytosis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m06",
+      "unit": 10,
+      "question": "By Cockcroft–Gault, a man aged 60, weight 70 kg, serum creatinine 2.0 mg/dL has a CrCl of about:",
+      "options": [
+        "78 mL/min",
+        "19 mL/min",
+        "39 mL/min",
+        "120 mL/min"
+      ],
+      "correct": 2,
+      "explanation": "(80 × 70)/(72 × 2) ≈ 39 mL/min.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m07",
+      "unit": 10,
+      "question": "Warfarin therapy is monitored by:",
+      "options": [
+        "aPTT",
+        "Bleeding time",
+        "ESR",
+        "INR"
+      ],
+      "correct": 3,
+      "explanation": "INR target is usually 2–3; aPTT is for heparin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m08",
+      "unit": 10,
+      "question": "A disproportionate rise of ALP and GGT suggests:",
+      "options": [
+        "Cholestasis",
+        "Haemolysis",
+        "Myocardial infarction",
+        "Hypothyroidism"
+      ],
+      "correct": 0,
+      "explanation": "ALP/GGT rise most in obstruction of bile flow.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m09",
+      "unit": 10,
+      "question": "With Na 140, Cl 100 and HCO3 14 mmol/L, the anion gap is:",
+      "options": [
+        "12 mmol/L",
+        "26 mmol/L",
+        "54 mmol/L",
+        "10 mmol/L"
+      ],
+      "correct": 1,
+      "explanation": "140 − (100 + 14) = 26.",
+      "probability": "low"
+    },
+    {
+      "id": "u11-m01",
+      "unit": 11,
+      "question": "The antidote for paracetamol poisoning is:",
+      "options": [
+        "Naloxone",
+        "Flumazenil",
+        "N-acetylcysteine",
+        "Desferrioxamine"
+      ],
+      "correct": 2,
+      "explanation": "NAC restores glutathione and protects the liver.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m02",
+      "unit": 11,
+      "question": "Pinpoint pupils with excessive salivation and sweating suggest poisoning with:",
+      "options": [
+        "Datura",
+        "Amphetamines",
+        "Iron",
+        "Organophosphates"
+      ],
+      "correct": 3,
+      "explanation": "These are cholinergic signs.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m03",
+      "unit": 11,
+      "question": "The antidote for heparin overdose is:",
+      "options": [
+        "Protamine sulfate",
+        "Vitamin K",
+        "Methylene blue",
+        "Atropine"
+      ],
+      "correct": 0,
+      "explanation": "Protamine binds and neutralises heparin.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m04",
+      "unit": 11,
+      "question": "Desferrioxamine is the antidote for poisoning with:",
+      "options": [
+        "Lead",
+        "Iron",
+        "Cyanide",
+        "Methanol"
+      ],
+      "correct": 1,
+      "explanation": "It chelates iron.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m05",
+      "unit": 11,
+      "question": "Fomepizole is used in poisoning with:",
+      "options": [
+        "Paracetamol",
+        "Digoxin",
+        "Methanol",
+        "Benzodiazepines"
+      ],
+      "correct": 2,
+      "explanation": "It blocks alcohol dehydrogenase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m06",
+      "unit": 11,
+      "question": "Activated charcoal is NOT effective for:",
+      "options": [
+        "Paracetamol",
+        "Phenobarbital",
+        "Carbamazepine",
+        "Iron and lithium"
+      ],
+      "correct": 3,
+      "explanation": "Metals, alcohols, corrosives and hydrocarbons are not adsorbed well.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m07",
+      "unit": 11,
+      "question": "PubMed/MEDLINE is an example of a:",
+      "options": [
+        "Secondary source of drug information",
+        "Primary source",
+        "Tertiary source",
+        "Poison antidote"
+      ],
+      "correct": 0,
+      "explanation": "It indexes primary journal articles.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m08",
+      "unit": 11,
+      "question": "Martindale: The Complete Drug Reference is a:",
+      "options": [
+        "Primary source",
+        "Tertiary source",
+        "Secondary source",
+        "Clinical trial"
+      ],
+      "correct": 1,
+      "explanation": "It compiles summarised information.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m09",
+      "unit": 11,
+      "question": "The National Poisons Information Centre of India is located at:",
+      "options": [
+        "IPC, Ghaziabad",
+        "CDSCO, Mumbai",
+        "AIIMS, New Delhi",
+        "NIPER, Mohali"
+      ],
+      "correct": 2,
+      "explanation": "It works from AIIMS, New Delhi.",
+      "probability": "low"
+    },
+    {
+      "id": "u12-m01",
+      "unit": 12,
+      "question": "The National Coordination Centre of PvPI is the:",
+      "options": [
+        "CDSCO, New Delhi",
+        "ICMR, New Delhi",
+        "AIIMS, New Delhi",
+        "Indian Pharmacopoeia Commission, Ghaziabad"
+      ],
+      "correct": 3,
+      "explanation": "IPC Ghaziabad coordinates PvPI.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m02",
+      "unit": 12,
+      "question": "A Naranjo score of 7 indicates the ADR is:",
+      "options": [
+        "Probable",
+        "Definite",
+        "Possible",
+        "Doubtful"
+      ],
+      "correct": 0,
+      "explanation": "5–8 = probable; 9 or more = definite.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m03",
+      "unit": 12,
+      "question": "Bleeding with warfarin is an example of which ADR type?",
+      "options": [
+        "Type B (bizarre)",
+        "Type A (augmented)",
+        "Type E (end of use)",
+        "Type F (failure)"
+      ],
+      "correct": 1,
+      "explanation": "It is a dose-related extension of the drug's action.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m04",
+      "unit": 12,
+      "question": "Rifampicin reduces the effect of oral contraceptives by:",
+      "options": [
+        "Enzyme inhibition",
+        "Chelation",
+        "Enzyme induction",
+        "Protein-binding displacement"
+      ],
+      "correct": 2,
+      "explanation": "It speeds up hormone metabolism.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m05",
+      "unit": 12,
+      "question": "The correct way to write a dose of half a milligram is:",
+      "options": [
+        ".5 mg",
+        "0.50 mg",
+        "½mg",
+        "0.5 mg"
+      ],
+      "correct": 3,
+      "explanation": "Always use a leading zero and avoid trailing zeros.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m06",
+      "unit": 12,
+      "question": "Tall Man lettering is recommended by:",
+      "options": [
+        "ISMP",
+        "WHO-UMC",
+        "NABH",
+        "PCI"
+      ],
+      "correct": 0,
+      "explanation": "The Institute for Safe Medication Practices.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m07",
+      "unit": 12,
+      "question": "Probenecid increases the plasma level of penicillin by:",
+      "options": [
+        "Inducing liver enzymes",
+        "Blocking its renal tubular secretion",
+        "Increasing its absorption",
+        "Displacing it from plasma proteins"
+      ],
+      "correct": 1,
+      "explanation": "This interaction is used deliberately.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m08",
+      "unit": 12,
+      "question": "Tetracycline taken with antacids shows reduced absorption due to:",
+      "options": [
+        "Enzyme induction",
+        "Synergism",
+        "Chelation",
+        "Renal competition"
+      ],
+      "correct": 2,
+      "explanation": "Calcium, magnesium and aluminium ions form insoluble complexes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m09",
+      "unit": 12,
+      "question": "The toll-free PvPI helpline for reporting ADRs is:",
+      "options": [
+        "1800-11-4000",
+        "104",
+        "108",
+        "1800-180-3024"
+      ],
+      "correct": 3,
+      "explanation": "PvPI's helpline number is 1800-180-3024.",
+      "probability": "low"
+    }
+  ]
+}

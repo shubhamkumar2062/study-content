@@ -1,0 +1,138 @@
+{
+  "code": "ER20-25T",
+  "title": "Hospital and Clinical Pharmacy",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020), D.Pharm second year, Hospital and Clinical Pharmacy ER20-25T and ER20-25P (university copy of the PCI syllabus)",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-25T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-25P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Hospital pharmacy – organisation, standards and accreditation",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Committees in the hospital and the hospital formulary",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Drug lists, purchase procedures and inventory control",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Central drug store – storage, cold chain, expiry, disposal and documentation",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Drug distribution in the hospital",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Compounding in hospitals, IV admixtures and total parenteral nutrition",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Radiopharmaceuticals and computers in hospital pharmacy",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Clinical pharmacy – development, clinical terms and daily activities",
+      "notes": "notes/unit-8.md"
+    },
+    {
+      "number": 9,
+      "title": "Pharmaceutical care, drug-related problems, MTM and home medication review",
+      "notes": "notes/unit-9.md"
+    },
+    {
+      "number": 10,
+      "title": "Clinical laboratory tests – significance and interpretation",
+      "notes": "notes/unit-10.md"
+    },
+    {
+      "number": 11,
+      "title": "Poisoning, and drug and poison information centres",
+      "notes": "notes/unit-11.md"
+    },
+    {
+      "number": 12,
+      "title": "Pharmacovigilance, medication errors and drug interactions",
+      "notes": "notes/unit-12.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "drug-information-queries",
+      "title": "Systematic approach to drug information queries",
+      "file": "practicals/drug-information-queries.md"
+    },
+    {
+      "id": "lab-report-interpretation",
+      "title": "Interpretation of laboratory reports to optimise drug therapy",
+      "file": "practicals/lab-report-interpretation.md"
+    },
+    {
+      "id": "adr-reporting-causality",
+      "title": "Filling the IPC ADR reporting form and causality assessment",
+      "file": "practicals/adr-reporting-causality.md"
+    },
+    {
+      "id": "orthopaedic-surgical-aids",
+      "title": "Orthopaedic and surgical aids (knee cap, LS belt, abdominal belt, walker, walking sticks)",
+      "file": "practicals/orthopaedic-surgical-aids.md"
+    },
+    {
+      "id": "bandages",
+      "title": "Types of bandages and dressing materials (gauze, cotton, crepe)",
+      "file": "practicals/bandages.md"
+    },
+    {
+      "id": "medical-devices",
+      "title": "Needles, syringes, catheters, IV sets, urine bags, Ryle's tube, colostomy bags and oxygen masks",
+      "file": "practicals/medical-devices.md"
+    },
+    {
+      "id": "drug-interaction-case-studies",
+      "title": "Case studies on drug–drug interactions",
+      "file": "practicals/drug-interaction-case-studies.md"
+    },
+    {
+      "id": "wound-dressing",
+      "title": "Wound dressing (simulated cases and role play)",
+      "file": "practicals/wound-dressing.md"
+    },
+    {
+      "id": "injection-techniques",
+      "title": "Vaccination and injection techniques (IV, IM, SC) using mannequins",
+      "file": "practicals/injection-techniques.md"
+    },
+    {
+      "id": "hospital-pharmacy-software",
+      "title": "Use of hospital pharmacy software and digital health tools",
+      "file": "practicals/hospital-pharmacy-software.md"
+    }
+  ]
+}
