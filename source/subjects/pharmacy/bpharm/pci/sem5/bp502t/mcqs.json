@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Preformulation studies are carried out:",
+      "options": [
+        "After the product is marketed",
+        "Before formulation development begins",
+        "Only during stability testing",
+        "Only for parenteral products"
+      ],
+      "correct": 1,
+      "explanation": "Preformulation characterises the drug first so that the dosage form can be designed well.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Carr's compressibility index is calculated as:",
+      "options": [
+        "Tapped density ÷ bulk density",
+        "100 × bulk density ÷ tapped density",
+        "100 × (tapped density − bulk density) ÷ tapped density",
+        "tan θ = h/r"
+      ],
+      "correct": 2,
+      "explanation": "Tapped minus bulk, divided by tapped, times 100; the second option is the Hausner ratio.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "A Hausner ratio of about 1.15 indicates powder flow that is:",
+      "options": [
+        "Very, very poor",
+        "Poor",
+        "Passable",
+        "Good"
+      ],
+      "correct": 3,
+      "explanation": "Hausner ratio 1.12–1.18 is rated good flow.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Compared with the crystalline form, the amorphous form of a drug usually shows:",
+      "options": [
+        "Faster dissolution but poorer stability",
+        "Slower dissolution and better stability",
+        "A sharper melting point",
+        "Lower hygroscopicity"
+      ],
+      "correct": 0,
+      "explanation": "Lack of lattice order raises energy, so it dissolves faster but is less stable.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The stable polymorph of a drug has the:",
+      "options": [
+        "Lowest melting point and highest solubility",
+        "Highest solubility and lowest density",
+        "Highest melting point and lowest solubility",
+        "Fastest dissolution rate"
+      ],
+      "correct": 2,
+      "explanation": "The stable form has the lowest free energy, so it melts highest and dissolves least.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Conversion of L-hyoscyamine to atropine is an example of:",
+      "options": [
+        "Racemisation",
+        "Hydrolysis",
+        "Oxidation",
+        "Polymerisation"
+      ],
+      "correct": 0,
+      "explanation": "Atropine is the racemic (DL) form, with lower potency.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Which drug is best known for degrading by ester hydrolysis?",
+      "options": [
+        "Adrenaline",
+        "Aspirin",
+        "Vitamin A",
+        "Ascorbic acid"
+      ],
+      "correct": 1,
+      "explanation": "Aspirin hydrolyses to salicylic acid and acetic acid; the others mainly oxidise.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Disodium edetate is added to some formulations to:",
+      "options": [
+        "Act as a lubricant",
+        "Increase viscosity",
+        "Act as a sweetener",
+        "Bind metal ions that catalyse oxidation"
+      ],
+      "correct": 3,
+      "explanation": "Chelating agents remove trace metals that start oxidation chains.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "In BCS, a drug with low solubility and high permeability belongs to:",
+      "options": [
+        "Class II",
+        "Class I",
+        "Class III",
+        "Class IV"
+      ],
+      "correct": 0,
+      "explanation": "Class II absorption is limited by dissolution.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "In BCS, a drug is highly soluble when its highest dose dissolves in not more than:",
+      "options": [
+        "1 litre of water",
+        "50 ml of 0.1 M HCl",
+        "900 ml of buffer pH 7.4",
+        "250 ml of aqueous media over pH 1–6.8"
+      ],
+      "correct": 3,
+      "explanation": "The BCS uses 250 ml, roughly a glass of water taken with the dose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Which granulation method is preferred for a moisture-sensitive drug like aspirin?",
+      "options": [
+        "Wet granulation with starch paste",
+        "Wet granulation in a high-shear mixer",
+        "Dry granulation (slugging or roller compaction)",
+        "Fluidised bed granulation with water"
+      ],
+      "correct": 2,
+      "explanation": "Dry granulation avoids water and heat.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Magnesium stearate in a tablet acts mainly as a:",
+      "options": [
+        "Disintegrant",
+        "Binder",
+        "Diluent",
+        "Lubricant"
+      ],
+      "correct": 3,
+      "explanation": "It reduces friction between the tablet and the die wall.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Sodium starch glycolate is used in tablets as a:",
+      "options": [
+        "Superdisintegrant",
+        "Glidant",
+        "Lubricant",
+        "Film former"
+      ],
+      "correct": 0,
+      "explanation": "It swells rapidly in water and breaks the tablet apart.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Separation of the top or bottom crown of a tablet is called:",
+      "options": [
+        "Picking",
+        "Capping",
+        "Mottling",
+        "Binding"
+      ],
+      "correct": 1,
+      "explanation": "Capping is often caused by air trapped in the granules.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The correct order of sugar coating steps is:",
+      "options": [
+        "Subcoating → sealing → colouring → smoothing → polishing",
+        "Polishing → sealing → colouring → subcoating → smoothing",
+        "Colouring → sealing → subcoating → polishing → smoothing",
+        "Sealing → subcoating → smoothing → colouring → polishing"
+      ],
+      "correct": 3,
+      "explanation": "Sealing first protects the core from water in later syrup coats.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Cellulose acetate phthalate is used as an:",
+      "options": [
+        "Tablet diluent",
+        "Enteric coating polymer",
+        "Antiadherent",
+        "Plasticiser"
+      ],
+      "correct": 1,
+      "explanation": "Its acidic groups keep it insoluble in the stomach but soluble in the intestine.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "As per IP, for tablets of average weight 250 mg or more, the allowed weight deviation is:",
+      "options": [
+        "10%",
+        "7.5%",
+        "5%",
+        "15%"
+      ],
+      "correct": 2,
+      "explanation": "Limits are 10% (≤80 mg), 7.5% (80–250 mg), 5% (≥250 mg).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "In the friability test the tablets are rotated for:",
+      "options": [
+        "100 revolutions (25 rpm for 4 minutes)",
+        "50 revolutions",
+        "25 revolutions",
+        "500 revolutions"
+      ],
+      "correct": 0,
+      "explanation": "Loss of not more than 1% is generally acceptable.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The IP disintegration time limit for uncoated tablets is:",
+      "options": [
+        "30 minutes",
+        "15 minutes",
+        "60 minutes",
+        "5 minutes"
+      ],
+      "correct": 1,
+      "explanation": "Film-coated 30 and sugar-coated 60 minutes.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "A flocculated suspension shows:",
+      "options": [
+        "Fast settling with a loose sediment that redisperses easily",
+        "Slow settling and a hard cake",
+        "A cloudy supernatant for a long time",
+        "No sediment at all"
+      ],
+      "correct": 0,
+      "explanation": "Flocs settle quickly but do not cake.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Type A gelatin is obtained by:",
+      "options": [
+        "Alkali treatment of bones",
+        "Enzyme treatment of fish scales",
+        "Heating plant gums",
+        "Acid treatment, mainly of pork skin"
+      ],
+      "correct": 3,
+      "explanation": "Type B comes from alkali treatment of bones and hides.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Hard gelatin capsule shells normally contain about:",
+      "options": [
+        "13–16% moisture",
+        "1–2% moisture",
+        "30–35% moisture",
+        "50% moisture"
+      ],
+      "correct": 0,
+      "explanation": "Too little makes them brittle; too much makes them soft.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Hard gelatin capsule shells are manufactured by:",
+      "options": [
+        "The rotary die process",
+        "Dip moulding on stainless steel pins",
+        "Compression",
+        "Spray congealing"
+      ],
+      "correct": 1,
+      "explanation": "Pins are dipped, spun, dried, stripped, trimmed and joined.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The largest hard capsule size commonly listed for human use is:",
+      "options": [
+        "5",
+        "0",
+        "000",
+        "3"
+      ],
+      "correct": 2,
+      "explanation": "Sizes run from 000 (largest) to 5 (smallest).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The approximate fill volume of a size 1 hard capsule is:",
+      "options": [
+        "0.50 ml",
+        "0.13 ml",
+        "0.95 ml",
+        "1.37 ml"
+      ],
+      "correct": 0,
+      "explanation": "Size 1 holds about 0.50 ml.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A dosator (piston-tamp) capsule filling machine forms:",
+      "options": [
+        "Pellets by spheronisation",
+        "A gelatin ribbon",
+        "A powder plug inside a tube and ejects it into the capsule body",
+        "A sealed soft capsule"
+      ],
+      "correct": 2,
+      "explanation": "The tube dips into a powder bed and a piston compacts a plug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "As per IP, capsules with an average content weight of 300 mg or more may deviate by:",
+      "options": [
+        "10%",
+        "5%",
+        "15%",
+        "7.5%"
+      ],
+      "correct": 3,
+      "explanation": "Below 300 mg the limit is 10%.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The most widely used process for manufacturing soft gelatin capsules is the:",
+      "options": [
+        "Dip moulding process",
+        "Rotary die process",
+        "Pan coating process",
+        "Extrusion–spheronisation process"
+      ],
+      "correct": 1,
+      "explanation": "Two gelatin ribbons pass between rotating dies while fill is injected.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Base adsorption in soft capsule formulation is expressed as:",
+      "options": [
+        "Minims of capsule per ml",
+        "Grams of gelatin per gram of plasticiser",
+        "Grams of liquid base needed per gram of solid",
+        "Bloom strength in grams"
+      ],
+      "correct": 2,
+      "explanation": "It tells how much base a solid needs to become fillable.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The main excipient used as a spheronisation aid in extrusion–spheronisation is:",
+      "options": [
+        "Magnesium stearate",
+        "Microcrystalline cellulose",
+        "Talc",
+        "Sodium lauryl sulphate"
+      ],
+      "correct": 1,
+      "explanation": "MCC gives the wet mass the plasticity to form spheres.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Which preparation must NOT contain an antimicrobial preservative?",
+      "options": [
+        "Large-volume parenteral infusion",
+        "Multi-dose injection vial",
+        "Multi-dose eye drops",
+        "Multi-dose oral syrup"
+      ],
+      "correct": 0,
+      "explanation": "Large volumes would deliver a toxic amount of preservative.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Oily vehicles such as sesame oil are used for parenterals given by the:",
+      "options": [
+        "Intravenous route",
+        "Intramuscular route",
+        "Intrathecal route",
+        "Intra-arterial route"
+      ],
+      "correct": 1,
+      "explanation": "Oils cannot be given IV; they form IM depots.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "A 0.9% w/v sodium chloride solution is:",
+      "options": [
+        "Hypotonic",
+        "Hypertonic",
+        "Isotonic with blood",
+        "Haemolytic"
+      ],
+      "correct": 2,
+      "explanation": "Its freezing point is about −0.52 °C, like blood.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Standard moist-heat sterilisation of aqueous injections is carried out at:",
+      "options": [
+        "100 °C for 5 minutes",
+        "160 °C for 2 hours",
+        "60 °C for 1 hour",
+        "121 °C for 15 minutes"
+      ],
+      "correct": 3,
+      "explanation": "160 °C for 2 hours is dry heat.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "HEPA filters remove at least:",
+      "options": [
+        "50% of particles of 5 µm",
+        "99.97% of particles of 0.3 µm",
+        "90% of bacteria only",
+        "99.97% of viruses of 0.01 µm only"
+      ],
+      "correct": 1,
+      "explanation": "HEPA efficiency is defined at 0.3 µm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The bacterial endotoxin test uses:",
+      "options": [
+        "Rabbits",
+        "Fluid thioglycollate medium",
+        "Methylene blue",
+        "Limulus amoebocyte lysate"
+      ],
+      "correct": 3,
+      "explanation": "LAL from horseshoe crab blood clots in the presence of endotoxin.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "In the sterility test, soybean–casein digest medium is incubated at:",
+      "options": [
+        "20–25 °C",
+        "30–35 °C",
+        "37 °C",
+        "45–50 °C"
+      ],
+      "correct": 0,
+      "explanation": "Fluid thioglycollate medium is incubated at 30–35 °C.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "In lyophilisation, primary drying removes water by:",
+      "options": [
+        "Boiling at atmospheric pressure",
+        "Filtration",
+        "Sublimation of ice under vacuum",
+        "Desorption at high pressure"
+      ],
+      "correct": 2,
+      "explanation": "Secondary drying then removes bound water by desorption.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Type I glass is:",
+      "options": [
+        "Untreated soda-lime glass",
+        "Surface-treated soda-lime glass",
+        "General-purpose soda-lime glass",
+        "Borosilicate glass"
+      ],
+      "correct": 3,
+      "explanation": "Borosilicate glass has the highest hydrolytic resistance.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A preservative commonly used in eye drops is:",
+      "options": [
+        "Magnesium stearate",
+        "Sodium lauryl sulphate",
+        "Benzalkonium chloride",
+        "Carnauba wax"
+      ],
+      "correct": 2,
+      "explanation": "It is often combined with disodium edetate.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "In lipsticks, the oil mainly used to dissolve bromo acid (eosin) dyes is:",
+      "options": [
+        "Liquid paraffin",
+        "Castor oil",
+        "Olive oil",
+        "Silicone oil"
+      ],
+      "correct": 1,
+      "explanation": "Castor oil is a good solvent for staining dyes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The emulsifier in a classic beeswax–borax cold cream is formed by:",
+      "options": [
+        "Stearic acid and triethanolamine",
+        "Polysorbate 80",
+        "Reaction of borax with free fatty acids of beeswax",
+        "Acacia"
+      ],
+      "correct": 2,
+      "explanation": "Borax neutralises cerotic acid to give a sodium soap in situ.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Vanishing cream is mainly based on:",
+      "options": [
+        "Beeswax and borax",
+        "Wool fat and water",
+        "Soft paraffin",
+        "Partly saponified stearic acid"
+      ],
+      "correct": 3,
+      "explanation": "Stearate soap emulsifies the rest of the stearic acid in an o/w cream.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "In toothpaste, dicalcium phosphate acts as a:",
+      "options": [
+        "Abrasive",
+        "Humectant",
+        "Binder",
+        "Foaming agent"
+      ],
+      "correct": 0,
+      "explanation": "Abrasives remove plaque and stains.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In permanent hair dyes, p-phenylenediamine acts with:",
+      "options": [
+        "Lead acetate",
+        "Henna",
+        "Hydrogen peroxide as oxidising developer",
+        "Sodium chloride"
+      ],
+      "correct": 2,
+      "explanation": "Small precursors are oxidised inside the hair to coloured molecules.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Zinc oxide in sunscreens acts by:",
+      "options": [
+        "Reflecting and scattering UV radiation",
+        "Absorbing UV and converting it to fluorescence",
+        "Increasing melanin",
+        "Blocking only infrared"
+      ],
+      "correct": 0,
+      "explanation": "It is a physical (inorganic) blocker.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Chlorofluorocarbon propellants were phased out mainly because they:",
+      "options": [
+        "Are highly flammable",
+        "Deplete the stratospheric ozone layer",
+        "Are too expensive",
+        "Have very low vapour pressure"
+      ],
+      "correct": 1,
+      "explanation": "The Montreal Protocol controls ozone-depleting substances.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Using the 'add 90' rule, propellant 12 has the formula:",
+      "options": [
+        "CCl3F",
+        "C2Cl2F4",
+        "CHClF2",
+        "CCl2F2"
+      ],
+      "correct": 3,
+      "explanation": "12 + 90 = 102 → 1 C, 0 H, 2 F; remaining valences Cl.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The aerosol filling method not suitable for water-based products is:",
+      "options": [
+        "Cold filling",
+        "Pressure filling",
+        "Under-the-cap filling",
+        "Compressed gas filling"
+      ],
+      "correct": 0,
+      "explanation": "Chilling to very low temperature would freeze the water.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Migration of plasticiser from a PVC bag into an infusion is an example of:",
+      "options": [
+        "Permeation",
+        "Sorption",
+        "Light transmission",
+        "Leaching"
+      ],
+      "correct": 3,
+      "explanation": "Leaching is movement of pack components into the product.",
+      "probability": "high"
+    }
+  ]
+}

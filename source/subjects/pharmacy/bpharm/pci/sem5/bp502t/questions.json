@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define preformulation. Discuss its goals and the physical properties of a drug substance studied during preformulation.",
+      "answer": "1. Definition: study of the physical and chemical properties of a drug, alone and with excipients, before formulation, to design a stable, effective and manufacturable dosage form.\n2. Goals: build a physicochemical profile; spot problems (poor flow, solubility, stability); choose salt and crystal form; guide dosage form, excipients and process; give data for specifications and dossier.\n3. Physical form: crystalline (ordered, sharp melting point, stable) vs amorphous (faster dissolving, less stable); crystal habit affects flow and compression.\n4. Particle size and shape: affect dissolution (Noyes–Whitney), content uniformity, flow; methods — microscopy, sieving, sedimentation, Coulter counter, laser diffraction.\n5. Flow properties: angle of repose tan θ = h/r; bulk and tapped density; Carr's index = 100(ρt − ρb)/ρt; Hausner ratio = ρt/ρb.\n6. Solubility profile: pKa and pH (S = S0[1 + 10^(pH − pKa)] for weak acids), partition coefficient log P by octanol–water shake flask, intrinsic dissolution rate.\n7. Polymorphism: stable vs metastable forms, hydrates/solvates; detected by XRD, DSC, TGA, IR.\n8. Others: hygroscopicity, density, melting point, taste and odour.\n9. Conclude: these data decide direct compression vs granulation, salt choice, particle size and packaging."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the chemical degradation pathways of drugs studied in preformulation (hydrolysis, oxidation, reduction, racemisation, polymerisation) with examples and methods of prevention.",
+      "answer": "1. Hydrolysis: reaction with water, H+/OH− catalysed; esters (aspirin, procaine), amides (paracetamol, chloramphenicol), β-lactams (penicillins). Prevent: keep moisture out (dry granulation, desiccant, moisture-proof packs), optimum pH, dry powders for reconstitution, lyophilisation, cosolvents, suspensions.\n2. Oxidation: loss of electrons, often free-radical auto-oxidation started by light, heat and metal ions; adrenaline, ascorbic acid, vitamin A, oils. Prevent: nitrogen flushing, antioxidants (sodium metabisulphite; BHA, BHT, tocopherol for oils), chelating agent (disodium edetate), amber containers, cool storage.\n3. Reduction: gain of electrons; less common; controlled by excipient/impurity control, pH and light.\n4. Racemisation: optically active form → racemate with loss of potency; L-hyoscyamine → atropine, adrenaline in acid; controlled by pH and temperature.\n5. Polymerisation: ampicillin dimers in concentrated solution; formaldehyde → paraformaldehyde; glucose degradation products on heating; controlled by concentration, pH, short storage.\n6. Other routes: photolysis (nifedipine), decarboxylation, isomerisation.\n7. Stress studies (heat, humidity, acid, alkali, oxidant, light) identify the main route.\n8. Outcome: choice of pH, antioxidant, process and packaging; realistic shelf life."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is the Biopharmaceutics Classification System? Explain each class with examples and give its significance in formulation development.",
+      "answer": "1. BCS groups drugs by aqueous solubility and intestinal permeability.\n2. High solubility: highest dose strength dissolves in 250 ml or less of aqueous media over pH 1–6.8.\n3. High permeability: extent of absorption 85% or more (older guidance 90%).\n4. Rapid dissolution: at least 85% dissolved in 30 minutes.\n5. Class I (high S, high P): propranolol, metoprolol — conventional dosage forms, absorption fast.\n6. Class II (low S, high P): carbamazepine, ketoconazole — dissolution-limited; micronisation, salts, solid dispersions, surfactants, cyclodextrins.\n7. Class III (high S, low P): atenolol, cimetidine — permeability-limited; enhancers, prodrugs.\n8. Class IV (low S, low P): hydrochlorothiazide, furosemide (often placed) — difficult orally.\n9. Significance: predicts the rate-limiting step of absorption; guides formulation strategy; biowaivers for rapidly dissolving Class I (and in some guidelines Class III) products; sets dissolution specifications; helps IVIVC.\n10. Note: placement depends on dose, so sources may differ."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain polymorphism and its importance in preformulation.",
+      "answer": "Polymorphism is the existence of a substance in more than one crystalline form with the same chemical composition. Polymorphs differ in melting point, solubility, dissolution rate, density, hardness and stability. The stable form has the lowest energy, highest melting point and lowest solubility; metastable forms dissolve faster but change to the stable form. Enantiotropic forms interconvert reversibly; monotropic only one way. Hydrates and solvates are pseudopolymorphs. Examples: chloramphenicol palmitate (form B better absorbed), cocoa butter, ritonavir. Detection: XRD, DSC, TGA, hot-stage microscopy, IR. Importance: affects bioavailability, processing and stability, so the form must be chosen and controlled."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods used to evaluate flow properties of powders.",
+      "answer": "1. Angle of repose: powder poured through a fixed funnel forms a cone; tan θ = h/r. Lower angle = better flow (25–30° excellent, above about 40° poor).\n2. Bulk density = mass/poured volume; tapped density = mass/volume after tapping to constant volume.\n3. Carr's compressibility index = 100(ρt − ρb)/ρt; 10% or less excellent, 11–15% good, above about 25% poor.\n4. Hausner ratio = ρt/ρb; 1.00–1.11 excellent, above about 1.35 poor.\n5. Flow rate through an orifice and shear cell methods are also used.\nExample: ρb 0.50, ρt 0.625 g/ml → CI 20%, HR 1.25 (fair). Poor flow is improved by granulation or glidants."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the importance of pKa, pH and partition coefficient in preformulation.",
+      "answer": "Most drugs are weak acids or bases, so their ionisation depends on pH and pKa (Henderson–Hasselbalch). Ionised form is more water-soluble; un-ionised form crosses lipid membranes. Weak acid solubility S = S0[1 + 10^(pH − pKa)]; weak bases dissolve better at low pH. pKa is found by potentiometric titration, UV spectroscopy or solubility–pH profile. Partition coefficient P = Coctanol/Cwater for un-ionised drug (log P), measured by shake flask or HPLC; log D includes ionisation at a pH. These values predict absorption site, guide salt selection, pH of liquid and parenteral products and the risk of precipitation."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare crystalline and amorphous forms of drugs.",
+      "answer": "Crystalline: ordered lattice, sharp melting point, sharp XRD peaks, lower solubility and dissolution rate, better physical and chemical stability, less hygroscopic. Amorphous: random arrangement, glass transition instead of melting point, diffuse XRD halo, higher apparent solubility and faster dissolution, more hygroscopic, may crystallise on storage. Example: amorphous novobiocin is absorbed while the crystalline form is poorly absorbed. Amorphous forms (solid dispersions) are used to improve bioavailability of poorly soluble drugs, but stability must be watched."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the application of preformulation in the development of solid, liquid oral and parenteral dosage forms.",
+      "answer": "Solids: flow and compressibility decide direct compression or granulation; moisture- or heat-sensitive drugs avoid wet granulation; particle size and salt choice for poorly soluble drugs; compatibility studies select excipients (avoid aspirin with magnesium stearate). Liquid orals: solubility at palatable pH decides solution or suspension; pH–stability profile decides buffer; unstable antibiotics become powders for reconstitution; taste masking; preservative choice. Parenterals: solubility near pH 7.4 decides solution, cosolvent, suspension or emulsion; heat stability decides terminal sterilisation or filtration/lyophilisation; oxidation needs antioxidants and nitrogen; container compatibility. In all cases the main degradation route guides packaging and storage, improving stability."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "What are drug–excipient compatibility studies? Give examples of incompatibilities.",
+      "answer": "Drug is mixed with each excipient (often 1:1), stored at raised temperature and humidity, and examined by appearance, DSC, TLC/HPLC and IR for new peaks or loss of drug. Examples: primary or secondary amine drugs with lactose (Maillard browning); aspirin with alkaline magnesium stearate (faster hydrolysis); tetracycline with calcium salts (chelation, lower absorption); oxidisable drugs with excipients carrying peroxide impurities (povidone). Results decide which excipients are safe to use."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Carr's index and Hausner ratio.",
+      "answer": "Carr's index = 100 × (tapped density − bulk density)/tapped density; Hausner ratio = tapped density/bulk density. Both measure powder flow; lower values mean better flow."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give one example each of a drug degraded by hydrolysis and by oxidation.",
+      "answer": "Hydrolysis: aspirin (to salicylic and acetic acid). Oxidation: adrenaline (turns pink, then brown)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the wet granulation method of tablet manufacture with a flow chart. Add a note on dry granulation and direct compression.",
+      "answer": "1. Purpose of granulation: better flow and compressibility, uniform content, less dust, no segregation.\n2. Wet granulation steps: weigh and sift → dry mix drug and diluent (+ part of disintegrant) → add binder solution → wet massing (end point: ball test) → wet screening (about 6–12 mesh) → drying (tray or fluidised bed dryer) → dry screening (about 14–20 mesh) → blend with lubricant, glidant, extragranular disintegrant → compression.\n3. Equipment: planetary/sigma mixer, high-shear mixer granulator, fluidised bed granulator, oscillating granulator, multimill.\n4. Merits: good flow, compressibility, uniformity; demerits: many steps, cost, not for moisture/heat-sensitive drugs.\n5. Dry granulation: slugging (heavy press makes slugs, then milled) or roller compaction (ribbon milled); for moisture/heat-sensitive drugs such as aspirin.\n6. Direct compression: blend drug with directly compressible excipients (spray-dried lactose, microcrystalline cellulose, dibasic calcium phosphate) and compress; fewest steps, no heat or water; not suitable for high-dose poorly flowing drugs; segregation risk.\n7. Flow chart of each to be drawn."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is tablet coating? Describe the types of coating, the steps in sugar coating and the formulation of a film coating solution. List the equipment used.",
+      "answer": "1. Reasons: mask taste/odour, protect from moisture, light and air, enteric protection, controlled release, appearance and identification, ease of swallowing.\n2. Types: sugar, film, enteric, compression (press) coating, controlled-release coating.\n3. Sugar coating steps: sealing (shellac, CAP, zein) → subcoating (syrup + gum + talc/CaCO3, builds edges) → smoothing/syruping → colouring (dyes or lakes) → polishing (beeswax, carnauba in canvas pan) → printing.\n4. Film coating composition: polymer (HPMC, HPC, methylcellulose, ethylcellulose, povidone, methacrylate copolymers), plasticiser (PEG, propylene glycol, glycerin, triethyl citrate), solvent (water preferred; ethanol, isopropanol), colourant and opacifier (iron oxides, lakes, titanium dioxide), antitack agent (talc).\n5. Enteric polymers: CAP, HPMCP, polyvinyl acetate phthalate, Eudragit L and S, shellac.\n6. Equipment: conventional pan, pan with immersion tube/sword, perforated pans (Accela-Cota, Hi-Coater), fluidised bed (Wurster) coater, compression coater; airless or air-spray guns.\n7. Comparison: film is thin, fast, adds little weight; sugar is thick, slow, elegant."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the in-process and finished product quality control tests for tablets as per the Indian Pharmacopoeia.",
+      "answer": "1. IPQC: weight, thickness, hardness, friability, disintegration checked at intervals; granule moisture (LOD), size and flow; blend uniformity.\n2. Appearance: size, shape, colour, odour, markings, defects.\n3. Thickness and diameter by vernier or micrometer.\n4. Uniformity of weight: 20 tablets weighed; not more than 2 differ from average by more than 10% (≤80 mg), 7.5% (80–250 mg) or 5% (≥250 mg), none by twice that.\n5. Hardness: Monsanto, Pfizer, Strong-Cobb, Erweka; about 4 kg commonly taken as minimum for conventional tablets (not official).\n6. Friability: Roche friabilator 25 rpm, 4 min (100 rev); about 6.5 g of tablets (≤650 mg each) or 10 tablets; loss not more than 1%.\n7. Disintegration: 6-tube basket at 37 ± 2 °C; uncoated 15 min, film 30, sugar 60, dispersible 3, effervescent 5; enteric 2 h in 0.1 M HCl without disintegration, then pH 6.8 buffer within 60 min.\n8. Dissolution: basket or paddle, 900 ml at 37 ± 0.5 °C; stages S1 (6 units ≥ Q + 5%), S2, S3.\n9. Uniformity of content for low-dose tablets (10 units, 85–115% of average in the classic test).\n10. Assay and other tests as per monograph."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the causes and remedies of capping and lamination in tablet manufacture.",
+      "answer": "Capping is partial or complete separation of the top or bottom crown; lamination is splitting into two or more layers. Causes: air trapped in granules that expands on ejection, too many fines, granules too dry (or too moist), too little binder, deep-concave or worn punches and dies, too fast compression or high pressure, too much lubricant (lamination). Remedies: pre-compression, slower press speed, more or stronger binder, correct moisture content, removing fines, flat or shallow punches, new or tapered dies, reduced lubricant, changing to a better-binding diluent such as microcrystalline cellulose."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on tablet coating defects with causes and remedies.",
+      "answer": "Blistering — vapour trapped by too-hot drying; dry gently. Chipping — brittle film or fast pan; more plasticiser, slower pan. Cratering — liquid penetrates core; control spray and drying. Picking — wet tablets stick; slower spray, better drying. Pitting — core temperature above an ingredient's melting point. Blooming — plasticiser migrates; change it. Blushing — polymer precipitates at high temperature; lower temperature. Colour variation — poor mixing or dye migration. Infilling of logos — foam or droplets. Orange peel — viscous coat dries too fast; dilute, better atomisation. Cracking — internal stress; more plasticiser. Twinning — tablets stick together; change shape, faster drying."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify tablet excipients with examples and their functions.",
+      "answer": "Diluents: bulk — lactose, microcrystalline cellulose, dibasic calcium phosphate, starch, mannitol. Binders: cohesion — starch paste, gelatin, acacia, povidone, HPMC. Disintegrants: break-up by swelling and wicking — starch, croscarmellose sodium, sodium starch glycolate, crospovidone. Glidants: flow — colloidal silicon dioxide, talc. Lubricants: reduce die-wall friction — magnesium stearate, stearic acid, sodium stearyl fumarate. Antiadherents: stop sticking to punches — talc, corn starch. Others: colours (lakes), flavours, sweeteners (saccharin), wetting agents (SLS), buffers, adsorbents."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the formulation and manufacture of syrups and elixirs.",
+      "answer": "Syrup: concentrated sweet aqueous solution of sucrose; Simple Syrup IP about 66.7% w/w sucrose, self-preserving. Components: sugar (or sorbitol/glycerin), water, preservative (parabens, benzoate), flavour, colour, drug, buffer. Methods: solution with heat (avoid overheating — inversion, caramelisation), agitation without heat, adding sucrose to a medicated liquid, percolation. Filter and make up. Problems: crystallisation (cap locking), fermentation if dilute. Elixir: clear sweetened hydroalcoholic solution; alcohol dissolves drug and preserves; glycerin, propylene glycol, sorbitol as cosolvents; made by simple solution; filtered with talc if cloudy."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate flocculated and deflocculated suspensions and list the tests used to evaluate suspensions.",
+      "answer": "Flocculated: loose aggregates, fast settling, clear supernatant, high-volume loose sediment, easy redispersion, no caking. Deflocculated: separate particles, slow settling, cloudy supernatant, compact sediment that cakes. Controlled flocculation with electrolytes, surfactants or polymers in a structured vehicle is preferred. Evaluation: sedimentation volume F = Vu/Vo, degree of flocculation β = F/F∞, redispersibility, viscosity (Brookfield), particle size and zeta potential, pH, density, content uniformity, microbial limits."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the filling and packaging of liquid oral preparations.",
+      "answer": "Filling methods: gravity (overhead tank to a level, thin liquids), vacuum (container under vacuum draws liquid to level), piston/volumetric (fixed volume; viscous syrups, suspensions, emulsions; accurate), pressure/pump filling (high-speed lines). Suspensions are filled with continuous stirring. Packaging: amber glass or plastic (PET, HDPE) bottles; closures — screw caps with liners, ROPP aluminium caps, child-resistant caps; measuring cups or droppers; labels, cartons, leaflets. Checks: fill volume, closure torque, leakage, label accuracy."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the IP disintegration time for uncoated and film-coated tablets.",
+      "answer": "Uncoated tablets: 15 minutes; film-coated tablets: 30 minutes (unless the monograph states otherwise)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the composition of Simple Syrup IP?",
+      "answer": "About 66.7% w/w sucrose in purified water."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the manufacture of hard gelatin capsule shells. Discuss capsule sizes and the methods of filling hard gelatin capsules.",
+      "answer": "1. Gelatin: Type A (acid, pork skin, IEP 7–9) and Type B (alkali, bones/hides, IEP 4.7–5); Bloom strength and viscosity matter.\n2. Shell composition: gelatin, colours, titanium dioxide, preservative, water; 13–16% moisture.\n3. Dip moulding: stainless steel pins dipped in warm gelatin solution → spun → dried in controlled air → stripped → trimmed → caps and bodies joined → printed → sorted and packed.\n4. Self-locking shells (Coni-Snap type) prevent separation.\n5. Sizes 000 to 5: 1.37, 0.95, 0.68, 0.50, 0.37, 0.30, 0.21, 0.13 ml; size chosen from fill weight ÷ tapped density.\n6. Fill formulation: drug, diluent, glidant, lubricant, wetting agent.\n7. Filling steps: rectification → separation → filling body → closing → ejection.\n8. Methods: hand filling; hand-operated plate machines; auger fill; vibratory fill; dosator (piston-tamp, Zanasi type); dosing disc (tamping, Bosch/Höfliger type).\n9. Finishing: de-dusting, polishing (NaCl tumbling, cloth pans, brushes), banding/sealing."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are soft gelatin capsules? Describe the composition of the shell and fill, base adsorption and minim/gram factor, and the rotary die process of manufacture.",
+      "answer": "1. Definition: one-piece hermetically sealed shells of gelatin with plasticiser, filled with liquids, solutions, suspensions or pastes.\n2. Shell: gelatin + plasticiser (glycerin, sorbitol, propylene glycol) + water + colour, opacifier, preservative; dry plasticiser : dry gelatin about 0.4–1.0 decides softness.\n3. Fill: oils, MCT, PEG 400/600, non-ionic surfactants, suspensions; avoid much water, low-molecular alcohols, aldehydes, emulsions, strong acids or alkalis.\n4. Sizes described by shape and volume in minims (1 minim ≈ 0.0616 ml).\n5. Base adsorption = g of liquid base needed to make 1 g of solid fillable.\n6. Minim/gram factor = volume in minims of 1 g solid plus its base; fill volume = M/g × solid per capsule.\n7. Rotary die (Scherer) process: gelatin melted → two ribbons cast on drums → ribbons pass between two rotating dies → fill injected through a wedge between ribbons → dies seal and cut capsules → washed → tumble dried → tray dried to final moisture.\n8. Other methods: plate, reciprocating die (Norton), Accogel, seamless.\n9. Uses: vitamins A, D, E, fish oils, potent drugs, poorly soluble drugs in solution."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define pellets. Discuss formulation requirements, pelletisation processes and the equipment used for manufacturing pellets.",
+      "answer": "1. Pellets: small free-flowing spherical agglomerates, about 0.5–1.5 mm, for oral multiparticulate and modified-release systems.\n2. Advantages: even spread in gut, less dose dumping, less irritation, good flow, mixing of release rates, smooth surface for coating.\n3. Formulation: drug, spheronisation aid/filler (microcrystalline cellulose, lactose), binder (povidone, HPMC), granulating liquid, release polymers, starter cores (sugar or MCC spheres).\n4. Extrusion–spheronisation: dry mix → wet mass → extrude → spheronise on friction plate → dry → size → coat.\n5. Powder layering and solution/suspension layering on starter cores.\n6. Spray drying and spray congealing.\n7. Balling (spherical agglomeration), cryopelletisation (liquid nitrogen), melt pelletisation.\n8. Equipment: screw, sieve/basket, roll and ram extruders; spheroniser (marumeriser); fluidised bed with Wurster insert or rotor; coating pans; centrifugal granulators; spray dryers; dryers and sieves.\n9. Evaluation: size, shape, density, flow, friability, content, release."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the quality control tests for hard gelatin capsules.",
+      "answer": "Appearance (size, colour, defects, printing). Uniformity of weight (IP): 20 capsules weighed, emptied and shells weighed; not more than two deviate from average content weight by more than 10% (less than 300 mg) or 7.5% (300 mg or more), none by twice that. Disintegration: tablet apparatus with discs, usually within 30 minutes; enteric capsules first in acid then buffer. Dissolution with sinkers. Uniformity of content for low-dose capsules. Assay, moisture content and microbial limits as required. In process: fill weight checks, locking, shell moisture."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate hard and soft gelatin capsules.",
+      "answer": "Hard: two-piece (body and cap); gelatin without much plasticiser; made by dip moulding; shells made separately and filled later; filled with powders, granules, pellets; sizes 000–5; moisture 13–16%; filled by auger, dosator, disc machines. Soft: one-piece hermetically sealed; gelatin with glycerin/sorbitol; formed, filled and sealed in one operation (rotary die); filled with liquids, suspensions, pastes; sizes in minims and shapes; uses oils, vitamins, potent and poorly soluble drugs; give accurate liquid doses."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain base adsorption and minim/gram factor with an example.",
+      "answer": "Base adsorption (BA) is the weight of liquid base needed to wet and make 1 g of solid into a fillable mixture (BA = weight of base/weight of solid). Minim/gram factor (M/g) is the volume in minims occupied by 1 g of solid plus the base required for it. Fill volume per capsule = M/g × weight of solid per dose. Example: BA 0.7 and the mix of 1 g solid + 0.7 g base occupies 25 minims; for 0.4 g solid per capsule, fill = 0.4 × 25 = 10 minims, so a 10-minim capsule is chosen. Smaller BA gives smaller capsules."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the manufacturing defects of hard gelatin capsules and their causes.",
+      "answer": "Splitting of cap or body (brittle dry shells, poor fit); telescoping (cap pushed too far on body); dented or crushed shells; double caps; short or uneven fill (poor flow, machine fault); powder on the surface (poor de-dusting); loose or separated caps (poor locking); holes, cracks, bubbles (shell manufacture); colour and printing faults; brittleness at low humidity, softening and sticking at high humidity. Controlled by correct shell moisture, self-locking shells, good flow and machine settings."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on packing, storage and stability testing of soft gelatin capsules.",
+      "answer": "Packing in PVC/PVDC–aluminium blisters, strips or bottles with desiccant. Store in a cool dry place; high humidity softens and sticks shells, heat deforms them, very low humidity makes them brittle. Stability testing checks shell–fill interaction (migration of fill into the shell, cross-linking of gelatin by aldehydes forming a pellicle that slows dissolution), leakage, hardening or softening, colour change, assay and dissolution under long-term and accelerated conditions; enzymes may be added to the dissolution medium when cross-linking occurs."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Discuss the advantages and disadvantages of capsules as a dosage form.",
+      "answer": "Advantages: tasteless and odourless; easy to swallow; simple formulation with few excipients and no compression; fast release; attractive and identifiable; can carry powders, pellets, liquids; soft capsules give accurate liquid doses and better bioavailability. Disadvantages: unsuitable for very soluble irritant salts (KCl, bromides), efflorescent or deliquescent materials, and children who cannot swallow; animal origin of gelatin; shells sensitive to humidity and heat; generally costlier than tablets for large production."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the approximate volume of a size 0 capsule?",
+      "answer": "About 0.68 ml."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between Type A and Type B gelatin?",
+      "answer": "Type A is made by acid treatment (mainly pork skin), isoelectric point about 7–9; Type B by alkali treatment (bones, hides), isoelectric point about 4.7–5."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define parenteral preparations. Discuss their types, advantages, limitations, essential requirements, vehicles and additives.",
+      "answer": "1. Definition: sterile preparations given by injection, infusion or implantation, bypassing the gut.\n2. Types: solutions, suspensions, emulsions, sterile powders for reconstitution, LVPs (100 ml or more), SVPs, implants; routes IV, IM, SC, ID, intrathecal, intra-articular etc.\n3. Advantages: rapid action, complete bioavailability (IV), for unconscious/vomiting patients, for drugs destroyed orally, depot effect, fluid and nutrition therapy.\n4. Limitations: pain, trained staff, irreversible, infection and embolism risk, expensive manufacture.\n5. Requirements: sterile, pyrogen-free, particle-free, stable, isotonic, suitable pH, correct content, compatible packs.\n6. Vehicles: Water for Injections (distillation, stored hot), sterile and bacteriostatic water, cosolvents (ethanol, propylene glycol, PEG, glycerin), fixed oils and ethyl oleate for IM.\n7. Additives: preservatives (benzyl alcohol, phenol, chlorocresol, parabens; not in LVPs), antioxidants (sodium metabisulphite), chelating agents (edetate), buffers, tonicity agents (NaCl, dextrose), solubilisers (polysorbate 80), suspending and bulking agents, inert gases."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the production facilities, layout and environmental controls required for the manufacture of parenterals. Add a note on aseptic processing.",
+      "answer": "1. Production flow: washing → depyrogenation → compounding → filtration → filling and sealing → sterilisation → testing → packing.\n2. Layout: clean-up area, compounding area, aseptic filling area (core), quarantine and packaging; airlocks, pass boxes, change rooms.\n3. Clean room grades: A (ISO 5, laminar airflow, filling zone), B (background to A), C and D for less critical steps.\n4. Air: HEPA filters (≥ 99.97% at 0.3 µm), laminar flow, positive pressure cascade, controlled temperature and humidity.\n5. Construction: smooth, non-shedding, cleanable walls, floors, ceilings; coved corners; no drains in aseptic areas.\n6. Personnel: trained, sterile gowning, minimum movement.\n7. Monitoring: particle counts, settle and contact plates, surface swabs.\n8. Aseptic processing: sterile product (often filtered 0.22 µm) filled into sterile containers in Grade A under laminar flow with Grade B background; isolators, RABS, blow–fill–seal; validated by media fills; used for heat-sensitive products."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the quality control tests for parenteral products.",
+      "answer": "1. Sterility test (IP): membrane filtration (preferred) or direct inoculation; fluid thioglycollate medium at 30–35 °C and soybean–casein digest medium at 20–25 °C; 14 days; no growth = pass; aseptic technique, controls.\n2. Bacterial endotoxin test: Limulus amoebocyte lysate; gel-clot, turbidimetric, chromogenic.\n3. Pyrogen (rabbit) test: injection into ear vein of healthy rabbits, rectal temperature recorded for 3 hours, rise compared with limits.\n4. Particulate matter: visual inspection against black/white backgrounds; sub-visible by light obscuration or microscopy — LVP not more than 25/ml of ≥10 µm and 3/ml of ≥25 µm; SVP 6000 and 600 per container.\n5. Leaker test: ampoules in methylene blue under vacuum.\n6. Extractable volume, pH, assay, clarity, osmolality, uniformity of content/weight for powders, container closure integrity.\n7. Ophthalmic link: same sterility principle applies to eye products."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the process of freeze drying (lyophilisation) of parenteral products.",
+      "answer": "Freeze drying removes water from a frozen product by sublimation under vacuum. Steps: (1) Freezing below the eutectic or collapse temperature; (2) Primary drying — chamber evacuated, shelves warmed gently, ice sublimes and is caught on a cold condenser; (3) Secondary drying — bound water removed by desorption at higher shelf temperature; (4) stoppering under vacuum or nitrogen inside the chamber, then capping. Formulation: bulking agents (mannitol, glycine), cryo/lyoprotectants (sucrose, trehalose), buffers. Uses: proteins, vaccines, antibiotics. Merits: no heat, long shelf life, rapid reconstitution. Demerits: cost, long cycles, collapse or melt-back."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the types of glass and other containers and closures used for parenterals.",
+      "answer": "Glass: Type I borosilicate (highest hydrolytic resistance, for most injections), Type II surface-treated soda-lime (acidic and neutral products, infusion bottles), Type III soda-lime (non-aqueous products, dry powders); amber glass for light protection. Plastics: PE, PP, PVC and non-PVC bags; light, unbreakable; risks of leaching (DEHP), permeation and sorption (glyceryl trinitrate, diazepam). Rubber closures: natural, butyl, chlorobutyl, bromobutyl, silicone; butyl types preferred for low permeability; problems — leaching, sorption of preservatives, coring; closures washed, siliconised, sterilised. Selection depends on compatibility, protection, dose type and sterilisation."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the importance of isotonicity in parenterals and describe one method of adjusting tonicity with an example.",
+      "answer": "Isotonic solutions have the same osmotic pressure as body fluids (0.9% NaCl; freezing point −0.52 °C). Hypotonic solutions cause haemolysis; hypertonic cause crenation, pain and irritation. Important for IV, SC, intrathecal and eye products. Freezing-point method: W = (0.52 − a)/b, W = g of adjusting agent per 100 ml, a = depression of unadjusted solution, b = depression by 1% adjusting agent (0.576 for NaCl). Example: drug solution with a = 0.10 °C → W = 0.42/0.576 = 0.73 g NaCl/100 ml. Other methods: NaCl equivalent and White–Vincent."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on large volume parenterals.",
+      "answer": "LVPs are single-dose injections of 100 ml or more given by IV infusion. Requirements: sterile, pyrogen-free, free of particles, isotonic as far as possible, no antimicrobial preservative, terminally sterilised. Examples: dextrose 5%, sodium chloride 0.9%, Ringer's and Ringer lactate, amino acids, mannitol, fat emulsions, dextran. Containers: glass bottles with rubber closures, PVC and non-PVC bags, blow–fill–seal bottles. Uses: fluid and electrolyte replacement, nutrition, drug vehicle, plasma expansion. Tests include particulate limits (≤25/ml of ≥10 µm, ≤3/ml of ≥25 µm)."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the formulation considerations and preparation of eye drops.",
+      "answer": "Considerations: sterility; preservative for multi-dose (benzalkonium chloride with edetate, chlorobutanol, phenylmercuric nitrate, thiomersal); tonicity close to 0.9% NaCl; pH near 7.4 where stability allows, low buffer capacity; viscosity agents (methylcellulose, HPMC, PVA) to prolong contact; clarity; antioxidants; fine particles for suspensions. Preparation: dissolve ingredients in purified water, filter to clarify, then sterilise by autoclaving in the final container if stable or by 0.22 µm filtration and aseptic filling. Containers: sterile dropper bottles, LDPE squeeze bottles, single-dose units; label with discard period after opening."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the formulation, preparation and evaluation of eye ointments.",
+      "answer": "Base: sterile, non-irritant, e.g. yellow or white soft paraffin with liquid paraffin and wool fat (wool fat takes up water). Drug finely powdered or dissolved. Preparation: base melted, filtered hot and sterilised by dry heat; drug sterilised separately; incorporated aseptically; filled into sterile small collapsible tubes with narrow nozzles. Examples: chloramphenicol and tetracycline eye ointments. Evaluation: sterility, metal particles test (IP), particle size of drug, leakage test of tubes, drug content, consistency, stability."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the two media used in the sterility test and their incubation temperatures.",
+      "answer": "Fluid thioglycollate medium at 30–35 °C and soybean–casein digest medium at 20–25 °C."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the purpose of the leaker test?",
+      "answer": "To detect ampoules that are not sealed properly: ampoules are immersed in a dye solution (methylene blue) under vacuum and leaking ones take up the dye."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are pharmaceutical aerosols? Describe the components of an aerosol system with special reference to propellants, containers and valves.",
+      "answer": "1. Definition: pressurised dosage form in which drug is expelled by a propellant through a valve as spray, mist, foam or semisolid.\n2. Advantages: no contamination, protection from air and light, quick action, metered dose, clean topical use; disadvantages: cost, flammability, toxicity, environmental concerns, coordination needed.\n3. Components: product concentrate, propellant, container, valve, actuator.\n4. Propellants: CFCs (11, 12, 114 — ozone-depleting, phased out under Montreal Protocol); HFAs (134a, 227ea) for MDIs; hydrocarbons (propane, butane, isobutane — flammable); compressed gases (N2, CO2, N2O). Numbering rule: add 90 → C, H, F.\n5. Containers: tin-plated steel (lined), aluminium (seamless, coated), stainless steel, glass (plain or plastic-coated), plastics.\n6. Valve parts: actuator, stem, gasket, spring, mounting cup, housing, dip tube; metering valves deliver fixed volume (about 25–100 µl).\n7. Actuators: spray, foam, solid stream, oral/nasal inhaler."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the formulation and manufacture (filling) of aerosols and the tests used for their evaluation.",
+      "answer": "1. Formulation: drug, propellant blend for required pressure, cosolvent (ethanol), surfactant (sorbitan trioleate, oleic acid, lecithin), antioxidant, flavour; micronised drug (about 1–5 µm) for inhalation suspensions; moisture control.\n2. Systems: two-phase, three-phase, suspension, foam, compressed gas, barrier.\n3. Cold filling: concentrate and propellant chilled well below propellant boiling point, filled, valve crimped; not for aqueous products.\n4. Pressure filling: concentrate filled, valve crimped, propellant forced through the valve (or under the cap); most common.\n5. Compressed gas filling.\n6. Hot water bath leak test, check weighing.\n7. Evaluation: flammability (flame projection, flash point); vapour pressure, density, moisture, propellant identity (GC); valve discharge rate, spray pattern, net contents, dose uniformity, particle size (cascade impactor), foam stability, leakage; biological (activity, irritation, toxicity).\n8. Stability: storage upright and inverted, pressure, corrosion, assay, particle growth, delivered dose."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss materials used for pharmaceutical packaging, factors influencing choice of containers, and stability aspects of packaging materials.",
+      "answer": "1. Packaging levels: primary, secondary, tertiary; functions — containment, protection, identification, information, convenience.\n2. Glass: Types I–III, amber for light; inert, impermeable; heavy, fragile, alkali release.\n3. Plastics: LDPE, HDPE, PP, PVC, PET, PS; light, unbreakable; permeation, leaching, sorption.\n4. Metals: tin, aluminium (tubes, cans, foil); rubber (stoppers); paper and board; laminates.\n5. Pack types: blister (PVC/PVDC + Al foil, Alu–Alu), strip, bottles, sachets, tubes.\n6. Factors for choice: nature of product, protection needed, compatibility, use (single/multi-dose, child safety), sterilisation, strength, cost, appearance, legal requirements, environment.\n7. Stability aspects: permeation (moisture, gases), leaching (DEHP, alkali, rubber additives), sorption (GTN, diazepam onto PVC; preservatives into rubber), chemical reaction (corrosion), modification (swelling, cracking, delamination), light transmission.\n8. Packs are included in stability studies."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the formulation and method of preparation of cold cream and vanishing cream.",
+      "answer": "Cold cream (w/o, beeswax–borax type): white beeswax, liquid paraffin, borax, purified water, perfume, preservative. Melt beeswax with liquid paraffin at about 70–75 °C; dissolve borax in water at the same temperature; add aqueous phase to oil phase with stirring; borax neutralises free fatty acids of beeswax forming soap emulsifier; stir till cool; perfume at about 40 °C. Vanishing cream (o/w): stearic acid, potassium hydroxide or triethanolamine, glycerin, water, perfume. Melt stearic acid at about 75 °C; add hot alkali–glycerin solution with stirring; partial saponification forms stearate soap; stir to cool till pearly white cream forms; perfume at 40 °C. Cold cream is oily and cooling; vanishing cream is non-greasy."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the formulation and evaluation of lipsticks.",
+      "answer": "Ingredients: waxes for structure (beeswax, carnauba, candelilla, ozokerite, ceresin), oils (castor oil — dissolves bromo acid/eosin dyes; mineral oil, isopropyl myristate), fats (lanolin, cocoa butter, petrolatum), colourants (staining dyes, lakes, iron oxides, titanium dioxide, mica), perfume, flavour, antioxidant, preservative. Manufacture: grind pigments in oil on a roller mill, melt waxes and oils, mix, add perfume at lower temperature, pour into warmed split moulds, chill, remove, flame for gloss, fit into cases. Evaluation: melting point, breaking point, force of application, gloss, sweating and blooming on storage, colour uniformity, microbial and safety tests."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the formulation of shampoos and toothpastes.",
+      "answer": "Shampoo: anionic surfactant (SLS, SLES), amphoteric co-surfactant (cocamidopropyl betaine), conditioners (dimethicone, polyquaternium), thickener (NaCl), pearlising agent, sequestrant (edetate), pH adjuster (citric acid), preservative, perfume, actives (zinc pyrithione). Made by dissolving surfactants in water with slow stirring, adding others, adjusting pH and thickening. Toothpaste: abrasive (dicalcium phosphate, calcium carbonate, silica), humectant (glycerin, sorbitol), binder (sodium CMC, carrageenan), foaming agent (SLS), sweetener (saccharin), flavour (peppermint), fluoride (NaF, sodium monofluorophosphate), preservative. Made in a vacuum mixer, de-aerated and filled into tubes."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify hair dyes and describe the formulation of a permanent (oxidation) hair dye.",
+      "answer": "Types: temporary (coat hair surface, wash out), semi-permanent (small dyes enter cuticle, last several washes), permanent/oxidation, metallic (lead acetate, silver nitrate — progressive darkening), vegetable (henna, indigo). Oxidation dye: two parts mixed before use — (1) dye lotion/cream with primary intermediate p-phenylenediamine, couplers (resorcinol), ammonia (alkaliser), surfactants, thickener, antioxidant (sodium sulphite); (2) developer hydrogen peroxide. Small precursors enter hair and oxidise to large coloured molecules trapped inside. A patch test 48 hours before use is needed because p-phenylenediamine can cause allergic dermatitis."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on sunscreens.",
+      "answer": "UVB (about 290–320 nm) causes sunburn; UVA (about 320–400 nm) causes tanning, ageing, photosensitivity. Chemical absorbers: PABA and esters, cinnamates (octyl methoxycinnamate), salicylates, octocrylene (UVB); benzophenones, avobenzone (UVA). Physical blockers: zinc oxide, titanium dioxide (reflect and scatter). SPF = MED on protected skin ÷ MED on unprotected skin (mainly UVB); broad-spectrum products also cover UVA. Forms: lotions, creams, gels, sprays, sticks; water-resistant with film formers. Evaluation: SPF, UVA protection, water resistance, photostability, spreadability, stability, irritation."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the legal and official requirements for containers and the quality control tests for glass containers.",
+      "answer": "Official terms: well-closed, tightly closed, hermetically sealed, light-resistant, single-dose, multi-dose, tamper-evident containers. Legal (India): Drugs and Cosmetics Act and Rules require containers not to react with drugs, labels to carry name, strength, batch, dates, manufacturer and licence number, storage and warnings; Schedule M covers packaging material control. Glass tests (IP): hydrolytic resistance — powdered glass test (Types I and III) and water attack test (Type II); arsenic test for glass for aqueous parenterals; light transmission for coloured glass; thermal shock, bursting pressure and annealing checks."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name two propellants that replaced chlorofluorocarbons in metered-dose inhalers.",
+      "answer": "HFA-134a (tetrafluoroethane) and HFA-227ea (heptafluoropropane)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define SPF.",
+      "answer": "Sun Protection Factor = minimal erythemal dose on sunscreen-protected skin divided by minimal erythemal dose on unprotected skin."
+    }
+  ]
+}

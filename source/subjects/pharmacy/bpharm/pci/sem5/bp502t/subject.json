@@ -1,0 +1,108 @@
+{
+  "code": "BP502T",
+  "title": "Industrial Pharmacy I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP502T Industrial Pharmacy I and BP506P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP502T_B.Pharma-pages-24.pdf"
+  },
+  "practicalCodes": [
+    "BP506P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Preformulation studies",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Tablets and liquid orals",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Capsules and pellets",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Parenteral products and ophthalmic preparations",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Cosmetics, pharmaceutical aerosols and packaging materials science",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "preformulation-paracetamol",
+      "title": "Preformulation studies on paracetamol (or aspirin)",
+      "file": "practicals/preformulation-paracetamol.md"
+    },
+    {
+      "id": "paracetamol-tablets",
+      "title": "Preparation and evaluation of paracetamol tablets",
+      "file": "practicals/paracetamol-tablets.md"
+    },
+    {
+      "id": "aspirin-tablets",
+      "title": "Preparation and evaluation of aspirin tablets",
+      "file": "practicals/aspirin-tablets.md"
+    },
+    {
+      "id": "film-coating-tablets",
+      "title": "Film coating of tablets or granules",
+      "file": "practicals/film-coating-tablets.md"
+    },
+    {
+      "id": "tetracycline-capsules",
+      "title": "Preparation and evaluation of tetracycline capsules",
+      "file": "practicals/tetracycline-capsules.md"
+    },
+    {
+      "id": "calcium-gluconate-injection",
+      "title": "Preparation of calcium gluconate injection",
+      "file": "practicals/calcium-gluconate-injection.md"
+    },
+    {
+      "id": "ascorbic-acid-injection",
+      "title": "Preparation of ascorbic acid injection",
+      "file": "practicals/ascorbic-acid-injection.md"
+    },
+    {
+      "id": "qc-marketed-tablets-capsules",
+      "title": "Quality control tests of marketed tablets and capsules (as per IP)",
+      "file": "practicals/qc-marketed-tablets-capsules.md"
+    },
+    {
+      "id": "eye-drops-eye-ointment",
+      "title": "Preparation of eye drops and eye ointment",
+      "file": "practicals/eye-drops-eye-ointment.md"
+    },
+    {
+      "id": "cold-vanishing-cream",
+      "title": "Preparation of cold cream and vanishing cream",
+      "file": "practicals/cold-vanishing-cream.md"
+    },
+    {
+      "id": "glass-containers-evaluation",
+      "title": "Evaluation of glass containers (as per IP)",
+      "file": "practicals/glass-containers-evaluation.md"
+    }
+  ]
+}
