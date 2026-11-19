@@ -1,0 +1,718 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The WHO Programme for International Drug Monitoring was started in:",
+      "options": [
+        "1968",
+        "1961",
+        "1978",
+        "1990"
+      ],
+      "correct": 0,
+      "explanation": "It began in 1968 as a pilot with 10 countries, after the thalidomide disaster.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The WHO–Uppsala Monitoring Centre is located in:",
+      "options": [
+        "Switzerland",
+        "Sweden",
+        "Norway",
+        "Denmark"
+      ],
+      "correct": 1,
+      "explanation": "UMC is in Uppsala, Sweden, and has run the programme's technical work since 1978.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The National Coordination Centre of PvPI is at:",
+      "options": [
+        "AIIMS, New Delhi",
+        "CDSCO, Mumbai",
+        "Indian Pharmacopoeia Commission, Ghaziabad",
+        "NIPER, Mohali"
+      ],
+      "correct": 2,
+      "explanation": "The NCC moved from AIIMS to IPC Ghaziabad in April 2011.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The PvPI toll-free helpline number for reporting ADRs is:",
+      "options": [
+        "1800-11-4000",
+        "1075",
+        "1800-180-1104",
+        "1800-180-3024"
+      ],
+      "correct": 3,
+      "explanation": "PvPI's helpline 1800-180-3024 accepts ADR reports from professionals and the public.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "In the Naranjo algorithm, a total score of 5 to 8 indicates the ADR is:",
+      "options": [
+        "Probable",
+        "Definite",
+        "Possible",
+        "Doubtful"
+      ],
+      "correct": 0,
+      "explanation": "≥9 definite, 5–8 probable, 1–4 possible, ≤0 doubtful.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Anaphylaxis after penicillin in a sensitised patient is an example of which type of ADR?",
+      "options": [
+        "Type A (augmented)",
+        "Type B (bizarre)",
+        "Type C (chronic)",
+        "Type E (end of use)"
+      ],
+      "correct": 1,
+      "explanation": "Type B reactions are not dose-related, unpredictable and often immunological.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Rebound hypertension on sudden withdrawal of clonidine is a type:",
+      "options": [
+        "A reaction",
+        "D reaction",
+        "E reaction",
+        "F reaction"
+      ],
+      "correct": 2,
+      "explanation": "Type E = end of use (withdrawal) reactions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Which drug disaster of 1957–1961 led to modern pharmacovigilance systems?",
+      "options": [
+        "Sulfanilamide elixir",
+        "Practolol",
+        "Rofecoxib",
+        "Thalidomide"
+      ],
+      "correct": 3,
+      "explanation": "Thalidomide caused phocomelia and was withdrawn in 1961.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The scale commonly used to grade the severity of ADRs into mild, moderate and severe is:",
+      "options": [
+        "Modified Hartwig and Siegel scale",
+        "Naranjo algorithm",
+        "Schumock and Thornton criteria",
+        "Karch–Lasagna algorithm"
+      ],
+      "correct": 0,
+      "explanation": "Hartwig–Siegel has 7 levels: 1–2 mild, 3–4 moderate, 5–7 severe.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Preventability of an ADR is usually assessed using:",
+      "options": [
+        "WHO–UMC scale",
+        "Modified Schumock and Thornton criteria",
+        "Hartwig and Siegel scale",
+        "Brighton case definitions"
+      ],
+      "correct": 1,
+      "explanation": "Any 'yes' to the Schumock–Thornton questions makes the ADR preventable.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Which is NOT an ICH seriousness criterion for an adverse event?",
+      "options": [
+        "Death",
+        "Prolonged hospitalisation",
+        "Severe intensity of pain",
+        "Congenital anomaly"
+      ],
+      "correct": 2,
+      "explanation": "Seriousness is outcome-based; intensity is severity.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "How many levels does the ATC classification have?",
+      "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Five"
+      ],
+      "correct": 3,
+      "explanation": "Anatomical, therapeutic, pharmacological, chemical subgroup and chemical substance.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "In the ATC code A10BA02, the letter 'A' stands for:",
+      "options": [
+        "Alimentary tract and metabolism",
+        "Anti-infectives",
+        "Antineoplastic agents",
+        "Analgesics"
+      ],
+      "correct": 0,
+      "explanation": "A = alimentary tract and metabolism; A10BA02 is metformin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The level of MedDRA used for coding the reporter's verbatim term is:",
+      "options": [
+        "System Organ Class",
+        "Lowest Level Term",
+        "High Level Term",
+        "Preferred Term"
+      ],
+      "correct": 1,
+      "explanation": "Coding is done at LLT; analysis is usually at PT.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The number of System Organ Classes in MedDRA is:",
+      "options": [
+        "21",
+        "14",
+        "27",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "MedDRA has 27 SOCs.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The WHO Drug Dictionary (WHODrug) is maintained by:",
+      "options": [
+        "ICH MSSO",
+        "European Medicines Agency",
+        "WHO Oslo centre",
+        "WHO–Uppsala Monitoring Centre"
+      ],
+      "correct": 3,
+      "explanation": "UMC maintains WHODrug; MSSO maintains MedDRA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The INN stem '-sartan' indicates:",
+      "options": [
+        "Angiotensin II receptor blockers",
+        "ACE inhibitors",
+        "Beta-blockers",
+        "Statins"
+      ],
+      "correct": 0,
+      "explanation": "Losartan, telmisartan; ACE inhibitors use -pril.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The Defined Daily Dose is best described as:",
+      "options": [
+        "The recommended dose printed on the label",
+        "A technical unit: assumed average maintenance dose per day for the main indication in adults",
+        "The maximum safe daily dose",
+        "The dose used in children"
+      ],
+      "correct": 1,
+      "explanation": "DDD is a unit of measurement for drug use, not a recommended dose.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "ICD-11 came into effect on:",
+      "options": [
+        "1 January 2015",
+        "1 April 2019",
+        "1 January 2022",
+        "1 January 2010"
+      ],
+      "correct": 2,
+      "explanation": "ICD-11 was adopted in 2019 and took effect on 1 January 2022.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Standardised MedDRA Queries with 'narrow scope' are designed to be:",
+      "options": [
+        "Highly sensitive",
+        "Free text",
+        "Country-specific",
+        "Highly specific"
+      ],
+      "correct": 3,
+      "explanation": "Narrow scope = specific terms; broad scope adds less specific terms for sensitivity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The EudraVigilance Medicinal Product Dictionary is maintained by:",
+      "options": [
+        "European Medicines Agency",
+        "WHO–UMC",
+        "US FDA",
+        "CDSCO"
+      ],
+      "correct": 0,
+      "explanation": "xEVMPD is the EMA's product dictionary within EudraVigilance.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Fainting in a schoolchild just after an injection, due to fear of the needle, is classified as:",
+      "options": [
+        "Vaccine product-related reaction",
+        "Immunisation anxiety-related reaction",
+        "Vaccine quality defect-related reaction",
+        "Coincidental event"
+      ],
+      "correct": 1,
+      "explanation": "Reactions arising from fear or pain of injection are anxiety-related.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "An abscess at the injection site due to a non-sterile technique is an example of:",
+      "options": [
+        "Vaccine product-related reaction",
+        "Immunisation anxiety-related reaction",
+        "Immunisation error-related reaction",
+        "Coincidental event"
+      ],
+      "correct": 2,
+      "explanation": "Errors in handling or administration are preventable immunisation errors.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The main disadvantage of spontaneous reporting is:",
+      "options": [
+        "High cost",
+        "Inability to detect rare ADRs",
+        "Short duration",
+        "Under-reporting"
+      ],
+      "correct": 3,
+      "explanation": "Spontaneous systems are cheap and detect rare ADRs but most ADRs are never reported.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Case-control studies measure the association using:",
+      "options": [
+        "Odds ratio",
+        "Relative risk",
+        "Incidence rate",
+        "Prevalence"
+      ],
+      "correct": 0,
+      "explanation": "OR = ad/bc; cohort studies give relative risk.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Prescription event monitoring is a form of:",
+      "options": [
+        "Passive surveillance",
+        "Active surveillance",
+        "Case-control study",
+        "Targeted clinical investigation"
+      ],
+      "correct": 1,
+      "explanation": "Prescribers are asked about all events in a cohort of patients.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The proportional reporting ratio (PRR) is a measure used in:",
+      "options": [
+        "Causality assessment of one case",
+        "Severity grading",
+        "Quantitative signal detection",
+        "Preventability assessment"
+      ],
+      "correct": 2,
+      "explanation": "PRR is a disproportionality measure in spontaneous report databases.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "WHO–UMC uses which measure for Bayesian signal detection in VigiBase?",
+      "options": [
+        "Empirical Bayes geometric mean",
+        "Number needed to harm",
+        "Naranjo score",
+        "Information component"
+      ],
+      "correct": 3,
+      "explanation": "The IC comes from the Bayesian confidence propagation neural network; FDA uses EBGM.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Standard case definitions for adverse events following immunisation are published by the:",
+      "options": [
+        "Brighton Collaboration",
+        "CIOMS working group I",
+        "ICH E2B group",
+        "MSSO"
+      ],
+      "correct": 0,
+      "explanation": "Brighton definitions include levels of diagnostic certainty.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Development of the disease in a vaccinated person who never produced protective antibodies is:",
+      "options": [
+        "Secondary vaccine failure",
+        "Primary vaccine failure",
+        "Coincidental event",
+        "Immunisation anxiety reaction"
+      ],
+      "correct": 1,
+      "explanation": "Secondary failure is waning after initial immunity.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The 1997 declaration on communicating drug safety information is the:",
+      "options": [
+        "Helsinki Declaration",
+        "Alma-Ata Declaration",
+        "Erice Declaration",
+        "Doha Declaration"
+      ],
+      "correct": 2,
+      "explanation": "Erice called for honest, timely, evidence-based safety communication.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "ICH was founded in:",
+      "options": [
+        "1968",
+        "1949",
+        "2001",
+        "1990"
+      ],
+      "correct": 3,
+      "explanation": "ICH was formed in 1990 by regulators and industry of EU, Japan and USA.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Under ICH E2A, an unexpected fatal or life-threatening ADR must be reported within:",
+      "options": [
+        "7 calendar days",
+        "15 calendar days",
+        "30 calendar days",
+        "24 hours"
+      ],
+      "correct": 0,
+      "explanation": "Initial report within 7 days, complete report within 8 more days.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Other serious unexpected ADRs (not fatal or life-threatening) must be reported within:",
+      "options": [
+        "7 calendar days",
+        "15 calendar days",
+        "90 days",
+        "6 months"
+      ],
+      "correct": 1,
+      "explanation": "E2A and E2D set 15 days for other serious unexpected ADRs.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The ICH guideline dealing with electronic transmission of individual case safety reports is:",
+      "options": [
+        "E2A",
+        "E2C",
+        "E2B",
+        "E2E"
+      ],
+      "correct": 2,
+      "explanation": "E2B defines ICSR data elements (current version R3).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "ICH E2C(R2) converted the PSUR into the:",
+      "options": [
+        "Development Safety Update Report",
+        "Risk Management Plan",
+        "Clinical Study Report",
+        "Periodic Benefit–Risk Evaluation Report"
+      ],
+      "correct": 3,
+      "explanation": "The PBRER evaluates benefits and risks together.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The Development Safety Update Report is described in ICH:",
+      "options": [
+        "E2F",
+        "E2D",
+        "E6",
+        "E2E"
+      ],
+      "correct": 0,
+      "explanation": "E2F covers the annual DSUR for drugs in development.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "In ICH E2E, populations not studied before approval (such as pregnant women) are listed under:",
+      "options": [
+        "Important identified risks",
+        "Missing information",
+        "Routine pharmacovigilance",
+        "Risk minimisation"
+      ],
+      "correct": 1,
+      "explanation": "The safety specification has identified risks, potential risks and missing information.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The date of first marketing approval of a drug anywhere in the world is called the:",
+      "options": [
+        "Data lock point",
+        "Day zero",
+        "International Birth Date",
+        "Approval anniversary"
+      ],
+      "correct": 2,
+      "explanation": "PSUR periods are aligned to the IBD.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "hERG testing in safety pharmacology studies looks for the risk of:",
+      "options": [
+        "Hepatotoxicity",
+        "Teratogenicity",
+        "Carcinogenicity",
+        "QT prolongation"
+      ],
+      "correct": 3,
+      "explanation": "hERG channel block can prolong QT; covered by ICH S7B.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The ICH guideline on Good Clinical Practice is:",
+      "options": [
+        "E6",
+        "E2A",
+        "Q1A",
+        "M4"
+      ],
+      "correct": 0,
+      "explanation": "E6 GCP; current version E6(R3).",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Slow acetylators are more prone to peripheral neuropathy with:",
+      "options": [
+        "Rifampicin",
+        "Isoniazid",
+        "Ethambutol",
+        "Pyrazinamide"
+      ],
+      "correct": 1,
+      "explanation": "Isoniazid is metabolised by NAT2; slow acetylators accumulate it.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Ultrarapid CYP2D6 metabolisers may develop opioid toxicity with:",
+      "options": [
+        "Morphine",
+        "Fentanyl",
+        "Codeine",
+        "Buprenorphine"
+      ],
+      "correct": 2,
+      "explanation": "Codeine is converted to morphine by CYP2D6.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Haemolysis with primaquine occurs in patients with deficiency of:",
+      "options": [
+        "TPMT",
+        "Pseudocholinesterase",
+        "DPYD",
+        "G6PD"
+      ],
+      "correct": 3,
+      "explanation": "G6PD deficiency leaves red cells vulnerable to oxidant drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "HLA-B*15:02 is associated with SJS/TEN caused by:",
+      "options": [
+        "Carbamazepine",
+        "Abacavir",
+        "Allopurinol",
+        "Warfarin"
+      ],
+      "correct": 0,
+      "explanation": "Abacavir links to B*57:01 and allopurinol to B*58:01.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Grey baby syndrome in neonates is caused by:",
+      "options": [
+        "Tetracycline",
+        "Chloramphenicol",
+        "Sulphonamides",
+        "Aspirin"
+      ],
+      "correct": 1,
+      "explanation": "Immature glucuronidation leads to chloramphenicol accumulation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "CIOMS was established in 1949 by:",
+      "options": [
+        "WHO and ICH",
+        "UNICEF and WHO",
+        "WHO and UNESCO",
+        "European Union and FDA"
+      ],
+      "correct": 2,
+      "explanation": "CIOMS is an international NGO in Geneva set up by WHO and UNESCO.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "As per Indian rules, PSURs for a new drug are submitted:",
+      "options": [
+        "Annually for 5 years",
+        "Every 3 months for 1 year",
+        "Only once after approval",
+        "Every 6 months for 2 years, then annually for 2 years"
+      ],
+      "correct": 3,
+      "explanation": "Schedule Y and the NDCT Rules 2019 set this schedule.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The period of greatest risk of major structural malformations in the fetus is:",
+      "options": [
+        "Weeks 3 to 8 after conception",
+        "Weeks 0 to 2 after conception",
+        "The second trimester",
+        "The last month of pregnancy"
+      ],
+      "correct": 0,
+      "explanation": "Organogenesis occurs in weeks 3–8; weeks 0–2 is all-or-none.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The Beers criteria are used to identify:",
+      "options": [
+        "Teratogenic drugs",
+        "Potentially inappropriate medicines in older adults",
+        "Drugs safe in breastfeeding",
+        "Paediatric dose errors"
+      ],
+      "correct": 1,
+      "explanation": "Published by the American Geriatrics Society.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The New Drugs and Clinical Trials Rules in India were notified in:",
+      "options": [
+        "2005",
+        "2010",
+        "2019",
+        "1945"
+      ],
+      "correct": 2,
+      "explanation": "They replaced the clinical trial and new drug provisions of Schedule Y.",
+      "probability": "low"
+    }
+  ]
+}

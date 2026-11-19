@@ -1,0 +1,473 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define pharmacovigilance. Describe its aims and scope, and explain why post-marketing safety monitoring is necessary. Add a note on the history and development of pharmacovigilance.",
+      "answer": "1. Definition (WHO): science and activities relating to the detection, assessment, understanding and prevention of adverse effects or any other drug-related problem.\n2. Aims: improve patient safety and public health; detect new, rare and changed ADRs early; assess benefit–risk throughout a drug's life; promote rational use; educate and communicate.\n3. Scope: ADRs, medication errors, misuse/abuse/overdose, lack of efficacy and substandard products, interactions, herbal and traditional medicines, vaccines, biologicals, blood products, devices.\n4. Need for post-marketing monitoring — limits of trials ('five toos'): too few patients, too short, too simple (no co-morbidity), too median-aged, too narrow indications.\n5. Rule of three: about 3n exposed patients needed to see one case of a 1-in-n reaction with 95% confidence, so a 1 in 10,000 reaction needs about 30,000 patients.\n6. History: chloroform deaths (1848); sulfanilamide elixir with diethylene glycol (1937) → US FD&C Act 1938; thalidomide phocomelia, withdrawn 1961 → Kefauver–Harris amendments 1962, UK Yellow Card 1964.\n7. WHO Programme for International Drug Monitoring 1968 (10 countries); technical centre moved to Uppsala 1978 (WHO–UMC); ICH 1990.\n8. India: NPP 2004; PvPI July 2010 (AIIMS), NCC at IPC Ghaziabad from April 2011.\n9. Conclusion: final safety profile of a drug is built only after marketing."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define adverse drug reaction. Classify ADRs with examples. Describe the methods of causality assessment, with special reference to the WHO–UMC system and the Naranjo algorithm.",
+      "answer": "1. ADR (WHO): response to a drug that is noxious and unintended and occurs at doses normally used in man for prophylaxis, diagnosis or therapy or modification of physiological function.\n2. Classification (Rawlins–Thompson extended): A augmented (bleeding with anticoagulants), B bizarre (penicillin anaphylaxis, SJS), C chronic (adrenal suppression with steroids), D delayed (teratogenesis, carcinogenesis), E end of use (rebound hypertension after clonidine), F failure (contraceptive failure with enzyme inducers). Also DoTS, mechanism-based and CIOMS frequency classes.\n3. Causality assessment: judging how likely the drug caused the event, using time relationship, dechallenge, rechallenge, alternative causes, previous knowledge.\n4. WHO–UMC categories: certain, probable/likely, possible, unlikely, conditional/unclassified, unassessable/unclassifiable — with their criteria.\n5. Naranjo algorithm: 10 questions (previous reports, temporal sequence, dechallenge, rechallenge, alternative causes, placebo response, toxic drug level, dose–response, previous similar reaction, objective evidence); answers yes/no/do not know scored.\n6. Interpretation: ≥9 definite, 5–8 probable, 1–4 possible, ≤0 doubtful.\n7. Other methods: Karch–Lasagna, Kramer, Bayesian, RUCAM for liver injury.\n8. Uses and limits: standardises judgement; subjective, needs good data; rechallenge often unethical."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the Pharmacovigilance Programme of India (PvPI): its history, organisation, reporting tools and functions. Compare it briefly with the WHO international drug monitoring programme.",
+      "answer": "1. History: India joined WHO programme (late 1990s); NPP launched by CDSCO in November 2004; PvPI approved July 2010 with AIIMS New Delhi as NCC; NCC shifted to IPC Ghaziabad April 2011; WHO Collaborating Centre 2017.\n2. Mission: ensure benefits of medicines outweigh risks for the Indian population.\n3. Organisation: CDSCO (regulator) ← recommendations ← NCC-PvPI at IPC ← ADR Monitoring Centres (AMCs, mostly medical colleges) ← doctors, pharmacists, nurses, patients, MAHs.\n4. Tools: Suspected ADR Reporting Form for health professionals; consumer reporting form in Indian languages; ADR PvPI mobile app; e-mail; toll-free helpline 1800-180-3024; VigiFlow database.\n5. Functions: collect and assess reports, causality, signal detection, recommend regulatory action, drug safety alerts, training, newsletters; links with MvPI (devices) and AEFI surveillance.\n6. WHO programme: started 1968, UMC Uppsala since 1978, VigiBase global database, members worldwide; India sends reports to VigiBase.\n7. Comparison: PvPI is national and linked to CDSCO; WHO programme pools national data, finds international signals, maintains dictionaries and tools."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between severity and seriousness of an ADR. Describe the modified Hartwig and Siegel severity scale.",
+      "answer": "1. Severity = intensity of a reaction (mild, moderate, severe); seriousness = outcome-based regulatory criterion deciding reporting timelines.\n2. Seriousness criteria: death, life-threatening, hospitalisation or prolongation, persistent/significant disability, congenital anomaly, medically important event.\n3. A severe headache is not serious; a mild reaction causing admission is serious.\n4. Hartwig–Siegel: level 1 no change in treatment; 2 drug held/changed, no antidote; 3 antidote or other treatment needed (mild 1–2, moderate 3–4); 4 admission or longer stay; 5 ICU; 6 permanent harm; 7 death (severe 5–7)."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the preventability assessment of ADRs using the modified Schumock and Thornton criteria.",
+      "answer": "1. Purpose: find ADRs that could have been avoided so that systems can be improved.\n2. ADR preventable if yes to any: drug inappropriate for condition; dose, route or frequency inappropriate for age, weight or disease; required TDM or laboratory test not done; history of allergy or previous reaction; known interaction involved; toxic serum level documented; poor compliance involved.\n3. Categories: definitely preventable, probably preventable, not preventable.\n4. Use: medication safety programmes, education, policy changes in hospitals."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Outline the steps in the management of an adverse drug reaction and the role of the pharmacist.",
+      "answer": "1. Recognise the ADR: history, examination, time relationship.\n2. Stop or reduce the suspect drug (dechallenge) if benefit permits.\n3. Treat: symptomatic care or antidote (adrenaline for anaphylaxis, naloxone for opioids, vitamin K for warfarin bleeding).\n4. Substitute a safer drug of a different class.\n5. Document in case notes and allergy records; report to AMC/PvPI.\n6. Educate patient; give allergy card; prevent recurrence (avoid cross-reacting drugs, adjust doses).\n7. Pharmacist: detects ADRs while dispensing and counselling, fills reports, assesses causality, educates staff, publishes bulletins."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the WHO international drug monitoring programme and the role of the Uppsala Monitoring Centre.",
+      "answer": "1. Started 1968 after thalidomide as a pilot with 10 countries, following a 1963 World Health Assembly resolution.\n2. Technical responsibility moved to Uppsala, Sweden, in 1978 (WHO–UMC, a WHO Collaborating Centre).\n3. Member countries send ICSRs from their national centres.\n4. VigiBase: global database of ICSRs; VigiFlow: report management tool for national centres; VigiAccess: public search.\n5. UMC functions: signal detection (Bayesian information component), WHODrug dictionary, WHO–UMC causality system, training, communication.\n6. Membership now well over 170 countries and territories."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write the basic terminologies used in pharmacovigilance: adverse event, side effect, unexpected ADR, signal and medication error.",
+      "answer": "1. Adverse event: any untoward medical occurrence in a patient given a medicine, not necessarily caused by it.\n2. Side effect: unintended effect at normal doses related to the drug's pharmacological properties; can be beneficial.\n3. Unexpected ADR: nature, severity or outcome not consistent with reference safety information.\n4. Signal: reported information on a possible causal relationship, previously unknown or incompletely documented.\n5. Medication error: preventable failure in prescribing, dispensing, administering or monitoring.\n6. Every ADR is an AE; not every AE is an ADR."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the Naranjo score ranges for definite, probable, possible and doubtful ADRs.",
+      "answer": "Definite ≥9; probable 5–8; possible 1–4; doubtful 0 or less."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are the minimum four items needed for a valid ADR report?",
+      "answer": "An identifiable patient, an identifiable reporter, a suspect drug and a suspected reaction."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Where is the National Coordination Centre of PvPI and what is its toll-free helpline number?",
+      "answer": "Indian Pharmacopoeia Commission, Ghaziabad (since April 2011); helpline 1800-180-3024."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the Anatomical Therapeutic Chemical (ATC) classification and the Defined Daily Dose (DDD) system. Explain their uses in pharmacovigilance and drug utilisation studies.",
+      "answer": "1. ATC: classifies active substances by organ/system and therapeutic, pharmacological and chemical properties; maintained by WHO Collaborating Centre for Drug Statistics Methodology, Oslo.\n2. Five levels: 1 anatomical main group (14 letters: A, B, C, D, G, H, J, L, M, N, P, R, S, V); 2 therapeutic subgroup; 3 pharmacological subgroup; 4 chemical subgroup; 5 chemical substance.\n3. Example: metformin A10BA02 (A alimentary tract and metabolism → A10 drugs used in diabetes → A10B blood glucose lowering excluding insulins → A10BA biguanides → A10BA02 metformin); paracetamol N02BE01.\n4. Principles: one code per main indication and route; not a recommendation or proof of equivalence.\n5. DDD: assumed average maintenance dose per day for the main indication in adults; technical unit, not a recommended dose.\n6. Measures: DDD/1000 inhabitants/day = quantity (mg) × 1000 ÷ (DDD × days × inhabitants); DDD/100 bed-days in hospitals; DDD/inhabitant/year.\n7. Uses: comparing drug consumption across time and regions, denominators for ADR rates, antibiotic stewardship, grouping drugs in VigiBase, finding class effects.\n8. Limitations: not actual prescribed doses, no indication or adherence data, problems with combinations and children."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is MedDRA? Describe its structure, coding conventions and Standardised MedDRA Queries. Compare it with WHO-ART.",
+      "answer": "1. MedDRA: Medical Dictionary for Regulatory Activities, a clinically validated international medical terminology developed under ICH, maintained by MSSO, updated twice yearly (March, September).\n2. Uses: coding AEs, indications, medical history, investigations, in trials and post-marketing.\n3. Five levels: System Organ Class (27) → High Level Group Term → High Level Term → Preferred Term → Lowest Level Term.\n4. LLT for coding (synonyms, lay terms, e.g. 'throwing up'); PT is a single medical concept used for analysis.\n5. Multiaxial: PT can link to several SOCs but has one primary SOC to avoid double counting.\n6. Coding conventions: code reporter's verbatim faithfully; prefer diagnosis over symptoms when diagnosed; do not add information; record version.\n7. SMQs: grouped terms for a condition (rhabdomyolysis, SCAR, hepatic disorders, torsade de pointes); narrow scope (specific), broad scope (sensitive); hierarchical and algorithmic.\n8. WHO-ART: older WHO–UMC terminology, 4-level (SOC, HLT, PT, included term), simpler and less detailed; replaced by MedDRA.\n9. Comparison table: owner (ICH vs WHO–UMC), levels (5 vs 4), detail (very granular vs coarse), regulatory use (mandatory for E2B vs legacy)."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain how a pharmacovigilance programme is established in a hospital and how a drug safety department is organised in the pharmaceutical industry.",
+      "answer": "1. Hospital: management and P&T committee approval; link to PvPI as AMC.\n2. PV committee and coordinator (clinical pharmacist or pharmacologist).\n3. Tools: PvPI forms in wards, drop boxes, helpline/app information, ADR register.\n4. Training and non-punitive culture; CMEs and posters.\n5. Detection: spontaneous plus active (ward rounds, trigger tools, antidote use, lab alerts).\n6. Assessment: WHO–UMC/Naranjo, Hartwig severity, Schumock–Thornton preventability; reporting through VigiFlow; feedback and bulletins; formulary action; evaluation.\n7. Industry: MAH must maintain a PV system; head of drug safety / person responsible for PV.\n8. Units: case processing, aggregate reports (PSUR/PBRER, DSUR), signal management, risk management (RMP), quality (SOPs, audits, training).\n9. Case workflow: receipt → duplicate and validity check → triage → data entry → MedDRA/WHODrug coding → medical review and causality → narrative → QC → submission within timelines → follow-up.\n10. Literature monitoring, safety data exchange agreements, inspection readiness; CROs may do the work but MAH is responsible."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are International Nonproprietary Names? Give the importance of INNs and the use of common stems with examples.",
+      "answer": "1. INN: unique, globally recognised generic name chosen by WHO's INN programme (since 1950); public property, cannot be a trademark.\n2. Rules: distinctive, not too long, not confusable.\n3. Stems show class: -olol beta-blockers (atenolol), -pril ACE inhibitors (enalapril), -sartan ARBs (losartan), -statin (atorvastatin), -prazole PPIs (omeprazole), -oxacin quinolones (ciprofloxacin), -mab monoclonal antibodies (rituximab), -tinib kinase inhibitors (imatinib).\n4. Importance: pooling of reports on many brands, generic prescribing, fewer errors, international communication."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the International Classification of Diseases and its use in pharmacovigilance.",
+      "answer": "1. ICD: WHO standard for coding diseases, injuries and causes of death.\n2. ICD-10: endorsed 1990; letter + digit codes (E11 type 2 diabetes, I10 hypertension, J45 asthma); 22 chapters.\n3. ICD-11: adopted by WHA 2019, effective 1 January 2022; electronic, new alphanumeric codes.\n4. Includes codes for adverse effects of drugs and poisoning.\n5. PV use: coding indications and history, distinguishing disease from ADR, linking hospital records in studies, mortality statistics."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on WHO Drug Dictionary (WHODrug) and the EudraVigilance Medicinal Product Dictionary.",
+      "answer": "1. WHODrug Global: maintained by WHO–UMC; international dictionary of medicinal products (trade names, ingredients, manufacturers, countries).\n2. Drug codes link brand names to active ingredients; ATC codes attached; herbal products in WHODrug Herbal with herbal ATC.\n3. Used to code suspect and concomitant drugs in trials and ICSRs and analyse by ingredient or class.\n4. EVMPD/xEVMPD: EMA's dictionary within EudraVigilance; MAHs submit details of EU-authorised and investigational products (name, substance, strength, form, route, MAH, QPPV).\n5. Ensures accurate product identification in EU ICSRs; being aligned with ISO IDMP standards."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the basic and specialised information resources used in pharmacovigilance.",
+      "answer": "1. Basic: package inserts/SmPC, National Formulary of India, Indian Pharmacopoeia, BNF, Martindale, CIMS, pharmacology textbooks, Micromedex, Lexicomp, PubMed.\n2. Specialised ADR resources: Meyler's Side Effects of Drugs and Annual, Davies's Textbook of ADRs, Stockley's Drug Interactions, Reactions Weekly.\n3. Regulatory: WHO Pharmaceuticals Newsletter, WHO Drug Information, PvPI alerts, CDSCO notices.\n4. Databases: VigiAccess, FAERS, EudraVigilance public site, Yellow Card data.\n5. Special: LiverTox, LactMed, Briggs' Drugs in Pregnancy and Lactation.\n6. Order of search: tertiary → secondary → primary literature."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "What is a Contract Research Organisation? Describe its role in pharmacovigilance.",
+      "answer": "1. CRO: company contracted by a sponsor/MAH to perform trial- or PV-related tasks.\n2. PV services: case intake and processing, coding, literature screening, PSUR/PBRER writing, signal detection, medical review, call centres.\n3. MAH/sponsor remains legally responsible.\n4. Controls: written contracts, SOPs, audits, KPIs on timelines and quality, data protection.\n5. India has a large PV outsourcing sector employing pharmacy graduates."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "List the essential requirements for establishing a national pharmacovigilance programme.",
+      "answer": "1. National centre with mandate, trained staff and funding.\n2. Standard reporting form and easy channels.\n3. Database using international standards (E2B, MedDRA), link to WHO programme.\n4. Expert advisory committee for causality and signals.\n5. Clear link to the regulator for action.\n6. Peripheral/regional centres (AMCs).\n7. Communication strategy and feedback.\n8. Training and promotion of reporting; links with public health programmes."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the five levels of the MedDRA hierarchy.",
+      "answer": "System Organ Class, High Level Group Term, High Level Term, Preferred Term and Lowest Level Term."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define Defined Daily Dose.",
+      "answer": "The assumed average maintenance dose per day for a drug used for its main indication in adults; a technical unit of measurement, not a recommended dose."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define AEFI. Classify adverse events following immunisation with examples. Discuss vaccine pharmacovigilance and vaccination failure.",
+      "answer": "1. Vaccine PV: detection, assessment, understanding and communication of AEFI and other vaccine-related problems, and their prevention.\n2. Special need: healthy recipients, infants, mass campaigns, coincidental events, biologicals and cold chain, fragile public confidence.\n3. AEFI: any untoward medical occurrence following immunisation, not necessarily causally related.\n4. Classification: vaccine product-related (fever, local reactions, VAPP, anaphylaxis); vaccine quality defect-related; immunisation error-related (abscess from non-sterile injection, wrong diluent); immunisation anxiety-related (syncope, mass psychogenic reaction); coincidental.\n5. Brighton Collaboration case definitions; seriousness criteria as for drugs.\n6. India: AEFI committees at district, state and national level; investigation of serious AEFI; WHO causality — consistent, indeterminate, inconsistent, unclassifiable.\n7. Vaccine failure: disease in a fully vaccinated person; primary (no immune response) vs secondary (waning).\n8. Causes: vaccinee (immunodeficiency, maternal antibodies), vaccine (strain mismatch, low efficacy, poor lot), programme (cold-chain break, wrong schedule or route).\n9. Prevention: observation after vaccination, anaphylaxis kit, training, cold chain."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the methods used in pharmacovigilance: passive surveillance, stimulated reporting, active surveillance, comparative observational studies and targeted clinical investigations.",
+      "answer": "1. Passive surveillance: spontaneous reporting (PvPI form, Yellow Card, MedWatch) — cheap, lifelong, finds rare new ADRs; under-reporting, bias, no denominator. Case series establish signals.\n2. Stimulated reporting: campaigns, new-drug reporting schemes, Japan's early post-marketing phase vigilance; still spontaneous in nature.\n3. Active surveillance: sentinel sites; drug event monitoring (PEM — questionnaires to prescribers about all events in a cohort of patients); cohort event monitoring; registries (drug, pregnancy, disease); record linkage databases.\n4. Comparative observational studies: cross-sectional (prevalence), case-control (odds ratio, rare outcomes; DES and vaginal cancer), cohort (incidence, relative risk; oral contraceptives and VTE).\n5. Targeted clinical investigations: PK studies in risk groups, interaction studies, pharmacogenetic studies, large simple trials after a signal.\n6. Table comparing advantages and limitations; conclusion — methods complement each other."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is a signal? Explain qualitative and quantitative signal detection with formulas, and outline the signal management process.",
+      "answer": "1. Signal (WHO): reported information on a possible causal relationship between an AE and a drug, previously unknown or incompletely documented; usually more than one report.\n2. Qualitative: clinical review of reports, case series, designated medical events (SJS, agranulocytosis, liver failure), positive rechallenge.\n3. Quantitative (disproportionality) 2 × 2 table: a drug + event, b drug + other events, c other drugs + event, d other drugs + other events.\n4. PRR = [a/(a+b)]/[c/(c+d)]; ROR = ad/bc; screening rule PRR ≥2, χ² ≥4, ≥3 cases.\n5. Bayesian: information component (WHO–UMC, BCPNN), EBGM (FDA).\n6. Limits: reporting association only; need clinical review.\n7. Process: detection → validation → analysis and prioritisation → assessment → recommendation for action → exchange of information."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare case-control and cohort studies used in pharmacoepidemiology.",
+      "answer": "1. Case-control starts with outcome; cohort with exposure.\n2. Case-control looks backward; cohort forward (or historical).\n3. Case-control gives odds ratio = ad/bc; cohort gives incidence and relative risk = [a/(a+b)]/[c/(c+d)].\n4. Case-control best for rare outcomes, long latency; cohort for rare exposures and several outcomes.\n5. Case-control cheaper and faster; cohort larger, costlier, longer.\n6. Biases: recall and selection vs loss to follow-up.\n7. Examples: DES–vaginal adenocarcinoma, aspirin–Reye's (case-control); oral contraceptives–VTE (cohort)."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the advantages and disadvantages of spontaneous reporting.",
+      "answer": "1. Advantages: cheap, simple; covers all drugs and patients for the whole life of the drug; best for rare, new, unexpected ADRs; quick hypothesis generation; includes groups excluded from trials.\n2. Disadvantages: under-reporting; bias toward new, serious, publicised reactions; no denominator so no incidence; incomplete reports and duplicates; poor at delayed or common-background events.\n3. Reasons for under-reporting (Inman): complacency, fear, guilt, ambition, ignorance, diffidence, lethargy."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on prescription event monitoring and registries.",
+      "answer": "1. PEM: patients identified from prescriptions of a new drug (UK Drug Safety Research Unit); prescribers sent questionnaires after a set time asking about any event; cohort of thousands; event rates calculated and compared.\n2. Advantages: real-world, denominator, all events (not just suspected), quick after launch. Limits: response rate, no comparison group, mainly general practice.\n3. Cohort event monitoring by WHO uses the same principle in public health programmes.\n4. Registries: drug or exposure registries (pregnancy exposure registry), disease or outcome registries (aplastic anaemia, birth defects); used to compare outcomes in exposed and unexposed."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe crisis management and communication in drug safety.",
+      "answer": "1. Crisis: sudden safety problem threatening patients and confidence (new serious ADR, contamination, media reports).\n2. Preparation: plan, crisis team (safety, medical, regulatory, legal, quality, communications), one trained spokesperson.\n3. Rapid fact-finding and risk assessment.\n4. Decision with regulator: recall, suspension, restriction, label change.\n5. Communication by audience: regulators (immediate notification, expedited reports), partners (SDEA), health professionals (DHPC letters, alerts), media and public (press release, plain language, benefits with risks), patients (do not stop essential drugs without advice).\n6. Follow-up and lessons learned. Erice Declaration 1997: honest, timely, evidence-based communication."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on cross-sectional studies and targeted clinical investigations.",
+      "answer": "1. Cross-sectional: data on exposure and outcome at one time point; measures prevalence of drug use or ADRs; quick and cheap; cannot show temporal sequence, weak for causation.\n2. Example: one-day survey of ADR-related hospital admissions.\n3. Targeted clinical investigations: after a signal — PK studies in elderly or organ impairment, drug interaction studies, pharmacogenetic studies, mechanistic laboratory studies, large simple randomised trials for rare outcomes."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the formula for the proportional reporting ratio.",
+      "answer": "PRR = [a/(a+b)] ÷ [c/(c+d)], where a = reports of the event with the drug, b = other events with the drug, c = the event with all other drugs, d = other events with other drugs."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an immunisation anxiety-related reaction? Give an example.",
+      "answer": "A reaction caused by fear or pain of the injection rather than the vaccine, e.g. fainting (vasovagal syncope) or hyperventilation, sometimes as a mass reaction in schools."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the organisation and objectives of ICH. List the ICH E2 guidelines and explain expedited reporting requirements as per ICH E2A.",
+      "answer": "1. ICH founded 1990 by regulators and industry of EU, Japan and USA (EC/EMA–EFPIA, MHLW/PMDA–JPMA, FDA–PhRMA); reorganised 2015 as an association under Swiss law (International Council for Harmonisation).\n2. Structure: Assembly, Management Committee, MedDRA Management Committee, Secretariat, expert working groups; 5-step process.\n3. Objectives: harmonise registration requirements, avoid duplicate testing, faster and cheaper development, common electronic standards.\n4. Guideline categories Q, S, E, M.\n5. E2 series: E2A expedited reporting definitions; E2B ICSR data elements (R3); E2C PSUR → PBRER (R2, 2012); E2D post-approval safety data; E2E pharmacovigilance planning; E2F DSUR.\n6. E2A definitions: AE, ADR (reasonable possibility), unexpected, serious.\n7. Expedite: serious and unexpected ADRs. Fatal/life-threatening: within 7 calendar days, complete report within 8 more days; other serious unexpected: within 15 calendar days; day 0 = first receipt of minimum information.\n8. Not expedited: non-serious, serious expected (go to periodic reports); blind usually broken for SUSARs; CIOMS I or E2B format."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a PSUR? Describe its objectives, key concepts, contents and frequency. How does the PBRER differ from the PSUR?",
+      "answer": "1. PSUR: periodic report by MAH on worldwide safety experience of a marketed drug over a defined period, with evaluation of benefit–risk; ICH E2C; originated in CIOMS II.\n2. Objectives: summarise new safety data, compare with previous knowledge, decide whether label or other action is needed.\n3. Concepts: International Birth Date (first approval anywhere), data lock point, reference safety information (company core safety information).\n4. Contents: introduction; worldwide authorisation status; safety actions; changes to RSI; patient exposure; individual case histories (line listings, summary tabulations); studies; other information; overall safety evaluation; conclusion.\n5. Frequency (India, Schedule Y / NDCT Rules 2019): every 6 months for first 2 years, annually for next 2 years; other regions set by regulator.\n6. PBRER (E2C(R2), 2012): evaluates benefits and risks together; cumulative data; sections on signals (new, ongoing, closed), risk evaluation, benefit evaluation and integrated benefit–risk analysis; modular, shares sections with DSUR and RMP."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain safety data generation during the pre-clinical, clinical and post-approval phases of drug development.",
+      "answer": "1. Pre-clinical (GLP, ICH S guidelines): acute and repeated-dose toxicity, safety pharmacology (CNS, CVS incl. hERG/QT, respiratory), genotoxicity, carcinogenicity, reproductive and developmental toxicity, toxicokinetics, local tolerance; limits — species differences (thalidomide).\n2. Phase I: healthy volunteers, tolerability and PK; Phase II: hundreds of patients, short-term safety, dose–response; Phase III: larger randomised trials, common ADRs, benefit–risk.\n3. Trial safety tools: Investigator's Brochure (reference safety information), AE collection, SAE reporting, SUSAR expedited reporting, DSMB, DSUR (E2F).\n4. Post-approval (PMS/phase IV): spontaneous and solicited reports, literature, PASS, registries, PSUR/PBRER, RMP.\n5. Outcomes of PMS: new warnings, dose changes, restricted use, boxed warning, withdrawal (rofecoxib, cerivastatin)."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is an individual case safety report? List its main data elements as per ICH E2B.",
+      "answer": "1. ICSR: report of one or more suspected ADRs in one patient at a specific time.\n2. E2B: standard data elements for electronic transmission; E2B(R3) uses HL7 XML.\n3. Elements: case administrative information (ID, dates, report type, seriousness); primary source/reporter; sender and receiver; literature or study reference; patient (initials, age, sex, weight, history, past drugs, death details); reactions (verbatim and MedDRA, onset, outcome); tests; drugs (suspect, concomitant, interacting; dose, route, dates, indication, action, dechallenge/rechallenge); narrative, comments, causality.\n4. Validity: four minimum criteria; follow-ups as new versions."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain ICH E2E pharmacovigilance planning.",
+      "answer": "1. Purpose: plan PV activities around approval of new drugs or indications.\n2. Safety specification: important identified risks, important potential risks, missing information (children, pregnancy, organ impairment), plus epidemiology and non-clinical data.\n3. Pharmacovigilance plan: routine PV (spontaneous reports, PSURs, signal detection) for all; additional actions (PASS, registries, active surveillance, targeted studies) for specific concerns, with milestones.\n4. Basis of the Risk Management Plan, which adds routine and additional risk minimisation (labelling, education, controlled access)."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How should a case narrative be written? State the qualities of a good narrative.",
+      "answer": "1. Structure: source and type of report; age and sex; relevant history and risk factors; concomitant drugs; suspect drug with indication, dose, route and start date; event onset, signs and diagnosis; investigations with values and dates; treatment; action taken, dechallenge and rechallenge; outcome; reporter's and sender's assessment.\n2. Qualities: chronological, complete, accurate (matches data fields), objective, concise, no unexplained abbreviations, protects identity, consistent with MedDRA coding, stands alone."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe post-approval safety data management as per ICH E2D.",
+      "answer": "1. Unsolicited sources: spontaneous reports (implied causality), literature, internet and digital media, other sources.\n2. Solicited sources: patient support programmes, surveys, registries, studies — handled like study reports with causality assessment.\n3. Serious unexpected ADRs expedited within 15 calendar days; literature screened regularly (day 0 = awareness).\n4. Special situations: lack of efficacy, overdose, abuse, misuse, medication errors, pregnancy and lactation exposure.\n5. Good case management: follow-up, duplicate checks, data quality; revised as E2D(R1) in 2025."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the principles of good clinical practice in pharmacovigilance studies.",
+      "answer": "1. GCP (ICH E6, now E6(R3)): ethical and scientific standard for trials.\n2. Participants' rights, safety and well-being first; Declaration of Helsinki.\n3. Ethics committee approval and informed consent.\n4. Sound protocol followed; qualified investigators.\n5. Accurate, verifiable, confidential data.\n6. Prompt AE/SAE reporting to sponsor; SUSARs to regulators and ethics committees.\n7. Monitoring, audits, quality management.\n8. Observational PASS follow Good Pharmacoepidemiology Practice: protocol, ethics review, data protection, ADR reporting, publication."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the ICH E2A timeline for reporting a fatal or life-threatening unexpected ADR.",
+      "answer": "As soon as possible but no later than 7 calendar days after first knowledge, followed by a complete report within 8 additional calendar days."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the International Birth Date?",
+      "answer": "The date of the first marketing approval of a medicine anywhere in the world; periodic reporting cycles are aligned to it."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the pharmacogenomics of adverse drug reactions with suitable examples, focusing on genes that affect pharmacokinetics.",
+      "answer": "1. Pharmacogenetics/pharmacogenomics: inherited differences in drug response; polymorphism >1% of population; phenotypes poor, intermediate, normal, ultrarapid metabolisers.\n2. Poor metaboliser → accumulation and type A toxicity (prodrug → failure); ultrarapid → failure (prodrug → toxicity).\n3. CYP2D6: codeine/tramadol — ultrarapid metabolisers form excess morphine, respiratory depression; poor — no analgesia; TCAs, metoprolol in poor metabolisers.\n4. CYP2C9 (with VKORC1): warfarin bleeding; phenytoin toxicity.\n5. CYP2C19 poor metabolisers: clopidogrel failure, stent thrombosis.\n6. NAT2 slow acetylators: isoniazid neuropathy and hepatotoxicity; hydralazine and procainamide lupus.\n7. TPMT/NUDT15: azathioprine, 6-MP marrow suppression. DPYD: 5-FU severe toxicity. UGT1A1*28: irinotecan neutropenia.\n8. Pseudocholinesterase variants: succinylcholine apnoea. G6PD deficiency: haemolysis with primaquine, dapsone.\n9. HLA examples: B*57:01 abacavir, B*15:02 carbamazepine SJS/TEN (Asian), B*58:01 allopurinol.\n10. Applications: pre-treatment testing, genotype-guided dosing, label warnings, ethnic clusters, DNA collection in ADR studies."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe drug safety evaluation in special populations: paediatrics, pregnancy and lactation, and geriatrics.",
+      "answer": "1. Paediatrics: few trials, off-label use; PK — higher gastric pH, more body water, low protein binding, immature glucuronidation, low GFR in neonates; dosing errors; ADRs — grey baby (chloramphenicol), kernicterus (sulphonamides), teeth staining (tetracyclines), Reye's (aspirin), gasping syndrome (benzyl alcohol).\n2. Pregnancy: excluded from trials; physiological changes; timing — 0–2 weeks all or none, 3–8 weeks organogenesis, later growth/function; teratogens — thalidomide, isotretinoin, valproate, warfarin, phenytoin, ACE inhibitors (fetotoxic), DES; FDA letters replaced by PLLR 2015; registries and follow-up of exposed pregnancies.\n3. Lactation: transfer depends on lipid solubility, molecular weight, protein binding, ionisation (weak bases trapped); M/P ratio, relative infant dose (<about 10% generally acceptable); avoid cytotoxics, radiopharmaceuticals; caution lithium, amiodarone, codeine.\n4. Geriatrics: polypharmacy, reduced renal and hepatic function, more fat, CNS sensitivity, prescribing cascade; ADRs — falls with sedatives, anticholinergic confusion, NSAID bleeding, hyponatraemia, digoxin toxicity; Beers and STOPP/START criteria, medication review, deprescribing."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the role of CDSCO in pharmacovigilance. Discuss the provisions of the Drugs and Cosmetics Act and Schedule Y relevant to drug safety, and compare Indian and global pharmacovigilance requirements.",
+      "answer": "1. CDSCO: national regulator under DGHS, MoHFW, headed by DCGI.\n2. PV functions: approvals with post-marketing conditions; receives SAE reports, PSURs and serious ADRs; acts on PvPI recommendations (label changes, alerts, restrictions, bans of irrational FDCs); inspections; guidance for MAHs (2018) requiring a PV system and responsible person.\n3. D&C Act 1940 and Rules 1945: control of import, manufacture, sale.\n4. Schedule Y (2005): new drug and clinical trial requirements; PSUR every 6 months for 2 years then annually for 2 years; SAE reporting in trials; ethics committee and consent.\n5. NDCT Rules 2019 replaced Schedule Y provisions: SAE by investigator within 24 hours, analysed report within 14 days; PSUR schedule retained.\n6. India vs global: PvPI/AMCs vs mature systems (EudraVigilance, FAERS); person responsible for PV vs EU QPPV and PSMF; PSUR schedule vs risk-based PBRER; less formal RMP vs EU RMP/US REMS; under-reporting, FDCs, self-medication, AYUSH, languages.\n7. Common ground: ICH E2A definitions, MedDRA, E2B reporting via VigiFlow, WHO membership."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on CIOMS and its working groups.",
+      "answer": "1. CIOMS: Council for International Organizations of Medical Sciences, established 1949 by WHO and UNESCO, Geneva.\n2. Working groups of regulators, industry and academics; outputs became ICH guidelines.\n3. I: international ADR reporting, CIOMS I form (→ E2A); II: periodic safety updates (→ E2C PSUR); III: core clinical safety information; IV: benefit–risk of marketed drugs; V: current challenges (consumer reports, literature, lack of efficacy); VI: clinical trial safety; VII: DSUR (→ E2F); VIII: signal detection; IX: risk minimisation; X: meta-analysis.\n4. Also ethical guidelines for health research and ADR frequency terms."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the CIOMS I form.",
+      "answer": "1. Standard form for reporting a single suspected ADR from manufacturers to regulators.\n2. Reaction information: patient initials, country, date of birth/age, sex, onset date, description and tests, seriousness boxes (died, hospitalisation, disability, life-threatening).\n3. Suspect drug information: name, daily dose, route, indication, therapy dates and duration, dechallenge (abated after stopping?) and rechallenge (reappeared?).\n4. Concomitant drugs and relevant history (diagnoses, allergies, pregnancy).\n5. Manufacturer information: name, address, control number, date received, report source (study, literature, health professional), initial or follow-up."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the transfer of drugs into breast milk and the safety evaluation of drugs during lactation.",
+      "answer": "1. Factors: high lipid solubility, low molecular weight, low protein binding, weak bases (ion trapping in slightly acidic milk), maternal level, half-life.\n2. Infant factors: age, prematurity, oral bioavailability.\n3. Measures: milk-to-plasma ratio; relative infant dose (under about 10% usually compatible).\n4. Avoid or caution: cytotoxics, radiopharmaceuticals, lithium, amiodarone, ergots, codeine.\n5. Practice: report infant effects, use LactMed, choose well-studied drugs, time doses after feeds."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Why are the elderly more prone to ADRs? Name tools used to reduce inappropriate prescribing in older people.",
+      "answer": "1. Polypharmacy and multiple prescribers.\n2. PK: reduced renal function, reduced hepatic blood flow and mass, more fat, less water, lower albumin.\n3. PD: CNS sensitivity, impaired baroreflex and homeostasis.\n4. Cognitive and sensory problems → adherence errors; prescribing cascade; under-representation in trials.\n5. Examples: falls with benzodiazepines, anticholinergic confusion, NSAID GI bleeding, hyponatraemia with diuretics/SSRIs, digoxin toxicity.\n6. Tools: Beers criteria (American Geriatrics Society), STOPP/START, pharmacist medication review, renal dose adjustment, deprescribing."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Give the differences between Indian and global pharmacovigilance requirements.",
+      "answer": "1. System: PvPI with AMCs in medical colleges vs established EudraVigilance, FAERS, Yellow Card.\n2. Law: D&C Act/Rules, NDCT Rules 2019, MAH guidance vs EU GVP modules and US regulations.\n3. Responsible person: company PV person vs EU QPPV with PV system master file.\n4. Periodic reports: fixed PSUR schedule vs risk-based PBRER.\n5. Risk management: less formal vs mandatory RMP (EU)/REMS (USA).\n6. Reporting culture: under-reporting vs higher rates.\n7. Indian issues: FDCs, self-medication, AYUSH medicines, languages.\n8. Shared: ICH definitions, MedDRA, E2B, WHO membership."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the PSUR submission schedule for a new drug in India?",
+      "answer": "Every six months for the first two years after approval and annually for the next two years."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the enzyme deficiency that causes prolonged apnoea after succinylcholine.",
+      "answer": "Plasma (pseudo)cholinesterase (butyrylcholinesterase) deficiency or atypical variant."
+    }
+  ]
+}
