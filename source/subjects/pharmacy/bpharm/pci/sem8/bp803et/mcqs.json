@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The marketing concept starts from:",
+      "options": [
+        "Customer needs",
+        "The factory's existing products",
+        "Production efficiency",
+        "Aggressive selling"
+      ],
+      "correct": 0,
+      "explanation": "Marketing begins with identifying and satisfying customer needs.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The 4 Ps of the marketing mix are:",
+      "options": [
+        "Product, people, process, price",
+        "Product, price, place, promotion",
+        "Plan, price, place, profit",
+        "Product, packing, place, profit"
+      ],
+      "correct": 1,
+      "explanation": "These four controllable tools form the classic marketing mix.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which marketing philosophy is most suitable for medicines because it also protects public welfare?",
+      "options": [
+        "Production concept",
+        "Selling concept",
+        "Societal marketing concept",
+        "Product concept"
+      ],
+      "correct": 2,
+      "explanation": "It balances customer satisfaction, profit and society's long-term welfare.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which of the following is part of the macro-environment?",
+      "options": [
+        "Suppliers",
+        "Competitors",
+        "Marketing intermediaries",
+        "Demographic changes"
+      ],
+      "correct": 3,
+      "explanation": "Demographic, economic, legal, technological, social and natural forces form the macro-environment.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "In Porter's model, hospitals and government tenders mainly represent:",
+      "options": [
+        "Bargaining power of buyers",
+        "Threat of substitutes",
+        "Threat of new entrants",
+        "Bargaining power of suppliers"
+      ],
+      "correct": 0,
+      "explanation": "Large institutional buyers can negotiate prices down.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The first stage of the consumer buying decision process is:",
+      "options": [
+        "Information search",
+        "Need recognition",
+        "Evaluation of alternatives",
+        "Post-purchase behaviour"
+      ],
+      "correct": 1,
+      "explanation": "The process starts when the buyer recognises a need or problem.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "In industrial buying, the group of people involved in a purchase decision is called the:",
+      "options": [
+        "Target market",
+        "Reference group",
+        "Buying centre",
+        "Channel"
+      ],
+      "correct": 2,
+      "explanation": "The buying centre includes users, influencers, buyers, deciders and gatekeepers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Dividing a market into distinct groups of buyers with similar needs is called:",
+      "options": [
+        "Positioning",
+        "Targeting",
+        "Market research",
+        "Market segmentation"
+      ],
+      "correct": 3,
+      "explanation": "Segmentation is the first step of STP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Grouping doctors by speciality such as cardiologists and gynaecologists is a basis of:",
+      "options": [
+        "Prescriber-based segmentation",
+        "Geographic segmentation",
+        "Psychographic segmentation",
+        "Undifferentiated targeting"
+      ],
+      "correct": 0,
+      "explanation": "In pharma, prescribers are often segmented by speciality and prescribing volume.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Data already collected for another purpose, such as published retail audits, is called:",
+      "options": [
+        "Primary data",
+        "Secondary data",
+        "Test marketing data",
+        "Focus group data"
+      ],
+      "correct": 1,
+      "explanation": "Primary data is collected fresh for the current problem.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In the product life cycle, profits are usually highest during the:",
+      "options": [
+        "Introduction stage",
+        "Decline stage",
+        "Maturity stage",
+        "Development stage"
+      ],
+      "correct": 2,
+      "explanation": "Sales peak and launch costs are recovered in maturity.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Heavy detailing, physician samples and launch meetings are typical of the:",
+      "options": [
+        "Maturity stage",
+        "Decline stage",
+        "Harvesting phase before withdrawal",
+        "Introduction stage"
+      ],
+      "correct": 3,
+      "explanation": "Awareness must be created when a product is new.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "In the BCG matrix, a product with high market share in a low-growth market is a:",
+      "options": [
+        "Cash cow",
+        "Star",
+        "Question mark",
+        "Dog"
+      ],
+      "correct": 0,
+      "explanation": "Cash cows generate more cash than they need.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "A product with high market growth but low market share in the BCG matrix is a:",
+      "options": [
+        "Star",
+        "Question mark",
+        "Cash cow",
+        "Dog"
+      ],
+      "correct": 1,
+      "explanation": "Question marks need investment and may become stars or fail.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The number of product lines a company carries is the product mix:",
+      "options": [
+        "Length",
+        "Depth",
+        "Width",
+        "Consistency"
+      ],
+      "correct": 2,
+      "explanation": "Depth is versions of each product; length is total items.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Adding a paediatric syrup to an existing brand's range is an example of:",
+      "options": [
+        "Line pruning",
+        "Diversification",
+        "Downward stretching",
+        "Line filling"
+      ],
+      "correct": 3,
+      "explanation": "Line filling adds items within the present range.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Giving a brand a clear, distinctive place in the customer's mind is called:",
+      "options": [
+        "Positioning",
+        "Segmentation",
+        "Branding",
+        "Pricing"
+      ],
+      "correct": 0,
+      "explanation": "Positioning follows segmentation and targeting.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "In the Ansoff grid, selling new products in new markets is:",
+      "options": [
+        "Market penetration",
+        "Diversification",
+        "Market development",
+        "Product development"
+      ],
+      "correct": 1,
+      "explanation": "Diversification is the riskiest growth strategy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "A strip or blister in direct contact with tablets is the:",
+      "options": [
+        "Secondary package",
+        "Tertiary package",
+        "Primary package",
+        "Shipping container"
+      ],
+      "correct": 2,
+      "explanation": "The carton is secondary; the corrugated box is tertiary.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Drug labelling in India must follow the:",
+      "options": [
+        "Consumer Protection Act, 2019",
+        "Essential Commodities Act, 1955",
+        "Companies Act",
+        "Drugs and Cosmetics Rules, 1945"
+      ],
+      "correct": 3,
+      "explanation": "Labelling requirements are laid down in the Drugs and Cosmetics Rules.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The most important promotional tool for prescription drugs is:",
+      "options": [
+        "Personal selling by medical representatives",
+        "Television advertising",
+        "Outdoor hoardings",
+        "Consumer contests"
+      ],
+      "correct": 0,
+      "explanation": "Doctors are reached mainly through detailing.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "AIDA stands for:",
+      "options": [
+        "Awareness, information, decision, action",
+        "Attention, interest, desire, action",
+        "Attention, information, demand, adoption",
+        "Advertising, interest, demand, action"
+      ],
+      "correct": 1,
+      "explanation": "AIDA describes the steps a promotion should achieve.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Promotion aimed at final consumers so that they ask for the product is a:",
+      "options": [
+        "Push strategy",
+        "Penetration strategy",
+        "Pull strategy",
+        "Skimming strategy"
+      ],
+      "correct": 2,
+      "explanation": "Pull strategies are mainly used for OTC products.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The most logical method of setting the promotional budget is:",
+      "options": [
+        "Affordable method",
+        "Percentage-of-sales method",
+        "Competitive-parity method",
+        "Objective-and-task method"
+      ],
+      "correct": 3,
+      "explanation": "It builds the budget from the tasks needed to reach objectives.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Physician samples should be marked:",
+      "options": [
+        "Physician's sample — not to be sold",
+        "For export only",
+        "Schedule X drug",
+        "Free gift for patients"
+      ],
+      "correct": 0,
+      "explanation": "Samples are for evaluation and must not be sold.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Advertisements claiming cures for listed diseases are prohibited by the:",
+      "options": [
+        "Essential Commodities Act, 1955",
+        "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+        "Consumer Protection Act, 2019",
+        "Patents Act, 1970"
+      ],
+      "correct": 1,
+      "explanation": "The 1954 Act targets objectionable and misleading drug advertisements.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Under the Drugs and Cosmetics Rules, drugs may not be advertised to the public as preventing or curing diseases listed in:",
+      "options": [
+        "Schedule M",
+        "Schedule H",
+        "Schedule J",
+        "Schedule Y"
+      ],
+      "correct": 2,
+      "explanation": "Schedule J lists diseases for which such claims are not allowed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Health camps, press releases and disease-awareness campaigns are tools of:",
+      "options": [
+        "Personal selling",
+        "Direct mail",
+        "Sales promotion",
+        "Public relations"
+      ],
+      "correct": 3,
+      "explanation": "PR builds goodwill and credibility with the publics.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Search engine optimisation is an online promotional technique mainly used for:",
+      "options": [
+        "OTC products",
+        "Schedule X drugs",
+        "Hospital tenders",
+        "Bulk APIs"
+      ],
+      "correct": 0,
+      "explanation": "OTC products can be promoted to consumers online.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The code governing pharmaceutical marketing practices issued by the Department of Pharmaceuticals is:",
+      "options": [
+        "NLEM",
+        "UCPMP",
+        "DPCO",
+        "GMP"
+      ],
+      "correct": 1,
+      "explanation": "The Uniform Code for Pharmaceutical Marketing Practices was revised in 2024.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The usual Indian pharma distribution chain is:",
+      "options": [
+        "Manufacturer → retailer → C&F agent → patient",
+        "Manufacturer → patient → retailer",
+        "Manufacturer → C&F agent → stockist → retailer → patient",
+        "Stockist → manufacturer → retailer → patient"
+      ],
+      "correct": 2,
+      "explanation": "The C&F agent and stockist hold stock between factory and chemist.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "A carrying and forwarding agent usually:",
+      "options": [
+        "Buys and resells goods at a margin",
+        "Sells directly to patients",
+        "Manufactures the product",
+        "Stores and dispatches goods on commission without owning them"
+      ],
+      "correct": 3,
+      "explanation": "The stockist, not the C&F agent, buys and owns stock.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Conflict between two stockists in the same area is:",
+      "options": [
+        "Horizontal conflict",
+        "Vertical conflict",
+        "Multichannel conflict",
+        "Role conflict"
+      ],
+      "correct": 0,
+      "explanation": "Horizontal conflict is between members at the same level.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Distribution through as many outlets as possible is called:",
+      "options": [
+        "Exclusive distribution",
+        "Intensive distribution",
+        "Selective distribution",
+        "Direct distribution"
+      ],
+      "correct": 1,
+      "explanation": "Suits common brands and OTC products.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Physical distribution management does NOT include:",
+      "options": [
+        "Order processing",
+        "Warehousing",
+        "Fixing the ceiling price",
+        "Inventory management"
+      ],
+      "correct": 2,
+      "explanation": "Ceiling prices are fixed by the government under DPCO.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Detailing means:",
+      "options": [
+        "Printing the product label",
+        "Transporting goods to stockists",
+        "Fixing the trade margin",
+        "Planned scientific presentation of a product to a doctor"
+      ],
+      "correct": 3,
+      "explanation": "Detailing is the core activity of the medical representative.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The compensation plan most commonly used for medical representatives is:",
+      "options": [
+        "Salary plus incentive",
+        "Straight commission",
+        "Straight salary only",
+        "Piece rate"
+      ],
+      "correct": 0,
+      "explanation": "It balances security and motivation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Field work by an area manager alongside a representative is called:",
+      "options": [
+        "Detailing",
+        "Joint work",
+        "Sampling",
+        "Tour programme"
+      ],
+      "correct": 1,
+      "explanation": "Joint work is used to supervise and coach representatives.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "In Herzberg's theory, salary is a:",
+      "options": [
+        "Motivator",
+        "Self-actualisation need",
+        "Hygiene factor",
+        "Expectancy"
+      ],
+      "correct": 2,
+      "explanation": "Hygiene factors prevent dissatisfaction but do not by themselves motivate.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Visiting high-potential doctors more often than low-potential doctors is part of:",
+      "options": [
+        "Channel conflict",
+        "Physical distribution",
+        "Pricing strategy",
+        "Call norms"
+      ],
+      "correct": 3,
+      "explanation": "Call frequency is set by doctor classification.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The DPCO is issued under section 3 of the:",
+      "options": [
+        "Essential Commodities Act, 1955",
+        "Drugs and Cosmetics Act, 1940",
+        "Pharmacy Act, 1948",
+        "Consumer Protection Act, 2019"
+      ],
+      "correct": 0,
+      "explanation": "Price control orders draw their power from the Essential Commodities Act.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Under DPCO 2013, ceiling price = simple average PTR of brands with at least 1% market share plus a retailer margin of:",
+      "options": [
+        "8%",
+        "16%",
+        "10%",
+        "20%"
+      ],
+      "correct": 1,
+      "explanation": "A notional 16% retailer margin is added to the average PTR.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The NPPA was set up on:",
+      "options": [
+        "1 April 2013",
+        "15 May 1995",
+        "29 August 1997",
+        "26 January 2000"
+      ],
+      "correct": 2,
+      "explanation": "It was constituted by a Government of India resolution in 1997.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Scheduled formulations under DPCO 2013 are based on the:",
+      "options": [
+        "Indian Pharmacopoeia monographs",
+        "Schedule H of the Drugs and Cosmetics Rules",
+        "WHO model formulary",
+        "National List of Essential Medicines"
+      ],
+      "correct": 3,
+      "explanation": "NLEM medicines form the First Schedule of DPCO 2013.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Ceiling prices under DPCO 2013 are revised every year on 1 April on the basis of the:",
+      "options": [
+        "Wholesale price index",
+        "Consumer price index",
+        "Gross domestic product",
+        "Repo rate"
+      ],
+      "correct": 0,
+      "explanation": "Prices go up or down with the previous year's WPI.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Manufacturers of non-scheduled formulations may not raise the MRP by more than:",
+      "options": [
+        "5% in a year",
+        "10% in a year",
+        "16% in a year",
+        "25% in a year"
+      ],
+      "correct": 1,
+      "explanation": "This limit applies to drugs outside the First Schedule.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "A high launch price that is reduced later is called:",
+      "options": [
+        "Market penetration",
+        "Going-rate pricing",
+        "Market skimming",
+        "Sealed-bid pricing"
+      ],
+      "correct": 2,
+      "explanation": "Skimming suits innovative products with few competitors.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Fixed cost ₹1,00,000, price ₹50 and variable cost ₹30 per unit give a break-even volume of:",
+      "options": [
+        "2,000 units",
+        "3,333 units",
+        "10,000 units",
+        "5,000 units"
+      ],
+      "correct": 3,
+      "explanation": "1,00,000 ÷ (50 − 30) = 5,000 units.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A marketing system in which one firm owns successive stages of production and distribution is a:",
+      "options": [
+        "Corporate vertical marketing system",
+        "Horizontal marketing system",
+        "Administered VMS",
+        "Conventional channel"
+      ],
+      "correct": 0,
+      "explanation": "Ownership unifies the stages in a corporate VMS.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Two companies selling the same molecule under their own brand names is an example of:",
+      "options": [
+        "Vertical integration",
+        "Co-marketing (horizontal marketing)",
+        "Rural marketing",
+        "Consumerism"
+      ],
+      "correct": 1,
+      "explanation": "Same-level firms combine to follow a market opportunity.",
+      "probability": "low"
+    }
+  ]
+}

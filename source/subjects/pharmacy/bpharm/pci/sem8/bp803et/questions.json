@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define marketing. Explain the marketing environment of a pharmaceutical company with a suitable diagram.",
+      "answer": "1. Definition: marketing is identifying customer needs and satisfying them profitably through product, price, place and promotion.\n2. Marketing environment: all forces outside marketing management that affect its ability to build relations with target customers.\n3. Diagram: company (internal) inside the micro-environment, inside the macro-environment.\n4. Micro-environment: company departments (R&D, production, quality, finance); suppliers of APIs, excipients and packing material; intermediaries (C&F agents, stockists, chemists, transporters, advertising agencies); customers (doctors, patients, hospitals, government); competitors; publics (media, government, community, investors).\n5. Macro-environment: demographic (ageing, lifestyle diseases, urbanisation); economic (income, out-of-pocket spending, insurance); political–legal (Drugs and Cosmetics Act 1940, DPCO, patent and advertising laws, marketing code); technological (new delivery systems, biologics, e-pharmacy, digital detailing); social–cultural (health awareness, self-medication, traditional medicine); natural (waste rules, disease patterns).\n6. Micro forces can be partly influenced; macro forces cannot be controlled, only adapted to.\n7. SWOT analysis links the environment with the company: internal strengths and weaknesses, external opportunities and threats.\n8. Importance: spotting opportunities, avoiding threats, planning the marketing mix, regulatory compliance."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is market segmentation? Discuss the bases of segmentation and targeting strategies with examples from the pharmaceutical market.",
+      "answer": "1. Definition: dividing a market into distinct groups of buyers with similar needs or characteristics who may need separate products or marketing mixes.\n2. Need: no single offer suits all doctors and patients; resources can be focused.\n3. Bases: geographic (region, urban/rural, climate — rural division with low-cost packs); demographic (age, sex, income — paediatric syrups, products for women, geriatric products); psychographic (lifestyle, values — health-conscious buyers of supplements); behavioural (usage rate, loyalty, benefit sought — chronic vs acute users); prescriber-based (speciality, prescribing volume — cardiologists, gynaecologists, GPs).\n4. Requirements of a useful segment: measurable, substantial, accessible, differentiable, actionable.\n5. Targeting: evaluate segment size, growth, competition and fit with company resources; select segments.\n6. Strategies: undifferentiated (one offer for all); differentiated (separate divisions per speciality); concentrated or niche (only oncology); micromarketing (local or individual).\n7. Then positioning: STP = segmentation → targeting → positioning.\n8. Benefits: better use of field force, focused promotion, higher customer satisfaction, identification of gaps."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss consumer buying behaviour and industrial buying behaviour. How do they differ in the pharmaceutical context?",
+      "answer": "1. Consumer buying behaviour: how individuals buy for personal use; in pharma mainly OTC products and choice of doctor and chemist.\n2. Factors: cultural (culture, subculture, class), social (family, reference groups, roles), personal (age, occupation, income, lifestyle), psychological (motivation, perception, learning, beliefs).\n3. Decision process: need recognition → information search → evaluation of alternatives → purchase → post-purchase behaviour (example of buying an antacid).\n4. Industrial buying behaviour: purchases by organisations such as hospitals, government stores and companies buying APIs.\n5. Features: fewer, larger buyers; derived demand; technical specifications; tenders and contracts; long-term relationships.\n6. Buying centre: users, influencers (pharmacy and therapeutics committee), buyers, deciders, gatekeepers.\n7. Buying situations: straight rebuy, modified rebuy, new task; stages from problem recognition to performance review.\n8. Differences (table): individual vs group decision; small vs large quantities; emotional vs rational and technical; informal vs formal procedure; advertising vs personal selling and tenders."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between marketing and selling.",
+      "answer": "1. Starting point: selling starts from the factory and existing product; marketing starts from the market and customer needs.\n2. Focus: seller's need to convert product into cash vs buyer's needs and satisfaction.\n3. Time view: short-term volume vs long-term relationship and loyalty.\n4. Means: selling and promotion push vs integrated marketing mix (4 Ps).\n5. End: profit through sales volume vs profit through customer satisfaction.\n6. Scope: selling is one part of marketing; marketing is wider.\n7. One-liner: selling makes customers want what the company has; marketing makes what customers want."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the factors that influence the prescribing habits of physicians.",
+      "answer": "1. Efficacy and safety of the drug from evidence and personal experience.\n2. Company image for quality and consistency.\n3. Information sources: medical representatives, journals, CME and conferences, colleagues, key opinion leaders.\n4. Patient factors: affordability, dosing convenience, palatability for children.\n5. Availability of the brand at nearby chemists.\n6. Habit and brand loyalty.\n7. Service: regular, informed visits and scientific literature.\n8. Motivation: better outcomes, reputation, updated knowledge; gifts and inducements are restricted by ethics rules."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the role of market research in the pharmaceutical industry.",
+      "answer": "1. Definition: systematic design, collection, analysis and reporting of data for a marketing decision.\n2. Process: define problem → plan research → collect data → analyse → report.\n3. Secondary data (sales records, retail and prescription audits, reports) and primary data (surveys of doctors and chemists, interviews, focus groups, test marketing).\n4. Uses: estimating demand for a new product; studying prescribing behaviour and brand share; testing brand names, packs and messages; measuring promotional effect; studying competitors and prices; finding unmet needs; sales forecasting and territory planning."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain Porter's five forces model of industry analysis with reference to the pharmaceutical industry.",
+      "answer": "1. Rivalry among existing firms: intense because many companies sell branded generics of the same molecule.\n2. Threat of new entrants: barriers are GMP investment, licences, field force, doctors' brand loyalty.\n3. Threat of substitutes: other molecules of the class, traditional medicines, non-drug therapy.\n4. Bargaining power of buyers: high for hospitals, tenders and chains; low for individual patients.\n5. Bargaining power of suppliers: high when APIs come from few sources.\n6. Diagram: rivalry at the centre with the four forces around it.\n7. Use: judging the attractiveness of a therapy segment."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What factors influence a patient's choice of physician and retail pharmacist?",
+      "answer": "1. Physician: reputation and recommendation by family and friends; qualification and speciality; distance and availability; fees; behaviour and time given; hospital attachment.\n2. Pharmacist: nearness to home or clinic; availability of all prescribed items; price and discounts; trust and advice; home delivery; opening hours; credit for regular customers.\n3. The pharmacist influences OTC purchases and generic choice, so retail relations matter to marketers."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define the marketing mix.",
+      "answer": "The set of controllable tools a company combines to get the desired response from its target market: product, price, place and promotion (the 4 Ps)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the societal marketing concept?",
+      "answer": "Satisfying customer needs profitably while also protecting the long-term welfare of society; it suits medicines because public health and rational use matter."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the product life cycle with a diagram. Discuss the marketing strategies used at each stage for a pharmaceutical product.",
+      "answer": "1. Definition: the course of a product's sales and profits over its life in the market.\n2. Diagram: S-shaped sales curve through introduction, growth, maturity and decline, with a profit curve starting below zero.\n3. Introduction: low sales, losses due to launch cost, few competitors; create awareness through detailing, samples, launch meetings and CME.\n4. Growth: rapid sales rise, rising profit, competitors enter; build brand preference, widen distribution, add strengths.\n5. Maturity: peak and levelling sales, highest profit, many branded generics; defend share with reminder promotion, line extensions, new indications, pack changes, trade schemes.\n6. Decline: falling sales and profit; cut costs, harvest, or withdraw; shift to low-cost or rural segments.\n7. Extending the life cycle: new indication, new dosage form or delivery system, rational combinations, new packs, new markets, Rx-to-OTC switch where permitted.\n8. Pharma feature: patent expiry causes a sharp fall for the innovator; many brands of one molecule are in maturity at once."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss branding, packaging and labelling decisions for pharmaceutical products.",
+      "answer": "1. Brand: name, sign, symbol or design identifying a seller's product; trademark is its legally protected form.\n2. Benefits of branding: identification, loyalty and repeat prescription, premium, legal protection, easier launches.\n3. Good brand name: short, easy to say and remember, distinctive, not confused with other drug names (avoids dispensing errors), suggests benefit without false claims, registrable, acceptable across languages.\n4. Branding strategies: individual names, family brand, company + individual name, brand extension, unbranded generic, co-marketing; brand equity.\n5. Packaging levels: primary (blister, bottle, ampoule), secondary (carton), tertiary (shipping box).\n6. Functions: protection from light, moisture, oxygen and breakage; identification; convenience; tamper-evident and child-resistant safety; promotion; compliance.\n7. Packaging decisions: material, form, pack size, design and colour, cost, stability compatibility, environment.\n8. Labelling: must follow the Drugs and Cosmetics Rules, 1945; carries product names, content, net quantity, batch number, licence number, manufacturing and expiry dates, manufacturer's name and address, MRP and schedule warnings.\n9. Marketing role of labels: identify, grade, describe, promote, give legal directions and warnings."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is a new product? Describe the stages of new product development and the reasons why new products fail.",
+      "answer": "1. New product: new-to-the-world product, new line, addition to a line, improvement, repositioned product or lower-cost version.\n2. Sources in pharma: in-house R&D, in-licensing, acquisition, co-marketing, new formulations and combinations, generics after patent expiry.\n3. Stages: idea generation → idea screening → concept development and testing → marketing strategy → business analysis → product development (formulation, stability, approval) → test marketing → commercialisation.\n4. Adoption by doctors: awareness, interest, evaluation, trial, adoption; adopter groups innovators to laggards.\n5. Reasons for failure: overestimated market, poor positioning, no real advantage, wrong timing, high price, weak promotion, regulatory delay, quality problems.\n6. Ways to reduce failure: market research, careful screening, clear USP, proper launch planning."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the BCG growth–share matrix with a diagram.",
+      "answer": "1. Portfolio tool plotting relative market share (horizontal) against market growth rate (vertical).\n2. Star: high growth, high share; invest to grow.\n3. Cash cow: low growth, high share; generates cash for other products.\n4. Question mark: high growth, low share; invest selectively or drop.\n5. Dog: low growth, low share; harvest or divest.\n6. Diagram: 2 × 2 grid.\n7. Use: deciding which brands to fund, hold or prune; limitation: uses only two factors."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define product line and product mix. Explain product line decisions.",
+      "answer": "1. Product line: group of closely related products (all anti-diabetic brands of a company).\n2. Product mix: all lines and items a company sells; dimensions width, length, depth, consistency.\n3. Line decisions: line length; line stretching (downward, upward, two-way); line filling (new strength, paediatric form); line modernisation; line featuring; line pruning of weak items.\n4. Mix strategies: expansion, contraction, alteration, line extension."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is product positioning? Describe the bases of positioning a pharmaceutical brand.",
+      "answer": "1. Positioning: giving a product a clear, distinctive and desirable place in the target customer's mind relative to competitors.\n2. Bases: attribute (once-daily, sugar-free), benefit (faster relief, better compliance), use, user (elderly, pregnancy), against a competitor, quality/price, product class.\n3. Steps: identify advantages, select the right ones, communicate consistently.\n4. Perceptual map and USP.\n5. Claims must be backed by evidence and approved information."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the role and duties of a product manager in a pharmaceutical company.",
+      "answer": "1. Product manager is responsible for a group of brands like a mini general manager.\n2. Studies market, competitors and prescription trends.\n3. Prepares the annual brand plan: objectives, target doctors, positioning, budget, forecast.\n4. Designs promotional inputs: visual aids, literature, samples, digital material.\n5. Trains medical representatives on product knowledge.\n6. Coordinates sales, production, medical, regulatory, finance and distribution.\n7. Plans launches and line extensions; monitors sales and market share; handles field feedback.\n8. Weakness: responsibility without full authority over the field force."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify pharmaceutical products for marketing purposes.",
+      "answer": "1. Legal status: prescription (scheduled — H, H1, X) and OTC products.\n2. Patent status: patented, branded generics, unbranded generics.\n3. Therapeutic class: anti-infectives, cardiac, anti-diabetic, analgesics, respiratory, gastrointestinal, vitamins.\n4. Dosage form: tablets, capsules, liquids, injections, topicals, inhalers.\n5. Nature: small molecules, biologics and biosimilars, vaccines.\n6. Buyer: retail vs institutional.\n7. Therapy duration: acute vs chronic.\n8. Importance: decides promotional route, channel and pricing."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are the three levels of a product?",
+      "answer": "Core benefit (relief or cure), actual product (brand, dosage form, pack, quality) and augmented product (information, service, support programmes)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a line extension? Give an example.",
+      "answer": "Using an existing successful brand name for a new form, strength or combination, such as launching a sustained-release or paediatric version of an established brand."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is the promotional mix? Discuss the various methods of pharmaceutical promotion and the factors that determine the promotional mix.",
+      "answer": "1. Promotion: seller's communication to inform, persuade and remind; AIDA model.\n2. Promotional mix tools: personal selling (detailing by MRs — main tool for prescription drugs); advertising (journals to professionals, mass media only for OTC); sales promotion (samples, trade schemes, OTC offers); public relations (camps, awareness, press); direct marketing (direct mail, e-mail); digital (websites, social media, e-detailing).\n3. Determinants: type of product (Rx vs OTC); type of target (few technical buyers vs mass consumers); product life cycle stage; buyer readiness stage; push or pull strategy; budget; competition; legal and ethical rules.\n4. Push vs pull: Rx drugs pushed through doctors and channel; OTC pulled by consumer demand.\n5. Integrated marketing communication: all tools give one consistent message.\n6. Ethics: accurate, balanced, evidence-based claims; no inducements; UCPMP."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain sampling, medical exhibitions and public relations as tools of pharmaceutical promotion.",
+      "answer": "1. Sampling: free small quantities to doctors to encourage trial, remind and support therapy start.\n2. Good sampling practice: only to qualified prescribers, marked 'Physician's sample — not to be sold', reasonable quantity, records, proper storage; limitations: cost, misuse.\n3. Medical exhibitions: stalls at conferences and CMEs; meet many specialists at low cost per contact, launch products, demonstrate devices, collect feedback.\n4. Exhibition planning: choose right conference, informative stall, trained staff, literature, visitor register, follow-up.\n5. Public relations: building goodwill with doctors, patients, government, media, employees, investors, community.\n6. PR tools: press releases, health and screening camps, disease awareness campaigns, sponsorship within code, CSR, newsletters, crisis and recall communication.\n7. PR value: high credibility, low cost, protects reputation."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the online promotional techniques used for OTC products. Add a note on the legal and ethical limits on drug advertising in India.",
+      "answer": "1. OTC products may be promoted to consumers; online methods give wide reach and measurable results.\n2. Techniques: brand websites; search engine optimisation and search ads; social media marketing; influencer marketing with disclosure; e-mail and messaging; display and video ads; e-commerce and online pharmacy listings; mobile apps; content marketing.\n3. Advantages: reach, targeting, low cost, measurability, two-way interaction.\n4. Legal limits: Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 prohibits cure claims for listed conditions and misleading claims; Drugs and Cosmetics Rules forbid advertising drugs as preventing or curing Schedule J diseases; prescription drugs promoted only to professionals.\n5. Code: UCPMP (2014, revised 2024) — accurate, balanced, evidence-based claims; limits on gifts and hospitality.\n6. Precautions online: truthful claims, privacy, monitoring comments for adverse event reports."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods of setting the promotional budget.",
+      "answer": "1. Affordable method: what the company can spare; ignores market needs.\n2. Percentage-of-sales: fixed % of sales; simple but treats sales as cause of promotion.\n3. Competitive parity: match competitors; assumes they are right.\n4. Objective-and-task: set objectives, list tasks (calls, samples, meetings, ads), cost them; most logical.\n5. Budget items: field force, samples, literature, journal ads, CME, digital, reminders, research."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on sampling as a promotional tool.",
+      "answer": "1. Free small quantities of a product given to doctors.\n2. Purposes: trial of new product, reminder, starting therapy, help for needy patients at doctor's discretion.\n3. Rules: only to qualified prescribers; marked 'Physician's sample — not to be sold'; reasonable quantity; records; storage; within the marketing code.\n4. Limitations: cost, misuse or sale, overuse leading to unneeded prescribing."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between push and pull promotional strategies.",
+      "answer": "1. Push: promotion directed at channel members and prescribers who push the product onward.\n2. Pull: promotion directed at final consumers who ask for the product.\n3. Push tools: detailing, trade schemes, chemist meetings; pull tools: mass advertising, consumer offers.\n4. Push suits prescription drugs; pull suits OTC products.\n5. Most companies combine both."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on direct mail and journal advertising.",
+      "answer": "1. Direct mail: leaflets, reprints, newsletters, reminders and invitations sent directly to doctors or pharmacists; selective, low cost, reaches remote doctors; may be discarded, needs updated lists; now often by e-mail with consent.\n2. Journal advertising: ads in medical journals; targeted, credible, repeated viewing; cluttered, impersonal, hard to measure.\n3. Good practice: generic name, approved indications, reference to prescribing information, evidence-based claims."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain retailing as a promotional tool for pharmaceutical products.",
+      "answer": "1. Retail chemist is the last link to the patient.\n2. Aim: product stocked, visible and recommended.\n3. Methods: displays, shelf space, posters and point-of-purchase material for OTC, trade schemes within margins, chemist meetings, product information, prompt supply and credit.\n4. Pharmacist's role: OTC advice, correct dispensing, substitution where allowed, market feedback."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is AIDA?",
+      "answer": "A model of how promotion works: Attention → Interest → Desire → Action (prescription or purchase)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the law that controls objectionable drug advertisements in India.",
+      "answer": "The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the duties, selection, training, motivation and compensation of a professional sales representative (PSR).",
+      "answer": "1. PSR: field employee who promotes products to doctors, pharmacists and hospitals and services the trade in a territory.\n2. Duties: detailing as per call plan; samples and literature with records; chemist and stockist calls; hospital work; market information; organising CMEs and camps; daily reports; passing adverse event reports; achieving targets ethically.\n3. Selection: qualities (science background, communication, honesty, self-motivation, travel, local language); process (job analysis, sourcing, screening, test, GD, interviews, references, medical, appointment).\n4. Training: company, product and medical knowledge, selling skills, territory, ethics and pharmacovigilance, reporting; methods: induction, role play, joint field work, e-learning, refreshers.\n5. Motivation: financial (salary, incentives, bonus) and non-financial (recognition, promotion, training, fair targets, leadership); Maslow, Herzberg, expectancy theory.\n6. Compensation: straight salary, straight commission, combination (most common); plus allowances and benefits.\n7. Supervision and evaluation: joint work, call reports, sales vs target, coverage, qualitative appraisal.\n8. Future: career to area/regional manager, product management, key accounts; digital detailing."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a marketing channel? Describe the channel members in the Indian pharmaceutical industry and the steps in designing a channel.",
+      "answer": "1. Definition: set of interdependent organisations making a product available to the user; intermediaries reduce contacts, hold stock, give credit, break bulk.\n2. Functions: information, promotion, contact, breaking bulk, negotiation, physical distribution, financing, risk taking.\n3. Chain: manufacturer → C&F agent → stockist → retailer/hospital pharmacy → patient.\n4. Members: C&F agent (commission, stores and dispatches, does not own goods); stockist/distributor (licensed wholesaler, buys, holds, gives credit); sub-stockist; retail chemist; institutional channel; online pharmacies and chains; all hold sale licences.\n5. Channel levels: zero, one, two, three-level.\n6. Design steps: analyse customer needs → set objectives → identify alternatives (type, number, terms) → evaluate (economic, control, adaptive).\n7. Intensity: intensive, selective, exclusive distribution.\n8. Selecting a stockist: licence, finance, storage including cold chain, coverage, delivery, reputation."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain physical distribution management. Discuss its strategic importance and the tasks involved.",
+      "answer": "1. Definition: planning, carrying out and controlling the physical flow of goods to the point of use to meet customer needs at a profit.\n2. Strategic importance: availability prevents lost prescriptions; distribution is a large cost; cold chain protects quality; service is a competitive advantage; expiry and batch control protect patients.\n3. Order processing: receive, check credit, invoice, dispatch accurately.\n4. Warehousing: number and location of depots, temperature and humidity control.\n5. Inventory management: reorder level and quantity, avoid stock-outs and over-stock, first-expiry-first-out.\n6. Transportation: mode choice, cold-chain vehicles, cost vs speed.\n7. Materials handling: packing, loading, unloading without damage.\n8. Returns and recalls: traceable records for expired, damaged and recalled batches.\n9. Total cost concept: minimise combined costs at the required service level."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is detailing? Explain its purpose and the structure of a detailing call.",
+      "answer": "1. Detailing: planned scientific presentation of a product to a doctor in a personal call.\n2. Purposes: introduce products and new information, explain benefits with evidence, clear doubts, remind, obtain prescription commitment, gather feedback and side-effect reports.\n3. Structure: opening → features, advantages, benefits with visual aid → objection handling → summary and request to prescribe → samples/literature → record the call."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is channel conflict? Discuss its types, causes and management.",
+      "answer": "1. Conflict when one member's actions block another's goals.\n2. Types: vertical (company vs stockist), horizontal (stockist vs stockist), multichannel (online vs local chemists).\n3. Causes: margins, goals, unclear territories, delayed payments, stock loading and expiry returns, perceptions.\n4. Management: written agreements, communication, fair policies, prompt expiry handling, mediation, supply on real demand."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the norms for customer calls and the evaluation of a PSR.",
+      "answer": "1. Call norms: classified doctor list by potential; call frequency by class; daily call average for doctors, chemists, stockists; coverage percentage; monthly tour plan.\n2. Quantitative evaluation: sales vs target, growth, calls per day, coverage, new prescribers, expense-to-sales ratio, collections.\n3. Qualitative evaluation: product knowledge and detailing in joint work, relationships, reports, attitude and ethics.\n4. Methods: comparisons and appraisal forms."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare the methods of compensating sales representatives.",
+      "answer": "1. Straight salary: security, control, supports non-selling work; low incentive.\n2. Straight commission: strong incentive, variable cost; insecurity, neglect of non-selling duties.\n3. Combination: salary plus incentive/bonus; balances security and motivation; most common in pharma; complex.\n4. Add-ons: daily and travel allowance, mobile allowance, insurance, provident fund, gratuity."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Discuss the future prospects of the professional sales representative.",
+      "answer": "1. Career path to area, regional and zonal manager and sales/marketing head; moves to product management, training, key accounts.\n2. Changing role: scientific, value-based discussions; key account management of hospitals; digital and remote detailing.\n3. Skills needed: medical knowledge, digital and data skills, ethics and compliance, customer service.\n4. Challenges: promotion restrictions, informed doctors, price control, competition and targets."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the role of a C&F agent?",
+      "answer": "A carrying and forwarding agent works on commission, receives goods from the company, stores them properly and invoices and dispatches them to stockists, usually without owning the goods."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate between intensive and exclusive distribution.",
+      "answer": "Intensive distribution uses as many outlets as possible (common brands, OTC); exclusive distribution gives one outlet or distributor per area (costly or cold-chain products)."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Give an overview of the Drugs (Prices Control) Order and the National Pharmaceutical Pricing Authority.",
+      "answer": "1. DPCO: order issued by the Government of India under section 3 of the Essential Commodities Act, 1955 to control medicine prices.\n2. History: DPCOs of 1970, 1979, 1987 and 1995 were cost-based (cost of manufacture plus allowance); DPCO 2013 is based on the National Pharmaceutical Pricing Policy, 2012.\n3. Scope: medicines in the National List of Essential Medicines form the First Schedule (scheduled formulations).\n4. Ceiling price: simple average of PTR of all brands and generics with market share of 1% or more, plus 16% notional retailer margin; notified in the Gazette.\n5. Annual revision on 1 April by the wholesale price index.\n6. Non-scheduled drugs: MRP increase limited to 10% a year.\n7. New drugs: retail price fixed by the government; special powers in public interest; limited-period exemption for certain patented new drugs from Indian research; overcharged amounts recovered with interest.\n8. NPPA: set up by government resolution on 29 August 1997; attached to the Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers.\n9. NPPA functions: fix and revise prices, enforce DPCO, monitor non-scheduled prices, recover overcharging, monitor availability and shortages, collect industry data, handle legal matters, advise government.\n10. DPCO is the rule book; NPPA is the enforcing authority."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the objectives, determinants, methods and strategies of pricing pharmaceutical products.",
+      "answer": "1. Price: money charged for a product; terms MRP, PTR, PTS, trade margin, ceiling price.\n2. Objectives: survival, profit maximisation, target ROI, market share, quality leadership, meeting competition, social objectives, price stability.\n3. Internal determinants: objectives, costs, marketing mix, PLC stage, organisation.\n4. External determinants: demand and elasticity, competition, regulation (DPCO, GST), economic conditions and API costs, channel margins, ability to pay, ethics.\n5. Methods: cost-plus (cost ₹40 + 25% = ₹50); break-even (fixed cost ÷ (price − variable cost)); target return; perceived value; going rate; sealed-bid tenders.\n6. Strategies: skimming, penetration, product line pricing, bundle, psychological, promotional, geographical, differential or tiered, prestige.\n7. Issues: price control, brand price variation, margins, input costs, affordability, tenders, ethics, compliance."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write notes on vertical and horizontal marketing systems, rural marketing and global marketing.",
+      "answer": "1. Vertical marketing system: producer, wholesaler and retailer act as one system; types corporate (ownership), contractual (franchise, agreements), administered (power of a large member); reduces conflict.\n2. Horizontal system: same-level companies combine resources; co-marketing, co-promotion, joint ventures, in-licensing.\n3. Rural marketing: scattered population, poor transport, fewer doctors and chemists, low and seasonal income, low awareness, cold-chain difficulty; strategies: low-unit packs, sub-stockists, local-language promotion, camps, rural divisions, mobile ordering.\n4. Global marketing: entry modes export, licensing/contract manufacturing, joint venture, direct investment; issues: country registration, GMP inspections, patents, pricing and reimbursement, culture, standardised vs adapted mix; India a major generic supplier."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between market skimming and market penetration pricing.",
+      "answer": "1. Skimming: high launch price, lowered later; penetration: low launch price to win share fast.\n2. Skimming suits innovative or patented products with few competitors; penetration suits crowded branded-generic markets.\n3. Skimming recovers R&D cost quickly; penetration builds volume and discourages entrants.\n4. Skimming needs price-insensitive early buyers; penetration needs price-sensitive demand and low unit cost.\n5. Risk: skimming attracts competitors; penetration gives low early profit."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the issues in price management in the pharmaceutical industry.",
+      "answer": "1. Price control of scheduled drugs limits margins; risk of discontinuation and shortages.\n2. Wide price differences between brands of the same molecule.\n3. Trade margin pressure.\n4. Rising API and input costs, inflation, currency changes.\n5. Affordability and out-of-pocket spending; generic stores and schemes.\n6. Pricing new and patented drugs.\n7. Low tender prices.\n8. Ethics and compliance: correct MRP, permitted revisions."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is consumerism? Explain its effect on pharmaceutical marketing.",
+      "answer": "1. Organised movement of citizens and government to strengthen buyers' rights.\n2. Rights: safety, information, choice, to be heard, redressal, education.\n3. India: Consumer Protection Act, 2019 with district, state and national commissions and the Central Consumer Protection Authority; covers unfair trade practices and misleading advertisements.\n4. Effect on pharma: truthful labels and claims, complaint handling, recalls, fair pricing, product liability, patient leaflets."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on industrial marketing in the pharmaceutical sector.",
+      "answer": "1. Marketing to organisations that use products to make other goods or run operations.\n2. Examples: APIs and excipients to formulators, contract manufacturing and testing, equipment and packaging, supply to hospitals and government.\n3. Features: few large buyers, derived demand, technical specifications, buying centre, tenders, long negotiation and relationships.\n4. Main tool: personal selling and technical service."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain the cost-plus and break-even methods of pricing with examples.",
+      "answer": "1. Cost-plus: price = unit cost + mark-up; cost ₹40, mark-up 25% → ₹50.\n2. Simple, but ignores demand and competition.\n3. Break-even volume = fixed cost ÷ (price − variable cost per unit); ₹1,00,000 ÷ (₹50 − ₹30) = 5,000 units.\n4. Above break-even the firm earns profit; used to test whether a planned price is workable."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "How is the ceiling price of a scheduled formulation calculated under DPCO 2013?",
+      "answer": "Simple average of the price to retailer of all brands and generics with at least 1% market share, plus a 16% notional retailer margin."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "When was NPPA set up and under which department?",
+      "answer": "By a Government of India resolution dated 29 August 1997; it is attached to the Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers."
+    }
+  ]
+}

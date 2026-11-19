@@ -1,0 +1,48 @@
+{
+  "code": "BP803ET",
+  "title": "Pharma Marketing Management",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP803ET Pharma Marketing Management (elective)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP803ET_B.Pharma-pages-40.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Marketing and the pharmaceutical market",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Product decisions",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Promotion",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Marketing channels and the professional sales representative",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Pricing and emerging concepts in marketing",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
