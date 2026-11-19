@@ -1,0 +1,1058 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight (hours) and common patterns in ER-2020 D.Pharm papers. It is not a promise. Long answers here are 5-mark and short answers 3-mark, matching the ER-2020 board pattern; very-short answers are 2-mark revision questions.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define rational use of medicines. Write the causes and consequences of irrational use of medicines and the strategies to promote rational use.",
+      "answer": "1. Definition (WHO 1985): patients receive medicines appropriate to their clinical needs, in doses that meet their own requirements, for an adequate period, at the lowest cost to them and the community.\n2. Examples of irrational use: polypharmacy, antibiotics for viral infections, unnecessary injections, irrational fixed-dose combinations, self-medication, wrong dose or duration, overuse of tonics.\n3. Causes: patients (demand for injections and antibiotics, poor knowledge); prescribers (lack of training and time, drug promotion); health system (no guidelines, drug shortages, weak regulation); industry promotion.\n4. Consequences: treatment failure, adverse effects, antimicrobial resistance, waste of money, loss of trust.\n5. Strategies: educational (training, public awareness), managerial (essential medicines list, standard treatment guidelines, drug and therapeutics committees, prescription audit), regulatory (banning irrational FDCs, Schedule H/H1/X), economic (generics, Jan Aushadhi, price control).\n6. Role of pharmacist: dispense only valid prescriptions, check dose and interactions, counsel, report ADRs, refuse antibiotics without prescription."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is an essential medicine? Write the criteria for selection of essential medicines and the advantages of the National List of Essential Medicines.",
+      "answer": "1. Definition (WHO): medicines that satisfy the priority health-care needs of the population; available at all times, in adequate amounts and suitable dosage forms, with assured quality, at an affordable price.\n2. History: WHO first Model List 1977, revised every two years; India's NLEM first 1996, latest 2022 with 384 medicines, marked P/S/T for primary, secondary and tertiary care.\n3. Selection criteria: relevance to the disease pattern; proven efficacy and safety; comparative cost-effectiveness; stability and suitable dosage forms; mostly single-ingredient drugs (FDCs only when clearly better, e.g. anti-TB, ART); listed by generic name.\n4. Advantages: better availability and lower cost; easier procurement, storage and supply; basis for STGs, training and drug information; promotes rational and generic prescribing; NLEM drugs come under price control (DPCO 2013 through NPPA); reduces waste."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define evidence-based medicine. Describe its steps and the hierarchy of evidence.",
+      "answer": "1. Definition: careful, open and sensible use of the best current evidence when deciding the care of an individual patient, combining research evidence, clinical expertise and patient values.\n2. Steps (5 A's): Ask a focused question (PICO – patient, intervention, comparison, outcome); Acquire evidence (PubMed, Cochrane, guidelines); Appraise its validity and relevance; Apply it to the patient; Assess the outcome.\n3. Hierarchy (strongest first): systematic reviews/meta-analyses of RCTs → individual RCTs → cohort studies → case–control studies → case series/case reports → expert opinion, animal and laboratory studies (draw a pyramid).\n4. Advantages: decisions based on proof, better outcomes, avoids harmful or useless treatment, basis of guidelines.\n5. Limitations: evidence not available for every question, trials exclude special groups, needs time and skill."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define standard treatment guidelines. List their advantages.",
+      "answer": "Definition: systematically developed statements that help prescribers choose the most appropriate treatment for a specific condition – preferred drug, alternatives, dose, duration, non-drug measures and referral criteria. Examples: NTEP, malaria and NACO guidelines, ICMR Standard Treatment Workflows.\nAdvantages: consistent, effective and affordable care for patients; ready reference for prescribers; basis for pharmacists to check prescriptions and counsel; predictable procurement; audit tool; reduce irrational use and antimicrobial resistance.\nLimitation: need regular updating and cannot replace clinical judgement."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the scope and objectives of pharmacotherapeutics.",
+      "answer": "Scope: choosing the right drug using evidence; individualising therapy (age, pregnancy, kidney/liver function); monitoring efficacy and safety; detecting drug-related problems (ADRs, interactions, non-adherence); patient counselling; drug information to the health team; public health and rational use.\nObjectives: understand etiopathogenesis of common diseases; learn evidence-based drug and non-drug management; prepare individualised therapeutic plans; assess clinical outcomes; identify DRPs and suggest interventions; plan discharge counselling."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the steps of rational prescribing (WHO Guide to Good Prescribing). What is a P-drug?",
+      "answer": "Steps: (1) define the patient's problem; (2) specify the therapeutic objective; (3) choose suitable treatment – verify that your P-drug suits this patient; (4) start treatment with a complete, legible prescription; (5) give information, instructions and warnings; (6) monitor and stop treatment when appropriate.\nP-drug (personal drug): the drug a prescriber has chosen in advance as first choice for a common condition, after comparing efficacy, safety, suitability and cost, so that prescribing becomes consistent and rational."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is a SOAP note? Explain each part with examples.",
+      "answer": "SOAP is a structured way of recording patient information and care.\nS – Subjective: what the patient says – chief complaint, history of illness, medication and allergy history, social history.\nO – Objective: measured findings – vital signs, weight/BMI, examination, laboratory values, ECG.\nA – Assessment: the clinician's judgement – diagnosis, severity, whether therapy is working, drug-related problems.\nP – Plan: drug and non-drug therapy, monitoring parameters, counselling, follow-up."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "List four common drug-related problems.",
+      "answer": "Untreated indication (no drug for a condition), drug without indication, wrong drug or dose (too high/too low), adverse drug reaction, drug interaction, non-adherence."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "When and by whom was India's first National List of Essential Medicines published? Which is the latest?",
+      "answer": "First NLEM: 1996, by the Ministry of Health and Family Welfare, Government of India. Latest: NLEM 2022 (384 medicines)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define hypertension. Classify it and discuss its etiopathogenesis, clinical manifestations and management.",
+      "answer": "1. Definition: persistent rise of BP – systolic 140 mmHg or more and/or diastolic 90 mmHg or more on repeated readings.\n2. Classification (JNC 7): normal below 120/80; prehypertension 120–139/80–89; stage 1 140–159/90–99; stage 2 160/100 or more. Primary (essential, 90–95%) and secondary (kidney disease, renal artery stenosis, aldosteronism, phaeochromocytoma, Cushing's, drugs – NSAIDs, OCPs, steroids).\n3. Risk factors: age, family history, obesity, salt, inactivity, alcohol, smoking, stress, diabetes.\n4. Pathogenesis: BP = cardiac output × peripheral resistance; sympathetic over-activity and RAAS (angiotensin II, aldosterone) cause vasoconstriction and Na/water retention.\n5. Features: usually silent; headache, giddiness; target organ damage – LVH, heart failure, CAD, stroke, kidney disease, retinopathy.\n6. Non-drug: salt below about 5 g/day, DASH diet, weight loss, exercise, limit alcohol, stop smoking, stress control.\n7. Drugs: first line – ACE inhibitors (enalapril)/ARBs (losartan), CCBs (amlodipine), thiazides (chlorthalidone); beta-blockers for compelling reasons; ACEI/ARB in diabetes and CKD; methyldopa, labetalol, nifedipine in pregnancy; combine ACEI/ARB + CCB or thiazide; never ACEI + ARB.\n8. Counselling: take daily even if well, home BP record, low salt, rise slowly, report dry cough or lip swelling."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define angina pectoris. Write its types, etiopathogenesis and pharmacotherapy.",
+      "answer": "1. Definition: chest pain due to transient myocardial ischaemia (O2 demand exceeds supply) without permanent muscle damage.\n2. Types: stable (exertional, relieved by rest/nitrate), unstable (at rest or worsening; plaque rupture; part of ACS), variant/Prinzmetal (coronary spasm, at rest).\n3. Etiopathogenesis: coronary atherosclerosis; risk factors – age, male sex, smoking, hypertension, diabetes, dyslipidaemia, obesity; triggers – exertion, emotion, cold, heavy meals.\n4. Features: retrosternal heavy/squeezing pain radiating to left arm, jaw; lasts minutes; sweating, breathlessness; ST depression.\n5. Non-drug: stop smoking, control BP, sugar, lipids; graded exercise; weight loss; revascularisation (PCI, CABG).\n6. Drugs: acute attack – sublingual nitroglycerin; prophylaxis – beta-blockers (stable angina), CCBs (variant angina), long-acting nitrates with nitrate-free interval, ivabradine, ranolazine, nicorandil; prevention of MI – low-dose aspirin (or clopidogrel), statin, ACE inhibitor.\n7. Counselling: sit, SL tablet, repeat after 5 min and call emergency if pain persists; headache expected; store in airtight glass bottle; never with sildenafil."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define congestive heart failure. Describe its causes, pathogenesis, clinical features and management.",
+      "answer": "1. Definition: syndrome in which the heart cannot pump enough blood for body needs, or only at high filling pressures, with congestion of lungs and tissues.\n2. Causes: CAD/previous MI, hypertension, valve disease, cardiomyopathy, arrhythmias; precipitants – infection, stopping drugs, excess salt, NSAIDs, verapamil/diltiazem.\n3. Pathogenesis: low output → sympathetic and RAAS activation → vasoconstriction, Na/water retention, remodelling → more load → vicious cycle.\n4. Features: exertional breathlessness, orthopnoea, PND, fatigue, ankle oedema, raised JVP, hepatomegaly, crackles; NYHA I–IV; BNP and echo.\n5. Non-drug: salt and fluid restriction, daily weight, stop smoking/alcohol, vaccination, exercise when stable, avoid NSAIDs.\n6. Drugs (HFrEF): ACE inhibitor/ARB/ARNI (sacubitril–valsartan), beta-blocker (carvedilol, bisoprolol – start low, go slow), aldosterone antagonist (spironolactone), SGLT2 inhibitor (dapagliflozin) – reduce mortality; loop diuretic (furosemide) for congestion; digoxin for symptoms/AF.\n7. Counselling: weigh daily (2 kg in 2–3 days → report), low salt, diuretic in morning, signs of low potassium and digoxin toxicity (nausea, yellow vision)."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the management of acute myocardial infarction.",
+      "answer": "Immediate: emergency call, rest, O2 if hypoxic; chewable aspirin early + second antiplatelet (clopidogrel/ticagrelor); SL/IV nitroglycerin and morphine for pain; reperfusion in STEMI – primary PCI or thrombolysis (streptokinase, tenecteplase, alteplase), the earlier the better; heparin/enoxaparin.\nLong term (ABCDE): aspirin + second antiplatelet up to a year, ACE inhibitor; beta-blocker; high-intensity statin; stop smoking; diet and diabetes control; exercise/cardiac rehabilitation; aldosterone antagonist if low EF.\nDiagnosis: ECG changes + raised troponin."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Classify drugs used in hyperlipidaemia with examples and adverse effects.",
+      "answer": "Statins (first choice) – atorvastatin, rosuvastatin, simvastatin: myopathy, rarely rhabdomyolysis, raised liver enzymes; avoid in pregnancy.\nCholesterol absorption inhibitor – ezetimibe.\nFibrates – fenofibrate, gemfibrozil: lower triglycerides, raise HDL; myopathy risk with statins.\nBile acid sequestrants – cholestyramine: constipation, bind other drugs.\nNiacin – flushing, hyperglycaemia.\nOmega-3 fatty acids – lower TG.\nPCSK9 inhibitors – evolocumab, alirocumab (injections).\nCounsel: report muscle pain, continue diet and exercise."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write counselling points for a patient on sublingual nitroglycerin.",
+      "answer": "Sit down at the start of chest pain; place one tablet under the tongue, do not swallow; if pain is not relieved in 5 minutes take a second and call emergency services (possible heart attack); headache, flushing and dizziness are common; keep tablets in the original airtight glass bottle away from heat, light and moisture; note expiry; may be taken before exertion that usually causes pain; never take with sildenafil or tadalafil (severe fall in BP)."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the drugs of choice for hypertension in special conditions.",
+      "answer": "Diabetes, proteinuria, CKD – ACE inhibitor or ARB.\nElderly / isolated systolic hypertension – CCB or thiazide.\nAngina or post-MI – beta-blocker + ACE inhibitor.\nHeart failure – ACEI/ARB, beta-blocker, diuretic, spironolactone.\nPregnancy – methyldopa, labetalol, nifedipine (ACEI/ARB contraindicated).\nBenign prostatic hyperplasia – alpha-blocker (prazosin) added.\nResistant hypertension – add spironolactone.\nHypertensive emergency – IV labetalol, nitroglycerin, sodium nitroprusside with gradual lowering."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the JNC 7 classification of blood pressure.",
+      "answer": "Normal below 120/80; prehypertension 120–139/80–89; stage 1 hypertension 140–159/90–99; stage 2 hypertension 160/100 mmHg or more."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name four drugs that reduce mortality in heart failure with reduced ejection fraction.",
+      "answer": "ACE inhibitor (enalapril) or ARNI (sacubitril–valsartan); beta-blocker (carvedilol, bisoprolol); aldosterone antagonist (spironolactone); SGLT2 inhibitor (dapagliflozin)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define bronchial asthma. Discuss its etiopathogenesis, clinical features and management.",
+      "answer": "1. Definition: chronic inflammatory airway disease with hyper-responsiveness, causing recurrent wheeze, breathlessness, chest tightness and cough, with variable, largely reversible airflow obstruction.\n2. Types: extrinsic (allergic, IgE, childhood) and intrinsic (non-allergic, adult).\n3. Triggers: dust mite, pollen, mould, dander, smoke, pollution, viral infection, exercise, cold air, aspirin/NSAIDs, beta-blockers, GERD.\n4. Pathogenesis: allergen–IgE on mast cells → histamine, leukotrienes → bronchospasm, mucosal oedema, mucus (early phase); eosinophils, T cells → inflammation (late phase); remodelling.\n5. Features: episodic wheeze, cough worse at night/early morning; severe attack – cannot speak sentences, silent chest, cyanosis. Spirometry: FEV1 improves 12% and 200 mL after bronchodilator; variable PEF.\n6. Non-drug: avoid triggers, inhaler technique, action plan, vaccination, weight control.\n7. Drugs: relievers – salbutamol or as-needed low-dose ICS–formoterol; controllers – ICS (budesonide, beclomethasone, fluticasone), ICS–LABA, montelukast, tiotropium; biologics (omalizumab) for severe. Every patient needs ICS; no SABA alone; never LABA alone. Stepwise up and down.\n8. Acute attack: O2, repeated nebulised salbutamol + ipratropium, systemic steroid, IV magnesium.\n9. Counselling: preventer daily, rinse mouth after ICS, correct technique, seek help if reliever needed often."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define COPD. Discuss its causes, pathogenesis, clinical features and management.",
+      "answer": "1. Definition: chronic lung disease with persistent symptoms and airflow limitation not fully reversible, due to noxious particles/gases; includes chronic bronchitis (cough with sputum 3 months a year for 2 years) and emphysema (destruction of alveolar walls).\n2. Causes: smoking (main), biomass fuel smoke, air pollution, occupational dust, alpha-1 antitrypsin deficiency, past TB.\n3. Pathogenesis: chronic neutrophilic inflammation, mucus hypersecretion, airway fibrosis; protease–antiprotease imbalance → emphysema; air trapping → hypoxia, hypercapnia, cor pulmonale.\n4. Features: age over 40, progressive breathlessness, chronic productive cough, barrel chest, pursed-lip breathing; exacerbations. Spirometry: post-bronchodilator FEV1/FVC below 0.70.\n5. Non-drug: stop smoking (most important), clean fuel, influenza and pneumococcal vaccines, pulmonary rehabilitation, long-term oxygen.\n6. Drugs: SABA/SAMA as needed; LAMA (tiotropium) and/or LABA (salmeterol, indacaterol) maintenance; ICS only for frequent exacerbations (pneumonia risk); roflumilast, theophylline.\n7. Exacerbation: nebulised bronchodilators, oral prednisolone about 5 days, antibiotics if purulent sputum, controlled O2 (88–92%), NIV.\n8. Counselling: inhaler technique, quit smoking, early recognition of exacerbation."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the stepwise drug management of asthma and the management of an acute severe attack.",
+      "answer": "1. Principle: all adults/adolescents receive an inhaled corticosteroid; SABA alone not recommended; step up after checking technique and adherence; step down after 3 months of control.\n2. Steps 1–2: as-needed low-dose ICS–formoterol (or low-dose daily ICS with SABA reliever).\n3. Step 3: low-dose ICS–LABA maintenance.\n4. Step 4: medium-dose ICS–LABA.\n5. Step 5: add LAMA (tiotropium), refer for biologics (omalizumab, mepolizumab), short oral steroid courses.\n6. Add-ons: montelukast; theophylline rarely.\n7. Acute severe attack: sit up, O2 to saturation about 93–95%; salbutamol by spacer or nebuliser repeatedly; add ipratropium; oral prednisolone or IV hydrocortisone; IV magnesium sulphate if severe; avoid sedatives; ICU if silent chest, cyanosis, exhaustion.\n8. On discharge: check technique, start/step up ICS, written action plan."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between asthma and COPD.",
+      "answer": "Age: asthma often childhood; COPD usually above 40.\nCause: asthma – allergy and triggers; COPD – smoking, biomass smoke.\nSymptoms: asthma episodic and variable, night symptoms; COPD persistent and progressive.\nReversibility: asthma largely reversible; COPD not fully reversible.\nCells: asthma – eosinophils, mast cells; COPD – neutrophils, macrophages.\nMain drug: asthma – inhaled corticosteroids; COPD – long-acting bronchodilators (LAMA/LABA), ICS only in frequent exacerbators."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write counselling points for a patient using a metered-dose inhaler with an inhaled corticosteroid.",
+      "answer": "Remove cap and shake; breathe out fully away from the mouthpiece; seal lips; start a slow deep breath and press the canister once; continue breathing in, hold breath about 10 seconds; wait 30–60 seconds before the next puff; use a spacer if coordination is poor; rinse mouth and spit after use to prevent thrush and hoarseness; use the preventer every day even when well; clean the actuator; keep the reliever inhaler always available; see the doctor if reliever is needed more than twice a week."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the management of acute exacerbation of COPD.",
+      "answer": "Increase short-acting bronchodilators (nebulised salbutamol ± ipratropium); oral prednisolone for about 5 days; antibiotics when sputum becomes purulent or increases (amoxicillin–clavulanate, doxycycline or a macrolide); controlled oxygen to saturation 88–92% (high O2 may raise CO2); non-invasive ventilation for respiratory acidosis; treat precipitating causes; after recovery – optimise maintenance inhalers, vaccination, rehabilitation, smoking cessation."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the triggers of asthma and the non-pharmacological measures to control them.",
+      "answer": "Triggers: house dust mite, pollen, mould, animal dander, cockroach, tobacco and biomass smoke, pollution, viral infections, exercise, cold air, emotional stress, aspirin/NSAIDs, beta-blockers, GERD, occupational chemicals.\nMeasures: dust-proof covers, hot-washing bedding, no smoking indoors, clean fuel and ventilation, avoid pets in the bedroom, influenza vaccine, pre-exercise reliever, avoid trigger drugs, treat rhinitis and reflux, weight control, written action plan."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why should a patient rinse the mouth after using an inhaled corticosteroid?",
+      "answer": "To remove drug deposited in the mouth and throat and prevent oral candidiasis (thrush) and hoarseness of voice."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What spirometry finding confirms COPD?",
+      "answer": "A post-bronchodilator FEV1/FVC ratio below 0.70, showing persistent airflow limitation."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define diabetes mellitus. Classify it and discuss the etiopathogenesis, clinical features, complications and diagnosis.",
+      "answer": "1. Definition: group of metabolic disorders with chronic hyperglycaemia due to defects in insulin secretion, action or both.\n2. Classification: type 1 (autoimmune beta-cell destruction, absolute insulin deficiency); type 2 (insulin resistance + progressive beta-cell failure, about 90%); gestational; other specific types (pancreatic disease, drugs – steroids, thiazides; MODY).\n3. Risk factors (type 2): family history, obesity, inactivity, unhealthy diet, age, previous GDM, PCOS.\n4. Pathogenesis: type 1 – no insulin → hyperglycaemia, lipolysis → ketones → DKA; type 2 – resistance in muscle, liver, fat → hepatic glucose output up, uptake down.\n5. Features: polyuria, polydipsia, polyphagia, weight loss, fatigue, blurred vision, infections, slow wound healing; many type 2 patients asymptomatic.\n6. Diagnosis: FPG 126 mg/dL or more; 2-h OGTT 200 or more; HbA1c 6.5% or more; random 200 or more with symptoms. Prediabetes: FPG 100–125, OGTT 140–199, HbA1c 5.7–6.4%.\n7. Complications: acute – hypoglycaemia, DKA, HHS; microvascular – retinopathy, nephropathy, neuropathy; macrovascular – CAD, stroke, PAD, diabetic foot."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the pharmacological management of type 2 diabetes mellitus with mechanism and adverse effects of oral hypoglycaemic drugs.",
+      "answer": "1. Goals: HbA1c below 7% for most; individualised; control BP, lipids.\n2. Lifestyle with metformin as the first drug.\n3. Metformin (biguanide): reduces hepatic glucose output, improves sensitivity; GI upset, B12 deficiency, lactic acidosis in severe kidney disease; no hypoglycaemia or weight gain.\n4. Sulfonylureas (glimepiride, gliclazide): increase insulin release; hypoglycaemia, weight gain.\n5. DPP-4 inhibitors (sitagliptin, vildagliptin, teneligliptin): enhance incretins; weight neutral.\n6. SGLT2 inhibitors (dapagliflozin, empagliflozin): glucose loss in urine; genital infections, dehydration; heart and kidney protection.\n7. GLP-1 receptor agonists (liraglutide, semaglutide): weight loss, nausea; CV benefit.\n8. Pioglitazone: improves sensitivity; oedema, weight gain, avoid in heart failure.\n9. Alpha-glucosidase inhibitors (acarbose, voglibose): flatulence.\n10. Insulin when oral drugs fail, very high sugar, pregnancy, acute illness.\n11. Choice: SGLT2i/GLP-1 RA in heart failure, CVD or CKD; cost – sulfonylurea.\n12. Counselling: take metformin with food, hypoglycaemia recognition, foot care, regular monitoring."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define hypothyroidism and hyperthyroidism. Compare their causes, clinical features and management.",
+      "answer": "1. Hypothyroidism: deficient thyroid hormone, slowed metabolism; hyperthyroidism (thyrotoxicosis): excess hormone, increased metabolism.\n2. Causes: hypo – Hashimoto's thyroiditis, iodine deficiency, post-surgery/radioiodine, lithium, amiodarone, pituitary disease; hyper – Graves' disease, toxic multinodular goitre, toxic adenoma, thyroiditis, excess thyroxine.\n3. Features: hypo – weight gain, cold intolerance, constipation, dry skin, slow pulse, lethargy, menorrhagia, high cholesterol; hyper – weight loss with good appetite, heat intolerance, sweating, palpitations/AF, tremor, anxiety, diarrhoea, exophthalmos (Graves').\n4. Tests: hypo – high TSH, low T4; hyper – low TSH, high T4/T3.\n5. Treatment of hypo: levothyroxine lifelong; start low in elderly/heart disease; adjust by TSH every 6–8 weeks; empty stomach, 4 hours apart from iron, calcium, antacids.\n6. Treatment of hyper: carbimazole/methimazole (PTU in first trimester and thyroid storm) – watch agranulocytosis (sore throat, fever); propranolol for symptoms; radioactive iodine (not in pregnancy); thyroidectomy; Lugol's iodine before surgery.\n7. Counselling for each as above."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the recognition and management of hypoglycaemia.",
+      "answer": "Hypoglycaemia: blood glucose below about 70 mg/dL.\nCauses: missed meal, excess exercise, too much insulin or sulfonylurea, alcohol, kidney failure.\nSymptoms: sweating, tremor, palpitations, hunger, anxiety → confusion, abnormal behaviour, seizures, coma; beta-blockers mask warning signs except sweating.\nTreatment (conscious): about 15 g fast-acting sugar (glucose tablets, sugar in water, juice), recheck after 15 minutes, repeat if low, then a snack. Unconscious: IV dextrose or glucagon injection, nothing by mouth.\nPrevention: regular meals, carry sugar and ID card, adjust dose for exercise."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write counselling points for a patient using insulin.",
+      "answer": "Storage: unopened at 2–8 °C, never freeze; vial/pen in use at room temperature for the period on the leaflet, away from heat and sunlight.\nTechnique: wash hands, roll cloudy insulin gently, prime the pen with 2 units, inject into abdomen/thigh/upper arm, hold 10 seconds, rotate sites to prevent lipohypertrophy, one needle per injection, safe disposal.\nTiming: rapid-acting just before meals; do not skip meals.\nHypoglycaemia: recognise and treat with 15 g sugar; carry sugar.\nSick days: never stop insulin, check sugar often, drink fluids.\nMonitoring: home glucose, HbA1c every 3 months."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Classify insulin preparations with examples.",
+      "answer": "Rapid-acting: lispro, aspart, glulisine – onset 10–15 min, duration 3–5 h; given just before meals.\nShort-acting: regular (soluble) insulin – onset 30 min, 6–8 h; only one given IV (DKA).\nIntermediate-acting: NPH (isophane) – 12–18 h.\nLong-acting (basal, peakless): glargine, detemir, degludec – about 24 h or more.\nPremixed: 30/70 regular/NPH, biphasic analogues.\nUsed as basal-bolus, premixed twice daily, or pump."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write counselling points for a patient on levothyroxine.",
+      "answer": "Take once daily on an empty stomach, 30–60 minutes before breakfast, with water; keep 4 hours apart from iron, calcium, antacids and soy; take lifelong – do not stop when feeling well; benefits appear over weeks; TSH is checked after 6–8 weeks to adjust dose, then yearly; report palpitations, chest pain, tremor, sweating or weight loss (excess dose); inform the doctor if planning pregnancy (dose often needs to increase)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the diagnostic criteria for diabetes mellitus.",
+      "answer": "Fasting plasma glucose 126 mg/dL or more; 2-hour OGTT glucose 200 mg/dL or more; HbA1c 6.5% or more; or random plasma glucose 200 mg/dL or more with classical symptoms."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is a patient on carbimazole asked to report sore throat immediately?",
+      "answer": "Carbimazole can rarely cause agranulocytosis (severe fall in neutrophils); sore throat, fever or mouth ulcers may be its first sign, so the drug is stopped and a blood count done."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define epilepsy. Classify seizures and write the management of epilepsy and status epilepticus.",
+      "answer": "1. Definition: brain disorder with an enduring tendency to recurrent unprovoked seizures (two or more, more than 24 h apart). Status epilepticus: seizure longer than about 5 minutes or repeated without recovery.\n2. Causes: idiopathic/genetic; head injury, birth injury, tumour, stroke, neurocysticercosis, meningitis; metabolic (low glucose, sodium, calcium); triggers – missed doses, sleep loss, alcohol.\n3. Classification: focal (with/without impaired awareness, may become bilateral); generalised – tonic–clonic, absence, myoclonic, atonic.\n4. Non-drug: sleep, avoid triggers, safety (no swimming alone, no driving), first aid – recovery position, nothing in mouth.\n5. Drugs: monotherapy, start low go slow; focal – carbamazepine, lamotrigine, levetiracetam; generalised tonic–clonic – valproate, lamotrigine, levetiracetam; absence – ethosuximide, valproate; myoclonic – valproate, levetiracetam (carbamazepine/phenytoin worsen absence and myoclonic).\n6. Adverse effects: phenytoin – gum hypertrophy, hirsutism, ataxia; carbamazepine – hyponatraemia, SJS; valproate – weight gain, hepatotoxicity, teratogenicity.\n7. Status epilepticus: ABC, glucose (thiamine), IV lorazepam/diazepam or buccal midazolam → IV phenytoin/fosphenytoin, valproate or levetiracetam → anaesthesia.\n8. Counselling: never stop suddenly, seizure diary, interactions with OCPs, folic acid in pregnancy."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define Parkinson's disease. Write its pathogenesis, clinical features and pharmacotherapy.",
+      "answer": "1. Definition: chronic progressive neurodegenerative disorder due to loss of dopaminergic neurons in the substantia nigra, causing dopamine deficiency in the striatum.\n2. Causes: idiopathic, age, genetic, toxins; drug-induced parkinsonism – haloperidol, metoclopramide, reserpine.\n3. Pathogenesis: dopamine loss with relative cholinergic excess; Lewy bodies.\n4. Features (TRAP): resting pill-rolling tremor, lead-pipe/cogwheel rigidity, akinesia/bradykinesia (mask face, micrographia), postural instability, shuffling festinant gait; non-motor – constipation, depression, anosmia, orthostatic hypotension.\n5. Non-drug: physiotherapy, exercise, speech and occupational therapy, fall prevention, deep brain stimulation.\n6. Drugs: levodopa + carbidopa (most effective; wearing-off, dyskinesia, nausea); dopamine agonists – pramipexole, ropinirole (somnolence, impulse control problems); MAO-B inhibitors – selegiline, rasagiline; COMT inhibitor – entacapone; amantadine; anticholinergic – trihexyphenidyl (tremor, avoid in elderly).\n7. Counselling: regular dosing, do not stop suddenly, rise slowly, avoid metoclopramide and typical antipsychotics, report hallucinations or compulsive behaviour."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define stroke. Discuss its types, risk factors, clinical features and management.",
+      "answer": "1. Definition: sudden focal loss of brain function lasting more than 24 h or causing death, of vascular origin; TIA resolves without infarction.\n2. Types: ischaemic (80–85% – thrombosis, embolism from AF) and haemorrhagic (intracerebral, subarachnoid).\n3. Risk factors: hypertension (most important), diabetes, smoking, dyslipidaemia, AF, previous TIA, obesity, alcohol, age.\n4. Features (BE FAST): balance loss, eye/vision loss, facial droop, arm weakness, speech difficulty – time to call; severe headache and vomiting in haemorrhage. CT scan first.\n5. General care: airway, swallow assessment, glucose and temperature control, DVT and pressure-sore prevention, rehabilitation.\n6. Ischaemic: IV alteplase/tenecteplase within 4.5 hours if eligible; thrombectomy; aspirin (after 24 h if thrombolysed); short dual antiplatelet for minor stroke/TIA; long-term antiplatelet, statin, BP and sugar control; anticoagulant (warfarin, apixaban, dabigatran) in AF.\n7. Haemorrhagic: no antiplatelets/anticoagulants, reverse anticoagulation, careful BP lowering, surgery, nimodipine in SAH.\n8. Counselling: adherence, bleeding signs, INR with warfarin, risk factor control."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the pharmacotherapy of Alzheimer's disease.",
+      "answer": "Alzheimer's: commonest dementia; amyloid plaques, neurofibrillary tangles, loss of cholinergic neurons.\nCholinesterase inhibitors – donepezil, rivastigmine (oral/patch), galantamine: for mild–moderate disease; adverse effects – nausea, diarrhoea, bradycardia, vivid dreams.\nNMDA antagonist – memantine: moderate–severe disease; dizziness, confusion.\nDrugs improve symptoms but do not stop progression. Avoid anticholinergic drugs; antipsychotics only short-term for severe behaviour problems (stroke and death risk); SSRIs for depression.\nNon-drug: routine, safe home, memory aids, caregiver support."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the acute and prophylactic treatment of migraine.",
+      "answer": "Acute (take early): paracetamol, aspirin, ibuprofen, naproxen ± anti-emetic (domperidone, metoclopramide); triptans (sumatriptan, rizatriptan) for moderate–severe – avoid in CAD, uncontrolled hypertension, stroke; rest in a dark quiet room; limit use to avoid medication-overuse headache.\nProphylaxis (frequent/disabling attacks): propranolol, flunarizine, amitriptyline, topiramate, valproate (not in women who may conceive), anti-CGRP antibodies; continue some months.\nNon-drug: headache diary, avoid triggers, regular sleep and meals."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the adverse effects of phenytoin, carbamazepine and sodium valproate.",
+      "answer": "Phenytoin: gum hypertrophy, hirsutism, acne, coarse facies, ataxia, nystagmus, diplopia at high levels; zero-order kinetics; enzyme inducer; teratogenic.\nCarbamazepine: dizziness, diplopia, hyponatraemia, rash including SJS (HLA-B*1502), blood dyscrasias, enzyme inducer (OCP failure).\nSodium valproate: weight gain, tremor, hair loss, hepatotoxicity, pancreatitis, thrombocytopenia; highly teratogenic (neural tube defects) – avoid in women of child-bearing potential."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write first aid for a person having a generalised tonic–clonic seizure.",
+      "answer": "Stay calm and note the time; move dangerous objects away; cushion the head; loosen tight clothing around the neck; do not restrain movements; do not put anything in the mouth; after jerking stops turn the person on the side (recovery position) to keep the airway clear; stay until fully awake; call emergency help if the seizure lasts more than 5 minutes, another follows, the person is injured, pregnant, or it is the first seizure."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is TRAP in Parkinson's disease?",
+      "answer": "Tremor at rest, Rigidity, Akinesia/bradykinesia, Postural instability – the four cardinal motor features."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is carbidopa combined with levodopa?",
+      "answer": "Carbidopa inhibits peripheral dopa decarboxylase, so less levodopa is converted to dopamine outside the brain; more reaches the brain, the dose is lower, and nausea and cardiovascular side effects are reduced."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define peptic ulcer. Discuss its etiopathogenesis, clinical features and management including H. pylori eradication.",
+      "answer": "1. Definition: break in the mucosa of stomach or duodenum extending through the muscularis mucosae, due to acid–pepsin action.\n2. Etiopathogenesis: imbalance between aggressive factors (acid, pepsin, H. pylori, NSAIDs, smoking, alcohol, stress) and defensive factors (mucus, bicarbonate, prostaglandins, blood flow); H. pylori (urease, inflammation); NSAIDs inhibit COX-1 prostaglandins; Zollinger–Ellison syndrome.\n3. Features: epigastric burning; duodenal – pain relieved by food, night pain; gastric – pain worse with food, weight loss; complications – bleeding (haematemesis, melaena), perforation, obstruction.\n4. Diagnosis: endoscopy; urea breath test, stool antigen, rapid urease test.\n5. Non-drug: stop smoking, alcohol and NSAIDs, regular meals.\n6. H. pylori eradication (14 days): PPI + clarithromycin + amoxicillin (metronidazole in penicillin allergy); bismuth quadruple (PPI + bismuth + tetracycline + metronidazole) where clarithromycin resistance is high; test of cure.\n7. NSAID ulcer: stop NSAID, PPI 4–8 weeks; co-prescribe PPI if NSAID essential.\n8. Others: H2 blockers, sucralfate, misoprostol (not in pregnancy), antacids.\n9. Counselling: complete course, no alcohol with metronidazole, black stools with bismuth, report melaena."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate ulcerative colitis and Crohn's disease. Write the pharmacotherapy of inflammatory bowel disease.",
+      "answer": "1. IBD: chronic relapsing intestinal inflammation of uncertain cause (immune response to gut flora in genetically prone people).\n2. Differences: UC – colon and rectum only, continuous from rectum, mucosal, bloody diarrhoea, fistulas rare, no granulomas, smoking not a risk, colectomy curative; Crohn's – mouth to anus (terminal ileum), skip lesions, transmural, pain/weight loss/malabsorption, fistulas and strictures, granulomas, smoking worsens, surgery not curative.\n3. Extra-intestinal: arthritis, uveitis, skin lesions, liver disease.\n4. Aminosalicylates – mesalamine, sulfasalazine (oral, enema, suppository): mild–moderate UC, induction and maintenance.\n5. Corticosteroids – prednisolone, budesonide, IV hydrocortisone: induce remission only, not maintenance.\n6. Immunomodulators – azathioprine, 6-MP, methotrexate: maintenance, steroid-sparing; monitor blood counts.\n7. Biologics – infliximab, adalimumab, vedolizumab, ustekinumab; screen for TB and HBV.\n8. Antibiotics for fistulas/abscess in Crohn's; avoid antidiarrhoeals in severe UC.\n9. Non-drug: nutrition, stop smoking (Crohn's), surgery.\n10. Counselling: continue maintenance, avoid NSAIDs, report infections."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe alcoholic liver disease and its management.",
+      "answer": "1. Definition: liver damage from chronic excessive alcohol; spectrum – fatty liver → alcoholic hepatitis → cirrhosis.\n2. Pathogenesis: alcohol → acetaldehyde (ADH, CYP2E1) → fat accumulation, oxidative stress, inflammation, fibrosis; risk higher in women, obesity, malnutrition, HBV/HCV.\n3. Features: fatty liver – often silent, hepatomegaly; hepatitis – jaundice, fever, tender liver, AST:ALT about 2:1, raised GGT; cirrhosis – ascites, oedema, varices with haematemesis, encephalopathy, spider naevi, coagulopathy, low albumin.\n4. Non-drug: complete abstinence (most important), nutrition with adequate protein, salt restriction for ascites, hepatitis A/B vaccination, transplant.\n5. Drugs: alcohol withdrawal – benzodiazepines (chlordiazepoxide; lorazepam in severe liver disease); thiamine before glucose; abstinence – acamprosate, naltrexone, disulfiram; severe alcoholic hepatitis – prednisolone; ascites – spironolactone ± furosemide, paracentesis; varices – propranolol/carvedilol, banding, terlipressin/octreotide; encephalopathy – lactulose, rifaximin.\n6. Avoid NSAIDs and sedatives; limit paracetamol.\n7. Counselling: stop alcohol, take lactulose, report confusion or bleeding."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the non-pharmacological and pharmacological management of GERD.",
+      "answer": "Non-drug: raise the head of the bed 15–20 cm; no meals 2–3 h before lying down; small meals; avoid fatty/spicy food, chocolate, coffee, peppermint, alcohol; lose weight; avoid tight clothes; stop smoking; review drugs that lower LES pressure (CCBs, nitrates, anticholinergics, theophylline).\nDrugs: antacids/alginates for occasional symptoms; H2 blockers (famotidine); PPIs (omeprazole, pantoprazole, rabeprazole, esomeprazole) most effective, 4–8 weeks then lowest effective dose; prokinetics (domperidone, itopride) as add-on.\nAlarm features (dysphagia, weight loss, bleeding, anaemia) need endoscopy."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the H. pylori eradication regimens.",
+      "answer": "Duration usually 14 days.\nStandard triple therapy: PPI + clarithromycin + amoxicillin (metronidazole replaces amoxicillin in penicillin allergy).\nBismuth quadruple therapy: PPI + bismuth subcitrate + tetracycline + metronidazole – where clarithromycin resistance is high or after failure.\nAlternatives: sequential or levofloxacin-based regimens.\nAfter therapy: continue PPI to heal ulcer; confirm eradication by urea breath test or stool antigen at least 4 weeks after antibiotics.\nCounselling: complete course; no alcohol with metronidazole; bismuth darkens stools."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write counselling points for a patient on a proton pump inhibitor.",
+      "answer": "Take 30–60 minutes before breakfast (before the first meal); swallow whole – do not crush or chew enteric-coated tablets/capsules; continue life-style measures; use for the prescribed duration – long-term use only if needed (risks: low magnesium and B12, fractures, C. difficile diarrhoea, pneumonia); report difficulty in swallowing, black stools or weight loss; antacids, if used, separate from other medicines by about 2 hours."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate duodenal ulcer and gastric ulcer.",
+      "answer": "Pain timing: DU 2–3 h after meals and at night, relieved by food; GU soon after meals, worsened by food.\nWeight: DU maintained or gain; GU loss.\nAge: DU younger; GU older.\nAcid: DU often high; GU normal or low.\nH. pylori: very common in DU; common in GU.\nCancer risk: DU very low; GU – biopsy needed to exclude malignancy.\nVomiting: more common in GU."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is thiamine given to patients with alcohol dependence?",
+      "answer": "Alcoholics are often thiamine (vitamin B1) deficient; giving thiamine (before glucose) prevents Wernicke's encephalopathy and Korsakoff's syndrome."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two drugs used in hepatic encephalopathy.",
+      "answer": "Lactulose (reduces ammonia absorption) and rifaximin (reduces ammonia-producing gut bacteria)."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define iron deficiency anaemia. Write its causes, clinical features, laboratory findings and management.",
+      "answer": "1. Definition: microcytic hypochromic anaemia due to lack of iron for haemoglobin synthesis; commonest anaemia in India.\n2. Causes: increased need (pregnancy, lactation, infancy, adolescence); blood loss (menorrhagia, hookworm, peptic ulcer, NSAIDs, piles, GI cancer); poor intake; poor absorption (coeliac disease, gastrectomy, PPIs).\n3. Features: fatigue, breathlessness, palpitations, pallor; koilonychia, angular stomatitis, glossitis, pica, hair loss; poor growth in children.\n4. Lab: low Hb, low MCV/MCH, low serum ferritin (best test), low serum iron, high TIBC, low transferrin saturation; microcytic hypochromic smear.\n5. Non-drug: iron-rich diet (green leafy vegetables, jaggery, pulses, meat), vitamin C with meals, avoid tea/coffee with meals, deworming, treat cause.\n6. Oral iron: ferrous sulfate/fumarate/gluconate; roughly 100–200 mg elemental iron per day; Hb rises about 1–2 g/dL in 3–4 weeks; continue 3 months after Hb normal; GI upset, constipation, black stools.\n7. Parenteral iron: iron sucrose, ferric carboxymaltose – intolerance, malabsorption, late pregnancy; hypersensitivity risk. Transfusion only if very severe.\n8. Anaemia Mukt Bharat: IFA supplementation, deworming.\n9. Counselling: empty stomach, avoid tea/milk/calcium, separate from tetracyclines and levothyroxine, keep away from children."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define megaloblastic anaemia. Discuss its causes, clinical features and treatment.",
+      "answer": "1. Definition: macrocytic anaemia due to impaired DNA synthesis, usually from vitamin B12 or folate deficiency; large megaloblasts in marrow.\n2. B12 causes: strict vegetarian diet, pernicious anaemia (lack of intrinsic factor), gastrectomy, ileal disease, fish tapeworm, metformin, PPIs.\n3. Folate causes: poor diet, overcooking, pregnancy, lactation, haemolysis, alcohol, malabsorption, drugs (methotrexate, trimethoprim, phenytoin, pyrimethamine).\n4. Pathogenesis: B12 needed to regenerate tetrahydrofolate → thymidine → DNA; B12 also needed for myelin.\n5. Features: anaemia symptoms, lemon-yellow pallor, glossitis, angular stomatitis; B12 only – paraesthesia, loss of vibration/position sense, subacute combined degeneration, memory loss; folate deficiency in pregnancy – neural tube defects.\n6. Lab: high MCV, hypersegmented neutrophils, low B12 or folate, raised homocysteine/methylmalonic acid, raised LDH.\n7. Treatment: B12 – IM hydroxocobalamin or cyanocobalamin, loading then maintenance (lifelong in pernicious anaemia), oral high-dose for dietary deficiency; folate – oral folic acid 5 mg daily about 4 months; never folic acid alone in B12 deficiency (neuropathy worsens).\n8. Response: reticulocytosis in about a week; watch potassium.\n9. Counselling: lifelong injections in pernicious anaemia, diet, preconception folic acid."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare iron deficiency anaemia and megaloblastic anaemia.",
+      "answer": "1. Cell size: IDA microcytic hypochromic (low MCV); megaloblastic macrocytic (high MCV).\n2. Cause: IDA – iron loss/lack (blood loss, hookworm, pregnancy, diet); megaloblastic – B12 or folate lack (vegetarian diet, pernicious anaemia, alcohol, drugs, pregnancy).\n3. Special features: IDA – koilonychia, pica; megaloblastic – glossitis, mild jaundice, neuropathy (B12 only).\n4. Key tests: IDA – low ferritin, high TIBC; megaloblastic – low B12/folate, hypersegmented neutrophils, raised LDH.\n5. Treatment: IDA – oral ferrous salts, IV iron if needed, treat cause; megaloblastic – IM hydroxocobalamin, oral folic acid 5 mg.\n6. Cautions: iron – black stools, poisoning in children; folate never alone in B12 deficiency.\n7. Prevention: iron and folic acid supplementation, deworming, diet."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write counselling points for a patient taking oral iron.",
+      "answer": "Take on an empty stomach or between meals with water or juice (vitamin C improves absorption); if stomach upset, take with food; avoid tea, coffee, milk, calcium and antacids near the dose; separate from tetracyclines, fluoroquinolones and levothyroxine by at least 2 hours; black stools are expected and harmless; constipation may occur – fluids and fibre; liquid iron through a straw to avoid teeth staining; continue about 3 months after Hb becomes normal; keep tablets away from children (iron poisoning)."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the laboratory findings in iron deficiency anaemia.",
+      "answer": "Low haemoglobin; low MCV, MCH and MCHC (microcytic hypochromic); low serum ferritin (best indicator of stores; may be falsely normal in inflammation); low serum iron; raised total iron-binding capacity; low transferrin saturation; peripheral smear shows small pale cells, pencil cells, anisocytosis; raised platelets sometimes; stool for occult blood/hookworm ova to find the cause."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Why should folic acid not be given alone in vitamin B12 deficiency anaemia?",
+      "answer": "Folic acid can correct the anaemia (blood picture) in B12 deficiency because it bypasses the folate trap for DNA synthesis, but it does not supply B12 needed for myelin; the neurological damage (subacute combined degeneration) continues and may become permanent while the improved blood count hides the deficiency. Hence B12 status must be checked, or both given, before folate therapy."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write a note on parenteral iron therapy.",
+      "answer": "Indications: intolerance or poor absorption of oral iron, continuing blood loss, severe anaemia in late pregnancy, need to replace stores quickly, CKD with erythropoietin.\nPreparations: iron sucrose (IV, several doses), ferric carboxymaltose (large single doses), iron dextran (IV/IM, test dose, anaphylaxis risk).\nAdverse effects: hypersensitivity/anaphylaxis, hypotension, metallic taste, injection-site pain and staining (IM).\nPrecautions: give where resuscitation is available, observe after infusion; do not give with oral iron."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the WHO haemoglobin cut-offs for anaemia.",
+      "answer": "Adult men below 13 g/dL; non-pregnant women below 12 g/dL; pregnant women and children 6–59 months below 11 g/dL."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is koilonychia?",
+      "answer": "Spoon-shaped, thin, brittle nails with a concave surface, seen in long-standing iron deficiency anaemia."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define tuberculosis. Discuss its etiopathogenesis, clinical features, diagnosis and treatment under NTEP.",
+      "answer": "1. Definition: chronic infection by Mycobacterium tuberculosis (acid-fast bacillus), mainly lungs, also extrapulmonary sites.\n2. Spread: airborne droplet nuclei; risk factors – HIV, diabetes, malnutrition, smoking, alcohol, overcrowding, steroids.\n3. Pathogenesis: macrophages → granuloma with caseation (Ghon focus); latent infection; reactivation when immunity falls → cavities.\n4. Features: cough 2 weeks or more, haemoptysis, evening fever, night sweats, weight loss, anorexia; extrapulmonary features.\n5. Diagnosis: sputum smear (ZN stain), CBNAAT/TrueNat (also rifampicin resistance), culture and DST, chest X-ray.\n6. NTEP treatment: daily weight-band FDCs, 2HRZE/4HRE for drug-sensitive TB; longer continuation in some extrapulmonary TB; DR-TB – all-oral bedaquiline-containing regimens; Ni-kshay notification and nutrition support.\n7. Adverse effects: H – hepatitis, neuropathy (pyridoxine); R – hepatitis, orange secretions, enzyme induction; Z – hepatitis, hyperuricaemia; E – optic neuritis.\n8. Prevention: BCG, TB preventive therapy for contacts, cough hygiene.\n9. Counselling: complete course, report jaundice/vision change, alternative contraception."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define urinary tract infection. Write its classification, causes, clinical features and management.",
+      "answer": "1. Definition: microbial infection of the urinary tract; culture 10⁵ CFU/mL or more of one organism in midstream urine.\n2. Classification: lower (cystitis) and upper (pyelonephritis); uncomplicated vs complicated (men, pregnancy, diabetes, catheter, obstruction); asymptomatic bacteriuria.\n3. Causes: E. coli (most), Klebsiella, Proteus, Enterococcus, S. saprophyticus, Pseudomonas; ascending infection; risk – female sex, sexual activity, pregnancy, diabetes, catheter, stones, BPH.\n4. Features: cystitis – dysuria, frequency, urgency, suprapubic pain, cloudy urine; pyelonephritis – fever with chills, flank pain, vomiting.\n5. Investigation: urine routine (pus cells, nitrite, leucocyte esterase), culture and sensitivity.\n6. Non-drug: fluids, frequent voiding, void after intercourse, front-to-back hygiene, catheter care.\n7. Drugs: uncomplicated cystitis – nitrofurantoin about 5 days, fosfomycin single dose, cotrimoxazole if local resistance low; pyelonephritis – oral ciprofloxacin/cephalosporin or IV ceftriaxone, carbapenem for ESBL; pregnancy – nitrofurantoin (not near term), cephalexin, amoxicillin–clavulanate; avoid fluoroquinolones and tetracyclines.\n8. Treat asymptomatic bacteriuria only in pregnancy.\n9. Counselling: complete course, nitrofurantoin with food (brown urine)."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on viral hepatitis – types, transmission and management.",
+      "answer": "1. Hepatitis = liver inflammation; viral types A, B, C, D, E.\n2. Transmission: A and E – faeco-oral; B – blood, sexual, mother-to-child; C – blood; D – blood, needs HBV.\n3. Chronicity: B and C (C in most), D; A and E usually not; E severe in pregnancy.\n4. Features: prodrome (fever, anorexia, nausea), then jaundice, dark urine, pale stools, tender liver; raised ALT/AST and bilirubin; chronic disease often silent → cirrhosis, liver cancer.\n5. Markers: IgM anti-HAV; HBsAg, HBeAg, HBV DNA; anti-HCV, HCV RNA; IgM anti-HEV.\n6. Management: acute – rest, nutrition, avoid alcohol and hepatotoxic drugs; chronic HBV – tenofovir or entecavir long term; HCV – DAAs such as sofosbuvir + velpatasvir/daclatasvir 12 weeks (cure above 90%), free under NVHCP.\n7. Prevention: safe water and hygiene (A, E); hepatitis B vaccine with birth dose, HBIG for newborns of infected mothers; blood screening, safe injections, safe sex; HAV vaccine.\n8. Counselling: no alcohol, do not stop HBV drugs suddenly, vaccinate contacts."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the adverse effects of first-line antitubercular drugs and their management.",
+      "answer": "Isoniazid: hepatitis; peripheral neuropathy – prevented by pyridoxine.\nRifampicin: hepatitis, orange-red urine/tears/sweat (harmless), flu-like syndrome, enzyme induction (reduces OCPs, warfarin, antiretrovirals).\nPyrazinamide: hepatotoxicity (most), hyperuricaemia, arthralgia.\nEthambutol: optic neuritis – reduced acuity, red-green colour blindness; check vision.\nStreptomycin: ototoxicity, nephrotoxicity.\nManagement: if jaundice – stop hepatotoxic drugs, check LFT, reintroduce one by one; manage others symptomatically; never stop the whole treatment without medical advice."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the empirical antibiotic treatment of community-acquired pneumonia.",
+      "answer": "Assess severity (CURB-65).\nOutpatient, healthy: amoxicillin; or macrolide (azithromycin, clarithromycin) or doxycycline.\nOutpatient with comorbidities: amoxicillin–clavulanate + macrolide (respiratory fluoroquinolone sparingly – may mask TB).\nHospitalised: IV ceftriaxone or cefotaxime + azithromycin.\nSevere/ICU: as above, cover Pseudomonas/MRSA if risk factors.\nAdd oseltamivir for influenza.\nDuration about 5–7 days if improving; supportive – O2, fluids, paracetamol.\nPrevention: pneumococcal and influenza vaccines."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write counselling points for a tuberculosis patient.",
+      "answer": "Take the daily FDC tablets regularly for the full 6 months (or as advised); missed doses cause relapse and drug resistance; rifampicin colours urine, tears and sweat orange – harmless; use a non-hormonal contraceptive; report yellow eyes, dark urine, vomiting, loss of appetite, blurred or colour vision change, tingling of feet, rash; cover mouth when coughing, dispose of sputum safely, ventilate the home; nutritious diet; avoid alcohol and tobacco; get tested for HIV and diabetes; family contacts should be screened."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the CURB-65 score and its use.",
+      "answer": "C – confusion; U – blood urea raised; R – respiratory rate 30/min or more; B – low BP (systolic below 90 or diastolic 60 mmHg or less); 65 – age 65 years or more. One point each.\nUse: score 0–1 – low risk, home treatment; 2 – hospital admission; 3 or more – severe pneumonia, consider ICU. It guides site of care and intensity of antibiotic therapy."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the NTEP regimen for drug-sensitive tuberculosis.",
+      "answer": "2HRZE/4HRE – 2 months of isoniazid, rifampicin, pyrazinamide and ethambutol, then 4 months of isoniazid, rifampicin and ethambutol, given daily as weight-band fixed-dose combinations."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which hepatitis viruses spread by the faeco-oral route?",
+      "answer": "Hepatitis A and hepatitis E."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe malaria – causative organisms, life cycle, clinical features and treatment as per national guidelines.",
+      "answer": "1. Definition: febrile illness caused by Plasmodium, transmitted by the female Anopheles mosquito; P. vivax and P. falciparum common in India; P. malariae, P. ovale, P. knowlesi.\n2. Life cycle: sporozoites → liver (hypnozoites in vivax/ovale → relapse) → merozoites infect RBCs → RBC rupture every 48 h (72 h for malariae) → gametocytes taken by mosquito.\n3. Features: cold, hot and sweating stages; headache, body ache, vomiting; splenomegaly, anaemia; severe (mainly falciparum) – cerebral malaria, severe anaemia, hypoglycaemia, jaundice, AKI, ARDS, shock.\n4. Diagnosis: thick and thin blood smears, RDT.\n5. P. vivax: chloroquine 3 days + primaquine 14 days (radical cure).\n6. P. falciparum: ACT 3 days – artesunate + sulfadoxine–pyrimethamine (artemether–lumefantrine in north-eastern states) + single-dose primaquine.\n7. Severe malaria: injectable artesunate (IV/IM) then full ACT; supportive care.\n8. Pregnancy and infants: no primaquine; follow trimester-specific guideline.\n9. Cautions: no artemisinin monotherapy; primaquine haemolysis in G6PD deficiency.\n10. Prevention: LLINs, spraying, repellents, removing stagnant water, prophylaxis for travellers.\n11. Counselling: complete course, take after food, report dark urine."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe HIV infection – transmission, pathogenesis, clinical stages and antiretroviral therapy.",
+      "answer": "1. Definition: chronic infection with HIV (retrovirus) destroying CD4+ T cells; AIDS when CD4 below 200/µL or AIDS-defining illness.\n2. Transmission: unprotected sex, mother-to-child, blood, shared needles, needle-stick; not by casual contact or mosquitoes.\n3. Pathogenesis: binding to CD4 + co-receptor → reverse transcriptase → integrase → viral protease → new virions; progressive CD4 loss.\n4. Stages: acute seroconversion illness; clinical latency; AIDS with opportunistic infections (TB commonest in India), weight loss, diarrhoea, thrush.\n5. Diagnosis: three different antibody tests in adults; DNA PCR in infants; CD4 and viral load for monitoring.\n6. ART: treat all regardless of CD4, three drugs, lifelong, free at ART centres; preferred first line TLD (tenofovir + lamivudine + dolutegravir).\n7. Classes and toxicity: NRTIs (tenofovir – kidney/bone; zidovudine – anaemia; abacavir – hypersensitivity); NNRTIs (efavirenz – CNS; nevirapine – rash, hepatitis); INSTIs (dolutegravir – insomnia, weight gain); PIs (lipid/sugar changes, interactions).\n8. PEP within 72 h for 28 days; PrEP; PPTCT with maternal ART and infant nevirapine.\n9. Counselling: very high adherence, condoms, interactions (rifampicin, antacids with dolutegravir), regular viral load."
+    },
+    {
+      "id": "u9-l03",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the etiopathogenesis, clinical features and management of COVID-19.",
+      "answer": "1. Cause: SARS-CoV-2 coronavirus (first reported late 2019; pandemic March 2020); SARS (2002–03) was due to SARS-CoV.\n2. Spread: respiratory droplets and aerosols in closed crowded spaces; spike protein binds ACE2 receptors.\n3. Pathogenesis: viral replication in airways → in some, excessive immune response (cytokine storm), lung injury/ARDS, clotting tendency.\n4. Risk factors for severe disease: elderly, diabetes, hypertension, heart/lung/kidney disease, obesity, immunosuppression, unvaccinated.\n5. Features: fever, dry cough, sore throat, fatigue, myalgia, loss of smell/taste, breathlessness, low SpO2; complications – pneumonia, ARDS, thrombosis, mucormycosis, long COVID.\n6. Diagnosis: RT-PCR, rapid antigen test, imaging.\n7. Mild: home isolation, paracetamol, fluids, pulse oximetry; seek care if SpO2 below about 94%.\n8. Moderate–severe: oxygen, dexamethasone for patients needing oxygen, prophylactic anticoagulation, prone positioning, remdesivir or tocilizumab in selected patients, ICU care.\n9. Not recommended: antibiotics for virus, hydroxychloroquine, ivermectin, steroids in mild disease.\n10. Prevention: vaccination, masks, hand hygiene, ventilation."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the stages, diagnosis and treatment of syphilis.",
+      "answer": "Cause: Treponema pallidum.\nStages: primary – painless indurated chancre, painless lymph nodes; secondary – rash on palms and soles, mucous patches, condylomata lata; latent – no symptoms; tertiary – gummas, cardiovascular, neurosyphilis; congenital syphilis.\nDiagnosis: dark-ground microscopy; non-treponemal VDRL/RPR (screening, follow-up); treponemal TPHA/FTA-ABS (confirmation).\nTreatment: early – benzathine penicillin G 2.4 million units IM single dose; late latent – weekly for 3 weeks; neurosyphilis – IV aqueous penicillin; allergy – doxycycline (not in pregnancy; desensitise pregnant women).\nWatch for Jarisch–Herxheimer reaction; treat partners; follow-up VDRL."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the management of gonorrhoea.",
+      "answer": "Cause: Neisseria gonorrhoeae (Gram-negative intracellular diplococci).\nFeatures: men – purulent urethral discharge, dysuria; women – often asymptomatic, discharge; complications – PID, infertility, epididymitis, ophthalmia neonatorum, disseminated infection.\nDiagnosis: Gram stain, culture, NAAT.\nTreatment: single-dose ceftriaxone IM (or cefixime orally as per guideline) + azithromycin or doxycycline for chlamydia co-infection; penicillin, tetracycline and fluoroquinolones unreliable due to resistance.\nTreat partners, abstain until treated, condoms, HIV and syphilis testing."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "List common opportunistic infections in HIV and their treatment.",
+      "answer": "Tuberculosis – standard anti-TB therapy + ART.\nPneumocystis pneumonia – high-dose cotrimoxazole ± steroids; cotrimoxazole prophylaxis.\nOral/oesophageal candidiasis – clotrimazole, nystatin, fluconazole.\nCryptococcal meningitis – amphotericin B + flucytosine/fluconazole, then fluconazole.\nToxoplasmosis – pyrimethamine + sulfadiazine + folinic acid or cotrimoxazole.\nCMV retinitis – ganciclovir/valganciclovir.\nHerpes simplex and zoster – acyclovir.\nMAC – clarithromycin/azithromycin + ethambutol."
+    },
+    {
+      "id": "u9-s04",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write about post-exposure prophylaxis (PEP) for HIV.",
+      "answer": "PEP is short-term ART given after a possible exposure to HIV (needle-stick injury, splash of blood on mucosa, sexual exposure) to prevent infection.\nStart as early as possible, preferably within hours and not later than 72 hours.\nContinue for 28 days with a three-drug regimen as per national guideline.\nFirst aid: wash the wound with soap and water, do not squeeze or suck, flush mucosa with water.\nBaseline HIV test and follow-up tests; also assess hepatitis B status; counsel on adherence and safe sex during follow-up."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is primaquine given in P. vivax malaria?",
+      "answer": "To kill the dormant liver hypnozoites of P. vivax and prevent relapses (radical cure); it is given for 14 days after checking that the patient is not pregnant and, where possible, G6PD deficiency is excluded."
+    },
+    {
+      "id": "u9-v02",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the Jarisch–Herxheimer reaction?",
+      "answer": "An acute febrile reaction with chills, headache and muscle pain within hours of the first dose of penicillin for syphilis, due to release of products from killed treponemes; it settles within a day."
+    },
+    {
+      "id": "u10-l01",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define rheumatoid arthritis. Write its etiopathogenesis, clinical features and pharmacotherapy.",
+      "answer": "1. Definition: chronic systemic autoimmune disease with symmetrical inflammatory polyarthritis of small joints, leading to erosion and deformity.\n2. Etiopathogenesis: genetic (HLA-DR4), female sex, smoking; autoimmune T and B cells (RF, anti-CCP) → TNF-α, IL-1, IL-6 → synovitis, pannus → cartilage and bone erosion.\n3. Features: symmetrical pain and swelling of MCP, PIP, wrists, MTP (DIP spared); morning stiffness over 1 hour; fatigue, fever, anaemia; deformities – ulnar deviation, swan-neck, boutonnière; nodules, lung, eye involvement.\n4. Investigations: raised ESR/CRP, RF, anti-CCP, X-ray erosions.\n5. Non-drug: education, physiotherapy, exercise, splints, stop smoking, surgery.\n6. DMARDs started early: methotrexate (anchor; weekly + folic acid; monitor CBC, LFT; teratogenic), hydroxychloroquine (eye checks), sulfasalazine, leflunomide.\n7. Biologics: infliximab, adalimumab, etanercept, tocilizumab, rituximab, abatacept; JAK inhibitor tofacitinib; screen TB/HBV.\n8. Symptomatic: NSAIDs; low-dose steroids as bridge, intra-articular injections.\n9. Counselling on methotrexate: weekly, not daily; avoid alcohol and pregnancy; report infections."
+    },
+    {
+      "id": "u10-l02",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define psoriasis. Discuss its etiopathogenesis, clinical features and management.",
+      "answer": "1. Definition: chronic immune-mediated inflammatory skin disease with well-defined red plaques with silvery scales; relapsing; not contagious.\n2. Etiopathogenesis: genetic, T-cell mediated (TNF-α, IL-17, IL-23); rapid keratinocyte turnover; triggers – stress, streptococcal infection, skin injury (Koebner), cold, smoking, alcohol, obesity, drugs (lithium, beta-blockers, antimalarials, NSAIDs, steroid withdrawal).\n3. Features: plaques on elbows, knees, scalp, lower back; Auspitz sign; nail pitting and onycholysis; guttate, pustular, erythrodermic forms; psoriatic arthritis; metabolic syndrome.\n4. Non-drug: emollients, avoid triggers, stress reduction, stop smoking and alcohol, weight loss.\n5. Topical: corticosteroids, calcipotriol, coal tar, salicylic acid, dithranol, tacrolimus.\n6. Phototherapy: NB-UVB, PUVA.\n7. Systemic: methotrexate, ciclosporin, acitretin (teratogenic), apremilast, biologics (adalimumab, secukinumab, ustekinumab); avoid systemic steroids (rebound pustular flare).\n8. Counselling: not infectious, daily moisturiser, thin application of steroids, staining with tar and dithranol."
+    },
+    {
+      "id": "u10-l03",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define osteoarthritis. Differentiate it from rheumatoid arthritis and write its management.",
+      "answer": "1. Definition: chronic degenerative joint disease with progressive loss of articular cartilage and osteophyte formation, mainly in weight-bearing joints; commonest arthritis.\n2. Risk factors: age, obesity, female sex, injury, repetitive stress, deformity.\n3. Features: pain on use relieved by rest, stiffness below 30 minutes, crepitus, bony swelling, knees/hips/DIP (Heberden's nodes); normal ESR, RF.\n4. Differences from RA: degenerative vs autoimmune; older vs 30–50 years; weight-bearing joints and DIP vs symmetrical small joints sparing DIP; short vs long morning stiffness; no systemic features vs systemic; normal labs vs raised ESR, RF, anti-CCP; osteophytes vs erosions; analgesics vs DMARDs.\n5. Non-drug: weight loss, quadriceps-strengthening and low-impact exercise, physiotherapy, walking stick, knee braces, avoid squatting, joint replacement.\n6. Drugs: topical NSAIDs (first in knee/hand), paracetamol, oral NSAIDs/COX-2 inhibitors at lowest dose with PPI if needed, duloxetine, topical capsaicin, intra-articular steroid, hyaluronic acid; opioids last resort.\n7. Counselling: exercise and weight loss work best; NSAIDs with food; report GI bleeding."
+    },
+    {
+      "id": "u10-s01",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the treatment and counselling for scabies.",
+      "answer": "Cause: Sarcoptes scabiei mite; spread by close skin contact.\nTreatment: permethrin 5% cream – apply to whole body from neck down (include scalp and face in infants and elderly), leave 8–12 hours, wash off, repeat after 7 days; alternatives – oral ivermectin (two doses a week apart; crusted scabies, institutions; not in young children or pregnancy), benzyl benzoate 25%, crotamiton, sulphur ointment (infants, pregnancy); antihistamines for itch; antibiotics if infected.\nCounselling: treat all household contacts at the same time; apply to cool dry skin, include finger webs and under nails, re-apply to washed hands; hot-wash clothes and bedding or seal in a bag for 3 days; itching may last 2–4 weeks – do not over-apply."
+    },
+    {
+      "id": "u10-s02",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write counselling points for a patient on methotrexate for rheumatoid arthritis.",
+      "answer": "Take once a week on the same day – never daily; folic acid is given on another day to reduce side effects; regular blood counts, liver and kidney tests; avoid alcohol; use reliable contraception (both partners) – teratogenic; do not take cotrimoxazole or regular high-dose NSAIDs without advice; report sore throat, fever, mouth ulcers, bruising, breathlessness or cough; benefits appear over several weeks; avoid live vaccines."
+    },
+    {
+      "id": "u10-s03",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the management of atopic eczema.",
+      "answer": "Non-drug: liberal emollients several times daily (on damp skin after bathing); soap substitutes; short lukewarm baths; avoid irritants, wool, overheating and known allergens; keep nails short.\nDrugs: topical corticosteroids for flares (mild potency on face and in children, short courses, fingertip units); topical tacrolimus/pimecrolimus for face and flexures; sedating antihistamine at night for itch; antibiotics/antivirals for infected eczema; severe disease – phototherapy, ciclosporin, methotrexate, azathioprine, dupilumab.\nCounselling: emollients daily even when clear; apply steroids thinly; not contagious."
+    },
+    {
+      "id": "u10-s04",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate psoriasis, eczema and scabies.",
+      "answer": "Cause: psoriasis – immune, fast cell turnover; eczema – barrier defect, allergy, irritants; scabies – mite.\nContagious: only scabies.\nLesion: psoriasis – sharp red plaques with silvery scale; eczema – ill-defined red dry or oozing patches, lichenification; scabies – burrows, papules.\nSites: psoriasis – elbows, knees, scalp; eczema – flexures, hands, face; scabies – finger webs, wrists, waist, genitals.\nItch: mild–moderate; severe; severe and nocturnal.\nTreatment: topical steroid + calcipotriol; emollients + topical steroid; permethrin for patient and contacts."
+    },
+    {
+      "id": "u10-v01",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the Koebner phenomenon?",
+      "answer": "Appearance of new psoriatic lesions at sites of skin injury (scratches, cuts, burns) in a person with psoriasis."
+    },
+    {
+      "id": "u10-v02",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two biologic DMARDs used in rheumatoid arthritis.",
+      "answer": "Infliximab and adalimumab (anti-TNF); others – etanercept, tocilizumab, rituximab, abatacept."
+    },
+    {
+      "id": "u11-l01",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define depression. Discuss its etiopathogenesis, clinical features and management.",
+      "answer": "1. Definition: mood disorder with persistent low mood and/or loss of interest for at least 2 weeks, with other symptoms impairing function.\n2. Etiopathogenesis: monoamine hypothesis (↓ 5-HT, NA, DA); HPA axis over-activity; reduced BDNF; genetic; stressful events; medical illness (hypothyroidism, stroke, Parkinson's); drugs (steroids, reserpine, isotretinoin, alcohol).\n3. Features (SIG E CAPS): sleep change, loss of interest, guilt, low energy, poor concentration, appetite/weight change, psychomotor change, suicidal thoughts.\n4. Non-drug: psychoeducation, CBT/interpersonal therapy, exercise, sleep hygiene, avoid alcohol; ECT for severe/suicidal/psychotic depression.\n5. Drugs: SSRIs first (fluoxetine, sertraline, escitalopram); SNRIs (venlafaxine, duloxetine); TCAs (amitriptyline – anticholinergic, cardiotoxic in overdose); mirtazapine, bupropion; MAOIs (cheese reaction).\n6. Principles: effect in 2–4 weeks; adequate trial 4–6 weeks; continue 6–12 months after remission; taper (discontinuation syndrome); serotonin syndrome; suicide monitoring in young; avoid antidepressant alone in bipolar disorder.\n7. Counselling: not habit-forming, takes weeks, do not stop suddenly, report suicidal thoughts."
+    },
+    {
+      "id": "u11-l02",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define schizophrenia/psychosis. Write its etiopathogenesis, symptoms and pharmacotherapy with adverse effects of antipsychotics.",
+      "answer": "1. Definition: psychosis – loss of contact with reality with hallucinations and delusions; schizophrenia – the commonest chronic psychotic disorder.\n2. Etiopathogenesis: dopamine hypothesis (mesolimbic excess → positive symptoms; mesocortical deficit → negative symptoms), glutamate and serotonin involvement; genetic; birth complications; cannabis; social adversity.\n3. Symptoms: positive – hallucinations, delusions, disorganised speech/behaviour; negative – flat affect, alogia, avolition, withdrawal; cognitive deficits; poor insight.\n4. Non-drug: psychoeducation, family therapy, CBT, rehabilitation, adherence support.\n5. Typical antipsychotics (haloperidol, chlorpromazine, fluphenazine): EPS – dystonia, parkinsonism, akathisia, tardive dyskinesia; hyperprolactinaemia.\n6. Atypicals (risperidone, olanzapine, quetiapine, aripiprazole): weight gain, diabetes, dyslipidaemia; less EPS.\n7. Clozapine for resistant cases: agranulocytosis – regular blood counts; seizures, myocarditis.\n8. Depot injections for poor adherence; NMS – emergency.\n9. Principles: single drug, lowest effective dose, continue 1–2 years after first episode; monitor metabolic parameters; EPS treated with trihexyphenidyl/propranolol.\n10. Counselling: continue drugs, report stiffness/fever, healthy diet."
+    },
+    {
+      "id": "u11-l03",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify anxiety disorders. Write their clinical features and management.",
+      "answer": "1. Definition: anxiety disorder – excessive, persistent anxiety out of proportion to the situation, impairing life.\n2. Types: generalised anxiety disorder, panic disorder, social anxiety disorder, specific phobia; related – OCD, PTSD.\n3. Etiopathogenesis: genetic; reduced GABA, 5-HT and NA imbalance; amygdala over-activity; stress; exclude hyperthyroidism, arrhythmia, caffeine, salbutamol, alcohol withdrawal.\n4. Features: psychological – worry, fear, restlessness, irritability, poor concentration, insomnia; physical – palpitations, sweating, tremor, breathlessness, dry mouth, GI upset; panic attacks.\n5. Non-drug: CBT, relaxation and breathing exercises, yoga, exercise, reduce caffeine and alcohol.\n6. Drugs: SSRIs/SNRIs first-line long-term (escitalopram, sertraline, venlafaxine); benzodiazepines short-term only (2–4 weeks; dependence, sedation, withdrawal); buspirone; pregabalin; propranolol for performance anxiety; hydroxyzine.\n7. Counselling: SSRIs take weeks and may increase anxiety initially; avoid alcohol and driving with benzodiazepines; do not stop benzodiazepines suddenly."
+    },
+    {
+      "id": "u11-s01",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the adverse effects of typical and atypical antipsychotics.",
+      "answer": "Typical (haloperidol, chlorpromazine): extrapyramidal symptoms – acute dystonia, drug-induced parkinsonism, akathisia, tardive dyskinesia; hyperprolactinaemia (galactorrhoea, amenorrhoea); sedation, postural hypotension and anticholinergic effects (chlorpromazine); neuroleptic malignant syndrome.\nAtypical (olanzapine, risperidone, quetiapine, clozapine): weight gain, diabetes, dyslipidaemia (metabolic syndrome); sedation; risperidone – hyperprolactinaemia; QT prolongation; clozapine – agranulocytosis, seizures, myocarditis, hypersalivation, constipation.\nMonitoring: weight, glucose, lipids, BP; blood counts with clozapine."
+    },
+    {
+      "id": "u11-s02",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write counselling points for a patient starting an SSRI antidepressant.",
+      "answer": "The medicine is not habit-forming; improvement starts in 2–4 weeks – keep taking it even if no change at first; early side effects (nausea, headache, sleep change, jitteriness) usually settle in 1–2 weeks; take in the morning if it disturbs sleep; continue for months after feeling well; never stop suddenly – dose is tapered; avoid alcohol; avoid other serotonergic drugs (tramadol, triptans) without advice; report worsening mood, agitation or thoughts of self-harm immediately; sexual side effects can be discussed with the doctor."
+    },
+    {
+      "id": "u11-s03",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Why are benzodiazepines used only short-term in anxiety?",
+      "answer": "Benzodiazepines act quickly by enhancing GABA, but with regular use tolerance develops and physical and psychological dependence occur within weeks; stopping causes withdrawal (rebound anxiety, insomnia, tremor, seizures); they cause sedation, memory impairment, falls in elderly, impaired driving and dangerous respiratory depression with alcohol or opioids. Therefore they are limited to 2–4 weeks, e.g. while an SSRI starts working, and tapered gradually."
+    },
+    {
+      "id": "u11-s04",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is serotonin syndrome? Name drugs that can cause it.",
+      "answer": "A potentially life-threatening condition from excess serotonergic activity: agitation, confusion, sweating, high temperature, fast pulse, tremor, muscle rigidity, hyperreflexia, myoclonus, diarrhoea.\nCaused by combining serotonergic drugs: SSRIs/SNRIs with MAO inhibitors, tramadol, linezolid, triptans, lithium, St John's wort, or overdose.\nManagement: stop the drugs, supportive care, cooling, benzodiazepines, cyproheptadine in severe cases."
+    },
+    {
+      "id": "u11-v01",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is neuroleptic malignant syndrome?",
+      "answer": "A rare, life-threatening reaction to antipsychotics with high fever, severe muscle rigidity, confusion, unstable BP and high CPK; the drug is stopped and the patient treated in hospital (cooling, fluids, dantrolene/bromocriptine)."
+    },
+    {
+      "id": "u11-v02",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which antipsychotic needs regular blood counts and why?",
+      "answer": "Clozapine, because it can cause agranulocytosis (dangerous fall in white blood cells)."
+    },
+    {
+      "id": "u12-l01",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define glaucoma. Classify it and write the pharmacotherapy of open-angle and acute angle-closure glaucoma.",
+      "answer": "1. Definition: progressive optic neuropathy with characteristic visual field loss, usually with raised IOP (normal about 10–21 mmHg); irreversible blindness if untreated.\n2. Pathogenesis: impaired aqueous outflow through trabecular meshwork/canal of Schlemm → raised IOP → optic disc cupping → peripheral field loss.\n3. Types: primary open-angle (silent, chronic); primary angle-closure (acute painful red eye, haloes, vomiting); normal-tension; secondary (steroids, uveitis, injury); congenital.\n4. Risk factors: age over 40, family history, myopia/hypermetropia, diabetes, steroid use; anticholinergics precipitate angle-closure.\n5. Open-angle drugs: prostaglandin analogues (latanoprost – ↑ uveoscleral outflow; iris darkening, lash growth); beta-blockers (timolol – ↓ production; avoid in asthma, heart block); alpha-2 agonists (brimonidine); carbonic anhydrase inhibitors (dorzolamide topical, acetazolamide oral); miotics (pilocarpine); netarsudil; fixed combinations; laser/surgery.\n6. Acute angle-closure: emergency – IV acetazolamide, IV mannitol/oral glycerol, topical timolol, pilocarpine, steroid, analgesics; laser peripheral iridotomy.\n7. Counselling: lifelong drops, nasolacrimal occlusion, 5 minutes between drops, regular IOP checks."
+    },
+    {
+      "id": "u12-l02",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is antimicrobial resistance? Discuss its mechanisms, causes, consequences and prevention, with the role of the pharmacist.",
+      "answer": "1. Definition: ability of a microorganism to survive and grow despite a drug that normally kills it or stops its growth; MDR, XDR, PDR; intrinsic vs acquired.\n2. Examples: MRSA, VRE, ESBL E. coli/Klebsiella, carbapenem-resistant Enterobacterales (NDM-1), MDR-TB, resistant gonorrhoea, Candida auris.\n3. Mechanisms: enzymatic inactivation (beta-lactamases), target alteration (PBP2a, DNA gyrase), reduced permeability (porin loss), efflux pumps, bypass pathways; spread by mutation and horizontal gene transfer (conjugation, transformation, transduction).\n4. Causes: overuse for viral infections, OTC sale and self-medication, incomplete courses, irrational FDCs, poor infection control, antibiotics in animals and agriculture, pharmaceutical effluents, few new drugs.\n5. Consequences: longer illness, more deaths, costlier toxic drugs, threat to surgery and chemotherapy.\n6. Prevention: WHO Global Action Plan 2015, One Health, AWaRe; India – Chennai Declaration 2012, Schedule H1 2013, Red Line campaign 2016, NAP-AMR 2017, surveillance; antimicrobial stewardship; infection control; vaccination.\n7. Pharmacist: no antibiotics without prescription, H1 register, counsel full course and no sharing, explain antibiotics do not cure viral infections, stewardship and audits, ADR reporting, public awareness."
+    },
+    {
+      "id": "u12-l03",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the etiology, clinical features and management of bacterial and viral conjunctivitis.",
+      "answer": "1. Definition: inflammation of the conjunctiva (pink eye) – infective or allergic.\n2. Bacterial causes: S. aureus, S. pneumoniae, H. influenzae; newborn – N. gonorrhoeae, Chlamydia.\n3. Viral causes: adenovirus (commonest), enterovirus, herpes simplex, varicella-zoster; highly contagious, outbreaks.\n4. Features: bacterial – purulent discharge, sticky lids, mild itch, usually no node; viral – watery discharge, grittiness, tender pre-auricular node, recent cold, lasts 1–3 weeks.\n5. Red flags: reduced vision, severe pain, photophobia, corneal haze → refer.\n6. General: hand hygiene, separate towels, clean lids, cold compresses, stop contact lenses, avoid crowded places.\n7. Bacterial: topical moxifloxacin, ciprofloxacin, chloramphenicol, tobramycin 5–7 days; systemic therapy for ophthalmia neonatorum.\n8. Viral: no antibiotics; lubricants, cold compresses; herpes – topical acyclovir/ganciclovir under specialist; no steroid drops.\n9. Counselling: eye drop technique, discard opened drops after 4 weeks."
+    },
+    {
+      "id": "u12-s01",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate bacterial, viral and allergic conjunctivitis.",
+      "answer": "Discharge: bacterial – thick purulent, lids stuck in morning; viral – watery; allergic – watery/stringy.\nItching: mild; mild; marked.\nEyes: bacterial and viral often start in one eye; allergic both eyes.\nLymph node: tender pre-auricular node in viral only.\nAssociations: viral – recent cold/sore throat, outbreaks; allergic – hay fever, seasonal.\nContagious: bacterial and viral yes; allergic no.\nTreatment: topical antibiotic; supportive care, hygiene, lubricants (no antibiotic); antihistamine/mast-cell stabiliser drops, avoid allergen."
+    },
+    {
+      "id": "u12-s02",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write counselling points on the correct use of eye drops.",
+      "answer": "Wash hands; check label and expiry; tilt the head back and pull down the lower lid to form a pocket; instil one drop without the dropper touching the eye or lashes; close the eye gently for 1–2 minutes and press the inner corner (nasolacrimal occlusion) to keep the drug in the eye and reduce systemic absorption; wipe excess; wait 5 minutes between different drops; apply ointment last; remove contact lenses unless advised; discard opened drops after 4 weeks; never share."
+    },
+    {
+      "id": "u12-s03",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write about antimicrobial stewardship.",
+      "answer": "Definition: coordinated programme to promote appropriate use of antimicrobials (right drug, dose, route, duration) to improve outcomes and limit resistance.\nComponents: hospital antibiotic policy and guidelines; restricted reserve antibiotics needing approval; culture before antibiotics; de-escalation to narrow-spectrum drug after culture; IV-to-oral switch; shortest effective duration; dose optimisation; audit and feedback; infection-control team; education of staff; surveillance of resistance and consumption.\nTeam: physician, microbiologist, clinical pharmacist, infection-control nurse."
+    },
+    {
+      "id": "u12-s04",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Name the drugs used in open-angle glaucoma with their adverse effects.",
+      "answer": "Prostaglandin analogues – latanoprost, bimatoprost: conjunctival redness, darkening of iris, longer lashes.\nBeta-blockers – timolol: bronchospasm, bradycardia, heart block (avoid in asthma, COPD).\nAlpha-2 agonists – brimonidine: allergy, dry mouth, fatigue; avoid in infants.\nCarbonic anhydrase inhibitors – dorzolamide: stinging, bitter taste; acetazolamide oral: paraesthesia, diuresis, hypokalaemia, renal stones.\nMiotics – pilocarpine: small pupil, dim vision, brow ache.\nRho-kinase inhibitor – netarsudil: red eye."
+    },
+    {
+      "id": "u12-v01",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the Red Line campaign?",
+      "answer": "An Indian awareness campaign (2016) in which packs of prescription-only antibiotics carry a vertical red line, telling people not to use them without a doctor's prescription."
+    },
+    {
+      "id": "u12-v02",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the normal intraocular pressure?",
+      "answer": "About 10–21 mmHg."
+    },
+    {
+      "id": "u13-l01",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define polycystic ovary syndrome. Write its diagnostic criteria, pathogenesis, clinical features and management.",
+      "answer": "1. Definition: common endocrine–metabolic disorder of reproductive-age women with anovulation, androgen excess and polycystic ovaries, often with insulin resistance.\n2. Rotterdam criteria (2 of 3): oligo/anovulation; clinical or biochemical hyperandrogenism; polycystic ovaries on ultrasound – after excluding thyroid disease, hyperprolactinaemia, CAH, Cushing's, tumours.\n3. Pathogenesis: insulin resistance → hyperinsulinaemia → ovarian androgens ↑, SHBG ↓; raised LH:FSH; follicles arrest → anovulation.\n4. Features: irregular/absent periods, infertility, hirsutism, acne, scalp hair thinning, obesity, acanthosis nigricans; long-term – diabetes, dyslipidaemia, CVD, endometrial hyperplasia/cancer, depression.\n5. Non-drug: weight loss 5–10%, diet, exercise, cosmetic hair removal, screening.\n6. Drugs: COCs (cycle control, reduce androgens); cyclic progestin for endometrial protection; anti-androgens – spironolactone, cyproterone, finasteride with contraception; eflornithine cream; metformin for insulin resistance; ovulation induction – letrozole or clomiphene; gonadotropins/IVF by specialists.\n7. Counselling: lifestyle is key, hirsutism improves over 6 months, metformin with meals, regular check-ups."
+    },
+    {
+      "id": "u13-l02",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define dysmenorrhoea. Differentiate primary and secondary dysmenorrhoea and write the management of primary dysmenorrhoea.",
+      "answer": "1. Definition: painful menstruation with crampy lower abdominal pain before or during periods, affecting daily activity.\n2. Primary: no pelvic disease; begins 6–12 months after menarche; pain starts with bleeding, lasts 1–3 days; normal examination; due to prostaglandins.\n3. Secondary: due to endometriosis, adenomyosis, fibroids, PID, IUD; later onset; pain may start before and continue after period; dyspareunia, abnormal bleeding.\n4. Pathogenesis (primary): progesterone withdrawal → endometrial PGF2α, PGE2 → strong uterine contractions and ischaemia → pain, nausea, diarrhoea, headache.\n5. Features: lower abdominal cramps radiating to back and thighs, nausea, vomiting, loose stools, fatigue.\n6. Non-drug: local heat, exercise, yoga, rest, stop smoking, TENS.\n7. Drugs: NSAIDs first-line – mefenamic acid, ibuprofen, naproxen started at onset of pain/bleeding and taken regularly 2–3 days; paracetamol; antispasmodics (drotaverine, dicyclomine); combined oral contraceptives or progestin methods.\n8. Refer if not relieved, late onset, heavy bleeding, fever, dyspareunia.\n9. Counselling: take NSAID early with food."
+    },
+    {
+      "id": "u13-l03",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define premenstrual syndrome. Write its clinical features, diagnosis and management.",
+      "answer": "1. Definition: recurrent physical, emotional and behavioural symptoms in the luteal phase that resolve within a few days of menstruation, affecting daily life; severe form PMDD.\n2. Etiopathogenesis: abnormal sensitivity to normal cyclical oestrogen and progesterone changes, altered serotonin and GABA activity; stress, family history, lifestyle.\n3. Features: irritability, mood swings, depression, anxiety, poor concentration, food cravings; breast tenderness, bloating, weight gain, headache, fatigue, acne.\n4. Diagnosis: prospective symptom diary for at least 2 cycles, symptoms limited to luteal phase; exclude depression, anxiety, thyroid disease.\n5. Non-drug: education, diary, aerobic exercise, sleep, stress reduction, CBT, less salt, caffeine, sugar and alcohol; calcium supplement.\n6. Drugs: SSRIs (fluoxetine, sertraline) continuous or luteal-phase for PMDD/severe mood symptoms; COCs with drospirenone; NSAIDs for pain; spironolactone for bloating and breast tenderness; GnRH analogues with add-back for refractory cases.\n7. Counselling: plan ahead using diary, lifestyle, take medicines as directed, seek help for severe mood symptoms."
+    },
+    {
+      "id": "u13-s01",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the Rotterdam criteria for PCOS.",
+      "answer": "Diagnosis requires any two of three, after excluding other causes (thyroid disease, hyperprolactinaemia, congenital adrenal hyperplasia, Cushing's syndrome, androgen-secreting tumour):\n1. Oligo-ovulation or anovulation (infrequent or absent periods).\n2. Clinical hyperandrogenism (hirsutism, acne, alopecia) or biochemical hyperandrogenism (raised testosterone).\n3. Polycystic ovaries on ultrasound (many small follicles and/or increased ovarian volume)."
+    },
+    {
+      "id": "u13-s02",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the role of NSAIDs in dysmenorrhoea with counselling points.",
+      "answer": "Primary dysmenorrhoea is caused by excess endometrial prostaglandins; NSAIDs (mefenamic acid, ibuprofen, naproxen) inhibit COX and reduce prostaglandin synthesis, decreasing uterine contractions and pain; they also reduce menstrual blood loss.\nCounselling: start at the first sign of pain or bleeding (or a day before if periods are predictable) and take regularly for 2–3 days rather than waiting for severe pain; take with food; avoid if peptic ulcer, kidney disease or aspirin-sensitive asthma; use heat and exercise as well; see a doctor if pain is not relieved."
+    },
+    {
+      "id": "u13-s03",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the drug management of PCOS based on the patient's needs.",
+      "answer": "Irregular cycles / endometrial protection: combined oral contraceptives or cyclic progestin.\nHirsutism and acne: COCs first; anti-androgens (spironolactone, cyproterone, finasteride) only with contraception; topical eflornithine; acne treatment.\nInsulin resistance, weight: metformin; lifestyle; weight-loss drugs in selected.\nInfertility: letrozole (often first) or clomiphene for ovulation induction; metformin add-on; gonadotropins, ovarian drilling, IVF.\nAll: lifestyle change, screening for diabetes and lipids."
+    },
+    {
+      "id": "u13-s04",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the non-pharmacological management of premenstrual syndrome.",
+      "answer": "Keep a symptom diary to recognise the pattern and plan; education and reassurance; regular aerobic exercise; adequate sleep; stress management (yoga, relaxation, CBT); small frequent meals with complex carbohydrates; reduce salt (bloating), caffeine, sugar and alcohol in the luteal phase; stop smoking; calcium-rich diet or supplements; support from family."
+    },
+    {
+      "id": "u13-v01",
+      "unit": 13,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is acanthosis nigricans and its significance in PCOS?",
+      "answer": "Dark, thickened, velvety skin in body folds (neck, armpits); it is a sign of insulin resistance, common in women with PCOS."
+    },
+    {
+      "id": "u13-v02",
+      "unit": 13,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which oral contraceptive progestin is preferred in premenstrual syndrome?",
+      "answer": "Drospirenone (combined with ethinylestradiol), which has anti-mineralocorticoid and anti-androgenic activity and helps PMS/PMDD symptoms."
+    }
+  ]
+}

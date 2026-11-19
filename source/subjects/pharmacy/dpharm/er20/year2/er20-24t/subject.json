@@ -1,0 +1,178 @@
+{
+  "code": "ER20-24T",
+  "title": "Pharmacotherapeutics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020), D.Pharm second year, Pharmacotherapeutics ER20-24T and ER20-24P (university copy of the PCI syllabus)",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-24T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-24P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction, rational use of medicines, evidence-based medicine, essential medicines and STGs",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Cardiovascular disorders: hypertension, angina, myocardial infarction, hyperlipidaemia, CHF",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Respiratory disorders: asthma and COPD",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Endocrine disorders: diabetes mellitus and thyroid disorders",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "CNS disorders: epilepsy, Parkinson's disease, Alzheimer's disease, stroke, migraine",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Gastrointestinal disorders: GERD, peptic ulcer, alcoholic liver disease, IBD",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Haematological disorders: iron deficiency and megaloblastic anaemia",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Infectious diseases I: tuberculosis, pneumonia, urinary tract infections, hepatitis",
+      "notes": "notes/unit-8.md"
+    },
+    {
+      "number": 9,
+      "title": "Infectious diseases II: gonorrhoea, syphilis, malaria, HIV and opportunistic infections, SARS and COVID-19",
+      "notes": "notes/unit-9.md"
+    },
+    {
+      "number": 10,
+      "title": "Musculoskeletal and skin disorders: rheumatoid arthritis, osteoarthritis, psoriasis, scabies, eczema",
+      "notes": "notes/unit-10.md"
+    },
+    {
+      "number": 11,
+      "title": "Psychiatric disorders: depression, anxiety and psychosis",
+      "notes": "notes/unit-11.md"
+    },
+    {
+      "number": 12,
+      "title": "Ophthalmic disorders (conjunctivitis, glaucoma) and antimicrobial resistance",
+      "notes": "notes/unit-12.md"
+    },
+    {
+      "number": 13,
+      "title": "Women's health: PCOS, dysmenorrhoea and premenstrual syndrome",
+      "notes": "notes/unit-13.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "soap-hypertension",
+      "title": "SOAP note: hypertension",
+      "file": "practicals/soap-hypertension.md"
+    },
+    {
+      "id": "soap-angina-pectoris",
+      "title": "SOAP note: angina pectoris",
+      "file": "practicals/soap-angina-pectoris.md"
+    },
+    {
+      "id": "soap-myocardial-infarction",
+      "title": "SOAP note: myocardial infarction",
+      "file": "practicals/soap-myocardial-infarction.md"
+    },
+    {
+      "id": "soap-hyperlipidaemia",
+      "title": "SOAP note: hyperlipidaemia",
+      "file": "practicals/soap-hyperlipidaemia.md"
+    },
+    {
+      "id": "soap-rheumatoid-arthritis",
+      "title": "SOAP note: rheumatoid arthritis",
+      "file": "practicals/soap-rheumatoid-arthritis.md"
+    },
+    {
+      "id": "soap-asthma",
+      "title": "SOAP note: asthma",
+      "file": "practicals/soap-asthma.md"
+    },
+    {
+      "id": "soap-copd",
+      "title": "SOAP note: COPD",
+      "file": "practicals/soap-copd.md"
+    },
+    {
+      "id": "soap-diabetes",
+      "title": "SOAP note: diabetes mellitus",
+      "file": "practicals/soap-diabetes.md"
+    },
+    {
+      "id": "soap-epilepsy",
+      "title": "SOAP note: epilepsy",
+      "file": "practicals/soap-epilepsy.md"
+    },
+    {
+      "id": "soap-stroke",
+      "title": "SOAP note: stroke",
+      "file": "practicals/soap-stroke.md"
+    },
+    {
+      "id": "soap-depression",
+      "title": "SOAP note: depression",
+      "file": "practicals/soap-depression.md"
+    },
+    {
+      "id": "soap-tuberculosis",
+      "title": "SOAP note: tuberculosis",
+      "file": "practicals/soap-tuberculosis.md"
+    },
+    {
+      "id": "soap-anaemia",
+      "title": "SOAP note: anaemia (iron deficiency)",
+      "file": "practicals/soap-anaemia.md"
+    },
+    {
+      "id": "soap-viral-infection",
+      "title": "SOAP note: viral infection (COVID-19)",
+      "file": "practicals/soap-viral-infection.md"
+    },
+    {
+      "id": "soap-dermatological-condition",
+      "title": "SOAP note: dermatological condition (scabies)",
+      "file": "practicals/soap-dermatological-condition.md"
+    },
+    {
+      "id": "patient-counselling-role-plays",
+      "title": "Patient counselling exercises using role plays",
+      "file": "practicals/patient-counselling-role-plays.md"
+    },
+    {
+      "id": "dose-calculation-paediatric-geriatric",
+      "title": "Dose calculation in paediatrics and geriatrics",
+      "file": "practicals/dose-calculation-paediatric-geriatric.md"
+    }
+  ]
+}

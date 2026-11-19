@@ -1,0 +1,1460 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The WHO definition of rational use of medicines was adopted at the conference held in:",
+      "options": [
+        "Nairobi, 1985",
+        "Alma-Ata, 1978",
+        "Geneva, 1977",
+        "New Delhi, 1996"
+      ],
+      "correct": 0,
+      "explanation": "The WHO Conference of Experts on Rational Use of Drugs at Nairobi (1985) gave the definition.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "India's first National List of Essential Medicines was published in:",
+      "options": [
+        "1977",
+        "1996",
+        "2003",
+        "2011"
+      ],
+      "correct": 1,
+      "explanation": "NLEM was first published in 1996; the latest is NLEM 2022.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The strongest level of evidence in evidence-based medicine is:",
+      "options": [
+        "Expert opinion",
+        "Case report",
+        "Systematic review and meta-analysis of RCTs",
+        "Cohort study"
+      ],
+      "correct": 2,
+      "explanation": "Meta-analyses of randomised controlled trials sit at the top of the evidence pyramid.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "In the SOAP format, the 'O' stands for:",
+      "options": [
+        "Observation by the patient",
+        "Outcome of therapy",
+        "Order written by the doctor",
+        "Objective data such as vital signs and lab values"
+      ],
+      "correct": 3,
+      "explanation": "O = objective, measurable findings.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "A P-drug in the WHO Guide to Good Prescribing is:",
+      "options": [
+        "A prescriber's chosen first-choice drug for a common condition",
+        "A prescription-only drug",
+        "A drug listed in the Pharmacopoeia",
+        "A placebo drug"
+      ],
+      "correct": 0,
+      "explanation": "P-drug = personal drug selected in advance on efficacy, safety, suitability and cost.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Essential medicines in the NLEM are listed by:",
+      "options": [
+        "Brand name",
+        "Generic name",
+        "Manufacturer",
+        "Price"
+      ],
+      "correct": 1,
+      "explanation": "Generic names promote rational, low-cost prescribing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The first step of evidence-based medicine is to:",
+      "options": [
+        "Appraise the evidence",
+        "Apply the evidence",
+        "Ask a focused clinical question",
+        "Assess the outcome"
+      ],
+      "correct": 2,
+      "explanation": "The 5 A's begin with Ask (PICO question).",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The WHO first published its Model List of Essential Medicines in:",
+      "options": [
+        "1985",
+        "1996",
+        "2002",
+        "1977"
+      ],
+      "correct": 3,
+      "explanation": "The first WHO Model List appeared in 1977.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Hypertension is usually defined as a blood pressure of:",
+      "options": [
+        "140/90 mmHg or more",
+        "120/80 mmHg or more",
+        "130/85 mmHg or more",
+        "160/100 mmHg or more"
+      ],
+      "correct": 0,
+      "explanation": "Persistent BP of 140/90 mmHg or more on repeated readings.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "A dry persistent cough is a typical adverse effect of:",
+      "options": [
+        "Amlodipine",
+        "Enalapril",
+        "Losartan",
+        "Hydrochlorothiazide"
+      ],
+      "correct": 1,
+      "explanation": "ACE inhibitors raise bradykinin, causing dry cough; ARBs do not.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Which antihypertensive is contraindicated in pregnancy?",
+      "options": [
+        "Methyldopa",
+        "Labetalol",
+        "Ramipril",
+        "Nifedipine"
+      ],
+      "correct": 2,
+      "explanation": "ACE inhibitors and ARBs are teratogenic; methyldopa, labetalol and nifedipine are used.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Drug of choice to relieve an acute attack of angina is:",
+      "options": [
+        "Oral atenolol",
+        "Oral atorvastatin",
+        "Oral aspirin",
+        "Sublingual nitroglycerin"
+      ],
+      "correct": 3,
+      "explanation": "SL nitroglycerin acts within minutes.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The most specific biomarker for myocardial infarction is:",
+      "options": [
+        "Cardiac troponin",
+        "Serum amylase",
+        "Alkaline phosphatase",
+        "Serum creatinine"
+      ],
+      "correct": 0,
+      "explanation": "Troponin I/T rises with myocardial necrosis.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Statins act by inhibiting:",
+      "options": [
+        "Lipoprotein lipase",
+        "HMG-CoA reductase",
+        "Cholesterol absorption in the gut",
+        "Bile acid reabsorption"
+      ],
+      "correct": 1,
+      "explanation": "Statins block the rate-limiting enzyme of cholesterol synthesis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which is used mainly to relieve congestion and oedema in heart failure?",
+      "options": [
+        "Digoxin",
+        "Carvedilol",
+        "Furosemide",
+        "Ivabradine"
+      ],
+      "correct": 2,
+      "explanation": "Loop diuretics relieve fluid overload but do not reduce mortality.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Ankle oedema is a common adverse effect of:",
+      "options": [
+        "Enalapril",
+        "Metoprolol",
+        "Chlorthalidone",
+        "Amlodipine"
+      ],
+      "correct": 3,
+      "explanation": "Dihydropyridine CCBs cause pedal oedema.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The cornerstone of controller therapy in asthma is:",
+      "options": [
+        "Inhaled corticosteroids",
+        "Oral theophylline",
+        "Short-acting beta-2 agonists",
+        "Antihistamines"
+      ],
+      "correct": 0,
+      "explanation": "ICS reduce airway inflammation and severe attacks.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "COPD is confirmed by a post-bronchodilator FEV1/FVC ratio of less than:",
+      "options": [
+        "0.90",
+        "0.70",
+        "0.50",
+        "0.80"
+      ],
+      "correct": 1,
+      "explanation": "GOLD uses FEV1/FVC below 0.70.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The most important cause of COPD is:",
+      "options": [
+        "House dust mite",
+        "Viral infection",
+        "Tobacco smoking",
+        "Pollen"
+      ],
+      "correct": 2,
+      "explanation": "Smoking is the main cause; biomass smoke is also important in India.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Oral thrush is a common local adverse effect of:",
+      "options": [
+        "Inhaled salbutamol",
+        "Oral montelukast",
+        "Inhaled tiotropium",
+        "Inhaled budesonide"
+      ],
+      "correct": 3,
+      "explanation": "ICS deposit in the mouth; rinsing prevents candidiasis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Tiotropium belongs to the class:",
+      "options": [
+        "Long-acting antimuscarinic (LAMA)",
+        "Long-acting beta-2 agonist (LABA)",
+        "Leukotriene antagonist",
+        "Mast cell stabiliser"
+      ],
+      "correct": 0,
+      "explanation": "Tiotropium is a LAMA used in COPD and severe asthma.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Which drug may precipitate bronchospasm in an asthmatic?",
+      "options": [
+        "Amlodipine",
+        "Propranolol",
+        "Paracetamol",
+        "Montelukast"
+      ],
+      "correct": 1,
+      "explanation": "Non-selective beta-blockers block bronchial beta-2 receptors.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Target oxygen saturation during an exacerbation of COPD is usually:",
+      "options": [
+        "98–100%",
+        "70–75%",
+        "88–92%",
+        "80–84%"
+      ],
+      "correct": 2,
+      "explanation": "Controlled oxygen avoids CO2 retention.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Omalizumab used in severe allergic asthma is an antibody against:",
+      "options": [
+        "IL-5",
+        "TNF-alpha",
+        "IL-6",
+        "IgE"
+      ],
+      "correct": 3,
+      "explanation": "Omalizumab is an anti-IgE monoclonal antibody.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Diabetes is diagnosed when fasting plasma glucose is:",
+      "options": [
+        "126 mg/dL or more",
+        "110 mg/dL or more",
+        "100 mg/dL or more",
+        "140 mg/dL or more"
+      ],
+      "correct": 0,
+      "explanation": "FPG of 126 mg/dL or more indicates diabetes.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The usual first-line oral drug for type 2 diabetes is:",
+      "options": [
+        "Glimepiride",
+        "Metformin",
+        "Acarbose",
+        "Pioglitazone"
+      ],
+      "correct": 1,
+      "explanation": "Metformin with lifestyle change is first choice unless contraindicated.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "HbA1c reflects average blood glucose over the previous:",
+      "options": [
+        "2–3 days",
+        "2–3 weeks",
+        "2–3 months",
+        "6–12 months"
+      ],
+      "correct": 2,
+      "explanation": "Red cells live about 120 days, so HbA1c reflects 2–3 months.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Which drug is most likely to cause hypoglycaemia?",
+      "options": [
+        "Metformin",
+        "Sitagliptin",
+        "Acarbose",
+        "Glimepiride"
+      ],
+      "correct": 3,
+      "explanation": "Sulfonylureas increase insulin release regardless of glucose level.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Genital fungal infections are a typical adverse effect of:",
+      "options": [
+        "Dapagliflozin",
+        "Sitagliptin",
+        "Gliclazide",
+        "Metformin"
+      ],
+      "correct": 0,
+      "explanation": "SGLT2 inhibitors increase glucose in urine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "In primary hypothyroidism, serum TSH is:",
+      "options": [
+        "Low",
+        "High",
+        "Normal",
+        "Undetectable"
+      ],
+      "correct": 1,
+      "explanation": "The pituitary raises TSH when thyroid hormone is low.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The antithyroid drug preferred in the first trimester of pregnancy is:",
+      "options": [
+        "Carbimazole",
+        "Radioactive iodine",
+        "Propylthiouracil",
+        "Levothyroxine"
+      ],
+      "correct": 2,
+      "explanation": "PTU is preferred in early pregnancy; carbimazole may be teratogenic then.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Levothyroxine should be taken:",
+      "options": [
+        "With a calcium tablet",
+        "After a heavy meal",
+        "With iron syrup",
+        "On an empty stomach before breakfast"
+      ],
+      "correct": 3,
+      "explanation": "Food, calcium and iron reduce its absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Drug of choice for absence seizures is:",
+      "options": [
+        "Ethosuximide",
+        "Carbamazepine",
+        "Phenytoin",
+        "Phenobarbitone"
+      ],
+      "correct": 0,
+      "explanation": "Ethosuximide (or valproate); carbamazepine and phenytoin can worsen absences.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Gum hypertrophy is a characteristic adverse effect of:",
+      "options": [
+        "Levetiracetam",
+        "Phenytoin",
+        "Ethosuximide",
+        "Lamotrigine"
+      ],
+      "correct": 1,
+      "explanation": "Phenytoin causes gingival hyperplasia and hirsutism.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Parkinson's disease results from loss of dopaminergic neurons in the:",
+      "options": [
+        "Cerebellum",
+        "Hippocampus",
+        "Substantia nigra",
+        "Medulla oblongata"
+      ],
+      "correct": 2,
+      "explanation": "Nigrostriatal dopamine deficiency causes the motor features.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Carbidopa is combined with levodopa because it:",
+      "options": [
+        "Stimulates dopamine receptors",
+        "Inhibits MAO-B",
+        "Blocks acetylcholine receptors",
+        "Inhibits peripheral dopa decarboxylase"
+      ],
+      "correct": 3,
+      "explanation": "Less peripheral conversion → more levodopa reaches the brain.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Donepezil used in Alzheimer's disease is a:",
+      "options": [
+        "Cholinesterase inhibitor",
+        "NMDA antagonist",
+        "Dopamine agonist",
+        "GABA agonist"
+      ],
+      "correct": 0,
+      "explanation": "It increases brain acetylcholine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Thrombolysis with alteplase in ischaemic stroke is given within about:",
+      "options": [
+        "24 hours of onset",
+        "4.5 hours of onset",
+        "48 hours of onset",
+        "7 days of onset"
+      ],
+      "correct": 1,
+      "explanation": "Benefit is limited to a narrow window after CT excludes bleeding.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Sumatriptan acts as an agonist at:",
+      "options": [
+        "Dopamine D2 receptors",
+        "H1 receptors",
+        "5-HT1B/1D receptors",
+        "Beta-1 receptors"
+      ],
+      "correct": 2,
+      "explanation": "Triptans constrict meningeal vessels and block CGRP release.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The first drug given in status epilepticus is usually:",
+      "options": [
+        "Oral carbamazepine",
+        "Oral ethosuximide",
+        "IV paracetamol",
+        "IV lorazepam or diazepam"
+      ],
+      "correct": 3,
+      "explanation": "A benzodiazepine is first-line; then phenytoin, valproate or levetiracetam.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "Standard triple therapy for H. pylori consists of:",
+      "options": [
+        "PPI + clarithromycin + amoxicillin",
+        "PPI + ranitidine + sucralfate",
+        "Antacid + metronidazole + misoprostol",
+        "H2 blocker + bismuth + omeprazole"
+      ],
+      "correct": 0,
+      "explanation": "Given usually for 14 days.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "The most effective drugs for healing reflux oesophagitis are:",
+      "options": [
+        "Antacids",
+        "Proton pump inhibitors",
+        "Prokinetics",
+        "Anticholinergics"
+      ],
+      "correct": 1,
+      "explanation": "PPIs give the strongest, longest acid suppression.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Pain of duodenal ulcer is typically:",
+      "options": [
+        "Worsened by food",
+        "Unrelated to meals",
+        "Relieved by food",
+        "Only in the morning"
+      ],
+      "correct": 2,
+      "explanation": "Food buffers acid in duodenal ulcer; gastric ulcer pain worsens with food.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Misoprostol is contraindicated in:",
+      "options": [
+        "Elderly",
+        "Diabetes",
+        "Asthma",
+        "Pregnancy"
+      ],
+      "correct": 3,
+      "explanation": "It stimulates uterine contractions and can cause abortion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "Skip lesions and transmural inflammation are characteristic of:",
+      "options": [
+        "Crohn's disease",
+        "Ulcerative colitis",
+        "Peptic ulcer",
+        "GERD"
+      ],
+      "correct": 0,
+      "explanation": "UC is continuous and mucosal.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "Lactulose is used in hepatic encephalopathy to:",
+      "options": [
+        "Increase protein synthesis",
+        "Reduce ammonia absorption",
+        "Raise blood glucose",
+        "Stop variceal bleeding"
+      ],
+      "correct": 1,
+      "explanation": "It acidifies the colon and traps ammonia as ammonium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Corticosteroids in inflammatory bowel disease are used:",
+      "options": [
+        "For long-term maintenance",
+        "Only in Crohn's fistulas",
+        "To induce remission only",
+        "Only as enemas for life"
+      ],
+      "correct": 2,
+      "explanation": "Steroids are not used for maintenance because of toxicity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "The most important treatment for alcoholic liver disease at every stage is:",
+      "options": [
+        "High-dose paracetamol",
+        "Long-term antibiotics",
+        "Iron supplements",
+        "Complete abstinence from alcohol"
+      ],
+      "correct": 3,
+      "explanation": "Abstinence improves survival and can reverse fatty liver.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "Iron deficiency anaemia is typically:",
+      "options": [
+        "Microcytic hypochromic",
+        "Macrocytic",
+        "Normocytic normochromic",
+        "Megaloblastic"
+      ],
+      "correct": 0,
+      "explanation": "Lack of iron reduces Hb in each cell → small, pale cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The best single test for iron stores is:",
+      "options": [
+        "Serum bilirubin",
+        "Serum ferritin",
+        "Reticulocyte count",
+        "Serum B12"
+      ],
+      "correct": 1,
+      "explanation": "Low ferritin indicates depleted stores.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Neurological damage occurs in deficiency of:",
+      "options": [
+        "Folic acid",
+        "Iron",
+        "Vitamin B12",
+        "Vitamin C"
+      ],
+      "correct": 2,
+      "explanation": "B12 is needed for myelin; folate deficiency does not cause neuropathy.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "Hypersegmented neutrophils on a blood smear suggest:",
+      "options": [
+        "Iron deficiency anaemia",
+        "Thalassaemia",
+        "Acute blood loss",
+        "Megaloblastic anaemia"
+      ],
+      "correct": 3,
+      "explanation": "A classic feature of B12/folate deficiency.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "Absorption of oral iron is increased by:",
+      "options": [
+        "Vitamin C",
+        "Tea",
+        "Calcium",
+        "Antacids"
+      ],
+      "correct": 0,
+      "explanation": "Ascorbic acid keeps iron in the ferrous form.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "Pernicious anaemia is due to lack of:",
+      "options": [
+        "Transferrin",
+        "Intrinsic factor",
+        "Erythropoietin",
+        "Ferritin"
+      ],
+      "correct": 1,
+      "explanation": "Autoimmune loss of intrinsic factor prevents B12 absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "The antidote for acute iron poisoning is:",
+      "options": [
+        "Naloxone",
+        "Atropine",
+        "Desferrioxamine",
+        "N-acetylcysteine"
+      ],
+      "correct": 2,
+      "explanation": "Desferrioxamine chelates iron.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "A common cause of iron deficiency in rural India is:",
+      "options": [
+        "Excess meat intake",
+        "Vitamin A excess",
+        "Thyroid excess",
+        "Hookworm infestation"
+      ],
+      "correct": 3,
+      "explanation": "Hookworms cause chronic intestinal blood loss.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "The NTEP regimen for drug-sensitive TB is:",
+      "options": [
+        "2HRZE / 4HRE",
+        "2HR / 4HRZE",
+        "6HRZE",
+        "2HE / 6HR"
+      ],
+      "correct": 0,
+      "explanation": "Intensive 2 months HRZE then 4 months HRE, daily FDCs.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Pyridoxine is given with isoniazid to prevent:",
+      "options": [
+        "Optic neuritis",
+        "Peripheral neuropathy",
+        "Hepatitis",
+        "Hyperuricaemia"
+      ],
+      "correct": 1,
+      "explanation": "INH increases B6 excretion.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "Optic neuritis is an adverse effect of:",
+      "options": [
+        "Rifampicin",
+        "Isoniazid",
+        "Ethambutol",
+        "Pyrazinamide"
+      ],
+      "correct": 2,
+      "explanation": "Ethambutol can cause reduced acuity and red-green colour blindness.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "The commonest organism causing urinary tract infection is:",
+      "options": [
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Candida albicans",
+        "Escherichia coli"
+      ],
+      "correct": 3,
+      "explanation": "E. coli causes most UTIs.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "The most common cause of community-acquired pneumonia is:",
+      "options": [
+        "Streptococcus pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Klebsiella pneumoniae",
+        "Mycobacterium tuberculosis"
+      ],
+      "correct": 0,
+      "explanation": "Pneumococcus remains the leading cause.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "Asymptomatic bacteriuria should be treated in:",
+      "options": [
+        "Elderly men",
+        "Pregnant women",
+        "Catheterised patients",
+        "Diabetics"
+      ],
+      "correct": 1,
+      "explanation": "Treatment in pregnancy prevents pyelonephritis and preterm birth.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "Hepatitis C is now treated with:",
+      "options": [
+        "Acyclovir",
+        "Oseltamivir",
+        "Sofosbuvir-based direct-acting antivirals",
+        "Isoniazid"
+      ],
+      "correct": 2,
+      "explanation": "DAAs for about 12 weeks cure most patients.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "Orange-red discoloration of urine and tears is caused by:",
+      "options": [
+        "Ethambutol",
+        "Isoniazid",
+        "Pyrazinamide",
+        "Rifampicin"
+      ],
+      "correct": 3,
+      "explanation": "Rifampicin is a red-orange dye-like compound.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m01",
+      "unit": 9,
+      "question": "Drug of choice for early syphilis is:",
+      "options": [
+        "Benzathine penicillin G",
+        "Ciprofloxacin",
+        "Metronidazole",
+        "Fluconazole"
+      ],
+      "correct": 0,
+      "explanation": "A single IM dose of 2.4 million units treats early syphilis.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m02",
+      "unit": 9,
+      "question": "Primaquine in P. vivax malaria is given to:",
+      "options": [
+        "Kill blood schizonts rapidly",
+        "Kill liver hypnozoites and prevent relapse",
+        "Prevent mosquito bites",
+        "Treat cerebral malaria"
+      ],
+      "correct": 1,
+      "explanation": "Radical cure needs 14 days of primaquine.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m03",
+      "unit": 9,
+      "question": "The preferred first-line ART regimen in India for most adults is:",
+      "options": [
+        "Zidovudine alone",
+        "Nevirapine + efavirenz",
+        "Tenofovir + lamivudine + dolutegravir",
+        "Lopinavir alone"
+      ],
+      "correct": 2,
+      "explanation": "TLD is a once-daily single tablet.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m04",
+      "unit": 9,
+      "question": "Severe falciparum malaria is treated with:",
+      "options": [
+        "Oral chloroquine",
+        "Oral primaquine alone",
+        "Oral doxycycline alone",
+        "Injectable artesunate"
+      ],
+      "correct": 3,
+      "explanation": "IV/IM artesunate followed by full oral ACT.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m05",
+      "unit": 9,
+      "question": "HIV post-exposure prophylaxis should be started within:",
+      "options": [
+        "72 hours",
+        "7 days",
+        "2 weeks",
+        "1 month"
+      ],
+      "correct": 0,
+      "explanation": "PEP is most effective when started within hours, and not after 72 hours; it lasts 28 days.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m06",
+      "unit": 9,
+      "question": "Gram-negative intracellular diplococci in urethral discharge suggest:",
+      "options": [
+        "Syphilis",
+        "Gonorrhoea",
+        "Chlamydia",
+        "Trichomoniasis"
+      ],
+      "correct": 1,
+      "explanation": "Neisseria gonorrhoeae appears as intracellular diplococci.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m07",
+      "unit": 9,
+      "question": "Pneumocystis pneumonia in HIV is treated and prevented with:",
+      "options": [
+        "Fluconazole",
+        "Acyclovir",
+        "Cotrimoxazole",
+        "Chloroquine"
+      ],
+      "correct": 2,
+      "explanation": "Cotrimoxazole is drug of choice and is used for prophylaxis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m08",
+      "unit": 9,
+      "question": "SARS-CoV-2 enters human cells by binding to:",
+      "options": [
+        "CD4 receptor",
+        "Beta-2 receptor",
+        "Insulin receptor",
+        "ACE2 receptor"
+      ],
+      "correct": 3,
+      "explanation": "The spike protein binds angiotensin-converting enzyme 2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m01",
+      "unit": 10,
+      "question": "Morning stiffness lasting more than one hour is typical of:",
+      "options": [
+        "Rheumatoid arthritis",
+        "Osteoarthritis",
+        "Gout",
+        "Fibromyalgia"
+      ],
+      "correct": 0,
+      "explanation": "OA stiffness usually lasts less than 30 minutes.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m02",
+      "unit": 10,
+      "question": "The anchor DMARD in rheumatoid arthritis is:",
+      "options": [
+        "Prednisolone",
+        "Methotrexate",
+        "Diclofenac",
+        "Paracetamol"
+      ],
+      "correct": 1,
+      "explanation": "Methotrexate given weekly with folic acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m03",
+      "unit": 10,
+      "question": "First-line treatment of scabies is:",
+      "options": [
+        "Clotrimazole cream",
+        "Hydrocortisone cream",
+        "Permethrin 5% cream",
+        "Mupirocin ointment"
+      ],
+      "correct": 2,
+      "explanation": "Applied neck down for 8–12 hours and repeated after a week.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m04",
+      "unit": 10,
+      "question": "Silvery scales on well-defined red plaques over elbows and knees suggest:",
+      "options": [
+        "Scabies",
+        "Atopic eczema",
+        "Tinea",
+        "Psoriasis"
+      ],
+      "correct": 3,
+      "explanation": "Classical plaque psoriasis.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m05",
+      "unit": 10,
+      "question": "Heberden's nodes at the DIP joints are seen in:",
+      "options": [
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "Psoriasis",
+        "Scabies"
+      ],
+      "correct": 0,
+      "explanation": "Osteophytes at DIP joints are typical of OA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m06",
+      "unit": 10,
+      "question": "Systemic corticosteroids are avoided in psoriasis because:",
+      "options": [
+        "They cause scabies",
+        "Withdrawal can cause severe pustular flare",
+        "They are ineffective in all skin diseases",
+        "They cause iron deficiency"
+      ],
+      "correct": 1,
+      "explanation": "Rebound pustular or erythrodermic psoriasis may follow stopping.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m07",
+      "unit": 10,
+      "question": "The foundation of treatment of atopic eczema is:",
+      "options": [
+        "Oral antibiotics",
+        "Systemic steroids",
+        "Regular emollients",
+        "Antifungal creams"
+      ],
+      "correct": 2,
+      "explanation": "Emollients restore the skin barrier.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m08",
+      "unit": 10,
+      "question": "Hydroxychloroquine therapy requires regular:",
+      "options": [
+        "Hearing tests",
+        "Bone marrow biopsy",
+        "Chest X-rays",
+        "Eye examinations"
+      ],
+      "correct": 3,
+      "explanation": "It can cause retinal toxicity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m01",
+      "unit": 11,
+      "question": "First-line drugs for depression are:",
+      "options": [
+        "SSRIs",
+        "MAO inhibitors",
+        "Benzodiazepines",
+        "Typical antipsychotics"
+      ],
+      "correct": 0,
+      "explanation": "SSRIs are effective and safer in overdose.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m02",
+      "unit": 11,
+      "question": "Agranulocytosis requiring blood monitoring is associated with:",
+      "options": [
+        "Risperidone",
+        "Clozapine",
+        "Haloperidol",
+        "Aripiprazole"
+      ],
+      "correct": 1,
+      "explanation": "Clozapine needs regular white cell counts.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m03",
+      "unit": 11,
+      "question": "Extrapyramidal symptoms are most common with:",
+      "options": [
+        "Quetiapine",
+        "Clozapine",
+        "Haloperidol",
+        "Escitalopram"
+      ],
+      "correct": 2,
+      "explanation": "Potent D2 blockade by typical antipsychotics causes EPS.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m04",
+      "unit": 11,
+      "question": "Benzodiazepines in anxiety should be used for:",
+      "options": [
+        "Life-long therapy",
+        "At least 2 years",
+        "Only in children",
+        "Short periods of about 2–4 weeks"
+      ],
+      "correct": 3,
+      "explanation": "Dependence and tolerance limit their use.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m05",
+      "unit": 11,
+      "question": "The antidepressant effect of SSRIs usually begins after about:",
+      "options": [
+        "2–4 weeks",
+        "1 hour",
+        "1 day",
+        "6 months"
+      ],
+      "correct": 0,
+      "explanation": "Side effects come first; mood benefit takes weeks.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m06",
+      "unit": 11,
+      "question": "The 'cheese reaction' is seen with:",
+      "options": [
+        "SSRIs",
+        "MAO inhibitors",
+        "TCAs",
+        "Benzodiazepines"
+      ],
+      "correct": 1,
+      "explanation": "Tyramine in food causes hypertensive crisis with MAOIs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m07",
+      "unit": 11,
+      "question": "Weight gain and diabetes are prominent adverse effects of:",
+      "options": [
+        "Haloperidol",
+        "Fluoxetine",
+        "Olanzapine",
+        "Buspirone"
+      ],
+      "correct": 2,
+      "explanation": "Atypical antipsychotics, especially olanzapine and clozapine, cause metabolic effects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m08",
+      "unit": 11,
+      "question": "Performance (situational) anxiety with tremor and palpitations is often helped by:",
+      "options": [
+        "Haloperidol",
+        "Lithium",
+        "Levodopa",
+        "Propranolol"
+      ],
+      "correct": 3,
+      "explanation": "Beta-blockade controls the physical symptoms.",
+      "probability": "low"
+    },
+    {
+      "id": "u12-m01",
+      "unit": 12,
+      "question": "Normal intraocular pressure is about:",
+      "options": [
+        "10–21 mmHg",
+        "25–35 mmHg",
+        "40–50 mmHg",
+        "2–8 mmHg"
+      ],
+      "correct": 0,
+      "explanation": "Above about 21 mmHg is considered raised.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m02",
+      "unit": 12,
+      "question": "Darkening of the iris is an adverse effect of:",
+      "options": [
+        "Timolol",
+        "Latanoprost",
+        "Pilocarpine",
+        "Acetazolamide"
+      ],
+      "correct": 1,
+      "explanation": "Prostaglandin analogues increase iris pigmentation.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m03",
+      "unit": 12,
+      "question": "Timolol eye drops should be avoided in patients with:",
+      "options": [
+        "Hypertension",
+        "Migraine",
+        "Asthma",
+        "Diabetes"
+      ],
+      "correct": 2,
+      "explanation": "Systemic absorption can cause bronchospasm.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m04",
+      "unit": 12,
+      "question": "Viral conjunctivitis is best managed with:",
+      "options": [
+        "Topical steroids",
+        "Oral ciprofloxacin",
+        "Topical antifungals",
+        "Hygiene, cold compresses and lubricants"
+      ],
+      "correct": 3,
+      "explanation": "It is self-limiting; antibiotics are not needed.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m05",
+      "unit": 12,
+      "question": "Schedule H1 of the Drugs Rules was introduced in India in:",
+      "options": [
+        "2013",
+        "2005",
+        "1995",
+        "2020"
+      ],
+      "correct": 0,
+      "explanation": "It requires a separate register for listed antibiotics and other drugs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m06",
+      "unit": 12,
+      "question": "India's National Action Plan on Antimicrobial Resistance was launched in:",
+      "options": [
+        "2010",
+        "2017",
+        "2005",
+        "2021"
+      ],
+      "correct": 1,
+      "explanation": "NAP-AMR 2017 follows the One Health approach.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m07",
+      "unit": 12,
+      "question": "MRSA is resistant because of:",
+      "options": [
+        "An efflux pump for vancomycin",
+        "Loss of cell wall",
+        "An altered penicillin-binding protein (PBP2a)",
+        "A changed ribosome"
+      ],
+      "correct": 2,
+      "explanation": "PBP2a has low affinity for beta-lactams.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m08",
+      "unit": 12,
+      "question": "The drug given IV in acute angle-closure glaucoma to reduce aqueous formation is:",
+      "options": [
+        "Latanoprost",
+        "Atropine",
+        "Pilocarpine",
+        "Acetazolamide"
+      ],
+      "correct": 3,
+      "explanation": "Carbonic anhydrase inhibition lowers aqueous production rapidly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m01",
+      "unit": 13,
+      "question": "PCOS is diagnosed by Rotterdam criteria when at least how many of three features are present?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "correct": 0,
+      "explanation": "Any two of anovulation, hyperandrogenism and polycystic ovaries.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m02",
+      "unit": 13,
+      "question": "Primary dysmenorrhoea is mainly due to excess:",
+      "options": [
+        "Thyroxine",
+        "Prostaglandins",
+        "Insulin",
+        "Prolactin"
+      ],
+      "correct": 1,
+      "explanation": "Endometrial prostaglandins cause strong uterine contractions.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m03",
+      "unit": 13,
+      "question": "First-line drugs for primary dysmenorrhoea are:",
+      "options": [
+        "Antibiotics",
+        "Antihistamines",
+        "NSAIDs such as mefenamic acid",
+        "Benzodiazepines"
+      ],
+      "correct": 2,
+      "explanation": "NSAIDs block prostaglandin synthesis.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m04",
+      "unit": 13,
+      "question": "Symptoms of premenstrual syndrome occur in the:",
+      "options": [
+        "Menstrual phase only",
+        "Follicular phase",
+        "Postmenopausal period",
+        "Luteal phase"
+      ],
+      "correct": 3,
+      "explanation": "They appear in the 1–2 weeks before menses and clear after it starts.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m05",
+      "unit": 13,
+      "question": "Drug used for ovulation induction in PCOS is:",
+      "options": [
+        "Letrozole",
+        "Spironolactone",
+        "Metronidazole",
+        "Levothyroxine"
+      ],
+      "correct": 0,
+      "explanation": "Letrozole (or clomiphene) induces ovulation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m06",
+      "unit": 13,
+      "question": "Metformin is used in PCOS mainly to:",
+      "options": [
+        "Treat acne directly",
+        "Reduce insulin resistance",
+        "Stop menstruation",
+        "Increase prolactin"
+      ],
+      "correct": 1,
+      "explanation": "It improves insulin sensitivity and may help cycles.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m07",
+      "unit": 13,
+      "question": "SSRIs are first-line drug therapy for:",
+      "options": [
+        "Primary dysmenorrhoea",
+        "PCOS-related hirsutism",
+        "Premenstrual dysphoric disorder",
+        "Endometriosis"
+      ],
+      "correct": 2,
+      "explanation": "They can be taken continuously or only in the luteal phase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m08",
+      "unit": 13,
+      "question": "Anti-androgens like spironolactone in PCOS must be used with reliable contraception because they:",
+      "options": [
+        "Cause hypoglycaemia",
+        "Raise blood pressure",
+        "Cause iron deficiency",
+        "Can feminise a male fetus"
+      ],
+      "correct": 3,
+      "explanation": "They are unsafe in pregnancy.",
+      "probability": "low"
+    }
+  ]
+}
