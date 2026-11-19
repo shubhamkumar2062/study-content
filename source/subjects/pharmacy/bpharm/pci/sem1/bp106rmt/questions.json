@@ -1,0 +1,518 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Resolve into partial fractions: (a) (3x + 1)/((x − 1)^2 (x + 2)); (b) x/((x + 1)(x^2 + 1)). State the rules you use.",
+      "answer": "1. Rules: the fraction must be proper; a linear factor (x − a) gives A/(x − a); a repeated factor (x − a)^2 gives A/(x − a) + B/(x − a)^2; a quadratic factor that cannot be factorised gives (Ax + B)/(quadratic).\n2. (a) Form: (3x + 1)/((x − 1)^2 (x + 2)) = A/(x − 1) + B/(x − 1)^2 + C/(x + 2).\n3. Multiply by (x − 1)^2 (x + 2): 3x + 1 = A(x − 1)(x + 2) + B(x + 2) + C(x − 1)^2.\n4. Put x = 1: 4 = 3B → B = 4/3. Put x = −2: −5 = 9C → C = −5/9.\n5. Compare coefficients of x^2: 0 = A + C → A = 5/9.\n6. Answer (a): 5/(9(x − 1)) + 4/(3(x − 1)^2) − 5/(9(x + 2)).\n7. Check at x = 0: left = 1/2; right = −5/9 + 4/3 − 5/18 = (−10 + 24 − 5)/18 = 9/18 = 1/2 ✓.\n8. (b) Form: x/((x + 1)(x^2 + 1)) = A/(x + 1) + (Bx + C)/(x^2 + 1), so x = A(x^2 + 1) + (Bx + C)(x + 1).\n9. Put x = −1: −1 = 2A → A = −1/2. Coefficient of x^2: 0 = A + B → B = 1/2. Constant: 0 = A + C → C = 1/2. Coefficient of x: B + C = 1 ✓.\n10. Answer (b): −1/(2(x + 1)) + (x + 1)/(2(x^2 + 1)).\n11. Use: partial fractions are needed to integrate rational functions and to find inverse Laplace transforms in kinetics and pharmacokinetics."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State and prove the laws of logarithms. Explain characteristic and mantissa with examples. A drug solution falls from 500 to 350 units in 40 days by first-order kinetics; find the rate constant, half-life and shelf life.",
+      "answer": "1. Definition: if a^x = N (a > 0, a ≠ 1), then x = log_a N.\n2. Product law: let log_a m = x, log_a n = y, so m = a^x, n = a^y. mn = a^(x + y), hence log_a(mn) = x + y = log_a m + log_a n.\n3. Quotient law: m/n = a^(x − y), hence log_a(m/n) = log_a m − log_a n.\n4. Power law: m^p = (a^x)^p = a^(px), hence log_a m^p = p log_a m.\n5. Also log_a a = 1, log_a 1 = 0, and change of base log_a N = log N/log a (ln x = 2.303 log x).\n6. Characteristic = whole-number part of a common log; mantissa = decimal part, always positive (from tables).\n7. Number > 1: characteristic = digits before decimal − 1. log 3456 = 3.5386 (characteristic 3).\n8. Number between 0 and 1: characteristic = −(zeros after decimal + 1), written with a bar. log 0.0345 = 2̄.5378 = −1.4622.\n9. Mantissa depends only on the digits: log 3.456 = 0.5386, log 345.6 = 2.5386.\n10. Problem: k = (2.303/t) log(C0/C) = (2.303/40) × log(500/350) = (2.303/40) × 0.1549 = 0.00892 per day.\n11. t½ = 0.693/k = 0.693/0.00892 = 77.7 days. Shelf life t90 = 0.105/k = 11.8 days."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Resolve (2x + 3)/((x − 1)(x + 2)) into partial fractions.",
+      "answer": "1. Write (2x + 3)/((x − 1)(x + 2)) = A/(x − 1) + B/(x + 2).\n2. Multiply: 2x + 3 = A(x + 2) + B(x − 1).\n3. x = 1: 5 = 3A → A = 5/3.\n4. x = −2: −1 = −3B → B = 1/3.\n5. Answer: 5/(3(x − 1)) + 1/(3(x + 2)).\n6. Check: (5/3)(x + 2) + (1/3)(x − 1) = (6x + 9)/3 = 2x + 3 ✓."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Evaluate: (a) lim (x → 3) (x^4 − 81)/(x − 3); (b) lim (x → 0) sin 3x/sin 2x; (c) lim (x → a) (x^5 − a^5)/(x^3 − a^3).",
+      "answer": "1. Standard results: lim (x → a) (x^n − a^n)/(x − a) = n a^(n − 1); lim (θ → 0) sin θ/θ = 1.\n2. (a) 81 = 3^4, so the limit = 4 × 3^3 = 108.\n3. (b) sin 3x/sin 2x = [sin 3x/3x] × [2x/sin 2x] × (3/2) → 1 × 1 × 3/2 = 3/2.\n4. (c) Divide top and bottom by (x − a): [(x^5 − a^5)/(x − a)] ÷ [(x^3 − a^3)/(x − a)] → 5a^4/(3a^2) = (5/3)a^2."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define a real valued function, its domain and range. Classify real valued functions with one example of each type.",
+      "answer": "1. A function f from A to B gives each x in A exactly one f(x) in B; if A and B are sets of real numbers it is a real valued function.\n2. Domain: values of x for which f is defined (e.g. 1/(x − 2): all reals except 2; √(x − 3): x ≥ 3). Range: values f(x) actually takes.\n3. Constant f(x) = 5; identity f(x) = x; polynomial x^2 − 5x + 6; rational (x + 1)/(x − 2).\n4. Modulus |x|; signum (1, 0, −1); greatest integer [x], e.g. [2.7] = 2.\n5. Exponential e^x (drug decline C0e^(−kt)); logarithmic log x; trigonometric sin x.\n6. Other classes: algebraic vs transcendental; even (x^2, cos x) vs odd (x^3, sin x); explicit y = f(x) vs implicit x^2 + y^2 = 25."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define continuity of a function at a point. Find k so that f(x) = kx + 1 for x ≤ 2 and f(x) = 3x − 1 for x > 2 is continuous at x = 2.",
+      "answer": "1. f is continuous at x = a if f(a) is defined, lim (x → a) f(x) exists (left limit = right limit) and the limit equals f(a).\n2. Example: f(x) = (x^2 − 1)/(x − 1), f(1) = 2: limit = lim (x + 1) = 2 = f(1), so continuous; if f(1) = 3 it is discontinuous.\n3. Problem: left-hand limit = f(2) = 2k + 1.\n4. Right-hand limit = 3(2) − 1 = 5.\n5. For continuity 2k + 1 = 5 → k = 2."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Resolve the improper fraction (x^2 + 1)/(x^2 − 3x + 2) into partial fractions.",
+      "answer": "1. Degree of top = degree of bottom, so divide first: (x^2 + 1) = 1 × (x^2 − 3x + 2) + (3x − 1).\n2. So the fraction = 1 + (3x − 1)/((x − 1)(x − 2)).\n3. 3x − 1 = A(x − 2) + B(x − 1). x = 1: 2 = −A → A = −2. x = 2: 5 = B.\n4. Answer: 1 − 2/(x − 1) + 5/(x − 2).\n5. Check at x = 0: left = 1/2; right = 1 + 2 − 5/2 = 1/2 ✓."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Give the ε–δ definition of the limit of a function and use it to prove that lim (x → 2) (3x + 1) = 7.",
+      "answer": "1. lim (x → a) f(x) = L if for every ε > 0 there is a δ > 0 such that |f(x) − L| < ε whenever 0 < |x − a| < δ.\n2. Here |f(x) − 7| = |3x + 1 − 7| = 3|x − 2|.\n3. We need 3|x − 2| < ε, i.e. |x − 2| < ε/3.\n4. Choose δ = ε/3. Then 0 < |x − 2| < δ gives |f(x) − 7| < 3(ε/3) = ε.\n5. Hence lim (x → 2) (3x + 1) = 7."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Distinguish a proper fraction from an improper rational fraction with an example of each.",
+      "answer": "Proper: degree of top less than degree of bottom, e.g. (2x + 3)/(x^2 + x − 2). Improper: degree of top equal to or more than the bottom, e.g. (x^2 + 1)/(x^2 − 3x + 2); it must be divided first before splitting."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the characteristic of log 3456 and of log 0.000589.",
+      "answer": "log 3456: 4 digits before the decimal, so characteristic = 3 (log = 3.5386). log 0.000589: three zeros after the decimal, so characteristic = −4, written 4̄ (log = 4̄.7701)."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Evaluate lim (x → 0) sin 5x/x.",
+      "answer": "lim sin 5x/x = 5 × lim (sin 5x)/(5x) = 5 × 1 = 5, using lim (θ → 0) sin θ/θ = 1."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Find the inverse of A = [1 0 −1; 1 2 1; 2 2 3] (rows separated by semicolons) and verify that A·A^−1 = I.",
+      "answer": "1. |A| = 1(2·3 − 1·2) − 0 + (−1)(1·2 − 2·2) = 4 + 2 = 6 ≠ 0, so A is non-singular and A^−1 exists.\n2. Cofactors of row 1: C11 = +(6 − 2) = 4, C12 = −(3 − 2) = −1, C13 = +(2 − 4) = −2.\n3. Row 2: C21 = −(0·3 − (−1)·2) = −2, C22 = +(3 + 2) = 5, C23 = −(2 − 0) = −2.\n4. Row 3: C31 = +(0·1 − (−1)·2) = 2, C32 = −(1 + 1) = −2, C33 = +(2 − 0) = 2.\n5. adj A = transpose of cofactor matrix = [4 −2 2; −1 5 −2; −2 −2 2].\n6. A^−1 = adj A/|A| = (1/6)[4 −2 2; −1 5 −2; −2 −2 2].\n7. Verify A·adj A: row 1 of A (1, 0, −1) with the columns of adj A gives 4 + 2 = 6, −2 + 2 = 0, 2 − 2 = 0.\n8. Row 2 (1, 2, 1): 4 − 2 − 2 = 0, −2 + 10 − 2 = 6, 2 − 4 + 2 = 0.\n9. Row 3 (2, 2, 3): 8 − 2 − 6 = 0, −4 + 10 − 6 = 0, 4 − 4 + 6 = 6.\n10. So A·adj A = 6I, hence A·A^−1 = I ✓."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Solve by the matrix method: x + y + z = 6, x − y + z = 2, 2x + y − z = 1.",
+      "answer": "1. Write AX = B with A = [1 1 1; 1 −1 1; 2 1 −1], X = [x; y; z], B = [6; 2; 1].\n2. |A| = 1(1 − 1) − 1(−1 − 2) + 1(1 + 2) = 0 + 3 + 3 = 6 ≠ 0, so a unique solution exists.\n3. Cofactors: C11 = 0, C12 = 3, C13 = 3; C21 = 2, C22 = −3, C23 = 1; C31 = 2, C32 = 0, C33 = −2.\n4. adj A = [0 2 2; 3 −3 0; 3 1 −2].\n5. X = A^−1 B = (1/6) adj A · B.\n6. x = (0×6 + 2×2 + 2×1)/6 = 6/6 = 1.\n7. y = (3×6 − 3×2 + 0×1)/6 = 12/6 = 2.\n8. z = (3×6 + 1×2 − 2×1)/6 = 18/6 = 3.\n9. Check: 1 + 2 + 3 = 6; 1 − 2 + 3 = 2; 2 + 2 − 3 = 1 ✓.\n10. Answer: x = 1, y = 2, z = 3."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State the Cayley–Hamilton theorem. Verify it for A = [1 2 0; 2 1 0; 0 0 3] and use it to find A^−1.",
+      "answer": "1. Theorem: every square matrix satisfies its own characteristic equation |A − λI| = 0.\n2. |A − λI| = (3 − λ)[(1 − λ)^2 − 4] = (3 − λ)(λ^2 − 2λ − 3).\n3. Characteristic equation: λ^3 − 5λ^2 + 3λ + 9 = 0 (trace 5, sum of diagonal minors 3 + 3 − 3 = 3, |A| = −9). Roots 3, 3, −1.\n4. A^2 = [5 4 0; 4 5 0; 0 0 9]; A^3 = [13 14 0; 14 13 0; 0 0 27].\n5. A^3 − 5A^2 + 3A + 9I: element (1,1) = 13 − 25 + 3 + 9 = 0; (1,2) = 14 − 20 + 6 = 0; (3,3) = 27 − 45 + 9 + 9 = 0; the others are 0 similarly, so the result is the null matrix. Theorem verified.\n6. Multiply A^3 − 5A^2 + 3A + 9I = O by A^−1: A^2 − 5A + 3I + 9A^−1 = O.\n7. A^−1 = −(A^2 − 5A + 3I)/9. A^2 − 5A + 3I = [5 − 5 + 3, 4 − 10, 0; 4 − 10, 3, 0; 0, 0, 9 − 15 + 3] = [3 −6 0; −6 3 0; 0 0 −3].\n8. A^−1 = (1/3)[−1 2 0; 2 −1 0; 0 0 1].\n9. Check: row 1 of A (1, 2, 0) with column 1 (−1, 2, 0)/3 gives (−1 + 4)/3 = 1 ✓."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Solve 2x + 3y = 13 and 3x − y = 3 by Cramer's rule.",
+      "answer": "1. D = |2 3; 3 −1| = −2 − 9 = −11 (≠ 0, so Cramer's rule applies).\n2. Dx = |13 3; 3 −1| = −13 − 9 = −22 → x = Dx/D = 2.\n3. Dy = |2 13; 3 3| = 6 − 39 = −33 → y = Dy/D = 3.\n4. Check: 2(2) + 3(3) = 13 and 3(2) − 3 = 3 ✓."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define a matrix and describe any eight types of matrices with examples.",
+      "answer": "1. A matrix is a rectangular arrangement of numbers in m rows and n columns (order m × n).\n2. Row matrix [1 4 7]; column matrix (one column); square matrix (m = n); rectangular (m ≠ n).\n3. Null matrix: all elements 0. Diagonal matrix: square, all off-diagonal elements 0.\n4. Scalar matrix: diagonal with equal diagonal elements; identity I: diagonal elements 1.\n5. Upper/lower triangular: zeros below/above the diagonal.\n6. Symmetric A^T = A, e.g. [1 2; 2 4]; skew-symmetric A^T = −A, e.g. [0 2; −2 0].\n7. Singular |A| = 0; non-singular |A| ≠ 0."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "State any five properties of determinants. Using them, show that the determinant with rows (1, a, b + c), (1, b, c + a), (1, c, a + b) is zero.",
+      "answer": "1. |A^T| = |A|.\n2. Interchanging two rows changes the sign.\n3. Two identical rows (or columns) make the determinant zero.\n4. Multiplying a row by k multiplies the determinant by k.\n5. Adding a multiple of one row to another does not change the value; also |AB| = |A||B|.\n6. Proof: add column 2 to column 3; every element of column 3 becomes a + b + c.\n7. Take (a + b + c) out; column 3 becomes (1, 1, 1), identical to column 1, so the determinant = 0."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Solve for x: |2 3 4; −4 x −8; 5 6 7| = 0.",
+      "answer": "1. Expand along row 1: 2(7x − (−8)(6)) − 3((−4)(7) − (−8)(5)) + 4((−4)(6) − 5x) = 0.\n2. 2(7x + 48) − 3(−28 + 40) + 4(−24 − 5x) = 0.\n3. 14x + 96 − 36 − 96 − 20x = 0 → −6x − 36 = 0.\n4. x = −6.\n5. Check: with x = −6, row 2 = (−4, −6, −8) = −2 × row 1, so the determinant is 0 ✓."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "If A = [1 2; 3 4] and B = [2 0; 1 3], find AB and BA. Show that AB ≠ BA and that |AB| = |A||B|.",
+      "answer": "1. AB = [1·2 + 2·1, 1·0 + 2·3; 3·2 + 4·1, 3·0 + 4·3] = [4 6; 10 12].\n2. BA = [2·1 + 0·3, 2·2 + 0·4; 1·1 + 3·3, 1·2 + 3·4] = [2 4; 10 14].\n3. AB ≠ BA, so matrix multiplication is not commutative.\n4. |A| = 4 − 6 = −2; |B| = 6 − 0 = 6; |A||B| = −12.\n5. |AB| = 4×12 − 6×10 = −12 = |A||B| ✓."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Find the characteristic equation and roots of A = [2 1; 1 2]. Verify the Cayley–Hamilton theorem and find A^−1.",
+      "answer": "1. Characteristic equation: λ^2 − (trace)λ + |A| = λ^2 − 4λ + 3 = 0; roots λ = 1 and 3.\n2. A^2 = [5 4; 4 5]; 4A = [8 4; 4 8]; 3I = [3 0; 0 3].\n3. A^2 − 4A + 3I = [5 − 8 + 3, 4 − 4; 4 − 4, 5 − 8 + 3] = O ✓.\n4. Multiply by A^−1: A − 4I + 3A^−1 = O → A^−1 = (4I − A)/3 = (1/3)[2 −1; −1 2].\n5. Check: A × [2 −1; −1 2] = [3 0; 0 3] = 3I ✓."
+    },
+    {
+      "id": "u2-s07",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain with an example how matrices are used to find two drugs in a mixture from absorbance readings.",
+      "answer": "1. Absorbances add: at each wavelength A = a1C1 + a2C2, where a1, a2 are absorptivities of the two drugs.\n2. Readings at two wavelengths give two linear equations, solved by matrices or Cramer's rule.\n3. Example: 0.05x + 0.02y = 0.60 and 0.01x + 0.04y = 0.30.\n4. D = 0.05×0.04 − 0.02×0.01 = 0.0018; Dx = 0.60×0.04 − 0.02×0.30 = 0.018; Dy = 0.05×0.30 − 0.60×0.01 = 0.009.\n5. x = 10 µg/ml and y = 5 µg/ml. Matrices also hold the rate constants of compartment models (dX/dt = KX)."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define singular and non-singular matrices.",
+      "answer": "A square matrix is singular if its determinant is zero (it has no inverse) and non-singular if its determinant is not zero (its inverse exists)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Find the inverse of [3 1; 5 2].",
+      "answer": "Determinant = 6 − 5 = 1. Inverse = (1/1)[2 −1; −5 3] = [2 −1; −5 3] (swap diagonal elements, change sign of the others). Check: [3 1; 5 2][2 −1; −5 3] = I."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the characteristic equation of [1 2; 3 4].",
+      "answer": "λ^2 − (trace)λ + |A| = 0 with trace 5 and |A| = 4 − 6 = −2, so λ^2 − 5λ − 2 = 0."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State the conditions for a function to have a maximum or a minimum at a point. Find the maximum and minimum values of f(x) = 2x^3 − 15x^2 + 36x + 10.",
+      "answer": "1. At a maximum or minimum the tangent is horizontal: f′(a) = 0 (stationary point).\n2. If f′(a) = 0 and f″(a) < 0, f has a maximum at a; if f″(a) > 0, a minimum. If f″(a) = 0 the test fails; check the sign of f′ on either side.\n3. f′(x) = 6x^2 − 30x + 36 = 6(x^2 − 5x + 6) = 6(x − 2)(x − 3).\n4. f′(x) = 0 → x = 2 or x = 3.\n5. f″(x) = 12x − 30.\n6. At x = 2: f″(2) = −6 < 0 → maximum. f(2) = 16 − 60 + 72 + 10 = 38.\n7. At x = 3: f″(3) = 6 > 0 → minimum. f(3) = 54 − 135 + 108 + 10 = 37.\n8. Answer: maximum value 38 at x = 2; minimum value 37 at x = 3.\n9. Pharmacy use: the same method gives the time of peak plasma concentration, tmax = ln(ka/k)/(ka − k)."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State the product and quotient rules and differentiate: (a) x^4 e^x ln x; (b) (x^2 + 1)/(x − 1); (c) sin x/(1 + cos x); (d) (2x + 3)^5; (e) ln x/x.",
+      "answer": "1. Product rule: d(uv)/dx = u v′ + v u′. Quotient rule: d(u/v)/dx = (v u′ − u v′)/v^2. Chain rule: dy/dx = (dy/du)(du/dx).\n2. (a) Three factors: y′ = 4x^3 e^x ln x + x^4 e^x ln x + x^4 e^x (1/x) = x^3 e^x (4 ln x + x ln x + 1).\n3. (b) u = x^2 + 1, v = x − 1: y′ = [(x − 1)(2x) − (x^2 + 1)]/(x − 1)^2 = (x^2 − 2x − 1)/(x − 1)^2.\n4. (c) y′ = [(1 + cos x)cos x − sin x(−sin x)]/(1 + cos x)^2 = (cos x + 1)/(1 + cos x)^2 = 1/(1 + cos x), using sin^2 x + cos^2 x = 1.\n5. (d) y′ = 5(2x + 3)^4 × 2 = 10(2x + 3)^4.\n6. (e) y′ = [x(1/x) − ln x]/x^2 = (1 − ln x)/x^2."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Show how differentiation is applied in pharmacokinetics: (a) find the rate of elimination for C = C0 e^(−kt); (b) for an oral dose with C = A(e^(−kt) − e^(−ka·t)), derive tmax and find it when ka = 1.0 per h and k = 0.2 per h.",
+      "answer": "1. (a) C = C0 e^(−kt). By the chain rule dC/dt = C0 e^(−kt)(−k) = −kC.\n2. The rate of fall is proportional to the concentration present: a first-order process; the negative sign shows decrease.\n3. (b) C = A(e^(−kt) − e^(−ka·t)). dC/dt = A(−k e^(−kt) + ka e^(−ka·t)).\n4. At the peak dC/dt = 0: ka e^(−ka·t) = k e^(−kt).\n5. Rearranging: ka/k = e^((ka − k)t) → (ka − k)t = ln(ka/k).\n6. tmax = ln(ka/k)/(ka − k).\n7. Numbers: tmax = ln(1.0/0.2)/(1.0 − 0.2) = ln 5/0.8 = 1.609/0.8 = 2.01 h.\n8. A second derivative check shows dC/dt changes from positive to negative there, so it is a maximum (the peak level)."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Using first principles, find the derivatives of x^2 and √x.",
+      "answer": "1. Definition: dy/dx = lim (h → 0) [f(x + h) − f(x)]/h.\n2. f = x^2: [(x + h)^2 − x^2]/h = (2xh + h^2)/h = 2x + h → 2x as h → 0.\n3. f = √x: [√(x + h) − √x]/h; multiply top and bottom by √(x + h) + √x.\n4. = h/[h(√(x + h) + √x)] = 1/(√(x + h) + √x).\n5. As h → 0: 1/(2√x). So d/dx √x = 1/(2√x)."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "(a) If y = sin 2x, show that d²y/dx² + 4y = 0. (b) If y = A e^(mx) + B e^(−mx), show that d²y/dx² = m^2 y.",
+      "answer": "1. (a) y′ = 2 cos 2x.\n2. y″ = −4 sin 2x = −4y, so y″ + 4y = 0.\n3. (b) y′ = mA e^(mx) − mB e^(−mx).\n4. y″ = m^2 A e^(mx) + m^2 B e^(−mx) = m^2 (A e^(mx) + B e^(−mx)) = m^2 y."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Find the maximum and minimum values, if any, of f(x) = x^3/3 − 10x^2 + 300x.",
+      "answer": "1. f′(x) = x^2 − 20x + 300.\n2. For stationary points f′(x) = 0; discriminant = 20^2 − 4(1)(300) = 400 − 1200 = −800 < 0.\n3. There are no real roots: f′(x) = (x − 10)^2 + 200 > 0 for every x.\n4. So f is increasing everywhere and has no stationary point.\n5. Answer: f has no maximum and no minimum value."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Show that of all rectangles with perimeter 40 cm, the square has the largest area.",
+      "answer": "1. Let the sides be x and 20 − x (half the perimeter is 20).\n2. Area A = x(20 − x) = 20x − x^2.\n3. dA/dx = 20 − 2x = 0 → x = 10.\n4. d²A/dx² = −2 < 0, so the area is maximum at x = 10.\n5. Sides 10 cm and 10 cm: a square of area 100 cm^2."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate with respect to x: (a) 3x^4 − 5x^2 + 7x − 2; (b) √x + 1/x; (c) 5e^x + 3 ln x − 2^x; (d) 4 sin x − 3 cos x + tan x; (e) x^2 sin x.",
+      "answer": "1. (a) 12x^3 − 10x + 7.\n2. (b) x^(1/2) + x^(−1) → 1/(2√x) − 1/x^2.\n3. (c) 5e^x + 3/x − 2^x ln 2.\n4. (d) 4 cos x + 3 sin x + sec^2 x.\n5. (e) Product rule: x^2 cos x + 2x sin x."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define the derivative of a function and give its geometrical meaning.",
+      "answer": "dy/dx = lim (h → 0) [f(x + h) − f(x)]/h, the instantaneous rate of change of y with x. Geometrically it is the slope of the tangent to the curve y = f(x) at that point."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate ln x/x with respect to x.",
+      "answer": "Quotient rule: [x(1/x) − ln x(1)]/x^2 = (1 − ln x)/x^2."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Using partial fractions, evaluate: (a) ∫ dx/(x^2 − a^2); (b) ∫ (3x + 5)/((x + 2)(x − 1)) dx; (c) ∫ dx/((x − 1)(x − 2)).",
+      "answer": "1. (a) 1/(x^2 − a^2) = A/(x − a) + B/(x + a); 1 = A(x + a) + B(x − a).\n2. x = a: A = 1/(2a); x = −a: B = −1/(2a). So 1/(x^2 − a^2) = (1/2a)[1/(x − a) − 1/(x + a)].\n3. ∫ = (1/2a)[ln|x − a| − ln|x + a|] + c = (1/2a) ln|(x − a)/(x + a)| + c.\n4. (b) 3x + 5 = A(x − 1) + B(x + 2): x = 1 gives B = 8/3; x = −2 gives −1 = −3A, A = 1/3.\n5. ∫ = (1/3)∫dx/(x + 2) + (8/3)∫dx/(x − 1) = (1/3) ln|x + 2| + (8/3) ln|x − 1| + c.\n6. (c) 1 = A(x − 2) + B(x − 1): x = 1 gives A = −1; x = 2 gives B = 1.\n7. ∫ = −ln|x − 1| + ln|x − 2| + c = ln|(x − 2)/(x − 1)| + c.\n8. Check (c): d/dx [ln|x − 2| − ln|x − 1|] = 1/(x − 2) − 1/(x − 1) = 1/((x − 1)(x − 2)) ✓."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State the rule of integration by parts and the ILATE order. Evaluate: (a) ∫ x e^x dx; (b) ∫ x sin x dx; (c) ∫ ln x dx; (d) ∫ x ln x dx; (e) ∫ (0 to 1) x e^x dx.",
+      "answer": "1. Rule: ∫ u v dx = u ∫ v dx − ∫ [u′ ∫ v dx] dx.\n2. Choose u by ILATE: Inverse trigonometric, Logarithmic, Algebraic, Trigonometric, Exponential.\n3. (a) u = x, v = e^x: = x e^x − ∫ 1·e^x dx = x e^x − e^x + c.\n4. (b) u = x, v = sin x: = x(−cos x) − ∫ 1·(−cos x) dx = −x cos x + sin x + c.\n5. (c) Write ln x · 1, u = ln x: = x ln x − ∫ (1/x)·x dx = x ln x − x + c.\n6. (d) u = ln x, v = x: = (x^2/2) ln x − ∫ (1/x)(x^2/2) dx = (x^2/2) ln x − x^2/4 + c.\n7. (e) [x e^x − e^x] from 0 to 1 = (e − e) − (0 − 1) = 1.\n8. Check (a): d/dx (x e^x − e^x) = x e^x + e^x − e^x = x e^x ✓."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the distance formula, slope of a line and the conditions for parallel and perpendicular lines. (a) Show that (0, 0), (3, 0), (3, 4) form a right triangle. (b) Show that (1, 1), (2, 3), (3, 5) are collinear. (c) Find the equation of the line through (−2, 0) perpendicular to 4x − 3y = 2.",
+      "answer": "1. Distance between (x1, y1) and (x2, y2) = √[(x2 − x1)^2 + (y2 − y1)^2] (from Pythagoras).\n2. Slope m = tan θ = (y2 − y1)/(x2 − x1); for ax + by + c = 0, m = −a/b.\n3. Parallel lines: m1 = m2. Perpendicular lines: m1 × m2 = −1.\n4. (a) Sides: 3, 4 and √(3^2 + 4^2) = 5. Since 3^2 + 4^2 = 5^2, the triangle is right-angled at (3, 0).\n5. (b) Slope of AB = (3 − 1)/(2 − 1) = 2; slope of BC = (5 − 3)/(3 − 2) = 2. Equal slopes with a common point B → collinear.\n6. (c) Slope of 4x − 3y = 2 is 4/3, so the required slope = −3/4.\n7. Point–slope form: y − 0 = (−3/4)(x + 2) → 4y = −3x − 6.\n8. Answer: 3x + 4y + 6 = 0.\n9. Pharmacy link: calibration curves (A = εbc) and log C vs t plots are straight lines; slope gives εb or −k/2.303."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Find the equation of the line (a) through (1, 2) parallel to y = 5x + 7; (b) with slope 3 and y-intercept −2. Also find the slope and intercept of 2x + 3y − 6 = 0.",
+      "answer": "1. (a) Parallel → same slope 5. y − 2 = 5(x − 1) → y = 5x − 3.\n2. (b) y = mx + c → y = 3x − 2.\n3. 2x + 3y − 6 = 0 → 3y = −2x + 6 → y = (−2/3)x + 2.\n4. Slope = −2/3, y-intercept = 2."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Evaluate: (a) ∫ (1 to 2) (5x^4 + 2x + 2) dx; (b) ∫ (0 to π/2) sin x dx; (c) ∫ (0 to 1) dx/(1 + x^2).",
+      "answer": "1. (a) = [x^5 + x^2 + 2x] from 1 to 2 = (32 + 4 + 4) − (1 + 1 + 2) = 40 − 4 = 36.\n2. (b) = [−cos x] from 0 to π/2 = (−0) − (−1) = 1.\n3. (c) = [tan^−1 x] from 0 to 1 = π/4 − 0 = π/4.\n4. No constant of integration is needed in a definite integral."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Integrate by substitution: (a) ∫ 2x/(x^2 + 1) dx; (b) ∫ x e^(x^2) dx; (c) ∫ (ln x)/x dx; (d) ∫ tan x dx.",
+      "answer": "1. (a) t = x^2 + 1, dt = 2x dx: ∫ dt/t = ln(x^2 + 1) + c.\n2. (b) t = x^2, x dx = dt/2: (1/2)∫ e^t dt = (1/2)e^(x^2) + c.\n3. (c) t = ln x, dt = dx/x: ∫ t dt = (ln x)^2/2 + c.\n4. (d) tan x = sin x/cos x; t = cos x, dt = −sin x dx: −∫ dt/t = −ln|cos x| = ln|sec x| + c."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "State the distance formula. Find the distance between (1, 2) and (4, 6), and find k if the distance between (k, 2) and (1, 5) is 5.",
+      "answer": "1. Distance = √[(x2 − x1)^2 + (y2 − y1)^2].\n2. (1, 2) to (4, 6): √(3^2 + 4^2) = √25 = 5.\n3. (k − 1)^2 + (5 − 2)^2 = 25 → (k − 1)^2 = 16.\n4. k − 1 = ±4 → k = 5 or k = −3."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Show that the area under the curve C = C0 e^(−kt) from 0 to ∞ is C0/k, and find the AUC from 0 to 4 h by the trapezoidal rule for the data t = 0, 1, 2, 4 h and C = 10, 8, 6, 4 µg/ml.",
+      "answer": "1. AUC = ∫ (0 to ∞) C0 e^(−kt) dt = C0 [−e^(−kt)/k] from 0 to ∞ = C0(0 + 1/k) = C0/k.\n2. Example: C0 = 20 µg/ml, k = 0.2 per h → AUC = 100 µg·h/ml.\n3. Trapezoid strip = (C1 + C2)/2 × (t2 − t1).\n4. Strips: (10 + 8)/2 × 1 = 9; (8 + 6)/2 × 1 = 7; (6 + 4)/2 × 2 = 10.\n5. AUC (0 to 4 h) = 26 µg·h/ml. AUC measures the extent of drug reaching the blood (bioavailability)."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "State the conditions for two lines to be parallel and perpendicular. Show that 2x − y + 3 = 0 and x + 2y − 4 = 0 are perpendicular.",
+      "answer": "1. Parallel: equal slopes, m1 = m2.\n2. Perpendicular: m1 × m2 = −1.\n3. 2x − y + 3 = 0 → y = 2x + 3, slope 2.\n4. x + 2y − 4 = 0 → y = −x/2 + 2, slope −1/2.\n5. Product = 2 × (−1/2) = −1, so the lines are perpendicular."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the signs of the coordinates in the four quadrants.",
+      "answer": "Quadrant I (+, +); II (−, +); III (−, −); IV (+, −)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Evaluate ∫ (3x^2 + 4x − 5) dx.",
+      "answer": "Using ∫ x^n dx = x^(n + 1)/(n + 1): x^3 + 2x^2 − 5x + c."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write the Laplace transforms of the first and second derivatives. Solve y″ − 3y′ + 2y = 0, given y(0) = 0 and y′(0) = 1, by the Laplace transform method.",
+      "answer": "1. L{y′} = sY − y(0); L{y″} = s^2 Y − s y(0) − y′(0), where Y = L{y}.\n2. Transform the equation: [s^2 Y − s(0) − 1] − 3[sY − 0] + 2Y = 0.\n3. Y(s^2 − 3s + 2) = 1 → Y = 1/((s − 1)(s − 2)).\n4. Partial fractions: 1 = A(s − 2) + B(s − 1); s = 1: A = −1; s = 2: B = 1.\n5. Y = −1/(s − 1) + 1/(s − 2).\n6. Inverse: L^−1{1/(s − a)} = e^(at), so y = e^(2t) − e^t.\n7. Check: y(0) = 1 − 1 = 0; y′ = 2e^(2t) − e^t, y′(0) = 1 ✓; y″ − 3y′ + 2y = (4 − 6 + 2)e^(2t) + (−1 + 3 − 2)e^t = 0 ✓.\n8. Advantage: initial conditions are used at the start, and the DE becomes algebra."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Using the Laplace transform, derive the equation for the amount of drug in the body after an oral dose in a one-compartment model with first-order absorption and elimination.",
+      "answer": "1. Let Xa = drug at the absorption site, X = drug in the body, F = fraction absorbed, D = dose, ka and k = absorption and elimination rate constants.\n2. Equations: dXa/dt = −ka Xa, Xa(0) = FD; dX/dt = ka Xa − kX, X(0) = 0.\n3. Transform the first: sX̄a − FD = −ka X̄a → X̄a = FD/(s + ka).\n4. Transform the second: sX̄ − 0 = ka X̄a − kX̄ → X̄(s + k) = ka FD/(s + ka).\n5. X̄ = ka FD/((s + ka)(s + k)).\n6. Partial fractions: 1/((s + ka)(s + k)) = [1/(ka − k)][1/(s + k) − 1/(s + ka)].\n7. Inverse transform: X = [ka F D/(ka − k)](e^(−kt) − e^(−ka·t)).\n8. Concentration C = X/V = [ka F D/(V(ka − k))](e^(−kt) − e^(−ka·t)) (Bateman equation).\n9. The curve rises while absorption dominates and falls when elimination dominates; the peak occurs at tmax = ln(ka/k)/(ka − k)."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define order and degree of a differential equation. Solve: (a) dy/dx = e^(x − y); (b) dy/dx + y/x = x^2; (c) (2xy + 3) dx + (x^2 + 4y) dy = 0.",
+      "answer": "1. Order: order of the highest derivative. Degree: power of the highest derivative after removing roots of derivatives. Example: d²y/dx² + 3 dy/dx + 2y = 0 has order 2, degree 1.\n2. (a) Separable: dy/dx = e^x e^(−y) → e^y dy = e^x dx.\n3. Integrate: e^y = e^x + c.\n4. (b) Linear with P = 1/x, Q = x^2. IF = e^(∫dx/x) = e^(ln x) = x.\n5. y·x = ∫ x^2·x dx = x^4/4 + c → y = x^3/4 + c/x.\n6. Check (b): y′ = 3x^2/4 − c/x^2; y/x = x^2/4 + c/x^2; sum = x^2 ✓.\n7. (c) M = 2xy + 3, N = x^2 + 4y. ∂M/∂y = 2x = ∂N/∂x, so the equation is exact.\n8. ∫ M dx (y constant) = x^2 y + 3x; terms of N without x: 4y → ∫ 4y dy = 2y^2.\n9. Solution: x^2 y + 3x + 2y^2 = c."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Using differential equations, derive (a) the concentration–time equation and half-life for first-order elimination after an IV bolus and (b) the amount of drug in the body during a constant-rate IV infusion. Give a numerical example of each.",
+      "answer": "1. (a) Rate of loss ∝ amount present: dC/dt = −kC (separable).\n2. dC/C = −k dt → ln C = −kt + c; at t = 0, C = C0, so c = ln C0.\n3. C = C0 e^(−kt), or log C = log C0 − kt/2.303 (straight line, slope −k/2.303).\n4. Half-life: C = C0/2 → t½ = ln 2/k = 0.693/k.\n5. Example: k = 0.1155 per h → t½ = 6 h; C0 = 40 µg/ml gives 10 µg/ml after 12 h.\n6. (b) Input at constant rate k0, first-order output: dX/dt = k0 − kX → dX/dt + kX = k0 (linear).\n7. IF = e^(kt): X e^(kt) = ∫ k0 e^(kt) dt = (k0/k)e^(kt) + c; X(0) = 0 gives c = −k0/k.\n8. X = (k0/k)(1 − e^(−kt)); steady state Xss = k0/k, Css = k0/(kV) = k0/CL.\n9. Example: k0 = 10 mg/h, k = 0.1 per h, V = 20 L → Xss = 100 mg, Css = 5 mg/L; after one half-life (6.93 h) X = 50 mg."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Find the order and degree of: (a) d²y/dx² + 3 dy/dx + 2y = 0; (b) (dy/dx)^3 + y = x; (c) (d²y/dx²)^2 + (dy/dx)^3 = 0; (d) d³y/dx³ + y = sin x; (e) y = x(dy/dx) + √(1 + (dy/dx)^2).",
+      "answer": "1. (a) Order 2, degree 1.\n2. (b) Order 1, degree 3.\n3. (c) Order 2, degree 2.\n4. (d) Order 3, degree 1.\n5. (e) With p = dy/dx: (y − xp)^2 = 1 + p^2 after squaring; order 1, degree 2."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Solve the homogeneous equation dy/dx = (x^2 + y^2)/(2xy).",
+      "answer": "1. Put y = vx, dy/dx = v + x dv/dx: v + x dv/dx = (1 + v^2)/(2v).\n2. x dv/dx = (1 + v^2 − 2v^2)/(2v) = (1 − v^2)/(2v).\n3. Separate: 2v dv/(1 − v^2) = dx/x.\n4. Integrate: −ln|1 − v^2| = ln|x| + c → x(1 − v^2) = C.\n5. Put v = y/x: x^2 − y^2 = Cx."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define the Laplace transform. Derive L{1} and L{e^(at)}, and find L{3t^2 + 2e^(−3t) − 4 sin 2t}.",
+      "answer": "1. L{f(t)} = F(s) = ∫ (0 to ∞) e^(−st) f(t) dt.\n2. L{1} = [−e^(−st)/s] from 0 to ∞ = 1/s (s > 0).\n3. L{e^(at)} = ∫ e^(−(s − a)t) dt = 1/(s − a) (s > a).\n4. Using linearity and L{t^2} = 2/s^3, L{e^(−3t)} = 1/(s + 3), L{sin 2t} = 2/(s^2 + 4):\n5. L{…} = 6/s^3 + 2/(s + 3) − 8/(s^2 + 4)."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Find: (a) L^−1{1/((s + 1)(s + 2))}; (b) L^−1{(s + 3)/(s^2 + 4s + 13)}.",
+      "answer": "1. (a) 1/((s + 1)(s + 2)) = 1/(s + 1) − 1/(s + 2).\n2. Inverse: e^(−t) − e^(−2t).\n3. (b) s^2 + 4s + 13 = (s + 2)^2 + 9 and s + 3 = (s + 2) + 1.\n4. So F(s) = (s + 2)/((s + 2)^2 + 9) + (1/3)·3/((s + 2)^2 + 9).\n5. By first shifting: e^(−2t) cos 3t + (1/3) e^(−2t) sin 3t."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Solve dy/dx − 2y = 4, given y(0) = 1.",
+      "answer": "1. Linear with P = −2, Q = 4; IF = e^(−2x).\n2. y e^(−2x) = ∫ 4 e^(−2x) dx = −2 e^(−2x) + c.\n3. y = −2 + c e^(2x).\n4. y(0) = 1 → 1 = −2 + c → c = 3.\n5. y = 3e^(2x) − 2. Check: y′ − 2y = 6e^(2x) − 6e^(2x) + 4 = 4 ✓."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Solve y′ + y = 1 with y(0) = 0 using the Laplace transform.",
+      "answer": "1. Transform: sY − 0 + Y = 1/s.\n2. Y = 1/(s(s + 1)).\n3. Partial fractions: 1/(s(s + 1)) = 1/s − 1/(s + 1).\n4. Inverse: y = 1 − e^(−t).\n5. Check: y′ = e^(−t); y′ + y = e^(−t) + 1 − e^(−t) = 1, y(0) = 0 ✓. (Same shape as drug build-up during an infusion.)"
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a linear differential equation of first order and its integrating factor?",
+      "answer": "dy/dx + Py = Q where P and Q are functions of x only. Integrating factor = e^(∫P dx); the solution is y × IF = ∫ Q × IF dx + c."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Find L{t e^(−t)} and L{e^(2t) sin 3t}.",
+      "answer": "By first shifting: L{t} = 1/s^2 → L{t e^(−t)} = 1/(s + 1)^2. L{sin 3t} = 3/(s^2 + 9) → L{e^(2t) sin 3t} = 3/((s − 2)^2 + 9)."
+    }
+  ]
+}

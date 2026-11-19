@@ -1,0 +1,48 @@
+{
+  "code": "BP106RMT",
+  "title": "Remedial Mathematics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus, BP106RMT Remedial Mathematics (Theory), as published by Mohanlal Sukhadia University",
+    "url": "https://mlsu.ac.in/syllabus/pgs/BP106RMT.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Partial fractions, logarithms, functions, limits and continuity",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Matrices and determinants",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Calculus: differentiation, maxima and minima",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Analytical geometry and integration",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Differential equations and Laplace transform",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

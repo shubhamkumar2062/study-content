@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "A rational fraction P(x)/Q(x) is called proper when:",
+      "options": [
+        "degree of P(x) is less than degree of Q(x)",
+        "degree of P(x) equals degree of Q(x)",
+        "degree of P(x) is more than degree of Q(x)",
+        "Q(x) is a constant"
+      ],
+      "correct": 0,
+      "explanation": "Proper means the top has a lower degree; otherwise divide first.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The partial fraction form for (x + 4)/((x − 1)^2 (x + 3)) is:",
+      "options": [
+        "A/(x − 1)^2 + B/(x + 3)",
+        "A/(x − 1) + B/(x − 1)^2 + C/(x + 3)",
+        "A/(x − 1) + B/(x + 3)",
+        "(Ax + B)/(x − 1)^2 + C/(x + 3)"
+      ],
+      "correct": 1,
+      "explanation": "A repeated linear factor (x − 1)^2 needs one term for each power, plus one term for (x + 3).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "log_a(mn) equals:",
+      "options": [
+        "log_a m × log_a n",
+        "log_a m − log_a n",
+        "log_a m + log_a n",
+        "n log_a m"
+      ],
+      "correct": 2,
+      "explanation": "Product law: the log of a product is the sum of the logs.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The characteristic of log 0.0345 is:",
+      "options": [
+        "−1",
+        "2",
+        "−3",
+        "−2"
+      ],
+      "correct": 3,
+      "explanation": "One zero after the decimal point, so the characteristic is −(1 + 1) = −2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "ln x is related to log x (base 10) by:",
+      "options": [
+        "ln x = log x/2.303",
+        "ln x = 0.4343 log x",
+        "ln x = 2.303 log x",
+        "ln x = log x + 2.303"
+      ],
+      "correct": 2,
+      "explanation": "Change of base: ln x = log x/log e = 2.303 log x.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "If log_8 x = 2/3, then x equals:",
+      "options": [
+        "4",
+        "16/3",
+        "2",
+        "8"
+      ],
+      "correct": 0,
+      "explanation": "x = 8^(2/3) = (8^(1/3))^2 = 2^2 = 4.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "lim (x → a) (x^n − a^n)/(x − a) equals:",
+      "options": [
+        "n a^n",
+        "a^(n − 1)",
+        "(n − 1) a^n",
+        "n a^(n − 1)"
+      ],
+      "correct": 3,
+      "explanation": "This is a standard limit in the syllabus.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "lim (x → 0) sin 5x/x equals:",
+      "options": [
+        "1",
+        "5",
+        "0",
+        "1/5"
+      ],
+      "correct": 1,
+      "explanation": "sin 5x/x = 5 × (sin 5x/5x) → 5 × 1.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The domain of f(x) = √(x − 3) is:",
+      "options": [
+        "x > 0",
+        "x ≥ 3",
+        "all real numbers",
+        "x ≤ 3"
+      ],
+      "correct": 1,
+      "explanation": "The number under the square root must not be negative.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "A function f is continuous at x = a if:",
+      "options": [
+        "f(a) = 0",
+        "only the left-hand limit exists",
+        "f′(a) = 0",
+        "lim (x → a) f(x) exists and equals f(a)"
+      ],
+      "correct": 3,
+      "explanation": "Continuity needs f(a) defined, left limit = right limit, and limit = f(a).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The product AB of two matrices exists only when:",
+      "options": [
+        "columns of A = rows of B",
+        "rows of A = rows of B",
+        "A and B are both square",
+        "columns of A = columns of B"
+      ],
+      "correct": 0,
+      "explanation": "Each row of A is multiplied element by element with a column of B.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "A square matrix whose determinant is zero is called:",
+      "options": [
+        "non-singular",
+        "identity",
+        "singular",
+        "orthogonal"
+      ],
+      "correct": 2,
+      "explanation": "A singular matrix has no inverse.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "For square matrices A and B, (AB)^T equals:",
+      "options": [
+        "B^T A^T",
+        "A^T B^T",
+        "AB",
+        "A B^T"
+      ],
+      "correct": 0,
+      "explanation": "The transpose of a product reverses the order.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The inverse of a non-singular matrix A is:",
+      "options": [
+        "|A| × adj A",
+        "adj A/|A|",
+        "transpose of A",
+        "adj A × A"
+      ],
+      "correct": 1,
+      "explanation": "A·adj A = |A| I, so A^−1 = adj A/|A|.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "If two rows of a determinant are identical, its value is:",
+      "options": [
+        "one",
+        "doubled",
+        "zero",
+        "its sign changes"
+      ],
+      "correct": 2,
+      "explanation": "Identical rows (or columns) make the determinant zero.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The cofactor Cij of element aij equals:",
+      "options": [
+        "minor Mij only",
+        "(−1)^i × Mij",
+        "aij × Mij",
+        "(−1)^(i + j) × minor Mij"
+      ],
+      "correct": 3,
+      "explanation": "The cofactor is the minor with the + − sign pattern.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The Cayley–Hamilton theorem states that every square matrix:",
+      "options": [
+        "has an inverse",
+        "is symmetric",
+        "satisfies its own characteristic equation",
+        "has real characteristic roots"
+      ],
+      "correct": 2,
+      "explanation": "If λ^2 − 4λ + 3 = 0 is the characteristic equation, A^2 − 4A + 3I = O.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The characteristic equation of [2 1; 1 2] is:",
+      "options": [
+        "λ^2 − 4λ + 3 = 0",
+        "λ^2 + 4λ + 3 = 0",
+        "λ^2 − 3λ + 4 = 0",
+        "λ^2 − 4λ − 3 = 0"
+      ],
+      "correct": 0,
+      "explanation": "λ^2 − (trace)λ + |A| = 0 with trace 4 and |A| = 3.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In Cramer's rule, x equals:",
+      "options": [
+        "D/Dx",
+        "D × Dx",
+        "Dx − D",
+        "Dx/D"
+      ],
+      "correct": 3,
+      "explanation": "Dx is D with the x-column replaced by the constants; D must not be zero.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The determinant of [3 1; 5 2] is:",
+      "options": [
+        "11",
+        "1",
+        "−1",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "3 × 2 − 1 × 5 = 1.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "d/dx (x^n) equals:",
+      "options": [
+        "x^(n + 1)/(n + 1)",
+        "n x^(n − 1)",
+        "n x^n",
+        "(n − 1) x^n"
+      ],
+      "correct": 1,
+      "explanation": "Power rule, true for any rational n.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "d/dx (a^x) equals:",
+      "options": [
+        "x a^(x − 1)",
+        "a^x",
+        "a^x/ln a",
+        "a^x ln a"
+      ],
+      "correct": 3,
+      "explanation": "Only e^x is its own derivative; a^x needs the factor ln a.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "d/dx (tan x) equals:",
+      "options": [
+        "sec^2 x",
+        "−cosec^2 x",
+        "sec x tan x",
+        "cot x"
+      ],
+      "correct": 0,
+      "explanation": "Standard result; cot x gives −cosec^2 x.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The derivative of the product uv is:",
+      "options": [
+        "u′ v′",
+        "(v u′ − u v′)/v^2",
+        "u v′ + v u′",
+        "u′/v′"
+      ],
+      "correct": 2,
+      "explanation": "Product rule; the quotient rule is (v u′ − u v′)/v^2.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "d/dx (ln x/x) equals:",
+      "options": [
+        "(1 − ln x)/x^2",
+        "1/x^2",
+        "(ln x − 1)/x^2",
+        "1/(x ln x)"
+      ],
+      "correct": 0,
+      "explanation": "Quotient rule: [x(1/x) − ln x]/x^2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A function has a maximum at x = a if:",
+      "options": [
+        "f′(a) = 0 and f″(a) > 0",
+        "f′(a) = 0 and f″(a) < 0",
+        "f′(a) > 0",
+        "f″(a) = 0 only"
+      ],
+      "correct": 1,
+      "explanation": "f″(a) > 0 with f′(a) = 0 gives a minimum.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "If y = sin 2x, then d²y/dx² equals:",
+      "options": [
+        "4y",
+        "−2y",
+        "−4y",
+        "2 cos 2x"
+      ],
+      "correct": 2,
+      "explanation": "y′ = 2 cos 2x; y″ = −4 sin 2x = −4y.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "For C = C0 e^(−kt), dC/dt equals:",
+      "options": [
+        "kC",
+        "−k",
+        "C0 k",
+        "−kC"
+      ],
+      "correct": 3,
+      "explanation": "Chain rule; the rate is proportional to the concentration (first order).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "For an oral dose in a one-compartment model, tmax equals:",
+      "options": [
+        "0.693/k",
+        "ln(ka − k)/(ka/k)",
+        "ln(ka/k)/(ka − k)",
+        "1/(ka + k)"
+      ],
+      "correct": 2,
+      "explanation": "Found by setting dC/dt = 0.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "f(x) = x^3/3 − 10x^2 + 300x has:",
+      "options": [
+        "no maximum or minimum",
+        "a maximum at x = 10",
+        "a minimum at x = 10",
+        "maxima at x = 10 and 20"
+      ],
+      "correct": 0,
+      "explanation": "f′ = (x − 10)^2 + 200 is always positive, so f is always increasing.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The point (−3, 2) lies in the:",
+      "options": [
+        "first quadrant",
+        "third quadrant",
+        "fourth quadrant",
+        "second quadrant"
+      ],
+      "correct": 3,
+      "explanation": "x negative and y positive is quadrant II.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The distance between (1, 2) and (4, 6) is:",
+      "options": [
+        "7",
+        "5",
+        "√7",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "√(3^2 + 4^2) = 5.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Two lines with slopes m1 and m2 are perpendicular when:",
+      "options": [
+        "m1 = m2",
+        "m1 × m2 = −1",
+        "m1 + m2 = 0",
+        "m1 × m2 = 1"
+      ],
+      "correct": 1,
+      "explanation": "Equal slopes mean parallel lines.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The slope of the line 2x + 3y − 6 = 0 is:",
+      "options": [
+        "2/3",
+        "3/2",
+        "−3/2",
+        "−2/3"
+      ],
+      "correct": 3,
+      "explanation": "For ax + by + c = 0 the slope is −a/b.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "In a first-order kinetics plot of log C against t, the slope equals:",
+      "options": [
+        "−k/2.303",
+        "−k",
+        "k/2.303",
+        "log C0"
+      ],
+      "correct": 0,
+      "explanation": "log C = log C0 − kt/2.303 is y = mx + c.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "∫ dx/x equals:",
+      "options": [
+        "log x + c (base 10)",
+        "1/x^2 + c",
+        "ln|x| + c",
+        "−1/x^2 + c"
+      ],
+      "correct": 2,
+      "explanation": "The power rule fails for n = −1; the answer is the natural log.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "∫ dx/(x^2 − a^2) equals:",
+      "options": [
+        "(1/2a) ln|(x − a)/(x + a)| + c",
+        "(1/a) tan^−1(x/a) + c",
+        "(1/2a) ln|(a + x)/(a − x)| + c",
+        "sin^−1(x/a) + c"
+      ],
+      "correct": 0,
+      "explanation": "Split by partial fractions into (1/2a)[1/(x − a) − 1/(x + a)].",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "∫ x e^x dx equals:",
+      "options": [
+        "x e^x + e^x + c",
+        "x e^x − e^x + c",
+        "x^2 e^x/2 + c",
+        "e^x + c"
+      ],
+      "correct": 1,
+      "explanation": "Integration by parts with u = x.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "∫ (from 1 to 2) (5x^4 + 2x + 2) dx equals:",
+      "options": [
+        "40",
+        "32",
+        "36",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "[x^5 + x^2 + 2x] = 40 − 4 = 36.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "For an IV bolus C = C0 e^(−kt), AUC from 0 to ∞ is:",
+      "options": [
+        "C0 k",
+        "k/C0",
+        "0.693 C0/k",
+        "C0/k"
+      ],
+      "correct": 3,
+      "explanation": "∫ C0 e^(−kt) dt from 0 to ∞ = C0/k.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The order and degree of (d²y/dx²)^2 + (dy/dx)^3 = 0 are:",
+      "options": [
+        "order 2, degree 3",
+        "order 3, degree 2",
+        "order 2, degree 2",
+        "order 1, degree 3"
+      ],
+      "correct": 2,
+      "explanation": "Highest derivative is second order; its power is 2.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The integrating factor of dy/dx + Py = Q is:",
+      "options": [
+        "e^(∫P dx)",
+        "e^(∫Q dx)",
+        "∫P dx",
+        "e^P"
+      ],
+      "correct": 0,
+      "explanation": "Multiply by IF; then y × IF = ∫Q × IF dx + c.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "A homogeneous differential equation is solved by the substitution:",
+      "options": [
+        "y = x + v",
+        "y = e^x",
+        "x = y^2",
+        "y = vx"
+      ],
+      "correct": 3,
+      "explanation": "Then dy/dx = v + x dv/dx and the variables separate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "M dx + N dy = 0 is exact when:",
+      "options": [
+        "∂M/∂x = ∂N/∂y",
+        "∂M/∂y = ∂N/∂x",
+        "M = N",
+        "∂M/∂y = −∂N/∂x"
+      ],
+      "correct": 1,
+      "explanation": "This is the test for exactness.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The solution of dC/dt = −kC with C = C0 at t = 0 is:",
+      "options": [
+        "C = C0 − kt",
+        "C = C0 e^(−kt)",
+        "C = C0 e^(kt)",
+        "C = C0/(1 + kt)"
+      ],
+      "correct": 1,
+      "explanation": "First-order decline; C = C0 − kt is zero order.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The Laplace transform of 1 is:",
+      "options": [
+        "s",
+        "1/s^2",
+        "1",
+        "1/s"
+      ],
+      "correct": 3,
+      "explanation": "∫ e^(−st) dt from 0 to ∞ = 1/s for s > 0.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "L{e^(at)} equals:",
+      "options": [
+        "1/(s − a)",
+        "1/(s + a)",
+        "a/(s^2 + a^2)",
+        "s/(s − a)"
+      ],
+      "correct": 0,
+      "explanation": "∫ e^(−(s − a)t) dt = 1/(s − a), s > a.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "L{sin at} equals:",
+      "options": [
+        "s/(s^2 + a^2)",
+        "a/(s^2 − a^2)",
+        "a/(s^2 + a^2)",
+        "1/(s^2 + a^2)"
+      ],
+      "correct": 2,
+      "explanation": "cos at gives s/(s^2 + a^2).",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The Laplace transform of y′(t) is:",
+      "options": [
+        "sY(s) − y(0)",
+        "sY(s) + y(0)",
+        "Y(s)/s",
+        "s^2 Y(s) − y(0)"
+      ],
+      "correct": 0,
+      "explanation": "Differentiation becomes multiplication by s, minus the starting value.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "L^−1{1/((s + 1)(s + 2))} equals:",
+      "options": [
+        "e^(−t) + e^(−2t)",
+        "e^(−t) − e^(−2t)",
+        "e^t − e^(2t)",
+        "t e^(−t)"
+      ],
+      "correct": 1,
+      "explanation": "Partial fractions: 1/(s + 1) − 1/(s + 2).",
+      "probability": "medium"
+    }
+  ]
+}
