@@ -1,0 +1,48 @@
+{
+  "code": "BP702T",
+  "title": "Industrial Pharmacy II",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP702T Industrial Pharmacy II",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP702T_B.Pharma-pages-35.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Pilot plant scale-up techniques",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Technology development and transfer",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Regulatory affairs and requirements for drug approval",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Quality management systems",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Indian regulatory requirements",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "A pilot plant is best described as:",
+      "options": [
+        "The final packing hall of a factory",
+        "An intermediate stage where a laboratory formula is developed into a reliable production process",
+        "A quality control laboratory only",
+        "A warehouse for raw materials"
+      ],
+      "correct": 1,
+      "explanation": "It bridges R&D and full-scale production.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "For solid oral products, a pilot-scale batch is commonly at least:",
+      "options": [
+        "10% of the production batch or 100,000 units, whichever is larger",
+        "1% of the production batch",
+        "50% of the production batch",
+        "1,000 units"
+      ],
+      "correct": 0,
+      "explanation": "This is the FDA description used in SUPAC.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "SUPAC stands for:",
+      "options": [
+        "Standard Units for Pharmaceutical Analytical Control",
+        "Scale-Up and Product Approval Criteria",
+        "Specification Update for Pharmaceutical Active Compounds",
+        "Scale-Up and Post-Approval Changes"
+      ],
+      "correct": 3,
+      "explanation": "SUPAC guidance covers changes after approval.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "SUPAC-SS deals with:",
+      "options": [
+        "Sterile solutions",
+        "Solid oral sustained-release products",
+        "Non-sterile semisolid dosage forms",
+        "Suspensions for injection"
+      ],
+      "correct": 2,
+      "explanation": "SS = semisolids such as creams and ointments.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Under SUPAC, a Level 1 change is usually reported in:",
+      "options": [
+        "A prior approval supplement",
+        "The annual report",
+        "A new NDA",
+        "No document at all"
+      ],
+      "correct": 1,
+      "explanation": "Level 1 changes are unlikely to affect quality.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A batch-size increase beyond ten times the pilot batch under SUPAC is a:",
+      "options": [
+        "Level 2 change",
+        "Level 1 change",
+        "Level 3 change",
+        "Not a change"
+      ],
+      "correct": 0,
+      "explanation": "Up to 10× is Level 1; beyond is Level 2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Two dissolution profiles are considered similar when the f2 value is:",
+      "options": [
+        "Below 15",
+        "Between 0 and 50",
+        "Exactly 100 only",
+        "Between 50 and 100"
+      ],
+      "correct": 3,
+      "explanation": "f2 of 50–100 shows similarity.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "In wet granulation scale-up, the granulation end point in a high-shear mixer is often judged by:",
+      "options": [
+        "Colour of the granules",
+        "Room temperature",
+        "Power consumption or torque of the impeller",
+        "Weight of the empty bowl"
+      ],
+      "correct": 2,
+      "explanation": "Power or torque tracks the wet mass consistency.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Over-mixing of magnesium stearate during lubrication commonly causes:",
+      "options": [
+        "Faster disintegration",
+        "Lower tablet hardness and slower dissolution",
+        "Higher drug content",
+        "Better flow only"
+      ],
+      "correct": 1,
+      "explanation": "A hydrophobic film forms on particles.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "An example of a platform technology is:",
+      "options": [
+        "An osmotic pump tablet design used for several drugs",
+        "A single batch record",
+        "A raw-material specification",
+        "A cleaning SOP"
+      ],
+      "correct": 0,
+      "explanation": "Platforms are reusable systems applied to many products.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The WHO guideline on transfer of technology in pharmaceutical manufacturing appears in:",
+      "options": [
+        "WHO Technical Report Series 961, Annex 7",
+        "ICH Q1A",
+        "Schedule M",
+        "21 CFR Part 211"
+      ],
+      "correct": 0,
+      "explanation": "Published by WHO in 2011.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "In technology transfer, the unit that holds and sends the technology is called the:",
+      "options": [
+        "Receiving unit",
+        "Licensing unit",
+        "Testing unit",
+        "Sending unit"
+      ],
+      "correct": 3,
+      "explanation": "SU sends; RU receives.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "A comparison of SU and RU facilities, equipment and procedures to find differences is a:",
+      "options": [
+        "Stability study",
+        "Bioequivalence study",
+        "Gap analysis",
+        "Market survey"
+      ],
+      "correct": 2,
+      "explanation": "Gaps are then risk-assessed.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which is NOT an approach to analytical method transfer?",
+      "options": [
+        "Comparative testing",
+        "Accelerated stability testing",
+        "Co-validation",
+        "Transfer waiver"
+      ],
+      "correct": 1,
+      "explanation": "Stability testing is not a method-transfer approach.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "NRDC was set up in:",
+      "options": [
+        "1953",
+        "1940",
+        "1988",
+        "2019"
+      ],
+      "correct": 0,
+      "explanation": "National Research Development Corporation, under DSIR.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "TIFAC functions under the:",
+      "options": [
+        "Ministry of Health and Family Welfare",
+        "Department of Pharmaceuticals",
+        "Reserve Bank of India",
+        "Department of Science and Technology"
+      ],
+      "correct": 3,
+      "explanation": "TIFAC is an autonomous body under DST.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "BCIL is mainly concerned with transfer of:",
+      "options": [
+        "Textile technology",
+        "Space technology",
+        "Biotechnology",
+        "Banking software"
+      ],
+      "correct": 2,
+      "explanation": "Biotech Consortium India Limited, promoted by DBT.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A document signed before sharing secret technical information is a:",
+      "options": [
+        "Batch record",
+        "Confidentiality agreement",
+        "Certificate of analysis",
+        "Purchase order"
+      ],
+      "correct": 1,
+      "explanation": "It protects the shared know-how.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "A royalty is most typically paid under a:",
+      "options": [
+        "Licensing agreement",
+        "Confidentiality agreement",
+        "Change control form",
+        "Stability protocol"
+      ],
+      "correct": 0,
+      "explanation": "Licensees pay royalties on sales.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "A tool commonly used for risk assessment in technology transfer is:",
+      "options": [
+        "Karl Fischer titration",
+        "HPLC",
+        "Dissolution testing",
+        "FMEA"
+      ],
+      "correct": 3,
+      "explanation": "Failure mode and effects analysis scores risks.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The 1938 US Food, Drug and Cosmetic Act followed deaths from:",
+      "options": [
+        "Thalidomide",
+        "Penicillin allergy",
+        "Contaminated vaccines",
+        "Sulfanilamide elixir made with diethylene glycol"
+      ],
+      "correct": 3,
+      "explanation": "It made proof of safety mandatory.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The Kefauver–Harris Amendments of 1962 required proof of:",
+      "options": [
+        "Low price",
+        "Patent ownership",
+        "Efficacy in addition to safety",
+        "Only labelling accuracy"
+      ],
+      "correct": 2,
+      "explanation": "Passed after the thalidomide tragedy.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The ANDA route for generic drugs in the USA was created by the:",
+      "options": [
+        "Pure Food and Drugs Act 1906",
+        "Hatch–Waxman Act 1984",
+        "FD&C Act 1938",
+        "Drugs and Cosmetics Act 1940"
+      ],
+      "correct": 1,
+      "explanation": "ANDA relies on bioequivalence.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Under US rules, a clinical trial under a new IND may begin if FDA does not impose a clinical hold within:",
+      "options": [
+        "30 days",
+        "7 days",
+        "90 days",
+        "1 year"
+      ],
+      "correct": 0,
+      "explanation": "The sponsor waits 30 days after submission.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The Investigator's Brochure mainly contains:",
+      "options": [
+        "Sales targets",
+        "Manufacturing equipment drawings only",
+        "Advertising material",
+        "Clinical and non-clinical data on the investigational product"
+      ],
+      "correct": 3,
+      "explanation": "It helps investigators run the trial safely.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A 505(j) application in the USA is a(n):",
+      "options": [
+        "Full NDA for a new molecule",
+        "Biologics licence application",
+        "Abbreviated New Drug Application for a generic",
+        "Investigational New Drug application"
+      ],
+      "correct": 2,
+      "explanation": "505(j) = ANDA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Phase I clinical trials usually aim to study:",
+      "options": [
+        "Long-term marketing data",
+        "Safety, tolerability and pharmacokinetics",
+        "Large-scale confirmation of efficacy",
+        "Price comparison"
+      ],
+      "correct": 1,
+      "explanation": "Phase I is first-in-human.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "In bioequivalence, the 90% confidence interval of the geometric mean ratio should lie within:",
+      "options": [
+        "80.00–125.00%",
+        "50–150%",
+        "90–110%",
+        "95–105%"
+      ],
+      "correct": 0,
+      "explanation": "Applies to AUC and Cmax.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The probability of rejecting a true null hypothesis is the:",
+      "options": [
+        "Type II error (β)",
+        "Power",
+        "Standard deviation",
+        "Type I error (α)"
+      ],
+      "correct": 3,
+      "explanation": "Usually set at 0.05.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The safety pharmacology core battery covers:",
+      "options": [
+        "Skin, hair and nails",
+        "Liver enzymes only",
+        "Cardiovascular, central nervous and respiratory systems",
+        "Bone and muscle only"
+      ],
+      "correct": 2,
+      "explanation": "These vital systems are tested before human use.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "'Fitness for use' as a definition of quality was given by:",
+      "options": [
+        "Crosby",
+        "Deming",
+        "Juran",
+        "Ishikawa"
+      ],
+      "correct": 2,
+      "explanation": "Crosby defined quality as conformance to requirements.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The Deming cycle is:",
+      "options": [
+        "Define–Measure–Analyse–Improve–Control",
+        "Plan–Do–Check–Act",
+        "Plan–Make–Sell–Review",
+        "Test–Release–Recall–Repeat"
+      ],
+      "correct": 1,
+      "explanation": "PDCA drives continual improvement.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "QbD is described in ICH guideline:",
+      "options": [
+        "Q8(R2)",
+        "E6",
+        "M4",
+        "S2"
+      ],
+      "correct": 0,
+      "explanation": "Q8(R2) covers pharmaceutical development.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "A process at the six sigma level gives about:",
+      "options": [
+        "66,800 defects per million",
+        "1 defect per hundred",
+        "Zero variation",
+        "3.4 defects per million opportunities"
+      ],
+      "correct": 3,
+      "explanation": "This allows a 1.5σ shift.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The first phase of an OOS investigation is the:",
+      "options": [
+        "Product recall",
+        "Full-scale production investigation",
+        "Laboratory investigation",
+        "Annual product review"
+      ],
+      "correct": 2,
+      "explanation": "Phase I looks for an assignable laboratory error.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Retesting a sample until a passing result is obtained is called:",
+      "options": [
+        "Method validation",
+        "Testing into compliance",
+        "Change control",
+        "Trend analysis"
+      ],
+      "correct": 1,
+      "explanation": "It is not permitted.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Which ISO standard gives the requirements used for QMS certification?",
+      "options": [
+        "ISO 9001",
+        "ISO 9000",
+        "ISO 19011",
+        "ISO 14001"
+      ],
+      "correct": 0,
+      "explanation": "ISO 9000 is vocabulary; ISO 14001 is environmental.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "ISO 14001 deals with:",
+      "options": [
+        "Laboratory competence",
+        "Medical devices",
+        "Food safety",
+        "Environmental management systems"
+      ],
+      "correct": 3,
+      "explanation": "It is part of the ISO 14000 family.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "NABL accredits testing and calibration laboratories against:",
+      "options": [
+        "ISO 9004",
+        "ISO 14001",
+        "ISO/IEC 17025",
+        "ICH Q10"
+      ],
+      "correct": 2,
+      "explanation": "Medical labs use ISO 15189.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "In GLP, the single point of control for a study is the:",
+      "options": [
+        "Marketing manager",
+        "Study director",
+        "Store keeper",
+        "Sales representative"
+      ],
+      "correct": 1,
+      "explanation": "An independent QA unit also inspects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "CDSCO functions under the:",
+      "options": [
+        "Ministry of Commerce",
+        "Directorate General of Health Services, Ministry of Health and Family Welfare",
+        "Department of Science and Technology",
+        "Ministry of Chemicals and Fertilizers"
+      ],
+      "correct": 1,
+      "explanation": "It is India's national regulatory authority.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "CDSCO is headed by the:",
+      "options": [
+        "Drugs Controller General of India",
+        "Secretary, Department of Pharmaceuticals",
+        "State Drugs Controller",
+        "Chairman, NPPA"
+      ],
+      "correct": 0,
+      "explanation": "The DCGI is the Central Licensing Authority.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Licences for retail sale of drugs are granted by the:",
+      "options": [
+        "CDSCO headquarters",
+        "WHO",
+        "ICH",
+        "State Licensing Authority"
+      ],
+      "correct": 3,
+      "explanation": "Sale licensing is a state function.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The CTD format was developed by:",
+      "options": [
+        "WHO",
+        "OECD",
+        "ICH",
+        "ISO"
+      ],
+      "correct": 2,
+      "explanation": "ICH guideline M4.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In the CTD, quality data are placed in:",
+      "options": [
+        "Module 1",
+        "Module 3",
+        "Module 2",
+        "Module 5"
+      ],
+      "correct": 1,
+      "explanation": "Module 3 holds drug substance and product data.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Module 1 of the CTD contains:",
+      "options": [
+        "Regional administrative information",
+        "Clinical study reports",
+        "Non-clinical study reports",
+        "Quality overall summary"
+      ],
+      "correct": 0,
+      "explanation": "It is country-specific and not harmonised.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "A COPP follows the format of the:",
+      "options": [
+        "ISO 9001",
+        "OECD GLP",
+        "US FDA 505(b)(2)",
+        "WHO Certification Scheme"
+      ],
+      "correct": 3,
+      "explanation": "It supports registration in importing countries.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Under the NDCT Rules 2019, the application for permission to conduct a clinical trial of a new drug is made in Form:",
+      "options": [
+        "CT-18",
+        "CT-21",
+        "CT-04",
+        "CT-01"
+      ],
+      "correct": 2,
+      "explanation": "Permission is granted in Form CT-06.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "An application to manufacture a new drug formulation for sale or distribution is made in Form:",
+      "options": [
+        "CT-04",
+        "CT-21",
+        "CT-06",
+        "CT-01"
+      ],
+      "correct": 1,
+      "explanation": "CT-18 is for import.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "For a drug discovered and developed in India, the NDCT Rules 2019 set a clinical trial decision time of:",
+      "options": [
+        "30 working days",
+        "7 working days",
+        "180 working days",
+        "1 year"
+      ],
+      "correct": 0,
+      "explanation": "Other trials: 90 working days.",
+      "probability": "medium"
+    }
+  ]
+}

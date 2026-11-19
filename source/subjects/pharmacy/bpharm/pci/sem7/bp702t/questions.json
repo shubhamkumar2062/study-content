@@ -1,0 +1,464 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define pilot plant and scale-up. Discuss the objectives and general considerations (personnel, space, raw materials and other requirements) of a pilot plant.",
+      "answer": "1. Pilot plant: part of the industry where a laboratory formula is turned into a viable product by developing a reliable, practical and economical procedure on equipment similar to production machines. Scale-up: increasing batch size (lab → pilot → production) while keeping quality the same.\n2. Objectives: try the process on production-type equipment; find critical variables and set limits; make batches for clinical, stability and regulatory use; write master manufacturing procedures; test commercial raw materials; train staff; estimate cost and yield.\n3. Reporting responsibility: works between R&D and production with QA, QC, engineering and regulatory affairs.\n4. Personnel: knowledge of pharmaceutics, chemistry and engineering, hands-on experience with machines, communication and report writing, GMP and validation knowledge.\n5. Space: administration and information processing; physical testing area; standard equipment floor with utilities; storage areas for approved, quarantined, in-process and finished material.\n6. Review of formula: reason, grade, supplier and quantity of each ingredient, order of addition.\n7. Raw materials: test lots from commercial suppliers; particle size, density, moisture and polymorphic form may differ from lab lots; set specifications and qualify suppliers.\n8. Equipment: economical, easy to clean, same principle as production.\n9. Production rate: decided by market demand.\n10. Process evaluation: order and time of mixing, rate of addition of fluids, heating/cooling rates, screen and filter size, drying temperature and time.\n11. Master manufacturing procedures, stability and uniformity of pilot batches, and GMP (qualification, validation, cleaning, documentation).\n12. Significance: prevents costly production failures and gives data for validation and regulatory filing."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the pilot plant scale-up considerations for solid dosage forms (tablets and capsules). Add a note on relevant documentation.",
+      "answer": "1. Material handling: manual at lab scale, bins and vacuum/gravity transfer at large scale; watch dust and segregation.\n2. Dry blending: blender type, fill volume, speed and time; blend uniformity with sampling thief; over-mixing can demix.\n3. Wet granulation: high-shear mixer impeller and chopper speed, amount and rate of fluid, end point by power consumption or torque. Dry granulation: roll pressure and gap.\n4. Drying: tray vs fluid bed dryer; inlet temperature, airflow, load, time; loss on drying end point.\n5. Milling: mill type, screen size and speed decide granule size distribution, flow and weight variation.\n6. Lubrication: magnesium stearate mixing time is critical; over-mixing lowers hardness and slows dissolution.\n7. Compression: high-speed rotary press with short dwell time, forced feeders, tooling, precompression; capping and sticking may appear only at speed.\n8. Coating: pan size and speed, spray rate, atomising air, inlet temperature, number of guns, load.\n9. Capsule filling: from hand filling to dosator or tamping machines; powder flow and plug formation must suit the machine.\n10. Documentation: master formula record, batch manufacturing records, scale-up/development report, specifications for raw materials, in-process and finished product, SOPs for equipment, process validation protocol and report, stability protocol and data, change control records.\n11. Conclude with a flow chart: weigh → mix → granulate → dry → mill → lubricate → compress → coat, showing the parameter checked at each step."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is SUPAC? Explain the types and levels of changes covered by SUPAC guidelines and the tests required.",
+      "answer": "1. SUPAC = Scale-Up and Post-Approval Changes; US FDA guidance on what tests and filings are needed when an approved product is changed, so that quality and performance stay the same.\n2. Family: SUPAC-IR (immediate-release solid orals), SUPAC-MR (modified-release solid orals), SUPAC-SS (non-sterile semisolids); plus an equipment addendum classifying equipment by design and operating principle.\n3. Types of change: components and composition; site of manufacture; batch size (scale-up/down); manufacturing equipment; manufacturing process.\n4. Level 1: unlikely to affect quality or performance; reported in the annual report. Example: batch size up to 10× the pilot/bio-batch with equipment of the same design; small excipient change within set limits; site move within the same facility.\n5. Level 2: could have a significant effect; filed as a supplement. Example: batch size beyond 10×; equipment of different design and principle; larger excipient change; site within the same campus.\n6. Level 3: likely significant effect; prior approval supplement. Example: site to a different campus; large excipient change or change in excipient type.\n7. Tests: stability (accelerated and long-term data), dissolution profile comparison (single point or multipoint in one or several media), f2 similarity factor 50–100 for similarity, in vivo bioequivalence for some Level 3 changes; depth depends on level and BCS class.\n8. Indian manufacturers follow SUPAC for US-market products; for India, post-approval changes follow CDSCO rules."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on space requirements of a pilot plant.",
+      "answer": "1. Administration and information processing area: offices, records, data handling, report writing.\n2. Physical testing area: in-process and finished-product tests (hardness, friability, viscosity, particle size, moisture).\n3. Standard pilot-plant equipment floor: production-type machines (mixers, granulators, dryers, presses, coaters, liquid tanks) with room to clean, move and change equipment; utilities such as purified water, compressed air, steam, dust extraction and HVAC.\n4. Storage area: separate, labelled zones for approved raw materials, quarantined material, in-process material and finished pilot batches, with controlled temperature and humidity where needed.\n5. Space should be flexible and GMP-compliant so new trials can be set up quickly."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss scale-up considerations for liquid oral dosage forms.",
+      "answer": "1. Equipment: jacketed stainless-steel tanks, suitable agitators, homogenisers or colloid mills, filters, pumps, filling machines.\n2. Mixing: agitator type, speed and position change with tank size; complete dissolution or wetting without trapping air.\n3. Order of addition and temperature: e.g. sugar dissolved hot, preservative added at the correct temperature, flavour added after cooling.\n4. Heating and cooling take longer in large tanks; risk of degradation and microbial growth.\n5. Filtration: filter area and type, pressure, clarity; filter must not adsorb preservative.\n6. Suspensions: particle size, wetting, viscosity, sedimentation volume, redispersibility; emulsions: phase temperatures, rate of addition, homogenisation pressure, globule size.\n7. Checks: appearance, pH, viscosity, specific gravity, taste, microbial limits, preservative efficacy, fill volume and foaming."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the scale-up considerations for semisolid dosage forms.",
+      "answer": "1. Mixing vessels: jacketed, with anchor/scraper agitator plus high-shear homogeniser; vacuum to avoid air.\n2. Heating and cooling rates: melting of fatty phase, temperature at which phases are mixed and cooling rate decide consistency and crystal formation.\n3. Shear and mixing time: too much may break gel structure; too little gives lumps and uneven drug content.\n4. Drug incorporation: dissolved or dispersed; control particle size by milling or levigation.\n5. Transfer: suitable pumps and pipes for viscous mass; avoid air pockets.\n6. Filling into tubes or jars at a suitable temperature.\n7. Tests: appearance, homogeneity, viscosity/rheology, spreadability, pH, content uniformity and stability under heat and cold."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is platform technology? Give examples, advantages and limitations.",
+      "answer": "1. Definition: a proven, reusable delivery or manufacturing system that can be applied to many drugs with only small changes.\n2. Examples: osmotic pump (OROS-type) tablets; HPMC matrix tablets; liposomes and nanoparticles; hot-melt extrusion solid dispersions; orally disintegrating tablet technologies; prefilled syringes and inhalers; monoclonal antibody manufacturing platform; mRNA vaccine platform.\n3. Advantages: shorter development time and cost; reuse of knowledge, equipment and validated processes; lower risk; easier regulatory review and technology transfer.\n4. Limitations: not every drug suits the platform; patents may restrict use; each product still needs its own quality, safety and efficacy data."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the process parameters evaluated in a pilot plant and the contents of a master manufacturing procedure.",
+      "answer": "1. Process parameters: order of mixing; mixing speed and time; rate of addition of granulating fluid, solvent or drug solution; heating and cooling rates; screen and filter size; drying temperature and time.\n2. Master manufacturing procedure: product name, strength, batch size; weighing sheet with each ingredient, quantity and lot number; equipment and settings; step-by-step processing directions; in-process checks with limits; sampling instructions; yield limits; signatures of operator and checker.\n3. These documents ensure the process is repeatable at production scale."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define scale-up and scale-down.",
+      "answer": "Scale-up is increasing the batch size from laboratory to pilot to production while keeping product quality the same. Scale-down is decreasing the batch size, for example for a small market or to study a production problem."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is the f2 similarity factor?",
+      "answer": "f2 compares two dissolution profiles (for example before and after a change); a value between 50 and 100 shows the profiles are similar."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define technology transfer. Describe the WHO guidelines for technology transfer with terminology and the steps of transfer from R&D to production.",
+      "answer": "1. Definition: a logical procedure that controls the transfer of a process, its documents and expertise between development and manufacture or between sites. WHO guideline: TRS 961, Annex 7 (2011).\n2. Terms: sending unit (SU), receiving unit (RU), TT team, protocol, report, gap analysis, CQA, CPP, design space, acceptance criteria, QRM, commissioning.\n3. Principles: planned and approved; RU capable; acceptance criteria agreed in advance; differences assessed for risk; transfer complete only when RU proves it meets specifications.\n4. Steps: form team → gap analysis and risk assessment → approve protocol → transfer documents and knowledge → train RU staff → transfer analytical methods → trial batches → validation batches → stability → TT report → regulatory filing → routine production.\n5. Process transfer: development report, master formula, critical parameters with ranges, in-process controls, batch records, stability, known problems.\n6. Packaging transfer: specifications of primary and secondary packaging, compatibility and stability in the pack, special needs (desiccant, light protection).\n7. Cleaning transfer: solubility, toxicity, potency for residue limits, cleaning agents and procedures, residue test methods; RU validates its own cleaning.\n8. Premises and equipment: GMP-compliant, matched to SU or justified; qualification (DQ, IQ, OQ, PQ) and validation (process, cleaning, method).\n9. QC: analytical method transfer; documentation controlled under QMS."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a technology transfer protocol? Explain the granularity of the TT process and analytical method transfer.",
+      "answer": "1. Protocol: written plan approved by SU, RU and QA of both, describing how the transfer will be done and judged.\n2. Contents: objective and scope; key personnel and responsibilities; description of product, process and methods; comparison of materials, equipment and facilities (gap analysis); risk assessment; training; number and size of trial and validation batches; sampling and tests; acceptance criteria; documents to be handed over; timeline; deviation handling.\n3. Granularity = breaking the transfer into parts: API (route or supplier, specification, particle size, polymorph, solubility, stability, hazards, impurity profile); excipients (grade, supplier, functional properties such as HPMC viscosity grade or lactose particle size); finished product (formula, process flow, critical parameters, specifications, stability); packaging materials (specifications, drawings, suppliers, protection data).\n4. Analytical method transfer: documented process showing the receiving laboratory can use a validated method.\n5. Approaches: comparative testing (both labs test same lots); co-validation (RU takes part in validation); full or partial revalidation; transfer waiver (justified, e.g. a pharmacopoeial method already used).\n6. Protocol for method transfer: method, samples, replicates, acceptance criteria, equivalence of reference standards, reagents, columns and instruments, investigation of failures.\n7. Conclude: TT report records results and confirms success."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss commercialisation of a technology with practical aspects and problems. Write a note on TT agencies in India.",
+      "answer": "1. Commercialisation: taking a technology from the laboratory to the market and earning from it.\n2. Practical aspects: market survey; cost and pricing; scale-up and TT; regulatory approval in each market; IP protection and licensing; funding, partners, distribution.\n3. Problems: scale-up failure (e.g. weight variation at high press speed); equipment differences between sites; raw-material variation from a new supplier; incomplete transfer of tacit know-how; analytical mismatch; regulatory delays; cost overrun; IP disputes.\n4. Case examples: capping solved by precompression and limited press speed; low assay at RU traced to shorter sonication; slower dissolution traced to finer lactose, fixed by tightening particle size specification.\n5. APCTD/APCTT: Asian and Pacific Centre for Transfer of Technology, a regional institution of UN-ESCAP in New Delhi; capacity building and technology information for the region.\n6. NRDC: National Research Development Corporation (1953, under DSIR); licenses technologies from national laboratories and universities to industry.\n7. TIFAC: Technology Information, Forecasting and Assessment Council (1988, under DST); technology forecasting and technology-led projects.\n8. BCIL: Biotech Consortium India Limited, promoted by DBT; biotechnology transfer, licensing, consultancy.\n9. TBSE/SIDBI: Technology Bureau for Small Enterprises with SIDBI; helps small enterprises find technology, partners and finance."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on TT-related documentation: confidentiality agreement, MoU and licensing agreement.",
+      "answer": "1. Confidentiality (non-disclosure) agreement: signed before sharing secrets; defines confidential information, permitted users and purpose, duration, return or destruction of information.\n2. MoU: records intention to cooperate and broad terms (scope, responsibilities, timelines); usually less binding than a contract.\n3. Licensing agreement: licensor allows licensee to use technology; terms: field and territory, exclusive or non-exclusive, duration and termination, payments (lump sum, milestones, royalties), ownership of improvements, quality obligations and audits, confidentiality.\n4. TT and quality agreements: what is transferred, who files with regulators, GMP responsibilities.\n5. Legal issues: patents, know-how, product liability, dispute resolution."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the role of quality risk management in technology transfer.",
+      "answer": "1. QRM (ICH Q9): systematic assessment, control, communication and review of risks to quality.\n2. Risk assessment = identification, analysis, evaluation; risk control = reduce or accept with justification; communication and review as data come.\n3. Tools: FMEA, fishbone diagram, fault tree, HACCP, risk ranking.\n4. TT risks: different excipient grade, different equipment design, water quality, operator experience, analytical differences.\n5. Each risk is scored for severity, probability and detectability and given a control: extra tests, more trial batches, training or equipment change.\n6. Result: fewer failures and documented justification for the regulator."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on NRDC and TIFAC.",
+      "answer": "1. NRDC: National Research Development Corporation, set up in 1953, under the Department of Scientific and Industrial Research. Licenses technologies from CSIR laboratories, other national laboratories and universities to industry; helps with patents, techno-commercial evaluation and commercialisation; supports inventors.\n2. TIFAC: Technology Information, Forecasting and Assessment Council, an autonomous body under the Department of Science and Technology, set up in 1988. Assesses technology trends, prepares technology vision and forecasting reports, supports technology-led projects with industry and academia, and maintains technology information.\n3. Both bridge research and industry, a key step in technology transfer in India."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss premises, equipment, qualification and validation in technology transfer.",
+      "answer": "1. Premises: RU facility must meet GMP and product needs (humidity control, containment for potent drugs, clean rooms for sterile products).\n2. Equipment: compare with SU — same principle and capacity or differences justified; list of SU equipment with make, model and settings helps.\n3. Qualification: DQ, IQ, OQ, PQ of equipment and utilities.\n4. Process validation: consistent quality at commercial scale; traditionally three consecutive batches; life-cycle approach (design, qualification, continued verification).\n5. Cleaning validation and analytical method validation.\n6. Order: equipment qualified and methods transferred before validation batches."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the transfer of packaging and cleaning from R&D to production.",
+      "answer": "1. Packaging: SU gives specifications of primary and secondary packaging (container, closure, blister film, foil), design and drawings, compatibility and stability data in the pack, special needs (desiccant, light protection, child-resistant closure). RU checks its packaging line and qualifies suppliers.\n2. Cleaning: SU gives solubility of the product, toxicity and potency data for residue limits, cleaning agents, procedures and validated residue methods. RU writes and validates its own cleaning procedure, considering other products on shared equipment.\n3. Both are documented in the TT protocol and report."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are sending unit and receiving unit in technology transfer?",
+      "answer": "The sending unit is the site or party that holds the technology and transfers it; the receiving unit is the site or party that receives it and will manufacture the product."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Expand APCTD, NRDC, TIFAC and BCIL.",
+      "answer": "APCTD: Asian and Pacific Centre for Transfer of Technology (now APCTT); NRDC: National Research Development Corporation; TIFAC: Technology Information, Forecasting and Assessment Council; BCIL: Biotech Consortium India Limited."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define regulatory affairs. Give a historical overview and explain the role of the regulatory affairs department and responsibilities of RA professionals.",
+      "answer": "1. Definition: function ensuring a company's products and activities comply with laws and guidelines of every country where it operates, from development to post-marketing.\n2. History: 1906 Pure Food and Drugs Act (adulteration, misbranding); 1938 FD&C Act after sulfanilamide elixir with diethylene glycol (safety proof); 1962 Kefauver–Harris Amendments after thalidomide (efficacy proof, informed consent, GMP); 1964 Declaration of Helsinki; 1984 Hatch–Waxman (ANDA); 1990 ICH; 1995 EMA. India: D&C Act 1940, Rules 1945, Pharmacy Act 1948, NDCT Rules 2019.\n3. Regulatory authorities: CDSCO (India), FDA (USA), EMA (EU), MHRA (UK), PMDA (Japan), TGA (Australia), Health Canada, WHO and ICH.\n4. Role of RA department: regulatory strategy; dossier preparation (CTD/eCTD); submission and follow-up of queries; labelling; life-cycle management (variations, renewals); compliance support during inspections; regulatory intelligence; training.\n5. Responsibilities of RA professional: know current rules; plan and track submissions; ensure complete, consistent data; write summaries and responses; maintain records; review change controls, labels and promotions; communicate honestly with regulators; support pharmacovigilance.\n6. Skills: science, detail, writing, negotiation, project management."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is an IND? Describe its types and contents. Add a note on the Investigator's Brochure.",
+      "answer": "1. IND: application to US FDA for permission to give an unapproved drug to humans in clinical trials (21 CFR 312).\n2. Types: investigator IND; emergency use IND; treatment IND; commercial IND.\n3. Contents: Form FDA 1571 and table of contents; introductory statement and investigational plan; Investigator's Brochure; clinical protocols; CMC information; pharmacology and toxicology data; previous human experience; Form FDA 1572 statement of investigator.\n4. Process: trial may start if no clinical hold within 30 days; then protocol and information amendments, safety reports and annual reports.\n5. Investigator's Brochure: compilation of clinical and non-clinical data relevant to studying the product in humans (ICH E6).\n6. IB contents: title page and confidentiality statement; summary; introduction; physical, chemical, pharmaceutical properties and formulation; non-clinical pharmacology, PK and toxicology; effects in humans; summary and guidance for investigator (risks, expected reactions, precautions).\n7. IB reviewed at least yearly and updated with new information."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the New Drug Application (NDA) with its types and contents. Describe the phases of clinical trials.",
+      "answer": "1. NDA: application to US FDA to approve a new drug for marketing, showing safety, efficacy, favourable benefit–risk, proper labelling and adequate manufacturing controls (21 CFR 314; Form FDA 356h).\n2. Routes: 505(b)(1) full NDA; 505(b)(2) relying partly on published data or earlier findings; 505(j) ANDA for generics with bioequivalence; BLA for biologics.\n3. Contents (CTD): administrative forms and labelling; summaries; CMC; non-clinical reports; human PK and bioavailability; clinical reports and statistics; patent and financial disclosure; samples, method validation package, case report tabulations.\n4. Review: filing check, discipline reviews, site inspections, advisory committee if needed, approval or complete response letter.\n5. Phase 0: microdose, early PK.\n6. Phase I: healthy volunteers (patients for toxic drugs), small numbers; safety, tolerability, PK, dose range.\n7. Phase II: a few hundred patients; efficacy and dose finding.\n8. Phase III: large multicentre trials; confirm efficacy and safety against placebo or standard.\n9. Phase IV: after approval; post-marketing surveillance, rare adverse effects, new uses."
+    },
+    {
+      "id": "u3-l04",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss non-clinical drug development: pharmacology, drug metabolism and toxicology studies.",
+      "answer": "1. Non-clinical studies are done in vitro and in animals under GLP before and during human trials.\n2. Pharmacology: primary pharmacodynamics (target and disease models); secondary pharmacodynamics; safety pharmacology core battery — cardiovascular (including QT/hERG), CNS, respiratory.\n3. Drug metabolism and PK: ADME in animal species; metabolic pathways, CYP enzymes, induction/inhibition; protein binding; tissue distribution; toxicokinetics linking exposure to toxicity.\n4. Toxicology: single-dose (acute); repeated-dose (subacute, subchronic, chronic) to find target organs and NOAEL; genotoxicity (Ames, chromosomal aberration, micronucleus); carcinogenicity for long-term drugs; reproductive and developmental toxicity; local tolerance; immunotoxicity where needed.\n5. Use: safe starting dose in humans, what to monitor, supports IND/CT application."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the contents of a clinical research protocol.",
+      "answer": "1. Title, protocol number, version, date, sponsor, investigators.\n2. Background and rationale.\n3. Objectives and endpoints (primary, secondary).\n4. Design: randomisation, blinding, control, parallel or crossover.\n5. Subjects: inclusion, exclusion, withdrawal criteria.\n6. Treatment: dose, route, duration, concomitant medicines.\n7. Efficacy and safety assessments; visit schedule.\n8. Adverse event recording and reporting.\n9. Statistics: sample size, analysis plan, missing data.\n10. Data handling, quality control, audit; ethics committee approval and informed consent; finance, insurance, publication."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain bioequivalence studies.",
+      "answer": "1. Bioavailability: rate and extent of absorption of active drug. Bioequivalence: no significant difference in rate and extent between two pharmaceutically equivalent products at the same molar dose.\n2. Design: healthy volunteers with consent; randomised two-period, two-sequence crossover; single dose; washout of at least about five half-lives.\n3. Blood sampling at planned times; validated bioanalytical method.\n4. Parameters: Cmax, Tmax, AUC0–t, AUC0–∞.\n5. Acceptance: 90% CI of test/reference geometric mean ratio for AUC and Cmax within 80.00–125.00%.\n6. Uses: generic approval (ANDA), post-approval changes."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the role of biostatistics in pharmaceutical product development.",
+      "answer": "1. Formulation: design of experiments (factorial, response surface).\n2. Quality control: sampling plans, control charts, process capability.\n3. Stability: regression to estimate shelf life.\n4. BE: ANOVA, log transformation, 90% CI.\n5. Clinical trials: sample size and power, randomisation, hypothesis tests.\n6. Terms: H0 and H1; type I error α (usually 0.05); type II error β; power 1 − β (80–90%); p-value; confidence interval; t-test, ANOVA, chi-square; intention-to-treat analysis."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on data presentation for FDA submissions.",
+      "answer": "1. Electronic submission in eCTD structure.\n2. Clinical study reports in ICH E3 format.\n3. Data sets in CDISC standards: SDTM (collected data) and ADaM (analysis data) so reviewers can re-analyse.\n4. Tables, listings and figures: demographics, efficacy with CIs, adverse events, laboratory shifts, Kaplan–Meier and forest plots.\n5. Integrated summaries of safety and efficacy.\n6. Clear, consistent, traceable to raw data, honest about missing data and deviations."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain management of clinical studies with roles of sponsor, investigator, ethics committee and monitor.",
+      "answer": "1. Sponsor: starts, funds, manages, monitors, reports safety; may use a CRO.\n2. Investigator: conducts trial at site, obtains consent, protects subjects, keeps records.\n3. Ethics committee: approves protocol and consent; monitors safety.\n4. Monitor (CRA): site visits, source data verification, GCP compliance.\n5. Regulator: permission and inspection.\n6. Flow: site selection → approvals → training → initiation → recruitment and consent → treatment and CRF data → monitoring → SAE reporting → database lock → analysis → study report → archiving.\n7. Controls: drug accountability, randomisation codes, audit trails, deviation records."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate IND and NDA.",
+      "answer": "An IND asks the FDA for permission to test an unapproved drug in humans; an NDA asks for approval to market the drug after trials show it is safe and effective."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the acceptance range for bioequivalence?",
+      "answer": "The 90% confidence interval of the test/reference ratio of geometric means of AUC and Cmax should lie within 80.00–125.00%."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain Quality by Design (QbD) with its elements and advantages.",
+      "answer": "1. Definition (ICH Q8(R2)): systematic approach to development starting with predefined objectives, emphasising product and process understanding and control, based on science and quality risk management.\n2. Contrast: traditional quality by testing vs building quality in.\n3. QTPP: summary of desired quality characteristics (dosage form, strength, release, shelf life).\n4. CQAs: properties that must be within limits (assay, content uniformity, dissolution, impurities).\n5. CMAs and CPPs: material properties and process settings affecting CQAs (API particle size, granulation water, drying temperature, compression force).\n6. Risk assessment (ICH Q9): FMEA, fishbone to link inputs with CQAs.\n7. Design of experiments: factorial studies of factors and interactions.\n8. Design space: multidimensional range of inputs proven to give quality; movement within it is not treated as a change by regulators that accept it.\n9. Control strategy: specs, in-process controls, PAT, release tests.\n10. Life-cycle management and continual improvement; ICH Q10 quality system.\n11. Flow chart: QTPP → CQA → risk assessment → DoE → design space → control strategy → life cycle.\n12. Advantages: better understanding, fewer failures, flexibility, efficient review, continual improvement."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define Total Quality Management. Discuss its principles, tools, benefits and barriers.",
+      "answer": "1. Concept of quality: fitness for use (Juran), conformance to requirements (Crosby); QM ⊃ QA ⊃ GMP ⊃ QC.\n2. TQM: management approach in which everyone continuously improves processes, products, services and culture for long-term customer satisfaction.\n3. Principles: customer focus; total employee involvement; process-centred approach; integrated system; strategic approach; continual improvement (kaizen); fact-based decisions; communication.\n4. PDCA cycle: Plan → Do → Check → Act (draw cycle).\n5. Seven basic tools: check sheet, histogram, Pareto chart, fishbone diagram, scatter diagram, control chart, flow chart/stratification.\n6. Cost of quality: prevention, appraisal, internal failure, external failure.\n7. Benefits: fewer defects and rejects, lower cost, productivity, morale, customer confidence, compliance.\n8. Barriers: weak top-management commitment, poor training, resistance to change, short-term focus, poor communication."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are OOS results? Describe the procedure for investigating OOS results. Add a note on change control.",
+      "answer": "1. OOS: test result outside specifications or acceptance criteria in compendia, approved application or company documents. OOT and OOE are related terms.\n2. Phase I (laboratory investigation by analyst and supervisor): check method, calculations, instrument calibration and suitability, standards, reagents, sample preparation, dilutions.\n3. If assignable lab error found: invalidate, correct, retest, CAPA.\n4. Phase II (full-scale, QA-led): review batch records, raw materials, process deviations, equipment, other batches; retesting/resampling as per SOP.\n5. Conclusion: release or reject; CAPA; report and trend.\n6. Rules: no discarding without assignable cause; no testing into compliance; no averaging to hide individual failures; timely documented investigation.\n7. Change control: formal system to review changes that may affect validated status.\n8. Steps: request → classify (minor, major, critical) → impact and risk assessment → approval by QA → implementation with training, validation, stability → regulatory notification if needed → effectiveness check and closure.\n9. Examples: new supplier, batch size, equipment, method, specification, site."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on Six Sigma.",
+      "answer": "1. Data-driven method to reduce variation and defects; σ = standard deviation.\n2. Six sigma level ≈ 3.4 defects per million opportunities (allowing 1.5σ shift).\n3. DMAIC for existing processes: Define, Measure, Analyse, Improve, Control.\n4. DMADV for new processes: Define, Measure, Analyse, Design, Verify.\n5. Roles: Champion, Master Black Belt, Black Belt, Green Belt, Yellow Belt.\n6. Process capability Cp, Cpk (≥1.33 often taken as capable); Lean Six Sigma removes waste.\n7. Pharma uses: reduce weight variation, deviations, release time; improve yield."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the ISO 9000 series of quality system standards.",
+      "answer": "1. ISO: International Organization for Standardization, Geneva.\n2. ISO 9000: fundamentals and vocabulary; ISO 9001: QMS requirements, used for certification; ISO 9004: sustained success; ISO 19011: auditing.\n3. Seven principles: customer focus, leadership, engagement of people, process approach, improvement, evidence-based decision making, relationship management.\n4. ISO 9001 clauses: context, leadership, planning (risk-based thinking), support, operation, performance evaluation, improvement.\n5. Certification: gap analysis → documentation → implementation → internal audit → management review → certification audit → surveillance.\n6. ISO 9001 is voluntary and general; GMP is legally required and product-specific."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on GLP.",
+      "answer": "1. Quality system for organisation and conditions under which non-clinical safety studies are planned, performed, monitored, recorded, archived and reported.\n2. Background: US FDA 21 CFR Part 58 (1978); OECD Principles of GLP; India: NGCMA under DST; Schedule L-1 for QC laboratories.\n3. Elements: organisation and personnel with study director; independent QA unit; facilities; apparatus and reagents; test systems; test and reference items; SOPs; study plan and raw data; final report; archives.\n4. Purpose: reliable, traceable safety data for regulators."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on NABL and ISO 14000.",
+      "answer": "1. NABL: National Accreditation Board for Testing and Calibration Laboratories, constituent board of Quality Council of India.\n2. Accredits testing and calibration labs to ISO/IEC 17025 and medical labs to ISO 15189; also PT providers and reference material producers.\n3. Benefits: recognised competence, wider acceptance of reports, customer confidence. Steps: application → document review → assessment → corrective action → accreditation → surveillance.\n4. ISO 14000: family on environmental management; ISO 14001 gives requirements for an EMS and is certifiable.\n5. EMS: policy, aspects and impacts, legal requirements, objectives, operational control, monitoring, audit, review (PDCA).\n6. Pharma relevance: effluent with APIs, solvent recovery, waste disposal, energy saving."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate quality assurance and quality control.",
+      "answer": "1. QC is product-oriented testing against specifications; QA is the total system to ensure quality.\n2. QC detects defects; QA prevents defects.\n3. QC: sampling, testing, release of materials; QA: SOPs, validation, change control, audits, training, documentation review.\n4. QC is a part of GMP which is part of QA.\n5. QC is done by laboratory staff; QA involves all departments."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a design space?",
+      "answer": "The multidimensional combination of input material attributes and process parameters that has been shown to assure product quality."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State the steps of DMAIC.",
+      "answer": "Define, Measure, Analyse, Improve and Control — the Six Sigma cycle for improving an existing process."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the organisation and responsibilities of CDSCO and the State Licensing Authority.",
+      "answer": "1. CDSCO: National Regulatory Authority under DGHS, Ministry of Health and Family Welfare; headed by DCGI (Central Licensing Authority); HQ New Delhi; zonal and sub-zonal offices; port offices; central testing laboratories (CDL Kolkata, CDL Kasauli). Advisory: DTAB, DCC; Subject Expert Committees.\n2. CDSCO responsibilities: approval of new drugs and clinical trials; BA/BE; import registration and licensing; ethics committee registration; standards and rules; joint licensing of vaccines, sera, LVPs, blood products, r-DNA products through Central Licence Approving Authority; medical devices; coordination with states; testing; pharmacovigilance; COPP and export NOCs; training.\n3. SLA organisation: State Drugs Controller, deputy and assistant controllers, drugs inspectors, state drug testing laboratory.\n4. SLA responsibilities: manufacturing licences; wholesale and retail sale licences; inspection; sampling; action against substandard and spurious drugs (suspension, cancellation, prosecution); advertisement monitoring; recall; export-related certificates jointly with CDSCO.\n5. Table: centre — new drugs, trials, imports, standards; state — manufacture and sale licences and enforcement."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the regulatory requirements and approval procedure for new drugs in India.",
+      "answer": "1. Law: Drugs and Cosmetics Act 1940; New Drugs and Clinical Trials Rules 2019.\n2. New drug: not used to significant extent and not approved in India; approved drug with new claim, dosage form, route or release system; new FDC; vaccines, r-DNA products, mAbs, stem-cell and gene therapy products.\n3. Bodies: Central Licensing Authority (DCGI), Subject Expert Committee, registered ethics committee.\n4. Steps: non-clinical data → clinical trial application (Form CT-04) + EC approval → review → permission (Form CT-06) → Phase I–III (local trial waiver possible in notified cases) → application to import (CT-18) or manufacture (CT-21) for sale in CTD format → SEC review, inspection, sample testing → permission → State manufacturing licence/import licence.\n5. Timelines: 90 working days; 30 working days for drugs developed in India with deemed approval.\n6. Data: CMC, animal pharmacology and toxicology, Phase I–III data including Indian data, BA/BE, regulatory status abroad, labelling, pharmacovigilance plan.\n7. Post-marketing: PSUR every 6 months for 2 years then yearly for 2 years; Phase IV; reporting of serious reactions.\n8. Applications through SUGAM; check cdsco.gov.in for current forms."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is the Common Technical Document? Describe its modules. Add a note on COPP.",
+      "answer": "1. CTD: ICH-agreed format (M4) for organising marketing application data; eCTD is the electronic form; accepted by CDSCO.\n2. Module 1: regional administrative information — forms, letters, labels (not harmonised).\n3. Module 2: summaries — QOS, non-clinical overview and summaries, clinical overview and summary.\n4. Module 3: quality — drug substance (3.2.S) and drug product (3.2.P): manufacture, characterisation, control, standards, container closure, stability.\n5. Module 4: non-clinical study reports.\n6. Module 5: clinical study reports, BA/BE, PK/PD, efficacy and safety, post-marketing data.\n7. Draw the CTD triangle. Advantages: one dossier for many regulators, less duplication, easier review.\n8. COPP: certificate in WHO Certification Scheme format issued by exporting country's authority; states licence status, licence holder, manufacturer, GMP compliance and inspection.\n9. In India issued by CDSCO after WHO-GMP compliance, usually after joint inspection with the state; needed for registration in importing countries."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the responsibilities of CDSCO.",
+      "answer": "1. Approval of new drugs, clinical trials and BA/BE studies.\n2. Import registration and licensing; port control.\n3. Registration of ethics committees.\n4. Standards and amendment of rules.\n5. Joint licensing of vaccines, sera, LVPs, blood products, r-DNA products.\n6. Medical device regulation.\n7. Coordination of state drug controllers.\n8. Central testing laboratories.\n9. Pharmacovigilance and action on unsafe drugs.\n10. COPP and export NOCs; training of officials."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the Certificate of Pharmaceutical Product (COPP).",
+      "answer": "1. Certificate in WHO Certification Scheme format issued by the competent authority of the exporting country.\n2. Certifies licence status of product, licence holder and manufacturer, GMP compliance and regular inspection, and attached approved product information.\n3. Requested by importing country's regulator for registration.\n4. In India: CDSCO issues after WHO-GMP compliance, usually after joint inspection with state; applicant submits licence, product permission, site master file, product details.\n5. Uses: export registration, trust in Indian products, helps regulators unable to inspect abroad."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the functions of the State Licensing Authority.",
+      "answer": "1. Grant manufacturing licences (other than centrally controlled categories, which are joint).\n2. Grant wholesale and retail sale licences.\n3. Inspect manufacturing units and sales premises.\n4. Draw samples for testing by the Government Analyst.\n5. Act against substandard, spurious, adulterated, misbranded drugs: suspension, cancellation, seizure, prosecution.\n6. Monitor advertisements and prescription sale.\n7. Recall not-of-standard-quality drugs.\n8. Issue export-related certificates with CDSCO."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define 'new drug' as per the New Drugs and Clinical Trials Rules, 2019.",
+      "answer": "1. A drug not used in India to a significant extent and not approved as safe and effective for the claims.\n2. An approved drug with new claims: indication, dosage form, route, modified release.\n3. FDC of individually approved drugs for the first time or with changed ratio or claims.\n4. Novel delivery system of an approved drug.\n5. Vaccines, r-DNA products, LMOs, monoclonal antibodies, stem-cell products, gene therapeutics, xenografts.\n6. Certain categories stay new drugs for four years from first permission."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the post-marketing requirements for a new drug in India.",
+      "answer": "1. PSURs every six months for the first two years and yearly for the next two years.\n2. Expedited reporting of serious unexpected adverse reactions.\n3. Phase IV studies when required by the approval.\n4. Permission or notification for changes (new indication, dosage form, certain manufacturing changes).\n5. Pharmacovigilance system and cooperation with PvPI."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who heads CDSCO?",
+      "answer": "The Drugs Controller General of India (DCGI), who acts as the Central Licensing Authority."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the five modules of the CTD.",
+      "answer": "Module 1 regional administrative information, Module 2 summaries, Module 3 quality, Module 4 non-clinical study reports, Module 5 clinical study reports."
+    }
+  ]
+}
