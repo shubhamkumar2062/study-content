@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "A molecule is chiral when it:",
+      "options": [
+        "Has a plane of symmetry",
+        "Is not superimposable on its mirror image",
+        "Has a centre of symmetry",
+        "Has an alternating axis of symmetry"
+      ],
+      "correct": 1,
+      "explanation": "Chirality means non-superimposability on the mirror image; any σ, i or Sn makes a molecule achiral.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "In the formula [α] = α/(l × c), the tube length l is expressed in:",
+      "options": [
+        "Decimetres",
+        "Centimetres",
+        "Millimetres",
+        "Metres"
+      ],
+      "correct": 0,
+      "explanation": "Specific rotation uses the tube length in dm and concentration in g/mL.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "How many stereoisomers does tartaric acid have?",
+      "options": [
+        "4",
+        "2",
+        "8",
+        "3"
+      ],
+      "correct": 3,
+      "explanation": "Two similar stereocentres give (+), (−) and meso; the meso form makes it 3, not 2^2 = 4.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "A meso compound is optically inactive because of:",
+      "options": [
+        "External compensation",
+        "Racemisation",
+        "Internal compensation",
+        "Absence of stereocentres"
+      ],
+      "correct": 2,
+      "explanation": "An internal plane of symmetry makes one half cancel the rotation of the other.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "According to the CIP sequence rules, which group has the highest priority?",
+      "options": [
+        "–CHO",
+        "–OH",
+        "–COOH",
+        "–CH2OH"
+      ],
+      "correct": 1,
+      "explanation": "Priority goes first by the atomic number of the attached atom; O (in –OH) beats C in the other three.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "D-Glyceraldehyde has which absolute configuration?",
+      "options": [
+        "R",
+        "S",
+        "meso",
+        "Cannot be assigned"
+      ],
+      "correct": 0,
+      "explanation": "With OH > CHO > CH2OH > H, D-glyceraldehyde works out as (R).",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "An SN2 reaction at a stereocentre takes place with:",
+      "options": [
+        "Retention of configuration",
+        "Complete racemisation",
+        "Formation of a meso compound",
+        "Inversion of configuration"
+      ],
+      "correct": 3,
+      "explanation": "Backside attack turns the molecule inside out (Walden inversion).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Brucine and strychnine are used in the resolution of racemic:",
+      "options": [
+        "Bases",
+        "Alkanes",
+        "Acids",
+        "Alkenes"
+      ],
+      "correct": 2,
+      "explanation": "These optically active bases form diastereomeric salts with racemic acids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Pasteur separated the enantiomers of sodium ammonium tartrate by:",
+      "options": [
+        "Fermentation with yeast",
+        "Mechanical separation of crystals",
+        "Chiral chromatography",
+        "Fractional distillation"
+      ],
+      "correct": 1,
+      "explanation": "He picked out mirror-image crystals by hand under a lens.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Asymmetric synthesis using circularly polarised light without any chiral compound is called:",
+      "options": [
+        "Absolute asymmetric synthesis",
+        "Partial asymmetric synthesis",
+        "Kinetic resolution",
+        "Racemisation"
+      ],
+      "correct": 0,
+      "explanation": "Absolute asymmetric synthesis relies only on a physical chiral influence.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Which compound shows geometrical isomerism?",
+      "options": [
+        "2-Butene",
+        "1-Butene",
+        "Propene",
+        "2-Methylpropene"
+      ],
+      "correct": 0,
+      "explanation": "2-Butene has two different groups on each doubly bonded carbon; the others have two H or two CH3 on one carbon.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Maleic acid forms an anhydride on heating but fumaric acid does not because maleic acid is the:",
+      "options": [
+        "trans isomer",
+        "E isomer",
+        "racemic form",
+        "cis isomer"
+      ],
+      "correct": 3,
+      "explanation": "Only in the cis isomer are the two –COOH groups close enough to lose water and form a ring.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "In the E–Z system, Z means that the higher-priority groups are:",
+      "options": [
+        "On opposite sides",
+        "On the same carbon",
+        "On the same side",
+        "Absent"
+      ],
+      "correct": 2,
+      "explanation": "Z (zusammen) = together; E (entgegen) = opposite.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Syn hydroxylation of maleic acid with cold dilute alkaline KMnO4 gives:",
+      "options": [
+        "(±)-Tartaric acid",
+        "meso-Tartaric acid",
+        "(+)-Tartaric acid",
+        "Fumaric acid"
+      ],
+      "correct": 1,
+      "explanation": "Syn addition to the cis acid gives the meso diol; fumaric acid gives the racemate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The most stable conformation of n-butane is:",
+      "options": [
+        "Anti",
+        "Gauche",
+        "Eclipsed",
+        "Fully eclipsed"
+      ],
+      "correct": 0,
+      "explanation": "In the anti form the two methyl groups are 180° apart, with no steric or torsional strain.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The most stable conformation of cyclohexane is:",
+      "options": [
+        "Boat",
+        "Twist-boat",
+        "Half-chair",
+        "Chair"
+      ],
+      "correct": 3,
+      "explanation": "The chair has no angle strain and all bonds are staggered.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "A methyl group on cyclohexane prefers the equatorial position mainly to avoid:",
+      "options": [
+        "Angle strain",
+        "Ring flipping",
+        "1,3-Diaxial interactions",
+        "Hydrogen bonding"
+      ],
+      "correct": 2,
+      "explanation": "An axial group clashes with the axial hydrogens on C-3 and C-5.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Optical activity in a biphenyl requires bulky ortho groups and:",
+      "options": [
+        "A stereocentre on each ring",
+        "Each ring unsymmetrically substituted",
+        "A plane of symmetry",
+        "Free rotation about the central bond"
+      ],
+      "correct": 1,
+      "explanation": "If either ring has identical ortho groups, a plane of symmetry removes chirality.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Addition of bromine to trans-2-butene gives:",
+      "options": [
+        "meso-2,3-Dibromobutane",
+        "(±)-2,3-Dibromobutane",
+        "(2R,3R)-2,3-Dibromobutane only",
+        "1,2-Dibromobutane"
+      ],
+      "correct": 0,
+      "explanation": "Anti addition to the trans alkene gives the meso product; cis gives the racemate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The C–H out-of-plane bending band near 965 cm⁻¹ in the IR spectrum indicates a:",
+      "options": [
+        "cis-Disubstituted alkene",
+        "Terminal alkyne",
+        "Carbonyl group",
+        "trans-Disubstituted alkene"
+      ],
+      "correct": 3,
+      "explanation": "trans-CH=CH– absorbs strongly near 965 cm⁻¹; cis absorbs at lower frequency.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The order of aromaticity is:",
+      "options": [
+        "Furan > pyrrole > thiophene > benzene",
+        "Pyrrole > furan > thiophene > benzene",
+        "Thiophene > benzene > furan > pyrrole",
+        "Benzene > thiophene > pyrrole > furan"
+      ],
+      "correct": 3,
+      "explanation": "Resonance energies fall in this order (about 150, 122, 88 and 67 kJ/mol).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Electrophilic substitution in pyrrole occurs mainly at:",
+      "options": [
+        "C-3",
+        "N-1",
+        "C-2",
+        "C-3 and C-4 equally"
+      ],
+      "correct": 2,
+      "explanation": "Attack at C-2 gives an intermediate with three resonance structures.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Pyrrole is a very weak base because its nitrogen lone pair:",
+      "options": [
+        "Is in an sp3 orbital",
+        "Is part of the aromatic sextet",
+        "Is absent",
+        "Is hydrogen-bonded to water"
+      ],
+      "correct": 1,
+      "explanation": "Protonating N would destroy aromaticity, so pyrrole protonates at C-2 instead.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "1,4-Dicarbonyl compounds heated with ammonia give pyrroles. This is the:",
+      "options": [
+        "Paal–Knorr synthesis",
+        "Skraup synthesis",
+        "Hantzsch thiazole synthesis",
+        "Fischer indole synthesis"
+      ],
+      "correct": 0,
+      "explanation": "Paal–Knorr uses NH3 for pyrroles, acid for furans and P2S5 for thiophenes.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Furan is obtained industrially from:",
+      "options": [
+        "Coal tar only",
+        "Butane and sulphur",
+        "Succinimide and zinc dust",
+        "Furfural from pentosans (bran, corn cobs)"
+      ],
+      "correct": 3,
+      "explanation": "Pentosans give furfural with dilute acid; furfural is decarbonylated to furan.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Thiophene is removed from coal-tar benzene by shaking with:",
+      "options": [
+        "Dilute NaOH",
+        "Water",
+        "Conc. H2SO4",
+        "Acetone"
+      ],
+      "correct": 2,
+      "explanation": "Thiophene sulphonates much faster than benzene and dissolves in the acid layer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Which ring takes part most readily in Diels–Alder reactions as a diene?",
+      "options": [
+        "Thiophene",
+        "Furan",
+        "Pyrrole",
+        "Benzene"
+      ],
+      "correct": 1,
+      "explanation": "Furan has the lowest aromaticity, so it behaves most like a diene.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The Hantzsch–Widman name of a saturated five-membered ring containing one oxygen is:",
+      "options": [
+        "Oxolane",
+        "Oxole",
+        "Oxirane",
+        "Oxetane"
+      ],
+      "correct": 0,
+      "explanation": "-olane is the saturated five-membered stem without N; oxolane is tetrahydrofuran.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Raney nickel desulphurisation of thiophene gives:",
+      "options": [
+        "Butadiene",
+        "Tetrahydrothiophene",
+        "Furan",
+        "n-Butane"
+      ],
+      "correct": 3,
+      "explanation": "Raney Ni removes sulphur and saturates the chain.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Nitrofurantoin, a urinary antiseptic, contains which ring?",
+      "options": [
+        "Thiophene",
+        "Pyrrole",
+        "Furan",
+        "Pyridine"
+      ],
+      "correct": 2,
+      "explanation": "It is a 5-nitrofuran derivative.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Pyridine undergoes electrophilic substitution mainly at:",
+      "options": [
+        "C-2",
+        "C-4",
+        "C-3",
+        "N-1 only, never on carbon"
+      ],
+      "correct": 2,
+      "explanation": "Attack at C-2 or C-4 would put positive charge on the electronegative nitrogen.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Heating pyridine with sodium amide gives 2-aminopyridine. This is the:",
+      "options": [
+        "Skraup reaction",
+        "Chichibabin reaction",
+        "Reimer–Tiemann reaction",
+        "Cannizzaro reaction"
+      ],
+      "correct": 1,
+      "explanation": "A nucleophilic amination at C-2 of the π-deficient ring.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Which is the strongest base?",
+      "options": [
+        "Piperidine",
+        "Pyridine",
+        "Aniline",
+        "Pyrrole"
+      ],
+      "correct": 0,
+      "explanation": "Piperidine has an sp3 nitrogen (pKa about 11); pyridine about 5.2, aniline 4.6, pyrrole far lower.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Aniline, glycerol, conc. H2SO4 and nitrobenzene react to give:",
+      "options": [
+        "Isoquinoline",
+        "Indole",
+        "Acridine",
+        "Quinoline"
+      ],
+      "correct": 3,
+      "explanation": "This is the Skraup synthesis; glycerol forms acrolein and nitrobenzene is the oxidant.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Indole undergoes electrophilic substitution mainly at:",
+      "options": [
+        "C-2",
+        "C-5",
+        "C-3",
+        "N-1"
+      ],
+      "correct": 2,
+      "explanation": "C-3 attack lets nitrogen stabilise the cation without disturbing the benzene ring.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Cyclisation of an N-acyl-β-phenylethylamine with POCl3 gives a 3,4-dihydroisoquinoline. This is the:",
+      "options": [
+        "Pomeranz–Fritsch synthesis",
+        "Bischler–Napieralski synthesis",
+        "Friedländer synthesis",
+        "Madelung synthesis"
+      ],
+      "correct": 1,
+      "explanation": "Dehydrogenation of the product then gives the isoquinoline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Diethyl malonate condenses with urea in the presence of sodium ethoxide to give:",
+      "options": [
+        "Barbituric acid",
+        "Uracil",
+        "Thiamine",
+        "Caffeine"
+      ],
+      "correct": 0,
+      "explanation": "This is the principal pyrimidine synthesis; barbituric acid is pyrimidine-2,4,6-trione.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The Traube synthesis of purines uses a 4,5-diaminopyrimidine and:",
+      "options": [
+        "Hydrazine",
+        "Thiourea",
+        "Acetylene",
+        "Formic acid"
+      ],
+      "correct": 3,
+      "explanation": "Formic acid provides C-8 and closes the imidazole ring.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Thiamine (vitamin B1) contains a pyrimidine ring joined to a:",
+      "options": [
+        "Imidazole ring",
+        "Pyrrole ring",
+        "Thiazolium ring",
+        "Furan ring"
+      ],
+      "correct": 2,
+      "explanation": "The thiazolium C-2 is the active site of thiamine pyrophosphate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The most reactive position of acridine towards nucleophiles is:",
+      "options": [
+        "C-1",
+        "C-9",
+        "C-2",
+        "N-10"
+      ],
+      "correct": 1,
+      "explanation": "C-9, opposite the nitrogen, is the site of amination and chloride exchange.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Clemmensen reduction uses:",
+      "options": [
+        "Hydrazine and KOH",
+        "Zinc amalgam and conc. HCl",
+        "Sodium in liquid ammonia",
+        "LiAlH4 in dry ether"
+      ],
+      "correct": 1,
+      "explanation": "Zn–Hg/HCl reduces C=O to CH2 under acidic conditions.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Which reagent reduces an ester to a primary alcohol?",
+      "options": [
+        "LiAlH4",
+        "NaBH4 in methanol",
+        "Zn–Hg / HCl",
+        "H2O2 / NaOH"
+      ],
+      "correct": 0,
+      "explanation": "NaBH4 is normally too mild for esters; LiAlH4 reduces them.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The Huang-Minlon modification is associated with the:",
+      "options": [
+        "Clemmensen reduction",
+        "Birch reduction",
+        "Oppenauer oxidation",
+        "Wolff–Kishner reduction"
+      ],
+      "correct": 3,
+      "explanation": "It uses hydrazine hydrate and KOH in diethylene glycol in one pot.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Birch reduction of benzene gives:",
+      "options": [
+        "Cyclohexa-1,3-diene",
+        "Cyclohexane",
+        "Cyclohexa-1,4-diene",
+        "Cyclohexene"
+      ],
+      "correct": 2,
+      "explanation": "Protonation of the cyclohexadienyl anion at its centre gives the non-conjugated 1,4-diene.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In the Beckmann rearrangement the group that migrates is the one:",
+      "options": [
+        "Syn to the hydroxyl group",
+        "Anti to the hydroxyl group",
+        "Of larger size regardless of position",
+        "Attached to nitrogen"
+      ],
+      "correct": 1,
+      "explanation": "Migration and loss of water are concerted, so only the anti group can move.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Beckmann rearrangement of cyclohexanone oxime gives:",
+      "options": [
+        "ε-Caprolactam",
+        "Cyclohexylamine",
+        "Adipic acid",
+        "Cyclohexanone"
+      ],
+      "correct": 0,
+      "explanation": "Ring expansion gives the seven-membered lactam used for nylon-6.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Oppenauer oxidation uses aluminium tert-butoxide with excess:",
+      "options": [
+        "Hydrogen peroxide",
+        "Chromic acid",
+        "Hydrazine",
+        "Acetone"
+      ],
+      "correct": 3,
+      "explanation": "Acetone accepts the hydride; it is the reverse of MPV reduction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Salicylaldehyde treated with alkaline hydrogen peroxide gives:",
+      "options": [
+        "Hydroquinone",
+        "Salicylic acid",
+        "Catechol",
+        "Phenol"
+      ],
+      "correct": 2,
+      "explanation": "The Dakin reaction replaces –CHO by –OH when an o/p-OH is present.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "In the Schmidt reaction a carboxylic acid is converted into:",
+      "options": [
+        "An amide with the same carbons",
+        "An amine with one carbon fewer",
+        "An alcohol",
+        "A nitrile with one carbon more"
+      ],
+      "correct": 1,
+      "explanation": "HN3/H2SO4 converts RCOOH to RNH2 + CO2 + N2 via an isocyanate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Benzaldehyde and acetophenone condense in dilute NaOH to give:",
+      "options": [
+        "Chalcone",
+        "Cinnamaldehyde",
+        "Benzoin",
+        "Dibenzalacetone"
+      ],
+      "correct": 0,
+      "explanation": "Claisen–Schmidt condensation gives benzylideneacetophenone (chalcone).",
+      "probability": "medium"
+    }
+  ]
+}

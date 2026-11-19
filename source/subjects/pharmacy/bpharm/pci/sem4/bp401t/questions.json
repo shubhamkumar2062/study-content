@@ -1,0 +1,482 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a racemic modification? Describe the different methods for the resolution of racemic mixtures with examples.",
+      "answer": "1. Racemic modification: equimolar mixture of two enantiomers, written (±); optically inactive by external compensation. Formed whenever a chiral compound is made from achiral materials without a chiral influence.\n2. Solid forms: racemic mixture (conglomerate), racemic compound, pseudoracemate.\n3. Resolution: separation of a racemate into its enantiomers. Ordinary methods fail because enantiomers have identical physical properties.\n4. Mechanical separation: Pasteur hand-picked mirror-image crystals of sodium ammonium tartrate; works only for conglomerates with well-formed crystals.\n5. Biochemical method: Penicillium glaucum grown on racemic ammonium tartrate consumes the (+) form and leaves (−); enzymes (lipases, esterases) hydrolyse one enantiomer of an ester faster (kinetic resolution). Disadvantage: half the material can be lost.\n6. Chemical method (most used): racemic acid + pure optically active base (brucine, strychnine, quinine, cinchonine, 1-phenylethylamine) → two diastereomeric salts with different solubility → fractional crystallisation → each salt treated with dilute HCl to free the pure enantiomer. Racemic bases are resolved with (+)-tartaric acid, (−)-malic acid or camphor-10-sulphonic acid; alcohols via half-esters (e.g. hydrogen phthalates).\n7. Chromatographic method: chiral stationary phase (cellulose derivatives, cyclodextrins) holds one enantiomer longer; chiral HPLC.\n8. Preferential crystallisation: seeding a supersaturated solution of a conglomerate with one enantiomer.\n9. Purity checked by specific rotation (optical purity) or enantiomeric excess."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the D/L and R/S systems of nomenclature of optical isomers. State the Cahn–Ingold–Prelog sequence rules with examples.",
+      "answer": "1. Configuration = spatial arrangement of groups around a stereocentre; relative or absolute.\n2. D/L system: relative configuration compared with glyceraldehyde in a Fischer projection (CHO top, CH2OH bottom): OH on right = D, on left = L. Sugars: OH on the lowest stereocentre; amino acids: NH2 on left (COOH top) = L.\n3. D/L does not show the sign of rotation: D-glucose (+), D-fructose (−). Limitations: needs a reference compound; ambiguous for several stereocentres.\n4. R/S system gives absolute configuration of each stereocentre.\n5. Sequence rules: (a) higher atomic number of the directly attached atom gets priority (I > Br > Cl > S > F > O > N > C > H); (b) heavier isotope first (D > H); (c) if tied, compare next atoms outward at the first point of difference (–CH2OH > –CH(CH3)2); (d) double/triple bonds counted as duplicated/triplicated atoms (–CHO = C(O,O,H); –COOH = C(O,O,O)).\n6. Procedure: rank 1–4, view with group 4 away, trace 1→2→3: clockwise R, anticlockwise S. In a Fischer projection, if group 4 is horizontal reverse the result.\n7. Examples: D-glyceraldehyde = (R) (OH > CHO > CH2OH > H); L-alanine = (S); L-cysteine = (R) because CH2SH outranks COOH.\n8. Several centres: (2R,3R)-tartaric acid; meso = (2R,3S)."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss optical isomerism with reference to elements of symmetry, enantiomers, diastereomers and meso compounds, taking tartaric acid as an example.",
+      "answer": "1. Optical activity: rotation of plane-polarised light, measured in a polarimeter; dextro (+), laevo (−); [α] = α/(l × c).\n2. Chirality: molecule not superimposable on its mirror image; usually due to a carbon with four different groups.\n3. Elements of symmetry: plane of symmetry σ, centre of symmetry i, alternating axis Sn. Any of these makes the molecule achiral; a simple axis Cn does not.\n4. Enantiomers: non-superimposable mirror images; same physical and chemical properties towards achiral reagents; equal and opposite rotation; differ with enzymes and receptors.\n5. Diastereomers: stereoisomers that are not mirror images; different physical properties, separable.\n6. Number of isomers ≤ 2^n.\n7. Tartaric acid HOOC–CHOH–CHOH–COOH: two similar stereocentres → (+), (−) and meso forms (draw Fischer projections). Meso has a plane of symmetry between C-2 and C-3 → inactive by internal compensation; it is a diastereomer of (+) and (−).\n8. (±)-Tartaric acid (racemic acid) is inactive by external compensation and can be resolved; meso cannot.\n9. Importance: drugs such as levodopa, (S)-ibuprofen and esomeprazole are used as single enantiomers."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between enantiomers and diastereomers.",
+      "answer": "1. Enantiomers are non-superimposable mirror images; diastereomers are stereoisomers that are not mirror images.\n2. Enantiomers have identical melting point, boiling point, solubility and density; diastereomers differ in all of these.\n3. Enantiomers rotate light equally in opposite directions; diastereomers have unrelated rotations (one may be inactive, e.g. meso).\n4. Enantiomers react at the same rate with achiral reagents; diastereomers react at different rates.\n5. Enantiomers cannot be separated by ordinary crystallisation or distillation; diastereomers can.\n6. Enantiomers need at least one stereocentre (or chiral axis); diastereomers need two or more stereocentres, or cis/trans isomerism.\n7. Examples: (+)- and (−)-tartaric acid are enantiomers; meso- and (+)-tartaric acid are diastereomers; cis- and trans-2-butene are diastereomers."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are meso compounds? Why are they optically inactive? Give two examples.",
+      "answer": "1. Meso compounds contain two or more stereocentres but are achiral and optically inactive.\n2. Reason: an internal plane of symmetry divides the molecule into two halves that are mirror images; the rotation caused by one half is cancelled by the other (internal compensation).\n3. They are superimposable on their mirror images, so they have no enantiomer and cannot be resolved.\n4. Difference from a racemate: a racemate is inactive by external compensation (mixture of two molecules) and can be resolved.\n5. Examples: meso-tartaric acid (2R,3S); meso-2,3-dibromobutane; meso-2,3-butanediol; cis-1,2-dimethylcyclohexane.\n6. A meso form reduces the number of stereoisomers below 2^n (tartaric acid has 3, not 4)."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on asymmetric synthesis (partial and absolute).",
+      "answer": "1. Definition: conversion of an achiral unit into a chiral unit so that the stereoisomers are formed in unequal amounts; a chiral influence is essential.\n2. Without such an influence a racemate always forms (e.g. HCN + acetaldehyde → (±)-lactonitrile).\n3. Partial asymmetric synthesis: the chiral influence is an optically active compound — chiral starting material, auxiliary, reagent, catalyst or enzyme.\n4. Marckwald: brucine salt of ethylmethylmalonic acid half-ester decarboxylated on heating; 2-methylbutanoic acid obtained with a small excess of the (−) form.\n5. McKenzie: (−)-menthyl ester of a keto acid reduced (or treated with Grignard reagent) and hydrolysed → hydroxy acid with one enantiomer in excess.\n6. Modern: enzymatic reductions, catalytic asymmetric hydrogenation with chiral rhodium–phosphine complexes (industrial L-dopa).\n7. Absolute asymmetric synthesis: no optically active substance; a physical chiral influence such as circularly polarised light preferentially destroys or forms one enantiomer; the excess is very small.\n8. Measured as enantiomeric excess."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the stereochemical outcome of reactions of chiral molecules with suitable examples.",
+      "answer": "1. No bond to the stereocentre broken → retention of configuration (e.g. (S)-2-methylbutan-1-ol + HCl at CH2OH → chloride with the same arrangement; sign of rotation may change).\n2. SN2 at the stereocentre → inversion (Walden inversion): (R)-2-bromobutane + OH− → (S)-2-butanol; backside attack.\n3. SN1 or radical reaction at the stereocentre → planar intermediate attacked from both faces → racemisation (often slight excess of inversion in SN1).\n4. New stereocentre from achiral material and achiral reagent → racemic product (chlorination of butane at C-2 → (±)-2-chlorobutane).\n5. New stereocentre created in a molecule that already has one → diastereomers in unequal amounts (chlorination of (S)-2-chlorobutane at C-3 → (2S,3S) and meso products).\n6. Importance: predicting the configuration of drug intermediates and avoiding loss of optical purity."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a short note on elements of symmetry with examples.",
+      "answer": "1. Symmetry decides whether a molecule is chiral.\n2. Plane of symmetry (σ): imaginary plane dividing the molecule into two mirror-image halves; e.g. meso-tartaric acid, CH2Cl2.\n3. Centre of symmetry (i): a point such that any atom joined through it meets an identical atom at the same distance on the opposite side; e.g. one stereoisomer of 2,4-dimethylcyclobutane-1,3-dicarboxylic acid.\n4. Alternating axis of symmetry (Sn): rotation by 360°/n followed by reflection in a perpendicular plane gives the same molecule; S1 = plane, S2 = centre.\n5. Simple axis (Cn): rotation gives the same molecule but does not remove chirality.\n6. Rule: a molecule with σ, i or Sn is achiral (optically inactive); one with none of them (it may have Cn) is chiral and can be resolved."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define specific rotation and write its formula.",
+      "answer": "Specific rotation is the rotation produced by a solution containing 1 g/mL of the substance in a 1 dm tube at a stated temperature and wavelength: [α] = α / (l × c), with l in dm and c in g/mL."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is enantiomeric excess?",
+      "answer": "The excess of one enantiomer over the other expressed as a percentage of the total: ee = ([major] − [minor]) / ([major] + [minor]) × 100. A 75:25 mixture has 50% ee."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is geometrical isomerism? Explain the conditions and nomenclature (cis–trans, E–Z, syn–anti). Describe the physical and chemical methods of determining the configuration of geometrical isomers.",
+      "answer": "1. Geometrical isomers: diastereomers differing in arrangement of groups about a bond or ring with restricted rotation.\n2. Cause: π bond prevents rotation about C=C (also C=N, N=N, rings).\n3. Conditions: restricted rotation and two different groups on each doubly bonded carbon (abC=Cab or abC=Ccd).\n4. cis/trans: similar groups same side/opposite side (maleic cis, fumaric trans). Fails when all four groups differ.\n5. E/Z: rank groups on each carbon by CIP; higher-priority groups same side = Z, opposite = E.\n6. syn/anti for oximes: aldoximes syn when H and OH same side; ketoximes named for the group near OH.\n7. Physical methods: dipole moment (cis higher; trans of symmetrical alkenes zero); melting point (trans higher); solubility (cis higher); heat of hydrogenation/combustion (cis higher, less stable); UV (trans stilbene longer λmax, higher ε); IR (trans C–H bend near 965 cm⁻¹); NMR (Jtrans 12–18 Hz > Jcis 6–12 Hz); X-ray.\n8. Chemical methods: ring formation (maleic acid → maleic anhydride; fumaric does not); formation from ring cleavage; syn hydroxylation with cold KMnO4 (maleic → meso-tartaric, fumaric → (±)-tartaric); correlation with known compounds.\n9. Oximes: Beckmann rearrangement — the anti group migrates; aldoxime acetates with H and OH trans give nitriles."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the conformational isomerism of ethane, n-butane and cyclohexane with energy diagrams.",
+      "answer": "1. Conformations: arrangements interconverted by rotation about σ bonds; shown by Newman and sawhorse projections.\n2. Strains: torsional (eclipsed bonds), steric (crowding), angle strain.\n3. Ethane: staggered (60° dihedral) most stable; eclipsed (0°) about 12 kJ/mol higher due to torsional strain; three of each per 360° rotation; barrier small so rotation is free at room temperature.\n4. n-Butane (C2–C3): anti (180°, most stable) → gauche (60°, about 3.8 kJ/mol higher) → eclipsed (120°, about 16 kJ/mol) → fully eclipsed (0°, about 19 kJ/mol, least stable). Draw the energy profile over 360°.\n5. Cyclohexane: not planar; chair is strain-free (angles about 111°, all bonds staggered).\n6. Boat: eclipsed bonds and flagpole H–H clash, about 29 kJ/mol above chair; twist-boat about 23 kJ/mol; half-chair about 45 kJ/mol (transition state).\n7. Axial and equatorial bonds (6 each); ring flip exchanges them.\n8. Substituents prefer equatorial to avoid 1,3-diaxial interactions (methylcyclohexane about 95% equatorial; tert-butyl locks the ring).\n9. Disubstituted: the isomer that can place groups equatorial is more stable (trans-1,4-dimethylcyclohexane)."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain stereospecific and stereoselective reactions with examples. Add a note on atropisomerism in biphenyls.",
+      "answer": "1. Stereoselective: one stereoisomer of the product is formed in preference to others (e.g. dehydrobromination of 2-bromobutane gives more trans- than cis-2-butene; LiAlH4 reduction of 4-tert-butylcyclohexanone gives mainly the trans alcohol).\n2. Stereospecific: stereoisomeric reactants give stereoisomerically different products because of the mechanism.\n3. Anti addition of Br2 through a bromonium ion: cis-2-butene → (±)-2,3-dibromobutane; trans-2-butene → meso.\n4. Syn addition (cold dilute KMnO4, OsO4): cis-2-butene → meso-2,3-butanediol; trans → (±); maleic → meso-tartaric; fumaric → (±)-tartaric.\n5. SN2 inversion and E2 anti-periplanar elimination are stereospecific.\n6. All stereospecific reactions are stereoselective, not vice versa.\n7. Atropisomerism: stereoisomers isolable because rotation about a single bond is hindered; seen in biphenyls with bulky ortho groups (–NO2, –COOH, –Br, –I).\n8. Conditions for optical activity: rotation blocked, and each ring unsymmetrically substituted (a ≠ b, c ≠ d); otherwise a plane of symmetry exists.\n9. Example: 6,6'-dinitrobiphenyl-2,2'-dicarboxylic acid resolved; chirality due to a chiral axis. Allenes and spiranes show similar axial chirality."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the E–Z system of nomenclature with examples. Why is it preferred over the cis–trans system?",
+      "answer": "1. Rank the two groups on each double-bond carbon separately by CIP rules (higher atomic number first, then next atoms, multiple bonds duplicated).\n2. Higher-priority groups on the same side → Z (zusammen); opposite → E (entgegen).\n3. Example: BrClC=CHF — Br > Cl and F > H; Br and F on the same side = (Z)-1-bromo-1-chloro-2-fluoroethene.\n4. (E)-2-butene = trans-2-butene; (Z)-2-butene = cis.\n5. Preferred because cis/trans needs a pair of similar groups and fails for tri- and tetrasubstituted alkenes; E/Z works for every alkene and oxime.\n6. Caution: cis is not always Z; in 2-chloro-2-butene the cis-dimethyl isomer is E because Cl outranks CH3."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare the chair and boat conformations of cyclohexane. Why do substituents prefer the equatorial position?",
+      "answer": "1. Chair: C-1 and C-4 on opposite sides of the ring plane; bond angles about 111°; all adjacent C–H bonds staggered; no angle or torsional strain; most stable.\n2. Boat: C-1 and C-4 on the same side; four pairs of eclipsed bonds (torsional strain); flagpole hydrogens on C-1 and C-4 clash; about 29 kJ/mol less stable.\n3. Twist-boat partly relieves the strain (about 23 kJ/mol above chair).\n4. At room temperature almost all molecules are chairs, interconverting by ring flip.\n5. Axial substituent suffers 1,3-diaxial interactions with axial H atoms on C-3 and C-5 (gauche-butane-like); equatorial points away.\n6. Methylcyclohexane is about 95% equatorial; tert-butyl almost 100%, which locks the conformation."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the conditions for optical activity in biphenyl compounds?",
+      "answer": "1. Biphenyl rings normally rotate freely about the C1–C1' bond.\n2. Bulky ortho substituents (2,2',6,6') prevent rotation and keep the rings roughly perpendicular.\n3. Condition 1: groups large enough that rotation does not occur at the working temperature (–NO2, –COOH, –Br, –I, –SO3H; –F and –OCH3 are often too small).\n4. Condition 2: each ring must be unsymmetrically substituted (the two ortho groups on the same ring different); otherwise there is a plane of symmetry.\n5. The molecule then has a chiral axis and exists as resolvable atropisomers.\n6. Example: 6,6'-dinitrobiphenyl-2,2'-dicarboxylic acid.\n7. Heating can overcome the barrier and racemise the atropisomers."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the conformations of n-butane with an energy profile diagram.",
+      "answer": "1. Rotation about the C2–C3 bond; dihedral angle measured between the two methyl groups.\n2. Anti (180°): methyls opposite; most stable.\n3. Gauche (60° and 300°): staggered but methyls close; about 3.8 kJ/mol higher.\n4. Eclipsed (120° and 240°): CH3 eclipses H; about 16 kJ/mol.\n5. Fully eclipsed (0°): CH3 eclipses CH3; highest, about 19 kJ/mol.\n6. Order of stability: anti > gauche > eclipsed > fully eclipsed.\n7. Energy profile: minima at 60°, 180°, 300°; maxima at 0°, 120°, 240° (draw).\n8. At room temperature anti predominates; barriers are low so conformers interconvert and cannot be isolated."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "How is the configuration of oximes determined?",
+      "answer": "1. Oximes show geometrical isomerism about C=N (syn/anti or E/Z).\n2. Ketoximes: Beckmann rearrangement with PCl5 or conc. H2SO4 — the group anti to OH migrates to nitrogen; identifying the amide shows the configuration (acetophenone oxime giving acetanilide → phenyl was anti to OH).\n3. Aldoximes: acetylate with acetic anhydride and treat with base; the isomer with H and OH trans undergoes anti elimination to the nitrile, the other regenerates the oxime.\n4. Physical methods: dipole moment, NMR and X-ray crystallography.\n5. E/Z naming is now preferred to avoid confusion between older syn/anti conventions."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define atropisomerism.",
+      "answer": "Stereoisomerism arising from hindered rotation about a single bond, so the rotational isomers can be isolated; seen in ortho-substituted biphenyls, which are chiral about an axis."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Distinguish between stereospecific and stereoselective reactions in one line each.",
+      "answer": "Stereospecific: different stereoisomers of the reactant give different stereoisomers of the product (Br2 + cis-2-butene → racemate, + trans → meso). Stereoselective: one product stereoisomer forms in preference from a single reactant."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the synthesis, chemical reactions and medicinal uses of pyrrole. Explain why pyrrole is a very weak base.",
+      "answer": "1. Structure: five-membered aromatic ring, NH at 1; 6 π electrons (N lone pair included); π-excessive.\n2. Synthesis: (a) Paal–Knorr — hexane-2,5-dione + NH3 → 2,5-dimethylpyrrole; (b) succinimide + Zn dust (distil) → pyrrole; (c) furan + NH3 over Al2O3; (d) Knorr — α-aminoketone + β-ketoester; (e) Hantzsch — β-ketoester + α-haloketone + NH3; (f) ammonium mucate dry distillation.\n3. Electrophilic substitution at C-2 (three resonance structures of the intermediate vs two for C-3), using mild reagents: nitration with acetyl nitrate → 2-nitropyrrole; sulphonation with pyridine–SO3; I2/KI → tetraiodopyrrole; Ac2O → 2-acetylpyrrole; Vilsmeier → 2-formylpyrrole; Mannich; diazo coupling.\n4. Reimer–Tiemann → 2-formylpyrrole + 3-chloropyridine (ring expansion).\n5. N–H acidity: K or KOH → potassium pyrrolide → CH3I → N-methylpyrrole.\n6. Reduction: Zn/AcOH → 3-pyrroline; H2/Ni → pyrrolidine. Oxidation: CrO3 → maleimide. Strong acids polymerise it.\n7. Basicity: pKa of conjugate acid about −3.8 because the N lone pair is part of the aromatic sextet; protonation would destroy aromaticity; protonation occurs on C-2. Pyrrolidine (pKa about 11) is strongly basic.\n8. Uses: haem, chlorophyll, vitamin B12; atorvastatin, tolmetin, ketorolac, sunitinib; povidone."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Compare the aromaticity, reactivity and chemical reactions of pyrrole, furan and thiophene.",
+      "answer": "1. All three are planar five-membered rings with 6 π electrons (hetero atom gives a lone pair) → aromatic by Hückel's rule; π-excessive.\n2. Aromaticity (resonance energy): thiophene (about 122 kJ/mol) > pyrrole (88) > furan (67); benzene 150. Oxygen holds its lone pair most tightly, so furan is least aromatic.\n3. Reactivity to electrophiles: pyrrole > furan > thiophene > benzene (N the best donor).\n4. Orientation: C-2 for all three (more stable cation).\n5. Acid stability: pyrrole polymerises, furan ring opens, thiophene stable (sulphonated by conc. H2SO4).\n6. Common reactions with mild reagents: nitration (acetyl nitrate) → 2-nitro; sulphonation (pyridine–SO3; thiophene with H2SO4) → 2-sulphonic acid; acylation (Ac2O; BF3 for furan; H3PO4/SnCl4 for thiophene) → 2-acetyl; Vilsmeier formylation.\n7. Distinctive: pyrrole — N–H acidity, K salt; furan — Diels–Alder with maleic anhydride, hydrogenation to THF; thiophene — Raney Ni desulphurisation to butane, indophenin test.\n8. Paal–Knorr from a 1,4-diketone with NH3, acid or P2S5 gives each ring respectively.\n9. Drugs: atorvastatin (pyrrole), nitrofurantoin/furosemide (furan), clopidogrel/tenoxicam (thiophene)."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Give the classification and nomenclature of heterocyclic compounds. Describe the synthesis, reactions and medicinal uses of furan.",
+      "answer": "1. Classification: by ring size (3–7), number and kind of hetero atoms, saturation (aromatic, partly saturated, saturated), fusion (monocyclic, benzo-fused, heterofused), π-excessive vs π-deficient.\n2. Nomenclature: trivial names (pyrrole, furan, pyridine); Hantzsch–Widman — prefixes oxa > thia > aza, stems -ole (5, unsaturated), -olidine (5, saturated with N), -olane (5, saturated without N), -irane/-iridine (3), -etane/-etidine (4); numbering from the highest-priority hetero atom with lowest locants; replacement names (1-azanaphthalene = quinoline); α/β positions.\n3. Furan synthesis: bran/corn cobs + dilute acid → furfural; decarbonylation over ZnO–Cr2O3 or Pd with steam → furan; mucic acid → pyromucic acid → −CO2; Paal–Knorr (1,4-diketone + P2O5/H2SO4 → 2,5-dimethylfuran); Feist–Bénary (α-haloketone + β-ketoester + pyridine).\n4. Reactions at C-2 under mild conditions: acetyl nitrate → 2-nitrofuran; pyridine–SO3; bromine–dioxane → 2-bromofuran; Ac2O/BF3 → 2-acetylfuran; Vilsmeier → furfural.\n5. Addition reactions (low aromaticity): Diels–Alder with maleic anhydride; H2/Ni → tetrahydrofuran; acid ring opening to 1,4-dicarbonyls.\n6. Uses: nitrofurantoin, nitrofurazone, furazolidone, ranitidine, furosemide, dantrolene; THF solvent."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the relative aromaticity and basicity of pyrrole.",
+      "answer": "1. Pyrrole: planar, four sp2 carbons each give 1 p electron, N gives its lone pair → 6 π electrons; aromatic.\n2. Aromaticity among the three: thiophene > pyrrole > furan (resonance energies about 122, 88, 67 kJ/mol); depends on how readily the hetero atom donates its lone pair (electronegativity O > N > S) and orbital overlap.\n3. Because N donates strongly, pyrrole is the most reactive towards electrophiles.\n4. Basicity: extremely weak (pKa of conjugate acid about −3.8) because the lone pair is part of the sextet; protonation would destroy aromaticity.\n5. In strong acid protonation occurs at C-2, and the cation polymerises.\n6. Pyrrolidine (saturated) is a strong base (pKa about 11) — shows the effect of aromaticity.\n7. Pyrrole is weakly acidic (N–H pKa about 17) and forms potassium pyrrolide."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Why does electrophilic substitution in pyrrole, furan and thiophene occur mainly at the 2-position?",
+      "answer": "1. These rings are π-excessive and react with electrophiles faster than benzene.\n2. Attack at C-2 gives a cationic intermediate with three resonance structures: positive charge on C-3, C-5 and on the hetero atom.\n3. Attack at C-3 gives only two resonance structures (charge on C-2 and on the hetero atom).\n4. The more delocalised C-2 intermediate is more stable, so its transition state is lower and C-2 substitution is faster.\n5. If both C-2 and C-5 are occupied, substitution occurs at C-3.\n6. Examples: pyrrole + acetyl nitrate → 2-nitropyrrole; thiophene + H2SO4 → thiophene-2-sulphonic acid; furan + Ac2O/BF3 → 2-acetylfuran."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the methods of synthesis and important reactions of thiophene.",
+      "answer": "1. Synthesis: (a) industrial — n-butane or butadiene + sulphur at about 560 °C; (b) Volhard–Erdmann — sodium succinate + P2S3, heat; (c) Paal–Knorr — 1,4-diketone + P2S5 → 2,5-dimethylthiophene; (d) acetylene + H2S over heated alumina; (e) Hinsberg — 1,2-dicarbonyl + diethyl thiodiacetate.\n2. Electrophilic substitution at C-2: HNO3/Ac2O → 2-nitrothiophene; conc. H2SO4 at room temperature → thiophene-2-sulphonic acid (used to remove thiophene from benzene); halogenation; Ac2O/H3PO4 → 2-acetylthiophene; chloromethylation; mercuration.\n3. Raney Ni desulphurisation → n-butane.\n4. Oxidation with peracids → sulphone; reduction with Pd → tetrahydrothiophene.\n5. Indophenin test: blue colour with isatin + conc. H2SO4.\n6. Uses: clopidogrel, ticlopidine, tenoxicam, olanzapine, duloxetine, tiotropium; biotin."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the Hantzsch–Widman system of nomenclature of heterocyclic compounds with examples.",
+      "answer": "1. Systematic naming for monocyclic heterocycles: prefix(es) for the hetero atoms + stem for ring size and saturation.\n2. Prefixes in priority order: oxa (O) > thia (S) > aza (N); final 'a' dropped before a vowel; di-, tri- for multiples.\n3. Stems: 3-membered -irine/-irene (unsaturated), -iridine (saturated with N), -irane (saturated without N); 4-membered -ete, -etidine, -etane; 5-membered -ole, -olidine, -olane; 6-membered with N -ine (unsaturated), -inane (saturated).\n4. Numbering: start at the highest-priority hetero atom (1) and give lowest locants to the other hetero atoms.\n5. Examples: oxirane (ethylene oxide), aziridine, azetidine (azetidin-2-one = β-lactam), oxole (furan), thiole (thiophene), azole (pyrrole), oxolane (THF), 1,3-diazole (imidazole), 1,3-thiazole, 1,3-oxazole, azine (pyridine), 1,3-diazine (pyrimidine), azinane (piperidine)."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Give the medicinal uses of pyrrole, furan and thiophene derivatives with one example structure-type each.",
+      "answer": "1. Pyrrole: haem (porphyrin), vitamin B12 (corrin); atorvastatin (cholesterol-lowering); tolmetin and ketorolac (NSAIDs); sunitinib (anticancer); povidone-iodine (antiseptic, pyrrolidone polymer).\n2. Furan: nitrofurantoin (urinary antiseptic), nitrofurazone (topical), furazolidone (antiprotozoal/antibacterial) — all 5-nitrofurans; ranitidine (H2 blocker); furosemide (loop diuretic); dantrolene (muscle relaxant).\n3. Thiophene: clopidogrel, ticlopidine, prasugrel (antiplatelet thienopyridines); tenoxicam (NSAID, thiophene in place of benzene of piroxicam); ticarcillin; olanzapine; duloxetine; tiotropium; biotin.\n4. Thiophene is used as a bioisostere of benzene in drug design."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Arrange pyrrole, furan, thiophene and benzene in order of aromaticity.",
+      "answer": "Benzene > thiophene > pyrrole > furan (resonance energies about 150, 122, 88 and 67 kJ/mol)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the indophenin test?",
+      "answer": "Thiophene gives a blue colour when warmed with isatin and conc. H2SO4; it was used by Victor Meyer to detect thiophene in coal-tar benzene."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the synthesis and reactions of pyridine. Compare its basicity with pyrrole, piperidine and aniline. Give its medicinal uses.",
+      "answer": "1. Structure: six-membered aromatic ring with one N; 6 π electrons; N lone pair in an sp2 orbital in the ring plane (not in the sextet); π-deficient.\n2. Synthesis: (a) Hantzsch — 2 ethyl acetoacetate + aldehyde + NH3 → 1,4-dihydropyridine → HNO3 oxidation → pyridine; (b) Chichibabin — acetaldehyde + formaldehyde + NH3 over catalyst; (c) acetylene + HCN through a red-hot tube; (d) pentamethylenediamine hydrochloride → piperidine → dehydrogenation.\n3. Reactions at N: salts, N-alkylpyridinium salts (CH3I), acylpyridinium (acylation catalyst), pyridine–SO3, N-oxide with peracid.\n4. Electrophilic substitution difficult, at C-3: KNO3/fuming H2SO4 about 300 °C → 3-nitropyridine; oleum/HgSO4 → pyridine-3-sulphonic acid; Br2/oleum → 3-bromopyridine; no Friedel–Crafts. N-oxide nitrates at C-4.\n5. Nucleophilic substitution at C-2/C-4: Chichibabin (NaNH2) → 2-aminopyridine; PhLi → 2-phenylpyridine; KOH fusion → 2-pyridone.\n6. Reduction (Na/EtOH or H2/Pt) → piperidine; side-chain oxidation: β-picoline → nicotinic acid; γ-picoline → isonicotinic acid → isoniazid.\n7. Basicity (pKa of conjugate acid): piperidine 11.1 > pyridine 5.2 > aniline 4.6 >> pyrrole (about −3.8). Pyridine weaker than piperidine because the lone pair is sp2 (more s character); stronger than aniline (no delocalisation into a ring) and far stronger than pyrrole (lone pair not in the sextet).\n8. Uses: niacin, isoniazid, pyridoxine, nifedipine/amlodipine, chlorpheniramine, pyridostigmine, nikethamide."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Give two methods of synthesis of quinoline with mechanism of the Skraup synthesis. Write its important reactions and medicinal uses.",
+      "answer": "1. Quinoline = benzo[b]pyridine, N at 1; weak base (pKa about 4.9).\n2. Skraup synthesis: aniline + glycerol + conc. H2SO4 + nitrobenzene (FeSO4 moderator).\n3. Mechanism: (i) glycerol dehydrated by H2SO4 → acrolein; (ii) Michael addition of aniline to acrolein → 3-anilinopropanal; (iii) acid-catalysed cyclisation onto the ortho position and dehydration → 1,2-dihydroquinoline; (iv) oxidation by nitrobenzene → quinoline.\n4. Other syntheses: Doebner–Miller (aniline + crotonaldehyde/HCl → quinaldine); Friedländer (o-aminobenzaldehyde + acetaldehyde, base); Combes (aniline + acetylacetone, H2SO4 → 2,4-dimethylquinoline); Conrad–Limpach (aniline + β-ketoester → 4-quinolone).\n5. Electrophilic substitution in the benzene ring at C-5 and C-8: HNO3/H2SO4 → 5- and 8-nitroquinoline; oleum → 8-sulphonic acid.\n6. Nucleophilic substitution at C-2: NaNH2 → 2-aminoquinoline; KOH → 2-quinolone; RLi → 2-alkyl.\n7. Oxidation with KMnO4 → quinolinic acid (pyridine-2,3-dicarboxylic acid); reduction Sn/HCl → 1,2,3,4-tetrahydroquinoline.\n8. Uses: quinine, quinidine, chloroquine, amodiaquine, primaquine, mefloquine; fluoroquinolones (ciprofloxacin, norfloxacin); 8-hydroxyquinoline, clioquinol; montelukast."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the synthesis, reactions and medicinal uses of indole. Why does indole undergo electrophilic substitution at C-3?",
+      "answer": "1. Indole = benzo[b]pyrrole; NH at 1; aromatic, π-excessive; very weak base, weakly acidic NH (pKa about 17).\n2. Fischer indole synthesis: phenylhydrazine + aldehyde/ketone → phenylhydrazone → acid (ZnCl2, PPA) heat → ene-hydrazine → [3,3]-sigmatropic rearrangement → cyclisation → loss of NH3. Acetone gives 2-methylindole; pyruvic acid gives indole-2-carboxylic acid → decarboxylation → indole.\n3. Madelung: N-acyl-o-toluidine + strong base (NaNH2, KOt-Bu), high temperature → 2-substituted indole (N-formyl gives indole).\n4. Reissert: o-nitrotoluene + diethyl oxalate (KOEt) → o-nitrophenylpyruvate → reduction (Zn/AcOH) → indole-2-carboxylic acid → indole. Bischler: phenacyl bromide + aniline → 2-arylindole.\n5. Electrophilic substitution at C-3: Vilsmeier → indole-3-carbaldehyde; Mannich → gramine; benzoyl nitrate → 3-nitroindole; NBS → 3-bromoindole; acylation; Michael addition.\n6. Reason for C-3: the cation from C-3 attack is stabilised by the nitrogen lone pair while the benzene ring stays aromatic; C-2 attack would require disrupting the benzene sextet.\n7. N-metal salts and N-alkylation; reduction (Zn/HCl) → indoline; oxidation → indoxyl, oxindole, isatin.\n8. Uses: tryptophan, serotonin, melatonin; indomethacin; sumatriptan; reserpine; vinblastine, vincristine; ergot alkaloids; pindolol; fluvastatin."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the basicity of pyridine. Why is pyridine less basic than piperidine but more basic than pyrrole?",
+      "answer": "1. Pyridine's N lone pair is in an sp2 orbital in the ring plane, not part of the aromatic sextet, so it can accept a proton without loss of aromaticity; pKa of pyridinium about 5.2.\n2. Piperidine (pKa about 11.1): sp3 nitrogen; its lone pair has 25% s character and is held less tightly than pyridine's sp2 lone pair (33% s character), so piperidine is the stronger base.\n3. Pyrrole (about −3.8): its lone pair is part of the sextet; protonation destroys aromaticity, so it is almost non-basic.\n4. Aniline (4.6) is slightly weaker than pyridine because its lone pair is delocalised into the benzene ring.\n5. Electron-donating groups (CH3, NH2 at 2/4) raise pyridine's basicity (4-dimethylaminopyridine); electron-withdrawing groups (NO2, Cl, CN) lower it.\n6. Order: piperidine > pyridine > aniline > pyrrole."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the Bischler–Napieralski synthesis of isoquinoline and its important reactions.",
+      "answer": "1. N-Acyl-β-phenylethylamine (C6H5CH2CH2NHCOR) is heated with a dehydrating agent (POCl3 or P2O5) → cyclisation onto the benzene ring with loss of water → 1-substituted 3,4-dihydroisoquinoline.\n2. Dehydrogenation (Pd, heat) → isoquinoline. Electron-donating –OCH3 groups on the ring help; used for papaverine.\n3. Other syntheses: Pictet–Spengler (β-phenylethylamine + HCHO, acid → tetrahydroisoquinoline); Pomeranz–Fritsch (benzaldehyde + aminoacetaldehyde diethyl acetal → H2SO4).\n4. Reactions: electrophilic substitution at C-5 (nitration → 5-nitroisoquinoline); nucleophilic at C-1 (NaNH2 → 1-aminoisoquinoline); KMnO4 → phthalic acid + cinchomeronic acid; Sn/HCl → tetrahydroisoquinoline; salts and N-oxide; pKa about 5.4.\n5. Uses: papaverine, emetine, noscapine, tubocurarine, quinapril, praziquantel."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the synthesis and medicinal uses of pyrimidine and purine.",
+      "answer": "1. Pyrimidine (1,3-diazine): principal synthesis — 1,3-dicarbonyl (malonic ester, β-ketoester, β-diketone) + N–C–N unit (urea, thiourea, guanidine, amidine). Diethyl malonate + urea (NaOEt) → barbituric acid; ethyl acetoacetate + thiourea → 6-methyl-2-thiouracil. Parent: barbituric acid + POCl3 → 2,4,6-trichloropyrimidine → reduction.\n2. Pyrimidine reactions: nucleophilic substitution at 2,4,6; electrophilic only at C-5 when activated.\n3. Pyrimidine drugs: cytosine, thymine, uracil; barbiturates (phenobarbital, thiopental); 5-fluorouracil; zidovudine; trimethoprim, pyrimethamine; sulfadiazine; propylthiouracil; flucytosine; minoxidil.\n4. Purine (pyrimidine fused with imidazole): Traube synthesis — 4,5-diaminopyrimidine + formic acid (or formamide) closes the imidazole ring at C-8 (2,4,5-triamino-6-hydroxypyrimidine → guanine). Fischer: uric acid + POCl3 → 2,6,8-trichloropurine → reduction.\n5. Purine drugs: adenine, guanine; caffeine, theophylline, theobromine; 6-mercaptopurine, 6-thioguanine, azathioprine; acyclovir, ganciclovir; allopurinol (isomer) for gout."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the synthesis, reactions and medicinal uses of imidazole.",
+      "answer": "1. Imidazole (1,3-diazole): NH at 1, pyridine-type N at 3; amphoteric (pKa about 7 as base, about 14.5 as acid); high bp (about 256 °C) due to N–H···N hydrogen bonding; tautomerism makes 4 and 5 equivalent.\n2. Synthesis: Debus–Radziszewski — glyoxal + formaldehyde + ammonia → imidazole (benzil + benzaldehyde + NH3 → 2,4,5-triphenylimidazole); α-haloketone + formamide; Marckwald — α-aminoketone + KSCN → 2-mercaptoimidazole → oxidative removal of SH.\n3. Reactions: salts with acids; N-alkylation → imidazolium salts; N-acylation (carbonyldiimidazole as coupling agent); electrophilic substitution at C-4/5 (nitration → 4(5)-nitroimidazole; bromination → 2,4,5-tribromoimidazole); diazo coupling at C-2.\n4. Uses: histidine, histamine; metronidazole, tinidazole; clotrimazole, ketoconazole, miconazole; cimetidine; omeprazole; albendazole, mebendazole; pilocarpine; losartan."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the Hantzsch synthesis of thiazole and the medicinal importance of thiazole.",
+      "answer": "1. Hantzsch thiazole synthesis: an α-haloketone condenses with a thioamide; S attacks the CH2–X carbon, N condenses with C=O, water is lost.\n2. Chloroacetone + thioacetamide → 2,4-dimethylthiazole; with thiourea → 2-amino-4-methylthiazole.\n3. Other methods: Gabriel (α-acylaminoketone + P2S5); Cook–Heilbron (α-aminonitrile + CS2 → 5-aminothiazoles).\n4. Properties: aromatic, weak base (pKa about 2.5); electrophiles at C-5; N-alkylation gives thiazolium salts whose C-2 H is acidic.\n5. Thiamine pyrophosphate uses the thiazolium C-2 to decarboxylate α-keto acids (pyruvate).\n6. Uses: thiamine (B1), penicillins (thiazolidine ring), sulfathiazole, famotidine, nizatidine, meloxicam, ritonavir, thiabendazole, pioglitazone (thiazolidinedione)."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on acridine: synthesis, reactions and medicinal uses.",
+      "answer": "1. Acridine = dibenzo[b,e]pyridine (aza analogue of anthracene); N at 10, reactive C-9 opposite; weak base (pKa about 5.6).\n2. Bernthsen synthesis: diphenylamine + carboxylic acid (formic acid for acridine) + ZnCl2 at about 200–270 °C.\n3. Via acridone: o-chlorobenzoic acid + aniline (Cu, Ullmann) → N-phenylanthranilic acid → conc. H2SO4 → acridone → POCl3 → 9-chloroacridine → amines → 9-aminoacridines.\n4. Reactions: nucleophilic attack at C-9 (NaNH2 → 9-aminoacridine); electrophilic substitution at C-2/C-7; dichromate oxidation → acridone; reduction → 9,10-dihydroacridine (acridan).\n5. Uses: proflavine, acriflavine, ethacridine, aminacrine (antiseptics); mepacrine (antimalarial, giardiasis); amsacrine (anticancer); tacrine (Alzheimer's). Flat ring intercalates into DNA."
+    },
+    {
+      "id": "u4-s07",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on azepines and their medicinal derivatives.",
+      "answer": "1. Azepine: seven-membered ring with one N; 1H-azepine would have 8 π electrons, so it is non-planar (boat), non-aromatic and unstable; N-acyl azepines are more stable.\n2. Synthesis of N-ethoxycarbonyl-1H-azepine: ethyl azidoformate loses N2 (heat or light) → nitrene adds to benzene → azanorcaradiene → valence tautomerisation to the azepine.\n3. Saturated derivative ε-caprolactam (azepan-2-one) from Beckmann rearrangement of cyclohexanone oxime; polymerised to nylon-6.\n4. Dibenzazepines: iminodibenzyl (from 2,2'-diaminobibenzyl + acid) + 3-chloro-N,N-dimethylpropylamine/NaNH2 → imipramine (antidepressant); iminostilbene + phosgene then NH3 → carbamazepine (antiepileptic).\n5. 1,4-Benzodiazepines (two N in the 7-ring): 2-amino-5-chlorobenzophenone → bromoacetylation → NH3 cyclisation → nordazepam → N-methylation → diazepam.\n6. Uses: imipramine, clomipramine; carbamazepine, oxcarbazepine; diazepam, lorazepam, chlordiazepoxide; clozapine, olanzapine; benazepril."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the Chichibabin reaction?",
+      "answer": "Direct amination of pyridine at C-2 by heating with sodium amide (in toluene or liquid NH3), giving 2-aminopyridine with loss of hydride (H2); a nucleophilic substitution on a π-deficient ring."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the purine present in tea and coffee and give its structure in words.",
+      "answer": "Caffeine — 1,3,7-trimethylxanthine (xanthine = purine-2,6-dione, with methyl groups on N-1, N-3 and N-7)."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the Beckmann rearrangement with mechanism, stereochemistry and applications. Compare it with the Schmidt rearrangement.",
+      "answer": "1. Definition: ketoxime → N-substituted amide in acid (conc. H2SO4, PCl5, PPA, SOCl2, Beckmann's mixture).\n2. Examples: acetophenone oxime → acetanilide; benzophenone oxime → benzanilide; cyclohexanone oxime → ε-caprolactam.\n3. Mechanism: (i) OH protonated/activated to a leaving group; (ii) water leaves while the anti group migrates from C to N (concerted) → nitrilium ion; (iii) water adds to carbon → imidic acid; (iv) tautomerisation → amide.\n4. Stereochemistry: only the group anti to OH migrates (stereospecific); a chiral migrating group keeps its configuration.\n5. Applications: determining ketoxime configuration; industrial caprolactam → nylon-6; paracetamol from 4-hydroxyacetophenone oxime; ring expansion to lactams; aldoximes give nitriles.\n6. Schmidt: carbonyl compound + HN3 + conc. H2SO4; acids → amines with one carbon fewer (via isocyanate), ketones → amides, aldehydes → nitriles; N2 is lost.\n7. Comparison: Beckmann starts from an oxime, Schmidt directly from the acid/ketone; both involve migration of a group from C to electron-deficient N with retention; Schmidt uses toxic, explosive HN3 (made from NaN3 + H2SO4)."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Compare Clemmensen and Wolff–Kishner reductions with mechanism, conditions, examples and limitations.",
+      "answer": "1. Both reduce the C=O of aldehydes and ketones to CH2.\n2. Clemmensen: Zn–Hg + conc. HCl, reflux. Acetophenone → ethylbenzene; propiophenone → n-propylbenzene (Friedel–Crafts acylation + Clemmensen avoids rearrangement of direct alkylation).\n3. Clemmensen mechanism: surface reaction on zinc; electron transfer to the protonated carbonyl, zinc-bound carbenoid intermediates, stepwise protonation; the alcohol is not an intermediate.\n4. Clemmensen limitations: acid-sensitive groups (acetals, furans, pyrroles, alcohols that dehydrate); poorly soluble high molecular weight ketones.\n5. Wolff–Kishner: hydrazone formed with NH2NH2, then heated with KOH or NaOEt at about 180–200 °C; N2 evolved. Huang-Minlon modification: hydrazine hydrate + KOH in diethylene glycol, water distilled off, one pot at normal pressure.\n6. Wolff–Kishner mechanism: hydrazone → deprotonation at N → protonation at C → second deprotonation → loss of N2 → carbanion → protonation → CH2.\n7. Wolff–Kishner limitations: base-sensitive groups (esters hydrolysed, halides eliminated); hindered ketones form hydrazones slowly; high temperature.\n8. Choice: acid-stable/base-sensitive → Clemmensen; base-stable/acid-sensitive → Wolff–Kishner. Tabulate the comparison."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss metal hydride reduction using LiAlH4 and NaBH4. Add notes on Birch reduction and Oppenauer oxidation.",
+      "answer": "1. Metal hydrides supply H⁻, which adds to the carbon of C=O or C≡N; the metal alkoxide is hydrolysed on work-up; one AlH4⁻/BH4⁻ delivers four hydrides.\n2. LiAlH4: strong, dry ether/THF, reacts violently with water; reduces aldehydes, ketones, acids, esters, acid chlorides → alcohols; amides and nitriles → amines; epoxides, alkyl halides; not isolated C=C.\n3. NaBH4: mild, used in water/methanol/ethanol; reduces aldehydes, ketones and acid chlorides only; ester, acid, amide, nitrile untouched (ethyl acetoacetate → ethyl 3-hydroxybutanoate).\n4. Birch reduction: arene + Na or Li in liquid NH3 + EtOH → 1,4-cyclohexadiene; mechanism electron → radical anion → protonation → electron → anion → protonation; electron donors (OMe) end up on the double bond, acceptors (COOH) on sp3 carbon; anisole → 1-methoxycyclohexa-1,4-diene → hydrolysis to cyclohexenone; used for 19-nor steroids.\n5. Oppenauer oxidation: secondary alcohol + aluminium tert-butoxide/isopropoxide + excess acetone → ketone; six-membered cyclic transition state with hydride transfer to acetone; reverse of Meerwein–Ponndorf–Verley reduction; selective (C=C unaffected), no over-oxidation; cholesterol → cholest-4-en-3-one; pregnenolone → progesterone."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between LiAlH4 and NaBH4 as reducing agents.",
+      "answer": "1. Strength: LiAlH4 strong; NaBH4 mild.\n2. Solvent: LiAlH4 dry ether or THF only; NaBH4 water, methanol, ethanol.\n3. Reaction with water: LiAlH4 violent (H2 evolved, fire hazard); NaBH4 stable in neutral/basic water.\n4. Groups reduced: both reduce aldehydes and ketones to alcohols; LiAlH4 also reduces acids, esters (to alcohols), amides and nitriles (to amines), epoxides and alkyl halides; NaBH4 normally does not reduce acids, esters, amides or nitriles.\n5. Selectivity: NaBH4 can reduce a ketone in the presence of an ester (ethyl acetoacetate → ethyl 3-hydroxybutanoate); LiAlH4 would reduce both.\n6. Neither normally reduces an isolated C=C.\n7. Mechanism common: hydride transfer to carbonyl carbon, then protonation on work-up."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the Birch reduction with mechanism and the effect of substituents.",
+      "answer": "1. Aromatic ring + Na (or Li, K) in liquid NH3 with an alcohol (EtOH or t-BuOH) → non-conjugated 1,4-cyclohexadiene.\n2. Mechanism: metal gives solvated electrons (blue solution); electron adds to ring → radical anion; protonation by alcohol → radical; second electron → cyclohexadienyl anion; protonation at the central carbon → 1,4-diene.\n3. Electron-donating groups (–OCH3, –CH3): end up on a double-bond carbon; anisole → 1-methoxycyclohexa-1,4-diene, hydrolysed by acid to cyclohexenone.\n4. Electron-withdrawing groups (–COOH): end up on the sp3 carbon; benzoic acid → cyclohexa-2,5-diene-1-carboxylic acid.\n5. Uses: 19-nor steroids (norethisterone) from estradiol methyl ether; cyclohexenones; alkynes → trans-alkenes (dissolving metal).\n6. Precautions: dry apparatus, fume hood, careful handling of alkali metals and liquid NH3."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on Oppenauer oxidation.",
+      "answer": "1. Oxidation of a secondary alcohol to a ketone with aluminium tert-butoxide (or isopropoxide) and a large excess of acetone (hydride acceptor) in benzene/toluene.\n2. Reverse of the Meerwein–Ponndorf–Verley reduction; reversible, so excess acetone drives it.\n3. Mechanism: alcohol forms an aluminium alkoxide; acetone coordinates to Al; hydride moves from the carbinol carbon to the acetone carbonyl through a six-membered cyclic transition state; ketone released, isopropoxide formed.\n4. Advantages: mild, selective; C=C bonds and other oxidisable groups untouched; no over-oxidation.\n5. Applications: steroids — cholesterol → cholest-4-en-3-one (double bond shifts into conjugation); pregnenolone → progesterone.\n6. Limitation: primary alcohols give aldehydes that self-condense under the basic conditions."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the Dakin reaction with mechanism and uses.",
+      "answer": "1. o- or p-Hydroxy (or amino) benzaldehyde or aryl ketone + alkaline H2O2 → dihydric phenol + carboxylate.\n2. Salicylaldehyde → catechol + formate; p-hydroxybenzaldehyde → hydroquinone.\n3. Mechanism: HOO⁻ adds to the carbonyl carbon → tetrahedral intermediate; the aryl group migrates from C to O as OH⁻ leaves (O–O cleavage) → aryl formate; alkaline hydrolysis → phenol + formate.\n4. Similar to Baeyer–Villiger oxidation.\n5. The o/p-OH (as phenoxide) donates electrons and makes the aryl group migrate readily; without it the aldehyde is oxidised to the acid.\n6. Uses: preparation of catechol and hydroquinone and substituted catechols used in drug synthesis."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the Claisen–Schmidt condensation with mechanism and examples.",
+      "answer": "1. Crossed aldol condensation of an aromatic aldehyde (no α-H) with an aldehyde or ketone having α-H, in dilute NaOH, followed by dehydration → α,β-unsaturated carbonyl compound.\n2. Examples: benzaldehyde + acetaldehyde → cinnamaldehyde; benzaldehyde + acetone → benzalacetone (excess benzaldehyde → dibenzalacetone); benzaldehyde + acetophenone → chalcone.\n3. Mechanism: OH⁻ forms the enolate of the ketone; enolate attacks benzaldehyde carbonyl; alkoxide protonated → β-hydroxy ketone; E1cB dehydration (conjugation with ring and C=O drives it).\n4. Benzaldehyde cannot self-condense, so one crossed product dominates.\n5. Uses: chalcones (flavonoid precursors, studied for antimicrobial and anti-inflammatory activity), cinnamaldehyde, α,β-unsaturated ketones for pyrazoline and other heterocycle synthesis."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the Schmidt reaction with mechanism.",
+      "answer": "1. Carbonyl compound + hydrazoic acid (HN3) in conc. H2SO4; N2 is evolved.\n2. Carboxylic acid → primary amine with one carbon fewer + CO2 (benzoic acid → aniline); ketone → amide (cyclohexanone → caprolactam); aldehyde → nitrile.\n3. Mechanism (acid): acylium ion forms in H2SO4 → adds HN3 → protonated acyl azide → loss of N2 with simultaneous migration of R from C to N → protonated isocyanate → hydration → carbamic acid → −CO2 → amine.\n4. Migrating group retains configuration.\n5. Related to Hofmann (amide + Br2/NaOH), Curtius (acyl azide, heat) and Lossen (hydroxamic acid) — all via isocyanate.\n6. Precaution: HN3 is toxic and explosive; generate it from NaN3 + H2SO4 in small amounts."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the Huang-Minlon modification?",
+      "answer": "A one-pot form of the Wolff–Kishner reduction: the carbonyl compound is heated with hydrazine hydrate and KOH in diethylene glycol, water is distilled off, and the mixture is held near 200 °C at normal pressure, giving high yields."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which group migrates in the Beckmann rearrangement?",
+      "answer": "The group anti (trans) to the hydroxyl of the oxime migrates from carbon to nitrogen; the reaction is stereospecific."
+    }
+  ]
+}

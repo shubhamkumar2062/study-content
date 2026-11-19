@@ -1,0 +1,48 @@
+{
+  "code": "BP401T",
+  "title": "Pharmaceutical Organic Chemistry III",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus, semester IV, BP401T Pharmaceutical Organic Chemistry III (Theory), as published by Mohanlal Sukhadia University",
+    "url": "https://www.mlsu.ac.in/syllabus/pgs/BP401T.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Stereoisomerism: optical isomerism",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Geometrical and conformational isomerism, atropisomerism, stereospecific reactions",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Heterocyclic compounds: nomenclature, pyrrole, furan and thiophene",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Azoles, pyridine and fused heterocycles, pyrimidine, purine and azepines",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Reactions of synthetic importance",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
