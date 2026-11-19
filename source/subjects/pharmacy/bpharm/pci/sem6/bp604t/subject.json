@@ -1,0 +1,48 @@
+{
+  "code": "BP604T",
+  "title": "Biopharmaceutics and Pharmacokinetics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP604T Biopharmaceutics and Pharmacokinetics",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP604T_B.Pharma-pages-31.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Absorption and distribution of drugs, protein binding",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Elimination; bioavailability and bioequivalence",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Pharmacokinetic models and the one-compartment open model",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Two-compartment model and multiple dosing",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Nonlinear pharmacokinetics",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

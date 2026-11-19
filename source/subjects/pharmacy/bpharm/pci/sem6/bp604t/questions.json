@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the various mechanisms of drug absorption through the gastrointestinal tract with suitable examples.",
+      "answer": "1. Introduction: absorption = movement of drug from site of administration into systemic circulation; GI membrane is a lipid bilayer with proteins and small aqueous pores.\n2. Passive diffusion (most drugs): down the concentration gradient, no energy, no carrier, non-saturable; Fick's law dQ/dt = D A Km/w (CGIT − C); sink condition makes it first order; favours small, lipophilic, un-ionised molecules; pH-partition hypothesis.\n3. Carrier-mediated transport: specific, saturable (Michaelis–Menten), competitive.\n   a. Facilitated diffusion — down the gradient, no energy (vitamin B12 with intrinsic factor).\n   b. Active transport — against the gradient, needs ATP (primary) or ion gradient (secondary); inhibited by metabolic poisons; levodopa, methyldopa, 5-fluorouracil, iron, PEPT1 for some cephalosporins and ACE inhibitors.\n4. Efflux by P-glycoprotein reduces absorption of some drugs.\n5. Pore (convective) transport: very small water-soluble molecules (MW below about 100–200) such as urea pass through water channels.\n6. Ion-pair transport: highly ionised drugs (quaternary ammonium compounds) pair with an oppositely charged ion to form a neutral, lipid-soluble complex.\n7. Endocytosis: pinocytosis (fat-soluble vitamins, oral polio vaccine), phagocytosis, receptor-mediated endocytosis, transcytosis.\n8. Diagram: classification tree of mechanisms; table comparing passive, facilitated and active transport (gradient, energy, carrier, saturation, examples)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the factors influencing drug absorption from the gastrointestinal tract.",
+      "answer": "1. Physicochemical (drug) factors: solubility and dissolution rate (Noyes–Whitney dC/dt = D A (Cs − Cb)/h); particle size (micronised griseofulvin); polymorphism and amorphism (chloramphenicol palmitate form B); hydrates vs anhydrous (anhydrous ampicillin dissolves faster); salt form; pKa and lipophilicity (pH-partition); stability in GI fluids (benzylpenicillin, erythromycin); complexation (tetracycline with Ca2+, Fe2+); adsorption on charcoal or antacids.\n2. Dosage-form factors: type (solution > suspension > capsule > tablet > coated tablet); disintegration and dissolution; excipients (diluents, binders, disintegrants, hydrophobic lubricants like magnesium stearate, surfactants); manufacturing variables (compression force, granulation, coating); storage and ageing.\n3. Patient-related factors: gastric emptying rate (delayed by fatty food, anticholinergics; increased by metoclopramide); intestinal transit time; GI pH; food and drinks; GI blood flow; disease states (achlorhydria, malabsorption, cirrhosis); first-pass metabolism in gut wall and liver (propranolol, GTN); age.\n4. Conclusion with a table summarising each factor and example."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is plasma protein binding? Discuss the factors affecting protein–drug binding, kinetics of protein binding and its clinical significance.",
+      "answer": "1. Definition: reversible combination of drug with plasma proteins; only free drug is active, metabolised and filtered.\n2. Binding proteins: albumin (acids; sites I warfarin, II diazepam), α1-acid glycoprotein (bases: lidocaine, propranolol), lipoproteins, globulins (transcortin, TBG), red cells.\n3. Factors: drug (lipophilicity, concentration, affinity); protein (concentration, number of sites; hypoalbuminaemia); drug interactions (displacement: phenylbutazone displaces warfarin; sulfonamides displace bilirubin); patient (age, pregnancy, renal and hepatic disease, inflammation raises α1-AGP).\n4. Kinetics: P + D ⇌ PD, Ka = [PD]/([P][D]); r = nKa[D]/(1 + Ka[D]); Scatchard plot r/[D] = nKa − rKa (slope −Ka, x-intercept n); Klotz double-reciprocal plot 1/r = 1/(nKa[D]) + 1/n (y-intercept 1/n). Methods: equilibrium dialysis, ultrafiltration.\n5. Clinical significance: maintains sink for absorption; restricts distribution (small Vd); delays onset but prolongs action; reduces filtration and metabolism (longer t½); displacement interactions for highly bound (> 95%), small-Vd, narrow-index drugs; changes in disease; diagnostic use.\n6. Example: 99% → 98% bound doubles free fraction (0.01 → 0.02)."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the pH-partition hypothesis and give its limitations.",
+      "answer": "1. Statement: only the un-ionised, lipid-soluble form of a weak acid or base crosses the GI membrane by passive diffusion; absorption depends on pKa, pH at the site and lipid solubility.\n2. Henderson–Hasselbalch: acid pH − pKa = log(I/U); base pKa − pH = log(I/U).\n3. Example: weak acid pKa 3.5 is 99% un-ionised at pH 1.5 but only about 0.013% at pH 7.4.\n4. Limitations: large intestinal surface area absorbs even ionised acids; micro-climate pH at membrane (about 5.3) differs from lumen; longer residence time in intestine; some ionised drugs absorbed by ion pairs or pores; ignores carrier transport and unstirred layer."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define apparent volume of distribution. What is its significance? Give examples of drugs with small and large Vd.",
+      "answer": "1. Vd = amount of drug in body / plasma concentration; hypothetical volume that would hold the body amount at plasma concentration.\n2. Apparent because it need not equal a real body space; can exceed body water.\n3. Relation: Vd = Vp + Vt (fu/fut) — plasma binding lowers, tissue binding raises Vd.\n4. Examples: small Vd (about 3–5 L) heparin, warfarin; ECF about 14–20 L aminoglycosides; body water about 40 L ethanol, antipyrine; very large Vd digoxin, chloroquine, amiodarone.\n5. Significance: loading dose = C × Vd; indicates extent of tissue distribution; drugs with small Vd are removed by dialysis more easily."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on absorption of drugs from non per oral extravascular routes.",
+      "answer": "1. Buccal/sublingual: thin vascular mucosa, rapid, avoids first pass (glyceryl trinitrate).\n2. Rectal: partly bypasses liver via lower rectal veins; useful in vomiting and children; erratic.\n3. Transdermal/topical: stratum corneum is rate-limiting; suitable for potent lipophilic low-MW drugs; steady delivery.\n4. Intramuscular: depends on muscle blood flow (deltoid > thigh > gluteal); depot products slow.\n5. Subcutaneous: slower than IM; insulin.\n6. Pulmonary: large alveolar area, particles about 1–5 µm reach deep lung.\n7. Nasal, ocular, vaginal: mucosal absorption, local and some systemic effect."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain tissue permeability of drugs and the role of the blood–brain barrier in drug distribution.",
+      "answer": "1. Perfusion rate-limited distribution: lipophilic drugs cross freely; tissue uptake set by blood flow (thiopental reaches brain fast, then redistributes to muscle and fat).\n2. Permeability rate-limited: polar/ionised drugs; membrane decides rate.\n3. Drug properties: molecular size, ionisation at pH 7.4, partition coefficient.\n4. BBB: tight junctions, glial cell sheath, efflux pumps; only lipophilic un-ionised drugs enter.\n5. Ways to reach brain: lipophilic prodrugs, carrier transport (levodopa), osmotic disruption, intranasal route.\n6. Placental barrier: lipophilic drugs below about 1,000 Da cross."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State Fick's first law of diffusion as applied to drug absorption.",
+      "answer": "dQ/dt = D A Km/w (CGIT − C): rate of passive diffusion is proportional to the diffusion coefficient, surface area, partition coefficient and the concentration difference, and inversely to membrane thickness; under sink conditions it is first order."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "A patient has 100 mg of drug in the body and a plasma concentration of 2 mg/L. Calculate Vd.",
+      "answer": "Vd = amount in body / plasma concentration = 100 mg / 2 mg/L = 50 L (example numbers)."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the two main plasma proteins that bind drugs and the type of drugs each binds.",
+      "answer": "Albumin binds mainly weakly acidic (and neutral) drugs such as warfarin and phenytoin; α1-acid glycoprotein binds basic drugs such as lidocaine and propranolol."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the renal excretion of drugs. Discuss the factors affecting renal excretion and explain renal clearance.",
+      "answer": "1. Renal excretion = glomerular filtration + active tubular secretion − tubular reabsorption.\n2. Glomerular filtration: passive, only unbound drug of MW below about 20,000; GFR about 125 mL/min; measured with inulin or creatinine.\n3. Active secretion: proximal tubule, carriers for anions (penicillins, probenecid) and cations (morphine, quinine); saturable, competitive (probenecid prolongs penicillin); not limited by protein binding; PAH clearance = renal plasma flow.\n4. Reabsorption: passive, distal tubule, un-ionised form; depends on urine pH (alkalinise for salicylate poisoning, acidify for amphetamine).\n5. Factors: drug properties (polarity, MW, pKa), protein binding, urine pH, urine flow, renal blood flow, age and sex, drug interactions, renal disease.\n6. Renal clearance: CLR = excretion rate / plasma concentration = fe × CLT = ke × Vd. Clearance ratio with GFR: = 1 filtration only, < 1 reabsorption, > 1 secretion.\n7. Example (example numbers): 36 mg excreted between 2 and 4 h, midpoint plasma 3 mg/L → CLR = 18/3 = 6 L/h = 100 mL/min (< GFR, some reabsorption).\n8. Cockcroft–Gault estimate of creatinine clearance and dose adjustment in renal failure."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define bioavailability. Explain absolute and relative bioavailability and describe the methods for measuring bioavailability.",
+      "answer": "1. Definition: rate and extent to which active drug from a dosage form reaches the systemic circulation.\n2. Objectives: formulation development, effect of excipients and process, quality control, generic comparison, dosing decisions, regulatory approval.\n3. Absolute F = (AUCoral × DIV)/(AUCIV × Doral); example IV 100 mg AUC 40, oral 250 mg AUC 70 → F = 0.70.\n4. Relative F = (AUCtest × Dstd)/(AUCstd × Dtest); standard is oral solution or innovator.\n5. Pharmacokinetic methods: (a) plasma level–time studies — Cmax, tmax, AUC (trapezoidal rule); (b) urinary excretion studies — (dXu/dt)max, tu, Xu∞; urine collected for about 7 half-lives.\n6. Pharmacodynamic methods: acute pharmacological response (ECG, pupil size, blood sugar) and therapeutic response (clinical trials).\n7. Study design: healthy volunteers, fasting, crossover with washout of at least 5 half-lives, adequate sampling, validated assay.\n8. Diagram: plasma curve with MEC, MSC, Cmax, tmax, onset, duration, AUC."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is bioequivalence? Describe the design and evaluation of a bioequivalence study. Add a note on methods to enhance the bioavailability of poorly soluble drugs.",
+      "answer": "1. Definitions: pharmaceutical equivalents; bioequivalence = no significant difference in rate and extent of absorption at the same molar dose; therapeutic equivalence.\n2. Design: healthy adult volunteers (often 12–24 or more by power calculation), ethics approval and consent; randomised two-period two-sequence crossover; washout at least 5 half-lives; single dose, fasting (fed if needed); frequent sampling around tmax and for 3 or more half-lives; validated assay.\n3. Parameters: AUC0–t, AUC0–∞, Cmax, tmax.\n4. Statistics: log-transform, ANOVA, two one-sided tests; 90% CI of geometric mean ratio T/R within 80–125%.\n5. Worked example (example numbers): 8 subjects, mean ln(T/R) = −0.0166, SE 0.0189, t = 1.895 → GMR 98.4%, 90% CI 94.9–101.9% → bioequivalent for AUC.\n6. Enhancement methods: micronisation/nanosizing, salt formation, amorphous or metastable forms, solid dispersions (PEG, PVP), cyclodextrin complexes, surfactants, cosolvents, pH adjustment, prodrugs, lipid-based SEDDS."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on in-vitro – in-vivo correlation (IVIVC) and its levels.",
+      "answer": "1. IVIVC: predictive relationship between an in-vitro dissolution property and an in-vivo response.\n2. Level A: point-to-point, fraction dissolved vs fraction absorbed (Wagner–Nelson or deconvolution); strongest; can replace some in-vivo studies.\n3. Level B: mean dissolution time vs mean residence/absorption time (statistical moments).\n4. Level C: one dissolution point vs one PK parameter (AUC or Cmax); weakest. Multiple level C uses several points.\n5. Uses: set dissolution specifications, support formulation changes, reduce human studies. Most likely for BCS Class II drugs."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify dissolution apparatus and describe any two official methods.",
+      "answer": "1. Closed-compartment: basket (Apparatus 1), paddle (2), reciprocating cylinder (3), rotating bottle, beaker method.\n2. Open-compartment: flow-through cell (4) keeps sink condition.\n3. Dialysis methods; paddle over disc (5), rotating cylinder (6), reciprocating holder (7) for special products.\n4. Basket: dosage form in a mesh basket rotated (often 100 rpm) in 900 ml medium at 37 ± 0.5 °C.\n5. Paddle: dosage form sinks to bottom of vessel; paddle rotates (often 50 rpm); sinker for floating capsules.\n6. Samples withdrawn at intervals and assayed; results as % dissolved vs time; profiles compared with f2 (≥ 50 = similar)."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on non-renal routes of drug excretion with emphasis on biliary excretion and enterohepatic circulation.",
+      "answer": "1. Biliary excretion: active secretion of polar, high-MW (above about 500) compounds and glucuronides into bile (erythromycin, rifampicin).\n2. Enterohepatic circulation: conjugate hydrolysed by gut bacteria, free drug reabsorbed; prolongs action, second plasma peak (oral contraceptives, indomethacin); antibiotics killing gut flora reduce it.\n3. Pulmonary: volatile anaesthetics, alcohol.\n4. Salivary: un-ionised drug; used for monitoring (phenytoin, lithium).\n5. Mammary: milk slightly acidic, weak bases concentrate (morphine, nicotine).\n6. Skin/sweat, GI secretion, hair (arsenic)."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain phase I and phase II metabolic reactions with examples.",
+      "answer": "1. Purpose: make lipophilic drugs polar for excretion; mainly liver microsomal enzymes.\n2. Phase I (functionalisation): oxidation by CYP450 (hydroxylation, dealkylation, deamination), reduction (chloramphenicol nitro group, prontosil azo bond), hydrolysis (procaine, lidocaine); product may stay active.\n3. Phase II (conjugation): glucuronidation (morphine, paracetamol), sulfation, acetylation (isoniazid; fast and slow acetylators), methylation (catecholamines), glycine (salicylic acid), glutathione (reactive paracetamol metabolite).\n4. Outcomes: inactivation, active metabolite, prodrug activation, toxic metabolite.\n5. Factors: age, genetics, disease, enzyme induction (rifampicin) and inhibition (cimetidine)."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "A tablet of 200 mg gives an AUC of 60 mg·h/L, and an IV dose of 100 mg of the same drug gives an AUC of 50 mg·h/L. Calculate the absolute bioavailability. Name the parameters used to express rate and extent of bioavailability.",
+      "answer": "1. F = (AUCoral × DIV)/(AUCIV × Doral) = (60 × 100)/(50 × 200) = 6000/10000 = 0.60 → 60% (example numbers).\n2. Extent: AUC (and Xu∞ from urine data).\n3. Rate: Cmax and tmax (and (dXu/dt)max, tu from urine data).\n4. Cmax depends on both rate and extent."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the Cockcroft–Gault equation.",
+      "answer": "CLcr (mL/min) = [(140 − age in years) × weight (kg)] / [72 × serum creatinine (mg/dL)]; multiply by 0.85 for women."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define clearance ratio and state what a value greater than 1 indicates.",
+      "answer": "Clearance ratio = renal clearance of drug / GFR (inulin clearance). A value greater than 1 means the drug is actively secreted in addition to being filtered."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the acceptance range for bioequivalence?",
+      "answer": "The 90% confidence interval of the test/reference geometric mean ratio for AUC and Cmax (log-transformed) must lie within 80.00–125.00%."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the one-compartment open model for a drug given as an intravenous bolus. Explain how KE, t½, Vd, AUC and clearance are calculated from plasma and urinary data.",
+      "answer": "1. Assumptions: body as one well-mixed compartment, instant distribution, first-order elimination.\n2. Equations: dX/dt = −KE X; C = C0 e^(−KE t); log C = log C0 − KE t/2.303 (graph: straight line on semilog paper).\n3. KE = −2.303 × slope; t½ = 0.693/KE.\n4. Vd = X0/C0 (C0 = back-extrapolated intercept).\n5. AUC0–∞ = C0/KE (or trapezoidal rule); CLT = KE Vd = X0/AUC; CLR = fe × CLT.\n6. Urinary data: rate method ln(dXu/dt) = ln(ke X0) − KE t* (t* = midpoint); sigma-minus method ln(Xu∞ − Xu) = ln Xu∞ − KE t; conditions: unchanged drug excreted, complete collection for about 7 t½.\n7. Worked example (example numbers): 500 mg IV; C = 16.82, 14.14, 10.00, 7.07, 5.00, 2.50 mg/L at 1, 2, 4, 6, 8, 12 h → KE = 0.1733 h⁻¹, C0 = 20 mg/L, t½ = 4 h, Vd = 25 L, AUC = 115.4 mg·h/L, CL = 4.33 L/h; with fe 0.6, CLR = 2.60 L/h."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Derive the equation for plasma concentration during a constant-rate IV infusion (one-compartment model). Explain steady state, time to reach it, loading dose and post-infusion kinetics.",
+      "answer": "1. Input zero order R0, elimination first order: dX/dt = R0 − KE X.\n2. Integration gives X = (R0/KE)(1 − e^(−KE t)); dividing by Vd: C = [R0/(KE Vd)](1 − e^(−KE t)) = (R0/CL)(1 − e^(−KE t)).\n3. Steady state when t → ∞: Css = R0/(KE Vd) = R0/CL (input = output).\n4. Time to steady state depends only on t½: 50% at 1 t½, 90% at 3.3 t½, 99% at 6.6 t½; changing R0 changes Css but not the time.\n5. Loading dose XL = Css × Vd = R0/KE gives Css at once.\n6. After stopping at T: C = CT e^(−KE t′).\n7. Worked example (example numbers): KE 0.1733 h⁻¹, Vd 25 L, R0 20 mg/h → Css = 4.62 mg/L; C at 8 h = 3.46 mg/L; 90% Css at 13.3 h; loading dose 115 mg; for Css 10 mg/L, R0 = 43.3 mg/h and loading dose 250 mg.\n8. Graph: rising curve plateauing at Css; with loading dose a flat line."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the one-compartment open model for extravascular (oral) administration. Describe the method of residuals and the Wagner–Nelson method for the determination of the absorption rate constant.",
+      "answer": "1. Equation: C = F X0 Ka/[Vd(Ka − KE)] (e^(−KE t) − e^(−Ka t)); phases: absorption, peak (absorption = elimination), post-absorption.\n2. tmax = ln(Ka/KE)/(Ka − KE); Cmax = (F X0/Vd) e^(−KE tmax); AUC = F X0/CL.\n3. Method of residuals: plot log C vs t; fit terminal line (slope −KE/2.303, intercept A); residual = extrapolated − observed at early times; log residual vs t slope −Ka/2.303; needs Ka at least about 3 KE; lag time where lines cross; flip-flop if Ka < KE.\n4. Example (example numbers): F 0.8, 500 mg, Ka 1.2, KE 0.1733, Vd 25 L → tmax 1.88 h, Cmax 11.54 mg/L; residuals at 0.5–2 h (10.38, 5.74, 3.18, 1.77) give Ka ≈ 1.18 h⁻¹.\n5. Wagner–Nelson: FA = (Ct + KE AUC0–t)/(KE AUC0–∞); plot ln(1 − FA) vs t, slope −Ka; example FA at 1 h = 11.12/16.20 = 0.686.\n6. Merits and limits: Wagner–Nelson needs only oral data but only for one-compartment drugs; Loo–Riegelman for two-compartment."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between compartment models, non-compartmental analysis and physiological models.",
+      "answer": "1. Compartment models: body as one or more kinetic compartments (mammillary, catenary); simple, few data; compartments not anatomical.\n2. Non-compartmental: statistical moments — AUC, AUMC, MRT = AUMC/AUC, CL = Dose/AUC, Vss = CL × MRT; no model assumed; assumes linear kinetics.\n3. Physiological (PBPK): real organs with volumes, blood flows, partition coefficients; perfusion- or permeability-limited; realistic, allows animal–human scaling, predicts tissue levels; needs much data and complex mathematics.\n4. Table comparing basis, data needed, advantages, limitations."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Calculate AUC0–∞ by the trapezoidal rule from these example data (one-compartment drug, KE = 0.25 h⁻¹): t (h) 0, 1, 2, 4, 6, 8; C (mg/L) 0, 4, 6, 5, 3, 1.8.",
+      "answer": "1. Segment area = (C1 + C2)/2 × Δt.\n2. 0–1 h: (0 + 4)/2 × 1 = 2.0; 1–2 h: (4 + 6)/2 × 1 = 5.0; 2–4 h: (6 + 5)/2 × 2 = 11.0; 4–6 h: (5 + 3)/2 × 2 = 8.0; 6–8 h: (3 + 1.8)/2 × 2 = 4.8.\n3. AUC0–8 = 2.0 + 5.0 + 11.0 + 8.0 + 4.8 = 30.8 mg·h/L.\n4. Tail = Clast/KE = 1.8/0.25 = 7.2 mg·h/L.\n5. AUC0–∞ = 30.8 + 7.2 = 38.0 mg·h/L (example numbers).\n6. Note: the linear trapezoidal rule slightly overestimates on the falling limb; more points or the log-trapezoidal rule improve accuracy."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "A drug given as 400 mg IV bolus gives a back-extrapolated C0 of 16 mg/L and has a half-life of 5 h. Calculate KE, Vd, AUC0–∞, total clearance and the plasma level at 10 h.",
+      "answer": "1. KE = 0.693/t½ = 0.693/5 = 0.1386 h⁻¹.\n2. Vd = X0/C0 = 400/16 = 25 L.\n3. AUC0–∞ = C0/KE = 16/0.1386 = 115.4 mg·h/L.\n4. CLT = KE × Vd = 0.1386 × 25 = 3.47 L/h (check 400/115.4 = 3.47).\n5. C at 10 h = 16 × e^(−0.1386 × 10) = 4.0 mg/L (two half-lives: 16 → 8 → 4). Example numbers."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "A drug has CL 5 L/h and Vd 40 L. Calculate the infusion rate to maintain 8 mg/L, the loading dose, and the time to reach 90% of steady state without a loading dose.",
+      "answer": "1. R0 = Css × CL = 8 × 5 = 40 mg/h.\n2. Loading dose = Css × Vd = 8 × 40 = 320 mg.\n3. t½ = 0.693 Vd/CL = 0.693 × 40/5 = 5.54 h.\n4. Time to 90% Css = 3.32 × t½ = 18.4 h.\n5. Time to steady state does not depend on R0 (example numbers)."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define and give the significance of KE, t½, Vd, AUC, Ka, CLT and CLR.",
+      "answer": "1. KE: fraction eliminated per unit time (h⁻¹); speed of elimination.\n2. t½ = 0.693/KE: dosing interval, time to steady state, washout.\n3. Vd = X/C: extent of distribution; loading dose.\n4. AUC: total exposure; extent of bioavailability.\n5. Ka: first-order absorption rate constant; onset, tmax.\n6. CLT = KE Vd = Dose/AUC: maintenance dose rate, Css.\n7. CLR = excretion rate/C = fe × CLT: dose adjustment in renal failure.\n8. CL and Vd are independent; KE and t½ depend on both (KE = CL/Vd)."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the equation for tmax in a one-compartment model with first-order absorption.",
+      "answer": "tmax = ln(Ka/KE)/(Ka − KE) = 2.303 log(Ka/KE)/(Ka − KE); it depends only on Ka and KE, not on dose."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is flip-flop kinetics?",
+      "answer": "When the absorption rate constant is smaller than the elimination rate constant (Ka < KE), the terminal slope of the oral curve reflects Ka rather than KE; seen with some slow-release products."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define mean residence time.",
+      "answer": "MRT = AUMC/AUC: the average time a drug molecule stays in the body; for a one-compartment IV bolus MRT = 1/KE."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the two-compartment open model for an IV bolus dose. Explain how the model parameters are obtained by the method of residuals.",
+      "answer": "1. Model: central compartment (plasma, highly perfused organs) and peripheral compartment (muscle, fat, skin); k12, k21 distribution, k10 elimination from central. Diagram.\n2. Plasma curve biexponential: C = A e^(−αt) + B e^(−βt); α (distribution phase) > β (elimination phase); α + β = k12 + k21 + k10; αβ = k21 k10.\n3. Feathering: fit terminal line → B, β; residual = Cobs − B e^(−βt) at early times; log residual vs t → A, α.\n4. Parameters: k21 = (Aβ + Bα)/(A + B); k10 = αβ/k21; k12 = α + β − k21 − k10; Vc = Dose/(A + B); AUC = A/α + B/β; CL = Dose/AUC; Vβ = CL/β; Vss = Vc(1 + k12/k21); t½β = 0.693/β.\n5. Worked example (example numbers): 500 mg IV; A 40 mg/L, α 1.5 h⁻¹, B 10 mg/L, β 0.2 h⁻¹ → k21 0.46, k10 0.652, k12 0.588 h⁻¹; Vc 10 L; AUC 76.7 mg·h/L; CL 6.52 L/h; Vβ 32.6 L; Vss 22.8 L; t½β 3.47 h.\n6. Significance: early high central level (lidocaine, digoxin), sampling in β phase, t½β used for dosing."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the kinetics of multiple dosing. Derive expressions for Css,max, Css,min and Css,av, and discuss the calculation and clinical significance of loading and maintenance doses.",
+      "answer": "1. Repeated doses at interval τ; accumulation if the next dose comes before elimination is complete; superposition principle (linear kinetics); saw-tooth curve reaching a plateau.\n2. After n doses: Cn,max = (X0/Vd)(1 − e^(−nKEτ))/(1 − e^(−KEτ)).\n3. As n → ∞: Css,max = (X0/Vd)/(1 − e^(−KEτ)); Css,min = Css,max e^(−KEτ); Css,av = F X0/(CL τ); accumulation ratio R = 1/(1 − e^(−KEτ)); fluctuation = e^(KEτ).\n4. Time to steady state about 5 t½, independent of dose.\n5. DM = Css,av CL τ/F; DL = Css Vd/F = DM × R; τ = t½ → DL = 2 DM.\n6. Worked example (example numbers): KE 0.1733 h⁻¹, Vd 25 L, 250 mg IV every 8 h → R 1.33; Css,max 13.33, Css,min 3.33, Css,av 7.22 mg/L; loading dose 333 mg.\n7. Clinical significance: rapid effect for long-t½ drugs (digoxin, amiodarone); loading dose depends on Vd, maintenance on CL (reduce maintenance dose in renal failure); divided loading doses for narrow-margin drugs; trough monitoring at steady state; choice of τ."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "A drug (t½ 6 h, Vd 30 L) is given as 300 mg IV bolus every 6 h. Calculate the accumulation ratio, Css,max, Css,min, Css,av and a suitable loading dose.",
+      "answer": "1. KE = 0.693/6 = 0.1155 h⁻¹; e^(−KEτ) = e^(−0.693) = 0.5.\n2. R = 1/(1 − 0.5) = 2.\n3. Css,max = (300/30) × 2 = 20 mg/L.\n4. Css,min = 20 × 0.5 = 10 mg/L.\n5. Css,av = X0/(KE Vd τ) = 300/(0.1155 × 30 × 6) = 14.4 mg/L.\n6. Loading dose = DM × R = 600 mg (twice the maintenance dose because τ = t½). Example numbers."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare one-compartment and two-compartment open models.",
+      "answer": "1. Distribution: instantaneous vs fast central and slow peripheral.\n2. Semilog plot after IV bolus: single straight line vs curved then straight (biexponential).\n3. Equation: C = C0 e^(−KE t) vs C = A e^(−αt) + B e^(−βt).\n4. Volumes: one Vd vs Vc, Vβ, Vss.\n5. Half-life for dosing: 0.693/KE vs 0.693/β.\n6. Ka from oral data: Wagner–Nelson vs Loo–Riegelman.\n7. Examples of two-compartment drugs: lidocaine, digoxin, theophylline."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is the principle of superposition? State its assumptions and use in multiple dosing.",
+      "answer": "1. Principle: with linear kinetics, plasma levels after repeated doses equal the sum of levels from each single dose given at its own time.\n2. Assumptions: first-order (linear) absorption and elimination; parameters do not change with dose or time; each dose behaves the same.\n3. Use: predict levels during multiple dosing from single-dose data; derive Cn,max and Css equations.\n4. Not valid for nonlinear kinetics (phenytoin) or time-dependent changes (auto-induction)."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain why the loading dose depends on Vd while the maintenance dose depends on clearance. How are they changed in renal failure?",
+      "answer": "1. Loading dose fills the volume of distribution to the target level: DL = Css × Vd/F.\n2. Maintenance dose replaces what is eliminated each interval: DM = Css,av × CL × τ/F.\n3. In renal failure CL of renally cleared drugs falls → reduce DM or lengthen τ in proportion to CLcr.\n4. Vd usually unchanged → loading dose often the same (may change with oedema, low albumin).\n5. Monitor levels for narrow-margin drugs (aminoglycosides, digoxin)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the expression for the accumulation ratio in multiple dosing.",
+      "answer": "R = 1/(1 − e^(−KE τ)), where τ is the dosing interval; when τ = t½, R = 2."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "In the two-compartment model, from which compartment does elimination occur and why?",
+      "answer": "From the central compartment, because it contains the blood and highly perfused eliminating organs (liver, kidneys)."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "How long does it take to reach steady state, and does dose size change it?",
+      "answer": "About 4–5 half-lives (90% in 3.3 t½). Dose size and interval change the steady-state level but not the time to reach it."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is nonlinear pharmacokinetics? Discuss the factors causing nonlinearity with examples, and explain the Michaelis–Menten equation.",
+      "answer": "1. Linear vs nonlinear: in nonlinear (dose-dependent, capacity-limited) kinetics parameters change with dose; AUC not proportional to dose.\n2. Signs: AUC/dose not constant, t½ changes with dose, curved log C plot, change in urinary metabolite ratio.\n3. Causes: absorption — saturable carriers (riboflavin, vitamin C), solubility-limited (griseofulvin), saturable first pass (propranolol); distribution — saturable plasma binding (valproic acid, naproxen), tissue binding; metabolism — enzyme saturation (phenytoin, ethanol, high-dose salicylate), cofactor depletion (paracetamol overdose), auto-induction (carbamazepine); excretion — saturable secretion (penicillin G), saturable reabsorption (vitamin C), urine pH and diuresis, biliary saturation, nephrotoxicity (aminoglycosides).\n4. Michaelis–Menten: −dC/dt = Vmax C/(Km + C); Km = concentration at half Vmax.\n5. C << Km → first order (KE = Vmax/Km); C >> Km → zero order; in between mixed.\n6. Consequences: t½ = 0.693 Vd(Km + C)/Vmax rises with level; Css = Km R/(Vmax − R) rises steeply as R approaches Vmax.\n7. Graph of rate vs C showing Vmax and Km; AUC vs dose curves."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the methods of estimating Km and Vmax. Illustrate with a numerical example and explain the clinical importance using phenytoin.",
+      "answer": "1. From single-dose plasma decline: rate of fall (v) at mean concentrations; Lineweaver–Burk 1/v = Km/(Vmax C) + 1/Vmax; Hanes–Woolf C/v = C/Vmax + Km/Vmax; Eadie–Hofstee v = Vmax − Km(v/C).\n2. From steady-state data: R = Vmax − Km (R/Css) — plot R vs R/Css, slope −Km, intercept Vmax; direct linear plot (lines through −Css and R meet at Km, Vmax); 1/R vs 1/Css.\n3. Example (example numbers): Css 6 mg/L at 300 mg/day and 16 mg/L at 400 mg/day; R/Css = 50 and 25 L/day; slope = (400 − 300)/(25 − 50) = −4 → Km = 4 mg/L; Vmax = 300 + 4 × 50 = 500 mg/day; dose for Css 10 mg/L = 500 × 10/14 = 357 mg/day.\n4. Phenytoin: Km within therapeutic range; small dose increases cause large rises in level and toxicity; t½ lengthens at high levels; slow approach to steady state; dose changed in small steps with level monitoring."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "With Vmax = 600 mg/day and Km = 5 mg/L (example numbers), calculate the steady-state level for dosing rates of 400 and 500 mg/day and comment.",
+      "answer": "1. Css = Km R/(Vmax − R).\n2. R 400: Css = 5 × 400/(600 − 400) = 10 mg/L.\n3. R 500: Css = 5 × 500/(600 − 500) = 25 mg/L.\n4. A 25% increase in dose raised Css 2.5 times — typical of saturable elimination; a linear drug would rise only 25%.\n5. If R reaches Vmax no steady state is possible."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the effect of concentration on the order of elimination according to the Michaelis–Menten equation.",
+      "answer": "1. Equation: −dC/dt = Vmax C/(Km + C).\n2. At C much smaller than Km: −dC/dt ≈ (Vmax/Km) C → first order.\n3. At C much greater than Km: −dC/dt ≈ Vmax → zero order (constant amount per time, as with ethanol).\n4. At C near Km: mixed order.\n5. Half-life = 0.693 Vd(Km + C)/Vmax increases with concentration; example (example numbers, Vmax 500 mg/day, Km 4 mg/L, Vd 50 L): t½ 8.3 h at 1 mg/L but 39.9 h at 20 mg/L."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the tests used to detect nonlinear pharmacokinetics.",
+      "answer": "1. Dose-normalised AUC or Css not constant across doses.\n2. Half-life or KE changes with dose.\n3. Semilog plot curved (concave) after high doses.\n4. Fraction excreted unchanged or metabolite ratio changes with dose.\n5. Time-dependent changes on repeated dosing (auto-induction).\n6. Interaction with drugs sharing the same saturable enzyme or carrier."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give drug examples of nonlinearity in absorption, distribution, metabolism and excretion.",
+      "answer": "1. Absorption: riboflavin, ascorbic acid (saturable carrier), griseofulvin (solubility-limited), propranolol (saturable first pass).\n2. Distribution: valproic acid, disopyramide, naproxen (saturable plasma binding); thiopental (tissue binding).\n3. Metabolism: phenytoin, ethanol, high-dose salicylate (enzyme saturation); paracetamol overdose (cofactor depletion); carbamazepine (auto-induction).\n4. Excretion: penicillin G (saturable secretion), ascorbic acid (saturable reabsorption), aminoglycosides (nephrotoxicity at high doses)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Km in Michaelis–Menten kinetics.",
+      "answer": "Km is the drug concentration at which the rate of elimination is half the maximum rate (Vmax); a low Km means the process saturates at low concentrations."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is ethanol said to follow zero-order elimination?",
+      "answer": "Its metabolising enzyme (alcohol dehydrogenase) saturates at low blood levels, so a roughly constant amount is eliminated per hour over most of the concentration range."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What happens if the dosing rate equals or exceeds Vmax?",
+      "answer": "No steady state is reached; the drug keeps accumulating because input exceeds the maximum elimination capacity (Css = Km R/(Vmax − R) has no finite value)."
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Most drugs are absorbed from the GIT by:",
+      "options": [
+        "Passive diffusion",
+        "Active transport",
+        "Pinocytosis",
+        "Ion-pair transport"
+      ],
+      "correct": 0,
+      "explanation": "More than 90% of drugs cross by passive diffusion down the concentration gradient.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Passive diffusion of drugs across the GI membrane is described by:",
+      "options": [
+        "Noyes–Whitney equation",
+        "Fick's first law",
+        "Michaelis–Menten equation",
+        "Stokes' law"
+      ],
+      "correct": 1,
+      "explanation": "Fick's law: rate ∝ D, A, partition coefficient and concentration difference ÷ thickness.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which feature is typical of carrier-mediated transport but NOT of passive diffusion?",
+      "options": [
+        "Movement down the gradient",
+        "No need for a membrane",
+        "Saturation at high concentration",
+        "First-order rate at all doses"
+      ],
+      "correct": 2,
+      "explanation": "Carriers are limited in number, so the rate reaches a maximum.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "According to the pH-partition hypothesis, a drug is absorbed mainly in its:",
+      "options": [
+        "Ionised form",
+        "Protein-bound form",
+        "Conjugated form",
+        "Un-ionised, lipid-soluble form"
+      ],
+      "correct": 3,
+      "explanation": "Only the un-ionised lipophilic form diffuses through the lipid membrane.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Levodopa is absorbed from the intestine by:",
+      "options": [
+        "Pore transport",
+        "Active transport via an amino-acid carrier",
+        "Pinocytosis",
+        "Ion-pair transport"
+      ],
+      "correct": 1,
+      "explanation": "Levodopa uses the large neutral amino-acid carrier.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In the Noyes–Whitney equation, increasing which term DECREASES the dissolution rate?",
+      "options": [
+        "Surface area (A)",
+        "Saturation solubility (Cs)",
+        "Diffusion coefficient (D)",
+        "Thickness of the diffusion layer (h)"
+      ],
+      "correct": 3,
+      "explanation": "Rate = D A (Cs − Cb)/h, so a thicker stagnant layer slows dissolution.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Weakly acidic drugs bind mainly to:",
+      "options": [
+        "Albumin",
+        "α1-acid glycoprotein",
+        "Lipoproteins",
+        "Transcortin"
+      ],
+      "correct": 0,
+      "explanation": "Albumin binds acidic and neutral drugs; α1-acid glycoprotein binds bases.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "In a Scatchard plot (r/[D] vs r), the x-intercept gives:",
+      "options": [
+        "Association constant (Ka)",
+        "Free drug fraction",
+        "Number of binding sites (n)",
+        "Dissociation constant squared"
+      ],
+      "correct": 2,
+      "explanation": "r/[D] = nKa − rKa; when r/[D] = 0, r = n; slope = −Ka.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "A drug with an apparent volume of distribution much larger than total body water is most likely:",
+      "options": [
+        "Highly bound to plasma proteins",
+        "Confined to plasma",
+        "Not absorbed",
+        "Extensively bound to tissues"
+      ],
+      "correct": 3,
+      "explanation": "Tissue binding lowers plasma concentration, raising Vd (digoxin, chloroquine).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Displacement of a drug from plasma protein is clinically most important when the drug is:",
+      "options": [
+        "Poorly bound with large Vd",
+        "Eliminated by the lungs",
+        "Highly bound, with small Vd and narrow therapeutic index",
+        "Given only topically"
+      ],
+      "correct": 2,
+      "explanation": "Warfarin and phenytoin are classic examples.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Rapid redistribution of thiopental from brain to muscle and fat is an example of:",
+      "options": [
+        "Perfusion rate-limited distribution",
+        "Permeability rate-limited distribution",
+        "Active transport into the brain",
+        "Enterohepatic cycling"
+      ],
+      "correct": 0,
+      "explanation": "Lipophilic thiopental follows blood flow; well-perfused brain fills first.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Only which form of drug is filtered at the glomerulus?",
+      "options": [
+        "Protein-bound drug",
+        "Unbound (free) drug",
+        "Conjugated drug only",
+        "Ionised drug only"
+      ],
+      "correct": 1,
+      "explanation": "Plasma proteins are too large to pass the glomerular filter.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Probenecid prolongs the action of penicillin by:",
+      "options": [
+        "Competing for active tubular secretion",
+        "Increasing GFR",
+        "Inducing liver enzymes",
+        "Increasing biliary excretion"
+      ],
+      "correct": 0,
+      "explanation": "Both are organic anions sharing the secretion carrier.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Alkalinisation of urine increases the renal excretion of:",
+      "options": [
+        "Weak bases such as amphetamine",
+        "Weak acids such as salicylates",
+        "Neutral steroids",
+        "Protein-bound drugs only"
+      ],
+      "correct": 1,
+      "explanation": "Weak acids become ionised in alkaline urine and are not reabsorbed.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "A renal clearance greater than GFR indicates that the drug is:",
+      "options": [
+        "Only filtered",
+        "Reabsorbed",
+        "Actively secreted",
+        "Highly protein bound and not filtered"
+      ],
+      "correct": 2,
+      "explanation": "Clearance above filtration needs additional tubular secretion.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The most common phase II reaction in drug metabolism is:",
+      "options": [
+        "Acetylation",
+        "Methylation",
+        "Glycine conjugation",
+        "Glucuronidation"
+      ],
+      "correct": 3,
+      "explanation": "UDP-glucuronosyltransferase conjugates many drugs (morphine, paracetamol).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Enterohepatic circulation of a drug results in:",
+      "options": [
+        "Faster elimination",
+        "Prolonged action and a second plasma peak",
+        "Lower biliary excretion",
+        "Complete renal excretion"
+      ],
+      "correct": 1,
+      "explanation": "Conjugates hydrolysed in the gut release drug that is reabsorbed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Absolute bioavailability is determined by comparison with:",
+      "options": [
+        "An oral solution",
+        "The innovator tablet",
+        "A suspension",
+        "An intravenous dose"
+      ],
+      "correct": 3,
+      "explanation": "IV gives 100% availability, so F = AUCoral·DIV/(AUCIV·Doral).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The parameter that best reflects the EXTENT of absorption is:",
+      "options": [
+        "AUC",
+        "tmax",
+        "Ka",
+        "t½"
+      ],
+      "correct": 0,
+      "explanation": "AUC = F × Dose/CL measures the total amount reaching the blood.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "For bioequivalence, the 90% confidence interval of the test/reference ratio for AUC and Cmax must lie within:",
+      "options": [
+        "90–110%",
+        "70–143%",
+        "80–125%",
+        "95–105%"
+      ],
+      "correct": 2,
+      "explanation": "This is the standard acceptance range on log-transformed data.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The highest level of IVIVC, a point-to-point relationship, is:",
+      "options": [
+        "Level B",
+        "Level C",
+        "Multiple level C",
+        "Level A"
+      ],
+      "correct": 3,
+      "explanation": "Level A correlates fraction dissolved with fraction absorbed at each time.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Which BCS class of drugs is most likely to show a good IVIVC?",
+      "options": [
+        "Class I",
+        "Class III",
+        "Class II (low solubility, high permeability)",
+        "Class IV"
+      ],
+      "correct": 2,
+      "explanation": "Dissolution is rate-limiting for Class II drugs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "The flow-through cell dissolution apparatus is an example of:",
+      "options": [
+        "Open-compartment system",
+        "Closed-compartment system",
+        "Dialysis system",
+        "Rotating bottle method"
+      ],
+      "correct": 0,
+      "explanation": "Fresh medium flows continuously, maintaining sink conditions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m13",
+      "unit": 2,
+      "question": "A similarity factor (f2) value indicating similar dissolution profiles is:",
+      "options": [
+        "Between 0 and 15",
+        "Between 50 and 100",
+        "Exactly 0",
+        "Below 50"
+      ],
+      "correct": 1,
+      "explanation": "f2 ≥ 50 means average difference of about 10% or less.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m14",
+      "unit": 2,
+      "question": "Solid dispersions improve bioavailability mainly by:",
+      "options": [
+        "Dispersing drug finely in a hydrophilic carrier for faster dissolution",
+        "Increasing drug metabolism",
+        "Increasing protein binding",
+        "Raising gastric pH permanently"
+      ],
+      "correct": 0,
+      "explanation": "Carriers such as PEG and PVP give small particles and better wetting.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "For a first-order process, the half-life is:",
+      "options": [
+        "Directly proportional to the dose",
+        "Independent of the initial concentration",
+        "Inversely proportional to the dose",
+        "Equal to KE"
+      ],
+      "correct": 1,
+      "explanation": "t½ = 0.693/KE does not depend on dose.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "After an IV bolus (one-compartment), a plot of log C vs time is:",
+      "options": [
+        "A rising curve",
+        "A curve with two phases",
+        "A straight line with slope −KE/2.303",
+        "A horizontal line"
+      ],
+      "correct": 2,
+      "explanation": "log C = log C0 − KE t/2.303.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Vd after an IV bolus is calculated as:",
+      "options": [
+        "AUC / Dose",
+        "KE × AUC",
+        "C0 × KE",
+        "Dose / C0"
+      ],
+      "correct": 3,
+      "explanation": "C0 is the back-extrapolated intercept.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "A drug has KE = 0.1733 h⁻¹ and Vd = 25 L. Its total clearance is about:",
+      "options": [
+        "0.17 L/h",
+        "4.33 L/h",
+        "25 L/h",
+        "144 L/h"
+      ],
+      "correct": 1,
+      "explanation": "CL = KE × Vd = 0.1733 × 25 = 4.33 L/h (example numbers).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "During a constant IV infusion, the time to reach 90% of steady state is about:",
+      "options": [
+        "1 half-life",
+        "10 half-lives",
+        "It depends on the infusion rate",
+        "3.3 half-lives"
+      ],
+      "correct": 3,
+      "explanation": "Only t½ decides the approach to steady state.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Steady-state concentration during IV infusion equals:",
+      "options": [
+        "R0 / CL",
+        "R0 × CL",
+        "R0 × Vd",
+        "CL / R0"
+      ],
+      "correct": 0,
+      "explanation": "At steady state, infusion rate = elimination rate = CL × Css.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The method of residuals is used to determine:",
+      "options": [
+        "Renal clearance",
+        "Protein binding constant",
+        "Absorption rate constant (Ka)",
+        "Michaelis constant"
+      ],
+      "correct": 2,
+      "explanation": "Feathering the oral curve separates absorption from elimination.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The Wagner–Nelson method is applicable to drugs following:",
+      "options": [
+        "Two-compartment kinetics only",
+        "Nonlinear kinetics",
+        "Zero-order elimination only",
+        "One-compartment kinetics"
+      ],
+      "correct": 3,
+      "explanation": "For two-compartment drugs the Loo–Riegelman method is used.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Using the trapezoidal rule, the area between t = 2 h (C = 6 mg/L) and t = 4 h (C = 5 mg/L) is:",
+      "options": [
+        "22 mg·h/L",
+        "5.5 mg·h/L",
+        "11 mg·h/L",
+        "10 mg·h/L"
+      ],
+      "correct": 2,
+      "explanation": "(6 + 5)/2 × 2 = 11 mg·h/L.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "In non-compartmental analysis, mean residence time equals:",
+      "options": [
+        "AUMC / AUC",
+        "AUC / AUMC",
+        "AUC × KE",
+        "Dose / AUC"
+      ],
+      "correct": 0,
+      "explanation": "MRT = first moment ÷ zero moment.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "If Ka is smaller than KE, the terminal slope of an oral curve reflects Ka. This is called:",
+      "options": [
+        "Lag time",
+        "Flip-flop kinetics",
+        "Saturation kinetics",
+        "Enterohepatic cycling"
+      ],
+      "correct": 1,
+      "explanation": "Slow absorption controls the terminal fall.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "The sigma-minus method uses:",
+      "options": [
+        "Amount of drug remaining to be excreted in urine",
+        "Plasma protein binding data",
+        "Saliva levels",
+        "Biliary excretion rate"
+      ],
+      "correct": 0,
+      "explanation": "ln(Xu∞ − Xu) vs t has slope −KE.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The plasma profile of a two-compartment drug after IV bolus is described by:",
+      "options": [
+        "C = C0 e^(−KE t)",
+        "C = A e^(−αt) + B e^(−βt)",
+        "C = R0/CL",
+        "C = Vmax C/(Km + C)"
+      ],
+      "correct": 1,
+      "explanation": "The biexponential equation has a distribution and an elimination phase.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "In the two-compartment model, the biological half-life used for dosing is:",
+      "options": [
+        "0.693/α",
+        "0.693/k12",
+        "0.693/β",
+        "0.693/k21"
+      ],
+      "correct": 2,
+      "explanation": "β describes the terminal elimination phase.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In the two-compartment model, k21 is calculated as:",
+      "options": [
+        "αβ/(A + B)",
+        "A/α + B/β",
+        "α + β",
+        "(Aβ + Bα)/(A + B)"
+      ],
+      "correct": 3,
+      "explanation": "Then k10 = αβ/k21 and k12 = α + β − k21 − k10.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The volume of the central compartment (Vc) after IV bolus equals:",
+      "options": [
+        "Dose/B",
+        "Dose/(A + B)",
+        "CL/β",
+        "Dose × β"
+      ],
+      "correct": 1,
+      "explanation": "A + B is the plasma concentration at time zero.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The accumulation ratio in multiple dosing is:",
+      "options": [
+        "e^(−KE τ)",
+        "KE × τ",
+        "1 − e^(−KE τ)",
+        "1/(1 − e^(−KE τ))"
+      ],
+      "correct": 3,
+      "explanation": "It tells how much higher steady-state levels are than first-dose levels.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "When a drug is given every half-life, the loading dose should be:",
+      "options": [
+        "Twice the maintenance dose",
+        "Equal to the maintenance dose",
+        "Half the maintenance dose",
+        "Four times the maintenance dose"
+      ],
+      "correct": 0,
+      "explanation": "R = 1/(1 − 0.5) = 2.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The maintenance dose of a drug depends mainly on its:",
+      "options": [
+        "Volume of distribution",
+        "Protein binding only",
+        "Clearance",
+        "Molecular weight"
+      ],
+      "correct": 2,
+      "explanation": "DM = Css,av × CL × τ/F.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The average steady-state concentration on multiple dosing is:",
+      "options": [
+        "X0/Vd",
+        "CL × τ/F",
+        "F X0 × CL × τ",
+        "F X0/(CL τ)"
+      ],
+      "correct": 3,
+      "explanation": "Css,av = dose rate ÷ clearance.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Increasing the dose (same interval) in multiple dosing changes:",
+      "options": [
+        "The time to reach steady state",
+        "The half-life",
+        "The steady-state level but not the time to reach it",
+        "The accumulation ratio"
+      ],
+      "correct": 2,
+      "explanation": "Time to steady state depends only on t½.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The principle of superposition is valid only when:",
+      "options": [
+        "Pharmacokinetics are linear",
+        "Elimination is saturated",
+        "The drug is given once",
+        "Absorption is zero order and saturable"
+      ],
+      "correct": 0,
+      "explanation": "Doses must add independently, which needs first-order processes.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "In Michaelis–Menten kinetics, when C is much smaller than Km, elimination is:",
+      "options": [
+        "Zero order",
+        "First order",
+        "Second order",
+        "Independent of concentration"
+      ],
+      "correct": 1,
+      "explanation": "Rate ≈ (Vmax/Km) C.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Km is the concentration at which the elimination rate is:",
+      "options": [
+        "Half of Vmax",
+        "Equal to Vmax",
+        "Zero",
+        "Twice Vmax"
+      ],
+      "correct": 0,
+      "explanation": "Definition of the Michaelis constant.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The classic example of a drug with capacity-limited metabolism in the therapeutic range is:",
+      "options": [
+        "Atenolol",
+        "Phenytoin",
+        "Gentamicin",
+        "Lithium"
+      ],
+      "correct": 1,
+      "explanation": "Small dose increases can cause large rises in phenytoin levels.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "At steady state with Michaelis–Menten elimination, Css equals:",
+      "options": [
+        "R/CL",
+        "Vmax R/(Km − R)",
+        "Km R/(Vmax − R)",
+        "Km Vmax/R"
+      ],
+      "correct": 2,
+      "explanation": "Derived by equating dosing rate to elimination rate.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "With Vmax = 500 mg/day and Km = 4 mg/L, a dosing rate of 300 mg/day gives Css of:",
+      "options": [
+        "2.4 mg/L",
+        "16 mg/L",
+        "12 mg/L",
+        "6 mg/L"
+      ],
+      "correct": 3,
+      "explanation": "Css = 4 × 300/(500 − 300) = 6 mg/L (example numbers).",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "In the plot of R against R/Css for steady-state data, the slope equals:",
+      "options": [
+        "Vmax",
+        "−Km",
+        "1/Km",
+        "−Vmax"
+      ],
+      "correct": 1,
+      "explanation": "R = Vmax − Km (R/Css); intercept = Vmax.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Saturation of plasma protein binding at high doses causes the total AUC to:",
+      "options": [
+        "Increase more than proportionally",
+        "Stay constant",
+        "Become zero",
+        "Increase less than proportionally"
+      ],
+      "correct": 3,
+      "explanation": "More free drug is cleared, so total levels rise less than dose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Carbamazepine shows time-dependent nonlinearity because of:",
+      "options": [
+        "Auto-induction of its metabolism",
+        "Saturable absorption",
+        "Saturable renal secretion",
+        "Enterohepatic cycling"
+      ],
+      "correct": 0,
+      "explanation": "Clearance increases after a few weeks of dosing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Riboflavin shows nonlinear pharmacokinetics because of:",
+      "options": [
+        "Enzyme saturation in the liver",
+        "Tissue binding",
+        "Saturable carrier-mediated absorption",
+        "Biliary saturation"
+      ],
+      "correct": 2,
+      "explanation": "Large doses saturate the intestinal carrier.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "For a drug with saturable elimination, the half-life:",
+      "options": [
+        "Decreases as the concentration rises",
+        "Is constant",
+        "Depends only on Vd",
+        "Increases as the concentration rises"
+      ],
+      "correct": 3,
+      "explanation": "t½ = 0.693 Vd(Km + C)/Vmax.",
+      "probability": "high"
+    }
+  ]
+}
