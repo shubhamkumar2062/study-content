@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The fluid mosaic model of the cell membrane was proposed by:",
+      "options": [
+        "Singer and Nicolson",
+        "Watson and Crick",
+        "Jacob and Monod",
+        "Schleiden and Schwann"
+      ],
+      "correct": 0,
+      "explanation": "Singer and Nicolson described the membrane as a fluid lipid bilayer with floating proteins in 1972.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "'Omnis cellula e cellula' (every cell arises from a pre-existing cell) was stated by:",
+      "options": [
+        "Robert Hooke",
+        "Rudolf Virchow",
+        "Robert Brown",
+        "Gregor Mendel"
+      ],
+      "correct": 1,
+      "explanation": "Virchow added this principle to the cell theory in 1855.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Ribosomes of prokaryotic cells are of the type:",
+      "options": [
+        "80S",
+        "60S",
+        "70S",
+        "90S"
+      ],
+      "correct": 2,
+      "explanation": "Prokaryotes have 70S ribosomes (50S + 30S); eukaryotic cytoplasmic ribosomes are 80S.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "For each ATP hydrolysed, the Na+/K+-ATPase moves:",
+      "options": [
+        "2 Na+ out and 3 K+ in",
+        "1 Na+ out and 1 K+ in",
+        "3 K+ out and 2 Na+ in",
+        "3 Na+ out and 2 K+ in"
+      ],
+      "correct": 3,
+      "explanation": "The pump expels three sodium ions and takes in two potassium ions per ATP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Uptake of glucose with sodium by SGLT in the intestine is an example of:",
+      "options": [
+        "Secondary active transport",
+        "Simple diffusion",
+        "Primary active transport",
+        "Pinocytosis"
+      ],
+      "correct": 0,
+      "explanation": "SGLT uses the Na+ gradient made by the Na+/K+ pump, so it is secondary active transport.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Drug metabolism by cytochrome P450 in liver cells mainly occurs in the:",
+      "options": [
+        "Golgi apparatus",
+        "Smooth endoplasmic reticulum",
+        "Lysosomes",
+        "Nucleolus"
+      ],
+      "correct": 1,
+      "explanation": "Cytochrome P450 enzymes are located in the smooth ER (microsomal fraction).",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Which of these is a feature of prokaryotic cells?",
+      "options": [
+        "Linear chromosomes wound on histones",
+        "Membrane-bound mitochondria",
+        "Transcription and translation are coupled",
+        "Division by mitosis"
+      ],
+      "correct": 2,
+      "explanation": "Without a nuclear envelope, bacterial ribosomes translate mRNA while it is still being made.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "A reaction with a negative free energy change (ΔG < 0) is described as:",
+      "options": [
+        "Endergonic",
+        "At equilibrium always",
+        "Non-spontaneous",
+        "Exergonic"
+      ],
+      "correct": 3,
+      "explanation": "Negative ΔG means energy is released and the reaction can proceed on its own.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Joining of two amino acids with release of water is a:",
+      "options": [
+        "Condensation reaction",
+        "Hydrolysis reaction",
+        "Redox reaction",
+        "Isomerisation reaction"
+      ],
+      "correct": 0,
+      "explanation": "Peptide bond formation removes water, which is condensation (dehydration).",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Enzymes increase the rate of a reaction by:",
+      "options": [
+        "Changing the equilibrium constant",
+        "Lowering the activation energy",
+        "Making ΔG more negative",
+        "Being consumed in the reaction"
+      ],
+      "correct": 1,
+      "explanation": "Enzymes lower activation energy; they do not change ΔG or the equilibrium position.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In DNA, guanine pairs with cytosine by:",
+      "options": [
+        "Two hydrogen bonds",
+        "One hydrogen bond",
+        "Three hydrogen bonds",
+        "A covalent bond"
+      ],
+      "correct": 2,
+      "explanation": "G–C pairs have three hydrogen bonds; A–T pairs have two.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The semiconservative mode of DNA replication was demonstrated by:",
+      "options": [
+        "Hershey and Chase",
+        "Avery, MacLeod and McCarty",
+        "Nirenberg and Matthaei",
+        "Meselson and Stahl"
+      ],
+      "correct": 3,
+      "explanation": "They used ¹⁵N/¹⁴N density labelling in E. coli in 1958.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The enzyme that synthesises RNA primers during DNA replication is:",
+      "options": [
+        "Primase",
+        "DNA ligase",
+        "Helicase",
+        "DNA gyrase"
+      ],
+      "correct": 0,
+      "explanation": "Primase (DnaG) lays down short RNA primers because DNA polymerase cannot start a chain.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The Pribnow box of the bacterial promoter is located at about position:",
+      "options": [
+        "−35",
+        "−10",
+        "+10",
+        "−100"
+      ],
+      "correct": 1,
+      "explanation": "The −10 region has the consensus TATAAT; the −35 region is TTGACA.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Which codon is a stop codon?",
+      "options": [
+        "AUG",
+        "UGG",
+        "UAG",
+        "GUA"
+      ],
+      "correct": 2,
+      "explanation": "UAA, UAG and UGA are stop codons; AUG is the start codon.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Fluoroquinolones such as ciprofloxacin inhibit bacterial:",
+      "options": [
+        "RNA polymerase",
+        "Peptidyl transferase",
+        "Primase",
+        "DNA gyrase"
+      ],
+      "correct": 3,
+      "explanation": "Fluoroquinolones block DNA gyrase (topoisomerase II) and topoisomerase IV.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The peptidyl transferase activity of the bacterial ribosome is provided by:",
+      "options": [
+        "23S rRNA",
+        "16S rRNA",
+        "EF-Tu",
+        "Release factor 1"
+      ],
+      "correct": 0,
+      "explanation": "The 23S rRNA of the 50S subunit catalyses peptide bond formation — it is a ribozyme.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Eukaryotic RNA polymerase II mainly transcribes:",
+      "options": [
+        "tRNA",
+        "Pre-mRNA",
+        "28S rRNA",
+        "5S rRNA"
+      ],
+      "correct": 1,
+      "explanation": "Pol II makes mRNA precursors (and most snRNAs); it is sensitive to α-amanitin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The most abundant RNA in a cell is:",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "snRNA"
+      ],
+      "correct": 2,
+      "explanation": "rRNA forms about 80% of total cellular RNA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Telomerase is best described as a:",
+      "options": [
+        "DNA-dependent RNA polymerase",
+        "Restriction endonuclease",
+        "DNA ligase",
+        "Reverse transcriptase carrying its own RNA template"
+      ],
+      "correct": 3,
+      "explanation": "Telomerase uses its RNA to add TTAGGG repeats to chromosome ends.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The inducer of the lac operon is:",
+      "options": [
+        "Allolactose",
+        "Glucose",
+        "Tryptophan",
+        "cAMP alone"
+      ],
+      "correct": 0,
+      "explanation": "Allolactose, formed from lactose, binds the repressor and releases it from the operator.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Positive control of the lac operon is exerted by:",
+      "options": [
+        "Lac repressor",
+        "CAP–cAMP complex",
+        "Tryptophan–repressor complex",
+        "Sigma factor alone"
+      ],
+      "correct": 1,
+      "explanation": "When glucose is low, cAMP binds CAP and the complex activates transcription.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "An α-helix has how many amino acid residues per turn?",
+      "options": [
+        "2.0",
+        "10",
+        "3.6",
+        "4.5"
+      ],
+      "correct": 2,
+      "explanation": "The α-helix has 3.6 residues per turn and a pitch of 0.54 nm.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Which amino acid is not optically active?",
+      "options": [
+        "Alanine",
+        "Serine",
+        "Leucine",
+        "Glycine"
+      ],
+      "correct": 3,
+      "explanation": "Glycine's side chain is H, so its α-carbon is not chiral.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Sickle cell anaemia results from replacement of glutamate by which amino acid in β-globin?",
+      "options": [
+        "Valine",
+        "Lysine",
+        "Glycine",
+        "Proline"
+      ],
+      "correct": 0,
+      "explanation": "Glu6Val makes deoxygenated haemoglobin polymerise.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Proteins destined for lysosomes are tagged in the Golgi with:",
+      "options": [
+        "KDEL sequence",
+        "Mannose-6-phosphate",
+        "Nuclear localisation signal",
+        "Ubiquitin"
+      ],
+      "correct": 1,
+      "explanation": "M6P receptors sort these enzymes into vesicles going to lysosomes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Bortezomib acts by inhibiting the:",
+      "options": [
+        "Signal recognition particle",
+        "Peptidyl transferase",
+        "26S proteasome",
+        "Aminoacyl-tRNA synthetase"
+      ],
+      "correct": 2,
+      "explanation": "Bortezomib blocks the proteasome and is used in multiple myeloma.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The trp operon is an example of a:",
+      "options": [
+        "Inducible operon",
+        "Constitutive operon with no repressor",
+        "Positively controlled catabolic operon",
+        "Repressible operon"
+      ],
+      "correct": 3,
+      "explanation": "Tryptophan acts as a corepressor that switches the operon off.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Disulphide bonds in proteins are formed between residues of:",
+      "options": [
+        "Cysteine",
+        "Methionine",
+        "Serine",
+        "Tyrosine"
+      ],
+      "correct": 0,
+      "explanation": "Two cysteine –SH groups oxidise to form a –S–S– bridge.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Anfinsen's experiment with ribonuclease showed that:",
+      "options": [
+        "Chaperones are essential for all folding",
+        "The amino acid sequence determines the 3D structure",
+        "Denaturation always breaks peptide bonds",
+        "Proteins cannot refold after denaturation"
+      ],
+      "correct": 1,
+      "explanation": "Denatured ribonuclease refolded to its active form, so folding information is in the sequence.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The F2 phenotypic ratio of a Mendelian dihybrid cross is:",
+      "options": [
+        "3 : 1",
+        "1 : 2 : 1",
+        "9 : 3 : 3 : 1",
+        "1 : 1 : 1 : 1"
+      ],
+      "correct": 2,
+      "explanation": "Independent assortment of two genes gives 9:3:3:1.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Crossing over occurs during which stage of meiosis?",
+      "options": [
+        "Leptotene",
+        "Diakinesis",
+        "Anaphase II",
+        "Pachytene"
+      ],
+      "correct": 3,
+      "explanation": "Exchange between non-sister chromatids happens in pachytene of prophase I.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The mitosis-promoting factor (MPF) is a complex of:",
+      "options": [
+        "CDK1 and cyclin B",
+        "CDK4 and cyclin D",
+        "CDK2 and cyclin E",
+        "p53 and p21"
+      ],
+      "correct": 0,
+      "explanation": "CDK1–cyclin B drives the G2 to M transition.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "In a typical PCR cycle, the extension step by Taq polymerase is carried out at about:",
+      "options": [
+        "95 °C",
+        "72 °C",
+        "37 °C",
+        "55 °C"
+      ],
+      "correct": 1,
+      "explanation": "Denaturation is at about 94–95 °C, annealing 50–65 °C and extension 72 °C.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The protein called the 'guardian of the genome' is:",
+      "options": [
+        "Rb",
+        "Cyclin D",
+        "p53",
+        "Ras"
+      ],
+      "correct": 2,
+      "explanation": "p53 arrests the cycle or triggers apoptosis after DNA damage.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Which caspase is activated by the apoptosome in the intrinsic pathway?",
+      "options": [
+        "Caspase-8",
+        "Caspase-1",
+        "Caspase-12",
+        "Caspase-9"
+      ],
+      "correct": 3,
+      "explanation": "Cytochrome c with Apaf-1 forms the apoptosome that activates caspase-9.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Western blotting is used to detect:",
+      "options": [
+        "Proteins",
+        "DNA",
+        "RNA",
+        "Lipids"
+      ],
+      "correct": 0,
+      "explanation": "Southern blot detects DNA, Northern RNA and Western protein.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Vinca alkaloids act mainly in which phase of the cell cycle?",
+      "options": [
+        "S phase",
+        "M phase",
+        "G1 phase",
+        "G0 phase"
+      ],
+      "correct": 1,
+      "explanation": "They bind tubulin and prevent formation of the mitotic spindle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Haemophilia A is inherited as a:",
+      "options": [
+        "Autosomal dominant trait",
+        "Autosomal recessive trait",
+        "X-linked recessive trait",
+        "Mitochondrial trait"
+      ],
+      "correct": 2,
+      "explanation": "Haemophilia mostly affects males through carrier mothers.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Which is a feature of apoptosis but not necrosis?",
+      "options": [
+        "Cell swelling",
+        "Inflammation",
+        "Rupture of the plasma membrane",
+        "DNA ladder of about 180–200 bp fragments"
+      ],
+      "correct": 3,
+      "explanation": "Caspase-activated nuclease cuts DNA between nucleosomes, giving a ladder.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "G protein-coupled receptors have how many transmembrane helices?",
+      "options": [
+        "Seven",
+        "One",
+        "Four",
+        "Twelve"
+      ],
+      "correct": 0,
+      "explanation": "GPCRs are single chains crossing the membrane seven times.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Activation of Gq-coupled receptors produces:",
+      "options": [
+        "cAMP only",
+        "IP3 and DAG",
+        "cGMP",
+        "Ras-GTP"
+      ],
+      "correct": 1,
+      "explanation": "Gq activates phospholipase C-β, which splits PIP2 into IP3 and DAG.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Insulin acts through a receptor that is a:",
+      "options": [
+        "G protein-coupled receptor",
+        "Ligand-gated ion channel",
+        "Receptor tyrosine kinase",
+        "Nuclear receptor"
+      ],
+      "correct": 2,
+      "explanation": "The insulin receptor autophosphorylates on tyrosines and phosphorylates IRS proteins.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Imatinib, used in chronic myeloid leukaemia, inhibits:",
+      "options": [
+        "EGFR",
+        "Adenylyl cyclase",
+        "Phospholipase C",
+        "BCR-ABL tyrosine kinase"
+      ],
+      "correct": 3,
+      "explanation": "Imatinib competes with ATP at the BCR-ABL kinase.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Cholera toxin causes diarrhoea by:",
+      "options": [
+        "Keeping Gs permanently active",
+        "Inactivating Gi",
+        "Blocking adenylyl cyclase",
+        "Destroying cAMP"
+      ],
+      "correct": 0,
+      "explanation": "ADP-ribosylation of Gsα stops GTP hydrolysis, so cAMP stays high.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Sildenafil increases cGMP by inhibiting:",
+      "options": [
+        "Soluble guanylyl cyclase",
+        "Phosphodiesterase 5",
+        "Protein kinase G",
+        "Nitric oxide synthase"
+      ],
+      "correct": 1,
+      "explanation": "PDE5 breaks down cGMP; blocking it prolongs NO–cGMP signalling.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Steroid hormones mainly act through:",
+      "options": [
+        "Ligand-gated ion channels",
+        "Receptor tyrosine kinases",
+        "Intracellular receptors that regulate transcription",
+        "G protein-coupled receptors only"
+      ],
+      "correct": 2,
+      "explanation": "Lipophilic steroids enter cells and bind nuclear receptors acting on hormone response elements.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "In the MAP kinase cascade, MEK directly phosphorylates and activates:",
+      "options": [
+        "Raf",
+        "Ras",
+        "SOS",
+        "ERK"
+      ],
+      "correct": 3,
+      "explanation": "The order is Ras → Raf → MEK → ERK.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Desensitisation of a GPCR involves phosphorylation by GRK followed by binding of:",
+      "options": [
+        "β-arrestin",
+        "Calmodulin",
+        "Cyclin B",
+        "Ubiquitin ligase E1"
+      ],
+      "correct": 0,
+      "explanation": "β-arrestin uncouples the receptor from its G protein and promotes internalisation.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Protein kinase A is activated when cAMP binds to its:",
+      "options": [
+        "Catalytic subunits",
+        "Regulatory subunits",
+        "ATP-binding cleft",
+        "Activation loop phosphatase"
+      ],
+      "correct": 1,
+      "explanation": "cAMP binding to the R subunits releases the active catalytic subunits.",
+      "probability": "low"
+    }
+  ]
+}

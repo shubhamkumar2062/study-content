@@ -1,0 +1,48 @@
+{
+  "code": "BP808ET",
+  "title": "Cell and Molecular Biology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP808ET Cell and Molecular Biology (elective)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP808ET_B.Pharma-pages-45.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Cells, membranes and the chemical foundations of life",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "DNA, RNA and the flow of genetic information",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Proteins, protein synthesis and gene regulation",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Genetics, genomics and the cell cycle",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Cell signalling, receptors and protein kinases",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
