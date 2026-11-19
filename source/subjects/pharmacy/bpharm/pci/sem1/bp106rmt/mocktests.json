@@ -3,33 +3,25 @@
     {
       "id": "hptu-pci-full",
       "title": "Full mock paper (35 marks, 1.5 hours)",
-      "patternSource": "PCI scheme of examination: BP106RMT is a Non University Examination with a 35-mark, 1.5-hour end-semester paper (plus 15 internal marks). The college sets the split; this mock uses a common one: Section A 10 objective questions, Section B 1 of 2 long answers, Section C 3 of 4 short answers. Confirm with your college.",
+      "patternSource": "PCI B.Pharm regulations, question-paper pattern for a 35-mark end-semester theory paper: long answers 1 of 2 × 10, short answers 5 of 7 × 5. BP106RMT is a non-university subject, so the college sets the paper. Confirm with your college.",
       "durationMinutes": 90,
       "totalMarks": 35,
       "sections": [
         {
           "id": "a",
-          "title": "Section A: Objective questions",
-          "source": "mcq",
-          "marksEach": 1,
-          "count": 10,
-          "attempt": 10
-        },
-        {
-          "id": "b",
-          "title": "Section B: Long answers (answer any 1)",
+          "title": "Section I: Long answers (answer any 1)",
           "source": "long",
           "marksEach": 10,
           "count": 2,
           "attempt": 1
         },
         {
-          "id": "c",
-          "title": "Section C: Short answers (answer any 3)",
+          "id": "b",
+          "title": "Section II: Short answers (answer any 5)",
           "source": "short",
           "marksEach": 5,
-          "count": 4,
-          "attempt": 3
+          "count": 7,
+          "attempt": 5
         }
       ]
     },

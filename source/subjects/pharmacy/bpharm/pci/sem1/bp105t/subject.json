@@ -1,0 +1,138 @@
+{
+  "code": "BP105T",
+  "title": "Communication Skills",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP105T Communication Skills and BP111P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP105T_B.Pharma-pages-6.pdf"
+  },
+  "practicalCodes": [
+    "BP111P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Communication process, barriers and perspectives",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Elements of communication and communication styles",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Listening skills and written communication",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Interview skills and giving presentations",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Group discussion",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "meeting-people",
+      "title": "Meeting people: greetings and introductions",
+      "file": "practicals/meeting-people.md"
+    },
+    {
+      "id": "asking-questions",
+      "title": "Asking questions",
+      "file": "practicals/asking-questions.md"
+    },
+    {
+      "id": "making-friends",
+      "title": "Making friends: small talk and conversation",
+      "file": "practicals/making-friends.md"
+    },
+    {
+      "id": "what-did-you-do",
+      "title": "What did you do? Talking about past events",
+      "file": "practicals/what-did-you-do.md"
+    },
+    {
+      "id": "dos-and-donts",
+      "title": "Do's and don'ts: instructions and polite requests",
+      "file": "practicals/dos-and-donts.md"
+    },
+    {
+      "id": "pronunciation-consonants",
+      "title": "Pronunciation: consonant sounds",
+      "file": "practicals/pronunciation-consonants.md"
+    },
+    {
+      "id": "pronunciation-nouns",
+      "title": "Pronunciation and nouns: word stress and plural endings",
+      "file": "practicals/pronunciation-nouns.md"
+    },
+    {
+      "id": "pronunciation-vowels",
+      "title": "Pronunciation: vowel sounds",
+      "file": "practicals/pronunciation-vowels.md"
+    },
+    {
+      "id": "listening-comprehension",
+      "title": "Listening comprehension",
+      "file": "practicals/listening-comprehension.md"
+    },
+    {
+      "id": "direct-indirect-speech",
+      "title": "Direct and indirect speech",
+      "file": "practicals/direct-indirect-speech.md"
+    },
+    {
+      "id": "figures-of-speech",
+      "title": "Figures of speech",
+      "file": "practicals/figures-of-speech.md"
+    },
+    {
+      "id": "effective-communication",
+      "title": "Effective communication",
+      "file": "practicals/effective-communication.md"
+    },
+    {
+      "id": "writing-skills",
+      "title": "Writing skills: sentences and paragraphs",
+      "file": "practicals/writing-skills.md"
+    },
+    {
+      "id": "effective-writing",
+      "title": "Effective writing: letters, notices and reports",
+      "file": "practicals/effective-writing.md"
+    },
+    {
+      "id": "interview-handling-skills",
+      "title": "Interview handling skills: mock interview",
+      "file": "practicals/interview-handling-skills.md"
+    },
+    {
+      "id": "email-etiquette",
+      "title": "E-mail etiquette",
+      "file": "practicals/email-etiquette.md"
+    },
+    {
+      "id": "presentation-skills",
+      "title": "Presentation skills",
+      "file": "practicals/presentation-skills.md"
+    }
+  ]
+}

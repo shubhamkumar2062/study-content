@@ -2,13 +2,13 @@
 
 Remedial Mathematics is taken in Semester 1 by students who studied biology, not mathematics, in Class 12. It starts from the basics and builds up to the equations used in pharmacokinetics. Marks in this subject come from **working**, not from writing: read a section, then close the notes and redo every worked example on paper until you get the same answer without help. Then try the question bank.
 
-**How the subject is examined.** In the PCI scheme, BP106RMT is a 2-credit theory subject (2 hours a week) marked as a **Non University Examination (NUE)**, so your own college sets and marks the paper. Marks: 15 internal (10 from a sessional exam of 1 hour, 5 from continuous assessment) + **35 end-semester (1.5 hours)** = 50. Colleges choose their own question split; the mock paper in this app uses a common one. Confirm the exact pattern with your college.
+**How the subject is examined.** In the PCI scheme, BP106RMT is a 2-credit theory subject (2 hours a week) marked as a **Non University Examination (NUE)**, so your own college sets and marks the paper. Marks: 15 internal (10 from a sessional exam of 1 hour, 5 from continuous assessment) + **35 end-semester (1.5 hours)** = 50. The PCI regulations print this pattern for a 35-mark paper, and the full mock paper in this app follows it. Confirm the exact pattern with your college.
 
 | Section | What it asks | Marks |
 | --- | --- | --- |
-| A | Objective / MCQ | 10 × 1 = 10 |
-| B | Long answers — attempt 1 of 2 | 1 × 10 = 10 |
-| C | Short answers — attempt 3 of 4 | 3 × 5 = 15 |
+| I | Long answers — answer 1 of 2 | 1 × 10 = 10 |
+| II | Short answers — answer 5 of 7 | 5 × 5 = 25 |
+| | **Total** | **35** |
 
 The question bank also has 2-mark very short questions, useful for the sessional exam and for papers that ask short definitions.
 

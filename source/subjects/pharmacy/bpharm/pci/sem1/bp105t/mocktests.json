@@ -1,0 +1,45 @@
+{
+  "tests": [
+    {
+      "id": "hptu-pci-full",
+      "title": "Full mock paper (35 marks, 1.5 hours)",
+      "patternSource": "PCI B.Pharm regulations, question-paper pattern for a 35-mark end-semester theory paper: long answers 1 of 2 × 10, short answers 5 of 7 × 5. BP105T is a non-university subject, so the college sets the paper. Confirm with your college.",
+      "durationMinutes": 90,
+      "totalMarks": 35,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Section I: Long answers (answer any 1)",
+          "source": "long",
+          "marksEach": 10,
+          "count": 2,
+          "attempt": 1
+        },
+        {
+          "id": "b",
+          "title": "Section II: Short answers (answer any 5)",
+          "source": "short",
+          "marksEach": 5,
+          "count": 7,
+          "attempt": 5
+        }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Objective questions",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The word 'communication' comes from the Latin word communis, which means:",
+      "options": [
+        "Speech",
+        "Common",
+        "Message",
+        "Sender"
+      ],
+      "correct": 1,
+      "explanation": "Communicating makes an idea common, or shared, between people.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Converting an idea into words, symbols or gestures is called:",
+      "options": [
+        "Decoding",
+        "Feedback",
+        "Encoding",
+        "Channel"
+      ],
+      "correct": 2,
+      "explanation": "The sender encodes; the receiver decodes.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The element that makes communication a two-way process is:",
+      "options": [
+        "Channel",
+        "Encoding",
+        "Context",
+        "Feedback"
+      ],
+      "correct": 3,
+      "explanation": "Feedback from the receiver tells the sender whether the message was understood.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The medium through which a message travels, such as a telephone or e-mail, is the:",
+      "options": [
+        "Channel",
+        "Source",
+        "Context",
+        "Receiver"
+      ],
+      "correct": 0,
+      "explanation": "The channel is the route a message takes from sender to receiver.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "A pharmacist counselling a patient at a crowded, noisy counter faces mainly a:",
+      "options": [
+        "Cultural barrier",
+        "Physical barrier",
+        "Gender barrier",
+        "Emotional barrier"
+      ],
+      "correct": 1,
+      "explanation": "Noise, distance and the setting are physical barriers.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "An elderly patient who cannot read the small print on a label faces a:",
+      "options": [
+        "Interpersonal barrier",
+        "Language barrier",
+        "Physiological barrier",
+        "Psychological barrier"
+      ],
+      "correct": 2,
+      "explanation": "Problems of the body or senses, such as poor eyesight, are physiological barriers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "A junior pharmacist does not question a doubtful dose because he fears the senior doctor. This is an example of a:",
+      "options": [
+        "Physical barrier",
+        "Cultural barrier",
+        "Physiological barrier",
+        "Interpersonal barrier"
+      ],
+      "correct": 3,
+      "explanation": "Barriers from the relationship, such as hierarchy and lack of trust, are interpersonal.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Using the term 'contraindicated' with a patient who does not understand it creates a:",
+      "options": [
+        "Language barrier",
+        "Gender barrier",
+        "Physical barrier",
+        "Emotional barrier"
+      ],
+      "correct": 0,
+      "explanation": "Jargon and unfamiliar words are language barriers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The emotional meaning or feeling attached to a word, beyond its dictionary meaning, is called its:",
+      "options": [
+        "Denotation",
+        "Connotation",
+        "Encoding",
+        "Context"
+      ],
+      "correct": 1,
+      "explanation": "Denotation is the dictionary meaning; connotation is the associated feeling.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Which of the following is NOT one of the 7 Cs of communication?",
+      "options": [
+        "Concise",
+        "Courteous",
+        "Complicated",
+        "Concrete"
+      ],
+      "correct": 2,
+      "explanation": "The 7 Cs are clear, concise, concrete, correct, coherent, complete and courteous.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Pitch, volume, pace and intonation of the voice together are called:",
+      "options": [
+        "Paralanguage",
+        "Proxemics",
+        "Haptics",
+        "Kinesics"
+      ],
+      "correct": 0,
+      "explanation": "Paralanguage is how something is said, apart from the words.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The study of the use of personal space in communication is called:",
+      "options": [
+        "Chronemics",
+        "Proxemics",
+        "Haptics",
+        "Oculesics"
+      ],
+      "correct": 1,
+      "explanation": "Proxemics deals with distances; Hall described intimate, personal, social and public zones.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Communication through touch, such as a handshake, is called:",
+      "options": [
+        "Proxemics",
+        "Chronemics",
+        "Haptics",
+        "Paralanguage"
+      ],
+      "correct": 2,
+      "explanation": "Haptics is the use of touch in communication.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "According to Mehrabian's rule, when people talk about feelings and the channels conflict, words carry about:",
+      "options": [
+        "38% of the meaning",
+        "55% of the meaning",
+        "93% of the meaning",
+        "7% of the meaning"
+      ],
+      "correct": 3,
+      "explanation": "The split is about 7% words, 38% tone and 55% facial expression and body language.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Saying 'I am fine' with tears in the eyes is an example of non-verbal cues:",
+      "options": [
+        "Contradicting the verbal message",
+        "Repeating the verbal message",
+        "Substituting for words",
+        "Regulating the conversation"
+      ],
+      "correct": 0,
+      "explanation": "The non-verbal cue gives the opposite meaning to the words.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The communication styles matrix is based on two dimensions:",
+      "options": [
+        "Pitch and volume",
+        "Directness and openness",
+        "Encoding and decoding",
+        "Speaking and writing"
+      ],
+      "correct": 1,
+      "explanation": "Directness (tells or asks) is crossed with openness (open or self-contained).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "A person who is logical, precise, values data and decides slowly shows the:",
+      "options": [
+        "Spirited style",
+        "Direct style",
+        "Systematic style",
+        "Considerate style"
+      ],
+      "correct": 2,
+      "explanation": "The systematic style is indirect and self-contained, and focuses on facts and process.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A warm, patient person who values harmony and avoids conflict shows the:",
+      "options": [
+        "Direct style",
+        "Systematic style",
+        "Spirited style",
+        "Considerate style"
+      ],
+      "correct": 3,
+      "explanation": "The considerate style is indirect and open, and focuses on people.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "An enthusiastic, talkative person who focuses on big ideas but may skip details shows the:",
+      "options": [
+        "Spirited style",
+        "Systematic style",
+        "Considerate style",
+        "Direct style"
+      ],
+      "correct": 0,
+      "explanation": "The spirited style is direct and open: ideas, energy and persuasion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The best way to communicate with a person of the direct style is to:",
+      "options": [
+        "Give long background stories",
+        "Be brief and give the bottom line first",
+        "Spend time on small talk",
+        "Avoid giving any options"
+      ],
+      "correct": 1,
+      "explanation": "Direct communicators value results and time.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Which statement about hearing and listening is correct?",
+      "options": [
+        "Hearing and listening are the same",
+        "Listening needs no attention",
+        "Hearing requires understanding the message",
+        "Hearing is physical; listening is an active mental process"
+      ],
+      "correct": 3,
+      "explanation": "Listening means attending to and understanding what is heard.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Repeating the speaker's message in your own words to check understanding is called:",
+      "options": [
+        "Paraphrasing",
+        "Interrupting",
+        "Encoding",
+        "Deferring"
+      ],
+      "correct": 0,
+      "explanation": "Paraphrasing shows the speaker you have understood, and lets him correct you.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Which of these is an open question?",
+      "options": [
+        "Are you allergic to penicillin?",
+        "How are you taking this medicine?",
+        "Did you take the tablet today?",
+        "Is your name Ravi?"
+      ],
+      "correct": 1,
+      "explanation": "Open questions invite a full answer; the others can be answered yes or no.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Knowing your own biases, emotional triggers and listening habits is called:",
+      "options": [
+        "Empathy",
+        "Paraphrasing",
+        "Self-awareness",
+        "Selective listening"
+      ],
+      "correct": 2,
+      "explanation": "Self-awareness is the starting point of good listening.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Listening to understand and support the feelings of a distressed patient is:",
+      "options": [
+        "Critical listening",
+        "Appreciative listening",
+        "Discriminative listening",
+        "Empathic listening"
+      ],
+      "correct": 3,
+      "explanation": "Empathic (therapeutic) listening focuses on the speaker's feelings.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Which matter is best handled face to face rather than in writing?",
+      "options": [
+        "Telling a colleague about a serious mistake he made",
+        "Confirming a purchase order",
+        "Sending the monthly stock report",
+        "Circulating a meeting notice to all staff"
+      ],
+      "correct": 0,
+      "explanation": "Sensitive matters lose tone and shades of meaning in writing.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Putting the most important point at the start of a written message follows the:",
+      "options": [
+        "Chronological order",
+        "Inverted pyramid",
+        "Rule of three",
+        "Communication matrix"
+      ],
+      "correct": 1,
+      "explanation": "Main point first, then details, then background.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "A major advantage of written communication is that it:",
+      "options": [
+        "Gives instant feedback",
+        "Carries tone of voice",
+        "Provides a permanent record",
+        "Is always faster than speaking"
+      ],
+      "correct": 2,
+      "explanation": "Written records can be referred to later and used as evidence.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "A good subject line for an e-mail should be:",
+      "options": [
+        "The single word 'Urgent' in capitals",
+        "Left blank for the reader to guess",
+        "The same as the previous thread on any topic",
+        "Specific, short and state the action or deadline"
+      ],
+      "correct": 3,
+      "explanation": "A specific subject line helps the reader prioritise and act.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "When taking a verbal order on the telephone, the pharmacist should:",
+      "options": [
+        "Write it down and read it back",
+        "Trust memory and act later",
+        "Ask only yes-or-no questions",
+        "Avoid asking the caller to repeat"
+      ],
+      "correct": 0,
+      "explanation": "Read-back confirms drug names, doses and numbers.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The main purpose of a job interview for the employer is to:",
+      "options": [
+        "Advertise the company's products",
+        "Train the candidate",
+        "Assess the candidate's suitability for the job",
+        "Collect the candidate's fees"
+      ],
+      "correct": 2,
+      "explanation": "The employer verifies the CV and judges knowledge, attitude and fit.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "In the STAR method of answering, 'A' stands for:",
+      "options": [
+        "Attitude",
+        "Answer",
+        "Aim",
+        "Action"
+      ],
+      "correct": 3,
+      "explanation": "STAR = Situation, Task, Action, Result.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Which of the following is a DON'T in an interview?",
+      "options": [
+        "Criticising your former employer",
+        "Arriving 10–15 minutes early",
+        "Asking a thoughtful question at the end",
+        "Maintaining steady eye contact"
+      ],
+      "correct": 0,
+      "explanation": "Criticising others creates a negative impression.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "An interview in which several interviewers question the candidate together is a:",
+      "options": [
+        "Group interview",
+        "Panel interview",
+        "Exit interview",
+        "Telephone interview"
+      ],
+      "correct": 1,
+      "explanation": "A panel interview has a board of interviewers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The fear of speaking in public is called:",
+      "options": [
+        "Claustrophobia",
+        "Hydrophobia",
+        "Glossophobia",
+        "Acrophobia"
+      ],
+      "correct": 2,
+      "explanation": "Glossophobia, or stage fright, is very common and is reduced by preparation and practice.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The best cure for nervousness before a presentation is:",
+      "options": [
+        "Reading every slide aloud",
+        "Avoiding eye contact",
+        "Speaking as fast as possible",
+        "Thorough preparation and practice"
+      ],
+      "correct": 3,
+      "explanation": "Knowing the content well is the strongest remedy for fear.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "A delivery technique in which the speaker reads the whole text word for word is:",
+      "options": [
+        "Manuscript delivery",
+        "Extempore delivery",
+        "Impromptu delivery",
+        "Memorised delivery"
+      ],
+      "correct": 0,
+      "explanation": "Manuscript delivery is exact but often dull, with little eye contact.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The delivery technique usually recommended for presentations is:",
+      "options": [
+        "Manuscript",
+        "Extempore",
+        "Memorised",
+        "Impromptu"
+      ],
+      "correct": 1,
+      "explanation": "Extempore is prepared and practised but delivered from notes, so it sounds natural.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "In a presentation, the 'hook' belongs to the:",
+      "options": [
+        "Body",
+        "Conclusion",
+        "Introduction",
+        "Question session"
+      ],
+      "correct": 2,
+      "explanation": "A hook (question, fact, case) catches attention at the start.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "For good slide design, each slide should ideally carry:",
+      "options": [
+        "Full paragraphs of text",
+        "Many animations and sounds",
+        "Several unrelated topics",
+        "One main idea with a clear title"
+      ],
+      "correct": 3,
+      "explanation": "Slides support the speaker; one idea per slide keeps them clear.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "A group discussion differs from a debate because a GD is:",
+      "options": [
+        "Competitive, with fixed for and against sides",
+        "Cooperative, aiming at shared understanding",
+        "Spoken by one person only",
+        "Always without a topic"
+      ],
+      "correct": 1,
+      "explanation": "In a debate, speakers argue assigned sides to win.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The participant who opens a GD and defines the topic plays the role of:",
+      "options": [
+        "Summariser",
+        "Blocker",
+        "Initiator",
+        "Harmoniser"
+      ],
+      "correct": 2,
+      "explanation": "The initiator starts the discussion and gives it direction.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "A participant who brings quiet members into the discussion acts as a:",
+      "options": [
+        "Dominator",
+        "Aggressor",
+        "Silent spectator",
+        "Gate-keeper (coordinator)"
+      ],
+      "correct": 3,
+      "explanation": "The gate-keeper balances participation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Which is a negative role in a group discussion?",
+      "options": [
+        "Dominator",
+        "Clarifier",
+        "Summariser",
+        "Information giver"
+      ],
+      "correct": 0,
+      "explanation": "A dominator does not let others speak.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "While summarising a GD, a participant should:",
+      "options": [
+        "Introduce new arguments",
+        "Present the main viewpoints without adding new points",
+        "Give only his own views",
+        "Criticise other members"
+      ],
+      "correct": 1,
+      "explanation": "A summary is fair and brief and adds nothing new.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The polite way to disagree in a GD is:",
+      "options": [
+        "You are completely wrong",
+        "That is a silly idea",
+        "I see your point, but I feel…",
+        "Stop talking and listen to me"
+      ],
+      "correct": 2,
+      "explanation": "Challenge the idea, not the person.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "A GD topic such as 'Bridges' or 'Red' is an example of:",
+      "options": [
+        "A factual topic",
+        "A case-based topic",
+        "A controversial topic",
+        "An abstract topic"
+      ],
+      "correct": 3,
+      "explanation": "Abstract topics test creativity and lateral thinking.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Leadership in a group discussion is best shown by:",
+      "options": [
+        "Giving direction and building consensus",
+        "Speaking the loudest",
+        "Speaking for the longest time",
+        "Interrupting others often"
+      ],
+      "correct": 0,
+      "explanation": "Leaders guide, balance participation and help reach a conclusion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A typical selection GD has about:",
+      "options": [
+        "2 participants",
+        "6–12 participants",
+        "30–40 participants",
+        "Only 1 participant"
+      ],
+      "correct": 1,
+      "explanation": "A small group allows everyone a chance to speak.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Which of these is a DO in a group discussion?",
+      "options": [
+        "Quote statistics you are not sure of",
+        "Remain silent throughout",
+        "Support your points with facts and examples",
+        "Interrupt to make your point first"
+      ],
+      "correct": 2,
+      "explanation": "Relevant, logical points backed by facts earn credit.",
+      "probability": "medium"
+    }
+  ]
+}

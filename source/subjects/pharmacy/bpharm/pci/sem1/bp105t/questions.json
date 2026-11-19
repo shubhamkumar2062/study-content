@@ -1,0 +1,410 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define communication. Explain the communication process with a neat labelled diagram, describing each of its elements.",
+      "answer": "1. Definition: communication is the two-way process of sending and receiving ideas, information or feelings through words, signs or behaviour so that the receiver understands them as intended and responds (Latin communis = common).\n2. Diagram: Source → Encoding → Message → Channel → Decoding → Receiver → Feedback back to source, all inside a Context box; noise can enter at any stage.\n3. Source (sender): starts the communication; his knowledge, credibility and attitude affect it.\n4. Message: the content (idea, fact, feeling) to be shared.\n5. Encoding: converting the idea into words, symbols or gestures that suit the receiver; avoid jargon.\n6. Channel: the medium — face to face, phone, letter, e-mail, label, poster.\n7. Decoding: the receiver interprets the symbols and draws meaning.\n8. Receiver: the person or group the message is meant for; language, education and mood affect decoding.\n9. Feedback: the receiver's response that shows whether the message was understood; makes communication two-way (teach-back in counselling).\n10. Context: the setting — place, time, relationship, culture; the same words mean different things in different contexts.\n11. Noise: any disturbance (physical noise, poor handwriting, worry).\n12. Pharmacy example: explaining inhaler use and asking the patient to demonstrate it back."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are barriers to communication? Discuss the different barriers to communication with examples and suggest ways to overcome them.",
+      "answer": "1. Definition: a barrier is anything that blocks, distorts or delays a message so that the intended meaning does not reach the receiver.\n2. Physiological: hearing loss, poor eyesight, speech defects, pain, fatigue; remedy — speak clearly facing the person, large print, involve caregiver.\n3. Physical: noise, distance, poor light, crowded counter, bad phone line, illegible handwriting; remedy — quiet counselling area, typed prescriptions, check equipment.\n4. Cultural: different beliefs, customs, gestures, fasting habits; remedy — respect, cultural awareness, ask rather than assume.\n5. Language: different languages, accents, jargon (PRN, contraindicated), words with two meanings; remedy — simple local words, pictograms, interpreter, written instructions.\n6. Gender: different styles and stereotypes, embarrassment discussing private problems; remedy — privacy, sensitivity, same-gender colleague.\n7. Interpersonal: lack of trust, ego, hierarchy (junior afraid to question a senior); remedy — mutual respect, open culture, polite professional queries.\n8. Psychological: prejudice, closed mind, stress, poor attention, selective listening; remedy — patience, listen first, give evidence.\n9. Emotional: anger, fear, grief, shock; remedy — acknowledge feelings, key points only, written material, follow up later.\n10. General remedies: 7 Cs (clear, concise, concrete, correct, coherent, complete, courteous), feedback, active listening, right channel and right time."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the importance of communication for a pharmacist.",
+      "answer": "1. Patient safety: correct dose, timing, storage and warnings reach the patient only through clear counselling and labels.\n2. Teamwork: coordinates with doctors, nurses, dentists and physiotherapists; prevents duplicate drugs and interactions.\n3. Trust and adherence: patients follow advice when they feel heard and understand the reason.\n4. Organisation: planning, instructions, coordination and motivation of staff depend on it.\n5. Decision making: accurate upward reporting helps managers decide.\n6. Business: explaining products, negotiating with suppliers and retaining customers.\n7. Career growth: interviews, presentations and group discussions reward good communicators."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is feedback? Explain its importance in the communication process.",
+      "answer": "1. Definition: feedback is the receiver's response (words, questions, nods, actions) that tells the sender whether and how the message was understood.\n2. It closes the communication loop and makes communication two-way.\n3. It confirms understanding and shows errors so the sender can correct or repeat.\n4. It improves future messages — the sender learns what works.\n5. It shows the receiver is involved and builds the relationship.\n6. Types: positive/negative, verbal/non-verbal, immediate/delayed.\n7. Pharmacy use: teach-back — asking the patient 'How will you take this?' to confirm the dose."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on perspectives in communication.",
+      "answer": "1. Perspective is the point of view through which a person sees and interprets a message; the same message can mean different things to different people.\n2. Visual perception: the brain selects and interprets what the eyes see; illusions, first impressions and selective perception (seeing what we expect, e.g. look-alike drug packs).\n3. Language: words carry denotation (dictionary meaning) and connotation (feeling); 'cheap' vs 'economical'.\n4. Past experiences: earlier good or bad events colour how new messages are received.\n5. Prejudices: fixed opinions about people make us judge the messenger, not the message.\n6. Feelings: mood at the moment changes interpretation.\n7. Environment: surroundings, culture and upbringing shape views.\n8. Remedy: ask questions, avoid judging by appearance, check understanding through feedback."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain language and cultural barriers to communication with suitable examples.",
+      "answer": "Language barriers:\n1. Different mother tongues and regional accents.\n2. Technical jargon and abbreviations (PRN, b.i.d., contraindicated) not understood by patients.\n3. Words with more than one meaning; poor translation.\n4. Example: 'one tablet twice a day' misunderstood as two tablets.\n5. Remedy: simple words, local language, pictograms, written instructions, interpreter, teach-back.\nCultural barriers:\n6. Differences in beliefs, values, customs, religion and meaning of gestures, eye contact and personal space.\n7. Example: a patient fasting for a religious festival may skip doses unless timing is adjusted; beliefs that some medicines are 'heating'.\n8. Remedy: respect and cultural awareness, ask rather than assume, avoid stereotypes, adapt advice."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Distinguish between psychological and emotional barriers to communication with examples.",
+      "answer": "1. Psychological barriers arise from the person's mind-set and attitudes; emotional barriers arise from strong feelings at that moment.\n2. Psychological examples: prejudice, closed mind, low self-esteem, stress, poor attention, selective perception — a patient who believes all allopathic medicines harm the kidneys does not really listen.\n3. Emotional examples: anger, fear, grief, shock, embarrassment — a patient newly diagnosed with diabetes is too shocked to absorb insulin instructions.\n4. Psychological barriers are longer-lasting; emotional barriers are usually temporary and pass as the feeling settles.\n5. Overcoming psychological barriers: patience, listening first, clearing misconceptions with evidence, building confidence.\n6. Overcoming emotional barriers: acknowledge the feeling, keep to key points, give written material and follow up later."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define communication.",
+      "answer": "Communication is the two-way process of sending and receiving ideas, information or feelings through words, signs or behaviour so that the receiver understands them as intended and responds."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is encoding and decoding?",
+      "answer": "Encoding is the sender turning an idea into words, symbols or gestures. Decoding is the receiver interpreting those symbols to draw out the meaning."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the elements of face-to-face communication: tone of voice, body language, verbal and physical communication.",
+      "answer": "1. Face-to-face communication is the richest channel: words, voice and body work together with instant feedback.\n2. Tone of voice (paralanguage): how words are said — pitch, volume, pace, pauses, intonation, stress, clarity; the same sentence changes meaning with stress.\n3. Body language (non-verbal): facial expression, eye contact, gestures, posture, personal space (intimate, personal, social, public), touch, appearance, use of time.\n4. Functions of non-verbal cues: repeat, substitute, complement, contradict, regulate, accent.\n5. For feelings and attitudes, when channels conflict listeners believe tone and body language more than words (Mehrabian's 7–38–55 rule, valid only for such messages).\n6. Verbal communication: spoken and written words; oral is quick with immediate feedback but leaves no record; guidelines — simple words, short sentences, specific instructions, politeness, check understanding.\n7. Physical communication: meaning carried by presence, actions and setting — standing to greet a doctor, coming out from behind the counter, demonstrating an insulin pen, a tidy professional pharmacy.\n8. Conclusion: an effective communicator keeps words, tone and body language consistent."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the communication styles matrix. Explain the direct, spirited, systematic and considerate communication styles with an example of each.",
+      "answer": "1. Communication style = a person's typical way of giving and receiving information.\n2. Matrix based on two dimensions: directness (assertive, tells vs reserved, asks) and openness (shows feelings, people-focused vs self-contained, task-focused); draw the 2 × 2 box.\n3. Direct (direct + self-contained): decisive, results-first, fast, to the point, can seem blunt; deal by being brief and giving the bottom line. Example: a consultant asks 'Is there an interaction or not?' — answer in one line with an alternative.\n4. Spirited (direct + open): enthusiastic, talkative, big-picture, creative, may skip detail; deal by showing interest in ideas then fixing details in writing. Example: a colleague pitching a health camp.\n5. Systematic (indirect + self-contained): logical, precise, data-driven, slow to decide, prefers writing; deal by giving facts, evidence and time. Example: a QA manager wanting batch data and SOP references.\n6. Considerate (indirect + open): warm, patient, good listener, seeks harmony, avoids conflict; deal by being supportive and inviting opinion. Example: reassuring a nurse who reports missed doses.\n7. Comparison table: focus, pace, emotion, decision style for each.\n8. Flexing: keep your style but adjust to the listener's style."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is non-verbal communication? Explain its types.",
+      "answer": "1. Non-verbal communication is communication without words, through the body, voice qualities, space, time and appearance.\n2. Facial expression: smile, frown.\n3. Eye contact: steady contact shows interest and honesty.\n4. Gestures: nodding, open palms vs pointing, crossed arms.\n5. Posture: upright and leaning forward vs slouching.\n6. Proxemics: personal space — intimate, personal, social, public distances.\n7. Haptics: touch, handshake.\n8. Appearance: dress, grooming, apron and badge.\n9. Chronemics: punctuality and use of time.\n10. Paralanguage (tone, pitch, pace) is often included."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the importance of tone of voice in communication.",
+      "answer": "1. Tone of voice (paralanguage) is how words are spoken, not what is said.\n2. Pitch: steady, lower pitch sounds calm and confident; high pitch sounds nervous.\n3. Volume: suit the room and the listener; too loud sounds aggressive, too soft unsure.\n4. Pace: slow down for instructions, doses and numbers.\n5. Pauses: let key points sink in and invite questions.\n6. Intonation and stress: change meaning ('take one tablet' vs 'take one tablet').\n7. Tone shows attitude — warmth, respect, impatience — and patients judge sincerity by it.\n8. On the telephone, tone carries most of the non-verbal meaning."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare verbal and non-verbal communication.",
+      "answer": "1. Verbal uses words (spoken or written); non-verbal uses face, gestures, posture, space, touch, tone.\n2. Verbal is mostly deliberate; non-verbal is often unconscious.\n3. Verbal carries facts, numbers and instructions well; non-verbal carries feelings and attitudes.\n4. Written verbal messages leave a record; non-verbal leaves none.\n5. Verbal depends on a shared language; non-verbal also varies by culture.\n6. When the two conflict about feelings, people believe the non-verbal message.\n7. Effective communication keeps both consistent, e.g. saying 'take your time' with relaxed posture and eye contact."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the systematic and considerate communication styles and how to communicate with each.",
+      "answer": "Systematic style:\n1. Indirect and self-contained; logical, analytical, precise, values facts and accuracy.\n2. Slow, careful decisions; prefers written communication; shows little emotion.\n3. How to communicate: be organised, give data and evidence, stick to facts, allow time, avoid exaggeration.\nConsiderate style:\n4. Indirect and open; warm, patient, supportive, good listener, values relationships and harmony.\n5. Avoids conflict, may not say no, decides by consensus.\n6. How to communicate: be friendly and sincere, show personal interest, reassure, invite opinions, avoid pressure.\n7. Example: a QA officer (systematic) wants records; a ward nurse (considerate) needs reassurance."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on physical communication and proxemics.",
+      "answer": "1. Physical communication is meaning carried by the communicator's presence, actions and physical setting.\n2. Examples: standing to greet a doctor, coming out from behind the counter for an elderly patient, demonstrating a device, a clean organised pharmacy.\n3. Proxemics is the use of personal space in communication.\n4. Hall's zones: intimate (very close, family), personal (about arm's length, friends), social (business and counter talk), public (addressing a group).\n5. Too close makes people uneasy; too far seems cold.\n6. Comfortable distance varies with culture and relationship; a counselling room allows a closer, more private conversation."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is paralanguage?",
+      "answer": "Paralanguage is the vocal part of a message apart from the words — pitch, volume, pace, pauses, intonation and stress — that shows how something is said."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the four communication styles of the communication styles matrix.",
+      "answer": "Direct, spirited, systematic and considerate. They come from combining directness (direct or indirect) with openness (open or self-contained)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is active listening? Describe the techniques of active listening and the steps to become an active listener. Add a note on listening in difficult situations.",
+      "answer": "1. Hearing is physical and passive; listening is active and mental.\n2. Active listening: listening with full attention to understand content and feelings, and showing the speaker you have understood.\n3. Stages of listening: receive → attend → understand → remember → evaluate → respond.\n4. Techniques: attention (face the speaker, remove distractions), encouragers (nod, 'go on'), paraphrasing, reflecting feelings, clarifying questions (open and closed), summarising, deferring judgement, responding appropriately.\n5. Steps to become an active listener: prepare, stop talking, put the speaker at ease, watch non-verbal cues, be patient, hold back judgement, paraphrase and summarise, take notes for details, respond and follow up.\n6. Self-awareness of biases, triggers and habits supports good listening.\n7. Difficult situations: angry person — stay calm, let him speak, acknowledge, apologise, solve (LEAP); criticism — listen fully, ask specifics; bad news — empathic listening, allow silence; rambling speaker — summarise and steer; language difference — slow down, interpreter; telephone — read back drug names and numbers.\n8. Benefits for pharmacists: accurate history, detecting adverse reactions, correct verbal orders, trust."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss effective written communication: its advantages and limitations, when and when not to use it, and the principles of writing effectively.",
+      "answer": "1. Written communication: messages through written words — letters, e-mails, reports, notices, labels, SOPs, patient leaflets.\n2. Advantages: permanent record (legal evidence), suits detailed and technical information, can be re-read, reaches many people, can be planned and revised, formal.\n3. Limitations: slow, no instant feedback, loses tone, costly in effort, useless for those who cannot read, hard to withdraw once sent.\n4. When/not to use: complexity of topic — detailed numbers and procedures go in writing; amount of discussion required — much back-and-forth needs a meeting; shades of meaning — sensitive matters (criticism, bad news) need face-to-face talk; formal communication — orders, agreements, regulatory records in writing.\n5. Subject lines: specific, short, include action and deadline.\n6. Put the main point first: inverted pyramid — request, then details, then background.\n7. Know your audience: technical words for professionals, plain words for patients; consider purpose and relationship.\n8. Organisation: opening (purpose), body (logical order, headings, bullets, tables), closing (action, deadline, contact).\n9. 7 Cs and proofreading, especially doses, names and numbers."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between hearing and listening.",
+      "answer": "1. Hearing is the physical reception of sound by the ear; listening is the mental process of attending to and understanding it.\n2. Hearing is passive and automatic; listening is active and deliberate.\n3. Hearing needs only working ears; listening needs attention, interest and effort.\n4. Hearing is continuous; listening is selective and focused.\n5. Hearing gives sound; listening gives meaning and a response.\n6. Example: hearing the fan running vs noticing a patient say 'these tablets make me dizzy'."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "How can you become an active listener?",
+      "answer": "1. Prepare to listen: clear your mind, stop other work, choose a quiet place.\n2. Stop talking and give full attention; face the speaker, keep eye contact.\n3. Put the speaker at ease with a welcoming manner and privacy.\n4. Observe non-verbal cues — tone, face, posture.\n5. Be patient; do not interrupt or finish sentences.\n6. Hold back judgement and solutions until you have the full picture.\n7. Paraphrase, ask clarifying questions and summarise.\n8. Take short notes for details like doses and dates.\n9. Respond and follow up on what was said."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain how to listen in difficult situations.",
+      "answer": "1. Angry person: stay calm, do not argue, let him speak, acknowledge the feeling, apologise for the inconvenience, move to a solution (LEAP — listen, empathise, apologise, problem-solve).\n2. Criticism of you: listen fully, separate the point from the tone, ask for specifics, accept what is fair.\n3. Emotional distress or bad news: empathic listening, allow silence, avoid false reassurance, offer follow-up.\n4. Rambling speaker: pick out the key point, summarise and steer gently.\n5. Language or accent difference: slow down, ask to repeat, interpreter, confirm in writing.\n6. Noisy or rushed setting: move to a quiet place or call back.\n7. Telephone: concentrate on tone; write and read back drug names, doses and verbal orders."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "When should and should not written communication be used? Explain.",
+      "answer": "1. Complexity of the topic: detailed, technical, numerical or step-by-step information (dosage schedules, policies, reports) should be written so it can be re-read; for very complex topics also discuss.\n2. Amount of discussion required: little discussion needed — write (confirming a decision, notice of meeting); much back-and-forth — talk or meet, then write a summary.\n3. Shades of meaning: writing loses tone and emotion; sensitive matters such as criticism, bad news or personal problems should be face to face; exact unambiguous wording (a dose, a contract) should be written.\n4. Formal communication: official orders, agreements, complaints, inspection replies and legally required records must be written.\n5. Examples: purchase order — written; telling a colleague of a serious error — in person first."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the principles of writing effectively: subject lines, main point first, knowing your audience and organisation of the message.",
+      "answer": "1. Subject line: specific and short, states topic, action and deadline ('Insulin pen stock-out — order needed by 15 March'); not just 'Urgent'.\n2. Main point first: use the inverted pyramid — request or conclusion first, then supporting details, then background; busy readers may read only the first lines.\n3. Know your audience: who reads, what they know, what they need, how they will feel, your relationship; technical terms for doctors, plain words for patients.\n4. Organisation: opening (purpose), body (logical order with short paragraphs, headings, bullets, tables), closing (action required, deadline, contact).\n5. Follow the 7 Cs and proofread names, numbers, doses and attachments."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is active listening?",
+      "answer": "Active listening is listening with full attention to understand both the words and the feelings of the speaker, and showing this through feedback such as nodding, paraphrasing and summarising."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is self-awareness in listening?",
+      "answer": "Self-awareness is knowing your own feelings, biases, emotional triggers and listening habits, so that they do not distort what you hear from others."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is an interview? State its purpose. Describe how to prepare for an interview and list the do's and don'ts of an interview.",
+      "answer": "1. Definition: a planned, purposeful two-way conversation in which the interviewer asks questions to assess a candidate, and the candidate learns about the organisation.\n2. Types: job, panel, telephone/video, structured, unstructured, stress, group, technical, HR.\n3. Purpose for employer: verify the CV, assess knowledge and skills, judge communication, attitude, personality and teamwork, check problem-solving, assess fit, give job information.\n4. Purpose for candidate: present abilities, learn about the job, decide whether to accept, negotiate.\n5. Preparation: know yourself, research the employer, revise subject basics, prepare CV and documents, practise common questions using STAR (situation, task, action, result), plan dress and travel.\n6. Do's: dress formally, arrive 10–15 minutes early, knock and greet, sit when asked, firm handshake, eye contact, upright posture, listen fully, answer honestly and concisely, admit when you don't know, show enthusiasm, ask a good question, thank the panel, follow up.\n7. Don'ts: arrive late, casual dress or strong perfume, slouch or fidget, interrupt, lie or bluff, criticise former employers, use slang, ask first about salary, keep the phone on, argue with the panel.\n8. Online interviews: test equipment, quiet room, look at the camera."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "How will you plan, structure and deliver an effective presentation? Add a note on dealing with fear and on techniques of delivery.",
+      "answer": "1. Presentation: a planned talk to inform, instruct, persuade or report, usually with visual aids.\n2. Dealing with fears: thorough preparation, practise aloud and time it, check the venue and equipment, deep breathing, positive self-talk and visualisation, memorise the opening, look at friendly faces, accept some nervousness, keep water.\n3. Planning: purpose (what audience should know/do), audience (number, knowledge, needs), time, venue and equipment, content from reliable sources, visual aids; rule of three key points.\n4. Structure: introduction (greeting, hook, purpose, outline) → body (about three main points with evidence and examples, transitions) → conclusion (summary, take-home message, thanks, questions).\n5. Slide design: one idea per slide, few lines, large font, high contrast, simple charts, no distracting animation, don't read slides.\n6. Delivery: confident start, audible varied voice, eye contact across the room, open gestures, engage the audience, keep time, handle questions honestly, strong ending.\n7. Techniques of delivery: extempore (prepared, from notes — best), manuscript (reading — exact but dull), memorised (fluent but risky), impromptu (no preparation).\n8. Example: a seminar on proper use of inhalers for asthma patients."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "State the purpose of an interview from the point of view of the employer and the candidate.",
+      "answer": "Employer:\n1. Verify information given in the CV.\n2. Assess subject knowledge, skills and experience.\n3. Judge communication, confidence, attitude and personality.\n4. Test problem-solving and thinking.\n5. Check fit with the organisation's culture.\n6. Give information about the job and conditions.\nCandidate:\n7. Present abilities convincingly.\n8. Learn about the job, work environment and growth.\n9. Decide whether to accept the offer and negotiate terms."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the do's and don'ts of an interview.",
+      "answer": "Do's:\n1. Research the organisation; carry organised documents.\n2. Dress formally and arrive early.\n3. Greet, wait to be seated, maintain eye contact and upright posture.\n4. Listen fully; answer honestly, clearly and concisely; admit when you don't know.\n5. Show enthusiasm; ask a thoughtful question; thank the panel.\nDon'ts:\n6. Be late or casually dressed.\n7. Interrupt, fidget, slouch or avoid eye contact.\n8. Lie, bluff or guess drug facts.\n9. Criticise former teachers or employers; use slang.\n10. Ask about salary first; keep the phone on; argue with the panel."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "How can a speaker deal with the fear of giving presentations?",
+      "answer": "1. Recognise the fear (stage fright): fast heartbeat, dry mouth, shaky voice; it comes from fear of judgement and lack of preparation.\n2. Prepare thoroughly — knowing the content is the best cure.\n3. Practise aloud in front of a mirror, friends or a recorder and time the talk.\n4. Visit the venue early and test the projector, microphone and slides.\n5. Slow deep breathing before starting.\n6. Positive self-talk and visualising success.\n7. Memorise the opening lines.\n8. Begin by looking at friendly faces; focus on the message, not yourself.\n9. Accept mild nervousness as useful energy; keep water nearby."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the structure of an effective presentation.",
+      "answer": "1. Principle: tell them what you will tell them, tell them, tell them what you told them.\n2. Introduction (about 10–15% of time): greet, introduce yourself and topic, a hook (question, fact, case), purpose and outline.\n3. Body (about 70–80%): about three main points, each with evidence and examples; logical order (chronological, problem–solution, cause–effect, compare–contrast, topical); smooth transitions.\n4. Conclusion (about 10%): summarise key points, give the take-home message or call to action, thank the audience.\n5. Question time: listen, repeat the question, answer briefly.\n6. Visual aids support each part: clear titles, one idea per slide."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the different techniques of delivering a presentation.",
+      "answer": "1. Extempore (extemporaneous): prepared and practised, delivered from key-word notes, words chosen at the moment; natural, flexible, good eye contact — most recommended.\n2. Manuscript: read word for word; exact wording for official or technical statements but dull with poor eye contact.\n3. Memorised: learnt by heart; fluent but risky if forgotten and sounds mechanical.\n4. Impromptu: little or no preparation; spontaneous but often disorganised.\n5. Supporting techniques: cue cards, storytelling and cases, signposting ('first', 'finally'), demonstrations, rhetorical questions, summaries after each section."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the STAR method of answering interview questions?",
+      "answer": "STAR stands for Situation, Task, Action and Result. It is a way to answer behavioural questions by describing a real example briefly and clearly."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an extempore presentation?",
+      "answer": "An extempore presentation is prepared and practised in advance but delivered from brief notes, with the exact words chosen while speaking. It sounds natural and allows eye contact."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a group discussion? Explain the communication skills required in a group discussion and list its do's and don'ts.",
+      "answer": "1. Definition: a structured, cooperative conversation among about 6–12 people on a given topic, usually for 10–20 minutes, to share views and reach understanding or a conclusion; often used for selection.\n2. Features: small group, topic or case given, equal right to speak, no appointed leader, observers score participants.\n3. GD differs from a debate: cooperative, no fixed sides or order, aim is shared conclusion.\n4. Speaking skills: brief, clear, relevant points supported by facts and examples; audible voice; formal correct language.\n5. Listening skills: listen to all, build on others' points, avoid repetition, acknowledge speakers.\n6. Non-verbal skills: upright posture, look at the group, natural gestures, positive expression.\n7. Interpersonal skills: initiate with a sound point, enter politely, disagree politely, bring in quiet members, handle conflict, manage time, summarise fairly.\n8. Leadership: give direction, keep on track, balance participation, build consensus.\n9. Do's: read widely, jot points, listen, be polite, include others, stay on topic, summarise without new points.\n10. Don'ts: interrupt, shout, dominate, attack personally, quote made-up figures, use slang, drift off topic, stay silent."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the purpose, types of topics and the roles played by participants in a group discussion. How are candidates usually assessed in a GD?",
+      "answer": "1. Purpose in selection: to assess, in a group, communication, knowledge and awareness, logical thinking, teamwork, leadership, attitude, confidence and flexibility.\n2. Types of topics: factual (generic medicines in India), controversial (online sale of medicines), abstract ('Bridges'), case-based (a dispensing error — what should the team do?), current affairs (antimicrobial resistance).\n3. Positive roles: initiator (opens and defines), information giver, opinion giver, clarifier/elaborator, coordinator/gate-keeper (involves quiet members, keeps time), encourager/harmoniser (reduces tension), summariser.\n4. Negative roles: dominator, aggressor, blocker, silent spectator, joker, topic-jumper.\n5. Assessment criteria: content and knowledge, communication, listening, leadership and initiative, teamwork, logical reasoning, body language and attitude.\n6. Leadership in GD means direction and consensus, not loudness or speaking the most.\n7. Conclusion: quality of contribution and team behaviour matter more than quantity of talk."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the do's and don'ts of a group discussion.",
+      "answer": "Do's:\n1. Read widely and use thinking time to jot points.\n2. Initiate only with a strong, relevant point.\n3. Listen actively and acknowledge others.\n4. Make logical points with facts and examples; speak clearly and politely.\n5. Disagree politely with reasons; involve quiet members; summarise fairly.\nDon'ts:\n6. Interrupt or shout.\n7. Dominate or remain silent throughout.\n8. Attack or mock others personally.\n9. Quote doubtful statistics or drift off the topic.\n10. Use slang or add new points in the summary."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the communication skills required in a group discussion.",
+      "answer": "1. Speaking: clear, brief, relevant points with facts and examples; audible, moderate pace; formal language.\n2. Listening: attend to every speaker, build on their points, avoid repetition.\n3. Non-verbal: upright posture, look at the group, positive face, natural gestures.\n4. Initiating and entering: start with a sensible definition or key issue; enter at a pause with polite phrases.\n5. Disagreeing politely: 'I see your point, but…'; challenge ideas, not people.\n6. Involving others and managing conflict and time.\n7. Summarising fairly at the end without new points."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Distinguish between a group discussion and a debate.",
+      "answer": "1. A GD is cooperative; a debate is competitive.\n2. In a GD members may hold any view and change it; in a debate each speaker defends an assigned side (for or against).\n3. GD aims at shared understanding or a conclusion; a debate aims at winning by persuading judges.\n4. GD has no fixed order of speaking; a debate has a fixed order and time for each speaker.\n5. GD participants build on each other's points; debaters rebut the opponents.\n6. GD tests teamwork and leadership; a debate tests argument and persuasion."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the roles played by participants in a group discussion?",
+      "answer": "1. Initiator: opens the discussion and defines the topic.\n2. Information giver: provides facts, data and examples.\n3. Opinion giver: shares views with reasons.\n4. Clarifier/elaborator: explains and expands points.\n5. Coordinator/gate-keeper: involves quiet members, keeps order and time.\n6. Encourager/harmoniser: supports others and settles conflict.\n7. Summariser: pulls the discussion together.\n8. Negative roles to avoid: dominator, aggressor, blocker, silent spectator, joker, topic-jumper."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "How is leadership shown in a group discussion?",
+      "answer": "1. Leadership is not speaking the most or loudest.\n2. Giving direction: suggest a structure such as causes, effects and solutions.\n3. Keeping the discussion on topic and within time.\n4. Encouraging quiet members and balancing participation.\n5. Resolving conflicts calmly and building consensus.\n6. Summarising and helping the group reach a conclusion.\n7. Showing team-player qualities: respect, cooperation, sharing credit, flexibility."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define group discussion.",
+      "answer": "A group discussion is a structured, cooperative conversation among a small group on a given topic, in which members share ideas and opinions to reach better understanding or a conclusion within a set time."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the role of an initiator in a GD?",
+      "answer": "The initiator opens the discussion: defines the topic, states its importance or key issues, and gives the group a direction to start from."
+    }
+  ]
+}
