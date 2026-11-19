@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define drug metabolism (biotransformation). Describe phase I and phase II reactions with examples. Add a note on enzyme induction and enzyme inhibition.",
+      "answer": "1. Definition: chemical alteration of a drug in the body, mainly in liver microsomes, making it more polar and water-soluble for excretion.\n2. Results: active → inactive (most drugs); active → active metabolite (diazepam → desmethyldiazepam, codeine → morphine); prodrug → active (levodopa → dopamine, enalapril → enalaprilat); drug → toxic metabolite (paracetamol → NAPQI).\n3. Phase I (functionalisation): oxidation by cytochrome P450 (CYP3A4, 2D6, 2C9) — the commonest; reduction (chloramphenicol); hydrolysis of esters and amides (procaine, succinylcholine by plasma esterases); cyclisation/decyclisation. Adds or exposes −OH, −NH2, −COOH.\n4. Phase II (conjugation): glucuronidation (commonest: morphine, paracetamol, chloramphenicol), acetylation (isoniazid, sulfonamides, hydralazine; slow/fast acetylators), sulfation, methylation (adrenaline), glycine conjugation (salicylic acid), glutathione conjugation (NAPQI). Products usually inactive and water-soluble.\n5. Hofmann elimination: atracurium breaks down spontaneously in plasma.\n6. Enzyme induction: phenobarbitone, phenytoin, carbamazepine, rifampicin, griseofulvin, chronic alcohol, smoking increase enzyme synthesis over days; consequences — oral contraceptive failure with rifampicin, reduced warfarin effect, autoinduction (carbamazepine); use — phenobarbitone in neonatal jaundice.\n7. Enzyme inhibition: cimetidine, erythromycin, ketoconazole, ciprofloxacin, valproate, allopurinol, grapefruit juice; quick onset; toxicity of other drugs (erythromycin + theophylline; ketoconazole + terfenadine arrhythmia).\n8. Clinical note: newborns have poor glucuronidation → grey baby syndrome with chloramphenicol."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify routes of drug administration. Discuss the advantages and disadvantages of the oral and parenteral routes.",
+      "answer": "1. Local routes: topical (skin, eye, nose, mouth, vagina), deeper tissues (intra-articular, intrathecal, infiltration), close intra-arterial.\n2. Systemic routes: oral, sublingual/buccal, rectal, cutaneous (transdermal), inhalation, nasal, parenteral (IV, IM, SC, intradermal, intra-arterial, intrathecal, intraperitoneal).\n3. Oral advantages: safe, cheap, convenient, painless, self-administration, no sterility needed.\n4. Oral disadvantages: slow onset; first-pass metabolism (GTN, lignocaine); destroyed by acid or enzymes (insulin, benzylpenicillin); irritant drugs cause vomiting; not in unconscious or vomiting patients; irregular absorption with food; patient compliance issues.\n5. Parenteral advantages: rapid and predictable action; IV gives 100% bioavailability and exact dosing; useful in emergencies, unconscious patients and for drugs not absorbed orally; depot preparations (IM) for long action.\n6. Parenteral disadvantages: needs sterility and skill; painful; risk of infection, thrombophlebitis, nerve injury (IM), air embolism (IV); expensive; once given IV cannot be recalled.\n7. Choice of route depends on drug properties, site of action, speed required, patient condition and convenience.\n8. Special examples: sublingual GTN for angina; inhaled salbutamol; transdermal nicotine and fentanyl; SC insulin; IV for antibiotics in sepsis."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the factors affecting drug absorption. Explain bioavailability, first-pass metabolism and plasma protein binding with their clinical significance.",
+      "answer": "1. Absorption: movement of a drug from its site of administration into the blood.\n2. Drug factors: lipid solubility, ionisation (pKa and pH; un-ionised form crosses), molecular size, particle size, dosage form and dissolution, concentration.\n3. Body factors: absorbing surface area (small intestine), blood flow, gastric emptying and motility, food, disease (achlorhydria, malabsorption, shock), other drugs (antacids and calcium chelate tetracyclines).\n4. Bioavailability: fraction of unchanged drug reaching systemic circulation; F = AUC oral/AUC IV × 100; IV = 100%. Bioequivalence: similar Cmax, tmax, AUC between products.\n5. First-pass metabolism: drug metabolised in gut wall and liver before reaching systemic circulation; high for GTN, lignocaine, propranolol, morphine, testosterone; avoided by sublingual, transdermal, parenteral routes; explains bigger oral doses.\n6. Plasma protein binding: acidic drugs bind albumin (warfarin, phenytoin), basic drugs α1-acid glycoprotein (lignocaine). Only free drug acts, is metabolised and excreted; bound drug is a reservoir and prolongs action.\n7. Significance of binding: displacement interactions (aspirin displaces warfarin → bleeding; sulfonamides displace bilirubin → kernicterus); hypoalbuminaemia raises free fraction; highly bound drugs poorly dialysed."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between competitive and non-competitive antagonism with examples and dose–response curves.",
+      "answer": "1. Competitive: antagonist binds same site reversibly; overcome by increasing agonist; parallel right shift of log dose–response curve with same maximum; agonist potency reduced. Example: atropine vs acetylcholine; propranolol vs adrenaline.\n2. Non-competitive: binds a different (allosteric) site or binds irreversibly; not overcome by more agonist; curve flattened, maximum reduced. Example: phenoxybenzamine vs noradrenaline.\n3. Diagram: three sigmoid curves — agonist alone, shifted right (competitive), lower maximum (non-competitive).\n4. Spare receptors: an irreversible antagonist first shifts the curve right and only later lowers the maximum."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain first-order and zero-order kinetics of elimination with examples.",
+      "answer": "1. First order: constant fraction of drug eliminated per unit time; rate proportional to concentration; t½ constant; straight line on log concentration–time plot; applies to most drugs.\n2. Zero order: constant amount eliminated per unit time; enzymes saturated; t½ increases with dose; straight line on linear plot. Examples: alcohol, high doses of phenytoin and salicylates.\n3. Mixed (Michaelis–Menten): first order at low and zero order at high concentrations (phenytoin) — small dose increases cause large rises in plasma level.\n4. t½ = 0.693 × Vd/CL; about 4–5 t½ to eliminate a drug or reach steady state."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define and give one example each: tolerance, tachyphylaxis, idiosyncrasy, drug allergy and drug dependence.",
+      "answer": "1. Tolerance: need for higher dose for the same effect after repeated use (morphine, nitrates).\n2. Tachyphylaxis: rapid tolerance after a few doses at short intervals, not overcome by dose increase (ephedrine, tyramine — noradrenaline depletion).\n3. Idiosyncrasy: genetically determined abnormal response (primaquine haemolysis in G6PD deficiency; succinylcholine apnoea).\n4. Drug allergy: immune-mediated reaction unrelated to dose (penicillin anaphylaxis).\n5. Dependence: need of the drug to function normally; psychological (craving) and physical (withdrawal on stopping) — opioids, alcohol."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the essential drugs (essential medicines) concept.",
+      "answer": "1. WHO definition: medicines that satisfy priority health-care needs of the population.\n2. Selected by disease burden, evidence of efficacy and safety, and comparative cost-effectiveness.\n3. Should be available at all times, in adequate amounts, suitable dosage forms, assured quality, affordable price.\n4. WHO Model List first published in 1977, revised every two years; India has the National List of Essential Medicines (NLEM), used for pricing and procurement.\n5. Benefits: rational prescribing, lower cost, easier supply and training, better quality control."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the mechanisms of drug transport across biological membranes.",
+      "answer": "1. Passive diffusion: down the gradient, no energy or carrier; depends on lipid solubility and ionisation; most drugs.\n2. Filtration: through aqueous pores; small water-soluble molecules (urea, ions).\n3. Facilitated diffusion: carrier, down the gradient, no energy, saturable (glucose).\n4. Active transport: carrier, against gradient, ATP, saturable, inhibitable (levodopa, iron, P-glycoprotein efflux, renal secretion of penicillin).\n5. Endocytosis/pinocytosis: large molecules (vitamin B12 with intrinsic factor).\n6. pH partition: weak acids absorbed in stomach, weak bases in intestine; ion trapping used to increase excretion in poisoning."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define bioavailability.",
+      "answer": "The fraction of an administered dose of unchanged drug that reaches the systemic circulation; it is 100% for IV and is calculated as AUC oral ÷ AUC IV."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is enterohepatic circulation? Give one example.",
+      "answer": "Drugs conjugated in the liver pass into bile, are deconjugated by gut bacteria and reabsorbed, which prolongs their action; for example oral contraceptive steroids or morphine."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify drug receptors. Describe the G-protein-coupled receptor and its signal transduction mechanisms with a diagram.",
+      "answer": "1. Receptor: macromolecule to which a drug binds to produce its effect.\n2. Classes: ligand-gated ion channels (ms; nicotinic, GABA-A, NMDA, 5-HT3); G-protein-coupled receptors (s; muscarinic, adrenergic, dopamine, opioid); enzyme-linked receptors — tyrosine kinase (insulin) and JAK-STAT cytokine receptors (min–h); nuclear receptors regulating transcription (steroids, thyroid hormone; h–days).\n3. GPCR structure: single polypeptide crossing the membrane seven times; extracellular ligand site; intracellular loop couples to a G-protein (α, β, γ).\n4. Cycle: at rest α binds GDP; agonist binding → α exchanges GDP for GTP → α-GTP separates from βγ → acts on effector → α hydrolyses GTP (GTPase) → reassociates.\n5. Gs → stimulates adenylyl cyclase → ↑ cAMP → protein kinase A (β1, β2, D1, H2).\n6. Gi → inhibits adenylyl cyclase, opens K+ channels (α2, M2, D2, μ opioid).\n7. Gq → phospholipase C → PIP2 → IP3 (Ca2+ release from ER) + DAG (protein kinase C) (α1, M1, M3, H1).\n8. Diagram: Agonist → GPCR → G-protein → effector enzyme → second messenger → protein kinase → response.\n9. Regulation: desensitisation/down-regulation with continuous agonist (salbutamol tolerance); up-regulation after chronic blockade (rebound tachycardia after stopping propranolol)."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are adverse drug reactions? Classify them with examples and discuss methods of preventing them. Add a note on pharmacovigilance.",
+      "answer": "1. WHO definition: noxious, unintended response to a drug at doses normally used in man.\n2. Type A (augmented): dose related, predictable (insulin hypoglycaemia, warfarin bleeding).\n3. Type B (bizarre): not dose related, unpredictable, immune or genetic (penicillin anaphylaxis, halothane hepatitis).\n4. Types C (chronic: steroid Cushing's), D (delayed: teratogenicity, carcinogenicity), E (end of use: clonidine rebound hypertension), F (failure: contraceptive failure with inducers).\n5. Kinds: side effects (atropine dry mouth), secondary effects (superinfection), toxic effects (paracetamol hepatotoxicity), intolerance, idiosyncrasy (G6PD), allergy types I–IV, photosensitivity (tetracyclines), dependence, teratogenicity (thalidomide phocomelia, valproate neural tube defects), iatrogenic disease.\n6. Prevention: avoid unnecessary drugs; drug and allergy history; lowest effective dose; monitor narrow-TI drugs; care in children, elderly, pregnancy, liver and kidney disease; patient counselling; report ADRs.\n7. Pharmacovigilance: science and activities for detection, assessment, understanding and prevention of adverse effects.\n8. Methods: spontaneous reporting, intensive hospital monitoring, cohort and case–control studies; causality by WHO–UMC scale or Naranjo algorithm.\n9. India: PvPI coordinated by the Indian Pharmacopoeia Commission, Ghaziabad, with ADR monitoring centres; outcomes include label changes and drug withdrawal."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the various phases of drug discovery and clinical evaluation of a new drug.",
+      "answer": "1. Drug discovery: target identification; lead finding by random or high-throughput screening, rational structure-based design, modification of existing drugs, natural products, biotechnology; lead optimisation via structure–activity relationship.\n2. Preclinical evaluation: pharmacological screening and safety pharmacology; ADME in animals; acute, subacute and chronic toxicity; reproductive toxicity and teratogenicity; mutagenicity (Ames test); carcinogenicity; GLP and animal ethics (CPCSEA in India).\n3. Regulatory application before human use (CDSCO/DCGI in India; IND in USA).\n4. Phase 0: microdosing in a few volunteers for early kinetics (optional).\n5. Phase I: 20–100 healthy volunteers; safety, tolerability, kinetics, maximum tolerated dose; open label.\n6. Phase II: 100–500 patients; efficacy, dose range, short-term adverse effects.\n7. Phase III: hundreds to thousands of patients in many centres; randomised double-blind comparison with placebo or standard drug; basis for marketing approval.\n8. Phase IV: post-marketing surveillance; rare and long-term ADRs, interactions, new uses.\n9. Requirements throughout: GCP, ethics committee approval, informed consent; in India the New Drugs and Clinical Trials Rules, 2019."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain therapeutic index and its clinical significance. Name four drugs with a narrow therapeutic index.",
+      "answer": "1. TI = LD50/ED50 (in man TD50/ED50); a measure of safety.\n2. High TI = wide safety margin (penicillin, diazepam); low TI = toxic dose close to effective dose.\n3. Narrow-TI drugs need careful dosing and plasma level monitoring: digoxin, lithium, phenytoin, theophylline, warfarin, aminoglycosides.\n4. Therapeutic window: concentration range between minimum effective and toxic levels.\n5. Margin of safety LD1/ED99 is stricter."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on drug interactions with suitable examples.",
+      "answer": "1. Definition: change in effect of one drug by another drug, food or substance.\n2. Pharmacokinetic: absorption (tetracycline + antacid/iron chelation), distribution (aspirin displaces warfarin), metabolism — induction (rifampicin + oral contraceptives) or inhibition (erythromycin + theophylline), excretion (probenecid + penicillin; bicarbonate + salicylate).\n3. Pharmacodynamic: synergism (alcohol + BZD; sulfamethoxazole + trimethoprim), antagonism (naloxone vs morphine), electrolyte effects (diuretic hypokalaemia → digoxin toxicity).\n4. Pharmaceutical incompatibility outside the body.\n5. Beneficial: levodopa + carbidopa; amoxicillin + clavulanic acid; LA + adrenaline."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the factors modifying drug action.",
+      "answer": "1. Body weight and surface area.\n2. Age: newborn immature enzymes and kidneys (grey baby syndrome); elderly reduced clearance and sensitivity.\n3. Sex and pregnancy: altered kinetics, teratogenicity.\n4. Genetics: slow acetylators, G6PD deficiency, atypical pseudocholinesterase.\n5. Route: MgSO4 purgative orally, CNS depressant IV.\n6. Environment and time: smoking induces enzymes.\n7. Psychological factors and placebo.\n8. Disease: liver, kidney, hypothyroidism.\n9. Other drugs (interactions), cumulation, tolerance."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the dose–response relationship. Differentiate potency and efficacy.",
+      "answer": "1. Response increases with dose to a maximum; response vs log dose gives a sigmoid curve, nearly linear in the middle.\n2. Graded (in one individual) and quantal (all-or-none in a population) responses.\n3. Potency: amount needed for a given effect; curve position; ED50 — leftward curve = more potent.\n4. Efficacy: maximum response achievable; curve height; clinically more important (furosemide more efficacious than thiazide; morphine than codeine).\n5. Diagram: two sigmoid curves showing difference in position and height."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about receptors that regulate gene transcription (nuclear receptors) and JAK-STAT receptors.",
+      "answer": "1. Nuclear receptors: intracellular; ligands are lipid-soluble (glucocorticoids, sex steroids, thyroid hormone, vitamin D, retinoids).\n2. Hormone–receptor complex binds hormone response elements on DNA, altering mRNA and protein synthesis; effects take hours to days and outlast the drug.\n3. JAK-STAT receptors: cytokine receptors without their own enzyme (interferons, growth hormone, erythropoietin, prolactin).\n4. Ligand causes dimerisation → Janus kinases activated → phosphorylate STAT proteins → STAT dimers enter nucleus and switch on genes.\n5. Both pathways are slow compared with ion channels and GPCRs."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define pharmacovigilance.",
+      "answer": "The science and activities relating to the detection, assessment, understanding and prevention of adverse effects or any other drug-related problem (WHO)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an inverse agonist? Give an example.",
+      "answer": "A drug that binds the receptor and produces an effect opposite to that of the agonist (negative intrinsic activity) by stabilising the inactive state, for example β-carbolines at the benzodiazepine site."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify cholinergic drugs (parasympathomimetics). Describe the pharmacological actions and uses of anticholinesterases. Add a note on the treatment of organophosphate poisoning.",
+      "answer": "1. Direct-acting: choline esters (acetylcholine, methacholine, carbachol, bethanechol); alkaloids (pilocarpine, muscarine, arecoline).\n2. Indirect-acting (anticholinesterases): reversible — physostigmine, neostigmine, pyridostigmine, edrophonium, donepezil, rivastigmine, galantamine; irreversible — organophosphates (parathion, malathion, ecothiophate, sarin), carbamate insecticides.\n3. Mechanism: inhibit acetylcholinesterase → ACh accumulates at muscarinic, nicotinic and central sites.\n4. Actions: bradycardia, hypotension; increased salivary, bronchial, sweat secretions; bronchoconstriction; increased GI motility; detrusor contraction; miosis, accommodation spasm, ↓ IOP; skeletal muscle fasciculations then weakness; CNS effects (tertiary amines).\n5. Uses: myasthenia gravis (neostigmine, pyridostigmine; edrophonium for diagnosis); reversal of competitive neuromuscular block (neostigmine); postoperative ileus and retention; glaucoma; atropine poisoning (physostigmine); Alzheimer's disease (donepezil, rivastigmine, galantamine).\n6. Organophosphate poisoning features: muscarinic (DUMBELS, bronchorrhoea, miosis), nicotinic (fasciculations, paralysis), central (confusion, convulsions, respiratory depression).\n7. Treatment: decontamination (remove clothes, wash skin, gastric lavage); airway, suction, oxygen, ventilation; atropine IV repeated until atropinisation (dry chest and secretions, adequate heart rate); pralidoxime early before ageing to reactivate cholinesterase (not useful for carbamates); diazepam for convulsions."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify adrenergic drugs (sympathomimetics). Describe the pharmacological actions and therapeutic uses of adrenaline.",
+      "answer": "1. By mechanism: direct (adrenaline, noradrenaline, dopamine, dobutamine, isoprenaline, phenylephrine, salbutamol, clonidine), indirect (tyramine, amphetamine), mixed (ephedrine).\n2. By use: pressors (noradrenaline, phenylephrine, mephentermine), cardiac stimulants (adrenaline, dobutamine, isoprenaline), bronchodilators (salbutamol, terbutaline, salmeterol), nasal decongestants (oxymetazoline, xylometazoline), CNS stimulants (amphetamine), uterine relaxants (ritodrine, isoxsuprine).\n3. Adrenaline acts on α and β receptors.\n4. Heart (β1): ↑ rate, force, conduction, cardiac output; arrhythmia risk.\n5. Vessels: constricts skin, mucosa (α1); dilates skeletal muscle vessels (β2); systolic BP up, diastolic may fall, wide pulse pressure; Dale's vasomotor reversal after α-blockade.\n6. Bronchi (β2): strong dilation; decongests mucosa (α).\n7. Metabolic: hyperglycaemia, lipolysis, hypokalaemia; eye: mydriasis (weak), ↓ IOP.\n8. Uses: anaphylactic shock — drug of choice, IM 1 in 1000; cardiac arrest; with local anaesthetics to prolong action; local haemostatic; bronchospasm (rarely now).\n9. Adverse effects: palpitation, anxiety, tremor, arrhythmias, cerebral haemorrhage with high doses; caution in hypertension, ischaemic heart disease, hyperthyroidism; avoid at end-arteries."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify local anaesthetics. Explain their mechanism of action, techniques of administration and adverse effects. Why is adrenaline added to local anaesthetics?",
+      "answer": "1. Definition: drugs that reversibly block nerve conduction when applied locally, causing loss of sensation without loss of consciousness.\n2. Esters: cocaine, procaine, chloroprocaine, tetracaine, benzocaine (hydrolysed by plasma pseudocholinesterase; short; allergy).\n3. Amides: lignocaine, bupivacaine, ropivacaine, prilocaine, mepivacaine, dibucaine (liver metabolism; longer; rarely allergenic).\n4. Mechanism: weak bases; un-ionised form crosses nerve membrane; ionised form blocks voltage-gated Na+ channels from inside → no action potential. Small, myelinated, pain fibres blocked first; order: pain, temperature, touch, pressure, motor. Poor action in inflamed (acidic) tissue.\n5. Techniques: surface, infiltration, nerve block, spinal (subarachnoid), epidural, intravenous regional (Bier's block).\n6. Adverse effects: CNS stimulation then depression (convulsions); hypotension, bradycardia, arrhythmias (bupivacaine most cardiotoxic); allergy (esters); methaemoglobinaemia (prilocaine, benzocaine); post-spinal headache.\n7. Adrenaline: vasoconstriction slows absorption, prolongs action, reduces systemic toxicity, gives bloodless field; avoid at fingers, toes, penis, ear lobe (end-arteries) and in some heart disease.\n8. Other use: lignocaine as class IB antiarrhythmic."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare depolarising and non-depolarising neuromuscular blocking agents.",
+      "answer": "1. Examples: succinylcholine vs d-tubocurarine, pancuronium, vecuronium, atracurium, rocuronium.\n2. Mechanism: persistent depolarisation then desensitisation vs competitive block of NM receptors.\n3. Fasciculations present vs absent.\n4. Neostigmine worsens (phase I) vs reverses the block.\n5. Fast onset, short action (plasma pseudocholinesterase) vs slower, longer (atracurium Hofmann elimination).\n6. Special problems: muscle pain, hyperkalaemia, raised IOP, malignant hyperthermia, apnoea with atypical enzyme vs histamine release (hypotension, bronchospasm with tubocurarine).\n7. Uses: intubation, surgery, ECT, ventilation."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the pharmacological actions, uses and contraindications of atropine.",
+      "answer": "1. Competitive muscarinic antagonist.\n2. Actions: CNS mild stimulation (high dose delirium); mydriasis, cycloplegia, raised IOP in narrow angle; tachycardia; dry mouth, reduced sweating; relaxation of gut, bronchi, bladder.\n3. Uses: pre-anaesthetic (dries secretions, prevents vagal bradycardia); organophosphate poisoning; sinus bradycardia and heart block; refraction testing in children and iritis; colic.\n4. Contraindications: narrow-angle glaucoma, enlarged prostate, paralytic ileus; caution in children and elderly (hyperthermia).\n5. Toxicity: dry, hot, flushed, blurred vision, delirium; treat supportively, physostigmine if severe."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify β-adrenergic blockers. Give their uses and adverse effects.",
+      "answer": "1. Non-selective: propranolol, timolol, nadolol, sotalol, pindolol (partial agonist).\n2. Cardioselective β1: atenolol, metoprolol, bisoprolol, esmolol, nebivolol.\n3. With α-blockade: labetalol, carvedilol.\n4. Uses: hypertension, angina, arrhythmias, post-MI, stable heart failure (carvedilol, metoprolol, bisoprolol), glaucoma (timolol), migraine prophylaxis, essential tremor, anxiety, thyrotoxicosis.\n5. Adverse effects: bradycardia, heart block, bronchospasm (avoid in asthma), cold extremities, fatigue, masking of hypoglycaemia, rebound angina on sudden withdrawal."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the drugs used in the treatment of glaucoma.",
+      "answer": "1. Glaucoma: raised IOP with optic nerve damage; open-angle and angle-closure types.\n2. β-blockers (timolol, betaxolol): ↓ aqueous formation.\n3. Prostaglandin analogues (latanoprost, travoprost, bimatoprost): ↑ uveoscleral outflow; iris pigmentation.\n4. α2 agonists (brimonidine, apraclonidine); carbonic anhydrase inhibitors (dorzolamide, brinzolamide topical; acetazolamide oral).\n5. Miotics (pilocarpine): open trabecular meshwork.\n6. Osmotic agents (IV mannitol, oral glycerol) in acute attack.\n7. Acute angle closure: mannitol + acetazolamide + pilocarpine + timolol, then laser iridotomy."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on drugs used in myasthenia gravis.",
+      "answer": "1. Myasthenia gravis: autoimmune antibodies against nicotinic NM receptors → fatigable weakness (ptosis, diplopia, dysphagia).\n2. Diagnosis: edrophonium test, antibody test, nerve studies.\n3. Anticholinesterases: pyridostigmine (mainstay, longer action), neostigmine.\n4. Immunosuppressants: prednisolone, azathioprine, mycophenolate, cyclosporine; thymectomy; plasmapheresis and IV immunoglobulin for crisis.\n5. Myasthenic vs cholinergic crisis: edrophonium improves the first, worsens the second.\n6. Avoid aminoglycosides and neuromuscular blockers."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is Dale's vasomotor reversal?",
+      "answer": "After an α-blocker, adrenaline produces only a fall in blood pressure instead of a rise, because its β2 vasodilator action remains unopposed."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the rate-limiting enzyme of noradrenaline synthesis and two enzymes that degrade catecholamines.",
+      "answer": "Tyrosine hydroxylase is rate limiting; catecholamines are broken down by monoamine oxidase (MAO) and catechol-O-methyltransferase (COMT)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antiepileptic drugs. Describe the mechanism of action, uses and adverse effects of phenytoin and sodium valproate.",
+      "answer": "1. Epilepsy: recurrent unprovoked seizures from abnormal synchronous neuronal discharge; types — generalised tonic–clonic, absence, myoclonic, focal, status epilepticus.\n2. Na+ channel blockers: phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide, topiramate.\n3. T-type Ca2+ blockers: ethosuximide, valproate.\n4. GABA enhancers: benzodiazepines, phenobarbitone, vigabatrin, tiagabine, valproate.\n5. Glutamate reducers: lamotrigine, topiramate, felbamate; SV2A ligands: levetiracetam; α2δ ligands: gabapentin, pregabalin.\n6. Phenytoin: prolongs inactivated state of Na+ channels; saturation kinetics at higher levels; enzyme inducer. Uses: tonic–clonic and focal seizures, status epilepticus (fosphenytoin), arrhythmia. Adverse: gum hypertrophy, hirsutism, coarse facies, ataxia, nystagmus, megaloblastic anaemia, osteomalacia, fetal hydantoin syndrome.\n7. Valproate: Na+ channel block, T-type Ca2+ block, ↑ GABA; broad spectrum — generalised, absence, myoclonic, focal; also mania and migraine prophylaxis; enzyme inhibitor. Adverse: weight gain, tremor, hair loss, hepatotoxicity in young children, pancreatitis, neural tube defects.\n8. Principles: one drug, start low and increase slowly, choose by seizure type, monitor phenytoin levels, never stop abruptly, counsel on pregnancy (folic acid; inducers reduce pill efficacy)."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define general anaesthetics. Classify them. Describe the stages of anaesthesia and the properties of an ideal general anaesthetic. Add a note on pre-anaesthetic medication.",
+      "answer": "1. Definition: drugs causing reversible loss of consciousness and all sensation for surgery.\n2. Inhalational gases: nitrous oxide; volatile liquids: ether, halothane, isoflurane, sevoflurane, desflurane.\n3. Intravenous: inducing agents (thiopentone, propofol, etomidate); slower (ketamine, midazolam, fentanyl, neuroleptanalgesia).\n4. Stages (Guedel): I analgesia; II delirium/excitement; III surgical anaesthesia with four planes; IV medullary paralysis.\n5. Ideal agent: pleasant, non-irritant, rapid smooth induction and recovery, easy control of depth, good analgesia, muscle relaxation and amnesia, no cardiac or respiratory depression, non-inflammable, stable, cheap, not metabolised to toxic products.\n6. Mechanism: enhance GABA-A (most) or block NMDA (ketamine, N2O); MAC as potency index; low blood:gas coefficient → fast induction.\n7. Pre-anaesthetic medication aims and drugs: anxiolysis and amnesia (midazolam, diazepam), analgesia (morphine, fentanyl), drying secretions and preventing vagal reflexes (atropine, glycopyrrolate), antiemesis (ondansetron, metoclopramide), reducing gastric acid (famotidine, pantoprazole), antiallergy (promethazine)."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify sedative–hypnotics. Compare benzodiazepines and barbiturates with respect to mechanism, safety and uses. How is barbiturate poisoning treated?",
+      "answer": "1. Sedative calms; hypnotic induces sleep.\n2. Classes: benzodiazepines (diazepam, lorazepam, alprazolam, nitrazepam, midazolam), barbiturates (phenobarbitone, pentobarbitone, thiopentone), Z-drugs (zolpidem, zopiclone), melatonin agonists (ramelteon), orexin antagonists (suvorexant), others (chloral hydrate, antihistamines).\n3. BZD: ↑ frequency of GABA-A Cl− opening, needs GABA; barbiturate: ↑ duration, can open channel directly at high doses and block AMPA.\n4. Safety: BZD wide margin, flumazenil antidote; barbiturates narrow, fatal respiratory depression, no antidote.\n5. Barbiturates: strong enzyme induction, more REM suppression and dependence, precipitate porphyria.\n6. BZD uses: anxiety, insomnia, status epilepticus, alcohol withdrawal, pre-anaesthesia, muscle spasm; barbiturate uses now: phenobarbitone in epilepsy and neonatal jaundice, thiopentone for induction.\n7. Barbiturate poisoning: airway and ventilation, gastric lavage/activated charcoal, circulatory support, forced alkaline diuresis with sodium bicarbonate (phenobarbitone), haemodialysis."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on methyl alcohol poisoning and its treatment.",
+      "answer": "1. Source: illicit or adulterated liquor, industrial spirit.\n2. Alcohol dehydrogenase converts methanol to formaldehyde and formic acid.\n3. Features: headache, vomiting, abdominal pain, metabolic acidosis with air hunger, blurred vision and blindness (optic nerve damage), coma.\n4. Treatment: IV sodium bicarbonate for acidosis; ethanol or fomepizole to block ADH; haemodialysis; folinic acid to speed formate removal; supportive care."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the mechanism of action and uses of disulfiram. What is the disulfiram-like reaction?",
+      "answer": "1. Irreversibly inhibits aldehyde dehydrogenase.\n2. With alcohol, acetaldehyde accumulates: flushing, throbbing headache, palpitation, nausea, vomiting, sweating, hypotension.\n3. Use: aversion therapy in motivated alcohol-dependent patients, started after alcohol-free period with consent.\n4. Effect lasts days after stopping; inhibits metabolism of warfarin, phenytoin.\n5. Disulfiram-like reaction with alcohol is seen with metronidazole, tinidazole, cefoperazone, chlorpropamide, griseofulvin."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on centrally acting skeletal muscle relaxants.",
+      "answer": "1. Depress polysynaptic spinal reflexes; no effect on neuromuscular junction.\n2. Drugs: mephenesin congeners (carisoprodol, chlorzoxazone, methocarbamol), diazepam, baclofen (GABA-B agonist), tizanidine (α2 agonist), thiocolchicoside, tolperisone.\n3. Uses: muscle spasm in sprains and backache, spasticity (multiple sclerosis, spinal injury, cerebral palsy), tetanus.\n4. Side effects: drowsiness, weakness, dizziness; additive with alcohol.\n5. Differ from peripheral blockers: oral, sedation, reduce tone without paralysis."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of GABA and glutamate as neurotransmitters in the CNS and drugs acting on them.",
+      "answer": "1. GABA: main inhibitory transmitter; synthesised from glutamate by glutamic acid decarboxylase.\n2. GABA-A: Cl− channel → hyperpolarisation; site for BZDs, barbiturates, propofol, alcohol. GABA-B: GPCR; baclofen.\n3. Vigabatrin blocks GABA-transaminase; tiagabine blocks GABA uptake.\n4. Glutamate: main excitatory transmitter; NMDA, AMPA, kainate and metabotropic receptors; memory; excess causes excitotoxicity.\n5. Ketamine and memantine block NMDA; lamotrigine reduces release; topiramate blocks AMPA.\n6. Glycine: inhibitory in spinal cord; strychnine blocks it."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the pharmacological actions and uses of ethyl alcohol.",
+      "answer": "1. Metabolism: ethanol → acetaldehyde → acetic acid; zero-order kinetics.\n2. CNS: progressive depression after loss of inhibition; ataxia, stupor, coma.\n3. CVS: cutaneous vasodilation, heat loss; chronic use hypertension and cardiomyopathy.\n4. Diuresis (↓ ADH); gastric secretion; chronic liver damage, thiamine deficiency.\n5. Uses: antiseptic (70%), solvent, rubefacient, bedsore prevention, methanol poisoning, nerve block in trigeminal neuralgia."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define minimum alveolar concentration (MAC).",
+      "answer": "The alveolar concentration of an inhalational anaesthetic at which 50% of patients do not move in response to a standard surgical incision; lower MAC means a more potent agent."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is the action of thiopentone sodium short-lived?",
+      "answer": "Because after reaching the brain quickly it redistributes into muscle and fat, so the brain level falls within minutes even though the drug is still in the body."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify opioid analgesics. Describe the pharmacological actions, uses and adverse effects of morphine. How is morphine poisoning treated?",
+      "answer": "1. Natural: morphine, codeine; semisynthetic: heroin, oxycodone, buprenorphine; synthetic: pethidine, fentanyl, methadone, tramadol; agonist–antagonists: pentazocine, butorphanol, nalbuphine; antagonists: naloxone, naltrexone.\n2. Receptors: μ (analgesia, respiratory depression, euphoria, dependence), κ (spinal analgesia, dysphoria), δ; Gi-coupled — close Ca2+ channels, open K+ channels.\n3. CNS actions: analgesia, euphoria, sedation, respiratory depression, cough suppression, miosis, nausea and vomiting (CTZ), raised ADH.\n4. Peripheral: hypotension and itching (histamine), constipation, biliary spasm, urinary retention, bronchospasm.\n5. Uses: severe pain (cancer, MI, trauma, postoperative), pre-anaesthetic and balanced anaesthesia, acute left ventricular failure, cough (codeine), diarrhoea (loperamide), opioid dependence (methadone, buprenorphine).\n6. Adverse effects: respiratory depression, constipation, nausea, hypotension, urinary retention, tolerance, dependence.\n7. Contraindications: head injury, asthma, hypothyroidism, liver disease, biliary colic, infants and elderly.\n8. Poisoning: coma, pin-point pupils, respiratory depression; airway and ventilation; naloxone IV repeated as needed (short acting)."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antipsychotic drugs. Describe the pharmacological actions, uses and adverse effects of chlorpromazine. Differentiate typical and atypical antipsychotics.",
+      "answer": "1. Typical: phenothiazines (chlorpromazine, trifluoperazine, fluphenazine, thioridazine), butyrophenones (haloperidol, droperidol), thioxanthenes (flupenthixol), others (pimozide).\n2. Atypical: clozapine, olanzapine, risperidone, quetiapine, ziprasidone, aripiprazole, amisulpride; depot injections (fluphenazine decanoate, haloperidol decanoate).\n3. Mechanism: D2 blockade in mesolimbic pathway; atypicals also block 5-HT2A.\n4. Chlorpromazine actions: neuroleptic calm, antipsychotic, antiemetic, hypothermia, α-blockade, anticholinergic, sedation, ↑ prolactin.\n5. Uses: schizophrenia, mania, psychotic depression, agitation, vomiting, intractable hiccups, Tourette's (haloperidol).\n6. Adverse effects: extrapyramidal (dystonia, parkinsonism, akathisia), tardive dyskinesia, neuroleptic malignant syndrome, hyperprolactinaemia, postural hypotension, anticholinergic effects, weight gain, jaundice, photosensitivity.\n7. Typical vs atypical: atypicals cause fewer EPS, better for negative symptoms and resistant cases (clozapine), but more weight gain, diabetes and dyslipidaemia; clozapine causes agranulocytosis."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify drugs used in Parkinson's disease. Explain why levodopa is given with carbidopa, and describe its adverse effects and interactions.",
+      "answer": "1. Parkinson's: loss of nigrostriatal dopamine with relative ACh excess; tremor, rigidity, bradykinesia, postural instability.\n2. Classes: levodopa; peripheral decarboxylase inhibitors (carbidopa, benserazide); dopamine agonists (bromocriptine, ropinirole, pramipexole, rotigotine, apomorphine); MAO-B inhibitors (selegiline, rasagiline); COMT inhibitors (entacapone, tolcapone); amantadine; central anticholinergics (trihexyphenidyl, benztropine, procyclidine).\n3. Levodopa crosses BBB by amino acid carrier and is decarboxylated to dopamine; dopamine itself does not cross.\n4. Carbidopa blocks peripheral dopa decarboxylase but does not enter brain: more levodopa reaches brain, dose reduced about four-fold, fewer peripheral side effects (nausea, vomiting, hypotension, arrhythmia).\n5. Adverse effects: nausea, vomiting, postural hypotension, arrhythmias, dyskinesias, hallucinations and behavioural change, wearing-off and on–off fluctuations.\n6. Interactions: pyridoxine (with levodopa alone), non-selective MAOIs (hypertensive crisis), antipsychotics and metoclopramide (block effect), protein meals (reduce absorption).\n7. Anticholinergics help tremor and drug-induced parkinsonism."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antidepressants. Write the advantages of SSRIs over tricyclic antidepressants.",
+      "answer": "1. TCAs (imipramine, amitriptyline, clomipramine); SSRIs (fluoxetine, sertraline, paroxetine, escitalopram); SNRIs (venlafaxine, duloxetine); MAOIs (phenelzine, tranylcypromine, moclobemide); atypicals (bupropion, mirtazapine, trazodone).\n2. SSRI advantages: safe in overdose, little anticholinergic, cardiac or sedative effect, no weight gain usually, once daily, better compliance.\n3. SSRI drawbacks: nausea, insomnia, sexual dysfunction, bleeding risk, serotonin syndrome with MAOIs or tramadol.\n4. Benefit appears after 2–4 weeks."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on lithium carbonate.",
+      "answer": "1. Mood stabiliser; inhibits inositol monophosphatase and GSK-3.\n2. Uses: acute mania, prophylaxis of bipolar disorder, augmentation in resistant depression; reduces suicide.\n3. Narrow therapeutic index — monitor serum levels.\n4. Adverse: tremor, polyuria (nephrogenic diabetes insipidus), hypothyroidism, weight gain, teratogenicity (Ebstein's anomaly).\n5. Toxicity: vomiting, diarrhoea, coarse tremor, ataxia, confusion, seizures.\n6. Interactions: thiazides, NSAIDs, ACE inhibitors and sodium depletion raise lithium levels."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain drug dependence. Differentiate physical and psychological dependence, and outline the management of opioid dependence.",
+      "answer": "1. Dependence: state requiring continued drug use to feel normal.\n2. Psychological: craving and compulsive use (cocaine, cannabis).\n3. Physical: adaptation; withdrawal on stopping (opioids: yawning, lacrimation, rhinorrhoea, sweating, mydriasis, gooseflesh, diarrhoea, aches).\n4. Reward pathway: mesolimbic dopamine (VTA → nucleus accumbens).\n5. Opioid dependence management: detoxification with methadone or buprenorphine taper, clonidine for autonomic symptoms; maintenance with methadone or buprenorphine–naloxone; relapse prevention with naltrexone; counselling and rehabilitation.\n6. Controlled in India by the NDPS Act, 1985."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on drugs used in Alzheimer's disease.",
+      "answer": "1. Dementia with memory loss; amyloid plaques, tau tangles, loss of cholinergic neurons, glutamate excitotoxicity.\n2. Cholinesterase inhibitors: donepezil, rivastigmine (oral and patch), galantamine; for mild to moderate disease; nausea, diarrhoea, bradycardia.\n3. NMDA antagonist: memantine for moderate to severe disease; can combine with donepezil.\n4. Anti-amyloid antibodies (lecanemab, donanemab) for early disease, approved abroad.\n5. Treatment improves symptoms modestly; no cure."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about CNS stimulants and nootropics.",
+      "answer": "1. Convulsants: strychnine, picrotoxin, pentylenetetrazole (experimental only).\n2. Analeptics: doxapram, nikethamide (limited use).\n3. Psychomotor stimulants: amphetamine, methylphenidate, modafinil — ADHD, narcolepsy; abuse potential, psychosis at high doses.\n4. Methylxanthines: caffeine, theophylline — adenosine antagonism and PDE inhibition; apnoea of prematurity, asthma.\n5. Nootropics: piracetam and related drugs claimed to improve memory and learning; limited evidence; others used with this aim include citicoline and ginkgo; dementia drugs have proven modest benefit."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the cheese reaction?",
+      "answer": "A hypertensive crisis in patients taking non-selective MAO inhibitors who eat tyramine-rich foods such as aged cheese, because tyramine is not broken down and releases noradrenaline."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the antidote for morphine poisoning and state its mechanism.",
+      "answer": "Naloxone, a pure competitive antagonist at opioid receptors, which reverses respiratory depression and coma; it is short acting and may need repeating."
+    }
+  ]
+}

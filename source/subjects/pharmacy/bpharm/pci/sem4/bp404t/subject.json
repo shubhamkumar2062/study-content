@@ -1,0 +1,38 @@
+{
+  "code": "BP404T",
+  "title": "Pharmacology I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP404T Pharmacology I and BP408P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP404T_B.Pharma-pages-21.pdf"
+  },
+  "practicalCodes": ["BP408P"],
+  "units": [
+    {"number": 1, "title": "Introduction to pharmacology and pharmacokinetics", "notes": "notes/unit-1.md"},
+    {"number": 2, "title": "Pharmacodynamics, adverse effects, interactions and new drug development", "notes": "notes/unit-2.md"},
+    {"number": 3, "title": "Drugs acting on the peripheral nervous system", "notes": "notes/unit-3.md"},
+    {"number": 4, "title": "Drugs acting on the CNS (part 1)", "notes": "notes/unit-4.md"},
+    {"number": 5, "title": "Drugs acting on the CNS (part 2)", "notes": "notes/unit-5.md"}
+  ],
+  "extras": [
+    {"id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md"},
+    {"id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md"}
+  ],
+  "practicals": [
+    {"id": "intro-experimental-pharmacology", "title": "Introduction to experimental pharmacology", "file": "practicals/intro-experimental-pharmacology.md"},
+    {"id": "instruments-experimental-pharmacology", "title": "Commonly used instruments in experimental pharmacology", "file": "practicals/instruments-experimental-pharmacology.md"},
+    {"id": "common-laboratory-animals", "title": "Study of common laboratory animals", "file": "practicals/common-laboratory-animals.md"},
+    {"id": "animal-maintenance-cpcsea", "title": "Maintenance of laboratory animals as per CPCSEA guidelines", "file": "practicals/animal-maintenance-cpcsea.md"},
+    {"id": "laboratory-techniques", "title": "Blood withdrawal, serum and plasma separation, anaesthesia and euthanasia", "file": "practicals/laboratory-techniques.md"},
+    {"id": "routes-of-administration", "title": "Routes of drug administration in mice and rats", "file": "practicals/routes-of-administration.md"},
+    {"id": "enzyme-inducers-sleeping-time", "title": "Effect of enzyme inducers on phenobarbitone sleeping time in mice", "file": "practicals/enzyme-inducers-sleeping-time.md"},
+    {"id": "ciliary-motility-frog-oesophagus", "title": "Effect of drugs on ciliary motility of frog oesophagus", "file": "practicals/ciliary-motility-frog-oesophagus.md"},
+    {"id": "drugs-on-rabbit-eye", "title": "Effect of drugs on rabbit eye", "file": "practicals/drugs-on-rabbit-eye.md"},
+    {"id": "rota-rod-muscle-relaxants", "title": "Skeletal muscle relaxants on the rota-rod", "file": "practicals/rota-rod-muscle-relaxants.md"},
+    {"id": "actophotometer-locomotor", "title": "Locomotor activity using the actophotometer", "file": "practicals/actophotometer-locomotor.md"},
+    {"id": "anticonvulsant-mes-ptz", "title": "Anticonvulsant effect by MES and PTZ methods", "file": "practicals/anticonvulsant-mes-ptz.md"},
+    {"id": "stereotypy-catatonia", "title": "Stereotypy and anti-catatonic activity in rats/mice", "file": "practicals/stereotypy-catatonia.md"},
+    {"id": "anxiolytic-activity", "title": "Anxiolytic activity using the elevated plus maze", "file": "practicals/anxiolytic-activity.md"},
+    {"id": "local-anaesthetics-methods", "title": "Local anaesthetics by different methods", "file": "practicals/local-anaesthetics-methods.md"}
+  ]
+}

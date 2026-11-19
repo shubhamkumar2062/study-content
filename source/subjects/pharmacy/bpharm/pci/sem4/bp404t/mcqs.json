@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The bioavailability of a drug given by intravenous injection is:",
+      "options": [
+        "100%",
+        "About 50%",
+        "Less than 10%",
+        "Zero, because it is not absorbed"
+      ],
+      "correct": 0,
+      "explanation": "An IV dose enters the systemic circulation directly, so the whole dose is available.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which route avoids first-pass metabolism in the liver?",
+      "options": [
+        "Oral tablet",
+        "Sublingual",
+        "Oral suspension",
+        "Enteric-coated oral tablet"
+      ],
+      "correct": 1,
+      "explanation": "Drug absorbed under the tongue drains into the systemic veins, bypassing the portal circulation (glyceryl trinitrate).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Most drugs cross biological membranes by:",
+      "options": [
+        "Active transport",
+        "Pinocytosis",
+        "Passive lipid diffusion",
+        "Filtration through pores"
+      ],
+      "correct": 2,
+      "explanation": "Passive diffusion down a concentration gradient needs no carrier or energy and depends on lipid solubility.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "By the pH-partition principle, a weakly acidic drug such as aspirin is mostly un-ionised in:",
+      "options": [
+        "Alkaline intestinal fluid",
+        "Plasma at pH 7.4",
+        "Alkaline urine",
+        "Acidic gastric juice"
+      ],
+      "correct": 3,
+      "explanation": "A weak acid stays un-ionised when the pH is below its pKa, as in the stomach.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Which of the following is a phase II (conjugation) reaction?",
+      "options": [
+        "Glucuronide conjugation",
+        "Oxidation by cytochrome P450",
+        "Reduction",
+        "Hydrolysis"
+      ],
+      "correct": 0,
+      "explanation": "Phase II reactions attach an endogenous group; glucuronidation is the most common.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which drug is a well-known microsomal enzyme inducer?",
+      "options": [
+        "Cimetidine",
+        "Rifampicin",
+        "Ketoconazole",
+        "Erythromycin"
+      ],
+      "correct": 1,
+      "explanation": "Rifampicin induces CYP enzymes; the other three are enzyme inhibitors.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Acidic drugs such as warfarin bind in plasma mainly to:",
+      "options": [
+        "α1-acid glycoprotein",
+        "Globulins",
+        "Albumin",
+        "Haemoglobin"
+      ],
+      "correct": 2,
+      "explanation": "Acidic drugs bind albumin; basic drugs bind α1-acid glycoprotein.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "With repeated dosing at fixed intervals, steady-state plasma concentration is reached after about:",
+      "options": [
+        "1 half-life",
+        "2 half-lives",
+        "10–12 half-lives",
+        "4–5 half-lives"
+      ],
+      "correct": 3,
+      "explanation": "In first-order kinetics about 94–97% of steady state is reached after 4–5 half-lives.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "At higher plasma levels phenytoin shows:",
+      "options": [
+        "Zero-order (saturation) kinetics",
+        "First-order kinetics throughout",
+        "No hepatic metabolism",
+        "Elimination unchanged by the kidney only"
+      ],
+      "correct": 0,
+      "explanation": "Its metabolising enzymes saturate, so a fixed amount is removed per unit time.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Apparent volume of distribution (Vd) is calculated as:",
+      "options": [
+        "Plasma concentration ÷ dose",
+        "Amount of drug in the body ÷ plasma concentration",
+        "Clearance × half-life",
+        "Dose × bioavailability"
+      ],
+      "correct": 1,
+      "explanation": "Vd relates the total amount in the body to the plasma concentration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "A drug that has affinity for a receptor but no intrinsic activity is a:",
+      "options": [
+        "Full agonist",
+        "Partial agonist",
+        "Competitive antagonist",
+        "Inverse agonist"
+      ],
+      "correct": 2,
+      "explanation": "An antagonist occupies the receptor without activating it (intrinsic activity 0).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The nicotinic acetylcholine receptor is an example of a:",
+      "options": [
+        "G-protein-coupled receptor",
+        "Receptor tyrosine kinase",
+        "Nuclear (intracellular) receptor",
+        "Ligand-gated ion channel"
+      ],
+      "correct": 3,
+      "explanation": "Binding of ACh directly opens a cation channel in the receptor.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Corticosteroids produce most of their effects through:",
+      "options": [
+        "Intracellular (nuclear) receptors",
+        "Ligand-gated ion channels",
+        "G-protein-coupled receptors",
+        "Voltage-gated sodium channels"
+      ],
+      "correct": 0,
+      "explanation": "The steroid-receptor complex binds DNA and alters gene transcription.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Activation of the Gs protein:",
+      "options": [
+        "Activates phospholipase C",
+        "Stimulates adenylyl cyclase and raises cAMP",
+        "Inhibits adenylyl cyclase",
+        "Opens chloride channels directly"
+      ],
+      "correct": 1,
+      "explanation": "Gs stimulates adenylyl cyclase; Gi inhibits it and Gq activates phospholipase C.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Therapeutic index is expressed as:",
+      "options": [
+        "ED50 / LD50",
+        "ED50 × LD50",
+        "LD50 / ED50",
+        "LD50 − ED50"
+      ],
+      "correct": 2,
+      "explanation": "A larger ratio means a wider margin between effective and toxic doses.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "A competitive antagonist shifts the log dose–response curve of the agonist:",
+      "options": [
+        "To the left in parallel",
+        "Downward, lowering maximal response",
+        "Neither right nor left",
+        "To the right in parallel, with no fall in maximal response"
+      ],
+      "correct": 3,
+      "explanation": "Raising the agonist dose overcomes competitive block, so maximum is unchanged.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "When two drugs together give an effect greater than the sum of their separate effects, this is called:",
+      "options": [
+        "Potentiation (supra-additive synergism)",
+        "Additive effect",
+        "Antagonism",
+        "Tachyphylaxis"
+      ],
+      "correct": 0,
+      "explanation": "Example: sulfamethoxazole with trimethoprim.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Adrenaline reversing histamine-induced bronchoconstriction is an example of:",
+      "options": [
+        "Chemical antagonism",
+        "Physiological (functional) antagonism",
+        "Competitive antagonism",
+        "Pharmacokinetic antagonism"
+      ],
+      "correct": 1,
+      "explanation": "The two drugs act on different receptors to produce opposite effects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Thalidomide taken in early pregnancy caused phocomelia. This adverse effect is called:",
+      "options": [
+        "Idiosyncrasy",
+        "Carcinogenicity",
+        "Teratogenicity",
+        "Photosensitivity"
+      ],
+      "correct": 2,
+      "explanation": "A teratogen causes structural defects in the developing foetus.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Post-marketing surveillance of a new drug is carried out in:",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "Phase III",
+        "Phase IV"
+      ],
+      "correct": 3,
+      "explanation": "Phase IV follows approval and detects rare and long-term adverse effects.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The neurotransmitter released at all autonomic ganglia is:",
+      "options": [
+        "Acetylcholine",
+        "Noradrenaline",
+        "Adrenaline",
+        "Dopamine"
+      ],
+      "correct": 0,
+      "explanation": "Preganglionic fibres of both sympathetic and parasympathetic systems are cholinergic.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Neostigmine differs from physostigmine in that neostigmine:",
+      "options": [
+        "Is an irreversible anticholinesterase",
+        "Is a quaternary compound that does not cross the blood–brain barrier",
+        "Is a tertiary amine with marked CNS action",
+        "Directly blocks nicotinic receptors"
+      ],
+      "correct": 1,
+      "explanation": "Neostigmine is quaternary and acts peripherally; physostigmine is tertiary and enters the CNS.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Atropine applied to the eye produces:",
+      "options": [
+        "Miosis with spasm of accommodation",
+        "Mydriasis without cycloplegia",
+        "Mydriasis with cycloplegia",
+        "Miosis only"
+      ],
+      "correct": 2,
+      "explanation": "Blocking M3 receptors relaxes the sphincter pupillae and ciliary muscle.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Edrophonium is used in myasthenia gravis for:",
+      "options": [
+        "Long-term maintenance therapy",
+        "Reversing depolarising block",
+        "Treating glaucoma",
+        "Diagnosis, because of its very short action"
+      ],
+      "correct": 3,
+      "explanation": "A brief rise in muscle strength after edrophonium supports the diagnosis (Tensilon test).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The drug of choice for anaphylactic shock is:",
+      "options": [
+        "Adrenaline",
+        "Atropine",
+        "Isoprenaline",
+        "Propranolol"
+      ],
+      "correct": 0,
+      "explanation": "Adrenaline raises blood pressure (α1) and relaxes bronchi (β2).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Which β-blocker is cardioselective (β1-selective)?",
+      "options": [
+        "Propranolol",
+        "Atenolol",
+        "Timolol",
+        "Labetalol"
+      ],
+      "correct": 1,
+      "explanation": "Atenolol blocks β1 preferentially; propranolol and timolol are non-selective, labetalol blocks α and β.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "First-dose postural hypotension is a typical adverse effect of:",
+      "options": [
+        "Atenolol",
+        "Salbutamol",
+        "Prazosin",
+        "Neostigmine"
+      ],
+      "correct": 2,
+      "explanation": "Selective α1 blockade dilates vessels, so the first dose can cause a fall in blood pressure on standing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Which neuromuscular blocking agent is depolarising?",
+      "options": [
+        "Pancuronium",
+        "Vecuronium",
+        "Atracurium",
+        "Succinylcholine"
+      ],
+      "correct": 3,
+      "explanation": "Succinylcholine depolarises the end plate (fasciculations, then block); the others are competitive.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Local anaesthetics act by:",
+      "options": [
+        "Blocking voltage-gated sodium channels in nerve membranes",
+        "Blocking calcium channels",
+        "Opening potassium channels",
+        "Stimulating GABA-A receptors"
+      ],
+      "correct": 0,
+      "explanation": "Block of Na+ entry stops the generation and conduction of nerve impulses.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Timolol lowers intraocular pressure mainly by:",
+      "options": [
+        "Increasing uveoscleral outflow",
+        "Reducing aqueous humour formation",
+        "Constricting the pupil",
+        "Osmotic withdrawal of fluid from the eye"
+      ],
+      "correct": 1,
+      "explanation": "β-blockade of the ciliary epithelium reduces aqueous secretion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The main inhibitory neurotransmitter in the brain is:",
+      "options": [
+        "Glutamate",
+        "Acetylcholine",
+        "GABA",
+        "Dopamine"
+      ],
+      "correct": 2,
+      "explanation": "GABA opens Cl− channels (GABA-A) and hyperpolarises neurons; glutamate is the main excitatory one.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Induction and recovery with an inhalational anaesthetic are faster when its blood:gas partition coefficient is:",
+      "options": [
+        "High",
+        "Exactly 1",
+        "Unrelated to speed",
+        "Low"
+      ],
+      "correct": 3,
+      "explanation": "Low blood solubility lets partial pressure in blood and brain rise quickly.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Dissociative anaesthesia is produced by:",
+      "options": [
+        "Ketamine",
+        "Thiopentone",
+        "Propofol",
+        "Halothane"
+      ],
+      "correct": 0,
+      "explanation": "Ketamine blocks NMDA receptors, giving analgesia and amnesia with a dissociated state.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Benzodiazepines enhance GABA action by:",
+      "options": [
+        "Increasing the duration of chloride channel opening",
+        "Increasing the frequency of chloride channel opening",
+        "Blocking glutamate receptors",
+        "Inhibiting GABA reuptake"
+      ],
+      "correct": 1,
+      "explanation": "Barbiturates increase the duration of opening; benzodiazepines increase the frequency.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The specific benzodiazepine receptor antagonist is:",
+      "options": [
+        "Naloxone",
+        "Physostigmine",
+        "Flumazenil",
+        "Picrotoxin"
+      ],
+      "correct": 2,
+      "explanation": "Flumazenil competitively blocks the benzodiazepine site on GABA-A.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "A drug used specifically for absence (petit mal) seizures is:",
+      "options": [
+        "Phenytoin",
+        "Carbamazepine",
+        "Phenobarbitone",
+        "Ethosuximide"
+      ],
+      "correct": 3,
+      "explanation": "Ethosuximide blocks T-type Ca2+ channels in thalamic neurons.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Gum (gingival) hyperplasia and hirsutism are typical adverse effects of:",
+      "options": [
+        "Phenytoin",
+        "Ethosuximide",
+        "Diazepam",
+        "Lamotrigine"
+      ],
+      "correct": 0,
+      "explanation": "Both are well-known effects of long-term phenytoin.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Disulfiram causes an unpleasant reaction with alcohol by inhibiting:",
+      "options": [
+        "Alcohol dehydrogenase",
+        "Aldehyde dehydrogenase",
+        "Monoamine oxidase",
+        "Acetylcholinesterase"
+      ],
+      "correct": 1,
+      "explanation": "Acetaldehyde accumulates, causing flushing, nausea and palpitations.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Baclofen relaxes skeletal muscle by acting as an agonist at:",
+      "options": [
+        "GABA-A receptors",
+        "α2-adrenoceptors",
+        "GABA-B receptors",
+        "Ryanodine receptors"
+      ],
+      "correct": 2,
+      "explanation": "Baclofen reduces excitatory transmitter release in the spinal cord; tizanidine is an α2 agonist and dantrolene acts on ryanodine receptors.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Glycopyrrolate is given as pre-anaesthetic medication mainly to:",
+      "options": [
+        "Produce amnesia",
+        "Provide analgesia",
+        "Induce sleep",
+        "Reduce salivary and respiratory secretions"
+      ],
+      "correct": 3,
+      "explanation": "Its antimuscarinic action dries secretions and prevents vagal bradycardia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Typical antipsychotics produce their antipsychotic effect mainly by blocking:",
+      "options": [
+        "Dopamine D2 receptors",
+        "Serotonin 5-HT1A receptors",
+        "Muscarinic M1 receptors",
+        "Histamine H1 receptors"
+      ],
+      "correct": 0,
+      "explanation": "D2 block in the mesolimbic pathway reduces positive symptoms.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Which antipsychotic has the greatest tendency to cause extrapyramidal symptoms?",
+      "options": [
+        "Clozapine",
+        "Haloperidol",
+        "Quetiapine",
+        "Olanzapine"
+      ],
+      "correct": 1,
+      "explanation": "High-potency typical agents strongly block nigrostriatal D2 receptors.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Agranulocytosis is a serious adverse effect of:",
+      "options": [
+        "Haloperidol",
+        "Fluoxetine",
+        "Clozapine",
+        "Lithium"
+      ],
+      "correct": 2,
+      "explanation": "Regular blood counts are needed during clozapine therapy.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Fluoxetine is classified as a:",
+      "options": [
+        "Tricyclic antidepressant",
+        "Monoamine oxidase inhibitor",
+        "Atypical antipsychotic",
+        "Selective serotonin reuptake inhibitor"
+      ],
+      "correct": 3,
+      "explanation": "Fluoxetine selectively blocks the serotonin transporter (SERT).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "When thiazide diuretics are given with lithium, plasma lithium levels:",
+      "options": [
+        "Rise, because renal lithium reabsorption increases",
+        "Fall, because lithium excretion increases",
+        "Do not change",
+        "Fall, because lithium absorption decreases"
+      ],
+      "correct": 0,
+      "explanation": "Sodium loss from thiazides makes the kidney reabsorb more lithium.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Carbidopa is combined with levodopa because carbidopa:",
+      "options": [
+        "Is a dopamine receptor agonist",
+        "Inhibits peripheral dopa decarboxylase",
+        "Inhibits MAO-B in the brain",
+        "Blocks muscarinic receptors"
+      ],
+      "correct": 1,
+      "explanation": "More levodopa reaches the brain and peripheral side effects fall.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Donepezil is used in Alzheimer's disease because it:",
+      "options": [
+        "Blocks NMDA receptors",
+        "Stimulates dopamine receptors",
+        "Inhibits cholinesterase in the brain",
+        "Inhibits MAO-B"
+      ],
+      "correct": 2,
+      "explanation": "Raising brain acetylcholine improves cognition modestly; memantine is the NMDA blocker.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Naloxone is a:",
+      "options": [
+        "Partial μ agonist",
+        "Mixed agonist–antagonist",
+        "Full μ agonist",
+        "Pure opioid receptor antagonist"
+      ],
+      "correct": 3,
+      "explanation": "Naloxone blocks μ, κ and δ receptors and reverses opioid effects.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "With repeated use of morphine, little or no tolerance develops to:",
+      "options": [
+        "Miosis",
+        "Analgesia",
+        "Euphoria",
+        "Respiratory depression"
+      ],
+      "correct": 0,
+      "explanation": "Tolerance develops to most effects but not to miosis and constipation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Caffeine stimulates the CNS mainly by:",
+      "options": [
+        "Releasing dopamine from nerve endings",
+        "Blocking adenosine receptors",
+        "Inhibiting monoamine oxidase",
+        "Stimulating GABA-A receptors"
+      ],
+      "correct": 1,
+      "explanation": "Adenosine is a CNS depressant; caffeine also inhibits phosphodiesterase at higher concentrations.",
+      "probability": "medium"
+    }
+  ]
+}
