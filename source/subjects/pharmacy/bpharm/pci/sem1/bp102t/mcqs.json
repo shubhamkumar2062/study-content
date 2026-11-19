@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Normality of 0.05 M H2SO4 is:",
+      "options": [
+        "0.1 N",
+        "0.05 N",
+        "0.025 N",
+        "0.2 N"
+      ],
+      "correct": 0,
+      "explanation": "H2SO4 has two replaceable H+, so N = M × 2 = 0.1 N.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which of the following is a primary standard for standardising sodium hydroxide?",
+      "options": [
+        "Sodium hydroxide pellets",
+        "Hydrochloric acid",
+        "Potassium permanganate",
+        "Potassium hydrogen phthalate"
+      ],
+      "correct": 3,
+      "explanation": "KHP is pure, stable, non-hygroscopic and has a high equivalent weight (204.22).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Closeness of a result to the true value is called:",
+      "options": [
+        "Precision",
+        "Reproducibility",
+        "Accuracy",
+        "Range"
+      ],
+      "correct": 2,
+      "explanation": "Precision is agreement between replicates; accuracy is closeness to the true value.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Errors that have a definite cause and can be corrected are:",
+      "options": [
+        "Indeterminate errors",
+        "Determinate (systematic) errors",
+        "Random errors",
+        "Statistical errors"
+      ],
+      "correct": 1,
+      "explanation": "Systematic errors act in one direction and can be found by calibration, blanks and controls.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "In the limit test for iron, thioglycollic acid is used to:",
+      "options": [
+        "Precipitate iron as hydroxide",
+        "Reduce Fe3+ to Fe2+ and form a purple complex",
+        "Remove chloride interference",
+        "Oxidise Fe2+ to Fe3+"
+      ],
+      "correct": 1,
+      "explanation": "Thioglycollic acid reduces ferric iron and forms purple ferrous thioglycollate in ammoniacal solution.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In the Gutzeit test, lead acetate cotton wool is used to absorb:",
+      "options": [
+        "Hydrogen sulphide",
+        "Arsine",
+        "Hydrogen",
+        "Hydrochloric acid gas"
+      ],
+      "correct": 0,
+      "explanation": "H2S would blacken the mercuric chloride paper and interfere with the arsenic stain.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Relative standard deviation is calculated as:",
+      "options": [
+        "(mean / s) × 100",
+        "s × n",
+        "Range / n",
+        "(s / mean) × 100"
+      ],
+      "correct": 3,
+      "explanation": "RSD (coefficient of variation) expresses SD as a percentage of the mean.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Nitric acid is added in the limit test for chloride to:",
+      "options": [
+        "Dissolve silver chloride",
+        "Act as an indicator",
+        "Prevent precipitation of other silver salts such as carbonate and phosphate",
+        "Reduce silver ions"
+      ],
+      "correct": 2,
+      "explanation": "Acid medium stops carbonate, phosphate etc. from precipitating with silver nitrate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The number of significant figures in 0.00420 is:",
+      "options": [
+        "2",
+        "5",
+        "3",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Leading zeros do not count; the trailing zero after the decimal counts: 4, 2, 0.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The first edition of the Indian Pharmacopoeia was published in:",
+      "options": [
+        "1947",
+        "1955",
+        "1966",
+        "1985"
+      ],
+      "correct": 1,
+      "explanation": "IP first appeared in 1955; it is now published by the IPC, Ghaziabad.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The colour change range of an acid–base indicator is approximately:",
+      "options": [
+        "pKIn ± 1",
+        "pKIn ± 3",
+        "pKa of the analyte ± 0.1",
+        "pH 7 ± 2"
+      ],
+      "correct": 0,
+      "explanation": "The eye sees a single colour when one form is about 10 times the other.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The most suitable indicator for titrating acetic acid with sodium hydroxide is:",
+      "options": [
+        "Methyl orange",
+        "Methyl red",
+        "Thymol blue (acid range)",
+        "Phenolphthalein"
+      ],
+      "correct": 3,
+      "explanation": "Equivalence pH is about 8.7, inside phenolphthalein's 8.3–10.0 range.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "In a strong acid vs weak base titration, the pH at the equivalence point is:",
+      "options": [
+        "Exactly 7",
+        "More than 7",
+        "Always 10",
+        "Less than 7"
+      ],
+      "correct": 3,
+      "explanation": "The salt of a strong acid and weak base hydrolyses to give an acidic solution (about 5.3 for 0.1 M).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The usual titrant for weak bases in non-aqueous titration is:",
+      "options": [
+        "Sodium methoxide in toluene–methanol",
+        "Hydrochloric acid in water",
+        "Perchloric acid in glacial acetic acid",
+        "Iodine in potassium iodide"
+      ],
+      "correct": 2,
+      "explanation": "Perchloric acid is the strongest acid in glacial acetic acid, a differentiating solvent.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Mercuric acetate is added in the non-aqueous titration of:",
+      "options": [
+        "Sodium benzoate",
+        "Amine hydrochlorides",
+        "Phenols",
+        "Boric acid"
+      ],
+      "correct": 1,
+      "explanation": "It removes halide as un-ionised HgCl2 and forms the titratable acetate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Pyridine and dimethylformamide are examples of:",
+      "options": [
+        "Protophilic solvents",
+        "Protogenic solvents",
+        "Aprotic solvents",
+        "Levelling acids"
+      ],
+      "correct": 0,
+      "explanation": "Basic solvents enhance the acidity of weak acids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Acetic anhydride is added to perchloric acid solution in glacial acetic acid to:",
+      "options": [
+        "Remove water",
+        "Increase the volatility",
+        "Act as an indicator",
+        "Neutralise perchloric acid"
+      ],
+      "correct": 0,
+      "explanation": "(CH3CO)2O + H2O → 2CH3COOH; water spoils the end point.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Boric acid is titrated with NaOH after adding:",
+      "options": [
+        "Formaldehyde",
+        "Mercuric acetate",
+        "Potassium chromate",
+        "Glycerin or mannitol"
+      ],
+      "correct": 3,
+      "explanation": "The polyol complex of boric acid is a much stronger acid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In glacial acetic acid, crystal violet at the end point of a titration of a base with perchloric acid turns:",
+      "options": [
+        "Pink",
+        "Colourless",
+        "Blue-green (emerald green)",
+        "Yellow"
+      ],
+      "correct": 2,
+      "explanation": "Crystal violet goes violet → blue → blue-green as the solution becomes acidic.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "1 ml of 0.1 M perchloric acid is equivalent to how much sodium benzoate (Mw 144.10)?",
+      "options": [
+        "0.01441 mg",
+        "0.01441 g",
+        "0.1441 g",
+        "0.007205 g"
+      ],
+      "correct": 1,
+      "explanation": "1 : 1 reaction: 144.10 × 0.1/1000 = 0.01441 g.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The indicator used in Mohr's method is:",
+      "options": [
+        "Ferric ammonium sulphate",
+        "Potassium chromate",
+        "Fluorescein",
+        "Eriochrome Black T"
+      ],
+      "correct": 1,
+      "explanation": "Excess Ag+ forms red-brown silver chromate at the end point.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Volhard's method is carried out in a medium of:",
+      "options": [
+        "Nitric acid",
+        "Neutral water",
+        "Ammonia buffer pH 10",
+        "Acetic acid"
+      ],
+      "correct": 0,
+      "explanation": "Nitric acid prevents hydrolysis of Fe3+ and precipitation of other silver salts.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "EDTA reacts with most metal ions in the ratio:",
+      "options": [
+        "1 : 2",
+        "2 : 1",
+        "1 : 4",
+        "1 : 1"
+      ],
+      "correct": 3,
+      "explanation": "EDTA is hexadentate and forms 1:1 chelates whatever the metal charge.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Eriochrome Black T at pH 10 changes colour at the end point from:",
+      "options": [
+        "Blue to wine red",
+        "Yellow to pink",
+        "Wine red to blue",
+        "Colourless to pink"
+      ],
+      "correct": 2,
+      "explanation": "Metal–EBT complex is wine red; the free indicator is blue.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Which reagent demasks zinc from its cyanide complex?",
+      "options": [
+        "Triethanolamine",
+        "Ammonium fluoride",
+        "Formaldehyde",
+        "Potassium chromate"
+      ],
+      "correct": 2,
+      "explanation": "Formaldehyde (or chloral hydrate) releases Zn2+ from Zn(CN)4²−.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Deposition of magnesium oxalate on calcium oxalate on standing is an example of:",
+      "options": [
+        "Co-precipitation by occlusion",
+        "Post-precipitation",
+        "Peptisation",
+        "Digestion"
+      ],
+      "correct": 1,
+      "explanation": "The impurity precipitates after the main precipitate forms and increases with time.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The gravimetric factor for barium (137.33) weighed as BaSO4 (233.39) is:",
+      "options": [
+        "0.5884",
+        "0.4116",
+        "1.6995",
+        "0.2942"
+      ],
+      "correct": 0,
+      "explanation": "137.33/233.39 = 0.5884.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Diazotisation titrations are carried out at:",
+      "options": [
+        "25–30 °C",
+        "60–70 °C",
+        "Boiling temperature",
+        "0–5 °C"
+      ],
+      "correct": 3,
+      "explanation": "Diazonium salts decompose and nitrous acid is lost at higher temperatures.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Sodium nitrite solution is standardised against:",
+      "options": [
+        "Sodium chloride",
+        "Potassium dichromate",
+        "Zinc metal",
+        "Sulphanilic acid"
+      ],
+      "correct": 3,
+      "explanation": "Sulphanilic acid is a pure primary aromatic amine; 1 ml 0.1 M NaNO2 ≡ 0.01732 g.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Fluorescein is an example of:",
+      "options": [
+        "Redox indicator",
+        "Metal ion indicator",
+        "Adsorption indicator",
+        "Self-indicator"
+      ],
+      "correct": 2,
+      "explanation": "It changes colour on adsorption onto the AgCl precipitate in Fajans' method.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "In acid medium, the n-factor of KMnO4 is:",
+      "options": [
+        "1",
+        "5",
+        "3",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "MnO4− + 8H+ + 5e− → Mn2+ + 4H2O.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "In iodometry, the liberated iodine is titrated with:",
+      "options": [
+        "Sodium thiosulphate",
+        "Iodine solution",
+        "Potassium iodate",
+        "Perchloric acid"
+      ],
+      "correct": 0,
+      "explanation": "Oxidants liberate I2 from KI; the iodine is titrated with standard thiosulphate.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The indicator commonly used in cerimetry is:",
+      "options": [
+        "Ferroin",
+        "Starch",
+        "Phenolphthalein",
+        "Potassium chromate"
+      ],
+      "correct": 0,
+      "explanation": "Ferroin changes from red to pale blue when oxidised.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "An advantage of ceric sulphate over potassium permanganate is that it:",
+      "options": [
+        "Acts as its own indicator",
+        "Is cheaper",
+        "Works in alkaline solution",
+        "Can be used in the presence of hydrochloric acid"
+      ],
+      "correct": 3,
+      "explanation": "Ce4+ does not oxidise chloride in the cold; permanganate does.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "In the iodometric assay of copper sulphate, potassium thiocyanate is added to:",
+      "options": [
+        "Dissolve copper sulphate",
+        "Act as an external indicator",
+        "Release iodine adsorbed on cuprous iodide",
+        "Oxidise iodide"
+      ],
+      "correct": 2,
+      "explanation": "CuI is converted to CuSCN, freeing adsorbed iodine and sharpening the end point.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Potassium permanganate is standardised against:",
+      "options": [
+        "Sodium chloride",
+        "Oxalic acid",
+        "Potassium hydrogen phthalate",
+        "Sulphanilic acid"
+      ],
+      "correct": 1,
+      "explanation": "2MnO4− + 5C2O4²− + 16H+ → 2Mn2+ + 10CO2 + 8H2O, at 60–70 °C.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "In Andrews' titration with potassium iodate in strong HCl, iodine is finally converted to:",
+      "options": [
+        "Iodide",
+        "Iodine monochloride",
+        "Hypoiodite",
+        "Periodate"
+      ],
+      "correct": 1,
+      "explanation": "IO3− + 2I− + 6H+ + 3Cl− → 3ICl + 3H2O; the violet colour in chloroform disappears.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "In bromatometry, bromine is produced from potassium bromate by adding:",
+      "options": [
+        "Potassium bromide in acid",
+        "Potassium iodide in alkali",
+        "Sodium thiosulphate",
+        "Silver nitrate"
+      ],
+      "correct": 0,
+      "explanation": "BrO3− + 5Br− + 6H+ → 3Br2 + 3H2O.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Barium diphenylamine sulphonate is used as indicator in titrations with:",
+      "options": [
+        "Potassium permanganate",
+        "Silver nitrate",
+        "EDTA",
+        "Potassium dichromate"
+      ],
+      "correct": 3,
+      "explanation": "It turns violet when oxidised by dichromate at the end point.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "1 ml of 0.02 M KMnO4 is equivalent to how much H2O2?",
+      "options": [
+        "0.003402 g",
+        "0.0008505 g",
+        "0.001701 g",
+        "0.01701 g"
+      ],
+      "correct": 2,
+      "explanation": "0.02 M KMnO4 is 0.1 N; H2O2 Mw 34.01, n = 2: 34.01/2 × 0.1/1000 = 0.001701 g.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The potential of the standard hydrogen electrode is taken as:",
+      "options": [
+        "0.242 V",
+        "0.197 V",
+        "0.000 V",
+        "1.000 V"
+      ],
+      "correct": 2,
+      "explanation": "The SHE is the reference zero for all electrode potentials.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "In the conductometric titration of HCl with NaOH, the curve is:",
+      "options": [
+        "A straight rising line",
+        "V-shaped",
+        "S-shaped",
+        "A flat line"
+      ],
+      "correct": 1,
+      "explanation": "Conductance falls as H+ is replaced by Na+, then rises with excess OH−.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The Ilkovic equation relates diffusion current to:",
+      "options": [
+        "Concentration of the electroactive substance",
+        "Half-wave potential",
+        "Cell constant",
+        "Temperature only"
+      ],
+      "correct": 0,
+      "explanation": "id = 607 n D^½ m^⅔ t^⅙ C, so id is proportional to C.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The half-wave potential in polarography is used for:",
+      "options": [
+        "Measuring concentration",
+        "Removing oxygen",
+        "Suppressing maxima",
+        "Qualitative identification of the substance"
+      ],
+      "correct": 3,
+      "explanation": "E½ is characteristic of a substance and independent of its concentration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "A supporting electrolyte is added in polarography to eliminate:",
+      "options": [
+        "Diffusion current",
+        "Residual current entirely",
+        "Limiting current",
+        "Migration current"
+      ],
+      "correct": 3,
+      "explanation": "Excess inert ions carry the current so analyte reaches the electrode only by diffusion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The glass electrode is used to measure:",
+      "options": [
+        "Conductance",
+        "Chloride concentration only",
+        "pH (hydrogen ion activity)",
+        "Diffusion current"
+      ],
+      "correct": 2,
+      "explanation": "Its membrane potential changes about 59 mV per pH unit at 25 °C.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "In a potentiometric titration, on the second-derivative plot the end point is where the curve:",
+      "options": [
+        "Reaches a maximum",
+        "Crosses zero",
+        "Becomes flat",
+        "Starts to rise"
+      ],
+      "correct": 1,
+      "explanation": "Δ²E/ΔV² changes sign at the inflection point.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The electrodes of a conductivity cell are coated with platinum black to:",
+      "options": [
+        "Increase surface area and reduce polarisation",
+        "Make them inert to acids",
+        "Increase resistance",
+        "Act as a reference"
+      ],
+      "correct": 0,
+      "explanation": "Platinisation gives a large effective area and minimises polarisation effects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Dissolved oxygen is removed before recording a polarogram by:",
+      "options": [
+        "Bubbling nitrogen through the solution",
+        "Adding gelatin",
+        "Adding KCl",
+        "Heating to boiling"
+      ],
+      "correct": 0,
+      "explanation": "Oxygen is reduced at the DME and gives interfering waves.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The rotating platinum electrode is mainly used for:",
+      "options": [
+        "Very negative potentials",
+        "Measuring pH",
+        "Conductance measurement",
+        "Positive (oxidation) potentials and amperometric titrations"
+      ],
+      "correct": 3,
+      "explanation": "Mercury oxidises above about +0.4 V, so a Pt electrode is used for anodic work.",
+      "probability": "low"
+    }
+  ]
+}

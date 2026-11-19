@@ -1,0 +1,681 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define primary and secondary standards with properties and examples. Describe the preparation and standardisation of 0.1 M sodium hydroxide and 0.1 M hydrochloric acid, with a worked calculation of molarity.",
+      "answer": "1. Primary standard: substance of high purity whose solution of exactly known strength is made by direct weighing (KHP, anhydrous Na2CO3, K2Cr2O7, KBrO3, NaCl, As2O3).\n2. Properties: about 99.9% pure, stable in air (not hygroscopic, not efflorescent, not affected by CO2), unchanged on drying, high equivalent weight, soluble, reacts quickly and stoichiometrically, cheap.\n3. Secondary standard: strength found by titration against a primary standard (NaOH, HCl, KMnO4, Na2S2O3, iodine).\n4. 0.1 M NaOH: dissolve about 4.2 g NaOH in CO2-free water to 1000 ml (carbonate-free).\n5. Standardise: weigh about 0.4 g KHP (Mw 204.22), dissolve in 50 ml water, phenolphthalein, titrate to pink. KHP + NaOH → KNaP + H2O; 1 ml 0.1 M NaOH ≡ 0.02042 g KHP.\n6. Example: 0.4085 g KHP needed 19.85 ml; moles = 0.4085/204.22 = 0.002000; M = 0.002000/0.01985 = 0.1008 M (f = 1.008).\n7. 0.1 M HCl: about 8.5 ml concentrated HCl diluted to 1000 ml.\n8. Standardise against anhydrous Na2CO3 (dried at 270 °C), methyl orange; Na2CO3 + 2HCl → 2NaCl + H2O + CO2; 1 ml 0.1 M HCl ≡ 0.005299 g Na2CO3.\n9. Example: 0.1500 g Na2CO3 needed 28.10 ml; expected = 0.1500/0.005299 = 28.31 ml; f = 28.31/28.10 = 1.007; M = 0.1007.\n10. Precautions: triplicate concordant titres (within 0.1 ml), CO2-free water, store NaOH in polythene with soda-lime guard tube.",
+      "tags": [
+        "standards",
+        "standardisation",
+        "calculation"
+      ]
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are errors? Classify errors in pharmaceutical analysis with examples. Describe the methods of minimising errors and explain accuracy and precision with a worked example of standard deviation.",
+      "answer": "1. Error = observed value − true value.\n2. Determinate (systematic): definite cause, same direction, correctable — instrumental (uncalibrated burette), reagent (impure reagents), method (incomplete reaction, co-precipitation, indicator error), personal (colour blindness, parallax); constant and proportional errors.\n3. Indeterminate (random): small, both directions, no single cause, follow normal distribution; reduced by replicates.\n4. Gross errors: blunders such as spillage or wrong reading.\n5. Minimising: calibration of apparatus, blank determination, control determination with a standard, independent method, parallel determinations, standard addition, internal standards, pure reagents and good technique.\n6. Accuracy = closeness to true value (absolute error, relative error %); precision = closeness of replicates (SD, RSD).\n7. Example titres 10.12, 10.15, 10.10, 10.14, 10.14 ml: mean 10.13; deviations −0.01, +0.02, −0.03, +0.01, +0.01; Σd² = 0.0016; s = √(0.0016/4) = 0.02 ml; RSD = 0.20%.\n8. If true value 10.00 ml: relative error 1.3% — precise but not accurate, pointing to a systematic error.\n9. Significant figures: report burette readings to 0.05 ml, balance to 0.0001 g; round only at the end.",
+      "tags": [
+        "errors",
+        "statistics"
+      ]
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a limit test? Explain the principle, procedure and reasons for the reagents used in the limit tests for chloride, sulphate, iron and arsenic as per the Indian Pharmacopoeia.",
+      "answer": "1. Limit test: semi-quantitative test to show that an impurity is below the permitted limit, by comparing the turbidity/colour/stain of the sample with a standard of the permitted amount under identical conditions; Nessler cylinders used.\n2. Chloride: sample + dilute HNO3 + AgNO3 → white AgCl opalescence; compare with standard (known NaCl) after 5 min against black background. HNO3 prevents precipitation of other silver salts (carbonate, phosphate) and gives fine opalescence.\n3. Sulphate: sample + dilute HCl + barium sulphate reagent (BaCl2 with alcoholic K2SO4 seed) → BaSO4 turbidity; HCl stops precipitation of BaCO3/phosphate; seed gives uniform turbidity; compare with potassium sulphate standard.\n4. Iron: sample + 20% citric acid + thioglycollic acid + ammonia (alkaline) → purple ferrous thioglycollate; citric acid prevents Fe(OH)3 precipitation; thioglycollic acid reduces Fe3+ to Fe2+; compare with ferric ammonium sulphate standard after 5 min.\n5. Arsenic (Gutzeit): sample + stannated HCl + KI + SnCl2 + arsenic-free zinc → nascent H reduces arsenic to arsine (AsH3); arsine gives yellow-brown stain on mercuric chloride paper; lead acetate cotton wool absorbs H2S; KI and SnCl2 reduce As(V) to As(III) and give steady evolution; 40 °C for 40 min; compare stain with standard.\n6. Result: sample opalescence/colour/stain not more than standard → passes.\n7. Diagram of Gutzeit apparatus.",
+      "tags": [
+        "limit tests"
+      ]
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Distinguish between accuracy and precision. How are they expressed?",
+      "answer": "1. Accuracy: closeness of a result (or mean) to the true value; expressed as absolute error (X − Xt) or relative error ((X − Xt)/Xt × 100 %, or parts per thousand).\n2. Precision: closeness of replicate results to each other; expressed as deviation, average deviation, range, standard deviation s = √[Σ(x − x̄)²/(n − 1)], RSD = s/x̄ × 100.\n3. Accuracy is affected by systematic errors; precision by random errors.\n4. Results can be precise but inaccurate (tight cluster away from the true value).\n5. Good analysis needs both; precision is a necessary but not sufficient condition for accuracy.",
+      "tags": [
+        "errors"
+      ]
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the various sources of impurities in pharmaceutical substances with examples.",
+      "answer": "1. Raw materials: impure starting materials (rock salt with Ca/Mg salts; heavy metals in minerals).\n2. Reagents in manufacture: residual alkali, ammonia, sulphate.\n3. Solvents: tap water ions (Ca, Mg, Cl), residual organic solvents.\n4. Reaction vessels: Fe, Cu, Pb from metal plant; alkali from glass.\n5. Intermediates and by-products: unreacted p-aminophenol in paracetamol.\n6. Manufacturing hazards: dust, fibres, cross-contamination, microbes.\n7. Atmosphere: CO2 absorbed by NaOH; moisture.\n8. Storage: decomposition by light, air, heat (FeSO4 oxidised to ferric, H2O2 loses oxygen); deliquescence/efflorescence.\n9. Containers and closures: leaching of alkali, plasticisers.\n10. Deliberate adulteration.",
+      "tags": [
+        "impurities"
+      ]
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the limit test for arsenic with a labelled diagram of the Gutzeit apparatus.",
+      "answer": "1. Principle: arsenic in the sample is reduced by nascent hydrogen (zinc + HCl) to arsine gas, which produces a yellow to brown stain on mercuric chloride paper; the stain is compared with a standard stain.\n2. Reagents: stannated HCl, potassium iodide and stannous chloride (reduce As(V) to As(III), steady gas evolution), arsenic-free granulated zinc.\n3. Lead acetate cotton wool in the tube absorbs H2S, which would blacken the paper.\n4. Apparatus: about 120 ml wide-mouthed bottle, glass tube with lead acetate wool, HgCl2 paper clamped between the flat ends of two tubes.\n5. Keep at about 40 °C for 40 minutes; compare stain intensity with the standard prepared from a known arsenic solution under the same conditions.\n6. Diagram as in notes.",
+      "tags": [
+        "limit tests"
+      ]
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate: (a) molarity and normality of 4.904 g H2SO4 in 1000 ml; (b) weight of KMnO4 needed for 500 ml of 0.02 M; (c) volume of 1 M HCl needed to prepare 250 ml of 0.1 M HCl.",
+      "answer": "1. (a) Mw H2SO4 = 98.08; moles = 4.904/98.08 = 0.0500; M = 0.05 M; n = 2 → N = 0.1 N.\n2. (b) Mw KMnO4 = 158.03; w = M × Mw × V(L) = 0.02 × 158.03 × 0.5 = 1.580 g. This is 0.1 N (n = 5 in acid).\n3. (c) C1V1 = C2V2 → 1 × V1 = 0.1 × 250 → V1 = 25 ml diluted to 250 ml.\n4. Normality = molarity × n; check each answer against the molecular weight.",
+      "tags": [
+        "calculation",
+        "concentration"
+      ]
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the preparation and standardisation of 0.1 M sodium thiosulphate.",
+      "answer": "1. Dissolve about 25 g Na2S2O3·5H2O (Mw 248.18) and 0.2 g Na2CO3 in freshly boiled and cooled water to 1000 ml; carbonate keeps it slightly alkaline and stable; boiling kills thiosulphate-decomposing bacteria.\n2. Standardise with potassium bromate: KBrO3 + 6KI + 6HCl → 3I2 + KBr + 6KCl + 3H2O; liberated iodine titrated with thiosulphate, starch added near the end, blue → colourless.\n3. 1 ml 0.1 M Na2S2O3 ≡ 0.002784 g KBrO3 (167.00/6/10).\n4. Alternative: K2Cr2O7 + KI + HCl, 1 ml ≡ 0.004903 g K2Cr2O7.\n5. Example: 0.1225 g K2Cr2O7 used 24.80 ml; expected 24.98 ml; f = 1.007; M = 0.1007.\n6. Precautions: stoppered flask, keep in dark, add starch late, do not titrate in strong acid.",
+      "tags": [
+        "standardisation",
+        "redox"
+      ]
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the limit test for iron. Why are citric acid and thioglycollic acid used?",
+      "answer": "1. Principle: iron reacts with thioglycollic acid in alkaline (ammoniacal) solution containing citric acid to form a purple ferrous thioglycollate complex; colour compared with a standard iron solution.\n2. Procedure: dissolve sample in water in a Nessler cylinder, add 2 ml of 20% w/v iron-free citric acid and 0.1 ml thioglycollic acid, make alkaline with iron-free ammonia, dilute to 50 ml, stand 5 min; compare with standard from ferric ammonium sulphate.\n3. Citric acid forms a soluble complex with iron and prevents precipitation of iron hydroxide when ammonia is added.\n4. Thioglycollic acid reduces Fe3+ to Fe2+ so all iron is measured, and forms the coloured complex.\n5. Sample colour less than standard → passes.",
+      "tags": [
+        "limit tests"
+      ]
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define a primary standard and give two examples.",
+      "answer": "A substance of very high purity and stability whose solution of exactly known concentration can be made by direct weighing. Examples: potassium hydrogen phthalate, anhydrous sodium carbonate (also K2Cr2O7, NaCl).",
+      "tags": [
+        "standards"
+      ]
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a pharmacopoeia? Who publishes the Indian Pharmacopoeia?",
+      "answer": "An official book of drug standards (identity, purity, assay, storage) published under government authority and legally binding. The Indian Pharmacopoeia is published by the Indian Pharmacopoeia Commission, Ghaziabad.",
+      "tags": [
+        "pharmacopoeia"
+      ]
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the theories of acid–base indicators. Discuss the neutralisation curves for (a) strong acid vs strong base, (b) weak acid vs strong base, and (c) strong acid vs weak base, and the choice of indicator in each.",
+      "answer": "1. Indicator: weak organic acid/base whose ionised and un-ionised forms differ in colour.\n2. Ostwald's theory: HIn ⇌ H+ + In−; pH = pKIn + log[In−]/[HIn]; visible change between ratios 1:10 and 10:1 → range pKIn ± 1. Phenolphthalein colourless (HIn) → pink (In−); methyl orange red in acid, yellow in alkali.\n3. Quinonoid theory: benzenoid (light/colourless) and quinonoid (deeply coloured) tautomers; pH change shifts the equilibrium.\n4. (a) Strong/strong: start pH 1 (0.1 M), equivalence pH 7, jump about 4–10; methyl orange, methyl red or phenolphthalein.\n5. (b) Weak acid/strong base (acetic acid, pKa 4.76): start pH 2.88, buffer region with pH = pKa at half-neutralisation, equivalence pH = 7 + ½pKa + ½log C ≈ 8.7; jump about 7–10; phenolphthalein; methyl orange unsuitable.\n6. (c) Strong acid/weak base (HCl/NH3): equivalence pH ≈ 5.3 (salt hydrolysis); jump about 4–6.5; methyl orange or methyl red; phenolphthalein unsuitable.\n7. Weak/weak: no sharp jump; use conductometric or potentiometric method.\n8. Draw the three curves with indicator ranges marked.",
+      "tags": [
+        "indicators",
+        "titration curves"
+      ]
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are non-aqueous titrations? Classify the solvents used with examples. Explain the levelling and differentiating effects and describe the assay of sodium benzoate and ephedrine hydrochloride.",
+      "answer": "1. Titrations in solvents other than water for very weak acids/bases or water-insoluble drugs; water competes as weak acid and base and spoils the end point.\n2. Solvents: aprotic (benzene, chloroform, dioxane), protophilic/basic (pyridine, DMF, liquid ammonia, ethylenediamine — for weak acids), protogenic/acidic (glacial acetic acid, formic acid — for weak bases), amphiprotic (water, alcohols, acetic acid).\n3. Levelling: water levels HClO4, HCl, HNO3 to H3O+; differentiating: in glacial acetic acid HClO4 is much stronger than HCl, so it is the titrant for bases.\n4. Titrant 0.1 M HClO4 in glacial acetic acid with acetic anhydride (removes water); standardise against KHP (1 ml ≡ 0.02042 g), crystal violet.\n5. Mechanism: HClO4 + CH3COOH → CH3COOH2+ + ClO4−; CH3COOH2+ + B → BH+ + CH3COOH.\n6. Sodium benzoate: about 0.25 g in anhydrous glacial acetic acid, titrate with 0.1 M HClO4 (crystal violet or 1-naphtholbenzein), blank; C6H5COONa + HClO4 → C6H5COOH + NaClO4; 1 ml ≡ 0.01441 g.\n7. Ephedrine HCl: dissolve in glacial acetic acid, add mercuric acetate (2B·HCl + Hg(OAc)2 → 2B·HOAc + HgCl2, un-ionised), titrate with 0.1 M HClO4, crystal violet to blue-green; 1 ml ≡ 0.02017 g.\n8. Temperature correction for acetic acid expansion; advantages and limitations.",
+      "tags": [
+        "non-aqueous"
+      ]
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify acid–base titrations with examples. Explain the titration of very weak acids and bases, polyprotic acids and mixtures (double indicator method).",
+      "answer": "1. Acidimetry (bases with standard acid) and alkalimetry (acids with standard alkali).\n2. Direct titration (citric acid with NaOH), back titration (aspirin, zinc oxide, NH4Cl boiled with excess NaOH), displacement (borax and Na2CO3 with HCl), indirect (formol titration of ammonium salts), double indicator, Kjeldahl.\n3. Visual titration needs Ka × C about ≥ 10⁻⁸; very weak acids/bases fail in water.\n4. Boric acid (pKa about 9.2): add glycerin or mannitol to form a stronger complex acid, titrate with NaOH and phenolphthalein.\n5. Very weak bases (alkaloids, caffeine) and phenols: non-aqueous titration.\n6. H3PO4: first end point with methyl orange (H2PO4−), second with phenolphthalein (HPO4²−), third H+ not titratable.\n7. NaOH + Na2CO3 mixture: phenolphthalein titre V1 (all NaOH + carbonate to bicarbonate), then methyl orange V2 (bicarbonate to CO2); carbonate ≡ 2V2, hydroxide ≡ V1 − V2.\n8. Sketch the two-step curve.",
+      "tags": [
+        "acid-base"
+      ]
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain Ostwald's theory of acid–base indicators. Why does an indicator change colour over a range of about 2 pH units?",
+      "answer": "1. Indicators are weak acids or bases; ionised and un-ionised forms have different colours.\n2. Acid indicator HIn ⇌ H+ + In−; KIn = [H+][In−]/[HIn]; pH = pKIn + log[In−]/[HIn].\n3. In acid, equilibrium shifts left (HIn colour); in alkali, right (In− colour). Phenolphthalein colourless → pink.\n4. The eye detects one colour when it is about 10 times the other: ratio 1/10 gives pH = pKIn − 1, ratio 10 gives pKIn + 1, so range ≈ pKIn ± 1.\n5. Limitation: does not explain the cause of colour; quinonoid theory explains the structural change.",
+      "tags": [
+        "indicators"
+      ]
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify the solvents used in non-aqueous titrations with examples and uses.",
+      "answer": "1. Aprotic: neither donate nor accept protons, low dielectric constant; benzene, toluene, chloroform, dioxane; used as diluents.\n2. Protophilic (basic): accept protons, enhance acidity of weak acids; pyridine, DMF, ethylenediamine, liquid ammonia, butylamine; for titrating phenols, barbiturates, sulphonamides with methoxide.\n3. Protogenic (acidic): donate protons, enhance basicity of weak bases; glacial acetic acid, formic acid, sulphuric acid; for amines, alkaloids, salts of organic acids with HClO4.\n4. Amphiprotic: both; water, methanol, ethanol, acetic acid.\n5. Choice by levelling/differentiating effect, solubility of drug and products, low water content.",
+      "tags": [
+        "non-aqueous"
+      ]
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the preparation and standardisation of 0.1 M perchloric acid. Why is acetic anhydride added?",
+      "answer": "1. Mix about 8.5 ml of 72% HClO4 with about 900 ml glacial acetic acid, add about 30 ml acetic anhydride, make to 1000 ml with glacial acetic acid, stand 24 hours.\n2. Acetic anhydride reacts with water from the perchloric acid and acetic acid: (CH3CO)2O + H2O → 2CH3COOH; water would weaken the titrant and blur the end point.\n3. Excess anhydride avoided because it can acetylate primary/secondary amines.\n4. Standardise: about 0.35 g KHP in 50 ml glacial acetic acid, crystal violet, titrate to blue-green; 1 ml 0.1 M HClO4 ≡ 0.02042 g KHP.\n5. Example: 0.3500 g KHP used 17.05 ml; expected 0.3500/0.02042 = 17.14 ml; f = 1.005.\n6. Note temperature at standardisation for later correction.",
+      "tags": [
+        "non-aqueous",
+        "standardisation"
+      ]
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the levelling and differentiating effects of solvents with examples.",
+      "answer": "1. Levelling solvent makes acids (or bases) of different intrinsic strength appear equally strong because all react completely with the solvent.\n2. In water, HClO4, HCl, HNO3 all become H3O+, so water levels them; in liquid ammonia even acetic acid appears strong.\n3. Differentiating solvent is a weaker base (for acids) or weaker acid (for bases), so only the strongest react fully and real differences appear.\n4. In glacial acetic acid HClO4 ≫ HBr > H2SO4 > HCl > HNO3; hence HClO4 is the titrant for weak bases.\n5. Mixtures of acids can be titrated separately in differentiating solvents such as methyl isobutyl ketone.",
+      "tags": [
+        "non-aqueous"
+      ]
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Why can boric acid not be titrated directly with NaOH? How is it assayed?",
+      "answer": "1. Boric acid is a very weak acid (pKa about 9.2); Ka × C is too small, so the equivalence pH is high and there is no sharp jump.\n2. Adding a polyhydric alcohol (glycerin or mannitol) forms a complex (borate–polyol) acid that is much stronger.\n3. The complex acid is titrated with 0.1 M NaOH using phenolphthalein.\n4. Add more glycerin at the end; if pink disappears, titrate further until pink persists.\n5. 1 ml of 0.1 M NaOH ≡ 0.006183 g H3BO3 (Mw 61.83, monobasic in the complex).",
+      "tags": [
+        "acid-base"
+      ]
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is mercuric acetate added in the non-aqueous titration of amine hydrochlorides?",
+      "answer": "Halide ion is too weak a base to be titrated and HCl formed interferes; mercuric acetate converts the hydrochloride to the acetate and forms un-ionised HgCl2, so the acetate can be titrated with perchloric acid.",
+      "tags": [
+        "non-aqueous"
+      ]
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which indicator is used for titration of acetic acid with NaOH, and why?",
+      "answer": "Phenolphthalein, because the equivalence point is at about pH 8.7 (sodium acetate hydrolyses), which lies within its range of 8.3–10.0; methyl orange would change too early.",
+      "tags": [
+        "indicators"
+      ]
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are precipitation titrations? Explain Mohr's, Volhard's, modified Volhard's and Fajans' methods with reactions, indicators and conditions. Describe the assay of sodium chloride.",
+      "answer": "1. Titration where titrant forms a sparingly soluble precipitate; argentometric titrations with AgNO3 for halides, SCN−. Ksp of AgCl about 1.8 × 10⁻¹⁰.\n2. Mohr: direct titration with AgNO3, K2CrO4 indicator; Ag+ + Cl− → AgCl (white), then 2Ag+ + CrO4²− → Ag2CrO4 red-brown; pH 6.5–9 (acid converts chromate to dichromate, alkali precipitates silver oxide); for Cl−, Br−, not I−; indicator blank.\n3. Volhard: back titration in HNO3; excess AgNO3, unreacted Ag+ titrated with NH4SCN, ferric alum indicator, red [Fe(SCN)]2+; works in acid, so carbonate/phosphate do not interfere.\n4. Modified Volhard for chloride: AgCl more soluble than AgSCN and reacts with excess SCN−; filter AgCl or coat with nitrobenzene/dibutyl phthalate.\n5. Fajans: adsorption indicators; before end point AgCl surface adsorbs Cl− (fluorescein stays in solution, yellow-green); after, adsorbs Ag+ and attracts dye anion (pink). Fluorescein, dichlorofluorescein (Cl−), eosin (Br−, I−); keep colloid with dextrin, avoid light.\n6. AgNO3 standardised against NaCl; 1 ml 0.1 M AgNO3 ≡ 0.005844 g NaCl.\n7. NaCl assay: about 0.1 g in 50 ml water, K2CrO4, titrate to red-brown. Example 0.1012 g, 17.20 ml, f 1.004 → 99.7%.",
+      "tags": [
+        "precipitation"
+      ]
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle of complexometric titrations. Classify them, describe metal ion indicators with examples, and explain masking and demasking. Give the assay of magnesium sulphate and calcium gluconate.",
+      "answer": "1. Metal ion + ligand → stable soluble complex; EDTA (hexadentate; disodium edetate Mw 372.24) forms 1:1 chelates releasing H+, so buffers are needed; stability depends on pH.\n2. Types: direct (Mg, Zn at pH 10), back (Al, slow-reacting or precipitating metals; excess EDTA titrated with Mg/Zn), replacement (Ca with Mg–EDTA), indirect (sulphate, phosphate), alkalimetric.\n3. Metal ion indicator: dye forming a coloured complex with the metal less stable than M–EDTA; at end point EDTA takes metal and free indicator colour appears. Eriochrome Black T (pH 10, wine red → blue), murexide (Ca pH 12), hydroxynaphthol blue/calcon (Ca, pH 12–13), xylenol orange (Bi, Pb, Zn acid pH), calmagite.\n4. Masking: reagent that stops an ion reacting without removal — KCN (Zn, Cu, Ni, Co, Cd, Hg), triethanolamine (Al, Fe, Mn), fluoride (Al), ascorbic acid (Fe3+), BAL. Demasking: formaldehyde releases Zn from cyanide complex.\n5. MgSO4: sample in water, ammonia buffer pH 10, EBT, 0.05 M EDTA to blue; 1 ml ≡ 0.006018 g MgSO4.\n6. Calcium gluconate: about 0.5 g in water, add 5 ml 0.05 M MgSO4 and strong ammonia buffer, EBT, titrate; subtract 5 ml; 1 ml ≡ 0.02242 g. Mg needed because Ca–EBT end point is poor.\n7. Example: 0.5050 g used 27.40 ml; net 22.40 ml → 99.4%.",
+      "tags": [
+        "complexometry"
+      ]
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define gravimetric analysis. Describe the steps involved. Explain co-precipitation and post-precipitation and how a pure precipitate is obtained. Describe the estimation of barium as barium sulphate.",
+      "answer": "1. Gravimetry: determination of a constituent by isolating it in a pure weighable form and weighing it.\n2. Steps: sample solution → precipitation (hot, dilute, slow, slight excess, low relative supersaturation) → digestion (Ostwald ripening, larger purer crystals) → filtration (ashless paper/Gooch crucible) → washing (dilute electrolyte) → drying/ignition → cooling in desiccator, weighing to constant weight → calculation with gravimetric factor.\n3. Co-precipitation: impurities carried down during precipitation — surface adsorption, occlusion, inclusion/mixed crystals (Pb in BaSO4), mechanical entrapment; decreased by digestion.\n4. Post-precipitation: impurity deposits on the precipitate after it forms (MgC2O4 on CaC2O4, ZnS on CuS); increases with standing — filter promptly.\n5. Pure precipitate: precipitation from homogeneous solution, re-precipitation, digestion, washing, removing interfering ions.\n6. Barium estimation: BaCl2 solution + dilute HCl, heat, add hot dilute H2SO4 slowly, digest 1 h, filter, wash free from chloride, char paper, ignite about 800 °C, weigh BaSO4 (Mw 233.39).\n7. Factors: Ba/BaSO4 0.5884; SO4/BaSO4 0.4116; BaCl2·2H2O/BaSO4 1.0466. Example 0.5000 g gave 0.4752 g BaSO4 → 99.5% BaCl2·2H2O.",
+      "tags": [
+        "gravimetry"
+      ]
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between co-precipitation and post-precipitation with examples.",
+      "answer": "1. Co-precipitation: soluble impurities carried down with the precipitate during its formation; post-precipitation: impurity precipitates on the surface after the main precipitate has formed.\n2. Co: decreases on digestion; post: increases with time of contact.\n3. Co: surface adsorption, occlusion, inclusion (Pb2+ in BaSO4); post: MgC2O4 on CaC2O4, ZnS on CuS/HgS.\n4. Co: reduced by slow precipitation from hot dilute solution, digestion, re-precipitation; post: reduced by filtering soon after precipitation.\n5. Both give positive errors in gravimetry.",
+      "tags": [
+        "gravimetry"
+      ]
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on masking and demasking agents in complexometric titrations.",
+      "answer": "1. Masking: converting an interfering ion into a form (usually a stable complex) that does not react with EDTA or the indicator, without separating it.\n2. KCN in alkaline solution masks Zn, Cd, Cu, Ni, Co, Hg, Ag (Ca, Mg, Pb not masked).\n3. Triethanolamine masks Al, Fe, Mn; fluoride masks Al, Fe; ascorbic acid reduces Fe3+; BAL masks Hg, Cd, Pb; iodide masks Hg; thiourea masks Cu.\n4. Demasking: release of the masked ion so it can be titrated — formaldehyde or chloral hydrate frees Zn from Zn(CN)4²−.\n5. Example: Zn + Mg mixture — titrate Mg with Zn masked by KCN, then add formaldehyde and titrate the freed Zn.\n6. pH control and precipitation also improve selectivity.",
+      "tags": [
+        "complexometry"
+      ]
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle and applications of diazotisation titrations. How is the end point detected?",
+      "answer": "1. Primary aromatic amines react with nitrous acid (NaNO2 + HCl) at 0–5 °C to form diazonium salts: ArNH2 + NaNO2 + 2HCl → ArN2+Cl− + NaCl + 2H2O (1:1).\n2. Conditions: ice-cold, excess HCl, slow addition near the end, KBr as catalyst.\n3. Titrant 0.1 M NaNO2 standardised against sulphanilic acid (1 ml ≡ 0.01732 g).\n4. End point: starch–iodide paper turns blue at once with excess HNO2 (external); internal indicators tropaeolin OO / with methylene blue; dead-stop (biamperometric) or potentiometric end point.\n5. Applications: sulphonamides, procaine, benzocaine, dapsone, primaquine, PAS; nitro compounds after reduction.",
+      "tags": [
+        "diazotisation"
+      ]
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are metal ion indicators? Explain the working of Eriochrome Black T.",
+      "answer": "1. Dyes that form coloured complexes with metal ions, with a different colour from the free dye; the metal–indicator complex is less stable than the metal–EDTA complex.\n2. EBT is used at pH 10 (ammonia–ammonium chloride buffer); free dye blue, metal complex wine red.\n3. Start: Mg2+ + In → MgIn (wine red). EDTA first takes free Mg2+, then removes Mg from MgIn: MgIn + EDTA → MgEDTA + In (blue).\n4. Suitable for Mg, Zn, Cd, Pb; Ca end point poor alone, so Mg is added.\n5. Requirements: sharp colour change, right stability, selectivity; EBT solution unstable, used as a solid mixture with NaCl.",
+      "tags": [
+        "complexometry"
+      ]
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Why is magnesium sulphate added in the assay of calcium gluconate? Give the procedure and calculation.",
+      "answer": "1. Calcium–Eriochrome Black T complex is weak, so the end point is indistinct; Mg2+ forms a stronger coloured complex with EBT and gives a sharp wine red → blue change at the end (replacement principle).\n2. Procedure: about 0.5 g in 50 ml warm water, cool, add 5.0 ml 0.05 M MgSO4 and 10 ml strong ammonia–ammonium chloride buffer, EBT (mordant black 11), titrate with 0.05 M EDTA to blue.\n3. Subtract the 5.0 ml of 0.05 M MgSO4 from the titre.\n4. 1 ml 0.05 M EDTA ≡ 0.02242 g C12H22CaO14·H2O (448.4 × 0.05/1000).\n5. Example: 0.5050 g used 27.40 ml; net 22.40 ml; % = 22.40 × 0.02242 × 100/0.5050 = 99.4%.",
+      "tags": [
+        "complexometry",
+        "calculation"
+      ]
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why must Mohr's titration be carried out in neutral or faintly alkaline solution?",
+      "answer": "In acid, chromate converts to dichromate/hydrogen chromate and silver chromate forms late; in strong alkali, silver hydroxide/oxide precipitates. pH about 6.5–9 avoids both.",
+      "tags": [
+        "precipitation"
+      ]
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the gravimetric factor? Give its value for sulphate weighed as BaSO4.",
+      "answer": "The ratio of the formula weight of the substance sought to that of the substance weighed, adjusted for the number of atoms of the key element. For SO4 from BaSO4: 96.06/233.39 = 0.4116.",
+      "tags": [
+        "gravimetry"
+      ]
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principles of iodimetry and iodometry with examples. Discuss the sources of error in iodine titrations and the role of starch. Describe the assay of copper sulphate.",
+      "answer": "1. Iodine couple I2 + 2e− ⇌ 2I−, E° 0.54 V; iodine is a mild oxidant.\n2. Iodimetry: direct titration of reducing agents with standard 0.05 M iodine (in KI as I3−); starch, first permanent blue; e.g. ascorbic acid (1 ml 0.05 M I2 ≡ 0.008806 g), As2O3, thiosulphate, sulphites.\n3. Iodometry: oxidising agent + excess KI liberates I2, titrated with 0.1 M Na2S2O3 (I2 + 2S2O3²− → 2I− + S4O6²−); starch near end, blue disappears; e.g. CuSO4, K2Cr2O7, KBrO3, bleaching powder, H2O2.\n4. Starch forms intense blue complex; added late in iodometry so that iodine is not strongly bound and released slowly; use fresh starch.\n5. Errors: volatility of iodine (excess KI, cool, stoppered), air oxidation of iodide in acid (light accelerates), wrong pH (thiosulphate decomposes in strong acid; iodine forms hypoiodite above pH 9).\n6. CuSO4: 2Cu2+ + 4I− → 2CuI + I2; dissolve about 1 g in water, add acetic acid and 3 g KI, titrate with 0.1 M thiosulphate, starch near end, add KSCN near end to release adsorbed iodine; 1 ml ≡ 0.02497 g CuSO4·5H2O.",
+      "tags": [
+        "redox",
+        "iodine"
+      ]
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is cerimetry? Discuss the preparation and standardisation of ceric ammonium sulphate, its advantages over permanganate, indicators and applications, with the assay of ferrous sulphate.",
+      "answer": "1. Redox titrations with ceric (Ce4+) salts in H2SO4: Ce4+ + e− → Ce3+ (n = 1), E° about 1.44 V.\n2. Preparation: about 65 g ceric ammonium sulphate dissolved with gentle heat in 30 ml H2SO4 and water, cooled, to 1000 ml (0.1 M).\n3. Standardisation: As2O3 dissolved in NaOH, acidified with dilute H2SO4, osmic acid as catalyst, ferroin, titrate to pale blue; 1 ml 0.1 M ≡ 0.004946 g As2O3.\n4. Advantages: very stable solution (even on boiling), single electron change, strong oxidant, can be used in HCl, Ce3+ colourless, high-purity salts available.\n5. Disadvantages: cost; not in neutral/alkaline solution.\n6. Indicators: ferroin (red → pale blue), N-phenylanthranilic acid; potentiometric.\n7. Applications: ferrous salts, paracetamol (after hydrolysis), menadione, tocopherol, nitrites, H2O2, oxalates.\n8. FeSO4·7H2O: about 0.5 g in dilute H2SO4 + boiled cooled water, ferroin, titrate with 0.1 M ceric ammonium sulphate; Fe2+ + Ce4+ → Fe3+ + Ce3+; 1 ml ≡ 0.02780 g.",
+      "tags": [
+        "redox",
+        "cerimetry"
+      ]
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the principle, reactions, indicators and applications of (a) bromatometry, (b) dichrometry and (c) titration with potassium iodate (Andrews' titration).",
+      "answer": "1. Bromatometry: KBrO3 (primary standard, 0.0167 M = 0.1 N) + KBr in acid → BrO3− + 5Br− + 6H+ → 3Br2 + 3H2O; bromine substitutes/adds/oxidises analyte.\n2. Excess bromine back-titrated: add KI, titrate liberated I2 with thiosulphate; or direct titration with methyl orange/methyl red (irreversibly bleached).\n3. Applications: phenol (C6H5OH + 3Br2 → tribromophenol; 1 ml 0.1 N ≡ 1.569 mg), resorcinol, cresols, isoniazid, metronidazole, As(III), Sb(III), oxine.\n4. Dichrometry: K2Cr2O7 primary standard, 0.01667 M = 0.1 N; Cr2O7²− + 14H+ + 6e− → 2Cr3+ + 7H2O; indicators diphenylamine, barium diphenylamine sulphonate (to violet), N-phenylanthranilic acid; H3PO4 added for Fe titrations; works in HCl; for ferrous salts, COD.\n5. Iodate (Andrews): KIO3 in strong HCl, reductants oxidised, iodine ends as ICl: IO3− + 2I− + 6H+ + 3Cl− → 3ICl + 3H2O (4 electrons).\n6. End point: shake with chloroform/CCl4; violet iodine colour appears then disappears as I2 → ICl.\n7. Applications: KI (1 ml 0.05 M KIO3 ≡ 0.01660 g), hydrazine, As(III), Sb(III), Hg(I), sulphite.",
+      "tags": [
+        "redox"
+      ]
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between iodimetry and iodometry.",
+      "answer": "1. Iodimetry: direct titration of a reducing agent with standard iodine; iodometry: oxidising agent liberates iodine from KI, which is titrated with standard thiosulphate.\n2. Titrant: 0.05 M I2 in KI vs 0.1 M Na2S2O3.\n3. Starch: can be added at the start; blue appears at end vs added near end; blue disappears.\n4. Examples: ascorbic acid, As2O3, thiosulphate vs CuSO4, K2Cr2O7, bleaching powder, KBrO3.\n5. Medium: neutral/weakly acid (bicarbonate for arsenite) vs weakly acid with excess KI.",
+      "tags": [
+        "iodine"
+      ]
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are redox indicators? Classify them with examples.",
+      "answer": "1. Substances or methods that show the end point of a redox titration.\n2. Self-indicators: titrant coloured, product colourless — KMnO4 (pink), iodine.\n3. Specific indicators: react with a particular species — starch with iodine, thiocyanate with Fe3+.\n4. True redox indicators: oxidised and reduced forms differ in colour; change at E = E°In ± 0.059/n — ferroin (red → pale blue, about 1.1 V), diphenylamine and its sulphonate (colourless → violet), N-phenylanthranilic acid, methylene blue.\n5. External indicators: potassium ferricyanide for Fe2+, starch–iodide paper.\n6. Instrumental: potentiometric, dead-stop end points.",
+      "tags": [
+        "redox"
+      ]
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the preparation and standardisation of 0.02 M potassium permanganate. Why is it not a primary standard?",
+      "answer": "1. Not primary: contains MnO2, decomposed by light, heat and organic matter in water; strength changes.\n2. Preparation: dissolve about 3.2 g KMnO4 in 1000 ml water, boil 15 min, stand 2 days, filter through glass wool (not paper), store in amber bottle.\n3. Standardise against oxalic acid dihydrate (or sodium oxalate) in dilute H2SO4 at 60–70 °C; 2MnO4− + 5C2O4²− + 16H+ → 2Mn2+ + 10CO2 + 8H2O.\n4. Self-indicator: first permanent pink; reaction autocatalysed by Mn2+.\n5. 1 ml 0.02 M ≡ 0.006303 g oxalic acid dihydrate (0.006700 g Na2C2O4).\n6. Example: 0.1600 g oxalic acid used 25.20 ml; expected 25.38 ml; f = 1.007; M = 0.02014.",
+      "tags": [
+        "redox",
+        "standardisation"
+      ]
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the assay of hydrogen peroxide by permanganometry. How is volume strength related to percentage?",
+      "answer": "1. Dilute 10 ml of the solution to 100 ml; take 10 ml, add 20 ml dilute H2SO4, titrate with 0.02 M KMnO4 to permanent pink.\n2. 2MnO4− + 5H2O2 + 6H+ → 2Mn2+ + 5O2 + 8H2O.\n3. 1 ml 0.02 M KMnO4 ≡ 0.001701 g H2O2 (34.01/2 × 0.1 mg).\n4. Example: 17.80 ml for 1 ml of original solution → 0.03028 g per ml = 3.03% w/v.\n5. Volume strength: 2H2O2 → 2H2O + O2; 68 g gives 22.4 L O2, so 1 g gives 0.329 L; 6% w/v ≈ 20 volume, 3% ≈ 10 volume.",
+      "tags": [
+        "redox",
+        "calculation"
+      ]
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on titration with potassium iodate (Andrews' titration).",
+      "answer": "1. KIO3 is a primary standard and strong oxidant.\n2. In strong HCl (3–6 M), reductants are oxidised and iodine formed is converted to iodine monochloride: IO3− + 2I− + 6H+ + 3Cl− → 3ICl + 3H2O (iodate +5 → +1, 4 electrons).\n3. End point: chloroform layer violet with I2 during titration; colour disappears when all iodine becomes ICl.\n4. Applications: iodides (KI: 1 ml 0.05 M KIO3 ≡ 0.01660 g), hydrazine, arsenic(III), antimony(III), thallium(I), sulphites.\n5. In dilute acid with excess KI, iodate liberates iodine (IO3− + 5I− + 6H+ → 3I2) and serves to standardise thiosulphate (1 IO3− ≡ 6 S2O3²−).",
+      "tags": [
+        "redox"
+      ]
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is HCl not used to acidify solutions in permanganate titrations?",
+      "answer": "Permanganate oxidises chloride ions to chlorine, consuming extra titrant and giving high results; dilute sulphuric acid is used instead.",
+      "tags": [
+        "redox"
+      ]
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is potassium thiocyanate added near the end point in the iodometric assay of copper sulphate?",
+      "answer": "It converts the CuI precipitate to less soluble CuSCN, releasing iodine adsorbed on CuI, so all iodine is titrated and the end point is sharp.",
+      "tags": [
+        "iodine"
+      ]
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is potentiometry? Describe the construction and working of reference electrodes (SHE, calomel, Ag/AgCl) and indicator electrodes (metal and glass). Explain the methods of locating the end point in potentiometric titrations.",
+      "answer": "1. Potentiometry: measurement of cell emf (indicator + reference electrode) at nearly zero current; Nernst E = E° + (0.0591/n) log a.\n2. SHE: platinised Pt in 1 M H+ with H2 at 1 atm; E = 0.000 V by definition; difficult, easily poisoned.\n3. Calomel: Hg + Hg2Cl2 paste in saturated KCl, Pt contact, porous junction; Hg2Cl2 + 2e− ⇌ 2Hg + 2Cl−; SCE about +0.242 V at 25 °C.\n4. Ag/AgCl: silver wire coated with AgCl in KCl; AgCl + e− ⇌ Ag + Cl−; about +0.197 V (saturated KCl).\n5. Indicator electrodes: metal of first kind (Ag/Ag+), second kind (Ag/AgCl for Cl−), inert Pt for redox; glass electrode — thin pH-sensitive glass bulb, internal Ag/AgCl in 0.1 M HCl, potential ∝ pH (59.1 mV/pH); asymmetry potential, alkaline and acid errors; calibrate with buffers.\n6. End point: E vs V (inflection), first derivative ΔE/ΔV vs mean V (maximum), second derivative Δ²E/ΔV² (zero crossing), Gran's plot.\n7. Electrode pairs: glass–SCE for acid–base, Pt–SCE for redox, Ag–SCE (KNO3 bridge) for argentometric.\n8. Advantages: coloured/turbid solutions, weak acids, non-aqueous, automation.",
+      "tags": [
+        "potentiometry",
+        "electrodes"
+      ]
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle of conductometric titrations. Describe the conductivity cell and discuss the titration curves of strong acid vs strong base, weak acid vs strong base, and a mixture of strong and weak acids vs strong base. Give advantages and applications.",
+      "answer": "1. Conductance G = 1/R; κ = G × (l/A); Λm = κ × 1000/M; ions of different mobility replace one another during titration so conductance changes; end point = intersection of straight lines.\n2. Cell: two platinised platinum plates fixed at constant distance; AC (to avoid electrolysis/polarisation); Wheatstone bridge or conductivity meter; cell constant from standard KCl; constant temperature; concentrated titrant or dilution correction G(V + v)/V.\n3. Strong acid vs strong base: H+ replaced by Na+, conductance falls to minimum, then rises with excess OH−; V-shaped.\n4. Weak acid vs strong base: low initial conductance, slight dip then slow rise as sodium acetate forms, steep rise after end point.\n5. Mixture HCl + CH3COOH vs NaOH: steep fall (HCl), slow rise (acetic acid), steep rise (excess NaOH); two breaks give each acid.\n6. Advantages: coloured/turbid/dilute solutions, weak/weak titrations, no indicator, points away from end point used.\n7. Limitations: excess foreign electrolyte, temperature control.\n8. Applications: acid–base, precipitation, complexometric, non-aqueous titrations; water purity; solubility of salts; Ka and degree of dissociation.",
+      "tags": [
+        "conductometry"
+      ]
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the principle of polarography. Explain the polarogram, Ilkovic equation, construction and working of the dropping mercury electrode and rotating platinum electrode, and applications.",
+      "answer": "1. Voltammetric method: increasing voltage applied to a cell with DME (working) and SCE/mercury pool (reference); current recorded; current–voltage curve = polarogram (Heyrovský).\n2. Polarogram: residual current, rise at decomposition potential, limiting current plateau; diffusion current id = limiting − residual (∝ concentration); half-wave potential E½ at id/2, characteristic of the substance (qualitative).\n3. Migration current removed by supporting electrolyte (KCl); dissolved O2 removed by N2 purging; maxima suppressed with gelatin/Triton X-100.\n4. Ilkovic: id = 607 n D^½ m^⅔ t^⅙ C (id µA, D cm²/s, m mg/s, t s, C mmol/L); id = kC for fixed capillary.\n5. DME: mercury reservoir, tubing, fine capillary; drop every 2–6 s; fresh reproducible surface, high hydrogen overpotential (negative potentials to about −2 V), amalgam formation; limitations: toxic, oxidised above about +0.4 V.\n6. RPE: Pt wire in glass rotated about 600 rpm; steady large currents; for positive potentials and amperometric titrations; surface can be poisoned.\n7. Applications: trace metals (Pb, Cd, Zn, Cu), reducible drugs (chloramphenicol, nitrofurantoin, metronidazole, menadione), vitamins, dissolved oxygen, stability constants, amperometric titrations.",
+      "tags": [
+        "polarography"
+      ]
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the construction and working of the glass electrode. What are its advantages and limitations?",
+      "answer": "1. Thin bulb of special pH-sensitive glass on a glass stem; inside 0.1 M HCl (fixed pH) and an Ag/AgCl internal reference wire.\n2. Hydrated gel layers on both faces exchange H+; a membrane potential develops depending on H+ activity outside: E = constant − 0.0591 pH at 25 °C.\n3. Used with SCE or Ag/AgCl (combination electrode) and a high-impedance pH meter; calibrated with standard buffers (asymmetry potential).\n4. Advantages: unaffected by oxidants/reductants, colour, turbidity; small volumes; quick; not poisoned.\n5. Limitations: alkaline (sodium) error above pH about 10, acid error below pH 1, fragile, must stay hydrated, high resistance, slow in non-aqueous media.",
+      "tags": [
+        "electrodes"
+      ]
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the construction and working of the saturated calomel electrode.",
+      "answer": "1. Inner tube with mercury in contact with a paste of mercury and mercurous chloride (calomel); platinum wire for contact.\n2. Outer tube filled with saturated KCl containing KCl crystals; porous fibre/sintered plug for contact with the test solution.\n3. Reaction: Hg2Cl2 + 2e− ⇌ 2Hg + 2Cl−; E = E° − 0.0591 log a(Cl−); constant as Cl− is fixed.\n4. Potential about +0.242 V vs SHE at 25 °C (saturated); 1 M KCl about 0.280 V; 0.1 M about 0.334 V.\n5. Easy, stable, reproducible; mercury toxicity and temperature sensitivity are limitations. Diagram.",
+      "tags": [
+        "electrodes"
+      ]
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Draw and explain the conductometric titration curve for a mixture of hydrochloric acid and acetic acid with sodium hydroxide.",
+      "answer": "1. Initially high conductance from H+ of HCl (acetic acid ionisation suppressed).\n2. First part: NaOH neutralises HCl; fast H+ replaced by slow Na+ → conductance falls steeply → first break (HCl end point).\n3. Second part: acetic acid neutralised to sodium acetate (more ionised) → conductance rises slowly → second break.\n4. Third part: excess NaOH adds fast OH− → steep rise.\n5. Volume to first break gives HCl; difference between breaks gives acetic acid. Graph with three straight lines.",
+      "tags": [
+        "conductometry"
+      ]
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "State the Ilkovic equation and explain each term. What is half-wave potential?",
+      "answer": "1. id = 607 n D^½ m^⅔ t^⅙ C.\n2. id average diffusion current (µA); n electrons per molecule; D diffusion coefficient (cm²/s); m mercury flow rate (mg/s); t drop time (s); C concentration (mmol/L); 607 constant at 25 °C (708 for maximum current).\n3. m^⅔ t^⅙ = capillary characteristic; for fixed conditions id = kC — basis of quantitative polarography.\n4. Half-wave potential (E½): potential at which current is half the diffusion current; characteristic of the substance in a given supporting electrolyte, independent of concentration; used for identification.\n5. Two substances can be determined together if E½ differ by about 0.2 V.",
+      "tags": [
+        "polarography"
+      ]
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate the cell constant and molar conductance: a cell filled with 0.01 M KCl (κ = 0.001413 S cm⁻¹) shows conductance 0.001570 S; with a 0.02 M salt solution it shows 0.002800 S.",
+      "answer": "1. Cell constant = κ/G = 0.001413/0.001570 = 0.900 cm⁻¹.\n2. κ of sample = G × cell constant = 0.002800 × 0.900 = 0.002520 S cm⁻¹.\n3. Λm = κ × 1000/M = 0.002520 × 1000/0.02 = 126 S cm² mol⁻¹.\n4. Units: S cm⁻¹ for κ, S cm² mol⁻¹ for Λm.\n5. Keep temperature constant (about 2% change per °C).",
+      "tags": [
+        "conductometry",
+        "calculation"
+      ]
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is alternating current used in measuring conductance?",
+      "answer": "Direct current would electrolyse the solution and polarise the electrodes, changing composition and resistance; AC avoids this.",
+      "tags": [
+        "conductometry"
+      ]
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is a supporting electrolyte added in polarography?",
+      "answer": "A large excess of inert electrolyte (e.g. KCl) carries the current, removing the migration current so that the limiting current is controlled only by diffusion.",
+      "tags": [
+        "polarography"
+      ]
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the formol titration for the assay of ammonium chloride with the reaction and calculation.",
+      "answer": "1. NH4+ is too weak an acid (pKa about 9.25) to titrate directly with NaOH.\n2. Neutralised formaldehyde converts ammonium ions to hexamine, releasing an equivalent amount of strong acid: 4NH4Cl + 6HCHO → (CH2)6N4 + 4HCl + 6H2O.\n3. Liberated HCl titrated with 0.1 M NaOH using phenolphthalein; formaldehyde must first be neutralised to phenolphthalein.\n4. 1 ml of 0.1 M NaOH ≡ 0.005349 g NH4Cl (Mw 53.49).\n5. Example: 0.1050 g used 19.55 ml (f 1.004) → % = 19.55 × 1.004 × 0.005349 × 100/0.1050 = 100.0%.",
+      "tags": [
+        "acid-base",
+        "calculation"
+      ]
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain Fajans' method of precipitation titration with adsorption indicators.",
+      "answer": "1. Adsorption indicator: dye that changes colour when adsorbed on the precipitate surface.\n2. Chloride titrated with AgNO3: before equivalence AgCl adsorbs excess Cl− (negative surface), fluorescein anion stays in solution, yellow-green.\n3. After equivalence AgCl adsorbs Ag+ (positive surface), dye anion is attracted and forms a pink silver compound on the surface — end point.\n4. Indicators: fluorescein (Cl−, pH 7–10), dichlorofluorescein (Cl−, pH 4 upwards), eosin (Br−, I−, SCN−).\n5. Conditions: keep the precipitate colloidal (dextrin), avoid strong light, not too dilute, suitable pH.",
+      "tags": [
+        "precipitation"
+      ]
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the principle of bromatometry with the assay of phenol.",
+      "answer": "1. Standard KBrO3 (primary standard, 0.0167 M = 0.1 N) with excess KBr in acid releases bromine: BrO3− + 5Br− + 6H+ → 3Br2 + 3H2O.\n2. Phenol is brominated: C6H5OH + 3Br2 → 2,4,6-tribromophenol + 3HBr.\n3. Excess bromine is reacted with KI (Br2 + 2I− → 2Br− + I2) and liberated iodine titrated with 0.1 M thiosulphate, starch; a blank is run.\n4. 1 mol phenol ≡ 3 Br2 ≡ 6 thiosulphate; 1 ml 0.1 M thiosulphate (difference blank − sample) ≡ 0.001569 g phenol (94.11/6/10).\n5. Other uses: resorcinol, cresols, isoniazid, metronidazole, As(III) with methyl orange as irreversible indicator.",
+      "tags": [
+        "redox"
+      ]
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods of locating the end point in potentiometric titrations with a worked example.",
+      "answer": "1. Plot E (or pH) vs volume: S-shaped curve, end point at inflection.\n2. First derivative ΔE/ΔV vs mean volume: peak at end point.\n3. Second derivative Δ²E/ΔV² vs volume: crosses zero at end point.\n4. Gran's plot: linear function of E before the end point extrapolated to the axis.\n5. Example (HCl vs NaOH): pH 4.3 at 24.8 ml, 7.0 at 25.0 ml, 9.7 at 25.2 ml; ΔpH/ΔV = 13.5 for both intervals around 25.0 ml, much larger than 1.5 outside — end point 25.0 ml.",
+      "tags": [
+        "potentiometry",
+        "calculation"
+      ]
+    }
+  ]
+}

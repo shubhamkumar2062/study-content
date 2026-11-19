@@ -1,0 +1,148 @@
+{
+  "code": "BP102T",
+  "title": "Pharmaceutical Analysis I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP102T Pharmaceutical Analysis I and BP108P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP102T_B.Pharma-pages-3.pdf"
+  },
+  "practicalCodes": [
+    "BP108P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Pharmaceutical analysis, standard solutions, errors, impurities and limit tests",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Acid–base titrations and non-aqueous titrations",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Precipitation, complexometric and diazotisation titrations, and gravimetry",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Redox titrations",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Electrochemical methods: conductometry, potentiometry and polarography",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "limit-chloride",
+      "title": "Limit test for chloride",
+      "file": "practicals/limit-chloride.md"
+    },
+    {
+      "id": "limit-sulphate",
+      "title": "Limit test for sulphate",
+      "file": "practicals/limit-sulphate.md"
+    },
+    {
+      "id": "limit-iron",
+      "title": "Limit test for iron",
+      "file": "practicals/limit-iron.md"
+    },
+    {
+      "id": "limit-arsenic",
+      "title": "Limit test for arsenic",
+      "file": "practicals/limit-arsenic.md"
+    },
+    {
+      "id": "std-sodium-hydroxide",
+      "title": "Preparation and standardisation of 0.1 M sodium hydroxide",
+      "file": "practicals/std-sodium-hydroxide.md"
+    },
+    {
+      "id": "std-sulphuric-acid",
+      "title": "Preparation and standardisation of 0.05 M sulphuric acid",
+      "file": "practicals/std-sulphuric-acid.md"
+    },
+    {
+      "id": "std-sodium-thiosulphate",
+      "title": "Preparation and standardisation of 0.1 M sodium thiosulphate",
+      "file": "practicals/std-sodium-thiosulphate.md"
+    },
+    {
+      "id": "std-potassium-permanganate",
+      "title": "Preparation and standardisation of 0.02 M potassium permanganate",
+      "file": "practicals/std-potassium-permanganate.md"
+    },
+    {
+      "id": "std-ceric-ammonium-sulphate",
+      "title": "Preparation and standardisation of 0.1 M ceric ammonium sulphate",
+      "file": "practicals/std-ceric-ammonium-sulphate.md"
+    },
+    {
+      "id": "assay-ammonium-chloride",
+      "title": "Assay of ammonium chloride by acid–base (formol) titration",
+      "file": "practicals/assay-ammonium-chloride.md"
+    },
+    {
+      "id": "assay-ferrous-sulphate",
+      "title": "Assay of ferrous sulphate by cerimetry",
+      "file": "practicals/assay-ferrous-sulphate.md"
+    },
+    {
+      "id": "assay-copper-sulphate",
+      "title": "Assay of copper sulphate by iodometry",
+      "file": "practicals/assay-copper-sulphate.md"
+    },
+    {
+      "id": "assay-calcium-gluconate",
+      "title": "Assay of calcium gluconate by complexometry",
+      "file": "practicals/assay-calcium-gluconate.md"
+    },
+    {
+      "id": "assay-hydrogen-peroxide",
+      "title": "Assay of hydrogen peroxide by permanganometry",
+      "file": "practicals/assay-hydrogen-peroxide.md"
+    },
+    {
+      "id": "assay-sodium-benzoate",
+      "title": "Assay of sodium benzoate by non-aqueous titration",
+      "file": "practicals/assay-sodium-benzoate.md"
+    },
+    {
+      "id": "assay-sodium-chloride",
+      "title": "Assay of sodium chloride by precipitation titration",
+      "file": "practicals/assay-sodium-chloride.md"
+    },
+    {
+      "id": "conductometric-strong-acid",
+      "title": "Conductometric titration of strong acid against strong base",
+      "file": "practicals/conductometric-strong-acid.md"
+    },
+    {
+      "id": "conductometric-acid-mixture",
+      "title": "Conductometric titration of strong acid and weak acid against strong base",
+      "file": "practicals/conductometric-acid-mixture.md"
+    },
+    {
+      "id": "potentiometric-strong-acid",
+      "title": "Potentiometric titration of strong acid against strong base",
+      "file": "practicals/potentiometric-strong-acid.md"
+    }
+  ]
+}
