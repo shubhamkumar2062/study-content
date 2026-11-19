@@ -1,0 +1,482 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define cell injury. Describe the causes and the mechanism (pathogenesis) of cell injury, and distinguish reversible from irreversible injury.",
+      "answer": "1. Definition: cell injury is the set of changes produced in a cell when stress exceeds its ability to adapt; it may be reversible or end in cell death.\n2. Causes: hypoxia/ischaemia (most common), physical agents (trauma, heat, cold, radiation, electricity), chemicals and drugs (cyanide, CCl4, paracetamol overdose, alcohol), infectious agents, immunological reactions, genetic defects, nutritional imbalance, ageing.\n3. ATP depletion: loss of oxidative phosphorylation → Na+/K+-ATPase fails → Na+ and water enter → cell swelling; anaerobic glycolysis → lactic acid → low pH; ribosomes detach → less protein synthesis.\n4. Mitochondrial damage: permeability transition pores open, cytochrome c leaks → apoptosis; more free radicals.\n5. Calcium influx: raised cytosolic Ca2+ activates phospholipases, proteases, endonucleases, ATPases.\n6. Free radicals (superoxide, H2O2, hydroxyl): lipid peroxidation of membranes, protein cross-linking, DNA breaks; important in reperfusion injury.\n7. Membrane damage: loss of permeability; lysosomal enzymes leak and digest the cell; enzymes leak into blood (ALT, troponin).\n8. DNA and protein damage → apoptosis if not repaired.\n9. Flow: ↓O2 → ↓ATP → swelling (reversible) → continued hypoxia → membrane + mitochondrial damage + Ca2+ → necrosis (irreversible).\n10. Reversible: cell swelling, fatty change, blebs, ER swelling, ribosome detachment. Irreversible: severe mitochondrial damage, membrane rupture, nuclear changes (pyknosis, karyorrhexis, karyolysis)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is inflammation? Describe the vascular and cellular events of acute inflammation and list the chemical mediators with their actions.",
+      "answer": "1. Definition: protective response of vascularised tissue to injury that removes the cause and dead tissue and starts repair. Cardinal signs: rubor, calor, tumor, dolor, functio laesa.\n2. Vascular events: brief arteriolar vasoconstriction → vasodilatation (histamine, NO, PGs) → increased blood flow (redness, heat) → increased permeability (endothelial contraction in venules, direct injury, leukocyte injury, transcytosis, leaky new vessels) → protein-rich exudate (swelling) → stasis.\n3. Exudate vs transudate: protein-rich, SG above 1.020 vs protein-poor, SG below 1.012.\n4. Cellular events: margination → rolling (selectins) → firm adhesion (integrins with ICAM-1/VCAM-1, induced by TNF and IL-1) → transmigration/diapedesis (PECAM-1) → chemotaxis (C5a, LTB4, IL-8, bacterial products) → phagocytosis (opsonisation by C3b and IgG, engulfment, killing by reactive oxygen species and myeloperoxidase, digestion).\n5. Neutrophils first 6–24 h, then macrophages after 24–48 h.\n6. Mediators: histamine and serotonin (vasodilatation, permeability); prostaglandins (vasodilatation, pain, fever); thromboxane A2 (vasoconstriction, platelet aggregation); leukotrienes (LTB4 chemotaxis; LTC4/D4/E4 bronchoconstriction, permeability); PAF; cytokines TNF-α, IL-1, IL-6 (fever, endothelial activation, acute-phase proteins); chemokines (IL-8); nitric oxide; complement (C3a/C5a anaphylatoxins, C5a chemotaxis, C3b opsonin, C5b–9 lysis); bradykinin (pain, permeability).\n7. Arachidonic acid pathway: phospholipase A2 (blocked by steroids) → COX (blocked by NSAIDs) → PGs and TXA2; 5-lipoxygenase → leukotrienes.\n8. Outcomes: resolution, fibrosis, abscess, chronic inflammation."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the basic principles of wound healing in the skin. Compare healing by first and second intention and list the factors affecting healing.",
+      "answer": "1. Repair = regeneration (same cells) + fibrosis (scar).\n2. Phases: haemostasis (platelet plug, fibrin clot scaffold); inflammation (days 1–3: neutrophils then macrophages; growth factors PDGF, TGF-β, VEGF, FGF); proliferation (days 3–14: granulation tissue of new capillaries and fibroblasts, re-epithelialisation, type III collagen, myofibroblast contraction); maturation/remodelling (weeks–months: type III → type I collagen, pale scar, strength rises but never reaches normal).\n3. First intention: clean surgical wound, edges close, little granulation tissue, minimal contraction, thin scar, quick, low infection risk.\n4. Second intention: large gaping or infected wound with tissue loss, abundant granulation tissue from the base, marked wound contraction, large scar, slow.\n5. Local factors: infection (most important), poor blood supply, foreign body, movement, pressure, radiation, large size.\n6. Systemic factors: malnutrition (protein, vitamin C, zinc), diabetes, corticosteroids, old age, anaemia, poor circulation, chemotherapy.\n7. Complications: infection, dehiscence, hypertrophic scar, keloid, contracture, incisional hernia."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on cellular adaptations with examples.",
+      "answer": "1. Atrophy: decrease in cell size — thymus after puberty; muscle wasting after denervation or immobilisation.\n2. Hypertrophy: increase in cell size — uterus in pregnancy, left ventricle in hypertension.\n3. Hyperplasia: increase in cell number — breast in lactation, endometrial hyperplasia, benign prostatic hyperplasia.\n4. Metaplasia: one adult cell type replaced by another — columnar to squamous in smokers' bronchi; squamous to columnar in Barrett's oesophagus.\n5. Dysplasia: disordered growth with variation in size and shape and large dark nuclei — cervix; pre-cancerous.\n6. Adaptations are usually reversible when the stimulus is removed; dysplasia may progress to cancer."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between apoptosis and necrosis.",
+      "answer": "1. Nature: programmed, controlled vs accidental, uncontrolled.\n2. Extent: single cells vs groups of cells.\n3. Cell size: shrinks vs swells.\n4. Membrane: intact, apoptotic bodies vs ruptured.\n5. Nucleus: chromatin condensation and fragmentation vs pyknosis, karyorrhexis, karyolysis.\n6. Inflammation: none vs present.\n7. Enzymes: caspases vs lysosomal enzymes.\n8. Examples: embryonic development, removal of virus-infected or DNA-damaged cells vs infarction, burns, toxins."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain metabolic acidosis and metabolic alkalosis with causes and compensation.",
+      "answer": "1. Normal arterial pH 7.35–7.45; HCO3- 22–26 mEq/L.\n2. Metabolic acidosis: primary fall in HCO3-. Causes: diabetic ketoacidosis, lactic acidosis, renal failure, severe diarrhoea, methanol or salicylate poisoning.\n3. Anion gap = Na+ − (Cl- + HCO3-), about 8–12; raised with added acids, normal with bicarbonate loss (diarrhoea).\n4. Compensation: hyperventilation (Kussmaul breathing) lowers PaCO2.\n5. Effects: weak heart contraction, hypotension, confusion, hyperkalaemia.\n6. Metabolic alkalosis: primary rise in HCO3-. Causes: vomiting, nasogastric suction, diuretics, excess antacids, hypokalaemia.\n7. Compensation: hypoventilation raises PaCO2. Effects: tingling, tetany (low ionised Ca2+), arrhythmias."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the pathogenesis of atherosclerosis and its complications.",
+      "answer": "1. Risk factors: age, male sex, family history; high LDL, hypertension, smoking, diabetes, obesity, inactivity, low HDL.\n2. Endothelial injury/dysfunction → increased permeability and adhesion molecules.\n3. LDL enters intima and is oxidised.\n4. Monocytes enter, become macrophages and take up oxidised LDL → foam cells → fatty streak.\n5. Growth factors (PDGF) make smooth muscle cells migrate to intima, multiply and lay down collagen → fibrous cap over lipid core = atheroma.\n6. Complicated plaque: calcification, ulceration, rupture, thrombosis, haemorrhage.\n7. Complications: angina, MI, stroke, peripheral gangrene, aneurysm, embolism."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate dystrophic and metastatic calcification, and list common intracellular accumulations.",
+      "answer": "1. Dystrophic: in dead or degenerating tissue; serum calcium normal; atheroma, damaged valves, TB caseous necrosis, fat necrosis.\n2. Metastatic: in normal tissue; hypercalcaemia; hyperparathyroidism, vitamin D excess, bone-destroying tumours, renal failure; sites kidney, lung, stomach, vessels.\n3. Accumulations: lipids (fatty liver), cholesterol (foam cells), proteins (Russell bodies, Mallory bodies), glycogen (diabetes), exogenous pigment (carbon — anthracosis), endogenous pigments (lipofuscin, melanin, haemosiderin, bilirubin)."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "List the cardinal signs of inflammation.",
+      "answer": "Rubor (redness), calor (heat), tumor (swelling), dolor (pain) — described by Celsus — and functio laesa (loss of function), added by Virchow."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give two examples each of negative and positive feedback.",
+      "answer": "Negative: body temperature regulation, baroreceptor control of blood pressure (also blood glucose by insulin/glucagon). Positive: oxytocin and uterine contractions in labour, blood clotting cascade."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define hypertension. Classify it and discuss its pathogenesis, clinical features and complications.",
+      "answer": "1. Definition: persistent rise of arterial BP; diagnosed at 140/90 mmHg or above on repeated readings; normal below 120/80.\n2. Classification: stage 1 (140–159/90–99), stage 2 (160/100 or more); primary/essential (90–95%) and secondary.\n3. Secondary causes: renal (CKD, renal artery stenosis), endocrine (Conn's, Cushing's, phaeochromocytoma, hyperthyroidism), coarctation of aorta, pregnancy, drugs (oral contraceptives, steroids, NSAIDs).\n4. Pathogenesis: BP = cardiac output × peripheral resistance.\n5. RAAS: low renal perfusion → renin → angiotensin I → ACE → angiotensin II → vasoconstriction, aldosterone (Na+/water retention), ADH, thirst.\n6. Sympathetic overactivity: raised heart rate, contractility, vasoconstriction, renin.\n7. Sodium retention and high salt intake; endothelial dysfunction (less NO, more endothelin); vascular remodelling; obesity, insulin resistance, genetics, ageing.\n8. Clinical features: usually silent; occipital morning headache, dizziness, palpitations, epistaxis, blurred vision.\n9. Complications: heart (LVH, failure, IHD), brain (stroke, encephalopathy), kidney (nephrosclerosis, CKD), eye (retinopathy), vessels (atherosclerosis, aortic dissection); hypertensive crisis."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define congestive heart failure. Describe its causes, pathophysiology (compensatory mechanisms) and the features of left and right heart failure.",
+      "answer": "1. Definition: the heart cannot pump enough blood for tissue needs, or does so only at high filling pressures, with congestion.\n2. Causes: ischaemic heart disease, hypertension, valve disease, cardiomyopathy, myocarditis, arrhythmias, congenital disease; high-output states (anaemia, thyrotoxicosis).\n3. Precipitating factors: infection, uncontrolled BP, non-adherence, salt/fluid excess, NSAIDs.\n4. Types: systolic vs diastolic; left vs right; acute vs chronic; low vs high output.\n5. Compensation: low output → sympathetic activation (tachycardia, vasoconstriction), RAAS (salt and water retention), ADH, Frank–Starling mechanism, ventricular hypertrophy and remodelling; useful at first but increase preload, afterload and workload → vicious cycle.\n6. Left failure: dyspnoea, orthopnoea, paroxysmal nocturnal dyspnoea, cough, frothy sputum, basal crackles, pulmonary oedema, fatigue.\n7. Right failure: pitting ankle oedema, raised JVP, enlarged liver, ascites, anorexia; cor pulmonale when due to lung disease.\n8. NYHA classes I–IV.\n9. Complications: pulmonary oedema, arrhythmias, sudden death, renal failure, thromboembolism, cachexia."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe ischaemic heart disease. Discuss the types of angina and the pathogenesis, clinical features, diagnosis and complications of myocardial infarction.",
+      "answer": "1. IHD: imbalance between myocardial oxygen supply and demand; over 90% due to coronary atherosclerosis.\n2. Forms: angina, acute MI, chronic IHD, sudden cardiac death.\n3. Stable angina: fixed narrowing, pain on exertion, relieved by rest or nitrate.\n4. Unstable angina: plaque rupture with non-occlusive thrombus, pain at rest or crescendo, high MI risk.\n5. Prinzmetal angina: coronary spasm, pain at rest, transient ST elevation.\n6. MI pathogenesis: plaque rupture → platelet adhesion and aggregation (TXA2, ADP) → coagulation → occlusive thrombus → ATP loss → irreversible injury after about 20–40 min → necrosis spreads subendocardium to full thickness.\n7. Types: transmural (STEMI), subendocardial (NSTEMI).\n8. Features: crushing retrosternal pain > 20–30 min not relieved by nitrates, radiating to arm/jaw; sweating, nausea, breathlessness, anxiety; silent MI in diabetics and elderly.\n9. Diagnosis: ECG (ST elevation, Q waves), troponin I/T (most specific), CK-MB.\n10. Complications: arrhythmias (VF), heart failure, cardiogenic shock, rupture, aneurysm, pericarditis, mural thrombus and embolism."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the pathogenesis and clinical features of bronchial asthma.",
+      "answer": "1. Chronic airway inflammation with reversible obstruction and hyper-responsiveness.\n2. Types: extrinsic (allergic, IgE) and intrinsic; drug-induced (aspirin, β-blockers), occupational, exercise-induced.\n3. Sensitisation: allergen → Th2 cells → IL-4, IL-5, IL-13 → IgE binds mast cells.\n4. Early phase: mast cell degranulation → histamine, LTC4/D4/E4, PGD2 → bronchospasm, oedema, mucus.\n5. Late phase (4–8 h): eosinophils, Th2 cells → inflammation, epithelial damage.\n6. Remodelling: smooth muscle hypertrophy, thick basement membrane, goblet cell hyperplasia.\n7. Features: episodic wheeze, dyspnoea, chest tightness, night cough, prolonged expiration, low PEF improving with bronchodilator.\n8. Complications: status asthmaticus, respiratory failure, pneumothorax."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on chronic obstructive pulmonary disease (chronic bronchitis and emphysema).",
+      "answer": "1. Persistent, poorly reversible airflow limitation; post-bronchodilator FEV1/FVC below 0.70.\n2. Causes: cigarette smoking (main), biomass smoke, pollution, α1-antitrypsin deficiency.\n3. Chronic bronchitis: productive cough at least 3 months in 2 consecutive years; mucus gland hypertrophy, goblet cell hyperplasia; cyanosis, oedema (blue bloater).\n4. Emphysema: permanent enlargement of airspaces distal to terminal bronchiole with wall destruction; protease–antiprotease imbalance (neutrophil elastase vs α1-antitrypsin); loss of elastic recoil; pursed lips, barrel chest (pink puffer).\n5. Centriacinar (smokers, upper lobes) vs panacinar (α1-antitrypsin deficiency, lower lobes).\n6. Complications: exacerbations, respiratory failure, cor pulmonale, polycythaemia, pneumothorax."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate acute renal failure from chronic renal failure.",
+      "answer": "1. Onset: sudden (hours–days) vs slow (months–years).\n2. Reversibility: often reversible vs irreversible, progressive.\n3. Causes: pre-renal (dehydration, shock), renal (acute tubular necrosis, nephrotoxic drugs), post-renal (obstruction) vs diabetes, hypertension, chronic glomerulonephritis, polycystic kidney.\n4. Definition: rapid rise of creatinine, oliguria < 400 ml/day vs GFR < 60 ml/min/1.73 m2 for > 3 months.\n5. Kidney size: normal vs usually small and scarred.\n6. Anaemia (low erythropoietin) and renal osteodystrophy: absent vs present.\n7. Phases: oliguric, diuretic, recovery vs stages 1–5 ending in ESRD needing dialysis.\n8. Both: hyperkalaemia, acidosis, fluid overload, uraemia; reduce doses of renally cleared drugs."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the complications of chronic kidney disease and their causes.",
+      "answer": "1. Fluid overload, oedema and hypertension (salt and water retention).\n2. Hyperkalaemia and metabolic acidosis (reduced excretion of K+ and H+).\n3. Normocytic anaemia — lack of erythropoietin.\n4. Renal osteodystrophy — less 1-α hydroxylation of vitamin D, phosphate retention, hypocalcaemia, secondary hyperparathyroidism.\n5. Uraemia — nausea, itching, confusion, pericarditis, neuropathy.\n6. Cardiovascular disease — LVH, heart failure, atherosclerosis (main cause of death).\n7. Bleeding tendency, infections, altered drug handling."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate arteriosclerosis and atherosclerosis.",
+      "answer": "1. Arteriosclerosis: general term for thickening and loss of elasticity (hardening) of arterial walls.\n2. Forms: atherosclerosis, Mönckeberg medial calcific sclerosis, arteriolosclerosis (hyaline and hyperplastic).\n3. Atherosclerosis: lipid-rich intimal plaques in large and medium arteries; narrows lumen; causes MI, stroke, gangrene.\n4. Mönckeberg: calcium in media of medium arteries of elderly; no narrowing.\n5. Arteriolosclerosis: small arteries/arterioles; hyaline in hypertension and diabetes; onion-skin in malignant hypertension.\n6. All atherosclerosis is arteriosclerosis, but not vice versa."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is orthopnoea and what does it indicate?",
+      "answer": "Breathlessness on lying flat, relieved by sitting up. It indicates left heart failure: lying down returns more blood to the congested lungs."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the most specific blood marker for myocardial infarction.",
+      "answer": "Cardiac troponin (I or T); it rises within a few hours and stays raised for about 1–2 weeks."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define diabetes mellitus. Classify it and discuss the pathogenesis, clinical features and complications of type 1 and type 2 diabetes.",
+      "answer": "1. Definition: metabolic disorder with chronic hyperglycaemia from defective insulin secretion, action or both.\n2. Diagnosis: FPG ≥ 126 mg/dL, 2-h OGTT ≥ 200, HbA1c ≥ 6.5%, or random ≥ 200 with symptoms.\n3. Classification: type 1, type 2, gestational, other (pancreatitis, Cushing's, steroids).\n4. Type 1: autoimmune T-cell destruction of β-cells (antibodies to GAD, islets) in genetically prone people, viral trigger; absolute insulin deficiency; young, thin, sudden onset, ketoacidosis; 5–10%.\n5. Type 2: insulin resistance (muscle, fat, liver) plus progressive β-cell failure; obesity, inactivity, family history; adults, slow onset; about 90%.\n6. Symptoms: hyperglycaemia → glycosuria above renal threshold (about 180 mg/dL) → osmotic diuresis → polyuria, polydipsia; polyphagia, weight loss, fatigue, infections, slow healing.\n7. Acute complications: DKA (ketones, acidosis, Kussmaul breathing), hyperosmolar hyperglycaemic state, hypoglycaemia.\n8. Chronic microvascular: retinopathy, nephropathy, neuropathy. Macrovascular: coronary disease, stroke, peripheral arterial disease.\n9. Others: diabetic foot, infections, cataract.\n10. Mechanisms of damage: protein glycation (AGEs), sorbitol pathway, oxidative stress."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify anaemias. Describe the causes, pathogenesis and blood picture of iron deficiency anaemia and megaloblastic anaemia.",
+      "answer": "1. Anaemia: Hb below 13 g/dL (men), 12 (women), 11 (pregnancy).\n2. Classification by MCV: microcytic hypochromic (iron deficiency, thalassaemia), normocytic (blood loss, CKD, aplastic, haemolytic), macrocytic (B12, folate). By cause: blood loss, decreased production, increased destruction.\n3. Iron deficiency causes: chronic blood loss (menorrhagia, hookworm, ulcer, piles, NSAIDs), increased need (pregnancy, growth), poor intake, malabsorption.\n4. Pathogenesis: stores (ferritin) fall → serum iron falls, TIBC rises → haem synthesis fails → small pale cells.\n5. Features: fatigue, pallor, koilonychia, glossitis, angular stomatitis, pica. Blood: low Hb, MCV, MCH, low ferritin, high TIBC.\n6. Megaloblastic: B12 or folate lack impairs DNA synthesis → nuclear-cytoplasmic asynchrony → megaloblasts, macrocytes, ineffective erythropoiesis.\n7. B12 causes: pernicious anaemia (no intrinsic factor), vegan diet, gastrectomy, ileal disease. Folate causes: poor diet, pregnancy, alcohol, methotrexate, phenytoin.\n8. B12 lack causes neurological damage (subacute combined degeneration); folate lack does not; folate needed to prevent neural tube defects.\n9. Blood: raised MCV, oval macrocytes, hypersegmented neutrophils, raised LDH and bilirubin."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the aetiology, pathogenesis and clinical features of Parkinson's disease and Alzheimer's disease.",
+      "answer": "1. Parkinson's: progressive degenerative movement disorder of the elderly.\n2. Pathogenesis: loss of dopaminergic neurons of substantia nigra pars compacta → low striatal dopamine, relative ACh excess; Lewy bodies of α-synuclein; oxidative stress, mitochondrial dysfunction, genes, toxins (MPTP, pesticides).\n3. Features (TRAP): resting pill-rolling tremor, lead-pipe/cog-wheel rigidity, akinesia/bradykinesia (mask face, micrographia), postural instability with shuffling gait; non-motor: depression, constipation, anosmia, dementia.\n4. Drug-induced parkinsonism: antipsychotics, metoclopramide.\n5. Alzheimer's: commonest cause of dementia, usually after 65.\n6. Pathology: extracellular β-amyloid plaques, intracellular neurofibrillary tangles of hyperphosphorylated tau, neuron loss in hippocampus and cortex, brain atrophy; cholinergic deficit (nucleus basalis of Meynert).\n7. Risk factors: age, family history, ApoE ε4, Down syndrome, head injury.\n8. Features: loss of recent memory, disorientation, language problems, poor judgement, personality change, later total dependence."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the pathogenesis, clinical features and complications of peptic ulcer.",
+      "answer": "1. Break in gastric or duodenal mucosa through muscularis mucosae due to acid and pepsin.\n2. Aggressive factors: acid, pepsin, H. pylori, NSAIDs, smoking, alcohol, Zollinger–Ellison syndrome.\n3. Protective factors: mucus–bicarbonate layer, prostaglandins, blood flow, cell renewal.\n4. H. pylori: urease makes ammonia, toxins and inflammation damage mucosa, raise gastrin and acid. NSAIDs block COX → less protective PG.\n5. Duodenal ulcer: pain 2–3 h after meals and at night, relieved by food. Gastric: pain soon after food, weight loss.\n6. Complications: haemorrhage (haematemesis, melaena), perforation, pyloric obstruction, malignancy (gastric)."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on sickle cell anaemia.",
+      "answer": "1. Autosomal recessive; point mutation in β-globin gene: glutamic acid → valine at position 6 → HbS.\n2. Low O2, dehydration, acidosis, infection → HbS polymerises → rigid sickle cells.\n3. Sickle cells block small vessels → ischaemia, painful crises; and are destroyed early → haemolytic anaemia.\n4. Features: chronic anaemia, jaundice, gallstones, bone/chest/abdominal pain, hand–foot syndrome, stroke, acute chest syndrome, leg ulcers, autosplenectomy and infections, aplastic crisis (parvovirus B19).\n5. Trait (HbAS) usually symptom-free and partly protective against falciparum malaria."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare hyperthyroidism and hypothyroidism.",
+      "answer": "1. Common cause: Graves' disease (TSH-receptor stimulating antibodies) vs Hashimoto's thyroiditis, iodine deficiency.\n2. Metabolism: raised vs reduced.\n3. Weight: loss despite good appetite vs gain.\n4. Temperature: heat intolerance, sweating vs cold intolerance, dry skin.\n5. Heart: tachycardia, atrial fibrillation vs bradycardia.\n6. Bowel: diarrhoea vs constipation.\n7. Nervous: tremor, anxiety vs slowness, depression, slow reflexes.\n8. Special: exophthalmos vs myxoedema; cretinism in infants.\n9. Tests: high T3/T4, low TSH vs low T4, high TSH (primary)."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on haemophilia.",
+      "answer": "1. Inherited bleeding disorder from clotting factor deficiency.\n2. Haemophilia A: factor VIII (more common); haemophilia B (Christmas disease): factor IX.\n3. X-linked recessive: males affected, females carriers, no father-to-son transmission.\n4. Features: easy bruising, prolonged bleeding after injury, dental extraction or surgery; haemarthrosis of knees, elbows, ankles leading to joint deformity; muscle and intracranial bleeds.\n5. Tests: prolonged aPTT; normal PT, platelets, bleeding time; factor assay.\n6. Avoid aspirin, NSAIDs and IM injections."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the pathophysiology of epilepsy and classify seizures.",
+      "answer": "1. Seizure: sudden, excessive, synchronous neuronal discharge; epilepsy: recurrent unprovoked seizures.\n2. Mechanism: imbalance between excitation (glutamate, Na+ and Ca2+ channels) and inhibition (GABA).\n3. Causes: genetic, birth injury, head injury, tumour, stroke, infection (meningitis, neurocysticercosis), febrile, metabolic, alcohol withdrawal.\n4. Focal: aware (simple partial), impaired awareness (complex partial), focal to bilateral tonic-clonic.\n5. Generalised: tonic-clonic (grand mal), absence (petit mal, 3 Hz spike-wave), myoclonic, atonic, tonic.\n6. Status epilepticus: seizure lasting 5 minutes or more, or repeated without recovery — emergency."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the dopamine hypothesis of schizophrenia and the monoamine hypothesis of depression.",
+      "answer": "1. Schizophrenia: positive symptoms (hallucinations, delusions), negative (flat affect, withdrawal), cognitive.\n2. Dopamine hypothesis: mesolimbic D2 overactivity → positive symptoms; mesocortical underactivity → negative symptoms; amphetamines cause psychosis, antipsychotics block D2. Glutamate (NMDA hypofunction) also involved.\n3. Depression: low mood, anhedonia ≥ 2 weeks, sleep and appetite change, guilt, suicidal thoughts.\n4. Monoamine hypothesis: reduced noradrenaline and serotonin activity; reserpine causes depression; antidepressants raise monoamines.\n5. Delay of weeks in response points to receptor adaptation, HPA axis overactivity (high cortisol) and reduced BDNF."
+    },
+    {
+      "id": "u3-s07",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate ischaemic and haemorrhagic stroke.",
+      "answer": "1. Stroke: sudden vascular loss of brain function lasting over 24 h; TIA resolves fully.\n2. Ischaemic (80–85%): thrombosis on atheroma, cardiac embolism (atrial fibrillation), lacunar disease.\n3. Haemorrhagic (15–20%): intracerebral (hypertension), subarachnoid (ruptured berry aneurysm, sudden severe headache).\n4. Ischaemic pathophysiology: core infarct with surrounding penumbra; energy failure, glutamate excitotoxicity, Ca2+ influx, free radicals.\n5. Risk factors: hypertension (most important), diabetes, smoking, AF, lipids.\n6. Features: FAST — face droop, arm weakness, speech difficulty; hemiplegia, sensory and visual loss."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the mutation in sickle cell anaemia?",
+      "answer": "A point mutation in the β-globin gene that replaces glutamic acid by valine at position 6, forming haemoglobin S."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why does vitamin B12 deficiency cause neurological damage but folate deficiency does not?",
+      "answer": "B12 is needed for myelin maintenance (methylmalonyl-CoA pathway) as well as DNA synthesis, so its lack causes subacute combined degeneration of the cord; folate is needed only in the DNA pathway."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is cancer? Differentiate benign and malignant tumours and describe the aetiology and pathogenesis of cancer.",
+      "answer": "1. Neoplasm: abnormal mass with excessive, uncoordinated growth persisting after the stimulus stops; cancer = malignant neoplasm.\n2. Benign vs malignant: slow vs fast growth; capsule vs none; expansion vs invasion; no metastasis vs metastasis; well vs poorly differentiated (anaplasia); uniform vs pleomorphic cells with abnormal mitoses; rare vs common recurrence.\n3. Naming: epithelial — papilloma/adenoma vs carcinoma; mesenchymal — lipoma, osteoma vs sarcoma; leukaemia, lymphoma, melanoma.\n4. Aetiology: chemicals (tobacco, gutka, aflatoxin, asbestos, benzene), radiation (UV, ionising), viruses (HPV, HBV, HCV, EBV, HTLV-1, HHV-8), H. pylori, hormones, heredity (BRCA, RB, APC), age, obesity, alcohol, chronic inflammation.\n5. Pathogenesis: non-lethal DNA damage in one cell → clonal growth.\n6. Gene targets: oncogenes activated (RAS, MYC, HER2), tumour suppressors lost (p53, RB, APC — two-hit), apoptosis genes (BCL-2), DNA repair genes.\n7. Multistep: initiation → promotion → progression.\n8. Hallmarks: growth signals, insensitivity to inhibitors, evasion of apoptosis, limitless replication (telomerase), angiogenesis (VEGF), invasion and metastasis, altered metabolism, immune evasion.\n9. Spread: lymphatic (carcinomas), blood (sarcomas; liver, lung, bone), seeding of cavities; grading and TNM staging."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define jaundice. Describe bilirubin metabolism and differentiate pre-hepatic, hepatic and post-hepatic jaundice.",
+      "answer": "1. Jaundice: yellow skin and sclera from raised serum bilirubin; normal below about 1 mg/dL, visible at about 2–3 mg/dL.\n2. Metabolism: old RBCs → haem → biliverdin → unconjugated bilirubin (on albumin, not in urine) → liver conjugation by UDP-glucuronyl transferase → conjugated (water-soluble) → bile → gut → urobilinogen → stercobilin (stool) and some urobilinogen in urine.\n3. Pre-hepatic (haemolytic): haemolytic anaemias, malaria, transfusion reaction, neonatal; unconjugated bilirubin; no bilirubin in urine; urobilinogen increased; dark stools; normal liver enzymes.\n4. Hepatic: viral hepatitis, alcohol, drugs, cirrhosis, Gilbert syndrome; both fractions raised; urine bilirubin present; high ALT/AST.\n5. Post-hepatic (obstructive): gallstones, carcinoma head of pancreas, strictures; conjugated raised; dark urine, absent urobilinogen, pale clay stools, itching, high ALP and GGT.\n6. Neonatal jaundice and kernicterus risk."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the pathogenesis, clinical features and complications of rheumatoid arthritis. Add a note on gout.",
+      "answer": "1. RA: chronic systemic autoimmune disease of synovium; symmetrical polyarthritis; women 3:1.\n2. Pathogenesis: HLA-DR4 + trigger (smoking) → citrullinated proteins → autoreactive T and B cells → RF and anti-CCP → TNF-α, IL-1, IL-6 → synovial proliferation = pannus → erosion of cartilage and bone → ankylosis.\n3. Features: symmetrical small-joint pain and swelling (MCP, PIP, wrist), morning stiffness > 1 h, ulnar deviation, swan-neck and boutonnière deformities; fatigue, anaemia; nodules, lung fibrosis, vasculitis, Sjögren's.\n4. Tests: high ESR/CRP, RF, anti-CCP, X-ray erosions.\n5. Gout: hyperuricaemia (saturation about 6.8 mg/dL) → monosodium urate crystals in joints.\n6. Causes: under-excretion (90%: CKD, diuretics, low-dose aspirin, pyrazinamide) and over-production (purine-rich food, alcohol, tumour lysis, Lesch–Nyhan).\n7. Attack: crystals → neutrophils/macrophages → NLRP3 inflammasome → IL-1β; podagra (first MTP joint).\n8. Stages: asymptomatic, acute, intercritical, chronic tophaceous; uric acid stones.\n9. Diagnosis: needle-shaped negatively birefringent crystals."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate Crohn's disease and ulcerative colitis.",
+      "answer": "1. Site: mouth to anus, terminal ileum vs colon only, starts at rectum.\n2. Distribution: skip lesions vs continuous.\n3. Depth: transmural vs mucosa and submucosa.\n4. Gross: cobblestone, fissures, strictures vs shallow ulcers, pseudopolyps.\n5. Microscopy: non-caseating granulomas vs crypt abscesses.\n6. Fistulae: common vs rare.\n7. Rectal bleeding: less vs common bloody diarrhoea.\n8. Smoking: worsens vs protective.\n9. Special complications: malabsorption, perianal disease vs toxic megacolon; both raise colon cancer risk."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a comparative note on hepatitis viruses A to E.",
+      "answer": "1. A: RNA, faeco-oral, no chronic state, vaccine.\n2. B: DNA, blood/sexual/perinatal, chronic in under about 5% of adults but about 90% of infected newborns, cirrhosis and liver cancer, vaccine; HBsAg marker.\n3. C: RNA, blood, majority become chronic, cirrhosis and cancer, no vaccine.\n4. D: defective virus needing HBsAg of HBV; co-infection or superinfection worsens disease.\n5. E: RNA, faeco-oral, water-borne epidemics in India, high mortality in pregnancy.\n6. 'F' was proposed but never confirmed as a separate virus.\n7. Liver damage mainly from the host T-cell response; outcomes: recovery, fulminant failure, chronic hepatitis, cirrhosis, carcinoma."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the stages and pathogenesis of alcoholic liver disease.",
+      "answer": "1. Stages: fatty liver (reversible) → alcoholic hepatitis (necrosis, neutrophils, Mallory bodies) → micronodular cirrhosis (irreversible).\n2. Acetaldehyde toxicity: binds proteins, damages mitochondria and microtubules.\n3. Excess NADH: promotes fat synthesis, blocks fatty acid oxidation.\n4. CYP2E1 induction: free radicals, oxidative stress.\n5. Endotoxin → Kupffer cells → TNF-α → inflammation.\n6. Activated stellate cells → collagen → fibrosis.\n7. Complications of cirrhosis: portal hypertension with varices, ascites, encephalopathy, bleeding, jaundice, hormonal changes, hepatorenal syndrome, liver cancer."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define osteoporosis and discuss its types, causes and complications.",
+      "answer": "1. Low bone mass with micro-architectural deterioration → fragility and fractures; mineralisation normal.\n2. WHO DEXA: T-score −2.5 or lower; osteopenia −1 to −2.5.\n3. Mechanism: osteoclastic resorption exceeds osteoblastic formation.\n4. Type I postmenopausal: oestrogen loss → more RANKL → trabecular loss → vertebral and wrist fractures.\n5. Type II senile: ageing, less calcium and vitamin D → hip fractures.\n6. Secondary: corticosteroids, heparin, anticonvulsants, hyperthyroidism, hyperparathyroidism, Cushing's, immobility.\n7. Complications: vertebral collapse, kyphosis, height loss, Colles' and hip fractures."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain how oncogenes and tumour suppressor genes contribute to cancer.",
+      "answer": "1. Proto-oncogenes promote normal growth; gain-of-function mutation, amplification or translocation makes them oncogenes (RAS, MYC, HER2, BCR-ABL) — one mutated copy is enough.\n2. Tumour suppressors brake the cell cycle or trigger apoptosis (p53, RB, APC, BRCA); both copies must be lost (Knudson's two-hit).\n3. p53 halts the cycle for DNA repair or causes apoptosis — guardian of the genome.\n4. Loss of apoptosis genes control (BCL-2 over-expression) lets damaged cells survive.\n5. Defective DNA repair speeds mutation.\n6. Accumulation of these changes gives uncontrolled growth, invasion and metastasis."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is podagra?",
+      "answer": "An acute attack of gouty arthritis in the first metatarsophalangeal joint (big toe), the classic first presentation of gout."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which hepatitis viruses spread by the faeco-oral route?",
+      "answer": "Hepatitis A and hepatitis E; both cause acute hepatitis without a chronic state in healthy people."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the aetiology, pathogenesis, clinical features, complications and diagnosis of tuberculosis.",
+      "answer": "1. Cause: Mycobacterium tuberculosis — slow-growing aerobic acid-fast bacillus (mycolic acid wall; Ziehl–Neelsen stain); M. bovis via milk.\n2. Spread: airborne droplet nuclei from open pulmonary TB. Risk: HIV, malnutrition, diabetes, overcrowding, smoking, alcohol, steroids.\n3. Pathogenesis: alveolar macrophages ingest bacilli which survive by blocking phagosome–lysosome fusion → Th1 immunity after about 3 weeks → IFN-γ activates macrophages → granuloma of epithelioid cells, Langhans giant cells, lymphocytes with central caseous necrosis; tuberculin test turns positive.\n4. Primary TB: Ghon focus + hilar nodes = Ghon complex; heals with calcification; latent bacilli; may progress (miliary TB, meningitis) in infants and the immunocompromised.\n5. Secondary TB: reactivation in apex of upper lobe → caseation → cavity → spread, haemoptysis.\n6. Features: cough ≥ 2 weeks, sputum, haemoptysis, chest pain, evening fever, night sweats, weight loss, anorexia.\n7. Extrapulmonary: lymph nodes, pleura, spine (Pott's), meninges, abdomen, kidney, bones.\n8. Complications: haemoptysis, effusion, empyema, pneumothorax, fibrosis, bronchiectasis, MDR-TB.\n9. Diagnosis: sputum AFB smear, CBNAAT/GeneXpert (with rifampicin resistance), culture, chest X-ray, tuberculin test/IGRA, biopsy."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the pathogenesis of HIV infection, the stages of the disease and the opportunistic infections of AIDS.",
+      "answer": "1. Cause: HIV-1/HIV-2, RNA retrovirus (lentivirus) with reverse transcriptase.\n2. Spread: unprotected sex, blood and products, shared needles, mother to child (pregnancy, delivery, breastfeeding); not by casual contact or insects.\n3. Entry: gp120 binds CD4 and co-receptor CCR5 or CXCR4 on helper T cells, macrophages, dendritic cells; gp41 mediates fusion.\n4. Replication: reverse transcriptase makes DNA → integrase inserts provirus into host DNA → transcription → protease cleaves proteins → budding.\n5. CD4 cell loss by direct killing, immune destruction and apoptosis → loss of cell-mediated immunity.\n6. Stages: acute infection (flu-like illness, high viral load), clinical latency (years, lymphadenopathy, falling CD4), symptomatic (weight loss, thrush, zoster), AIDS (CD4 below 200 cells/µL or AIDS-defining illness).\n7. Opportunistic infections: tuberculosis (commonest in India), Pneumocystis jirovecii pneumonia, oesophageal candidiasis, cryptococcal meningitis, cerebral toxoplasmosis, CMV retinitis, MAC.\n8. Cancers: Kaposi sarcoma (HHV-8), non-Hodgkin lymphoma, cervical cancer; HIV dementia, wasting.\n9. Diagnosis: ELISA/rapid tests confirmed; CD4 count and viral load for monitoring."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the pathogenesis, clinical features, complications and laboratory diagnosis of typhoid fever.",
+      "answer": "1. Cause: Salmonella enterica serotype Typhi (paratyphoid A, B, C); gram-negative motile bacillus; humans only host.\n2. Spread: faeco-oral via food or water contaminated by patients or carriers; incubation about 10–14 days.\n3. Pathogenesis: bacilli invade Peyer's patches via M cells → survive in macrophages → mesenteric nodes → primary bacteraemia → multiply in liver, spleen, marrow → secondary bacteraemia with fever → gallbladder → bile → re-infect intestine → Peyer's patches ulcerate in 2nd–3rd week.\n4. Week 1: step-ladder fever, headache, abdominal pain, constipation, relative bradycardia.\n5. Week 2: high fever, rose spots, hepatosplenomegaly, coated tongue, toxic state.\n6. Week 3: intestinal haemorrhage and perforation, encephalopathy, myocarditis.\n7. Other complications: cholecystitis, hepatitis, osteomyelitis, relapse, chronic gallbladder carrier.\n8. Diagnosis: blood culture in first week (bone marrow most sensitive); stool and urine culture later; Widal test from second week, rising titre more useful, false positives common."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate tuberculoid and lepromatous leprosy.",
+      "answer": "1. Cause: Mycobacterium leprae; spread by nasal droplets after prolonged contact; long incubation.\n2. Immunity: good cell-mediated (Th1) vs poor (Th2).\n3. Bacilli: few vs very many (globi).\n4. Lesions: few large well-defined anaesthetic hypopigmented patches vs many symmetrical nodules, leonine facies, loss of eyebrows.\n5. Nerves: early asymmetrical thickening vs late symmetrical glove-and-stocking loss.\n6. Lepromin test: positive vs negative.\n7. Histology: granulomas vs foamy macrophages.\n8. Infectivity: low vs high.\n9. WHO: paucibacillary (≤5 lesions, smear negative) vs multibacillary (>5 lesions, nerve involvement or smear positive)."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on meningitis with CSF findings.",
+      "answer": "1. Inflammation of pia and arachnoid.\n2. Causes: bacterial (S. pneumoniae, N. meningitidis, H. influenzae b; E. coli, group B strep, Listeria in neonates), viral (enteroviruses), tuberculous, fungal (Cryptococcus in AIDS).\n3. Pathogenesis: nasopharyngeal colonisation → bacteraemia → crosses blood–brain barrier → cytokines → neutrophil exudate → raised intracranial pressure.\n4. Features: fever, headache, neck stiffness, photophobia, vomiting, confusion; Kernig's and Brudzinski's signs; purpuric rash in meningococcal disease.\n5. CSF bacterial: turbid, neutrophils, high protein, low glucose; viral: clear, lymphocytes, normal glucose; TB: lymphocytes, high protein, low glucose, cobweb.\n6. Complications: deafness, hydrocephalus, abscess, seizures, death."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the stages of syphilis.",
+      "answer": "1. Cause: Treponema pallidum, spirochaete; spread sexually and across placenta.\n2. Primary (about 3 weeks): painless indurated chancre with painless regional lymphadenopathy; heals spontaneously.\n3. Secondary (6 weeks–6 months): generalised rash including palms and soles, mucous patches, condylomata lata, fever, lymphadenopathy, patchy alopecia; highly infectious.\n4. Latent: no symptoms, serology positive.\n5. Tertiary: gummas; cardiovascular (aortitis, aneurysm, aortic regurgitation); neurosyphilis (tabes dorsalis, general paresis, Argyll Robertson pupils).\n6. Congenital: stillbirth, snuffles, saddle nose, Hutchinson's teeth, sabre shins.\n7. Tests: dark-ground microscopy; VDRL/RPR (screening, follow-up); TPHA/FTA-ABS (confirmation)."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on urinary tract infection.",
+      "answer": "1. Infection of bladder (cystitis), urethra, kidney (pyelonephritis) or prostate.\n2. Organisms: E. coli (most), Klebsiella, Proteus, Enterococcus, S. saprophyticus, Pseudomonas (catheters).\n3. Mostly ascending; fimbriae help adhesion.\n4. Risk: female sex, sexual activity, pregnancy, obstruction (prostate, stones), catheters, reflux, diabetes.\n5. Cystitis: dysuria, frequency, urgency, suprapubic pain, cloudy urine. Pyelonephritis: fever with rigors, loin pain, vomiting.\n6. Diagnosis: dipstick (nitrite, leukocyte esterase), microscopy, culture ≥ 10^5 CFU/ml.\n7. Complications: recurrence, renal scarring, abscess, urosepsis, preterm birth."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the pathogenesis and clinical features of gonorrhoea.",
+      "answer": "1. Cause: Neisseria gonorrhoeae, gram-negative kidney-shaped intracellular diplococcus; incubation 2–7 days.\n2. Pili attach to columnar epithelium of urethra, cervix, rectum, pharynx, conjunctiva → invasion → purulent inflammation; antigenic variation allows reinfection.\n3. Men: urethritis, dysuria, thick purulent discharge; epididymitis, prostatitis, stricture.\n4. Women: often asymptomatic; cervicitis, discharge; pelvic inflammatory disease → infertility, ectopic pregnancy.\n5. Disseminated infection: fever, skin pustules, septic arthritis.\n6. Newborn: ophthalmia neonatorum.\n7. Diagnosis: Gram stain, culture, NAAT; rising antibiotic resistance."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "List the routes of transmission of infection with one example each.",
+      "answer": "1. Airborne/droplet: tuberculosis, meningococcal meningitis.\n2. Faeco-oral: typhoid, hepatitis A and E.\n3. Sexual contact: HIV, syphilis, gonorrhoea.\n4. Blood and needles: hepatitis B and C, HIV.\n5. Mother to child: HIV, syphilis, hepatitis B.\n6. Insect vectors: malaria, dengue.\n7. Prolonged close contact (nasal droplets): leprosy.\n8. Ascending from own gut flora: UTI (E. coli)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the Ghon complex?",
+      "answer": "The lesion of primary tuberculosis: a small subpleural caseous Ghon focus in the lung plus caseous hilar lymph nodes draining it."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "At what CD4 count is AIDS diagnosed?",
+      "answer": "When the CD4+ T-cell count falls below 200 cells/µL, or an AIDS-defining illness appears, in an HIV-infected person."
+    }
+  ]
+}
