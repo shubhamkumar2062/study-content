@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "A drug sold under the name of another drug is called:",
+      "options": [
+        "Spurious drug",
+        "Misbranded drug",
+        "Adulterated drug",
+        "Drug not of standard quality"
+      ],
+      "correct": 0,
+      "explanation": "Imitation or substitution of another drug makes it spurious (section 17B).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "A drug containing a colour other than a permitted colour is:",
+      "options": [
+        "Spurious",
+        "Adulterated",
+        "Misbranded",
+        "A new drug"
+      ],
+      "correct": 1,
+      "explanation": "Section 17A lists a non-permitted colour as a ground of adulteration.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The First Schedule to the Drugs and Cosmetics Act lists:",
+      "options": [
+        "Standards for drugs",
+        "Forms of licences",
+        "Authoritative books of Ayurveda, Siddha and Unani",
+        "Fees for testing"
+      ],
+      "correct": 2,
+      "explanation": "The Second Schedule gives standards; forms and fees are in Schedules A and B of the Rules.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Under section 27(a) as amended in 2008, the minimum imprisonment for selling a spurious drug likely to cause death is:",
+      "options": [
+        "3 years",
+        "5 years",
+        "1 year",
+        "10 years"
+      ],
+      "correct": 3,
+      "explanation": "Clause (a) gives not less than 10 years, extendable to life, with fine not less than ₹10 lakh or three times value.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The section that empowers the Central Government to prohibit import of drugs in public interest is:",
+      "options": [
+        "Section 10A",
+        "Section 5",
+        "Section 27",
+        "Section 33"
+      ],
+      "correct": 0,
+      "explanation": "Section 10A allows a ban on import of drugs involving risk or lacking claimed value.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A loan licence permits a person to:",
+      "options": [
+        "Import drugs on loan",
+        "Manufacture using another licensed firm's premises and staff",
+        "Sell drugs on credit",
+        "Repack bulk drugs"
+      ],
+      "correct": 1,
+      "explanation": "The loan licensee has no factory and uses a licensed manufacturer's facilities.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Repacking of drugs from bulk into small packs needs a licence traditionally issued in:",
+      "options": [
+        "Form 20",
+        "Form 29",
+        "Form 25B",
+        "Form 21B"
+      ],
+      "correct": 2,
+      "explanation": "Form 25B is the repacking licence; Form 29 is for test manufacture.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Permission to manufacture a new drug in India is given under:",
+      "options": [
+        "Pharmacy Act, 1948",
+        "DPCO 2013",
+        "Medical Devices Rules, 2017",
+        "New Drugs and Clinical Trials Rules, 2019"
+      ],
+      "correct": 3,
+      "explanation": "The Central Licensing Authority grants new drug permission under the NDCT Rules.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The Drugs and Cosmetics Act was based on the report of the:",
+      "options": [
+        "Drugs Enquiry Committee",
+        "Hathi Committee",
+        "Mudaliar Committee",
+        "Bhore Committee"
+      ],
+      "correct": 0,
+      "explanation": "The Chopra (Drugs Enquiry) Committee of 1930–31 led to the Drugs Act, 1940.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Under section 27(d), the minimum fine for other contraventions is:",
+      "options": [
+        "₹1,000",
+        "₹20,000",
+        "₹1 lakh",
+        "₹10 lakh"
+      ],
+      "correct": 1,
+      "explanation": "The 2008 amendment set a minimum fine of ₹20,000 with 1–2 years' imprisonment.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The label 'Caution: It is dangerous to take this preparation except under medical supervision' is required for drugs in Schedule:",
+      "options": [
+        "H",
+        "X",
+        "G",
+        "P"
+      ],
+      "correct": 2,
+      "explanation": "This caution label is the requirement of Schedule G.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The Schedule H1 register must be preserved for:",
+      "options": [
+        "1 year",
+        "2 years",
+        "5 years",
+        "3 years"
+      ],
+      "correct": 3,
+      "explanation": "H1 sale records are kept for three years.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Schedule X drugs carry the symbol:",
+      "options": [
+        "XRx",
+        "Rx",
+        "NRx",
+        "Hx"
+      ],
+      "correct": 0,
+      "explanation": "Schedule X drugs are labelled XRx in red.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Schedule M of the Drugs and Cosmetics Rules deals with:",
+      "options": [
+        "Minimum equipment of a pharmacy",
+        "Good Manufacturing Practices",
+        "Life period of drugs",
+        "Clinical trials"
+      ],
+      "correct": 1,
+      "explanation": "Schedule M = GMP; N = pharmacy equipment; P = shelf life; Y = clinical trials.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Schedule V lays down:",
+      "options": [
+        "GMP for Ayurvedic drugs",
+        "Records of manufacture",
+        "Standards for patent or proprietary medicines",
+        "Permitted colours"
+      ],
+      "correct": 2,
+      "explanation": "Schedule V gives vitamin and mineral limits for patent medicines.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The chairman of the Drugs Technical Advisory Board is the:",
+      "options": [
+        "Drugs Controller General of India",
+        "President of PCI",
+        "Director of CDL",
+        "Director General of Health Services"
+      ],
+      "correct": 3,
+      "explanation": "DGHS chairs the DTAB (section 5).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The Central Drugs Laboratory is located at:",
+      "options": [
+        "Kolkata",
+        "Mumbai",
+        "Kasauli",
+        "Lucknow"
+      ],
+      "correct": 0,
+      "explanation": "CDL is at Kolkata; vaccines and sera are tested at CRI Kasauli.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The minimum area for a combined retail and wholesale drug store is:",
+      "options": [
+        "10 square metres",
+        "15 square metres",
+        "6 square metres",
+        "20 square metres"
+      ],
+      "correct": 1,
+      "explanation": "Retail alone needs 10 m²; combined needs 15 m².",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "A restricted licence for sale of drugs is meant for:",
+      "options": [
+        "Hospitals",
+        "Schedule X wholesalers",
+        "Dealers without a pharmacist, mainly in villages",
+        "Importers"
+      ],
+      "correct": 2,
+      "explanation": "Restricted licences allow sale of household remedies in sealed packs without a pharmacist.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "When taking a sample, a drugs inspector divides it into:",
+      "options": [
+        "Two portions",
+        "Three portions",
+        "Five portions",
+        "Four portions"
+      ],
+      "correct": 3,
+      "explanation": "Section 23 requires four sealed portions.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The Pharmacy Council of India is constituted under section:",
+      "options": [
+        "3",
+        "10",
+        "19",
+        "32"
+      ],
+      "correct": 0,
+      "explanation": "Section 3 constitutes the Central Council; s.10 Education Regulations; s.19 State Council.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Education Regulations under the Pharmacy Act are made under section:",
+      "options": [
+        "12",
+        "10",
+        "26A",
+        "42"
+      ],
+      "correct": 1,
+      "explanation": "Section 10 empowers the PCI to frame Education Regulations.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The number of members elected by registered pharmacists to a State Pharmacy Council is:",
+      "options": [
+        "Five",
+        "Four",
+        "Six",
+        "Two"
+      ],
+      "correct": 2,
+      "explanation": "Section 19(a): six elected; section 19(b): five nominated.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The minimum age for registration as a pharmacist is:",
+      "options": [
+        "21 years",
+        "16 years",
+        "25 years",
+        "18 years"
+      ],
+      "correct": 3,
+      "explanation": "Section 32 requires the applicant to be at least 18 years old.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Dispensing by an unregistered person is an offence under section:",
+      "options": [
+        "42",
+        "41",
+        "43",
+        "36"
+      ],
+      "correct": 0,
+      "explanation": "Section 42 covers dispensing by unregistered persons; s.41 false claim of registration.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The Medicinal and Toilet Preparations (Excise Duties) Act, 1955 was repealed by:",
+      "options": [
+        "The Pharmacy (Amendment) Act, 1976",
+        "The Central Goods and Services Tax Act, 2017",
+        "The NDPS Act, 1985",
+        "The Jan Vishwas Act, 2023"
+      ],
+      "correct": 1,
+      "explanation": "Section 174 of the CGST Act repealed it from 1 July 2017.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The NDPS Consultative Committee has a chairman and members not exceeding:",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "30"
+      ],
+      "correct": 2,
+      "explanation": "Section 6 limits the other members to twenty.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The National Fund for Control of Drug Abuse was inserted in the NDPS Act in:",
+      "options": [
+        "1985",
+        "2001",
+        "2014",
+        "1989"
+      ],
+      "correct": 3,
+      "explanation": "Section 7A was added by the 1989 amendment.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Government Opium and Alkaloid Works are located at:",
+      "options": [
+        "Ghazipur and Neemuch",
+        "Kolkata and Kasauli",
+        "Delhi and Mumbai",
+        "Hyderabad and Chennai"
+      ],
+      "correct": 0,
+      "explanation": "Opium is processed at Government factories in Ghazipur (UP) and Neemuch (MP).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Under the NDPS Act, immunity from prosecution for addicts volunteering for treatment is given in section:",
+      "options": [
+        "27A",
+        "64A",
+        "31A",
+        "8"
+      ],
+      "correct": 1,
+      "explanation": "Section 64A grants immunity to addicts seeking de-addiction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "A talisman, mantra or kavacha claimed to cure disease is defined as a magic remedy under the:",
+      "options": [
+        "Drugs and Cosmetics Act, 1940",
+        "NDPS Act, 1985",
+        "Drugs and Magic Remedies Act, 1954",
+        "Pharmacy Act, 1948"
+      ],
+      "correct": 2,
+      "explanation": "Magic remedies are defined and banned from advertisement under the DMR Act.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The Schedule to the Drugs and Magic Remedies Act lists:",
+      "options": [
+        "24 diseases",
+        "117 essential drugs",
+        "46 antibiotics",
+        "54 diseases and conditions"
+      ],
+      "correct": 3,
+      "explanation": "Advertisements for treating the 54 Schedule conditions are prohibited.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Under the DMR Act, the maximum imprisonment for a first conviction (as enacted) is:",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Three months"
+      ],
+      "correct": 0,
+      "explanation": "Section 7: up to six months first time, up to one year on subsequent conviction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Which advertisement is exempted under the DMR Act?",
+      "options": [
+        "A newspaper advert for a diabetes cure",
+        "A signboard of a registered medical practitioner",
+        "A TV advert for a sexual tonic",
+        "A leaflet for a magic charm"
+      ],
+      "correct": 1,
+      "explanation": "Section 14 exempts RMP signboards, scientific books, confidential adverts to doctors and Government adverts.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The CPCSEA is constituted under section ___ of the PCA Act, 1960:",
+      "options": [
+        "11",
+        "19",
+        "15",
+        "2"
+      ],
+      "correct": 2,
+      "explanation": "Section 15 constitutes the Committee; section 19 gives power to prohibit experiments.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "In the 3 Rs of animal experimentation, 'Reduction' means:",
+      "options": [
+        "Replacing animals with computer models",
+        "Reducing pain by better methods",
+        "Reducing cost of animal house",
+        "Using the fewest animals that give valid results"
+      ],
+      "correct": 3,
+      "explanation": "Replacement, Reduction (fewer animals), Refinement (less pain).",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "DPCO 2013 was issued under:",
+      "options": [
+        "Section 3 of the Essential Commodities Act, 1955",
+        "Section 26A of the D&C Act",
+        "Section 10 of the Pharmacy Act",
+        "Section 9 of the NDPS Act"
+      ],
+      "correct": 0,
+      "explanation": "The Central Government issues the DPCO under section 3 of the Essential Commodities Act.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Under DPCO 2013, the retailer margin added to the average PTR to get the ceiling price is:",
+      "options": [
+        "8%",
+        "16%",
+        "20%",
+        "10%"
+      ],
+      "correct": 1,
+      "explanation": "Ceiling price = simple average PTR of brands with ≥1% share + 16%.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Under DPCO 2013, the MRP of a non-scheduled formulation may not be raised by more than:",
+      "options": [
+        "5% in twelve months",
+        "16% in twelve months",
+        "10% in twelve months",
+        "20% in six months"
+      ],
+      "correct": 2,
+      "explanation": "Non-scheduled prices are monitored with a 10% annual cap.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The National List of Essential Medicines 2022 contains:",
+      "options": [
+        "376 medicines",
+        "348 medicines",
+        "117 medicines",
+        "384 medicines"
+      ],
+      "correct": 3,
+      "explanation": "NLEM 2022 lists 384 medicines in 27 therapeutic categories.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The Drugs Enquiry Committee (1930) was chaired by:",
+      "options": [
+        "Col. R. N. Chopra",
+        "Sir Joseph Bhore",
+        "Jaisukhlal Hathi",
+        "Dr A. L. Mudaliar"
+      ],
+      "correct": 0,
+      "explanation": "Chopra chaired the Drugs Enquiry Committee; Bhore, Hathi and Mudaliar chaired later committees.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The Health Survey and Development Committee (1943–46) is also known as the:",
+      "options": [
+        "Hathi Committee",
+        "Bhore Committee",
+        "Chopra Committee",
+        "Mudaliar Committee"
+      ],
+      "correct": 1,
+      "explanation": "Sir Joseph Bhore chaired it; Mudaliar chaired the Health Survey and Planning Committee.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The Hathi Committee (1975) recommended a list of essential drugs numbering:",
+      "options": [
+        "384",
+        "54",
+        "117",
+        "20"
+      ],
+      "correct": 2,
+      "explanation": "It listed 117 essential drugs and urged generic names.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Under the MTP Act as amended in 2021, termination up to 20 weeks needs the opinion of:",
+      "options": [
+        "Two registered medical practitioners",
+        "A Medical Board",
+        "A court order",
+        "One registered medical practitioner"
+      ],
+      "correct": 3,
+      "explanation": "Up to 20 weeks one RMP; 20–24 weeks two RMPs for special categories.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Termination of pregnancy beyond 24 weeks for substantial foetal abnormality is decided by a:",
+      "options": [
+        "Medical Board",
+        "Single RMP",
+        "District collector",
+        "Pharmacy Council"
+      ],
+      "correct": 0,
+      "explanation": "The 2021 amendment set up State Medical Boards for such cases.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Under the RTI Act, information concerning the life or liberty of a person must be given within:",
+      "options": [
+        "30 days",
+        "48 hours",
+        "7 days",
+        "24 hours"
+      ],
+      "correct": 1,
+      "explanation": "Normal limit is 30 days; life or liberty cases 48 hours.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The maximum penalty on a PIO under the RTI Act is:",
+      "options": [
+        "₹10,000",
+        "₹50,000",
+        "₹25,000",
+        "₹1 lakh"
+      ],
+      "correct": 2,
+      "explanation": "₹250 per day of delay, up to ₹25,000.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The term of a patent in India is:",
+      "options": [
+        "10 years from grant",
+        "14 years from filing",
+        "Life of inventor plus 60 years",
+        "20 years from the date of filing"
+      ],
+      "correct": 3,
+      "explanation": "Patents last 20 years from filing; copyright is life + 60 years.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Section 3(d) of the Patents Act relates to:",
+      "options": [
+        "New forms of known substances",
+        "Compulsory licensing",
+        "Bolar exemption",
+        "Opposition to grant"
+      ],
+      "correct": 0,
+      "explanation": "3(d) bars patents on new forms without enhanced efficacy; s.84 is compulsory licence; s.107A Bolar.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The code of pharmaceutical ethics deals with the pharmacist in relation to his job, trade, profession and:",
+      "options": [
+        "The patent office",
+        "The medical profession",
+        "The excise department",
+        "The police"
+      ],
+      "correct": 1,
+      "explanation": "The four relations are job, trade, medical profession and own profession.",
+      "probability": "low"
+    }
+  ]
+}

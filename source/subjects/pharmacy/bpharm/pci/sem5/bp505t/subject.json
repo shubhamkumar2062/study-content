@@ -1,0 +1,48 @@
+{
+  "code": "BP505T",
+  "title": "Pharmaceutical Jurisprudence",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP505T Pharmaceutical Jurisprudence",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP505T_B.Pharma-pages-27.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Drugs and Cosmetics Act, 1940 and Rules, 1945 – I: objectives, definitions, schedules, import and manufacture",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Drugs and Cosmetics Act, 1940 and Rules, 1945 – II: schedules in detail, sale, labelling and administration",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Pharmacy Act, 1948, Medicinal and Toilet Preparations Act, 1955 and NDPS Act, 1985",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Drugs and Magic Remedies Act, Prevention of Cruelty to Animals Act, NPPA and DPCO 2013",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Pharmaceutical legislation history, code of ethics, MTP Act, RTI Act and IPR",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
