@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of a typical human cell with a labelled diagram. Give the functions of its organelles.",
+      "answer": "1. Definition: the cell is the basic structural and functional unit of life; three parts — plasma membrane, cytoplasm with organelles, nucleus.\n2. Diagram: cell showing membrane, nucleus with nucleolus, RER, SER, Golgi, mitochondria, lysosome, ribosomes, centrioles, microvilli.\n3. Plasma membrane: fluid mosaic model — phospholipid bilayer, cholesterol, integral and peripheral proteins, glycocalyx; selectively permeable.\n4. Nucleus: double envelope with pores, chromatin, nucleolus; holds DNA and controls cell activity; nucleolus makes rRNA.\n5. Ribosomes (80S): protein synthesis; free or on RER.\n6. RER: makes secretory and membrane proteins. SER: lipids and steroids, drug metabolism in liver, Ca2+ store in muscle.\n7. Golgi apparatus: modifies, sorts and packages proteins; forms lysosomes.\n8. Lysosomes: hydrolytic enzymes, digest worn-out organelles and engulfed material. Peroxisomes: oxidise fatty acids, break down H2O2.\n9. Mitochondria: double membrane with cristae, own DNA; ATP by aerobic respiration.\n10. Centrosome (two centrioles): spindle formation; cytoskeleton gives shape and movement; cilia, flagella and microvilli for movement and absorption."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the various mechanisms of transport of substances across the cell membrane with examples.",
+      "answer": "1. The membrane is selectively permeable; transport is passive, active or vesicular.\n2. Simple diffusion: high to low concentration, no carrier, no energy; O2, CO2, lipid-soluble drugs; rate depends on gradient, area, temperature, lipid solubility.\n3. Facilitated diffusion: downhill with carrier or channel; saturable and specific; glucose via GLUT.\n4. Osmosis: water moves through a semipermeable membrane towards higher solute concentration; tonicity — isotonic 0.9% NaCl, hypotonic causes haemolysis, hypertonic causes crenation.\n5. Filtration: driven by hydrostatic pressure; glomerular filtration, tissue fluid formation.\n6. Primary active transport: uses ATP directly against gradient; Na+/K+ ATPase moves 3 Na+ out and 2 K+ in; maintains resting potential; inhibited by digoxin.\n7. Secondary active transport: Na+ gradient drives another solute; symport (Na+–glucose), antiport (Na+/H+).\n8. Endocytosis: phagocytosis (bacteria by neutrophils), pinocytosis (fluid), receptor-mediated (LDL, iron–transferrin).\n9. Exocytosis: release of hormones, neurotransmitters, enzymes.\n10. Diagram: table or flow chart of passive, active and vesicular types."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify tissues. Describe the structure, location and functions of epithelial tissue and connective tissue.",
+      "answer": "1. Four primary tissues: epithelial, connective, muscular, nervous.\n2. Epithelium features: closely packed cells, little matrix, basement membrane, avascular, regenerates quickly.\n3. Simple squamous (alveoli, endothelium) — diffusion; simple cuboidal (kidney tubules, thyroid) — secretion, absorption; simple columnar with goblet cells (stomach, intestine) — absorption; pseudostratified ciliated (trachea) — moves mucus.\n4. Stratified squamous keratinised (epidermis) and non-keratinised (mouth, oesophagus) — protection; transitional (bladder) — stretching.\n5. Glandular epithelium: exocrine (ducts; merocrine, apocrine, holocrine) and endocrine (ductless).\n6. Connective tissue: few cells in abundant matrix of ground substance and fibres (collagen, elastic, reticular); cells — fibroblasts, macrophages, mast cells, plasma cells, adipocytes.\n7. Loose: areolar (under skin), adipose (fat store, insulation), reticular (lymph nodes, spleen).\n8. Dense: regular (tendons, ligaments), irregular (dermis), elastic (large arteries).\n9. Cartilage: hyaline (articular surfaces, trachea), fibrocartilage (intervertebral discs), elastic (ear, epiglottis).\n10. Bone and blood as specialised connective tissues; diagrams of simple squamous, columnar and stratified squamous epithelium."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define homeostasis. Explain negative and positive feedback mechanisms with one example each.",
+      "answer": "1. Homeostasis: maintenance of a relatively constant internal environment (ECF) despite external changes; e.g. temperature 37 °C, blood glucose, pH 7.35–7.45.\n2. Feedback loop: receptor → control centre → effector → response.\n3. Negative feedback reverses the change: rise in BP → baroreceptors → medulla → heart slows and vessels dilate → BP falls.\n4. Positive feedback reinforces the change until an outside event ends it: stretch of cervix → oxytocin → stronger contractions → more stretch, ending with delivery; blood clotting.\n5. Failure of homeostasis causes disease (diabetes, fever)."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe cell junctions with their functions.",
+      "answer": "1. Tight junctions: membranes of adjacent cells sealed by proteins; prevent leakage between cells; intestine, blood–brain barrier.\n2. Adherens junctions: cadherins linked to actin forming a belt; hold cells together.\n3. Desmosomes: plaques with cadherins and intermediate filaments; spot welds resisting stretch; epidermis, cardiac muscle.\n4. Hemidesmosomes: anchor cells to the basement membrane via integrins.\n5. Gap junctions: connexon channels between cytoplasm of neighbouring cells; pass ions and small molecules; electrical coupling in heart and smooth muscle."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the general principles of cell communication and the forms of intracellular signalling.",
+      "answer": "1. Cells communicate by signal molecules (hormones, neurotransmitters, local mediators) binding specific receptors; binding starts signal transduction with amplification; signals are switched off by enzymes or receptor desensitisation.\n2. Receptors: ion-channel linked, G-protein coupled, enzyme-linked, intracellular (steroids). Pathway: signal → receptor → G-protein → adenylyl cyclase / phospholipase C → second messenger (cAMP, IP3, DAG, Ca2+) → protein kinase → response.\n3. Contact-dependent: signal stays on the cell membrane; cells must touch (immune cell recognition).\n4. Paracrine: local mediator acts on nearby cells (histamine, prostaglandins, nitric oxide).\n5. Synaptic: neurotransmitter released across a synapse (acetylcholine); endocrine: hormone carried in blood to distant cells (insulin, thyroxine)."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the stages of mitosis with diagrams.",
+      "answer": "1. Interphase precedes division: G1 growth, S DNA replication, G2 preparation.\n2. Prophase: chromatin condenses into chromosomes with two sister chromatids; nucleolus and nuclear envelope disappear; spindle forms.\n3. Metaphase: chromosomes line up on the equatorial plate; spindle fibres attach to centromeres.\n4. Anaphase: centromeres split; chromatids move to opposite poles.\n5. Telophase and cytokinesis: nuclear envelopes re-form, chromosomes uncoil, cleavage furrow divides the cytoplasm; two identical diploid (46) cells; used for growth and repair; diagram of each stage."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain basic anatomical terminology: anatomical position, directional terms and body planes.",
+      "answer": "1. Anatomical position: standing erect, face forward, arms by sides, palms forward, feet flat.\n2. Directional terms: superior/inferior, anterior/posterior, medial/lateral, proximal/distal, superficial/deep, ipsilateral/contralateral with examples (elbow is proximal to wrist).\n3. Planes: sagittal (midsagittal divides into equal right and left halves), frontal or coronal (anterior and posterior), transverse (superior and inferior), oblique.\n4. Body cavities: dorsal (cranial, vertebral) and ventral (thoracic, abdominopelvic).\n5. Abdomen: nine regions or four quadrants used to locate organs and pain."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "List the levels of structural organisation of the human body.",
+      "answer": "Chemical → cellular → tissue → organ → system → organismal level."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the role of the Na+/K+ ATPase pump?",
+      "answer": "It uses one ATP to pump 3 Na+ out and 2 K+ into the cell, keeping the ion gradients that maintain the resting membrane potential and cell volume."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of the skin with a neat labelled diagram. Write the functions of skin.",
+      "answer": "1. Skin is the largest organ; layers: epidermis, dermis, hypodermis; diagram labelling layers, hair follicle, sebaceous gland, sweat gland, arrector pili, receptors, vessels.\n2. Epidermis: stratified squamous keratinised, avascular; strata basale, spinosum, granulosum, lucidum (thick skin), corneum.\n3. Epidermal cells: keratinocytes, melanocytes (melanin), Langerhans cells (immune), Merkel cells (touch).\n4. Dermis: papillary layer (areolar, capillaries, Meissner's corpuscles, fingerprints) and reticular layer (dense irregular CT, glands, follicles).\n5. Hypodermis: areolar and adipose tissue, Pacinian corpuscles; site of subcutaneous injection.\n6. Appendages: hair, sebaceous glands (sebum, holocrine), eccrine and apocrine sweat glands, nails.\n7. Functions: protection (barrier, keratin, melanin, acid mantle); temperature regulation (sweat, blood flow).\n8. Sensation; vitamin D3 synthesis from 7-dehydrocholesterol with UV light.\n9. Excretion of water, salts, urea; absorption of lipid-soluble drugs (transdermal patches).\n10. Storage of fat, immunity, expression; disorders such as acne, psoriasis, burns."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the physiology of skeletal muscle contraction. Add a note on the neuromuscular junction.",
+      "answer": "1. Organisation: muscle → fascicles → fibres → myofibrils → sarcomeres; coverings epimysium, perimysium, endomysium.\n2. Sarcomere (Z to Z): A band (thick filaments), I band (thin only), H zone, M line; proteins myosin, actin, troponin, tropomyosin; diagram.\n3. NMJ: nerve impulse → Ca2+ entry → ACh released → binds nicotinic receptors on motor end plate → end-plate potential → muscle action potential; acetylcholinesterase ends the signal.\n4. Action potential spreads along sarcolemma and T-tubules; DHP receptors open ryanodine receptors.\n5. Ca2+ released from sarcoplasmic reticulum binds troponin C; tropomyosin uncovers binding sites on actin.\n6. Myosin heads (ADP + Pi) bind actin → cross-bridges → power stroke pulls actin towards M line.\n7. ATP binds myosin → head detaches; ATP hydrolysis re-cocks the head; cycle repeats.\n8. Sliding filament theory: filaments slide, I band and H zone shorten, A band constant.\n9. Relaxation: ACh destroyed, Ca2+ pumped back into SR by Ca2+-ATPase; lack of ATP causes rigor mortis.\n10. Applied: neuromuscular blockers (d-tubocurarine), anticholinesterases (neostigmine) in myasthenia gravis, botulinum toxin."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify joints structurally and functionally. Describe the structure and types of synovial joints with the movements they allow.",
+      "answer": "1. Joint: point of contact between bones.\n2. Structural: fibrous (sutures, syndesmosis, gomphosis), cartilaginous (synchondrosis — epiphyseal plate; symphysis — pubic symphysis, intervertebral discs), synovial.\n3. Functional: synarthrosis (immovable), amphiarthrosis (slightly movable), diarthrosis (freely movable).\n4. Synovial joint structure: articular cartilage, joint cavity, synovial fluid, articular capsule (fibrous capsule + synovial membrane), ligaments, bursae, menisci; diagram.\n5. Synovial fluid: lubricates, nourishes cartilage, contains phagocytes.\n6. Plane (intercarpal) — gliding; hinge (elbow, knee, interphalangeal) — flexion and extension.\n7. Pivot (atlanto-axial, proximal radio-ulnar) — rotation; condyloid (wrist) — biaxial.\n8. Saddle (carpometacarpal of thumb) — biaxial with opposition; ball and socket (shoulder, hip) — multiaxial.\n9. Movements: flexion, extension, abduction, adduction, circumduction, rotation, pronation, supination, inversion, eversion, dorsiflexion, plantar flexion, elevation, depression, protraction, retraction, opposition.\n10. Disorders: osteoarthritis, rheumatoid arthritis, gout, dislocation, sprain."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the divisions of the skeletal system with the number of bones in each.",
+      "answer": "1. Total 206 bones; axial 80, appendicular 126.\n2. Axial: skull 22 (8 cranial, 14 facial), hyoid 1, ear ossicles 6, vertebral column 26, sternum 1, ribs 24.\n3. Appendicular: pectoral girdles 4 (clavicles, scapulae), upper limbs 60.\n4. Pelvic girdle 2 (hip bones), lower limbs 60.\n5. Functions: support, protection, movement, mineral storage, haemopoiesis, fat storage."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify bones according to shape with examples. Describe the parts of a long bone.",
+      "answer": "1. Long bones (femur, humerus), short bones (carpals, tarsals), flat bones (skull vault, sternum, ribs, scapula), irregular bones (vertebrae), sesamoid bones (patella), sutural bones.\n2. Long bone: diaphysis (shaft of compact bone with medullary cavity and yellow marrow), epiphyses (spongy bone with red marrow), metaphysis, epiphyseal plate or line.\n3. Articular cartilage on ends; periosteum outside; endosteum lining the cavity; nutrient artery.\n4. Bone tissue: osteons with Haversian canals, lamellae, osteocytes in lacunae; spongy bone with trabeculae.\n5. Cells: osteoblasts (build), osteocytes (maintain), osteoclasts (resorb); diagram of a long bone."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the salient features of the vertebral column.",
+      "answer": "1. 33 vertebrae in a child, 26 bones in an adult: 7 cervical, 12 thoracic, 5 lumbar, sacrum (5 fused), coccyx (4 fused).\n2. Typical vertebra: body, vertebral arch (pedicles, laminae), vertebral foramen, spinous and transverse processes, articular processes.\n3. Cervical: transverse foramina, bifid spines; atlas (no body) and axis (dens); C7 prominent spine. Thoracic: rib facets. Lumbar: large bodies.\n4. Intervertebral discs (annulus fibrosus, nucleus pulposus) absorb shock.\n5. Curves: cervical and lumbar lordosis, thoracic and sacral kyphosis; protects spinal cord, supports body, allows movement."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Name the bones of the skull and give one feature of each cranial bone.",
+      "answer": "1. Cranial (8): frontal (forehead, frontal sinus), parietal ×2 (roof and sides), temporal ×2 (houses ear; mastoid process), occipital (foramen magnum), sphenoid (sella turcica for pituitary), ethmoid (cribriform plate for olfactory nerves).\n2. Facial (14): nasal 2, maxillae 2, zygomatic 2, lacrimal 2, palatine 2, inferior nasal conchae 2, vomer 1, mandible 1.\n3. Mandible is the only movable skull bone.\n4. Sutures: coronal, sagittal, lambdoid, squamous; fontanelles in infants.\n5. Paranasal sinuses lighten the skull and give voice resonance."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the neuromuscular junction and the events of neuromuscular transmission.",
+      "answer": "1. Synapse between motor neuron terminal and motor end plate of a skeletal muscle fibre; diagram showing vesicles, cleft, junctional folds.\n2. Impulse arrives → voltage-gated Ca2+ channels open → Ca2+ enters.\n3. Acetylcholine released by exocytosis → binds nicotinic receptors → Na+ entry → end-plate potential → muscle action potential.\n4. Acetylcholinesterase splits ACh into choline and acetate; choline recycled.\n5. Applied: curare blocks receptors; neostigmine inhibits cholinesterase; botulinum toxin stops ACh release; myasthenia gravis — antibodies against receptors."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define sarcomere.",
+      "answer": "The repeating contractile unit of a myofibril, lying between two adjacent Z lines; it contains thin (actin) and thick (myosin) filaments."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the layers of the epidermis from deep to superficial.",
+      "answer": "Stratum basale, stratum spinosum, stratum granulosum, stratum lucidum (only in thick skin) and stratum corneum."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the mechanism of blood coagulation with a flow chart. Add a note on anticoagulants and bleeding disorders.",
+      "answer": "1. Haemostasis: vascular spasm → platelet plug → coagulation → clot retraction → fibrinolysis.\n2. Clotting factors I–XIII (no VI); IV = Ca2+; vitamin K–dependent factors II, VII, IX, X made in liver.\n3. Extrinsic pathway: tissue factor (III) + VII → activates X; fast.\n4. Intrinsic pathway: contact with collagen activates XII → XI → IX; IXa with VIII, Ca2+ and platelet phospholipid activates X; slower.\n5. Common pathway: Xa + V + Ca2+ + phospholipid = prothrombin activator → prothrombin to thrombin.\n6. Thrombin converts fibrinogen to fibrin; XIIIa cross-links fibrin into a stable mesh trapping cells; thrombin activates V, VIII and platelets (positive feedback).\n7. Clot retraction and fibrinolysis by plasmin.\n8. Flow chart of the cascade.\n9. Anticoagulants: heparin (activates antithrombin III), warfarin (vitamin K antagonist), citrate, oxalate, EDTA (remove Ca2+, used in vitro).\n10. Disorders: haemophilia A (VIII) and B (IX), thrombocytopenic purpura, vitamin K deficiency, thrombosis and embolism."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define haemopoiesis. Describe the stages of erythropoiesis and the factors affecting it. Add a note on formation of haemoglobin.",
+      "answer": "1. Haemopoiesis: formation of blood cells; sites — yolk sac (early embryo), liver and spleen (fetus), red bone marrow (late fetus, adult flat bones and ends of long bones).\n2. Pluripotent stem cell → myeloid line (RBC, platelets, granulocytes, monocytes) and lymphoid line (lymphocytes).\n3. Erythropoiesis: proerythroblast → early normoblast → intermediate normoblast (Hb appears) → late normoblast (nucleus lost) → reticulocyte → erythrocyte; about 7 days.\n4. Erythropoietin from kidney in hypoxia stimulates marrow.\n5. Vitamin B12 and folic acid for DNA synthesis (deficiency → megaloblastic anaemia); intrinsic factor for B12 absorption.\n6. Iron, proteins, vitamin C, copper, cobalt, vitamin B6; hormones such as thyroxine and androgens.\n7. Hb synthesis: succinyl-CoA + glycine → ALA → porphobilinogen → protoporphyrin IX + Fe2+ → haem; haem + globin chain → subunit; four subunits form Hb.\n8. HbA = α2β2, HbF = α2γ2; four haems carry four O2; normal 14–18 g/dL (men), 12–16 g/dL (women).\n9. Breakdown: globin → amino acids; iron → ferritin/transferrin; haem → biliverdin → bilirubin → bile.\n10. Flow chart of erythropoiesis."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the lymphatic system: lymphatic organs and tissues, lymph vessels, lymph circulation and functions. Draw a labelled diagram of a lymph node.",
+      "answer": "1. Components: lymph, lymphatic vessels, lymphatic organs and tissues.\n2. Lymph: interstitial fluid in lymph vessels; less protein than plasma; chyle from intestine is milky.\n3. Lymph capillaries: blind-ended, overlapping endothelial flaps; lacteals absorb fat.\n4. Vessels with valves → nodes → trunks → thoracic duct (cisterna chyli; drains lower body and left upper body into left subclavian–internal jugular junction) and right lymphatic duct (right upper body).\n5. Lymph flow aided by skeletal muscle pump, breathing, smooth muscle of vessels, valves; about 3 L returned daily.\n6. Primary organs: red bone marrow, thymus. Secondary: lymph nodes, spleen, tonsils, MALT, Peyer's patches.\n7. Lymph node: capsule, trabeculae, cortex with follicles (B cells), paracortex (T cells), medulla with sinuses; several afferent and one or two efferent vessels at the hilum; diagram.\n8. Spleen: white pulp (immune), red pulp (removes old RBCs, platelet store).\n9. Functions: return of fluid and proteins, fat absorption, immunity, filtration.\n10. Disorders: lymphoedema, filariasis, lymphadenitis, spread of cancer."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the composition and functions of blood.",
+      "answer": "1. Blood volume 5–6 L, pH 7.35–7.45; plasma about 55%, formed elements about 45%.\n2. Plasma: water 91–92%, proteins (albumin, globulins, fibrinogen), nutrients, electrolytes, wastes, hormones, gases.\n3. Formed elements: RBC 4.5–5.5 million/mm³, WBC 4,000–11,000/mm³, platelets 1.5–4 lakh/mm³.\n4. Functions — transport (O2, CO2, nutrients, wastes, hormones, drugs); regulation (temperature, pH buffering, water balance).\n5. Protection (immunity by WBCs and antibodies; clotting by platelets and plasma factors)."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the ABO blood group system and the Rh factor. What is erythroblastosis fetalis?",
+      "answer": "1. ABO: antigens A and B on RBCs; plasma has antibodies against the missing antigen; groups A, B, AB, O.\n2. O is universal donor (no antigens); AB universal recipient (no antibodies); incompatible transfusion causes agglutination and haemolysis.\n3. Rh: D antigen present → Rh positive; anti-D is not natural, forms only after exposure.\n4. Erythroblastosis fetalis: Rh-negative mother sensitised by first Rh-positive baby; in the next pregnancy maternal anti-D crosses placenta and destroys fetal RBCs → anaemia, jaundice, oedema.\n5. Prevention: anti-D immunoglobulin to the mother within 72 hours after delivery or sensitising events."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define anaemia. Classify anaemia with examples.",
+      "answer": "1. Anaemia: reduced oxygen-carrying capacity of blood due to fewer RBCs or less Hb; symptoms — fatigue, pallor, breathlessness, palpitations.\n2. Haemorrhagic (blood loss) and iron-deficiency anaemia (microcytic hypochromic; commonest in India).\n3. Megaloblastic anaemia from vitamin B12 or folate lack; pernicious anaemia from lack of intrinsic factor (macrocytic).\n4. Haemolytic anaemia: sickle cell disease, thalassaemia, G6PD deficiency, mismatched transfusion, malaria; aplastic anaemia (marrow failure).\n5. Morphological classes: normocytic normochromic, microcytic hypochromic, macrocytic."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the reticulo-endothelial system.",
+      "answer": "1. Network of phagocytic cells derived from monocytes (mononuclear phagocyte system).\n2. Cells: monocytes (blood), Kupffer cells (liver), alveolar macrophages (lung), microglia (brain), Langerhans cells (skin), histiocytes (connective tissue), macrophages in spleen, lymph nodes and marrow, osteoclasts.\n3. Phagocytosis of bacteria, dead cells and debris.\n4. Destruction of old RBCs, haemoglobin breakdown to bilirubin, iron storage.\n5. Antigen presentation and cytokine release in immunity."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the significance and hazards of blood transfusion?",
+      "answer": "1. Uses: severe haemorrhage, severe anaemia, surgery, burns, clotting disorders, exchange transfusion in newborn; component therapy (packed cells, platelets, plasma).\n2. Precautions: ABO and Rh grouping, cross-matching, screening for HIV, hepatitis B and C, syphilis, malaria; proper storage.\n3. Haemolytic reaction from mismatch: fever, chills, back pain, haemoglobinuria, kidney failure, shock.\n4. Febrile and allergic reactions; circulatory overload; infection transmission.\n5. Iron overload with repeated transfusion; citrate toxicity with large volumes."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the vitamin K-dependent clotting factors.",
+      "answer": "Factors II (prothrombin), VII, IX and X."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the normal values of total WBC count and platelet count.",
+      "answer": "Total WBC 4,000–11,000 per mm³; platelets 1.5–4 lakh per mm³."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure and functions of the sympathetic and parasympathetic nervous systems. Compare them in a table.",
+      "answer": "1. ANS controls cardiac muscle, smooth muscle and glands; two-neuron chain with ganglion.\n2. Sympathetic: thoracolumbar outflow T1–L2; short preganglionic, long postganglionic fibres; paravertebral chain and prevertebral ganglia (coeliac, superior and inferior mesenteric).\n3. Sympathetic transmitters: ACh at ganglia (nicotinic), noradrenaline at effectors (α, β); sweat glands cholinergic; adrenal medulla releases adrenaline.\n4. Parasympathetic: craniosacral outflow (CN III, VII, IX, X; S2–S4); long preganglionic, short postganglionic; terminal ganglia near organs; vagus carries most fibres.\n5. Parasympathetic transmitter: ACh at both synapses (nicotinic, then muscarinic).\n6. Diagram of outflows.\n7. Sympathetic effects: pupil dilation, raised heart rate and force, bronchodilation, gut inhibition, glycogenolysis, bladder relaxation, sweating — fight or flight.\n8. Parasympathetic effects: miosis, accommodation, slower heart, bronchoconstriction, increased gut motility and secretion, bladder emptying, salivation — rest and digest.\n9. Comparison table: origin, ganglion position, fibre lengths, transmitter, distribution, overall effect.\n10. Dual innervation and autonomic tone; drugs (atropine, propranolol, salbutamol, pilocarpine)."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of the eye with a labelled diagram. Explain the mechanism of vision and list common disorders of the eye.",
+      "answer": "1. Eyeball in the orbit with accessory structures: eyelids, conjunctiva, lacrimal apparatus, six extraocular muscles.\n2. Fibrous coat: sclera and transparent avascular cornea.\n3. Vascular coat (uvea): choroid, ciliary body (ciliary muscle, aqueous humour), iris with pupil (sphincter and dilator pupillae).\n4. Nervous coat: retina with rods (dim light, rhodopsin, vitamin A) and cones (colour, fovea); optic disc = blind spot.\n5. Lens held by suspensory ligaments; aqueous humour drained by canal of Schlemm; vitreous body; labelled diagram.\n6. Vision: refraction by cornea and lens → inverted image on retina.\n7. Accommodation: ciliary muscle contracts, lens more convex, pupil constricts, eyes converge; pupillary light reflex.\n8. Light splits rhodopsin → receptor potential → bipolar and ganglion cells → optic nerve → chiasma → optic tract → lateral geniculate body → occipital visual cortex.\n9. Disorders: myopia (concave lens), hypermetropia (convex), presbyopia, astigmatism (cylindrical), cataract, glaucoma.\n10. Conjunctivitis, night blindness (vitamin A deficiency), colour blindness."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the structure of the ear with a diagram. Explain the mechanism of hearing and of balance. Name common disorders.",
+      "answer": "1. External ear: auricle, external auditory meatus with ceruminous glands, tympanic membrane.\n2. Middle ear: air cavity in temporal bone; malleus, incus, stapes; Eustachian tube equalises pressure; oval and round windows.\n3. Inner ear: bony labyrinth with perilymph enclosing membranous labyrinth with endolymph; cochlea, vestibule (utricle, saccule), three semicircular canals.\n4. Cochlea: organ of Corti with hair cells on basilar membrane under tectorial membrane; diagram of ear.\n5. Hearing: sound waves → eardrum → ossicles amplify → stapes at oval window → perilymph waves → basilar membrane vibrates (high pitch at base) → hair cells bend → cochlear nerve → temporal lobe auditory cortex.\n6. Round window releases pressure.\n7. Balance: utricle and saccule (otoliths) sense head position and linear acceleration; semicircular canal ampullae sense rotation; vestibular nerve → brainstem and cerebellum.\n8. Disorders: otitis media, conductive and sensorineural deafness.\n9. Ménière's disease, motion sickness, tinnitus, vertigo.\n10. Ototoxic drugs such as aminoglycosides."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Tabulate the cranial nerves with their type and functions.",
+      "answer": "1. I olfactory (S) smell; II optic (S) vision; III oculomotor (M) eye movements, pupil constriction, accommodation; IV trochlear (M) superior oblique.\n2. V trigeminal (B) facial sensation, chewing; VI abducens (M) lateral rectus.\n3. VII facial (B) facial expression, taste anterior two-thirds, tears and saliva; VIII vestibulocochlear (S) hearing and balance.\n4. IX glossopharyngeal (B) taste posterior one-third, swallowing, parotid; X vagus (B) parasympathetic to heart, lungs, gut, voice.\n5. XI accessory (M) sternocleidomastoid and trapezius; XII hypoglossal (M) tongue; origins: I cerebrum, II diencephalon, III–IV midbrain, V–VII pons, VIII pons–medulla, IX–XII medulla."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the origin of spinal nerves and the plexuses they form.",
+      "answer": "1. 31 pairs: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal.\n2. Dorsal root (sensory, dorsal root ganglion) and ventral root (motor) join to form a mixed nerve; branches — dorsal ramus, ventral ramus, meningeal branch, rami communicantes.\n3. Cervical plexus C1–C4: phrenic nerve (C3–C5) to diaphragm.\n4. Brachial plexus C5–T1: axillary, musculocutaneous, radial, median, ulnar nerves; lumbar plexus L1–L4: femoral, obturator.\n5. Sacral plexus L4–S4: sciatic nerve (largest); thoracic nerves T2–T12 form intercostal nerves without a plexus."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the structure of the tongue and the mechanism of taste.",
+      "answer": "1. Muscular organ covered by mucous membrane with papillae: filiform (no taste buds), fungiform, circumvallate (most taste buds), foliate.\n2. Taste bud: gustatory receptor cells with microvilli at the taste pore, supporting and basal cells; chemicals must dissolve in saliva.\n3. Five tastes: sweet, sour, salty, bitter, umami; all regions can detect all tastes.\n4. Nerves: facial (anterior two-thirds), glossopharyngeal (posterior one-third), vagus (epiglottis) → medulla → thalamus → gustatory cortex.\n5. Disorders: ageusia, hypogeusia, glossitis."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the sense of smell (olfaction) and its pathway.",
+      "answer": "1. Olfactory epithelium in the roof of the nasal cavity: olfactory receptor cells (bipolar neurons with cilia), supporting cells, basal stem cells, olfactory glands.\n2. Odour molecules dissolve in mucus and bind receptors → nerve impulses.\n3. Axons pass through the cribriform plate of the ethmoid as the olfactory nerve → olfactory bulb → olfactory tract.\n4. Cortex in the temporal lobe and limbic system (link to memory and emotion); fast adaptation.\n5. Disorders: anosmia, rhinitis, sinusitis."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on disorders of the eye.",
+      "answer": "1. Myopia: image in front of retina; concave lens. Hypermetropia: image behind retina; convex lens.\n2. Presbyopia: age-related loss of lens elasticity; astigmatism: uneven corneal curvature, cylindrical lens.\n3. Cataract: lens opacity; surgery with lens replacement.\n4. Glaucoma: raised intraocular pressure from poor aqueous drainage → optic nerve damage; drugs such as timolol, pilocarpine.\n5. Conjunctivitis, night blindness (vitamin A deficiency), colour blindness (inherited, mostly males)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the auditory ossicles.",
+      "answer": "Malleus, incus and stapes (the stapes is the smallest bone in the body)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the blind spot?",
+      "answer": "The optic disc, where the optic nerve leaves the eye; it has no rods or cones, so light falling on it is not seen."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the anatomy of the human heart with a neat labelled diagram. Add a note on the blood circulation through the heart.",
+      "answer": "1. Location: mediastinum, two-thirds left of midline, apex at left fifth intercostal space; size of a fist, about 250–350 g.\n2. Pericardium: fibrous and serous (parietal, visceral) with pericardial fluid.\n3. Wall: epicardium, myocardium (thickest in left ventricle), endocardium.\n4. Chambers: right and left atria, right and left ventricles; septa (fossa ovalis).\n5. Valves: tricuspid, mitral, pulmonary and aortic semilunar; chordae tendineae and papillary muscles.\n6. Great vessels: venae cavae, pulmonary trunk, pulmonary veins, aorta.\n7. Coronary arteries from aortic sinuses; coronary sinus into right atrium.\n8. Labelled diagram.\n9. Flow: venae cavae → RA → tricuspid → RV → pulmonary valve → pulmonary arteries → lungs → pulmonary veins → LA → mitral → LV → aortic valve → aorta → body.\n10. Pulmonary vs systemic circulation; portal circulation."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the conduction system of the heart. Explain the cardiac cycle with its phases and heart sounds.",
+      "answer": "1. Cardiac muscle is autorhythmic; impulses arise in specialised tissue.\n2. SA node (pacemaker, 70–80/min) in RA wall → atria contract.\n3. AV node (40–60/min) with about 0.1 s delay → bundle of His → right and left bundle branches → Purkinje fibres (20–40/min) → ventricles contract from apex upward; diagram.\n4. Pacemaker potential (funny current, Ca2+) and ventricular action potential with plateau → long refractory period, no tetanus.\n5. Cardiac cycle 0.8 s at 75/min; atrial systole 0.1 s, atrial diastole 0.7 s.\n6. Ventricular systole 0.3 s: isovolumetric contraction (AV valves close, S1), ejection (semilunar valves open).\n7. Ventricular diastole 0.5 s: isovolumetric relaxation (semilunar valves close, S2), rapid filling, slow filling, atrial systole.\n8. S1 'lub' longer and low pitched; S2 'dub' short and sharp.\n9. Pressure–time diagram of LV and aorta.\n10. Applied: heart block, ectopic pacemaker, shortened diastole at high heart rates."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define blood pressure. Describe the factors affecting it and the mechanisms of its regulation.",
+      "answer": "1. BP: lateral pressure exerted by blood on arterial walls; normal 120/80 mmHg; pulse pressure 40; MAP = diastolic + one-third pulse pressure (about 93 mmHg).\n2. BP = cardiac output × total peripheral resistance.\n3. Factors: heart rate, stroke volume, blood volume, viscosity, arteriolar diameter, arterial elasticity; age, exercise, emotion, posture.\n4. Short-term nervous control: baroreceptors in carotid sinus (IX) and aortic arch (X) → medulla vasomotor and cardiac centres.\n5. Rise in BP → more vagal and less sympathetic activity → lower heart rate, vasodilation → BP falls; reverse when BP falls.\n6. Chemoreceptor reflex (carotid and aortic bodies) and CNS ischaemic response.\n7. Hormonal: adrenaline, noradrenaline; RAAS — renin → angiotensin I → ACE → angiotensin II (vasoconstriction, aldosterone, ADH, thirst).\n8. ADH retains water; atrial natriuretic peptide lowers BP.\n9. Long-term renal control of salt and water (pressure natriuresis).\n10. Measurement by sphygmomanometer (Korotkoff sounds); hypertension and drug classes acting on these mechanisms."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define cardiac output. Describe the factors affecting it.",
+      "answer": "1. Cardiac output: blood pumped by each ventricle per minute = stroke volume × heart rate ≈ 70 ml × 72 ≈ 5 L/min.\n2. Stroke volume = EDV (about 130 ml) − ESV (about 60 ml); ejection fraction about 55–65%; cardiac index about 3.2 L/min/m².\n3. Preload and Frank–Starling law: greater stretch → stronger contraction.\n4. Contractility (sympathetic, adrenaline, Ca2+, digoxin increase it); afterload (high arterial pressure lowers SV).\n5. Heart rate; others — exercise, posture, emotion, temperature, pregnancy."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Draw a normal ECG and explain its waves and intervals.",
+      "answer": "1. ECG: surface recording of the heart's electrical activity; 12 leads — I, II, III (Einthoven's triangle), aVR, aVL, aVF, V1–V6.\n2. P wave: atrial depolarisation (about 0.08–0.10 s).\n3. QRS complex: ventricular depolarisation (under 0.12 s); atrial repolarisation hidden; T wave: ventricular repolarisation.\n4. PR interval 0.12–0.20 s (AV conduction); QT interval about 0.36–0.44 s; ST segment isoelectric.\n5. Paper 25 mm/s (small square 0.04 s), 10 mm = 1 mV; uses — arrhythmias, heart block, MI, chamber enlargement, electrolyte effects."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between arteries, veins and capillaries.",
+      "answer": "1. Arteries carry blood away from the heart; veins towards; capillaries join arterioles and venules.\n2. Arteries: thick tunica media with smooth muscle and elastic tissue, narrow round lumen; veins: thin wall, wide lumen; capillaries: single layer of endothelium.\n3. Arteries have high pulsatile pressure and no valves; veins low pressure with valves.\n4. Arteries carry oxygenated blood except pulmonary arteries; veins deoxygenated except pulmonary veins.\n5. Functions: arterioles control resistance; veins act as blood reservoir; capillaries are the exchange site (continuous, fenestrated, sinusoidal)."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the regulation of heart rate by the autonomic nervous system.",
+      "answer": "1. Cardiac centre in medulla oblongata with cardioacceleratory and cardioinhibitory parts.\n2. Sympathetic cardiac nerves release noradrenaline on β1 receptors → raised rate, force and conduction.\n3. Vagus releases acetylcholine on M2 receptors at SA and AV nodes → slower rate and AV conduction; vagal tone keeps rest rate about 72/min.\n4. Inputs: baroreceptors, chemoreceptors, higher centres, proprioceptors; hormones (adrenaline, thyroxine), temperature, ions.\n5. Applied: atropine raises heart rate; propranolol lowers it."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is arterial pulse? Name the sites of recording and describe its examination.",
+      "answer": "1. Pulse: rhythmic expansion and recoil of an artery caused by the pressure wave of each ventricular ejection.\n2. Sites: radial, carotid, brachial, temporal, facial, femoral, popliteal, posterior tibial, dorsalis pedis.\n3. Normal rate 60–100/min (average 72); faster in children.\n4. Examined for rate, rhythm, volume, character, vessel wall condition, equality on both sides.\n5. Tachycardia (>100), bradycardia (<60), sinus arrhythmia, pulse deficit in atrial fibrillation."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What causes the first and second heart sounds?",
+      "answer": "First sound (lub) — closure of the AV (tricuspid and mitral) valves at the start of ventricular systole; second sound (dub) — closure of the aortic and pulmonary semilunar valves at the start of diastole."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is the SA node called the pacemaker of the heart?",
+      "answer": "It has the fastest rate of spontaneous depolarisation (about 70–80 per minute), so its impulses set the rhythm of the whole heart."
+    }
+  ]
+}

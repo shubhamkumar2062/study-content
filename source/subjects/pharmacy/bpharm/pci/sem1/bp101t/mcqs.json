@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The basic structural and functional unit of life is the:",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ",
+        "Molecule"
+      ],
+      "correct": 0,
+      "explanation": "All living things are built of cells, the smallest units that show life processes.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which of the following is an example of positive feedback?",
+      "options": [
+        "Baroreceptor control of blood pressure",
+        "Oxytocin release during childbirth",
+        "Sweating when body temperature rises",
+        "Insulin release after a meal"
+      ],
+      "correct": 1,
+      "explanation": "Oxytocin strengthens uterine contractions, which release more oxytocin until delivery ends the loop.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The plane that divides the body into anterior and posterior parts is the:",
+      "options": [
+        "Sagittal plane",
+        "Transverse plane",
+        "Frontal (coronal) plane",
+        "Midsagittal plane"
+      ],
+      "correct": 2,
+      "explanation": "The frontal plane runs side to side and separates front from back.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The Na+/K+ ATPase pump moves, per ATP:",
+      "options": [
+        "2 Na+ out and 3 K+ in",
+        "3 K+ out and 2 Na+ in",
+        "1 Na+ out and 1 K+ in",
+        "3 Na+ out and 2 K+ in"
+      ],
+      "correct": 3,
+      "explanation": "This primary active pump keeps Na+ high outside and K+ high inside the cell.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Detoxification of drugs in liver cells mainly takes place in the:",
+      "options": [
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosomes",
+        "Nucleolus"
+      ],
+      "correct": 0,
+      "explanation": "SER of hepatocytes carries drug-metabolising enzymes such as cytochrome P450.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Red blood cells placed in a hypotonic solution will:",
+      "options": [
+        "Shrink (crenate)",
+        "Swell and burst (haemolyse)",
+        "Remain unchanged",
+        "Divide by mitosis"
+      ],
+      "correct": 1,
+      "explanation": "Water enters the cells by osmosis from the dilute outside solution.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Chromosomes line up at the equator of the cell during:",
+      "options": [
+        "Prophase",
+        "Anaphase",
+        "Metaphase",
+        "Telophase"
+      ],
+      "correct": 2,
+      "explanation": "In metaphase spindle fibres attach at centromeres and chromosomes align on the metaphase plate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Gap junctions are important because they:",
+      "options": [
+        "Seal the space between cells completely",
+        "Anchor cells to the basement membrane",
+        "Store calcium for contraction",
+        "Allow ions to pass directly between adjacent cells"
+      ],
+      "correct": 3,
+      "explanation": "Connexon channels electrically couple cells such as cardiac muscle fibres.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Histamine acting on nearby cells is an example of which form of signalling?",
+      "options": [
+        "Paracrine",
+        "Endocrine",
+        "Synaptic",
+        "Contact-dependent"
+      ],
+      "correct": 0,
+      "explanation": "Paracrine mediators diffuse only a short distance to neighbouring cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The epithelium lining the urinary bladder is:",
+      "options": [
+        "Simple squamous epithelium",
+        "Transitional epithelium",
+        "Pseudostratified ciliated columnar epithelium",
+        "Keratinised stratified squamous epithelium"
+      ],
+      "correct": 1,
+      "explanation": "Transitional cells change shape as the bladder stretches.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The layer of epidermis found only in thick skin of palms and soles is the:",
+      "options": [
+        "Stratum basale",
+        "Stratum spinosum",
+        "Stratum lucidum",
+        "Stratum granulosum"
+      ],
+      "correct": 2,
+      "explanation": "Stratum lucidum is a clear layer present only in thick skin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Vitamin D3 is synthesised in the skin from:",
+      "options": [
+        "Melanin",
+        "Keratin",
+        "Sebum",
+        "7-dehydrocholesterol"
+      ],
+      "correct": 3,
+      "explanation": "UV light converts 7-dehydrocholesterol to cholecalciferol (vitamin D3).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The total number of bones in the adult human skeleton is:",
+      "options": [
+        "206",
+        "180",
+        "212",
+        "226"
+      ],
+      "correct": 0,
+      "explanation": "Axial 80 + appendicular 126 = 206.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The only movable bone of the skull is the:",
+      "options": [
+        "Maxilla",
+        "Mandible",
+        "Vomer",
+        "Sphenoid"
+      ],
+      "correct": 1,
+      "explanation": "The mandible moves at the temporomandibular joint.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The second cervical vertebra (axis) is identified by its:",
+      "options": [
+        "Absence of a body",
+        "Rib facets",
+        "Dens (odontoid process)",
+        "Very long spinous process"
+      ],
+      "correct": 2,
+      "explanation": "The dens forms a pivot with the atlas for rotation of the head.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The patella is an example of a:",
+      "options": [
+        "Short bone",
+        "Flat bone",
+        "Irregular bone",
+        "Sesamoid bone"
+      ],
+      "correct": 3,
+      "explanation": "It develops within the quadriceps tendon; it is the largest sesamoid bone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "During skeletal muscle contraction, calcium binds to:",
+      "options": [
+        "Troponin C",
+        "Tropomyosin",
+        "Myosin head",
+        "Actin directly"
+      ],
+      "correct": 0,
+      "explanation": "Ca2+ binding to troponin shifts tropomyosin and exposes binding sites on actin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The neurotransmitter at the neuromuscular junction is:",
+      "options": [
+        "Noradrenaline",
+        "Acetylcholine",
+        "Dopamine",
+        "GABA"
+      ],
+      "correct": 1,
+      "explanation": "ACh acts on nicotinic receptors of the motor end plate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The shoulder joint is an example of a:",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Ball and socket joint",
+        "Saddle joint"
+      ],
+      "correct": 2,
+      "explanation": "A rounded humeral head fits the glenoid cavity, allowing movement in all axes.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Rigor mortis after death is due to the lack of:",
+      "options": [
+        "Calcium",
+        "Acetylcholine",
+        "Myoglobin",
+        "ATP"
+      ],
+      "correct": 3,
+      "explanation": "ATP is needed to detach myosin from actin; without it the cross-bridges stay locked.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The normal life span of a red blood cell is about:",
+      "options": [
+        "120 days",
+        "10 days",
+        "30 days",
+        "1 year"
+      ],
+      "correct": 0,
+      "explanation": "Old RBCs are removed mainly by macrophages of the spleen and liver.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The most numerous white blood cells in normal adult blood are:",
+      "options": [
+        "Lymphocytes",
+        "Neutrophils",
+        "Monocytes",
+        "Eosinophils"
+      ],
+      "correct": 1,
+      "explanation": "Neutrophils form about 50–70% of the differential count.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Erythropoietin is mainly secreted by the:",
+      "options": [
+        "Liver",
+        "Spleen",
+        "Kidneys",
+        "Bone marrow"
+      ],
+      "correct": 2,
+      "explanation": "Kidneys release erythropoietin when tissue oxygen falls.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Which clotting factor is calcium?",
+      "options": [
+        "Factor II",
+        "Factor VIII",
+        "Factor X",
+        "Factor IV"
+      ],
+      "correct": 3,
+      "explanation": "Calcium ions are factor IV and are needed at several steps of the cascade.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Haemophilia A is due to deficiency of factor:",
+      "options": [
+        "VIII",
+        "IX",
+        "XI",
+        "VII"
+      ],
+      "correct": 0,
+      "explanation": "Factor VIII (antihaemophilic factor) deficiency is X-linked.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A person with blood group O has in the plasma:",
+      "options": [
+        "No antibodies",
+        "Both anti-A and anti-B antibodies",
+        "Only anti-A antibody",
+        "Only anti-B antibody"
+      ],
+      "correct": 1,
+      "explanation": "Group O RBCs lack A and B antigens, so plasma carries both antibodies.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Megaloblastic anaemia is caused by deficiency of:",
+      "options": [
+        "Iron",
+        "Vitamin K",
+        "Vitamin B12 or folic acid",
+        "Vitamin C"
+      ],
+      "correct": 2,
+      "explanation": "Both are needed for DNA synthesis in developing red cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Kupffer cells are macrophages found in the:",
+      "options": [
+        "Brain",
+        "Lungs",
+        "Skin",
+        "Liver"
+      ],
+      "correct": 3,
+      "explanation": "They line liver sinusoids and are part of the reticulo-endothelial system.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The thoracic duct empties lymph into the:",
+      "options": [
+        "Junction of left subclavian and internal jugular veins",
+        "Right atrium directly",
+        "Superior vena cava directly",
+        "Portal vein"
+      ],
+      "correct": 0,
+      "explanation": "The right lymphatic duct drains into the corresponding junction on the right.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Which anticoagulant acts by activating antithrombin III?",
+      "options": [
+        "Warfarin",
+        "Heparin",
+        "Sodium citrate",
+        "EDTA"
+      ],
+      "correct": 1,
+      "explanation": "Heparin speeds antithrombin's inhibition of thrombin and factor Xa.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The sympathetic outflow arises from the spinal segments:",
+      "options": [
+        "S2 to S4",
+        "C1 to C8",
+        "T1 to L2",
+        "L3 to S1"
+      ],
+      "correct": 2,
+      "explanation": "Sympathetic preganglionic neurons lie in the lateral horn of T1–L2 (thoracolumbar).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Postganglionic parasympathetic fibres release:",
+      "options": [
+        "Noradrenaline",
+        "Adrenaline",
+        "Serotonin",
+        "Acetylcholine"
+      ],
+      "correct": 3,
+      "explanation": "ACh acts on muscarinic receptors of the effector organs.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Stimulation of the parasympathetic system causes:",
+      "options": [
+        "Constriction of the pupil",
+        "Dilation of the bronchi",
+        "Increase in heart rate",
+        "Glycogenolysis in the liver"
+      ],
+      "correct": 0,
+      "explanation": "The oculomotor nerve's parasympathetic fibres contract the sphincter pupillae (miosis).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The number of pairs of spinal nerves is:",
+      "options": [
+        "12",
+        "31",
+        "33",
+        "26"
+      ],
+      "correct": 1,
+      "explanation": "8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The phrenic nerve, which supplies the diaphragm, arises from:",
+      "options": [
+        "C5 to T1",
+        "T1 to T4",
+        "C3, C4, C5",
+        "L1 to L4"
+      ],
+      "correct": 2,
+      "explanation": "It is a branch of the cervical plexus.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Which cranial nerve is purely motor?",
+      "options": [
+        "Trigeminal (V)",
+        "Facial (VII)",
+        "Vagus (X)",
+        "Hypoglossal (XII)"
+      ],
+      "correct": 3,
+      "explanation": "The hypoglossal nerve supplies the muscles of the tongue.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Rods of the retina contain the pigment:",
+      "options": [
+        "Rhodopsin",
+        "Melanin",
+        "Haemoglobin",
+        "Iodopsin only"
+      ],
+      "correct": 0,
+      "explanation": "Rhodopsin needs vitamin A; its lack causes night blindness.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Myopia is corrected by using a:",
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Cylindrical lens",
+        "Bifocal convex lens only"
+      ],
+      "correct": 1,
+      "explanation": "A concave lens diverges light so the image moves back onto the retina.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The organ of Corti is located in the:",
+      "options": [
+        "Semicircular canals",
+        "Middle ear",
+        "Cochlea",
+        "Utricle"
+      ],
+      "correct": 2,
+      "explanation": "It holds the hair cells that are the receptors for hearing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Papillae of the tongue that do NOT contain taste buds are:",
+      "options": [
+        "Fungiform",
+        "Circumvallate",
+        "Foliate",
+        "Filiform"
+      ],
+      "correct": 3,
+      "explanation": "Filiform papillae are the most numerous and give a rough surface for grip.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The pacemaker of the heart is the:",
+      "options": [
+        "SA node",
+        "AV node",
+        "Bundle of His",
+        "Purkinje fibres"
+      ],
+      "correct": 0,
+      "explanation": "The SA node has the fastest rate of spontaneous depolarisation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The valve between the left atrium and the left ventricle is the:",
+      "options": [
+        "Tricuspid valve",
+        "Mitral (bicuspid) valve",
+        "Aortic valve",
+        "Pulmonary valve"
+      ],
+      "correct": 1,
+      "explanation": "The mitral valve has two cusps.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The duration of one cardiac cycle at a heart rate of 75 per minute is:",
+      "options": [
+        "0.3 s",
+        "0.5 s",
+        "0.8 s",
+        "1.2 s"
+      ],
+      "correct": 2,
+      "explanation": "60 ÷ 75 = 0.8 s, made of 0.3 s ventricular systole and 0.5 s diastole.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Normal resting cardiac output in an adult is about:",
+      "options": [
+        "1 L/min",
+        "10 L/min",
+        "15 L/min",
+        "5 L/min"
+      ],
+      "correct": 3,
+      "explanation": "Stroke volume about 70 ml × heart rate about 72 ≈ 5 L/min.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The QRS complex of the ECG represents:",
+      "options": [
+        "Ventricular depolarisation",
+        "Atrial depolarisation",
+        "Ventricular repolarisation",
+        "Atrial repolarisation only"
+      ],
+      "correct": 0,
+      "explanation": "Atrial repolarisation is hidden within the QRS complex.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The normal PR interval is:",
+      "options": [
+        "0.02–0.06 s",
+        "0.12–0.20 s",
+        "0.40–0.60 s",
+        "0.80–1.00 s"
+      ],
+      "correct": 1,
+      "explanation": "It measures conduction from the atria through the AV node.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The first heart sound is produced by closure of the:",
+      "options": [
+        "Semilunar valves",
+        "Foramen ovale",
+        "Atrioventricular valves",
+        "Coronary sinus"
+      ],
+      "correct": 2,
+      "explanation": "Closure of mitral and tricuspid valves at the start of ventricular systole gives 'lub'.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Baroreceptors controlling blood pressure are located in the:",
+      "options": [
+        "Medulla oblongata only",
+        "Juxtaglomerular apparatus",
+        "Right atrium only",
+        "Carotid sinus and aortic arch"
+      ],
+      "correct": 3,
+      "explanation": "Signals travel via the glossopharyngeal and vagus nerves to the medulla.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Angiotensin II raises blood pressure mainly by:",
+      "options": [
+        "Vasoconstriction and aldosterone release",
+        "Reducing heart rate",
+        "Increasing sodium excretion",
+        "Dilating arterioles"
+      ],
+      "correct": 0,
+      "explanation": "It constricts arterioles and makes the adrenal cortex retain salt and water.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Which vessels have valves to prevent backflow?",
+      "options": [
+        "Arteries",
+        "Veins",
+        "Arterioles",
+        "Capillaries"
+      ],
+      "correct": 1,
+      "explanation": "Valves, especially in limb veins, keep blood moving towards the heart.",
+      "probability": "medium"
+    }
+  ]
+}

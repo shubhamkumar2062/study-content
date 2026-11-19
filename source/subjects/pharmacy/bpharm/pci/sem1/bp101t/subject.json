@@ -1,0 +1,128 @@
+{
+  "code": "BP101T",
+  "title": "Human Anatomy and Physiology I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP101T Human Anatomy and Physiology I and BP107P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP101T_B.Pharma-pages-2.pdf"
+  },
+  "practicalCodes": [
+    "BP107P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to human body, cells and tissues",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Integumentary system, skeletal system and joints",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Body fluids, blood and lymphatic system",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Peripheral nervous system and special senses",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Cardiovascular system",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "compound-microscope",
+      "title": "Study of the compound microscope",
+      "file": "practicals/compound-microscope.md"
+    },
+    {
+      "id": "epithelial-connective-tissue",
+      "title": "Microscopic study of epithelial and connective tissue",
+      "file": "practicals/epithelial-connective-tissue.md"
+    },
+    {
+      "id": "muscular-nervous-tissue",
+      "title": "Microscopic study of muscular and nervous tissue",
+      "file": "practicals/muscular-nervous-tissue.md"
+    },
+    {
+      "id": "axial-bones",
+      "title": "Identification of axial bones",
+      "file": "practicals/axial-bones.md"
+    },
+    {
+      "id": "appendicular-bones",
+      "title": "Identification of appendicular bones",
+      "file": "practicals/appendicular-bones.md"
+    },
+    {
+      "id": "haemocytometry",
+      "title": "Introduction to haemocytometry",
+      "file": "practicals/haemocytometry.md"
+    },
+    {
+      "id": "wbc-count",
+      "title": "Total white blood cell (WBC) count",
+      "file": "practicals/wbc-count.md"
+    },
+    {
+      "id": "rbc-count",
+      "title": "Total red blood cell (RBC) count",
+      "file": "practicals/rbc-count.md"
+    },
+    {
+      "id": "bleeding-time",
+      "title": "Determination of bleeding time",
+      "file": "practicals/bleeding-time.md"
+    },
+    {
+      "id": "clotting-time",
+      "title": "Determination of clotting time",
+      "file": "practicals/clotting-time.md"
+    },
+    {
+      "id": "haemoglobin-estimation",
+      "title": "Estimation of haemoglobin (Sahli's method)",
+      "file": "practicals/haemoglobin-estimation.md"
+    },
+    {
+      "id": "blood-group",
+      "title": "Determination of blood group",
+      "file": "practicals/blood-group.md"
+    },
+    {
+      "id": "esr",
+      "title": "Determination of erythrocyte sedimentation rate (ESR)",
+      "file": "practicals/esr.md"
+    },
+    {
+      "id": "heart-rate-pulse-rate",
+      "title": "Determination of heart rate and pulse rate",
+      "file": "practicals/heart-rate-pulse-rate.md"
+    },
+    {
+      "id": "blood-pressure",
+      "title": "Recording of blood pressure",
+      "file": "practicals/blood-pressure.md"
+    }
+  ]
+}
