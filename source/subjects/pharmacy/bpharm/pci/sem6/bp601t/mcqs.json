@@ -1,0 +1,544 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The penicillin nucleus consists of a beta-lactam ring fused to a:",
+      "options": ["Thiazolidine ring", "Dihydrothiazine ring", "Oxazolidine ring", "Pyrrolidine ring"],
+      "correct": 0,
+      "explanation": "Penicillins have a four-membered beta-lactam fused to a five-membered thiazolidine ring, together called penam.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The configuration of the three chiral centres of natural penicillins is:",
+      "options": ["3R, 5S, 6S", "3S, 5R, 6R", "3S, 5S, 6R", "3R, 5R, 6S"],
+      "correct": 1,
+      "explanation": "Active penicillins are 3S, 5R, 6R, with the hydrogens at C5 and C6 cis to each other.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Hydrolysis of the beta-lactam ring of penicillin by alkali or by penicillinase gives:",
+      "options": ["Penillic acid", "Penicillenic acid", "Penicilloic acid", "Penicillamine"],
+      "correct": 2,
+      "explanation": "Opening of the ring by hydroxide or the enzyme gives inactive penicilloic acid; acid conditions instead give penicillenic and then penillic acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The major antigenic determinant responsible for penicillin allergy is the:",
+      "options": ["Thiazolidine ring", "Free carboxyl group", "Sulphur atom", "Penicilloyl-protein conjugate"],
+      "correct": 3,
+      "explanation": "Amino groups of body proteins open the beta-lactam to give penicilloyl amides, which act as haptens.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Which penicillin is resistant to penicillinase because of a bulky side chain?",
+      "options": ["Cloxacillin", "Ampicillin", "Carbenicillin", "Benzylpenicillin"],
+      "correct": 0,
+      "explanation": "The 3-aryl-5-methylisoxazolyl side chain of cloxacillin shields the beta-lactam from the enzyme.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A 7-alpha-methoxy group on the cephem nucleus is characteristic of:",
+      "options": ["Monobactams", "Cephamycins", "Carbapenems", "Clavams"],
+      "correct": 1,
+      "explanation": "Cefoxitin and cefotetan carry a 7-alpha-methoxy group that gives beta-lactamase stability and anaerobic cover.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Clavulanic acid differs from penicillins in that its bicyclic system contains:",
+      "options": ["A sulphone group", "A carbon in place of sulphur", "Oxygen in place of sulphur", "A second nitrogen atom"],
+      "correct": 2,
+      "explanation": "Clavulanic acid is a clavam, in which the five-membered ring contains oxygen instead of sulphur.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Aztreonam is best described as a:",
+      "options": ["Cephamycin", "Carbapenem", "Clavam", "Monobactam"],
+      "correct": 3,
+      "explanation": "Aztreonam is a monocyclic beta-lactam activated by an N-sulphonic acid group and is active only against aerobic Gram-negative bacilli.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The aminocyclitol present in streptomycin is:",
+      "options": ["Streptidine", "2-Deoxystreptamine", "Neosamine", "Mycosamine"],
+      "correct": 0,
+      "explanation": "Streptomycin contains streptidine, while neomycin, kanamycin and gentamicin contain 2-deoxystreptamine.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Treatment of streptomycin with alkali gives a violet colour with ferric ion because it forms:",
+      "options": ["Streptidine", "Maltol", "Penilloaldehyde", "Mycosamine"],
+      "correct": 1,
+      "explanation": "In alkali the streptose portion rearranges to maltol, which gives the characteristic colour with ferric ions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Tetracyclines are deposited in growing teeth and bone because they:",
+      "options": ["Are strongly basic", "Bind plasma albumin", "Chelate calcium ions", "Are excreted in saliva"],
+      "correct": 2,
+      "explanation": "The keto-enol systems of the lower face chelate calcium, so the drug is laid down in calcifying tissue and stains teeth.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Which tetracycline cannot form anhydro and iso degradation products?",
+      "options": ["Chlortetracycline", "Oxytetracycline", "Tetracycline", "Doxycycline"],
+      "correct": 3,
+      "explanation": "Doxycycline lacks the 6-hydroxyl group required for both dehydration and the base-catalysed ring opening.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The aglycone of erythromycin is called:",
+      "options": ["Erythronolide", "Desosamine", "Cladinose", "Mycaminose"],
+      "correct": 0,
+      "explanation": "Erythromycin is a 14-membered lactone, erythronolide, carrying cladinose and desosamine.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Erythromycin is inactivated in gastric acid mainly by:",
+      "options": ["Hydrolysis of the lactone ring", "Formation of an anhydro hemiketal and spiroketal", "Loss of the amino sugar", "Oxidation of the amino group"],
+      "correct": 1,
+      "explanation": "The 6-hydroxyl adds to the C9 ketone, and loss of water followed by addition of the 12-hydroxyl gives inactive ketals.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Clarithromycin is more acid stable than erythromycin because it is:",
+      "options": ["A 15-membered azalide", "An ester prodrug", "6-O-methylerythromycin", "A ketolide"],
+      "correct": 2,
+      "explanation": "Methylating the 6-hydroxyl prevents its attack on the C9 ketone, so the inactivating ketal cannot form.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The biologically active stereoisomer of chloramphenicol is:",
+      "options": ["L-threo", "D-erythro", "L-erythro", "D-threo"],
+      "correct": 3,
+      "explanation": "Only the D-(-)-threo form, that is 1R,2R, is active; the other three isomers are inactive.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Chloramphenicol palmitate is used mainly to:",
+      "options": ["Mask the bitter taste for oral suspension", "Allow intravenous injection", "Prolong the duration of action", "Prevent aplastic anaemia"],
+      "correct": 0,
+      "explanation": "The palmitate ester of the C3 hydroxyl is tasteless and is hydrolysed in the intestine; the succinate is the water-soluble form for injection.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Clindamycin is chemically:",
+      "options": ["A 16-membered macrolide", "7(S)-Chloro-7-deoxylincomycin", "A streptogramin", "An oxazolidinone"],
+      "correct": 1,
+      "explanation": "Replacing the 7(R)-hydroxyl of lincomycin by 7(S)-chlorine gives clindamycin, with better absorption and potency.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Sulfasalazine is an example of which type of prodrug?",
+      "options": ["Mutual prodrug", "Macromolecular prodrug", "Site-specific prodrug", "Bioprecursor"],
+      "correct": 2,
+      "explanation": "Colonic bacteria split its azo bond, releasing 5-aminosalicylic acid where it is needed in the colon.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Which of the following is a mutual prodrug?",
+      "options": ["Enalapril", "Levodopa", "Dipivefrine", "Sultamicillin"],
+      "correct": 3,
+      "explanation": "Sultamicillin joins ampicillin and sulbactam, each acting as the carrier of the other.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Chloroquine kills the malaria parasite chiefly by:",
+      "options": ["Preventing the polymerisation of haem to haemozoin", "Inhibiting dihydrofolate reductase", "Blocking protein synthesis", "Generating free radicals from a peroxide bridge"],
+      "correct": 0,
+      "explanation": "The drug is trapped in the acidic food vacuole, binds haem and prevents its detoxification to haemozoin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "In the structure-activity relationship of 4-aminoquinolines, maximum activity requires a halogen at position:",
+      "options": ["4", "7", "6", "8"],
+      "correct": 1,
+      "explanation": "A chlorine atom at position 7 of the quinoline ring is essential for full antimalarial activity.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Which drug gives radical cure of vivax malaria by killing hypnozoites?",
+      "options": ["Chloroquine", "Mefloquine", "Primaquine", "Artesunate"],
+      "correct": 2,
+      "explanation": "Only the 8-aminoquinolines act on the dormant liver forms of Plasmodium vivax and ovale.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Proguanil is active because the body converts it to:",
+      "options": ["Chloroquine", "Pyrimethamine", "Dapsone", "Cycloguanil"],
+      "correct": 3,
+      "explanation": "Proguanil is a biguanide bioprecursor cyclised in the liver to the dihydrotriazine cycloguanil, which inhibits plasmodial dihydrofolate reductase.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Isoniazid is chemically:",
+      "options": ["Isonicotinic acid hydrazide", "Nicotinic acid amide", "Pyrazine-2-carboxamide", "Pyridine-2-carboxylic acid"],
+      "correct": 0,
+      "explanation": "Isoniazid is the hydrazide of pyridine-4-carboxylic acid; the 4-position is essential for activity.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Isoniazid is activated inside the mycobacterium by the enzyme:",
+      "options": ["Pyrazinamidase", "KatG catalase-peroxidase", "Arabinosyl transferase", "RNA polymerase"],
+      "correct": 1,
+      "explanation": "KatG oxidises isoniazid to a radical that forms an NAD adduct inhibiting InhA, the enzyme of mycolic acid synthesis.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Optic neuritis with loss of red-green colour vision is characteristic of:",
+      "options": ["Rifampicin", "Pyrazinamide", "Ethambutol", "Streptomycin"],
+      "correct": 2,
+      "explanation": "Ethambutol causes dose-related optic neuritis, which is usually reversible if the drug is stopped early.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Pyrazinamide is effective mainly because its active metabolite acts:",
+      "options": ["Only on extracellular bacilli", "Only in alkaline medium", "On the ribosome", "Only in an acidic medium"],
+      "correct": 3,
+      "explanation": "Pyrazinoic acid works at acidic pH, that is inside macrophages and in caseous material, which is why it shortens treatment.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Rifampicin acts by inhibiting:",
+      "options": ["DNA-dependent RNA polymerase", "DNA gyrase", "Dihydrofolate reductase", "Arabinosyl transferase"],
+      "correct": 0,
+      "explanation": "It binds the beta subunit of bacterial RNA polymerase, so messenger RNA synthesis stops.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Cycloserine is a structural analogue of:",
+      "options": ["Glycine", "D-Alanine", "Glutamic acid", "Lysine"],
+      "correct": 1,
+      "explanation": "It is a rigid cyclic analogue of D-alanine and blocks alanine racemase and D-alanyl-D-alanine ligase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "In quinolones the two groups essential for activity are at positions:",
+      "options": ["1 and 6", "6 and 7", "3 and 4", "7 and 8"],
+      "correct": 2,
+      "explanation": "The 3-carboxylic acid and the 4-oxo group together chelate the magnesium ion that anchors the drug to the DNA-enzyme complex.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Levofloxacin is:",
+      "options": ["A prodrug of ofloxacin", "The racemate of ofloxacin", "A metabolite of ciprofloxacin", "The (S)-enantiomer of ofloxacin"],
+      "correct": 3,
+      "explanation": "The oxazine ring of ofloxacin creates a chiral centre, and the (S)-enantiomer carries almost all the activity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Nitrofurantoin is useful only in lower urinary tract infection because it:",
+      "options": ["Is concentrated in urine and does not reach useful tissue levels", "Is destroyed by gastric acid", "Binds strongly to plasma proteins", "Is active only against Gram-positive organisms"],
+      "correct": 0,
+      "explanation": "It is rapidly excreted and concentrated in the urine, where it also works best at acidic pH, so blood and tissue levels are too low for systemic infection.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Methenamine acts as an antibacterial because it releases:",
+      "options": ["Ammonia", "Formaldehyde", "Mandelic acid", "Nitric oxide"],
+      "correct": 1,
+      "explanation": "In acidic urine hexamethylenetetramine hydrolyses back to formaldehyde, which is a non-specific antibacterial.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The selectivity of acyclovir depends on the first phosphorylation being carried out by:",
+      "options": ["Host thymidylate synthase", "Host adenylate kinase", "Viral thymidine kinase", "Viral DNA polymerase"],
+      "correct": 2,
+      "explanation": "Only infected cells possess viral thymidine kinase, so the drug is activated where the virus is.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Zidovudine terminates the growing DNA chain because it lacks:",
+      "options": ["A nitrogen base", "A phosphate group", "The 5'-hydroxyl group", "The 3'-hydroxyl group"],
+      "correct": 3,
+      "explanation": "Its 3'-hydroxyl is replaced by an azido group, so no further nucleotide can be joined once it is incorporated.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Amphotericin B kills fungi by binding to:",
+      "options": ["Ergosterol in the cell membrane", "Cholesterol in the cell wall", "Chitin of the cell wall", "Fungal ribosomes"],
+      "correct": 0,
+      "explanation": "Several molecules insert against ergosterol and form a pore through which potassium and small molecules leak out.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Azole antifungals act by inhibiting:",
+      "options": ["Squalene epoxidase", "14-alpha-demethylase", "Glucan synthase", "Cytosine deaminase"],
+      "correct": 1,
+      "explanation": "The azole nitrogen binds the haem iron of fungal CYP51, so lanosterol is not converted to ergosterol.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Tolnaftate and terbinafine are fungicidal because they inhibit:",
+      "options": ["14-alpha-demethylase", "Tubulin assembly", "Squalene epoxidase", "Chitin synthase"],
+      "correct": 2,
+      "explanation": "Blocking squalene epoxidase stops ergosterol synthesis and allows toxic squalene to accumulate in the membrane.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Griseofulvin is effective in dermatophyte infection because it:",
+      "options": ["Forms pores in the membrane", "Inhibits ergosterol synthesis", "Is converted to fluorouracil", "Is deposited in newly formed keratin and disrupts the mitotic spindle"],
+      "correct": 3,
+      "explanation": "It binds tubulin and is laid down in keratin, so infection clears only as new skin, hair and nail grow.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Metronidazole is selective for anaerobic organisms because they:",
+      "options": ["Reduce its 5-nitro group to reactive species", "Lack a cell wall", "Concentrate it actively", "Cannot repair DNA"],
+      "correct": 0,
+      "explanation": "Low-redox-potential carriers such as ferredoxin reduce the nitro group, and the products break DNA strands.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "A patient taking metronidazole must be warned to avoid:",
+      "options": ["Milk", "Alcohol", "Citrus fruit", "Iron tablets"],
+      "correct": 1,
+      "explanation": "Metronidazole inhibits aldehyde dehydrogenase and produces a disulfiram-like reaction with alcohol.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Diloxanide furoate is used in amoebiasis as a:",
+      "options": ["Tissue amoebicide", "Systemic amoebicide", "Luminal amoebicide", "Gametocytocide"],
+      "correct": 2,
+      "explanation": "It acts in the bowel lumen and clears cysts, so it is given after metronidazole to prevent relapse.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Mebendazole and albendazole kill worms mainly by binding:",
+      "options": ["Acetylcholine receptors", "Mitochondrial ATP synthase", "Calcium channels", "Parasite beta-tubulin"],
+      "correct": 3,
+      "explanation": "Binding tubulin prevents microtubule assembly and blocks glucose uptake, so the worm is starved of energy.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The drug of choice in lymphatic filariasis is:",
+      "options": ["Diethylcarbamazine citrate", "Niclosamide", "Praziquantel", "Oxamniquine"],
+      "correct": 0,
+      "explanation": "Diethylcarbamazine alters the microfilarial surface so that host phagocytes destroy them.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Ivermectin is safe in man because the channels it opens are:",
+      "options": ["Present only in the kidney", "Confined to the central nervous system behind the blood-brain barrier", "Absent from nerve tissue", "Blocked by plasma proteins"],
+      "correct": 1,
+      "explanation": "Glutamate-gated chloride channels are widespread in invertebrates but in mammals lie behind the blood-brain barrier, which ivermectin does not normally cross.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Sulphonamides act by competing with:",
+      "options": ["Folic acid", "Dihydrofolate", "p-Aminobenzoic acid", "Pteridine"],
+      "correct": 2,
+      "explanation": "They resemble p-aminobenzoic acid and block dihydropteroate synthase, so bacterial folate is not made.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Dapsone is chemically:",
+      "options": ["4-Aminosalicylic acid", "Sulphanilamide", "p-Aminobenzoic acid", "4,4'-Diaminodiphenylsulfone"],
+      "correct": 3,
+      "explanation": "Two p-aminophenyl rings joined by a sulphone bridge; both free amino groups are needed for activity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "In QSAR, biological activity is usually expressed as:",
+      "options": ["log (1/C)", "log C", "1/log C", "C squared"],
+      "correct": 0,
+      "explanation": "Using log (1/C), where C is the concentration producing a standard effect, linearises the relation and gives the more potent compound the larger value.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The hydrophobic substituent constant pi is calculated as:",
+      "options": ["log P of the parent minus log P of the substituted compound", "log P of the substituted compound minus log P of the parent", "The ratio of the two partition coefficients", "The logarithm of the ionisation constant"],
+      "correct": 1,
+      "explanation": "Pi measures the contribution of a substituent to lipophilicity, and the values are approximately additive.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "A positive Hammett sigma value indicates that the substituent is:",
+      "options": ["Bulky", "Lipophilic", "Electron withdrawing", "Electron donating"],
+      "correct": 2,
+      "explanation": "Sigma is derived from the ionisation of substituted benzoic acids; electron-withdrawing groups such as nitro raise acidity and have positive sigma.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Taft's parameter Es is a measure of:",
+      "options": ["Lipophilicity", "Electronic effect", "Hydrogen bonding", "Steric bulk"],
+      "correct": 3,
+      "explanation": "Es is obtained from the acid hydrolysis of esters; a more negative value means a bulkier substituent.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In the Hansch equation the term in the square of log P is included because:",
+      "options": ["Activity passes through an optimum lipophilicity", "Lipophilicity has no effect at low doses", "Partition coefficients are always negative", "It corrects for ionisation"],
+      "correct": 0,
+      "explanation": "The parabolic relation shows that activity rises to an optimum log P and then falls as the compound becomes too lipophilic.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Which approach treats the contribution of each substituent at each position as an additive constant?",
+      "options": ["Hansch analysis", "Free-Wilson analysis", "CoMFA", "Docking"],
+      "correct": 1,
+      "explanation": "Free-Wilson analysis needs no physicochemical parameters and simply adds the contribution of each substituent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "A pharmacophore is best defined as:",
+      "options": ["The most active compound of a series", "The toxic part of a molecule", "The three-dimensional arrangement of features needed for recognition by the target", "A carrier used in prodrug design"],
+      "correct": 2,
+      "explanation": "It is an abstract pattern of features such as donors, acceptors, ionisable centres and hydrophobic groups, not a real molecule.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The two essential components of a docking program are:",
+      "options": ["A spectrometer and a detector", "A database and a spreadsheet", "A force field and a chromatogram", "A search algorithm and a scoring function"],
+      "correct": 3,
+      "explanation": "The search algorithm generates possible poses of the ligand and the scoring function ranks them and estimates binding energy.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "According to Lipinski's rule of five, the molecular weight of an orally active drug should not exceed:",
+      "options": ["500", "250", "750", "1000"],
+      "correct": 0,
+      "explanation": "The limits are molecular weight 500, log P 5, hydrogen bond donors 5 and acceptors 10, with at most one violation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Replacing a carboxylic acid group by a tetrazole ring is an example of:",
+      "options": ["Prodrug design", "Bioisosteric replacement", "Combinatorial synthesis", "Homologation"],
+      "correct": 1,
+      "explanation": "The tetrazole has similar acidity and shape, so activity is retained while metabolic stability and lipophilicity change.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "In the split-and-mix technique with x building blocks used in n steps, the number of compounds obtained is:",
+      "options": ["x times n", "x plus n", "x raised to the power n", "n raised to the power x"],
+      "correct": 2,
+      "explanation": "Each splitting multiplies the diversity, so n steps with x blocks give x to the power n compounds, one on each bead.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "The chief advantage of solid-phase synthesis in combinatorial chemistry is that:",
+      "options": ["Any solution reaction can be used", "Large quantities of each compound are obtained", "The identity of each compound is always known", "Excess reagents and by-products are removed by washing"],
+      "correct": 3,
+      "explanation": "Because the product stays on the resin, simple washing replaces chromatography after every step, which makes automation easy.",
+      "probability": "high"
+    }
+  ]
+}

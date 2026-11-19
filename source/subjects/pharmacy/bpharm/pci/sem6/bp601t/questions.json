@@ -1,0 +1,505 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the chemistry of penicillins: nucleus, nomenclature, stereochemistry, structure-activity relationship and classification with examples.",
+      "answer": "1. Definition: penicillins are N-acyl derivatives of 6-aminopenicillanic acid (6-APA), obtained from Penicillium moulds and by semi-synthesis.\n2. Nucleus: a four-membered beta-lactam ring fused to a five-membered thiazolidine ring; the fused system is called penam, and with the gem-dimethyl and carboxyl groups it is penicillanic acid.\n3. Numbering: S1, C2 carrying two methyl groups, C3 carrying the carboxyl, N4, C5, C6 carrying the acylamino side chain and C7 the lactam carbonyl.\n4. Stereochemistry: three chiral centres, C3, C5 and C6, with the active configuration 3S, 5R, 6R; the hydrogens at C5 and C6 are cis. The folded ring system prevents amide resonance, which makes the beta-lactam reactive.\n5. Mechanism: the beta-lactam mimics the D-alanyl-D-alanine end of the peptidoglycan precursor, so the serine of the transpeptidase (penicillin-binding protein) opens the ring and forms a stable penicilloyl-enzyme; cross-linking fails and the cell lyses. They are bactericidal.\n6. SAR: the beta-lactam ring is essential; the fused thiazolidine ring provides the strain; the free 3-carboxyl group is needed for binding, though esters serve as oral prodrugs; the 3S,5R,6R configuration is required.\n7. SAR of the side chain: an electron-withdrawing group on the alpha carbon (phenoxy, amino) gives acid stability and oral use; a bulky group (dimethoxyphenyl, isoxazolyl, ethoxynaphthyl) gives resistance to penicillinase; a polar group (amino, carboxyl, ureido) extends the spectrum to Gram-negative organisms; in ampicillin the alpha carbon must be D.\n8. Classification: (a) natural - benzylpenicillin, phenoxymethylpenicillin, procaine and benzathine salts; (b) beta-lactamase resistant - methicillin, nafcillin, oxacillin, cloxacillin, dicloxacillin, flucloxacillin; (c) aminopenicillins - ampicillin, amoxicillin and the ester prodrugs pivampicillin, bacampicillin, talampicillin; (d) carboxypenicillins - carbenicillin, ticarcillin; (e) ureidopenicillins - piperacillin, azlocillin, mezlocillin; (f) amidinopenicillin - mecillinam.\n9. Semi-synthesis: penicillin acylase removes the side chain of benzylpenicillin to give 6-APA, which is then acylated with the desired acid chloride under mild conditions.\n10. Uses: streptococcal and pneumococcal infection, syphilis, rheumatic fever prophylaxis, meningitis, urinary and respiratory infection, Helicobacter pylori regimens, serious Pseudomonas infection with the antipseudomonal members.\n11. Adverse effects: hypersensitivity up to anaphylaxis, caused mainly by penicilloyl-protein conjugates; diarrhoea and superinfection; pain at the injection site.",
+      "tags": ["penicillin", "sar", "beta-lactam"]
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the chemical degradation of penicillins and explain how it influences their formulation, assay and allergy.",
+      "answer": "1. Reason for instability: the beta-lactam ring is strained and lacks amide resonance, so its carbonyl is highly electrophilic and is attacked by water, hydroxide, amines and enzymes.\n2. In dilute acid the side-chain amide oxygen attacks the beta-lactam carbonyl by neighbouring-group participation, giving penicillenic acid, which rearranges to penillic acid. Both are inactive.\n3. Consequence: benzylpenicillin is destroyed in gastric acid and must be injected; penicillin V and ampicillin, which carry an electron-withdrawing group on the alpha carbon, survive and can be given orally.\n4. In alkali, or with the enzyme beta-lactamase, water opens the ring to penicilloic acid, which is inactive. This is the commonest mechanism of bacterial resistance.\n5. Penicilloic acid on warming in acid loses carbon dioxide to give penilloic acid; with mercuric chloride it is split into penicillamine and penilloaldehyde.\n6. With amines and with the amino groups of proteins the ring opens to penicilloyl amides. The penicilloyl-protein conjugate acts as a hapten and is the major antigenic determinant of penicillin allergy; the minor determinants are penicilloate and penilloate.\n7. Assay: because penicilloic acid consumes iodine while intact penicillin does not, the drug is assayed iodometrically by titrating the iodine taken up after deliberate alkaline hydrolysis, against a blank.\n8. Formulation consequences: penicillin injections are supplied as dry powders for reconstitution; solutions are used within a short time and kept cold; buffering near neutral pH is used, and contact with alkali, heavy metals and oxidising agents is avoided.\n9. Stability aids: poorly soluble salts such as procaine and benzathine penicillin release the drug slowly and are more stable as suspensions.\n10. Resistance strategy: giving a beta-lactamase inhibitor such as clavulanic acid, sulbactam or tazobactam protects the penicillin from enzymatic opening.\n11. Clinical note: a patient allergic to one penicillin should be regarded as allergic to all of them, because the penicilloyl group common to the class is the antigen.",
+      "tags": ["degradation", "penicillin", "allergy"]
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write the structure-activity relationship of tetracyclines and describe their chemical degradation, mechanism of action, uses and adverse effects.",
+      "answer": "1. Nucleus: a partially hydrogenated naphthacene, that is four linearly fused six-membered rings A, B, C and D, with ring D aromatic; numbering runs C1 to C12 with ring-fusion carbons 4a, 5a, 6a, 10a, 11a and 12a.\n2. Stereochemistry: chiral centres at C4, C4a, C5a, C6 and C12a, with C5 also chiral in oxytetracycline and doxycycline; only the natural configuration is active.\n3. Amphoteric character: three ionisable systems - the C1 to C3 keto-enol, the 4-dimethylamino group and the C10 to C12 phenol-diketone - give three pKa values, so the drugs are used as hydrochlorides.\n4. SAR, essential part: the four linearly fused rings with ring D aromatic; the 2-carboxamide as a primary amide; the 1,3-dicarbonyl system; the 4-dimethylamino group in the natural alpha configuration; and the intact C10 phenol, C11 ketone, C12 enol and 12a-hydroxyl on the lower face.\n5. SAR, modifiable part: positions 5, 5a, 6, 7, 8 and 9 on the upper face may be changed - 5-hydroxyl gives oxytetracycline; loss of the 6-hydroxyl gives doxycycline and minocycline with better stability and longer action; 6-methylene gives methacycline; loss of the 6-methyl gives demeclocycline; 7-chloro raises potency; 7-dimethylamino gives minocycline, the most lipophilic; a 9-glycylamido group gives tigecycline, which overcomes efflux resistance.\n6. Degradation by epimerisation: at pH 2 to 6 the 4-dimethylamino group inverts to give 4-epitetracycline, which is much less active; the change is reversible.\n7. Degradation by dehydration: strong acid removes the 6-hydroxyl and the 5a-hydrogen, aromatising ring C to give anhydrotetracycline, and with epimerisation 4-epianhydrotetracycline, the toxic product of outdated tetracycline that causes a Fanconi-like renal tubular syndrome.\n8. Degradation in alkali: the 6-hydroxyl attacks the C11 ketone, ring C opens and the inactive lactone isotetracycline is formed. Doxycycline and minocycline, having no 6-hydroxyl, cannot form anhydro or iso products.\n9. Chelation: the keto-enol systems bind calcium, magnesium, aluminium and iron, so antacids, milk and iron salts reduce absorption, and the drug is deposited in growing teeth and bones.\n10. Mechanism: active uptake into the bacterium, reversible binding to the 30S ribosomal subunit and blockade of aminoacyl-tRNA binding at the A site; bacteriostatic and broad spectrum.\n11. Uses and adverse effects: rickettsial and chlamydial infections, mycoplasma pneumonia, cholera, brucellosis, Lyme disease, acne, malaria prophylaxis with doxycycline, and inappropriate ADH secretion with demeclocycline; adverse effects are gastrointestinal upset, superinfection, staining of teeth, photosensitivity, hepatotoxicity in pregnancy and vestibular upset with minocycline.",
+      "tags": ["tetracycline", "sar", "degradation"]
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure-activity relationship of cephalosporins.",
+      "answer": "1. Nucleus: beta-lactam fused to a six-membered dihydrothiazine ring, called cephem; the stereochemistry is 6R, 7R with cis hydrogens.\n2. Essential features: the intact beta-lactam, the delta-3 double bond and the 4-carboxyl group; isomerisation to the delta-2 compound gives inactive material.\n3. The 7-acylamino side chain controls spectrum and enzyme stability: an alpha-amino group on a phenylglycine side chain gives oral activity (cephalexin, cefadroxil); a syn-methoxyimino group gives beta-lactamase stability (cefuroxime, cefotaxime); a 2-aminothiazolyl ring gives strong Gram-negative activity.\n4. A 7-alpha-methoxy group gives the cephamycins (cefoxitin, cefotetan), which resist beta-lactamases and cover anaerobes.\n5. The 3-substituent controls pharmacokinetics: acetoxymethyl is hydrolysed by esterases to a weaker desacetyl compound; methyl or chlorine gives oral stability; heterocyclic thiomethyl groups lengthen action, and the N-methyltetrazolethiol group causes hypoprothrombinaemia and a disulfiram-like reaction with alcohol; a quaternary pyridinium group gives a zwitterion with antipseudomonal activity.\n6. Esters of the 4-carboxyl, such as cefuroxime axetil and cefpodoxime proxetil, are oral prodrugs.",
+      "tags": ["cephalosporin", "sar"]
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify cephalosporins into generations with two examples each and state the distinguishing feature of each generation.",
+      "answer": "1. First generation: cephalothin and cefazolin by injection, cephalexin and cefadroxil orally. Mainly Gram-positive activity with some Escherichia coli and Klebsiella; used for skin and soft tissue infection and surgical prophylaxis.\n2. Second generation: cefuroxime and cefaclor, with the cephamycins cefoxitin and cefotetan. Better Gram-negative cover and, for the cephamycins, activity against anaerobes such as Bacteroides fragilis.\n3. Third generation: cefotaxime, ceftriaxone, ceftazidime and cefoperazone, with oral cefixime. Strong Gram-negative activity, good penetration into cerebrospinal fluid, with ceftazidime and cefoperazone active against Pseudomonas; ceftriaxone is used in meningitis, gonorrhoea and typhoid.\n4. Fourth generation: cefepime and cefpirome. Zwitterionic, penetrate the outer membrane rapidly and resist many beta-lactamases, giving both Gram-positive and strong Gram-negative cover.\n5. Fifth generation: ceftaroline fosamil and ceftobiprole, which bind PBP2a and are therefore active against meticillin-resistant Staphylococcus aureus.\n6. General trend: as the generation rises, Gram-negative activity and beta-lactamase stability increase while activity against staphylococci falls, except in the fifth generation.",
+      "tags": ["cephalosporin", "classification"]
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on beta-lactamase inhibitors and monobactams.",
+      "answer": "1. Beta-lactamases are bacterial enzymes that hydrolyse the beta-lactam ring and are the commonest cause of resistance to penicillins and cephalosporins.\n2. Beta-lactamase inhibitors are beta-lactams with little antibacterial action of their own; they acylate the enzyme's active-site serine and then rearrange into a form that cannot be released, so they are mechanism-based or suicide inhibitors.\n3. Clavulanic acid is a clavam, that is a beta-lactam fused to an oxazolidine ring with oxygen in place of sulphur, with no 6-acylamino group; it is obtained from Streptomyces clavuligerus and is combined with amoxicillin or ticarcillin.\n4. Sulbactam is penicillanic acid sulphone, used with ampicillin and with cefoperazone; sultamicillin is the mutual prodrug of ampicillin and sulbactam.\n5. Tazobactam is a penicillanic acid sulphone carrying a triazolylmethyl group and is combined with piperacillin. Avibactam is a newer non-beta-lactam inhibitor used with ceftazidime.\n6. Monobactams have a monocyclic beta-lactam ring activated by an N-sulphonic acid group instead of a second fused ring. Aztreonam, the clinical member, also carries a 4-methyl group and an aminothiazole-oxime side chain; it acts only on aerobic Gram-negative bacilli including Pseudomonas, is given parenterally and shows little cross-allergy with penicillins.",
+      "tags": ["beta-lactamase", "aztreonam"]
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the chemistry, mechanism of action and toxicity of aminoglycoside antibiotics, with streptomycin as the example.",
+      "answer": "1. Chemistry: aminoglycosides are amino sugars linked glycosidically to an aminocyclitol. The cyclitol is streptidine in streptomycin and 2-deoxystreptamine in neomycin, kanamycin, gentamicin, tobramycin and amikacin.\n2. They are polybasic, strongly water-soluble cations used as sulphates; they are therefore not absorbed from the gut, do not enter cells or cerebrospinal fluid well, and are excreted unchanged by the kidney.\n3. Streptomycin, from Streptomyces griseus, consists of streptidine joined to streptobiosamine, which is L-streptose linked to N-methyl-L-glucosamine. Mild acid splits it into streptidine and streptobiosamine; in alkali the streptose part rearranges to maltol, which gives a violet colour with ferric ion and is used in its identification.\n4. Mechanism: uptake requires an oxygen-dependent transport system, so anaerobes are resistant; the drug binds the 30S ribosomal subunit, causes misreading of messenger RNA and blocks initiation, giving faulty proteins that damage the membrane. Killing is bactericidal and concentration dependent, with a post-antibiotic effect that allows once-daily dosing.\n5. Resistance is mainly by bacterial acetyl-, phospho- and adenylyl-transferases; amikacin, made by acylating the 1-amino group of kanamycin A with aminohydroxybutyric acid, resists most of them.\n6. Toxicity: ototoxicity affecting both the cochlea and the vestibule and often irreversible, nephrotoxicity, and neuromuscular blockade, which is dangerous in myasthenia and with curare-like drugs.",
+      "tags": ["aminoglycoside", "streptomycin"]
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give an account of neomycin and kanamycin.",
+      "answer": "1. Neomycin was obtained in 1949 from Streptomyces fradiae and is a mixture of neomycins B and C.\n2. Its structure consists of neamine, that is 2-deoxystreptamine linked to neosamine, joined through a ribose unit to a second neosamine sugar.\n3. It is too ototoxic and nephrotoxic for injection, so it is used topically on skin, eye and ear, often with bacitracin and polymyxin B, and orally, where it is not absorbed, for bowel preparation before surgery and to reduce ammonia-forming bacteria in hepatic encephalopathy.\n4. Kanamycin was obtained in 1957 from Streptomyces kanamyceticus and is a mixture of kanamycins A, B and C; A is the major component. It is 2-deoxystreptamine carrying two amino sugars.\n5. It is given by injection for resistant Gram-negative infection and was used as a second-line drug in tuberculosis; it is ototoxic and nephrotoxic.\n6. Its chief importance today is as the parent of amikacin, in which the 1-amino group of kanamycin A is acylated with L-4-amino-2-hydroxybutyric acid, giving resistance to most aminoglycoside-inactivating enzymes.",
+      "tags": ["neomycin", "kanamycin"]
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is 6-APA and why is it important?",
+      "answer": "6-Aminopenicillanic acid is the penicillin nucleus without its acyl side chain, obtained by enzymatic removal of the side chain of benzylpenicillin with penicillin acylase. It is the starting material for all semi-synthetic penicillins, because acylating its 6-amino group with different acids gives acid-stable, penicillinase-resistant or extended-spectrum members.",
+      "tags": ["6-apa"]
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why should outdated tetracycline preparations not be used?",
+      "answer": "On storage, especially in moist or acidic conditions, tetracycline forms anhydrotetracycline and 4-epianhydrotetracycline. These degradation products damage the renal tubules and can cause a Fanconi-like syndrome with glycosuria, aminoaciduria and acidosis, so outdated or discoloured stock must be destroyed.",
+      "tags": ["tetracycline", "degradation"]
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the chemistry, acid degradation, structure-activity relationship, mechanism and uses of macrolide antibiotics.",
+      "answer": "1. Definition: macrolides are antibiotics built on a large lactone ring of 12 to 16 atoms carrying one or more sugars, at least one of them an amino sugar.\n2. Erythromycin, obtained in 1952 from Saccharopolyspora erythraea, is the parent: a 14-membered lactone called erythronolide bearing the neutral sugar L-cladinose at C3 and the amino sugar D-desosamine at C5, with hydroxyls at C6, C11 and C12 and a ketone at C9.\n3. The dimethylamino group of desosamine makes it basic, so it forms salts such as the stearate and lactobionate and esters such as the ethylsuccinate and the estolate.\n4. Acid degradation: in gastric acid the 6-hydroxyl adds to the C9 ketone to give a hemiketal, which loses water to the 8,9-anhydro-6,9-hemiketal, and the 12-hydroxyl then adds to give the 6,9 to 9,12 spiroketal. Both products are inactive, and the hemiketal stimulates motilin receptors, causing cramps and diarrhoea.\n5. Solutions to the instability: block the 6-hydroxyl by methylation to give clarithromycin; convert the 9-ketone to an oxime ether to give roxithromycin, or expand the ring through a Beckmann rearrangement, reduction and N-methylation to give the 15-membered azalide azithromycin; or protect by enteric coating, salts and esters.\n6. SAR: the macrocyclic lactone is essential and its size defines the subclass; the basic desosamine sugar is essential for ribosome binding, while its 2-hydroxyl may be esterified as a prodrug; removing cladinose and oxidising C3 to a ketone gives the ketolides such as telithromycin; changes at C6 and C9 give acid stability.\n7. Mechanism: binding to the 23S ribosomal RNA of the 50S subunit in the peptide exit tunnel, which blocks translocation of the growing peptide; the effect is bacteriostatic and becomes bactericidal at high concentration.\n8. Spectrum and uses: atypical pneumonia caused by Mycoplasma, Chlamydophila and Legionella; whooping cough; diphtheria carriers; streptococcal infection in penicillin-allergic patients; Campylobacter enteritis.\n9. Clarithromycin is used in Helicobacter pylori eradication and in Mycobacterium avium complex infection; azithromycin is given as a single dose in chlamydial urethritis, in trachoma programmes and in typhoid.\n10. Pharmacokinetics: azithromycin is concentrated in tissues and phagocytes and has a long half-life, so short courses suffice.\n11. Interactions and adverse effects: erythromycin and clarithromycin inhibit CYP3A4 and raise the levels of theophylline, warfarin and statins; azithromycin does so very little. Gastrointestinal upset is common, and the estolate can cause cholestatic hepatitis.",
+      "tags": ["macrolide", "erythromycin"]
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antimalarial drugs according to the stage of the parasite on which they act, and discuss the structure-activity relationship and mechanism of 4-aminoquinolines.",
+      "answer": "1. Aetiology: malaria is caused by Plasmodium falciparum, vivax, ovale, malariae and knowlesi, transmitted by the female Anopheles mosquito.\n2. Life cycle: sporozoites enter the liver and multiply; vivax and ovale leave dormant hypnozoites that cause relapse; merozoites then infect red cells, where the ring, trophozoite and schizont stages produce the fever cycle; some parasites become gametocytes, which continue the cycle in the mosquito.\n3. Classification by stage: tissue schizonticides or causal prophylactics such as primaquine, pyrimethamine and proguanil; hypnozoitocides for radical cure, that is primaquine and tafenoquine; blood schizonticides for clinical cure such as chloroquine, quinine, mefloquine, amodiaquine, artemisinins and sulphadoxine-pyrimethamine; gametocytocides such as primaquine and the artemisinins; and sporontocides such as proguanil and pyrimethamine.\n4. Chemical classification: 4-aminoquinolines, 4-quinolinemethanols, 8-aminoquinolines, biguanides and dihydrotriazines, diaminopyrimidines, sulphonamides and sulfones, sesquiterpene lactones and naphthoquinones.\n5. SAR of 4-aminoquinolines, first point: the quinoline ring with a 4-amino group is essential.\n6. A chlorine at position 7 gives maximum activity; its removal or movement to another position reduces potency sharply.\n7. The side chain should be a diamine with about four carbon atoms between the two nitrogen atoms; shortening or lengthening it lowers activity.\n8. The terminal nitrogen must be tertiary and sufficiently basic, because this is the group that lets the drug accumulate in the acidic food vacuole; branching with a methyl group slows metabolism and the racemate is used because both enantiomers are nearly equally active.\n9. Replacing one ethyl group of the terminal amine with a hydroxyethyl group gives hydroxychloroquine, which is less toxic; replacing the chain with a p-hydroxyanilinomethyl group gives amodiaquine, whose quinoneimine metabolite can cause agranulocytosis and liver damage.\n10. Mechanism: the drug is a weak diprotic base that diffuses in as the free base, becomes protonated and is trapped in the acidic food vacuole, where it reaches very high concentration; there it binds haem released from haemoglobin digestion and prevents its polymerisation to haemozoin, so free haem accumulates and kills the parasite by membrane damage and oxidative stress.\n11. Resistance in falciparum malaria is due mainly to a mutated transporter that removes the drug from the vacuole. Uses of chloroquine include malaria, extra-intestinal amoebiasis, rheumatoid arthritis and lupus; prolonged high doses can cause retinopathy.",
+      "tags": ["antimalarial", "chloroquine", "sar"]
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is a prodrug? Classify prodrugs with examples and discuss their applications in drug design.",
+      "answer": "1. Definition: a prodrug is a chemically modified, pharmacologically inactive or much less active form of a drug that is converted in the body, by enzymes or by chemical means, into the active drug.\n2. It is a solution to a delivery problem - poor absorption, bad taste, irritation, short action, lack of water solubility or lack of selectivity - and not to a lack of potency.\n3. Classification, carrier-linked prodrugs: the drug is joined to a carrier by a bond that the body cleaves, usually an ester; examples are chloramphenicol palmitate, erythromycin estolate and enalapril.\n4. Bioprecursors: there is no carrier, and the molecule itself is metabolised to the active species; examples are levodopa, cyclophosphamide, sulindac and proguanil.\n5. Site-specific or targeted prodrugs: the bond is broken only where the enzyme is found; sulfasalazine is split by colonic bacteria to release 5-aminosalicylic acid in the colon.\n6. Mutual prodrugs or codrugs: two active drugs are joined and each acts as the carrier of the other, as in sultamicillin, which is ampicillin joined to sulbactam, and benorilate, which is aspirin joined to paracetamol.\n7. Macromolecular prodrugs: the drug is attached to a polymer, protein or antibody, as in antibody-drug conjugates.\n8. Applications: improved oral absorption with pivampicillin, bacampicillin, cefuroxime axetil and enalapril; water solubility for injection with chloramphenicol succinate, prednisolone sodium phosphate and fosphenytoin; taste masking with chloramphenicol and clindamycin palmitates.\n9. Further applications: prolonged action with fluphenazine and haloperidol decanoates; reduced local irritation with sulindac; improved chemical stability with erythromycin estolate.\n10. Selectivity: acyclovir and ganciclovir are activated by viral thymidine kinase only in infected cells; capecitabine is converted to fluorouracil mainly in tumour tissue; levodopa crosses the blood-brain barrier on the amino acid carrier and is then decarboxylated to dopamine.\n11. Ideal properties: no intrinsic activity, rapid and quantitative conversion at the required site, a non-toxic and readily excreted carrier, adequate shelf stability and an economical method of preparation.",
+      "tags": ["prodrug", "drug design"]
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the chemistry, stereochemistry, structure-activity relationship and adverse effects of chloramphenicol.",
+      "answer": "1. Chloramphenicol was obtained in 1947 from Streptomyces venezuelae and was the first antibiotic to be produced commercially by chemical synthesis.\n2. Chemically it is D-(-)-threo-2-dichloroacetamido-1-(4-nitrophenyl)propane-1,3-diol, one of the few natural products containing a nitro group.\n3. Stereochemistry: it has two chiral carbons and therefore four stereoisomers, of which only the D-(-)-threo form, that is 1R,2R, is active.\n4. SAR: the D-threo configuration is essential; the para-nitro group gives best activity but can be replaced by a methylsulphonyl group to give thiamphenicol; the dichloroacetamide side chain gives maximum potency; both the C1 and C3 hydroxyl groups are needed for binding, and the C3 hydroxyl is the site used to make the palmitate ester for taste masking and the succinate ester for injection.\n5. Mechanism: it binds the 50S ribosomal subunit and inhibits peptidyl transferase, so the peptide bond is not formed; the action is bacteriostatic and the spectrum is broad.\n6. Adverse effects: idiosyncratic and often fatal aplastic anaemia unrelated to dose, dose-related reversible bone marrow depression, and grey baby syndrome in neonates who cannot conjugate the drug. Its systemic use is therefore restricted to serious infections such as resistant typhoid and anaerobic brain abscess, while topical eye preparations remain in common use.",
+      "tags": ["chloramphenicol", "sar"]
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on clindamycin.",
+      "answer": "1. Clindamycin is 7(S)-chloro-7-deoxylincomycin, a semi-synthetic lincosamide derived from lincomycin, which is obtained from Streptomyces lincolnensis.\n2. Structurally it is an amide formed between a propyl-substituted proline, called propylhygric acid, and the amino sugar methyl thiolincosaminide.\n3. SAR: replacing the 7(R)-hydroxyl of lincomycin by a 7(S)-chlorine inverts that centre, raises lipophilicity and improves absorption and potency; lengthening the alkyl group on the pyrrolidine ring to propyl or butyl improves activity; the methylthio group on the sugar is required.\n4. Its 2-hydroxyl is esterified to give clindamycin palmitate for oral suspension and clindamycin phosphate for injection and topical use, both of which are hydrolysed in the body.\n5. Mechanism: it binds the 50S subunit at the same site as the macrolides and blocks peptide bond formation, so the two groups are mutually antagonistic and show cross-resistance.\n6. Uses are anaerobic infections, especially Bacteroides fragilis, staphylococcal bone and joint infection, topical treatment of acne and, with primaquine, Pneumocystis pneumonia; the chief hazard is pseudomembranous colitis caused by Clostridioides difficile.",
+      "tags": ["clindamycin"]
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on 8-aminoquinoline antimalarials.",
+      "answer": "1. The 8-aminoquinolines carry an aminoalkyl side chain at position 8 of the quinoline ring and a methoxy group at position 6; the members are pamaquine, the first synthetic antimalarial of the group, and primaquine, which replaced it.\n2. They are the only drugs that kill the dormant hypnozoites of Plasmodium vivax and Plasmodium ovale in the liver, so they give radical cure and prevent relapse; they are also powerful gametocytocides and therefore reduce transmission.\n3. Mechanism: they are converted by metabolism to quinoline-quinone derivatives that generate reactive oxygen species and interfere with the parasite's mitochondrial electron transport.\n4. SAR: the 6-methoxy group raises activity; the side chain is best with four to six carbon atoms; a terminal primary amine, as in primaquine, is less toxic than the terminal diethylamino group of pamaquine, which is why primaquine is preferred.\n5. Adverse effects: haemolytic anaemia in patients deficient in glucose-6-phosphate dehydrogenase, methaemoglobinaemia, abdominal pain and, rarely, agranulocytosis. G6PD status should therefore be considered before use.\n6. They are weak blood schizonticides, so they are always combined with a blood schizonticide such as chloroquine for the treatment of an acute attack.",
+      "tags": ["primaquine", "pamaquine"]
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on biguanide, dihydrotriazine and miscellaneous antimalarials.",
+      "answer": "1. Proguanil, also called chlorguanide, is an aryl biguanide carrying a chlorophenyl ring and an isopropyl group. It is a bioprecursor prodrug that the liver cyclises to the dihydrotriazine cycloguanil, which is the active form.\n2. Cycloguanil inhibits plasmodial dihydrofolate reductase, so the parasite cannot make tetrahydrofolate; the action is slow, which makes these drugs suitable for prophylaxis rather than for an acute attack. Cycloguanil pamoate is the preformed triazine as a long-acting depot salt.\n3. Pyrimethamine is a 2,4-diaminopyrimidine carrying a chlorophenyl and an ethyl group; it inhibits the same enzyme with high selectivity for the parasite. Combined with the long-acting sulphonamide sulphadoxine it gives sequential blockade of folate synthesis, and with sulphadiazine it is used in toxoplasmosis.\n4. Artesunate and artemether are derivatives of artemisinin, a sesquiterpene lactone from Artemisia annua that carries an endoperoxide bridge; artesunate is a water-soluble hemisuccinate for intravenous use in severe malaria and artemether is oil soluble.\n5. Mechanism of the artemisinins: iron or haem in the parasite cleaves the peroxide bridge to carbon-centred free radicals that alkylate parasite proteins; they act faster than any other antimalarial and also clear gametocytes, and are always used in combinations to protect against resistance.\n6. Atovaquone is a hydroxynaphthoquinone that blocks the parasite's mitochondrial cytochrome bc1 complex; it is combined with proguanil for prophylaxis and treatment and is also used in Pneumocystis pneumonia.",
+      "tags": ["proguanil", "pyrimethamine", "artemisinin"]
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare quinine, mefloquine, amodiaquine and quinacrine as antimalarial agents.",
+      "answer": "1. Quinine is an alkaloid of cinchona bark: a quinoline ring with a 6-methoxy group linked through a secondary alcohol at C9 to a quinuclidine ring carrying a vinyl group, with four chiral centres. It is a blood schizonticide used for chloroquine-resistant and severe falciparum malaria, usually as the sulphate or, for injection, the dihydrochloride.\n2. Its adverse effects are cinchonism, that is tinnitus, headache, nausea and blurred vision, together with hypoglycaemia from insulin release; its diastereoisomer quinidine is used as an antiarrhythmic.\n3. Mefloquine is a 4-quinolinemethanol carrying two trifluoromethyl groups; it has a long half-life and can be given weekly for prophylaxis, but causes nausea, dizziness and neuropsychiatric reactions.\n4. Amodiaquine is a 4-aminoquinoline in which the chloroquine side chain is replaced by a p-hydroxyanilinomethyl group; it is effective in some chloroquine-resistant areas and is used with artesunate, but its quinoneimine metabolite can cause agranulocytosis and hepatitis.\n5. Quinacrine, also called mepacrine, is an acridine rather than a quinoline, carrying 6-chloro and 2-methoxy substituents and the chloroquine-type side chain; it was an important antimalarial before chloroquine and is now used in giardiasis and tapeworm infestation.\n6. Common point: all four are blood schizonticides that interfere with the parasite's handling of haem, and none of them eradicates the hypnozoites of vivax malaria, for which primaquine must be added.",
+      "tags": ["quinine", "mefloquine", "quinacrine"]
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is azithromycin called an azalide?",
+      "answer": "Azithromycin is made from erythromycin by converting the C9 ketone to an oxime, carrying out a Beckmann rearrangement and reducing and methylating the product, which inserts a nitrogen atom into the macrocycle. The ring therefore has fifteen members and contains nitrogen, so the compound is called an azalide rather than a simple macrolide; the change also removes the ketone that causes acid degradation.",
+      "tags": ["azithromycin"]
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is haemozoin and why is it important in malaria chemotherapy?",
+      "answer": "Haemozoin, or malaria pigment, is the insoluble polymer that the parasite makes from the haem released when it digests haemoglobin, as a way of detoxifying it. Chloroquine and the other 4-aminoquinolines accumulate in the acidic food vacuole, bind haem and prevent its polymerisation, so free haem builds up and kills the parasite.",
+      "tags": ["haemozoin"]
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antitubercular agents and describe the chemistry, mechanism, structure-activity relationship and adverse effects of the synthetic first-line drugs.",
+      "answer": "1. Basis of treatment: Mycobacterium tuberculosis is a slow-growing acid-fast bacillus with a waxy mycolic acid wall; it survives inside macrophages, resistant mutants appear readily, so several drugs are given together for many months under directly observed therapy.\n2. Classification: first-line synthetic drugs are isoniazid, pyrazinamide, ethambutol and para-aminosalicylic acid; first-line antibiotics are rifampicin, rifabutin and streptomycin; second-line drugs include ethionamide, cycloserine, thiacetazone, capreomycin, kanamycin, amikacin and the fluoroquinolones; newer agents are bedaquiline and delamanid.\n3. Isoniazid is the hydrazide of isonicotinic acid, that is pyridine-4-carboxylic acid hydrazide; it is water-soluble and is a reducing agent, which is the basis of its bromatometric assay.\n4. Mechanism of isoniazid: it is a prodrug oxidised by the mycobacterial catalase-peroxidase KatG to an isonicotinoyl radical, which forms an adduct with NAD that inhibits InhA, the enoyl reductase of mycolic acid synthesis; the cell wall cannot then be made, so the drug is bactericidal and highly selective. Resistance follows mutation of katG.\n5. SAR of isoniazid: the hydrazide must be at position 4 of the pyridine ring, since the 2- and 3-isomers are much weaker; substitution on the terminal nitrogen gives compounds that must be converted back to isoniazid in the body.\n6. Isoniazid is acetylated by N-acetyltransferase 2, and people are fast or slow acetylators; slow acetylators are more liable to peripheral neuritis, which is prevented by pyridoxine, and hepatitis is the other important adverse effect.\n7. Pyrazinamide is pyrazine-2-carboxamide; mycobacterial pyrazinamidase converts it to pyrazinoic acid, which acts only in an acidic medium, that is inside macrophages and in caseous lesions. It shortens the course of treatment; it causes hepatotoxicity and hyperuricaemia.\n8. Ethambutol is (S,S)-2,2'-(ethylenediimino)di-1-butanol; the dextrorotatory S,S isomer is far more active than the meso and R,R forms, and both basic nitrogens with the ethylene bridge and both primary alcohol groups are required.\n9. Ethambutol inhibits arabinosyl transferase, so arabinogalactan of the wall is not assembled; it is bacteriostatic and its characteristic toxicity is optic neuritis with loss of red-green discrimination, which is reversible on early withdrawal.\n10. Para-aminosalicylic acid is 4-amino-2-hydroxybenzoic acid, an analogue of p-aminobenzoic acid that blocks dihydropteroate synthase and so folate synthesis; it is weak and bacteriostatic and is now a reserve drug for multidrug-resistant disease. It decarboxylates on storage to m-aminophenol and darkens, so discoloured material is rejected.\n11. Ethionamide, the 2-ethyl analogue of thioisonicotinamide, is activated by the mycobacterial enzyme EthA and also inhibits InhA, so it shows partial cross-resistance with isoniazid; it causes gastric upset, hepatitis and hypothyroidism.",
+      "tags": ["antitubercular", "isoniazid"]
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write the structure-activity relationship of quinolones and discuss their mechanism of action, important members, uses and adverse effects.",
+      "answer": "1. Development: nalidixic acid, a 1,8-naphthyridine obtained as a by-product of chloroquine manufacture in 1962, was a urinary antiseptic active only against Gram-negative organisms; adding fluorine at C6 and a piperazine at C7 gave the fluoroquinolones, which are far more potent and systemically useful.\n2. Nucleus: 4-oxo-1,4-dihydroquinoline-3-carboxylic acid; in nalidixic acid position 8 is nitrogen, and in ofloxacin a ring bridges N1 and C8, creating a chiral centre whose S-enantiomer is levofloxacin.\n3. SAR, first point: the 3-carboxylic acid and the 4-oxo group are both essential because together they chelate the magnesium ion that anchors the drug to the DNA-enzyme complex; esterifying or removing either abolishes activity.\n4. The N1 substituent controls potency: cyclopropyl is best, as in ciprofloxacin and moxifloxacin; ethyl is weaker; a 2,4-difluorophenyl group gives a long half-life.\n5. A fluorine atom at C6 raises enzyme inhibition about tenfold and cell penetration about a hundredfold; this single change created the class.\n6. The C7 substituent controls spectrum and pharmacokinetics: a piperazine ring improves Gram-negative activity, while a methylpiperazine or pyrrolidine adds Gram-positive and anaerobic cover and lengthens action.\n7. At C8 a methoxy group improves anaerobic activity and reduces the emergence of resistance, whereas a halogen increases phototoxicity; a 5-amino group increases potency, and bulky substituents at C2 abolish activity.\n8. Because they carry both an acidic carboxyl and a basic amine, most fluoroquinolones are zwitterionic and chelate metal ions, so antacids, iron, calcium and milk reduce their absorption.\n9. Mechanism: they inhibit DNA gyrase, that is topoisomerase II, in Gram-negative bacteria and topoisomerase IV in Gram-positive bacteria; the drug traps the enzyme-DNA complex so that the cut strands are not resealed, and the action is bactericidal.\n10. Members and uses: nalidixic acid and norfloxacin for urinary and gut infection; ciprofloxacin for Gram-negative infection including Pseudomonas, typhoid, bone and soft-tissue infection; ofloxacin and levofloxacin with better oral availability and activity against pneumococci; lomefloxacin and sparfloxacin as long-acting but phototoxic agents; gatifloxacin and moxifloxacin as respiratory quinolones, moxifloxacin also being used in tuberculosis.\n11. Adverse effects: gastrointestinal upset, headache and dizziness, tendinitis and tendon rupture, cartilage damage in young animals so that they are avoided in children and pregnancy, QT prolongation, photosensitivity and raised theophylline levels; gatifloxacin was withdrawn from systemic use in India because of disturbance of blood glucose.",
+      "tags": ["quinolone", "sar", "ciprofloxacin"]
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antiviral agents with examples and explain the mechanism and selectivity of acyclovir and zidovudine.",
+      "answer": "1. Difficulty of antiviral chemotherapy: viruses replicate using the host cell's machinery, so there are few targets unique to the virus and most drugs are virustatic rather than virucidal.\n2. Classification by step attacked: inhibitors of attachment and entry; inhibitors of uncoating; inhibitors of nucleic acid synthesis; inhibitors of protein processing; and inhibitors of release.\n3. Uncoating inhibitors: amantadine hydrochloride and rimantadine hydrochloride block the M2 ion channel of influenza A; amantadine is also used in Parkinson's disease, and most circulating strains are now resistant.\n4. Anti-herpes nucleoside analogues: idoxuridine and trifluridine for eye infections, acyclovir, valacyclovir and famciclovir for herpes simplex and varicella zoster, and ganciclovir for cytomegalovirus.\n5. Nucleoside reverse transcriptase inhibitors: zidovudine, didanosine, zalcitabine, lamivudine, stavudine and abacavir.\n6. Non-nucleoside reverse transcriptase inhibitors: nevirapine, efavirenz, delavirdine and loviride, which bind an allosteric pocket on HIV-1 reverse transcriptase.\n7. Protease inhibitors: saquinavir, indinavir, ritonavir and lopinavir, which are peptidomimetics carrying an uncleavable hydroxyethylene link in place of the scissile bond, so immature non-infectious virus particles are produced.\n8. Others: ribavirin, a triazole carboxamide nucleoside used in hepatitis C and respiratory syncytial virus infection; interferon alfa; and the neuraminidase inhibitors oseltamivir and zanamivir.\n9. Acyclovir is 9-[(2-hydroxyethoxy)methyl]guanine, that is guanine with an acyclic side chain that has the 5'-hydroxyl needed for phosphorylation but no 3'-hydroxyl.\n10. Selectivity of acyclovir rests on two steps: viral thymidine kinase carries out the first phosphorylation, which host kinases perform very poorly, so the drug is activated only in infected cells; and the resulting triphosphate is a much better substrate for the viral DNA polymerase than for the human enzyme. Having no 3'-hydroxyl, it acts as a chain terminator and also inactivates the polymerase. Valacyclovir, its valine ester, was developed because oral availability is low.\n11. Zidovudine is 3'-azido-3'-deoxythymidine; host kinases phosphorylate it and the triphosphate competes with thymidine triphosphate at HIV reverse transcriptase and terminates the growing DNA chain. Its main toxicity is bone marrow suppression, and it is always used in combination because HIV mutates rapidly.",
+      "tags": ["antiviral", "acyclovir", "zidovudine"]
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on isoniazid.",
+      "answer": "1. Chemistry: isoniazid is isonicotinic acid hydrazide, that is pyridine-4-carboxylic acid hydrazide, a white crystalline powder freely soluble in water.\n2. It is a reducing agent and reduces ammoniacal silver nitrate and Fehling's solution; it is assayed by bromatometric titration against potassium bromate.\n3. Mechanism: it is a prodrug activated by the mycobacterial catalase-peroxidase KatG; the radical formed couples with NAD and the adduct inhibits InhA, the enoyl reductase of mycolic acid synthesis, so the characteristic cell wall of the bacillus cannot be made.\n4. SAR: the hydrazide group must occupy position 4 of the pyridine ring; the 2- and 3-isomers are much less active, and derivatives substituted on the terminal nitrogen act only after conversion back to isoniazid.\n5. Metabolism: acetylation by N-acetyltransferase 2 divides patients into fast and slow acetylators, a classical pharmacogenetic difference; slow acetylators have higher blood levels and more neuropathy.\n6. Adverse effects: peripheral neuropathy, because the drug antagonises pyridoxine, so pyridoxine is given with it; hepatitis, which is commoner in older patients and with rifampicin; and rarely a lupus-like syndrome.",
+      "tags": ["isoniazid"]
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on antitubercular antibiotics.",
+      "answer": "1. Rifampicin is a semi-synthetic rifamycin in which a macrocyclic ansa chain bridges an aromatic naphthoquinone nucleus, with a methylpiperazinyl-iminomethyl group added to rifamycin SV.\n2. It inhibits DNA-dependent RNA polymerase by binding its beta subunit, is bactericidal and kills intracellular and slowly dividing bacilli, which makes it essential to short-course regimens.\n3. It is a powerful inducer of cytochrome P450 enzymes and therefore reduces the effect of oral contraceptives, warfarin and antiretroviral drugs; it stains urine, tears and sweat orange-red and may cause hepatitis or an influenza-like syndrome with intermittent dosing. Rifabutin has the same mechanism, induces enzymes less and is preferred in patients taking antiretroviral drugs.\n4. Cycloserine is D-4-amino-3-isoxazolidinone, a rigid cyclic analogue of D-alanine that inhibits alanine racemase and D-alanyl-D-alanine ligase, so the peptidoglycan pentapeptide cannot be formed; it causes psychosis, depression and convulsions, and pyridoxine is given with it.\n5. Streptomycin is an aminoglycoside that inhibits the 30S ribosomal subunit; it acts only on extracellular, actively dividing bacilli, must be injected and is ototoxic and nephrotoxic.\n6. Capreomycin sulphate is a cyclic polypeptide antibiotic from Streptomyces capreolus that inhibits protein synthesis; it is an injectable second-line drug for resistant tuberculosis and causes ototoxicity, nephrotoxicity and electrolyte disturbance.",
+      "tags": ["rifampicin", "cycloserine", "capreomycin"]
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on nitrofurantoin and methenamine as urinary tract anti-infectives.",
+      "answer": "1. Nitrofurantoin is 1-[(5-nitrofurfurylidene)amino]hydantoin, that is a 5-nitrofuran joined through a hydrazone link to a hydantoin ring.\n2. Mechanism: bacterial nitroreductases reduce the nitro group to reactive intermediates that damage bacterial DNA and ribosomal proteins; mammalian cells reduce it far more slowly, which gives selectivity, and resistance develops slowly.\n3. It is concentrated in urine and works best at acidic pH, so it is effective only in the lower urinary tract and must never be used for pyelonephritis or systemic infection; it colours the urine brown.\n4. Adverse effects are nausea, acute and chronic pulmonary reactions, peripheral neuropathy on prolonged use and haemolysis in glucose-6-phosphate dehydrogenase deficiency. Furazolidone is a related nitrofuran formerly used in bacterial diarrhoea and giardiasis.\n5. Methenamine, also called hexamine, is hexamethylenetetramine, the cage-like condensation product of formaldehyde and ammonia. It is inert at blood pH and acts as a prodrug that hydrolyses back to formaldehyde in acidic urine, usually below pH 5.5.\n6. It is therefore given as the mandelate or hippurate, which also acidify the urine, must not be combined with alkalisers or with sulphonamides, and is used for long-term prophylaxis of recurrent urinary infection rather than for an acute attack.",
+      "tags": ["nitrofurantoin", "methenamine"]
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on antiretroviral agents other than the nucleoside reverse transcriptase inhibitors.",
+      "answer": "1. Non-nucleoside reverse transcriptase inhibitors such as nevirapine, efavirenz, delavirdine and loviride bind a hydrophobic pocket close to, but distinct from, the active site of HIV-1 reverse transcriptase and lock the enzyme in an inactive shape.\n2. They need no phosphorylation, are not active against HIV-2, and a single mutation can abolish their activity, so they are always given in combination; rash and hepatitis are their class effects and efavirenz causes vivid dreams and dizziness.\n3. Protease inhibitors such as saquinavir, indinavir, ritonavir, lopinavir and atazanavir are peptidomimetics that imitate the phenylalanine-proline sequence cleaved by HIV protease, but carry an uncleavable hydroxyethylene link, so the enzyme is blocked and immature, non-infectious virus particles are released.\n4. Ritonavir is now used mainly in small doses as a pharmacokinetic booster, because it strongly inhibits CYP3A4 and raises the blood level of its partner drug.\n5. Class effects of protease inhibitors are gastrointestinal upset, lipodystrophy, hyperlipidaemia and insulin resistance; indinavir may crystallise in the urinary tract, so a good fluid intake is advised.\n6. Antiretroviral drugs are always used as combinations of at least three agents from two classes, because HIV replicates rapidly and mutates frequently, and single-drug therapy quickly selects resistant virus.",
+      "tags": ["nnrti", "protease inhibitor"]
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain why combination therapy is essential in tuberculosis and name the drugs used in the intensive and continuation phases.",
+      "answer": "1. Resistant mutants of Mycobacterium tuberculosis arise spontaneously at a low but constant rate; in a large bacillary population some resistant organisms are present before treatment begins, so a single drug selects them and treatment fails.\n2. Giving several drugs with different targets makes it very unlikely that an organism is resistant to all of them at once, so each drug protects the others.\n3. Different drugs reach different bacterial populations: isoniazid and rifampicin act on rapidly dividing extracellular bacilli, pyrazinamide acts on bacilli within acidic macrophages, and rifampicin also kills semi-dormant organisms, which is what allows short-course treatment.\n4. The intensive phase uses isoniazid, rifampicin, pyrazinamide and ethambutol together, which rapidly reduces the bacterial load and renders the patient non-infectious.\n5. The continuation phase uses isoniazid and rifampicin, with ethambutol where the national programme requires it, to eliminate the remaining slowly dividing organisms and prevent relapse.\n6. Treatment is given under direct observation with fixed-dose combination tablets to ensure adherence, since irregular treatment is the main cause of multidrug-resistant tuberculosis.",
+      "tags": ["tuberculosis", "combination"]
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is pyridoxine given along with isoniazid?",
+      "answer": "Isoniazid forms a hydrazone with pyridoxal phosphate and increases its excretion, so it acts as a pyridoxine antagonist. The resulting deficiency causes peripheral neuropathy, especially in slow acetylators, diabetics, alcoholics and the malnourished, and pyridoxine given with the drug prevents it without reducing its antitubercular action.",
+      "tags": ["isoniazid", "pyridoxine"]
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why does ethambutol have to be the (S,S) isomer?",
+      "answer": "Ethambutol acts by fitting the active site of arabinosyl transferase, and this fit depends on the arrangement of its two chiral centres. The dextrorotatory (S,S) isomer is many times more active than the meso and (R,R) forms, so only the (S,S) compound is used therapeutically.",
+      "tags": ["ethambutol", "stereochemistry"]
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antifungal agents with examples and discuss their mechanisms of action, including the structure-activity relationship of the azoles.",
+      "answer": "1. Problem of selectivity: fungi are eukaryotes like human cells, so only three differences can be used - the fungal cell wall of chitin and glucan, the membrane sterol ergosterol in place of cholesterol, and fungal nucleic acid enzymes.\n2. Classification: polyene antibiotics, that is amphotericin B, nystatin and natamycin; the non-polyene antibiotic griseofulvin; imidazoles such as clotrimazole, econazole, butoconazole, oxiconazole, tioconazole, miconazole, terconazole and ketoconazole; triazoles such as fluconazole, itraconazole and voriconazole; allylamines such as naftifine and terbinafine; the thiocarbamate tolnaftate; the antimetabolite flucytosine; the echinocandins; and miscellaneous agents such as ciclopirox olamine and Whitfield's ointment.\n3. Polyenes: amphotericin B is a macrolide with a rigid polyene face and a polyhydroxyl face, the amino sugar mycosamine and a carboxyl group, so it is amphoteric and amphipathic. Several molecules insert into the membrane against ergosterol and form a pore through which potassium and small molecules leak, killing the fungus; weaker binding to cholesterol explains its limited selectivity and its toxicity.\n4. Amphotericin B is given intravenously as a colloidal or liposomal preparation for severe systemic mycoses and for kala-azar; infusion reactions and dose-related nephrotoxicity with loss of potassium and magnesium are its main problems. Nystatin is too toxic for injection and is used topically and orally for candidiasis, and natamycin is used as eye drops in fungal keratitis.\n5. Griseofulvin is a benzofuran that binds tubulin and disrupts the mitotic spindle; it is deposited in newly formed keratin, so dermatophyte infections clear only as fresh skin, hair and nail grow. It is absorbed better from microsize powder with a fatty meal, induces liver enzymes and causes a disulfiram-like reaction with alcohol.\n6. Azole mechanism: the unshared pair of the imidazole or triazole nitrogen binds the haem iron of fungal cytochrome P450 14-alpha-demethylase, so lanosterol is not demethylated, ergosterol is not formed and toxic methylated sterols accumulate; the action is mainly fungistatic.\n7. Azole SAR: a weakly basic imidazole or triazole ring is essential and the nitrogen that binds iron must not be substituted; halogen atoms at the 2 and 4 positions of the attached phenyl ring raise potency and metabolic stability; replacing imidazole by triazole lowers affinity for human P450 enzymes and so reduces endocrine effects and interactions; increased lipophilicity, as in itraconazole, improves penetration into skin and nails, while the two triazole rings of fluconazole make it water-soluble with excellent entry into cerebrospinal fluid.\n8. Azole products: clotrimazole, econazole, miconazole and the other imidazoles are largely topical; ketoconazole was the first oral azole but is limited by hepatotoxicity and by blockade of human steroid synthesis; fluconazole is used in candidiasis and cryptococcal meningitis, and itraconazole and voriconazole in aspergillosis.\n9. Allylamines and thiocarbamates: naftifine, terbinafine and tolnaftate inhibit squalene epoxidase, so ergosterol is not made and squalene accumulates to toxic levels; they are fungicidal against dermatophytes, and terbinafine is the drug of choice for onychomycosis.\n10. Flucytosine is taken up by fungal cytosine permease and converted by cytosine deaminase, an enzyme human cells lack, to 5-fluorouracil, which blocks thymidylate synthase and is incorporated into fungal RNA; it is used with amphotericin B in cryptococcal meningitis.\n11. Echinocandins such as caspofungin inhibit the synthesis of beta-1,3-glucan of the cell wall, a target absent in man, and are given intravenously in invasive candidiasis.",
+      "tags": ["antifungal", "azole", "sar"]
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Trace the historical development of sulphonamides, write their structure-activity relationship, and explain sequential blockade with trimethoprim.",
+      "answer": "1. History: in 1932 Domagk found that the azo dye Prontosil cured streptococcal infection in mice although it had no effect on bacteria in vitro; French workers then showed that the body reduces the azo bond to release sulphanilamide, the true drug. This was the first clear example of a bioprecursor prodrug and the beginning of modern antibacterial chemotherapy.\n2. Woods and Fildes explained the action by showing that p-aminobenzoic acid reverses it, which established competitive antagonism of a metabolite.\n3. Mechanism: bacteria must synthesise their own folic acid, while man takes it in the diet. Sulphonamides resemble p-aminobenzoic acid in size and charge distribution, compete for dihydropteroate synthase and may be incorporated to give a useless pteroate analogue, so folate, thymidine and purines are not formed and growth stops; the action is bacteriostatic.\n4. Because the block is competitive, pus and tissue breakdown products rich in p-aminobenzoic acid reduce their effect, and procaine, which releases that acid on hydrolysis, antagonises them.\n5. SAR: the para-amino group must be free or readily released in the body, which is why Prontosil and the N4-acetyl metabolites are inactive as such.\n6. The amino and sulphonyl groups must be para to each other, and the benzene ring must carry no other substituent.\n7. The sulphonamide nitrogen should carry a single substituent, best of all a heterocyclic ring; disubstitution abolishes activity.\n8. The N1 substituent governs acidity, solubility and duration: the N1 hydrogen should be acidic with a pKa of roughly 6 to 7.5 so that the drug is largely ionised at blood pH, since the ionised form binds the enzyme.\n9. Trimethoprim is 2,4-diamino-5-(3,4,5-trimethoxybenzyl)pyrimidine; its diaminopyrimidine head mimics the pteridine of dihydrofolate and its trimethoxybenzyl group fits a pocket that differs between bacterial and human dihydrofolate reductase, giving a selectivity of several thousandfold for the bacterial enzyme.\n10. Sequential blockade: the sulphonamide blocks dihydropteroate synthase and trimethoprim blocks dihydrofolate reductase, two consecutive steps of the same pathway, so the combination is synergistic and bactericidal and resistance emerges more slowly. Co-trimoxazole contains one part of trimethoprim to five parts of sulfamethoxazole, which was chosen because the two have similar half-lives.\n11. Uses and adverse effects: urinary tract infection, nocardiosis, toxoplasmosis with sulphadiazine and pyrimethamine, Pneumocystis pneumonia with high-dose co-trimoxazole, eye infections with sulfacetamide, burns with silver sulphadiazine and ulcerative colitis with sulfasalazine; adverse effects include crystalluria, hypersensitivity rashes including Stevens-Johnson syndrome, blood dyscrasias, haemolysis in G6PD deficiency and kernicterus in the newborn because bilirubin is displaced from albumin.",
+      "tags": ["sulphonamide", "sar", "cotrimoxazole"]
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify anthelmintic drugs with examples and describe their mechanisms of action and uses.",
+      "answer": "1. Worms of medical importance fall into three groups: nematodes or roundworms, cestodes or tapeworms, and trematodes or flukes; an anthelmintic either paralyses the worm so that it is expelled or deprives it of energy.\n2. Benzimidazoles: thiabendazole, mebendazole and albendazole. They bind the worm's beta-tubulin, prevent microtubule assembly and block glucose uptake, so the worm is starved of energy and dies slowly.\n3. Mebendazole is poorly absorbed and therefore acts in the gut against roundworm, hookworm, whipworm and pinworm; albendazole is better absorbed and its sulphoxide metabolite reaches tissue cysts, so it is used in neurocysticercosis and hydatid disease and in mass deworming programmes.\n4. SAR of the benzimidazoles: a 2-carbamate group on the benzimidazole ring is essential for tubulin binding, and a lipophilic group at position 5, benzoyl in mebendazole and propylthio in albendazole, governs potency and absorption.\n5. Diethylcarbamazine citrate is a piperazine derivative, 1-diethylcarbamoyl-4-methylpiperazine. It alters the surface of microfilariae so that the host's own phagocytes destroy them and also interferes with arachidonic acid metabolism in the worm; it is the drug of choice in filariasis and in tropical pulmonary eosinophilia, and dying microfilariae cause fever, itching and nodular reactions.\n6. Niclosamide is a salicylanilide that uncouples oxidative phosphorylation in the mitochondria of tapeworms and kills the scolex; it is not absorbed and is used for taeniasis.\n7. Praziquantel is a pyrazinoisoquinoline that increases calcium permeability of the worm's membrane, causing sustained contraction and damage to the tegument; it is the drug of choice in schistosomiasis and is also used for tapeworms and neurocysticercosis.\n8. Oxamniquine is a tetrahydroquinoline activated by a worm sulphotransferase to a metabolite that alkylates worm DNA; it is effective against Schistosoma mansoni only.\n9. Ivermectin is a semi-synthetic macrocyclic lactone of the avermectin group that opens glutamate-gated chloride channels, which are present only in invertebrates, so the worm is paralysed; mammals are protected because their similar channels lie behind the blood-brain barrier.\n10. Ivermectin is used in onchocerciasis, strongyloidiasis, lymphatic filariasis and also in scabies and head lice.\n11. General points: treatment is usually a short course or a single dose, purgatives are no longer routinely needed, mass drug administration programmes use albendazole with ivermectin or diethylcarbamazine, and in heavy infections rapid killing of worms can itself cause allergic reactions.",
+      "tags": ["anthelmintic", "classification"]
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on metronidazole and the 5-nitroimidazoles.",
+      "answer": "1. Metronidazole is 2-methyl-5-nitroimidazole-1-ethanol; tinidazole and ornidazole are closely related compounds with longer side chains and longer action.\n2. Mechanism: these drugs are prodrugs activated only in organisms with an anaerobic electron transport system. Low-redox-potential carriers such as ferredoxin reduce the 5-nitro group to a nitro radical anion and other reactive species that break DNA strands.\n3. Selectivity follows from this, since human cells and aerobic bacteria cannot carry out the reduction; the nitro group at position 5 is therefore essential, while substitution at position 1 alters only the pharmacokinetics.\n4. Uses: intestinal and hepatic amoebiasis, giardiasis, trichomoniasis, bacterial vaginosis, anaerobic bacterial infections including Bacteroides and Clostridioides difficile colitis, and as part of Helicobacter pylori eradication regimens.\n5. Adverse effects: metallic taste, nausea, dark urine, glossitis and, with prolonged use, peripheral neuropathy and seizures.\n6. Important counselling point: metronidazole inhibits aldehyde dehydrogenase and produces a disulfiram-like reaction with alcohol, so patients must avoid alcohol during treatment and for a few days afterwards.",
+      "tags": ["metronidazole"]
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on antiprotozoal agents other than the nitroimidazoles.",
+      "answer": "1. Diloxanide furoate is a dichloroacetamide ester that acts only in the gut lumen; it clears cysts and is given after metronidazole to prevent relapse of amoebiasis.\n2. Iodoquinol, a halogenated 8-hydroxyquinoline, is another luminal amoebicide; prolonged or high-dose use can cause optic neuritis, so courses are kept short.\n3. Pentamidine isethionate is an aromatic diamidine given by injection; it is used in Pneumocystis pneumonia, in early African trypanosomiasis and in antimony-resistant kala-azar, and it causes hypotension, hypoglycaemia and pancreatic damage.\n4. Atovaquone is a hydroxynaphthoquinone that blocks the mitochondrial cytochrome bc1 complex of the parasite; it is used in Pneumocystis pneumonia and toxoplasmosis and, with proguanil, in malaria.\n5. Eflornithine is difluoromethylornithine, an irreversible inhibitor of ornithine decarboxylase, so polyamines needed for parasite growth are not formed; it is effective in West African sleeping sickness and is also used as a cream for unwanted facial hair.\n6. Common principle: each of these drugs attacks a step that the protozoan depends on more than the host does, whether a luminal site the drug never leaves, a unique mitochondrial enzyme complex or an enzyme of polyamine synthesis.",
+      "tags": ["antiprotozoal"]
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify sulphonamides with examples and state the use of each group.",
+      "answer": "1. Short-acting sulphonamides: sulfisoxazole, sulphamethizole and sulphadiazine, which are excreted rapidly and are used mainly in urinary tract infection; sulphadiazine with pyrimethamine is used in toxoplasmosis.\n2. Intermediate-acting: sulfamethoxazole, whose half-life matches that of trimethoprim and which is therefore the partner in co-trimoxazole.\n3. Long-acting: sulphadoxine and sulfamethopyrazine, given with pyrimethamine in malaria; their long action means that a hypersensitivity reaction, once begun, is prolonged.\n4. Topical sulphonamides: sulfacetamide as the very soluble and non-irritant sodium salt in eye drops and ointment, mafenide acetate for burns, where it penetrates eschar but may cause acidosis because it inhibits carbonic anhydrase, and silver sulphadiazine, which also provides the antibacterial action of silver.\n5. Gut-acting and special-purpose compounds: sulfasalazine, in which sulphapyridine is joined by an azo bond to 5-aminosalicylic acid; colonic bacteria split it so that the salicylate acts locally in ulcerative colitis, making it a site-specific prodrug.\n6. Related non-antibacterial compounds that retain the sulphonamide group but act elsewhere include acetazolamide, the thiazide diuretics, the sulphonylureas and celecoxib.",
+      "tags": ["sulphonamide", "classification"]
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on dapsone and the sulfones.",
+      "answer": "1. Sulfones have the general structure aryl-SO2-aryl, in contrast with the aryl-SO2-nitrogen arrangement of the sulphonamides.\n2. Dapsone is 4,4'-diaminodiphenylsulfone, two p-aminophenyl rings joined through a sulphone bridge; it is the principal member of the group.\n3. Mechanism: like the sulphonamides it antagonises p-aminobenzoic acid and inhibits dihydropteroate synthase, so folate synthesis in Mycobacterium leprae is blocked; the action is bacteriostatic.\n4. SAR: both para-amino groups are required for full activity, and compounds in which they are blocked, such as the long-acting acedapsone, act only after conversion back to dapsone; the sulphone bridge itself is essential.\n5. Uses: it is the backbone of multidrug therapy for leprosy together with rifampicin and clofazimine, a combination adopted because dapsone monotherapy led to resistance; it is also used in dermatitis herpetiformis and, with pyrimethamine, in the prophylaxis of Pneumocystis pneumonia.\n6. Adverse effects: dose-related haemolysis and methaemoglobinaemia, which are severe in glucose-6-phosphate dehydrogenase deficiency, agranulocytosis, and the sulfone syndrome of fever, rash, hepatitis and lymphadenopathy appearing some weeks after treatment begins.",
+      "tags": ["dapsone", "sulfone"]
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare amphotericin B, griseofulvin and terbinafine with respect to chemistry, mechanism and use.",
+      "answer": "1. Amphotericin B is a polyene macrolide from Streptomyces nodosus with a conjugated polyene face, a polyhydroxyl face, the sugar mycosamine and a carboxyl group, so it is amphoteric and amphipathic.\n2. It binds ergosterol and forms pores in the fungal membrane, through which potassium and small molecules leak; it is fungicidal, is given intravenously as a colloidal or lipid preparation for severe systemic mycoses and kala-azar, and causes infusion reactions and dose-related renal damage.\n3. Griseofulvin is a benzofuran obtained from Penicillium griseofulvum and is fungistatic against dermatophytes only.\n4. It binds tubulin and disrupts the mitotic spindle and is deposited in newly formed keratin, so it must be given for weeks for skin and months for nails; absorption is improved by microsize powder taken with fat, and it induces liver enzymes and causes a reaction with alcohol.\n5. Terbinafine is an allylamine that inhibits squalene epoxidase, so ergosterol is not formed and squalene accumulates to toxic concentrations in the fungal membrane; it is therefore fungicidal against dermatophytes.\n6. It is used orally for onychomycosis and extensive ringworm and topically for tinea; it concentrates in nails and skin and gives shorter courses than griseofulvin, though it may cause taste disturbance and, rarely, hepatitis.",
+      "tags": ["amphotericin", "griseofulvin", "terbinafine"]
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is Prontosil inactive in the test tube but active in the body?",
+      "answer": "Prontosil is an azo dye whose para-amino group is not free, so it cannot compete with p-aminobenzoic acid and has no effect on bacteria in culture. In the body, azoreductase enzymes cleave the azo bond and release sulphanilamide, which is the active antibacterial. It is therefore a classic bioprecursor prodrug.",
+      "tags": ["prontosil", "prodrug"]
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why does crystalluria occur with older sulphonamides and how is it prevented?",
+      "answer": "The older sulphonamides and especially their N4-acetyl metabolites are poorly soluble in acidic urine and crystallise in the renal tubules, causing haematuria and obstruction. It is prevented by a liberal fluid intake, by alkalinising the urine and by using mixtures of several sulphonamides or newer, more soluble members, since each dissolves independently.",
+      "tags": ["sulphonamide", "crystalluria"]
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is QSAR? Describe the physicochemical parameters used in QSAR and explain Hansch analysis.",
+      "answer": "1. Definition: a quantitative structure-activity relationship expresses biological activity as a mathematical equation in measurable or calculable molecular properties, so that the activity of a compound not yet made can be predicted and fewer analogues need to be synthesised.\n2. Biological activity is used as log (1/C), where C is the molar concentration producing a fixed effect such as the ED50, IC50 or minimum inhibitory concentration; the logarithm linearises the relation and the more potent compound gives the larger value.\n3. Three kinds of property are used: lipophilic or hydrophobic, electronic and steric.\n4. Lipophilic parameters: the partition coefficient P between octanol and water is measured and used as log P; it governs absorption and membrane crossing. Activity usually rises with log P to an optimum value log P-zero and then falls, because very lipophilic compounds are retained in the first membrane and are poorly soluble in body fluids.\n5. The hydrophobic substituent constant pi is defined as log P of the substituted compound minus log P of the parent; it is positive for lipophilic groups such as alkyl, chlorine and trifluoromethyl and negative for hydrophilic groups such as hydroxyl, amino and carboxyl, and the values are additive. clog P is the same quantity calculated from the structure by software.\n6. Electronic parameters: Hammett's constant sigma is obtained from the ionisation constants of substituted benzoic acids; it is positive for electron-withdrawing groups such as nitro, cyano and halogens and negative for electron-donating groups such as methyl, methoxy and amino, with separate values for meta and para positions, ortho being excluded because of steric interference. The Hammett equation is log (k/k0) = rho times sigma, where rho measures the sensitivity of the reaction to electronic change.\n7. Other electronic descriptors are the dipole moment, pKa and calculated atomic charges; electronic effects matter because they control ionisation, hydrogen bonding and the strength of binding to the receptor.\n8. Steric parameters: Taft's Es is obtained from the rate of acid hydrolysis of substituted esters, a more negative value meaning a bulkier group; molar refractivity measures volume together with polarisability; and Verloop's STERIMOL parameters L and B1 to B5 describe length and width in different directions.\n9. Hansch analysis combines them in a linear free-energy relationship of the form log (1/C) = minus k1 times the square of log P, plus k2 log P, plus k3 sigma, plus k4 Es, plus a constant. The squared term produces the parabola and locates the optimum lipophilicity.\n10. The coefficients are obtained by multiple linear regression and the equation is judged by the number of compounds n, the correlation coefficient r or r squared, the standard deviation s and the F value; at least about five compounds per parameter are needed, or the equation merely fits noise.\n11. Related approaches and limits: Free-Wilson analysis treats each substituent's contribution as an additive constant without physicochemical measurement, and CoMFA is a three-dimensional method that correlates steric and electrostatic fields with activity. QSAR applies only within a closely related series, needs biological data measured in the same way, and a good correlation does not by itself prove a mechanism.",
+      "tags": ["qsar", "hansch"]
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain combinatorial chemistry. Describe solid-phase and solution-phase synthesis, the split-and-mix technique and their applications.",
+      "answer": "1. Definition: combinatorial chemistry is the systematic preparation of a large number of related compounds, called a library, by combining sets of building blocks in all possible arrangements, instead of making one compound at a time.\n2. Scale: three sets of ten building blocks give one thousand compounds from thirty starting materials, and the library is then examined by high-throughput screening.\n3. Solid-phase synthesis, developed by Merrifield for peptides, is the backbone of the subject. The growing molecule remains attached through a linker to an insoluble polymer bead, usually polystyrene cross-linked with divinylbenzene.\n4. After each coupling the excess reagents and by-products are simply washed from the beads, so no chromatography is needed between steps, large excesses of reagent can be used to drive reactions to completion and the whole process can be automated.\n5. Its disadvantages are that the chemistry must tolerate the solid support, that monitoring a reaction on the bead is difficult, that the amount of material per bead is small and that the linker must be cleavable without damaging the product.\n6. The split-and-mix or split-and-pool technique makes very large libraries possible with one compound per bead: the beads are divided into portions, a different building block is coupled to each portion, all the beads are then mixed thoroughly, and the mixture is split again for the next coupling.\n7. After n steps with x building blocks at each step the library contains x to the power n compounds, yet every bead carries only one of them.\n8. The difficulty this creates is identification of the compound on an active bead, which is solved by chemical or radiofrequency tagging, by positional encoding, or by analysing the single bead by mass spectrometry.\n9. Parallel or solution-phase synthesis makes each compound separately but at the same time, for example in the ninety-six wells of a microtitre plate, so the identity of each compound is known from its position and larger quantities are obtained, although libraries are smaller.\n10. A mixed approach uses solution chemistry with polymer-supported reagents and scavenger resins, combining free choice of reaction with easy purification.\n11. Applications and limitations: combinatorial libraries are used to find new leads, to optimise a lead through focused libraries and in materials and catalyst research. Modern libraries are smaller but designed for diversity and for drug-likeness using Lipinski's rules, because the early very large undesigned libraries yielded few useful leads. Combinatorial chemistry increases the number of molecules, while QSAR, pharmacophore modelling and docking improve the quality of the choice.",
+      "tags": ["combinatorial", "solid phase"]
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the various approaches used in drug design, and explain pharmacophore modelling and molecular docking.",
+      "answer": "1. Drug design means planning a molecule to fit a known biological target instead of testing compounds at random; a lead compound is a molecule with some useful activity that serves as the starting point.\n2. Random or empirical screening tests large numbers of compounds in a biological assay; it gave many natural product drugs but is slow and wasteful.\n3. Analogue or molecular modification design changes a known drug systematically by homologation, chain branching, ring variation and isosteric replacement, as in the semi-synthetic penicillins and the fluoroquinolones.\n4. Bioisosteric replacement substitutes a group by another of similar size, shape or electronic character, for example fluorine for hydrogen, hydroxyl for amino, tetrazole for carboxyl, or thiophene for benzene.\n5. Mechanism-based design starts from the catalytic mechanism of the target enzyme and may give suicide substrates, as with clavulanic acid, eflornithine and captopril.\n6. Structure-based design uses the three-dimensional structure of the target from X-ray crystallography or NMR to design a complementary molecule, as in the HIV protease inhibitors; ligand-based design is used when no target structure is available and relies on the common features of active molecules, through QSAR and pharmacophore modelling.\n7. Other approaches are the prodrug approach, which solves delivery problems, combinatorial chemistry with high-throughput screening, and computer-aided drug design, which supports all the others.\n8. A pharmacophore is the arrangement in space of the molecular features that a molecule must possess to be recognised by its target; it is an abstract pattern and not a real molecule. The usual features are a hydrogen bond donor, a hydrogen bond acceptor, a positive ionisable centre, a negative ionisable centre, a hydrophobic group and an aromatic ring, each with defined positions and distances.\n9. A ligand-based pharmacophore is built by collecting active molecules, generating their low-energy conformers, aligning them on common features, selecting the features present in actives and absent in inactives, and validating the model by its ability to separate known actives from decoys; a structure-based pharmacophore is read from the interactions seen in the binding site.\n10. Pharmacophores are used for virtual screening of compound databases, for scaffold hopping to find a new skeleton that presents the same features, and for guiding analogue design.\n11. Molecular docking predicts how a ligand fits into the binding site of a target whose three-dimensional structure is known. It has two parts: a search algorithm that generates possible poses, allowing ligand and increasingly protein flexibility, and a scoring function, which may be force-field based, empirical or knowledge based, that ranks them and estimates binding energy. Docking supports virtual screening, lead optimisation and the explanation of resistance, but its scoring functions are approximate and the treatment of water and protein flexibility is imperfect, so every prediction must be tested experimentally.",
+      "tags": ["drug design", "pharmacophore", "docking"]
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the partition coefficient and the hydrophobic substituent constant pi.",
+      "answer": "1. The partition coefficient P is the ratio of the concentration of a drug in an organic phase, conventionally n-octanol, to its concentration in water at equilibrium, measured with the un-ionised species; it is expressed as log P.\n2. It measures lipophilicity and therefore predicts how easily a drug crosses membranes, how well it is absorbed, how it is distributed and how strongly it binds to plasma proteins.\n3. The relation between activity and log P is usually parabolic: activity rises to an optimum value called log P-zero and then falls, because a very lipophilic compound is held in the first lipid barrier it meets and is poorly soluble in body fluids.\n4. The hydrophobic substituent constant pi is defined as the log P of the substituted compound minus the log P of the parent compound, so it measures the contribution of one substituent.\n5. A positive pi means the group is more lipophilic than hydrogen, as with methyl, chlorine and trifluoromethyl, while a negative pi means it is more hydrophilic, as with hydroxyl, amino and carboxyl. The values are approximately additive, so log P of a new analogue can be estimated before it is made.\n6. clog P is the same property calculated from the structure by software, which is convenient when the compound has not been synthesised; the practical exercise on drug-likeness in this course uses calculated log P in Lipinski's rule of five.",
+      "tags": ["log p", "pi"]
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain Hammett's electronic parameter and Taft's steric parameter.",
+      "answer": "1. Hammett's substituent constant sigma measures the electron-withdrawing or electron-donating power of a substituent on an aromatic ring, and is defined from the ionisation constants of substituted benzoic acids as the difference between the logarithm of the constant for the substituted acid and that for benzoic acid itself.\n2. A positive sigma means an electron-withdrawing group such as nitro, cyano, carboxyl or a halogen; a negative sigma means an electron-donating group such as methyl, methoxy, amino or hydroxyl.\n3. Separate values are tabulated for meta and para substituents; ortho substituents are excluded because their steric effect is mixed with the electronic one.\n4. The Hammett equation, log (k/k0) equal to rho times sigma, relates a rate or equilibrium constant to sigma, where rho expresses how sensitive that reaction, or a biological response, is to electronic change.\n5. Taft's steric parameter Es measures the bulk of a substituent and is obtained from the rate of acid-catalysed hydrolysis of substituted esters, where electronic effects are small; methyl is taken as zero and a more negative value indicates a bulkier group.\n6. Other steric descriptors are molar refractivity, which reflects volume together with polarisability and is calculated from refractive index, molecular weight and density, and Verloop's STERIMOL parameters, which give the length and several widths of a substituent and therefore describe shape better than a single number.",
+      "tags": ["hammett", "taft"]
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on pharmacophore modelling.",
+      "answer": "1. A pharmacophore is the three-dimensional arrangement of the molecular features necessary for a molecule to be recognised by its biological target; it is an abstraction and not itself a molecule or a functional group.\n2. The features usually considered are a hydrogen bond donor, a hydrogen bond acceptor, a positive ionisable centre, a negative ionisable centre, a hydrophobic region and an aromatic ring, each defined by a position in space, a tolerance radius and the distances and angles to the other features.\n3. When no structure of the target is available, a ligand-based model is built by collecting a set of active molecules, generating their low-energy conformations, aligning them so that common features overlap, and retaining the features shared by actives but absent from inactive compounds.\n4. The model is validated by testing whether it retrieves known active compounds from a set that also contains decoys; a good model enriches the actives strongly.\n5. When the structure of the target is known, the features are read directly from the interactions seen in the binding site, which usually gives a more reliable model.\n6. Uses: virtual screening of large compound databases with the pharmacophore as a query, scaffold hopping to find a different chemical skeleton that presents the same features, guiding the design of analogues, and explaining why some members of a series are inactive.",
+      "tags": ["pharmacophore"]
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe molecular docking and state its applications and limitations.",
+      "answer": "1. Docking predicts how a small molecule, the ligand, fits into the binding site of a macromolecule, usually a protein, and estimates how strongly it binds.\n2. It requires a three-dimensional structure of the target obtained by X-ray crystallography, NMR spectroscopy or cryo-electron microscopy, or built by homology modelling from a related protein.\n3. The first component is a search algorithm, which generates possible positions, orientations and conformations of the ligand in the site; early programs treated the ligand as rigid, while modern ones allow ligand and some protein flexibility.\n4. The second component is a scoring function, which ranks the poses. Scoring functions may be force-field based, using van der Waals and electrostatic energies, empirical, using a weighted sum of hydrogen bonds, ionic contacts, buried hydrophobic surface and rotatable bonds, or knowledge based, using the statistics of contacts observed in known structures.\n5. Applications: virtual screening of large libraries to select compounds for testing, choosing which analogues to synthesise, explaining an observed structure-activity relationship, and studying selectivity and the effect of mutations that cause drug resistance.\n6. Limitations: scoring functions are approximate, so predicted binding energies are less reliable than predicted poses; water molecules in the site and protein flexibility are difficult to model; and every docking result is only a hypothesis that must be confirmed by synthesis and biological testing.",
+      "tags": ["docking"]
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on bioisosterism and Lipinski's rule of five.",
+      "answer": "1. Isosteres are atoms or groups possessing the same number of atoms and of valence electrons, such as oxygen, NH, CH2 and sulphur; bioisosteres are groups that can replace one another in a drug molecule while retaining broadly similar biological activity.\n2. Classical bioisosteric replacements include fluorine for hydrogen, hydroxyl for amino or thiol, a carboxyl group for a tetrazole or an acylsulphonamide, and benzene for thiophene or pyridine.\n3. Purpose: bioisosteric replacement is used to improve potency, to slow metabolism, to alter lipophilicity or acidity, to reduce toxicity or to obtain a patentable new compound.\n4. Lipinski's rule of five states that a compound is more likely to be orally active if it has a molecular weight not more than 500, a calculated log P not more than 5, not more than 5 hydrogen bond donors counted as hydroxyl and NH groups, and not more than 10 hydrogen bond acceptors counted as nitrogen and oxygen atoms.\n5. A compound should violate not more than one of these criteria; the rule is a filter for likely oral absorption and permeability and does not predict potency or safety.\n6. Veber's additional criteria add that there should be not more than ten rotatable bonds and a polar surface area not greater than one hundred and forty square angstroms. Natural products and drugs carried by active transporters are well-known exceptions to these rules.",
+      "tags": ["bioisostere", "lipinski"]
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define a lead compound and state two sources of leads.",
+      "answer": "A lead compound is a molecule that shows some useful biological activity and is taken as the starting point for modification into a better drug. Leads come from natural products such as plants and micro-organisms, from the structure of a natural substrate or receptor ligand, from the observed side effect of an existing drug, and from random or high-throughput screening.",
+      "tags": ["lead compound"]
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between solid-phase and parallel solution-phase synthesis?",
+      "answer": "In solid-phase synthesis the growing molecule is attached through a linker to an insoluble polymer bead, so excess reagents are removed simply by washing, very large libraries can be made by the split-and-mix method and automation is easy. In parallel solution-phase synthesis each compound is made separately in its own vessel or well, so its identity is known from its position and larger amounts are obtained, but the libraries are smaller and ordinary work-up is needed.",
+      "tags": ["combinatorial"]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "code": "BP601T",
+  "title": "Medicinal Chemistry III",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP601T Medicinal Chemistry III and BP607P Medicinal Chemistry III (Practical)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP601T_B.Pharma-pages-28.pdf"
+  },
+  "practicalCodes": [
+    "BP607P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "β-Lactam antibiotics, aminoglycosides and tetracyclines",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Macrolides, chloramphenicol, clindamycin, prodrugs and antimalarials",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Antitubercular agents, urinary tract anti-infectives and antiviral agents",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Antifungal, antiprotozoal and anthelmintic agents; sulphonamides and sulfones",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Introduction to drug design: QSAR, pharmacophore modelling, docking and combinatorial chemistry",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "prep-sulphanilamide",
+      "title": "Preparation of sulphanilamide",
+      "file": "practicals/prep-sulphanilamide.md"
+    },
+    {
+      "id": "prep-hydroxy-methylcoumarin",
+      "title": "Preparation of 7-hydroxy-4-methylcoumarin (Pechmann reaction)",
+      "file": "practicals/prep-hydroxy-methylcoumarin.md"
+    },
+    {
+      "id": "prep-chlorobutanol",
+      "title": "Preparation of chlorobutanol",
+      "file": "practicals/prep-chlorobutanol.md"
+    },
+    {
+      "id": "prep-triphenylimidazole",
+      "title": "Preparation of 2,4,5-triphenylimidazole",
+      "file": "practicals/prep-triphenylimidazole.md"
+    },
+    {
+      "id": "prep-tolbutamide",
+      "title": "Preparation of tolbutamide",
+      "file": "practicals/prep-tolbutamide.md"
+    },
+    {
+      "id": "prep-hexamine",
+      "title": "Preparation of hexamine (methenamine)",
+      "file": "practicals/prep-hexamine.md"
+    },
+    {
+      "id": "assay-isoniazid",
+      "title": "Assay of isoniazid (bromatometric titration)",
+      "file": "practicals/assay-isoniazid.md"
+    },
+    {
+      "id": "assay-chloroquine",
+      "title": "Assay of chloroquine phosphate (non-aqueous titration)",
+      "file": "practicals/assay-chloroquine.md"
+    },
+    {
+      "id": "assay-metronidazole",
+      "title": "Assay of metronidazole (non-aqueous titration)",
+      "file": "practicals/assay-metronidazole.md"
+    },
+    {
+      "id": "assay-dapsone",
+      "title": "Assay of dapsone (diazotisation titration)",
+      "file": "practicals/assay-dapsone.md"
+    },
+    {
+      "id": "assay-chlorpheniramine",
+      "title": "Assay of chlorpheniramine maleate (non-aqueous titration)",
+      "file": "practicals/assay-chlorpheniramine.md"
+    },
+    {
+      "id": "assay-benzylpenicillin",
+      "title": "Assay of benzylpenicillin (iodometric method)",
+      "file": "practicals/assay-benzylpenicillin.md"
+    },
+    {
+      "id": "microwave-synthesis",
+      "title": "Preparation of a medicinal compound by microwave irradiation",
+      "file": "practicals/microwave-synthesis.md"
+    },
+    {
+      "id": "chemdraw-structures",
+      "title": "Drawing structures and reactions with ChemDraw",
+      "file": "practicals/chemdraw-structures.md"
+    },
+    {
+      "id": "drug-likeness-ro5",
+      "title": "Physicochemical properties and drug-likeness screening (Lipinski's rule of five)",
+      "file": "practicals/drug-likeness-ro5.md"
+    }
+  ]
+}
