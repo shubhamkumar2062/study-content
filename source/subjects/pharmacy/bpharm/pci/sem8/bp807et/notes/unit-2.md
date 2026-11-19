@@ -127,7 +127,7 @@ n = 6    r = 0.999    r^2 = 0.999    s = 0.040    F = 1374
 
 Suppose a series gives log(1/C) = −0.35(log P)² + 1.60 log P + 3.20.
 
-Optimum log P₀ = 1.60 ÷ (2 × 0.35) = **2.29**, and the maximum activity is −0.35(2.29)² + 1.60(2.29) + 3.20 = **5.03**. At log P = 1.0 the predicted activity is 4.45 and at log P = 4.0 it falls to 4.00 — the same distance either side of the peak is not symmetrical in practice, which is why the bilinear model is sometimes preferred.
+Optimum log P₀ = 1.60 ÷ (2 × 0.35) = **2.29**, and the maximum activity is −0.35(2.29)² + 1.60(2.29) + 3.20 = **5.03**. At log P = 1.0 the predicted activity is 4.45 and at log P = 4.0 it falls to 4.00. The parabola is symmetrical about log P₀, but real data often rise and fall at different rates on the two sides of the optimum, which is why Kubinyi's bilinear model is sometimes preferred.
 
 ## 2.5 Free–Wilson analysis (de novo or additive model)
 
