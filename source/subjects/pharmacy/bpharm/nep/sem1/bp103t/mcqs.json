@@ -1,0 +1,718 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Psychology is best defined as the scientific study of:",
+      "options": [
+        "Behaviour and mental processes",
+        "The nervous system only",
+        "Diseases of the mind only",
+        "Social customs"
+      ],
+      "correct": 0,
+      "explanation": "Psychology covers observable behaviour and inner mental processes.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The first psychology laboratory was set up by Wilhelm Wundt in 1879 at:",
+      "options": [
+        "Vienna",
+        "Leipzig",
+        "London",
+        "Harvard"
+      ],
+      "correct": 1,
+      "explanation": "Wundt's Leipzig laboratory marks psychology's start as a separate science.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The biopsychosocial model was proposed by:",
+      "options": [
+        "Sigmund Freud",
+        "Ivan Pavlov",
+        "George Engel",
+        "Abraham Maslow"
+      ],
+      "correct": 2,
+      "explanation": "Engel (1977) said biological, psychological and social factors act together.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Organising and interpreting sensations to give them meaning is called:",
+      "options": [
+        "Sensation",
+        "Transduction",
+        "Adaptation",
+        "Perception"
+      ],
+      "correct": 3,
+      "explanation": "Sensation detects; perception interprets.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The gate control theory of pain was proposed by:",
+      "options": [
+        "Melzack and Wall",
+        "Schachter and Singer",
+        "Prochaska and DiClemente",
+        "Atkinson and Shiffrin"
+      ],
+      "correct": 0,
+      "explanation": "Melzack and Wall (1965) described a spinal gate influenced by thoughts and emotions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A headache disappears after a tablet, so the person takes it again next time. This is:",
+      "options": [
+        "Positive punishment",
+        "Negative reinforcement",
+        "Classical conditioning",
+        "Extinction"
+      ],
+      "correct": 1,
+      "explanation": "Removing something unpleasant increases the behaviour.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Learning by association, as in Pavlov's experiments, is called:",
+      "options": [
+        "Operant conditioning",
+        "Observational learning",
+        "Classical conditioning",
+        "Insight learning"
+      ],
+      "correct": 2,
+      "explanation": "A neutral stimulus paired with food came to cause salivation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Learning by watching a model, shown in the Bobo doll studies, was described by:",
+      "options": [
+        "B. F. Skinner",
+        "Carl Rogers",
+        "Erik Erikson",
+        "Albert Bandura"
+      ],
+      "correct": 3,
+      "explanation": "Bandura's social (observational) learning theory.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Short-term memory holds about:",
+      "options": [
+        "7 ± 2 items",
+        "2 ± 1 items",
+        "20 ± 5 items",
+        "An unlimited number of items"
+      ],
+      "correct": 0,
+      "explanation": "Its limited capacity is why counselling should give few key points.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "In Maslow's hierarchy, the most basic level is:",
+      "options": [
+        "Safety needs",
+        "Physiological needs",
+        "Esteem needs",
+        "Self-actualisation"
+      ],
+      "correct": 1,
+      "explanation": "Food, water, sleep and air form the base of the pyramid.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The theory that emotion results from arousal plus the label we give it is the:",
+      "options": [
+        "James–Lange theory",
+        "Cannon–Bard theory",
+        "Schachter–Singer two-factor theory",
+        "Drive-reduction theory"
+      ],
+      "correct": 2,
+      "explanation": "It adds cognitive labelling to physiological arousal.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "According to Erikson, the conflict of adolescence is:",
+      "options": [
+        "Trust vs mistrust",
+        "Integrity vs despair",
+        "Industry vs inferiority",
+        "Identity vs role confusion"
+      ],
+      "correct": 3,
+      "explanation": "Adolescents work out who they are.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The stage of old age in Erikson's theory is:",
+      "options": [
+        "Integrity vs despair",
+        "Generativity vs stagnation",
+        "Intimacy vs isolation",
+        "Initiative vs guilt"
+      ],
+      "correct": 0,
+      "explanation": "Older adults review their life with satisfaction or regret.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "In Piaget's theory, abstract and hypothetical thinking appears in the:",
+      "options": [
+        "Sensorimotor stage",
+        "Formal operational stage",
+        "Preoperational stage",
+        "Concrete operational stage"
+      ],
+      "correct": 1,
+      "explanation": "From about 11 years onwards.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which Big Five trait is most linked with good medication adherence?",
+      "options": [
+        "Neuroticism",
+        "Extraversion",
+        "Conscientiousness",
+        "Openness"
+      ],
+      "correct": 2,
+      "explanation": "Organised, dependable people tend to follow regimens.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "In Freud's theory, the part of personality working on the reality principle is the:",
+      "options": [
+        "Id",
+        "Superego",
+        "Libido",
+        "Ego"
+      ],
+      "correct": 3,
+      "explanation": "The ego balances the id's wishes with reality.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "A patient told he has diabetes insists the test is wrong. This defence mechanism is:",
+      "options": [
+        "Denial",
+        "Projection",
+        "Sublimation",
+        "Regression"
+      ],
+      "correct": 0,
+      "explanation": "Denial is refusing to accept reality.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Selye's general adaptation syndrome has the stages:",
+      "options": [
+        "Alarm, recovery, relapse",
+        "Alarm, resistance, exhaustion",
+        "Resistance, alarm, adaptation",
+        "Shock, anger, acceptance"
+      ],
+      "correct": 1,
+      "explanation": "Prolonged stress ends in exhaustion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Depression is suggested by low mood or loss of interest lasting at least:",
+      "options": [
+        "Two days",
+        "Two hours",
+        "Two weeks",
+        "Two years"
+      ],
+      "correct": 2,
+      "explanation": "The symptom duration commonly used is two weeks or more.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Expression of psychological distress as physical symptoms is called:",
+      "options": [
+        "Rationalisation",
+        "Sublimation",
+        "Displacement",
+        "Somatisation"
+      ],
+      "correct": 3,
+      "explanation": "Somatic symptoms with excessive worry; the suffering is real.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Seeking information and making a plan to deal with a stressor is:",
+      "options": [
+        "Problem-focused coping",
+        "Emotion-focused coping",
+        "Avoidant coping",
+        "Denial"
+      ],
+      "correct": 0,
+      "explanation": "It aims to change the situation itself.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The receiver's response that shows how the message was understood is:",
+      "options": [
+        "Noise",
+        "Feedback",
+        "Encoding",
+        "Channel"
+      ],
+      "correct": 1,
+      "explanation": "Feedback completes the communication cycle.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The linear model that introduced the idea of noise is by:",
+      "options": [
+        "Schramm",
+        "Barnlund",
+        "Shannon and Weaver",
+        "Berlo"
+      ],
+      "correct": 2,
+      "explanation": "It was developed for telephone signals and has no feedback.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The model in which both people send and receive messages at the same time is:",
+      "options": [
+        "Linear model",
+        "SMCR model",
+        "Hypodermic needle model",
+        "Transactional model"
+      ],
+      "correct": 3,
+      "explanation": "Barnlund's transactional model fits face-to-face counselling.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Schramm's model says understanding depends on overlap of the:",
+      "options": [
+        "Fields of experience",
+        "Channels",
+        "Noise levels",
+        "Encoders"
+      ],
+      "correct": 0,
+      "explanation": "Shared experience lets both decode the message similarly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Using medical jargon with a lay patient is a:",
+      "options": [
+        "Physical barrier",
+        "Semantic barrier",
+        "Physiological barrier",
+        "Organisational barrier"
+      ],
+      "correct": 1,
+      "explanation": "Semantic barriers arise from words and meanings.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "'How have you been taking these tablets?' is an example of:",
+      "options": [
+        "A closed question",
+        "A leading question",
+        "An open question",
+        "A multiple question"
+      ],
+      "correct": 2,
+      "explanation": "It invites a full, free answer.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Feeling with a patient and communicating that understanding is:",
+      "options": [
+        "Sympathy",
+        "Apathy",
+        "Antipathy",
+        "Empathy"
+      ],
+      "correct": 3,
+      "explanation": "Sympathy is feeling pity for someone.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "In the SOLER guide, the letter L stands for:",
+      "options": [
+        "Lean slightly forward",
+        "Listen silently",
+        "Look away",
+        "Lower your voice"
+      ],
+      "correct": 0,
+      "explanation": "Sit squarely, Open posture, Lean forward, Eye contact, Relaxed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "A national campaign on immunisation through television and radio is:",
+      "options": [
+        "Interpersonal communication",
+        "Mass communication",
+        "Intrapersonal communication",
+        "Group communication"
+      ],
+      "correct": 1,
+      "explanation": "Mass media reach large audiences with little feedback.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "India's national telemedicine consultation service is:",
+      "options": [
+        "Jan Aushadhi",
+        "Nikshay",
+        "eSanjeevani",
+        "Mission Indradhanush"
+      ],
+      "correct": 2,
+      "explanation": "eSanjeevani offers online consultations.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "In SBAR, the letter R stands for:",
+      "options": [
+        "Reason",
+        "Report",
+        "Response",
+        "Recommendation"
+      ],
+      "correct": 3,
+      "explanation": "Situation, Background, Assessment, Recommendation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The first step of the SPIKES protocol is:",
+      "options": [
+        "Setting up the interview",
+        "Giving knowledge",
+        "Inviting questions",
+        "Summarising"
+      ],
+      "correct": 0,
+      "explanation": "S stands for setting: privacy, time and seating.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Asking a patient to explain instructions back in their own words is the:",
+      "options": [
+        "Read-back method",
+        "Teach-back method",
+        "Funnel technique",
+        "Closed-loop audit"
+      ],
+      "correct": 1,
+      "explanation": "It checks the clarity of the explanation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The communication style best suited to patient safety and teamwork is:",
+      "options": [
+        "Passive",
+        "Aggressive",
+        "Assertive",
+        "Passive-aggressive"
+      ],
+      "correct": 2,
+      "explanation": "Clear, honest and respectful expression of concerns.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Which is NOT an element of informed consent?",
+      "options": [
+        "Capacity",
+        "Disclosure",
+        "Voluntariness",
+        "Pressure from family"
+      ],
+      "correct": 3,
+      "explanation": "Consent must be free of coercion.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "A patient holding out an arm for a blood pressure check gives:",
+      "options": [
+        "Implied consent",
+        "Written consent",
+        "Proxy consent",
+        "Research consent"
+      ],
+      "correct": 0,
+      "explanation": "Consent shown by action rather than words.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "In SOAP notes, 'O' records:",
+      "options": [
+        "The patient's own complaints",
+        "Measurable findings such as vital signs and lab values",
+        "The professional's diagnosis",
+        "The treatment plan"
+      ],
+      "correct": 1,
+      "explanation": "Objective data are measured or observed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The correct way to correct an error in a written patient record is to:",
+      "options": [
+        "Use correction fluid",
+        "Erase it completely",
+        "Draw a single line through it, then initial and date",
+        "Overwrite the error"
+      ],
+      "correct": 2,
+      "explanation": "The original entry must stay readable.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The ethical principle 'do no harm' is:",
+      "options": [
+        "Beneficence",
+        "Justice",
+        "Autonomy",
+        "Non-maleficence"
+      ],
+      "correct": 3,
+      "explanation": "Beneficence is acting in the patient's best interest.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The ABHA number is part of the:",
+      "options": [
+        "Ayushman Bharat Digital Mission",
+        "National Mental Health Programme",
+        "Pharmacovigilance Programme of India",
+        "Jan Aushadhi scheme"
+      ],
+      "correct": 0,
+      "explanation": "It links a person's digital health records with consent.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Which is NOT a component of the health belief model?",
+      "options": [
+        "Perceived susceptibility",
+        "Subjective norms",
+        "Perceived barriers",
+        "Cues to action"
+      ],
+      "correct": 1,
+      "explanation": "Subjective norms belong to the theory of planned behaviour.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "A reminder SMS that prompts a patient to collect a refill is, in the HBM, a:",
+      "options": [
+        "Perceived barrier",
+        "Perceived severity",
+        "Cue to action",
+        "Modifying factor"
+      ],
+      "correct": 2,
+      "explanation": "Cues trigger the health action.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The transtheoretical model was developed by:",
+      "options": [
+        "Melzack and Wall",
+        "Miller and Rollnick",
+        "Lazarus and Folkman",
+        "Prochaska and DiClemente"
+      ],
+      "correct": 3,
+      "explanation": "From studies of people quitting smoking.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "A smoker who is thinking of quitting within six months but is unsure is in the stage of:",
+      "options": [
+        "Contemplation",
+        "Precontemplation",
+        "Action",
+        "Maintenance"
+      ],
+      "correct": 0,
+      "explanation": "Contemplation is marked by ambivalence.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The core idea of cognitive behavioural therapy is that:",
+      "options": [
+        "Behaviour depends only on genes",
+        "Thoughts, feelings and behaviour are linked",
+        "Unconscious conflicts must be relived",
+        "Medicines alone change behaviour"
+      ],
+      "correct": 1,
+      "explanation": "Changing unhelpful thoughts changes feelings and actions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Illness that is a real physical disease worsened by stress is called:",
+      "options": [
+        "Malingering",
+        "Hypochondriasis",
+        "Psychosomatic",
+        "Placebo response"
+      ],
+      "correct": 2,
+      "explanation": "Examples: hypertension, asthma, IBS.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The three action principles of WHO psychological first aid are:",
+      "options": [
+        "Stop, Think, Act",
+        "Ask, Advise, Arrange",
+        "Plan, Do, Check",
+        "Look, Listen, Link"
+      ],
+      "correct": 3,
+      "explanation": "PFA is practical support, not therapy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Stages of illness experience from symptom experience to recovery were described by:",
+      "options": [
+        "Suchman",
+        "Parsons",
+        "Mechanic",
+        "Goffman"
+      ],
+      "correct": 0,
+      "explanation": "Suchman described five stages.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The most respectful phrase is:",
+      "options": [
+        "A schizophrenic",
+        "Person with schizophrenia",
+        "A mental patient",
+        "A psycho"
+      ],
+      "correct": 1,
+      "explanation": "Person-first language reduces stigma.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "World Mental Health Day is observed on:",
+      "options": [
+        "7 April",
+        "1 December",
+        "10 October",
+        "31 May"
+      ],
+      "correct": 2,
+      "explanation": "7 April is World Health Day; 1 December World AIDS Day.",
+      "probability": "low"
+    }
+  ]
+}

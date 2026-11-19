@@ -1,0 +1,464 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the PCI 2026 (NEP 2020) syllabus and the usual style of PCI-pattern papers. This is a new course without past papers yet, so it is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define psychology. Explain its scope and relevance in health sciences, with reference to the biopsychosocial model.",
+      "answer": "1. Definition: psychology is the scientific study of behaviour (observable actions) and mental processes (thinking, feeling, remembering, perceiving).\n2. Goals: describe, explain, predict and change behaviour.\n3. Scope in health sciences: reactions to illness and diagnosis; health behaviours (smoking, diet, adherence, self-medication); patient–professional communication; pain, stress and anxiety; early recognition of mental health problems; health education campaigns; well-being of health workers.\n4. Biopsychosocial model (Engel, 1977): illness and recovery depend on biological (genes, infection, drug action), psychological (beliefs, mood, coping) and social (family, income, culture, access) factors acting together; it replaces the narrow biomedical model.\n5. Relevance to the pharmacist: counselling works only if the patient attends, understands, remembers and is motivated; non-adherence is mainly behavioural; patients bring fear and beliefs to the counter; pharmacists meet people with depression and anxiety and must respond and refer.\n6. Example: two patients with the same blood pressure respond differently because one believes medicines are harmful (psychological) and lives far from a pharmacy (social)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate classical and operant conditioning. Explain how reinforcement can be used to change health behaviour.",
+      "answer": "1. Learning: a relatively permanent change in behaviour from experience.\n2. Classical conditioning (Pavlov): learning by association; a neutral stimulus paired with an unconditioned stimulus comes to produce a conditioned response. Example: anticipatory nausea on seeing the chemotherapy ward. Terms: extinction, generalisation, discrimination.\n3. Operant conditioning (Skinner): learning from consequences; rewarded behaviour is repeated.\n4. Comparison: classical — involuntary responses, stimulus comes before response; operant — voluntary behaviour, consequence follows behaviour.\n5. Positive reinforcement adds something pleasant (praise for improved readings); negative reinforcement removes something unpleasant (pain relief after a tablet) — both increase behaviour; punishment decreases behaviour.\n6. Health behaviour change: give immediate, small, frequent rewards for healthy behaviour because the benefits of health behaviour come late; shaping in small steps; link doses to daily cues to build habits; self-monitoring charts as feedback; avoid relying on fear or punishment, which can cause avoidance."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain sensation, perception and attention. Discuss their importance in clinical assessment, with pain as an example.",
+      "answer": "1. Sensation: detection of physical energy by receptors and transduction into nerve signals; absolute threshold, difference threshold (Weber's law), sensory adaptation.\n2. Perception: organising and interpreting sensations; bottom-up and top-down processing; Gestalt principles (figure–ground, proximity, similarity, closure, continuity); influenced by experience, expectation, emotion and culture.\n3. Attention: focusing on some stimuli and ignoring others — selective, divided, sustained; limited capacity.\n4. Pain is a perception: the same injury gives different pain depending on mood, attention and expectation. Gate control theory (Melzack and Wall, 1965): a spinal 'gate' can increase or decrease pain signals, and thoughts and emotions influence it; distraction and reassurance reduce pain, fear increases it.\n5. Other clinical points: placebo effect; elderly patients with poor sight and hearing need large print and clear speech; look-alike drug names cause errors through top-down perception; anxious patients take in little, so give key points first."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define psychology.",
+      "answer": "Psychology is the scientific study of behaviour and mental processes. Behaviour is what can be observed (for example taking a tablet); mental processes are inner experiences such as thinking, feeling and remembering."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the biopsychosocial model?",
+      "answer": "A model proposed by George Engel (1977) stating that health and illness result from biological, psychological and social factors acting together, rather than biology alone as in the biomedical model."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate health psychology and clinical psychology.",
+      "answer": "Health psychology studies how psychological, behavioural and social factors affect physical health and illness (adherence, lifestyle, coping). Clinical psychology deals with the assessment, diagnosis and treatment of mental disorders."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is negative reinforcement? Give an example.",
+      "answer": "Removing an unpleasant stimulus after a behaviour, which makes the behaviour more likely. Example: a headache goes after taking a tablet, so the person takes the tablet again next time. It is not punishment."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "List the levels of Maslow's hierarchy of needs.",
+      "answer": "From the base: physiological needs, safety needs, love and belonging, esteem, and self-actualisation. Lower needs must usually be met before higher needs motivate behaviour."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give two ways of improving a patient's memory of counselling instructions.",
+      "answer": "Give the most important instruction first and repeat it at the end; limit and group the points; provide written or pictorial information; ask the patient to repeat back (teach-back)."
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "State the James–Lange theory of emotion.",
+      "answer": "It says that an event causes bodily arousal and our emotion is the awareness of these body changes — we feel afraid because we tremble, not the other way round."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe Erikson's psychosocial stages of development and their relevance to healthcare.",
+      "answer": "1. Erikson described eight stages, each with a conflict whose resolution gives a strength.\n2. Infancy: trust vs mistrust (hope). Early childhood: autonomy vs shame and doubt (will). Preschool: initiative vs guilt (purpose). School age: industry vs inferiority (competence).\n3. Adolescence: identity vs role confusion (fidelity). Young adulthood: intimacy vs isolation (love). Middle adulthood: generativity vs stagnation (care). Old age: integrity vs despair (wisdom).\n4. Healthcare relevance: infants need consistent care to build trust; young children need simple honest explanation and involvement of parents; adolescents need privacy and may hide illness from peers and stop treatment; adults balance work and family, so regimens must fit their life; older people facing despair may neglect self-care and need support, simple schedules and involvement of carers.\n5. Conclusion: knowing the stage helps the pharmacist choose words, involve the right people and anticipate adherence problems."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is stress? Explain the general adaptation syndrome and describe coping strategies and stress management techniques.",
+      "answer": "1. Stress: the response of body and mind to demands seen as threatening; eustress (positive) and distress (harmful).\n2. General adaptation syndrome (Selye): alarm (fight-or-flight, adrenaline), resistance (body adapts, cortisol stays high), exhaustion (resources used up — illness, fatigue, low immunity).\n3. Lazarus: primary appraisal (is it a threat?) and secondary appraisal (can I cope?).\n4. Coping: problem-focused (seek information, plan, act — useful when the situation can change); emotion-focused (talking, relaxation, acceptance — useful when it cannot); avoidant (denial, alcohol — harmful long-term).\n5. Resilience: ability to bounce back, helped by support, optimism, self-efficacy, healthy routines.\n6. Techniques: deep breathing, progressive muscle relaxation, mindfulness and yoga, exercise, sleep and diet, time management, social support, cognitive restructuring, limiting caffeine and alcohol, professional counselling."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe anxiety, depression and somatisation as psychological disorders seen in healthcare. What should a pharmacist do?",
+      "answer": "1. Anxiety disorders: excessive, persistent worry or fear that disturbs life — generalised anxiety disorder, panic disorder, phobias, social anxiety; physical symptoms (palpitations, breathlessness, sweating) can mimic physical disease.\n2. Depression: low mood or loss of interest for at least two weeks with fatigue, sleep and appetite change, poor concentration, guilt, hopelessness and possibly suicidal thoughts; common in chronic disease and reduces adherence.\n3. Somatisation: psychological distress expressed as physical symptoms; in somatic symptom disorder, distressing symptoms are accompanied by excessive worry; the suffering is real.\n4. Pharmacist's role: recognise warning signs, listen without judging, avoid saying 'it is all in your mind', counsel on medicines, avoid unnecessary repeated medicines in somatisation, refer to a doctor; treat any talk of suicide seriously and connect the person to urgent help.\n5. Use respectful, non-stigmatising language."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define personality.",
+      "answer": "Personality is the unique and relatively stable pattern of thinking, feeling and behaving that distinguishes one person from another."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "List the Big Five personality traits.",
+      "answer": "Openness, conscientiousness, extraversion, agreeableness and neuroticism (OCEAN). Conscientiousness is linked with better adherence; neuroticism with more distress and symptom reporting."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a defence mechanism? Give two examples seen in patients.",
+      "answer": "An unconscious way the ego protects itself from anxiety (Freud). Examples: denial — 'the diabetes test must be wrong'; displacement — shouting at counter staff after bad news from the doctor."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the five components of the common-sense model of illness perception.",
+      "answer": "Identity (what it is), cause, timeline (how long it lasts), consequences (how serious) and control or cure (whether it can be controlled)."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate problem-focused and emotion-focused coping.",
+      "answer": "Problem-focused coping tries to change the stressful situation (seeking information, making a plan). Emotion-focused coping manages the feelings it causes (talking to friends, relaxation, acceptance); it suits situations that cannot be changed."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is resilience?",
+      "answer": "The ability to adapt well and recover after stress, trauma or illness. It is built by supportive relationships, optimism, self-efficacy, problem-solving skills and healthy routines."
+    },
+    {
+      "id": "u2-s07",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name Piaget's stages of cognitive development.",
+      "answer": "Sensorimotor (0–2 years), preoperational (2–7), concrete operational (7–11) and formal operational (11 years and above)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the elements of communication with a diagram. Describe any two models of communication.",
+      "answer": "1. Communication: sending and receiving messages so they are understood (Latin communicare, to share).\n2. Elements: sender, message, encoding, channel, receiver, decoding, feedback, noise, context.\n3. Diagram: sender → (encodes) message → channel (noise) → receiver (decodes) → feedback back to sender, all within a context.\n4. Shannon–Weaver model (1949): linear, one-way — source, transmitter, channel, receiver, destination; introduced noise; no feedback; suits labels and broadcasts.\n5. Schramm's model (1954): interactive and two-way; both encode and decode; understanding depends on overlapping fields of experience — why jargon fails.\n6. Barnlund's transactional model: both people send and receive verbal and non-verbal messages at the same time; most realistic for counselling.\n7. Berlo's SMCR: source, message, channel, receiver, each with factors such as skills, attitudes, knowledge and culture.\n8. Pharmacy point: always obtain feedback (teach-back) and reduce noise."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are barriers to communication? Discuss the barriers in clinical settings and how to overcome them.",
+      "answer": "1. Definition: anything that stops, distorts or delays a message.\n2. Physical/environmental: noise, crowding, no privacy — use a counselling area.\n3. Physiological: pain, hearing or vision loss, fatigue — speak clearly, large print, return later.\n4. Psychological/emotional: fear, anxiety, anger, denial — empathy, reassurance, privacy.\n5. Semantic/language: jargon, abbreviations, different language — plain words, interpreter, check understanding.\n6. Cultural: beliefs, gender norms, gestures — cultural awareness, ask rather than assume.\n7. Health literacy: pictograms, demonstration, teach-back.\n8. Attitudinal: prejudice, impatience — respect, non-judgemental approach.\n9. Organisational: workload, poor handover, hierarchy — structured tools such as SBAR.\n10. Technological: poor network, illegible orders — backup methods, typed orders.\n11. Barriers created by the professional: interrupting, talking fast, too much information, writing while the patient speaks."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is active listening? Describe its skills and the types of questions used in patient interviews.",
+      "answer": "1. Listening is active (understanding and responding); hearing is passive.\n2. Active listening: full attention to words and feelings and showing understanding.\n3. Skills: attending with SOLER posture (sit squarely, open posture, lean forward, eye contact, relaxed); minimal encouragers; paraphrasing; reflecting feelings; clarifying; summarising; using silence; not interrupting.\n4. Blocks: planning a reply, judging, early advice, distractions, filtering.\n5. Questions: open (gather information and feelings), closed (specific facts), probing, clarifying, reflective, hypothetical; avoid leading and multiple questions.\n6. Funnel technique: broad open questions first, then narrow closed questions.\n7. Three prime questions: what is the medicine for, how to take it, what to expect.\n8. Benefit: more accurate history, trust and better adherence."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define communication.",
+      "answer": "Communication is the process of sending and receiving messages — facts, ideas and feelings — so that they are understood as intended. It is complete only when the receiver has understood the message."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate empathy and sympathy.",
+      "answer": "Empathy is understanding a person's feelings from their point of view and communicating that understanding ('It sounds frightening to start insulin'). Sympathy is feeling pity for the person ('Oh, poor you'); it can feel patronising."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate open and closed questions with examples.",
+      "answer": "Open questions invite a full answer: 'How have you been taking your tablets?' Closed questions get a specific fact, often yes or no: 'Are you allergic to penicillin?'"
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is telehealth communication? Give two advantages.",
+      "answer": "Providing health services and information at a distance using technology — video or phone consultation, store-and-forward, remote monitoring, mHealth. Advantages: reaches rural patients; saves travel and time."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is noise in communication?",
+      "answer": "Anything that distorts or interferes with a message — physical (crowd, sound), physiological (pain, hearing loss), psychological (worry) or semantic (jargon)."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is cultural competence?",
+      "answer": "The ability to communicate and give care effectively to people from different cultures. It grows through awareness of one's own biases, knowledge of other cultures, skill in adapting communication and respect."
+    },
+    {
+      "id": "u3-s07",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Write the SOLER guide for attending.",
+      "answer": "Sit squarely facing the patient, Open posture, Lean slightly forward, Eye contact, Relaxed manner."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the SPIKES protocol for delivering difficult news.",
+      "answer": "1. Difficult news: information that seriously and negatively changes a person's view of the future (serious diagnosis, serious side effect, an error).\n2. S – Setting: private place, sit down, no interruptions, enough time, support person if wished.\n3. P – Perception: find out what the patient already knows.\n4. I – Invitation: ask how much the patient wants to know.\n5. K – Knowledge: warning shot, then information in small pieces, plain words, check understanding.\n6. E – Emotions with empathy: notice and name the emotion, allow silence, respond empathetically.\n7. S – Strategy and summary: summarise, agree a plan, offer follow-up and support.\n8. Do: be honest and kind, give realistic hope. Don't: use jargon, rush, give false reassurance or talk in public."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss confidentiality and informed consent in health communication.",
+      "answer": "1. Confidentiality: duty not to disclose a patient's personal health information without permission; builds trust so patients share sensitive information.\n2. Good practice: private counselling area, low voice, secure records, log out of computers, need-to-know sharing, confirm identity on the phone, never post patient details on social media.\n3. Disclosure without consent only when required by law or court order, serious risk of harm, mandatory reporting (notifiable disease, child abuse) or to a guardian when the patient lacks capacity — minimum necessary.\n4. Indian provisions: Pharmacy Practice Regulations 2015, Mental Healthcare Act 2017, Digital Personal Data Protection Act 2023.\n5. Informed consent elements: capacity, disclosure (nature, benefits, risks, alternatives), understanding, voluntariness, decision with right to withdraw.\n6. Types: implied, verbal, written.\n7. Special cases: minors (parent or guardian), emergencies, lack of capacity, research.\n8. Ethical basis: autonomy, beneficence, non-maleficence, justice, veracity, fidelity."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the principles of good documentation? Describe the SOAP format and the contents of a discharge summary.",
+      "answer": "1. Principles: accurate and factual, complete, legible, contemporaneous, dated, timed and signed, objective, confidential; correct errors with a single line, initial and date; never erase.\n2. SOAP: Subjective (what the patient reports), Objective (measurable findings, medication list, lab values), Assessment (interpretation of the problem), Plan (recommendation, monitoring, education, follow-up).\n3. Discharge summary contents: patient details; dates of admission and discharge; consultant; diagnosis; reason for admission and history; key findings and investigations; treatment given; course and condition at discharge; discharge medicines with changes clearly marked; allergies; advice and warning signs; follow-up; doctor's name and signature.\n4. Pharmacist's role: medication reconciliation, error check and counselling at discharge."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Expand SBAR.",
+      "answer": "Situation, Background, Assessment, Recommendation — a structured tool for passing information between health professionals; ISBAR adds Identify at the start."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the teach-back method?",
+      "answer": "The patient explains in their own words what they were told; if incorrect, the professional explains again differently and rechecks. It tests the clarity of the explanation, not the patient."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "List the elements of informed consent.",
+      "answer": "Capacity, disclosure of information (nature, benefits, risks, alternatives), understanding, voluntariness, and the decision, with the right to withdraw."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is read-back in verbal orders?",
+      "answer": "The receiver repeats a verbal or telephone order and the sender confirms it is correct; drug names are spelled and numbers said digit by digit to prevent errors."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the four main principles of healthcare ethics.",
+      "answer": "Autonomy, beneficence, non-maleficence and justice; veracity and fidelity are often added."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give four steps for handling an angry patient.",
+      "answer": "Stay calm and keep yourself safe; move to a private area; listen without interrupting; acknowledge the feeling; offer what you can do and agree a solution; document the incident."
+    },
+    {
+      "id": "u4-s07",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is the Ayushman Bharat Health Account (ABHA)?",
+      "answer": "A unique health ID under the Ayushman Bharat Digital Mission that lets a person link and share their digital health records with consent."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the health belief model with an example. State its limitations.",
+      "answer": "1. Developed in the 1950s by US Public Health Service psychologists (Hochbaum, Rosenstock) to explain poor uptake of TB screening.\n2. Perceived susceptibility — belief about personal risk.\n3. Perceived severity — belief about how serious the problem is.\n4. Perceived benefits — belief that action reduces risk.\n5. Perceived barriers — cost, side effects, inconvenience.\n6. Cues to action — triggers such as reminders or a relative's illness.\n7. Self-efficacy — confidence in doing the action (added later); modifying factors are age, culture, education.\n8. Example: a hypertensive patient takes tablets if he feels at risk of stroke, sees stroke as serious, believes tablets help, finds barriers small, gets reminders and feels able to remember.\n9. Counselling use: explain risk and benefits, remove barriers, provide cues, build confidence.\n10. Limitations: assumes rational decisions; ignores emotions, habits and social pressure; static."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the transtheoretical (stages of change) model and its use in improving treatment adherence or smoking cessation.",
+      "answer": "1. Proposed by Prochaska and DiClemente; people change through stages and advice should fit the stage.\n2. Precontemplation: no intention to change in six months — raise awareness gently, personal risks, no lecturing.\n3. Contemplation: thinking about change, ambivalent — discuss pros and cons, build motivation.\n4. Preparation: plans to act soon — set a quit date or plan, discuss options.\n5. Action: changed recently — encourage, reward, manage withdrawal or side effects.\n6. Maintenance: sustained over six months — prevent relapse, identify high-risk situations.\n7. Termination: no temptation (not reached by all).\n8. Relapse is common and part of the cycle; processes of change include consciousness raising, self-liberation, stimulus control, reinforcement management, helping relationships; decisional balance and self-efficacy shift across stages.\n9. Motivational interviewing (OARS) helps in contemplation."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is psychological first aid? Explain its principles and add a note on crisis communication.",
+      "answer": "1. Psychological first aid: humane, supportive, practical help to people after a serious crisis; not therapy; does not force people to describe the event.\n2. Aims: safety, calm, connection, hope, self-efficacy.\n3. WHO principles: Look (safety, urgent needs, serious distress), Listen (approach, ask about needs, help calm), Link (basic needs, services, information, loved ones).\n4. Do's: honesty, respect for decisions, confidentiality, practical help; don'ts: pressure to talk, false promises, judging, risking oneself.\n5. Refer those unable to care for themselves or at risk of harm.\n6. Crisis communication: be first, be right, be credible, express empathy, promote action, show respect; one trusted spokesperson, simple repeated messages, many channels, correct rumours quickly.\n7. Pharmacist's role: accurate medicine and vaccine information, countering false cures, communicating recalls, supporting distressed people."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is stigma? Explain how communication can promote mental health and reduce stigma.",
+      "answer": "1. Stigma: a mark of disgrace attached to a person because of a characteristic such as mental illness (Goffman).\n2. Types: public, self, structural, associative; stereotypes → prejudice → discrimination.\n3. Effects: hiding symptoms, delay in seeking help, stopping medicines, isolation.\n4. Mental health promotion: awareness campaigns (World Mental Health Day, 10 October), life-skills and stress education, workplace programmes, early recognition, access to help (National Mental Health Programme, Tele-MANAS).\n5. Stigma reduction strategies: education, contact with people with lived experience, advocacy.\n6. Person-first language: 'person with schizophrenia', 'died by suicide'.\n7. Pharmacist: respectful private counselling on psychiatric medicines, correct myths, recognise warning signs and refer, support carers.\n8. Mental Healthcare Act 2017: dignity, confidentiality, access to care."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a psychosomatic illness? Give two examples.",
+      "answer": "A real physical condition in which psychological factors such as stress or anxiety help to start or worsen it. Examples: hypertension, bronchial asthma, irritable bowel syndrome, psoriasis."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate adherence and compliance.",
+      "answer": "Adherence is the extent to which a patient's behaviour matches recommendations agreed with the professional, implying partnership. Compliance implies obedience to the prescriber's orders."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the principle of cognitive behavioural therapy.",
+      "answer": "Thoughts, feelings and behaviour are linked, so identifying and changing unhelpful thoughts and behaviours changes feelings (Beck; Ellis's ABC model: activating event, belief, consequence)."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is illness behaviour?",
+      "answer": "The way people perceive, evaluate and respond to symptoms — ignoring them, self-treating or seeking care (Mechanic). It depends on symptom severity, disruption, knowledge, culture and access."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the stages of change in the transtheoretical model.",
+      "answer": "Precontemplation, contemplation, preparation, action and maintenance, with termination as a final stage; relapse can occur at any point."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What does OARS stand for in motivational interviewing?",
+      "answer": "Open questions, Affirmations, Reflective listening and Summarising."
+    },
+    {
+      "id": "u5-s07",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "List the three action principles of psychological first aid.",
+      "answer": "Look, Listen and Link (World Health Organization guide)."
+    }
+  ]
+}
