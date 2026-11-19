@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is an action potential? Describe the ionic basis of resting membrane potential and action potential, and explain how the nerve impulse is conducted along myelinated and unmyelinated fibres.",
+      "answer": "1. Definition: an action potential is a rapid, brief, all-or-none reversal of the membrane potential that travels along a nerve fibre as the nerve impulse.\n2. Resting membrane potential: about −70 mV, inside negative; K+ high inside (about 140 mmol/L), Na+ high outside (about 145 mmol/L).\n3. RMP is due to K+ leak channels (K+ diffuses out, leaving negative proteins inside), the Na+/K+ ATPase (3 Na+ out, 2 K+ in, electrogenic) and non-diffusible intracellular anions; it lies near the K+ equilibrium potential (about −90 mV).\n4. Depolarisation: stimulus opens some Na+ channels; at threshold (about −55 mV) voltage-gated Na+ channels open in large numbers (positive feedback); Na+ rushes in; potential rises to about +30 mV (overshoot).\n5. Repolarisation: Na+ channels inactivate; voltage-gated K+ channels open; K+ leaves and the inside becomes negative again.\n6. After-hyperpolarisation: K+ channels close slowly, potential dips below −70 mV; the pump restores ion balance.\n7. Diagram: graph of membrane potential against time showing RMP, threshold, depolarisation, overshoot, repolarisation and hyperpolarisation (about 1–2 ms).\n8. Refractory period: absolute (no response; Na+ channels inactivated) and relative (stronger stimulus needed); makes conduction one-way and limits firing rate.\n9. Unmyelinated fibres: local currents depolarise the adjacent membrane; continuous, slow conduction (C fibres 0.5–2 m/s).\n10. Myelinated fibres: Na+ channels concentrated at nodes of Ranvier; impulse jumps node to node (saltatory conduction) — faster (Aα up to 120 m/s) and energy-saving. Velocity rises with diameter and myelination. Local anaesthetics block Na+ channels and stop conduction."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define synapse. Classify synapses and describe the mechanism of synaptic transmission. Add a note on properties of synapses and important neurotransmitters.",
+      "answer": "1. Definition: the junction between two neurons (or a neuron and an effector cell) where the signal passes from one to the other.\n2. Classification: chemical and electrical (gap junctions); axodendritic, axosomatic and axoaxonic; excitatory and inhibitory.\n3. Diagram: presynaptic knob with vesicles and mitochondria, synaptic cleft (about 20 nm), postsynaptic membrane with receptors.\n4. Mechanism: impulse reaches the terminal → voltage-gated Ca2+ channels open → Ca2+ entry → vesicles fuse and release transmitter by exocytosis.\n5. Transmitter crosses the cleft and binds specific receptors on the postsynaptic membrane.\n6. Na+ entry gives an EPSP (depolarisation); Cl− entry or K+ exit gives an IPSP (hyperpolarisation).\n7. Spatial and temporal summation at the axon hillock; if threshold is reached the postsynaptic neuron fires.\n8. Termination: enzymatic breakdown (acetylcholinesterase), reuptake (noradrenaline, serotonin, dopamine) or diffusion.\n9. Properties: one-way conduction, synaptic delay (about 0.5 ms), fatigue, summation, convergence and divergence, facilitation, inhibition, sensitivity to hypoxia and drugs.\n10. Neurotransmitters: acetylcholine, noradrenaline, dopamine, serotonin, histamine, glutamate (main excitatory), GABA (main inhibitory in brain), glycine (inhibitory in spinal cord), substance P, endorphins, nitric oxide; drug examples — benzodiazepines (GABA-A), SSRIs (serotonin reuptake), antipsychotics (D2 block)."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the gross structure of the spinal cord with a labelled cross-section. Explain the ascending and descending tracts and the reflex arc.",
+      "answer": "1. Spinal cord lies in the vertebral canal from the foramen magnum to L1–L2; about 45 cm; cervical and lumbar enlargements; conus medullaris, filum terminale, cauda equina.\n2. 31 pairs of spinal nerves (8 C, 12 T, 5 L, 5 S, 1 Co), each with a dorsal (sensory) root with ganglion and a ventral (motor) root.\n3. Cross-section diagram: H-shaped central grey matter (dorsal, lateral and ventral horns, central canal) surrounded by white matter (dorsal, lateral, anterior columns); anterior median fissure, posterior median sulcus.\n4. Dorsal horn — sensory; lateral horn (T1–L2, S2–S4) — autonomic; ventral horn — α and γ motor neurons.\n5. Ascending tracts: dorsal column (fasciculus gracilis and cuneatus) — fine touch, vibration, conscious proprioception, crosses in medulla; lateral spinothalamic — pain and temperature, crosses in cord; anterior spinothalamic — crude touch; spinocerebellar — unconscious proprioception.\n6. Descending tracts: lateral corticospinal (pyramidal; 80–90% cross at pyramids) — skilled voluntary movement; anterior corticospinal — axial muscles; extrapyramidal — rubrospinal, vestibulospinal, reticulospinal, tectospinal — tone, posture, balance.\n7. Reflex: rapid automatic response to a stimulus through the CNS.\n8. Reflex arc: receptor → afferent neuron → centre in grey matter (with or without interneuron) → efferent neuron → effector; diagram.\n9. Types: monosynaptic (knee jerk, L2–L4) and polysynaptic (withdrawal with crossed extensor); superficial, deep, visceral; inborn and conditioned.\n10. Functions of spinal cord: conduction of impulses to and from brain, centre for spinal reflexes; UMN lesion (spastic, Babinski positive) vs LMN lesion (flaccid, wasting)."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the formation, circulation and functions of cerebrospinal fluid.",
+      "answer": "1. Formed mainly by choroid plexuses of the lateral, third and fourth ventricles (filtration and secretion); about 500 mL/day; total volume about 150 mL.\n2. Circulation: lateral ventricles → interventricular foramina (Monro) → third ventricle → cerebral aqueduct → fourth ventricle → foramina of Luschka and Magendie → subarachnoid space → absorbed by arachnoid villi into dural venous sinuses.\n3. Composition: clear, very little protein, glucose lower than plasma, few lymphocytes.\n4. Functions: buoyancy and cushioning of brain, constant chemical environment, nutrition and waste removal, H+ in CSF drives central chemoreceptors.\n5. Applied: lumbar puncture at L3–L4 or L4–L5; blocked flow → hydrocephalus; changes in meningitis."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure and functions of the cerebellum.",
+      "answer": "1. Lies behind pons and medulla, below occipital lobes, separated by tentorium cerebelli.\n2. Two hemispheres joined by vermis; outer grey cortex with folia and Purkinje cells; inner white matter (arbor vitae) with deep nuclei (dentate largest).\n3. Connected to brainstem by superior, middle and inferior cerebellar peduncles.\n4. Functions: coordination of voluntary movement (compares intended and actual movement), posture and equilibrium, muscle tone, motor learning.\n5. Lesion (same side): ataxia, intention tremor, dysmetria (past-pointing), dysdiadochokinesia, nystagmus, hypotonia, scanning speech."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify nerve fibres and describe their properties.",
+      "answer": "1. Classification: myelinated / unmyelinated; afferent / efferent / mixed; cholinergic / adrenergic; cranial / spinal.\n2. Erlanger–Gasser: Aα (largest, 70–120 m/s, motor, Ia), Aβ (touch), Aγ (spindle motor), Aδ (fast pain, cold), B (preganglionic autonomic), C (unmyelinated, 0.5–2 m/s, slow pain, postganglionic).\n3. Properties: excitability, conductivity, all-or-none law, refractory period (absolute and relative).\n4. Summation, accommodation, infatigability.\n5. Applied: local anaesthetics block small C and Aδ fibres first; pressure blocks large A fibres first."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the functional areas of the cerebral cortex.",
+      "answer": "1. Frontal: primary motor area 4 (precentral gyrus; opposite side, homunculus), premotor 6, Broca's speech area 44–45, frontal eye field 8, prefrontal (personality, judgement).\n2. Parietal: primary somatosensory 3-1-2 (postcentral gyrus), association area (stereognosis).\n3. Temporal: primary auditory 41–42, Wernicke's area 22 (understanding language), hippocampus (memory).\n4. Occipital: primary visual area 17, visual association 18–19.\n5. Lesions: Broca → expressive aphasia; Wernicke → receptive aphasia; motor area → paralysis of opposite side."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on meninges and ventricles of the brain.",
+      "answer": "1. Meninges: dura mater (tough, two layers in skull, forms venous sinuses, falx cerebri, tentorium), arachnoid mater (arachnoid villi), pia mater (vascular, adheres to brain).\n2. Spaces: epidural (spinal; epidural anaesthesia), subdural, subarachnoid (CSF).\n3. Ventricles: two lateral (in hemispheres), third (between thalami), fourth (between pons/medulla and cerebellum), lined by ependyma.\n4. Connections: foramina of Monro, aqueduct of Sylvius, foramina of Luschka and Magendie, central canal.\n5. Applied: meningitis (neck stiffness, fever), hydrocephalus."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is saltatory conduction?",
+      "answer": "Jumping of the nerve impulse from one node of Ranvier to the next in a myelinated fibre, because Na+ channels are concentrated at the nodes; it is faster and uses less energy than continuous conduction."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the vital centres present in the medulla oblongata.",
+      "answer": "Cardiac centre, vasomotor centre and respiratory centre; the medulla also has reflex centres for vomiting, coughing, sneezing, swallowing and salivation."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the anatomy and functions of the stomach. Explain the mechanism of HCl secretion and its regulation, including the role of the parasympathetic system and of pepsin.",
+      "answer": "1. Anatomy: J-shaped organ in upper left abdomen; parts — cardia, fundus, body, pyloric antrum and canal, pyloric sphincter; lesser and greater curvatures; rugae; three muscle layers (longitudinal, circular, oblique); diagram.\n2. Gastric glands: mucous cells (mucus, HCO3−), parietal cells (HCl, intrinsic factor), chief cells (pepsinogen, gastric lipase), G cells (gastrin), ECL cells (histamine), D cells (somatostatin).\n3. Functions: storage, mixing to chyme, gastric juice (about 1.5–2 L/day, pH 1–2), protein digestion, intrinsic factor, antimicrobial action, limited absorption, regulated emptying.\n4. HCl formation: CO2 + H2O → H2CO3 (carbonic anhydrase) → H+ + HCO3−.\n5. H+ pumped into lumen in exchange for K+ by H+/K+ ATPase (proton pump); Cl− follows through apical channels; HCO3− exchanged for Cl− into blood (alkaline tide).\n6. Regulation: ACh (vagus, M3), gastrin (G cells) and histamine (ECL, H2) stimulate; somatostatin, secretin and acid itself inhibit.\n7. Parasympathetic: sight, smell, taste → vagal nucleus → enteric neurons release ACh → direct stimulation of parietal cells, histamine release from ECL cells, gastrin release via GRP; vagotomy reduces acid.\n8. Phases: cephalic (about 30%), gastric (about 60%), intestinal (about 10%; mainly inhibitory via secretin, CCK, enterogastric reflex).\n9. Pepsin: pepsinogen activated by HCl (below pH 5) and autocatalysis; optimum pH about 2; endopeptidase acting near aromatic amino acids → proteoses and peptones; digests collagen; inactivated in duodenum.\n10. Drug link: PPIs block H+/K+ ATPase, H2 blockers block histamine, antacids neutralise acid; NSAIDs reduce protective prostaglandins → peptic ulcer."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure and functions of the liver. Add a note on bile and the biliary system.",
+      "answer": "1. Location: largest gland (about 1.5 kg), right hypochondrium under diaphragm; right and left lobes (falciform ligament), caudate and quadrate lobes.\n2. Blood supply: hepatic artery (about 25%) and portal vein (about 75%) enter at porta hepatis; blood leaves by hepatic veins to IVC.\n3. Hepatic lobule (diagram): hexagonal, central vein, plates of hepatocytes, sinusoids lined by Kupffer cells, portal triads at corners (artery, portal vein, bile duct).\n4. Carbohydrate functions: glycogenesis, glycogenolysis, gluconeogenesis — maintain blood glucose.\n5. Fat and protein: synthesis of cholesterol, lipoproteins, plasma proteins (albumin, fibrinogen, prothrombin); deamination, urea formation.\n6. Detoxification and drug metabolism (phase I cytochrome P450, phase II conjugation), first-pass metabolism; storage of glycogen, vitamins A, D, B12, iron.\n7. Other: excretion of bilirubin, Kupffer cell phagocytosis, fetal haemopoiesis, heat production, vitamin D hydroxylation.\n8. Bile: about 0.5–1 L/day; bile salts, pigments, cholesterol, phospholipids; no enzymes; bile salts emulsify fat and form micelles; enterohepatic circulation.\n9. Biliary tract: hepatic ducts → common hepatic duct + cystic duct → common bile duct → ampulla of Vater; gallbladder stores and concentrates bile, contracts with CCK.\n10. Disorders: jaundice, hepatitis, cirrhosis, gallstones."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the digestion and absorption of carbohydrates, proteins and fats.",
+      "answer": "1. Carbohydrate digestion: salivary amylase in mouth; pancreatic amylase in duodenum → maltose, maltotriose, dextrins.\n2. Brush-border enzymes: maltase, isomaltase, sucrase, lactase → glucose, fructose, galactose; lactase deficiency → lactose intolerance.\n3. Carbohydrate absorption: glucose and galactose by SGLT1 with Na+ (secondary active); fructose by GLUT5; exit by GLUT2 to portal blood.\n4. Protein digestion: pepsin in stomach → polypeptides; trypsin (activated by enterokinase), chymotrypsin, elastase, carboxypeptidase in duodenum; brush-border aminopeptidases and dipeptidases.\n5. Protein absorption: amino acids by Na+-linked carriers; di- and tripeptides by PepT1 (H+-linked), split inside cells; to portal blood.\n6. Fat digestion: emulsification by bile salts; pancreatic lipase with colipase → monoglycerides and fatty acids; phospholipase, cholesterol esterase.\n7. Fat absorption: micelles carry products to brush border; re-esterified in enterocytes; packed as chylomicrons → lacteals → thoracic duct; short-chain fatty acids directly to portal blood.\n8. Fat-soluble vitamins A, D, E, K absorbed with fat; B12 with intrinsic factor in terminal ileum; iron and calcium in duodenum.\n9. Water and electrolytes: about 8–9 L/day enters; most absorbed in small intestine, rest in colon; Na+-glucose co-transport is the basis of ORS.\n10. Diagram of villus with lacteal; flow chart summary table."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the salivary glands and the composition and functions of saliva.",
+      "answer": "1. Parotid (largest; Stensen's duct; serous), submandibular (Wharton's duct; mixed), sublingual (ducts of Rivinus; mucous).\n2. Saliva: about 1–1.5 L/day, pH about 6–7.4; water, mucin, salivary amylase, lingual lipase, lysozyme, IgA, electrolytes.\n3. Functions: starch digestion, lubrication and bolus formation, taste, speech, cleansing and antibacterial action, buffering, excretion of some drugs.\n4. Control: nervous only — parasympathetic (copious watery), sympathetic (scanty thick).\n5. Applied: anticholinergic drugs cause dry mouth; mumps affects parotid."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the anatomy and functions (exocrine) of the pancreas.",
+      "answer": "1. Retroperitoneal gland behind stomach; head in duodenal curve, body, tail; main duct joins common bile duct at ampulla of Vater.\n2. Exocrine acini (about 98%); islets of Langerhans endocrine.\n3. Pancreatic juice 1.2–1.5 L/day, pH about 8 (bicarbonate neutralises acid chyme).\n4. Enzymes: trypsinogen, chymotrypsinogen, procarboxypeptidase, amylase, lipase with colipase, nucleases.\n5. Control: secretin (bicarbonate), CCK (enzymes), vagus; premature activation → acute pancreatitis."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the movements of the gastrointestinal tract.",
+      "answer": "1. Mastication; deglutition in oral (voluntary), pharyngeal and oesophageal (involuntary) stages.\n2. Peristalsis: wave of contraction behind and relaxation ahead (myenteric plexus).\n3. Stomach: receptive relaxation, churning, gastric emptying; small intestine: segmentation for mixing; migrating motor complex during fasting.\n4. Colon: haustral churning, mass movements (gastrocolic reflex).\n5. Defecation reflex (S2–S4 parasympathetic, voluntary external sphincter); vomiting via vomiting centre and CTZ."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is ATP? Explain its formation and role. Add a note on creatine phosphate.",
+      "answer": "1. ATP = adenine + ribose + three phosphates; two high-energy bonds; about 7.3 kcal/mol on hydrolysis.\n2. Formation: substrate-level phosphorylation (glycolysis, Krebs cycle) and oxidative phosphorylation (electron transport chain, ATP synthase, chemiosmosis; O2 final acceptor); about 30–32 ATP per glucose.\n3. Roles: muscle contraction, active transport (Na+/K+ ATPase), biosynthesis, secretion, cAMP signalling, heat.\n4. Creatine phosphate: stored in muscle; creatine phosphate + ADP ⇌ creatine + ATP (creatine kinase; Lohmann reaction); fastest ATP regeneration for about 5–10 s of intense work.\n5. Breaks down to creatinine, excreted by kidney; serum creatinine and clearance assess kidney function."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define BMR. Describe the conditions for its measurement and the factors affecting it.",
+      "answer": "1. BMR: energy used at complete physical and mental rest, 12 h after a meal, in a comfortable environment; about 40 kcal/m²/h in men, 37 in women.\n2. Conditions: overnight fast, morning, lying awake and relaxed, no exercise or stimulants, room temperature about 20–25 °C, no fever.\n3. Measurement: indirect calorimetry with Benedict–Roth apparatus (O2 consumed × about 4.825 kcal/L); direct calorimetry; RQ.\n4. Raised by: thyroid hormones, fever (about 13% per °C), adrenaline, growth, pregnancy, male sex, large surface area, cold climate.\n5. Lowered by: hypothyroidism, starvation, sleep, old age; used for diet planning."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the dental formula of temporary and permanent teeth.",
+      "answer": "Temporary: I 2, C 1, M 2 in each half jaw = 20 teeth. Permanent: I 2, C 1, PM 2, M 3 in each half jaw = 32 teeth."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the role of intrinsic factor?",
+      "answer": "Intrinsic factor is a glycoprotein secreted by parietal cells of the stomach; it binds vitamin B12 and allows its absorption in the terminal ileum. Its lack causes pernicious anaemia."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the anatomy of the lungs. Explain the mechanism of respiration and its nervous and chemical regulation.",
+      "answer": "1. Lungs: cone-shaped, in thoracic cavity; apex, base, costal and mediastinal surfaces, hilum; right lung 3 lobes (oblique and horizontal fissures), left lung 2 lobes with cardiac notch and lingula.\n2. Pleura: visceral and parietal; pleural fluid; intrapleural pressure below atmospheric; alveoli (about 300 million), type I and type II cells, surfactant; respiratory membrane about 0.5 µm.\n3. Inspiration (active): diaphragm (phrenic nerve C3–C5) contracts and flattens; external intercostals raise ribs; thoracic volume increases; alveolar pressure falls about 1 mmHg below atmospheric (Boyle's law); air enters.\n4. Expiration (passive at rest): muscles relax; elastic recoil; pressure rises above atmospheric; forced expiration uses internal intercostals and abdominal muscles.\n5. Respiratory centres: DRG (inspiratory rhythm) and VRG (forced breathing) in medulla; pneumotaxic (limits inspiration) and apneustic centres in pons; higher centres for voluntary control.\n6. Reflexes: Hering–Breuer inflation reflex (vagus), irritant receptors, J receptors, proprioceptors in exercise.\n7. Central chemoreceptors (medulla): respond to H+ in CSF from CO2 — most important; rise in PCO2 strongly increases ventilation.\n8. Peripheral chemoreceptors: carotid bodies (IX) and aortic bodies (X); respond to low PO2 (below about 60 mmHg), high PCO2 and H+.\n9. Diagrams: respiratory tract and alveolus; flow chart of control.\n10. Applied: opioids and barbiturates depress the respiratory centre; in chronic CO2 retention breathing depends on hypoxic drive, so oxygen is given in controlled amounts."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Draw a labelled diagram of the nephron. Describe the physiology of urine formation.",
+      "answer": "1. Nephron: functional unit, about 1 million per kidney; cortical (85%) and juxtamedullary (15%).\n2. Parts (diagram): renal corpuscle (glomerulus + Bowman's capsule), PCT, loop of Henle (descending and ascending limbs), DCT, collecting duct; juxtaglomerular apparatus (JG cells, macula densa).\n3. Urine formation = filtration − reabsorption + secretion.\n4. Glomerular filtration: through fenestrated endothelium, basement membrane and podocyte slits; cells and proteins retained; NFP = 60 − (18 + 32) = about 10 mmHg.\n5. GFR about 125 mL/min (180 L/day); filtration fraction about 20%; kept steady by autoregulation and tubuloglomerular feedback; measured by inulin or creatinine clearance.\n6. Reabsorption in PCT: about 65% Na+ and water, all glucose and amino acids, most HCO3−; glucose renal threshold about 180 mg/dL.\n7. Loop of Henle: descending limb water out, thick ascending limb NaCl out (Na+-K+-2Cl− carrier, furosemide); countercurrent multiplier with vasa recta builds medullary gradient.\n8. DCT and collecting duct: Na+ reabsorption with aldosterone, water reabsorption with ADH (aquaporin-2) → concentrated urine.\n9. Tubular secretion: H+, K+, NH4+, creatinine, drugs (penicillin, PAH); probenecid competes.\n10. Normal urine: 1–1.5 L/day, pH about 6, specific gravity 1.010–1.025; abnormal constituents glucose, protein, ketones, blood."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define lung volumes and capacities with normal values and a spirogram. Explain the transport of oxygen and carbon dioxide in blood.",
+      "answer": "1. Spirogram diagram with all volumes and capacities.\n2. Volumes: TV 500 mL, IRV 3000 mL, ERV 1100 mL, RV 1200 mL (with definitions).\n3. Capacities: IC = TV + IRV (3500), FRC = ERV + RV (2300), VC = IRV + TV + ERV (4600), TLC = VC + RV (5800 mL).\n4. Minute ventilation 6 L/min; alveolar ventilation 4.2 L/min; dead space 150 mL; FEV1/FVC about 80%, reduced in obstructive disease.\n5. Partial pressures: alveolar PO2 about 100, venous 40 mmHg; PCO2 venous 46, alveolar 40 mmHg; diffusion down gradients.\n6. O2 transport: 97–98.5% as oxyhaemoglobin, rest dissolved; 1 g Hb carries 1.34 mL O2; about 20 mL O2 per 100 mL blood.\n7. O2–Hb dissociation curve: sigmoid; P50 about 26–27 mmHg; right shift (Bohr effect) by CO2, H+, temperature, 2,3-BPG; left shift by fetal Hb, CO.\n8. CO2 transport: about 70% bicarbonate, 23% carbamino-haemoglobin, 7% dissolved.\n9. Carbonic anhydrase in RBC forms HCO3−, which moves to plasma in exchange for Cl− (chloride shift); reverses in lungs.\n10. Haldane effect: deoxygenated blood carries more CO2; diagram of curve."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the micturition reflex.",
+      "answer": "1. Bladder fills; detrusor relaxed and internal sphincter closed (sympathetic T11–L2).\n2. At about 300–400 mL stretch receptors send impulses through pelvic nerves to the sacral centre (S2–S4).\n3. Parasympathetic efferents contract the detrusor and open the internal sphincter; urine in urethra reinforces contraction (positive feedback).\n4. Voluntary control: pontine centre and cortex; external sphincter (pudendal nerve) relaxed voluntarily.\n5. Applied: infants have reflex voiding; spinal injury → automatic bladder; anticholinergics cause retention."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the role of the renin–angiotensin system in the kidney.",
+      "answer": "1. Renin from JG cells released by low BP/renal perfusion, low NaCl at macula densa, sympathetic β1 stimulation.\n2. Renin converts angiotensinogen (liver) to angiotensin I; ACE (lung) converts it to angiotensin II.\n3. Angiotensin II: vasoconstriction, aldosterone release (Na+ and water retention, K+ loss), ADH release, thirst, efferent arteriole constriction (GFR maintained).\n4. Result: BP and volume restored; renin falls (negative feedback).\n5. Drugs: ACE inhibitors (enalapril), ARBs (losartan), spironolactone, aliskiren, β-blockers."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of the kidneys in acid–base balance.",
+      "answer": "1. Normal pH 7.35–7.45; kidneys excrete fixed acids and generate bicarbonate (slow, hours to days).\n2. Reabsorption of filtered HCO3− in PCT via secreted H+ and carbonic anhydrase.\n3. H+ excreted with phosphate buffer (titratable acid) generating new HCO3−.\n4. Ammonia from glutamine buffers H+ as NH4+, increased in chronic acidosis; new HCO3− added to blood.\n5. In alkalosis less H+ secretion and more HCO3− excretion; acetazolamide inhibits carbonic anhydrase."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is artificial respiration? Describe the methods of artificial respiration and resuscitation.",
+      "answer": "1. Artificial respiration: moving air into and out of lungs of a person not breathing adequately (drowning, shock, poisoning).\n2. Manual methods: Schafer's prone pressure, Holger–Nielsen (back pressure, arm lift), Silvester's (supine, arm raising), Eve's rocking.\n3. Mouth-to-mouth / mouth-to-nose / bag–valve–mask ventilation; mechanical positive-pressure ventilators and older iron lung.\n4. CPR: check response, call for help and AED; chest compressions 100–120/min, depth 5–6 cm, ratio 30:2; C-A-B sequence.\n5. Early defibrillation with AED; continue until recovery or trained help arrives."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the anatomy of the kidney with a labelled diagram and list its functions.",
+      "answer": "1. Retroperitoneal, T12–L3, right lower; about 11 × 6 × 3 cm, 150 g; capsule, perirenal fat, renal fascia; hilum.\n2. Coronal section: cortex, medulla with 8–18 pyramids and papillae, renal columns, minor and major calyces, renal pelvis, ureter.\n3. Blood flow 1200–1300 mL/min (20–25% of CO); renal artery → afferent → glomerulus → efferent → peritubular capillaries/vasa recta.\n4. Functions: excretion of wastes and drugs, water and electrolyte balance, acid–base balance, BP regulation (RAS).\n5. Endocrine: erythropoietin, renin, calcitriol; gluconeogenesis in starvation."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define vital capacity and give its normal value.",
+      "answer": "Vital capacity is the maximum volume of air that can be breathed out after a maximum inspiration (IRV + TV + ERV); about 4.6 L in an adult male."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is GFR? Give its normal value.",
+      "answer": "Glomerular filtration rate is the volume of filtrate formed by both kidneys per minute; normally about 125 mL/min, or about 180 L/day."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify hormones. Describe the mechanisms of hormone action with examples.",
+      "answer": "1. Hormone: chemical messenger secreted by ductless glands into blood, acting on target cells with specific receptors.\n2. Chemical classes: amines (adrenaline, T3/T4, melatonin), peptides and proteins (insulin, GH, ADH), glycoproteins (TSH, FSH, LH, hCG), steroids (cortisol, aldosterone, sex hormones), eicosanoids.\n3. Group I (lipid-soluble, intracellular receptors) and group II (water-soluble, surface receptors); endocrine, paracrine, autocrine signalling.\n4. cAMP pathway: hormone → receptor → Gs → adenylyl cyclase → cAMP → protein kinase A → phosphorylation → response; ended by phosphodiesterase; examples glucagon, TSH, ACTH, adrenaline (β).\n5. Gi inhibits adenylyl cyclase (α2, M2).\n6. Phospholipase C pathway: Gq → PLC → IP3 (Ca2+ release) and DAG (protein kinase C); Ca2+–calmodulin; examples ADH (V1), oxytocin, angiotensin II, α1.\n7. Tyrosine kinase receptor: insulin, IGF-1; JAK–STAT: GH, prolactin; cGMP: ANP, NO.\n8. Intracellular receptors: steroid or thyroid hormone enters cell, binds cytoplasmic or nuclear receptor, complex binds hormone response element on DNA → transcription → new proteins; slow but long-lasting.\n9. Amplification of signal through second messengers.\n10. Regulation by negative feedback (TRH–TSH–T4) and positive feedback (LH surge, oxytocin); diagrams of cAMP and intracellular pathways."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of the thyroid gland. Explain the synthesis, storage and release of thyroid hormones, their functions and disorders.",
+      "answer": "1. Butterfly-shaped gland in front of neck; two lobes joined by isthmus; about 20–25 g; follicles of cuboidal cells with colloid (thyroglobulin); parafollicular C cells (calcitonin).\n2. Iodide trapping by Na+/I− symporter.\n3. Oxidation of iodide by thyroid peroxidase (TPO).\n4. Organification: iodination of tyrosine residues of thyroglobulin → MIT and DIT.\n5. Coupling: MIT + DIT → T3; DIT + DIT → T4; stored in colloid (2–3 months' supply).\n6. Release: TSH → endocytosis of colloid → proteolysis → T4 (about 90%) and T3 (about 10%, more active) into blood; carried by TBG; T4 → T3 in tissues.\n7. Regulation: TRH → TSH → T3/T4 with negative feedback.\n8. Functions: raise BMR and heat, growth and brain development, carbohydrate/fat/protein metabolism, raise heart rate and output, CNS alertness.\n9. Hypothyroidism: cretinism (dwarfism, mental retardation) and myxoedema (weight gain, cold intolerance, slow pulse, puffy face); hyperthyroidism: Graves' disease (weight loss, heat intolerance, tachycardia, tremor, exophthalmos); simple goitre (iodine deficiency).\n10. Drugs: carbimazole/propylthiouracil block TPO; levothyroxine replaces hormone; iodised salt prevents goitre."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of the adrenal gland. Explain the functions of the hormones of the adrenal cortex and medulla and their disorders.",
+      "answer": "1. Paired triangular glands on top of kidneys; outer cortex (mesoderm) and inner medulla (neural crest).\n2. Cortex zones (diagram): glomerulosa – mineralocorticoids, fasciculata – glucocorticoids, reticularis – androgens.\n3. Aldosterone: Na+ and water reabsorption, K+ and H+ secretion in DCT and collecting duct; controlled by angiotensin II and plasma K+.\n4. Cortisol: gluconeogenesis and raised glucose, protein breakdown, fat redistribution; anti-inflammatory and immunosuppressive; stress response; permissive action.\n5. Cortisol control: CRH → ACTH → cortisol, negative feedback; circadian peak in early morning; steroids withdrawn gradually.\n6. Androgens (DHEA): pubic and axillary hair in females.\n7. Medulla: chromaffin cells, adrenaline (about 80%) and noradrenaline (about 20%) under sympathetic stimulation; raise heart rate, BP, glucose, bronchodilate, dilate pupil — fight or flight.\n8. Cushing's syndrome: moon face, buffalo hump, striae, hypertension, hyperglycaemia, osteoporosis.\n9. Addison's disease: weakness, hypotension, pigmentation, low Na+, high K+; Conn's syndrome: hypertension with low K+.\n10. Phaeochromocytoma: episodic hypertension, sweating, palpitations; congenital adrenal hyperplasia: virilisation."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the hormones of the anterior and posterior pituitary with their functions.",
+      "answer": "1. Anterior (adenohypophysis), controlled by hypothalamic releasing hormones via the portal system.\n2. GH (growth via IGF-1, protein synthesis, raises glucose), TSH (thyroid), ACTH (cortisol).\n3. FSH (follicle growth, spermatogenesis), LH (ovulation, corpus luteum, testosterone), prolactin (milk production).\n4. Posterior (neurohypophysis) stores hormones from supraoptic and paraventricular nuclei: ADH (water reabsorption via aquaporin-2, vasoconstriction) and oxytocin (uterine contraction, milk ejection).\n5. Disorders: gigantism, acromegaly, dwarfism, diabetes insipidus."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the actions of insulin and glucagon. Add a note on diabetes mellitus.",
+      "answer": "1. Islets: β cells (insulin, 60–70%), α (glucagon), δ (somatostatin), PP cells.\n2. Insulin: ↑ glucose uptake (GLUT4), glycogenesis, fat and protein synthesis, K+ into cells; ↓ gluconeogenesis, lipolysis; lowers blood glucose.\n3. Glucagon: liver glycogenolysis, gluconeogenesis, ketogenesis; raises blood glucose.\n4. Diabetes mellitus: type 1 (autoimmune β-cell loss, ketoacidosis) and type 2 (insulin resistance); polyuria, polydipsia, polyphagia, weight loss, glycosuria.\n5. Diagnosis: fasting glucose ≥ 126 mg/dL, 2-h OGTT ≥ 200 mg/dL, HbA1c ≥ 6.5%; complications retinopathy, nephropathy, neuropathy."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the parathyroid glands and the role of PTH in calcium regulation. Mention their disorders.",
+      "answer": "1. Four small glands on posterior thyroid; chief cells secrete PTH; release rises when plasma Ca2+ falls.\n2. Bone: osteoclastic resorption releases Ca2+ and phosphate.\n3. Kidney: ↑ Ca2+ reabsorption in DCT, ↓ phosphate reabsorption, activates 1α-hydroxylase → calcitriol → gut Ca2+ absorption.\n4. Calcitonin opposes PTH; normal plasma Ca2+ 9–11 mg/dL.\n5. Hypoparathyroidism → tetany (Trousseau's, Chvostek's signs); hyperparathyroidism → bone loss, kidney stones."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the pineal gland and thymus.",
+      "answer": "1. Pineal: in epithalamus behind third ventricle; pinealocytes; brain sand with age.\n2. Melatonin from serotonin; high in darkness, low in light (retina → suprachiasmatic nucleus → sympathetic).\n3. Functions: circadian sleep–wake rhythm, timing of puberty, antioxidant; used for jet lag.\n4. Thymus: anterior mediastinum; large in childhood, involutes after puberty; cortex and medulla with Hassall's corpuscles.\n5. Thymosin and related hormones; maturation of T lymphocytes; DiGeorge syndrome, thymoma, link with myasthenia gravis."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between Cushing's syndrome and Addison's disease.",
+      "answer": "1. Cause: Cushing's — excess cortisol (steroid drugs, pituitary ACTH adenoma, adrenal tumour); Addison's — destruction of adrenal cortex (autoimmune, tuberculosis).\n2. Appearance: Cushing's — moon face, buffalo hump, central obesity, purple striae; Addison's — weight loss, skin and mucosal pigmentation.\n3. BP: high in Cushing's; low in Addison's.\n4. Glucose and electrolytes: hyperglycaemia in Cushing's; hypoglycaemia, low Na+, high K+ in Addison's.\n5. ACTH: low (adrenal or drug cause) or high (pituitary cause) in Cushing's; high in Addison's; treatment — remove cause / replace cortisol and fludrocortisone."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define autocrine and paracrine signalling.",
+      "answer": "Autocrine: a chemical acts on the same cell that released it (e.g. interleukin-2 on T cells). Paracrine: it acts on neighbouring cells by local diffusion (e.g. histamine on parietal cells)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is acromegaly?",
+      "answer": "Acromegaly is excess growth hormone in adults after the epiphyses have closed, usually from a pituitary adenoma; it enlarges the hands, feet, jaw and facial bones and may cause diabetes and hypertension."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the anatomy of the male reproductive system with a labelled diagram. Explain spermatogenesis and its hormonal control.",
+      "answer": "1. Diagram: testes in scrotum, epididymis, vas deferens, seminal vesicles, ejaculatory duct, prostate, bulbourethral glands, urethra, penis.\n2. Testis: tunica albuginea, about 250 lobules, seminiferous tubules (germ cells, Sertoli cells), Leydig cells between tubules; scrotum keeps testes 2–3 °C cooler.\n3. Ducts: epididymis (maturation, storage), vas deferens (transport, vasectomy), ejaculatory duct, urethra.\n4. Accessory glands: seminal vesicles (about 60% of semen, fructose), prostate (about 25–30%, PSA, citric acid), Cowper's glands (mucus).\n5. Penis: two corpora cavernosa and corpus spongiosum; erection by parasympathetic NO-cGMP.\n6. Spermatogenesis: begins at puberty, about 64–74 days; spermatogonium (2n) → primary spermatocyte (2n) → meiosis I → secondary spermatocytes (n) → meiosis II → spermatids → spermiogenesis → spermatozoa; one primary gives four sperm.\n7. Spermiogenesis: acrosome from Golgi, condensed nucleus, middle piece with mitochondria, tail from centrioles.\n8. Sperm structure diagram: head (acrosome, nucleus), neck, middle piece, tail.\n9. Hormonal control: GnRH → LH → Leydig cells → testosterone; FSH → Sertoli cells → spermatogenesis, ABP, inhibin; negative feedback by testosterone and inhibin.\n10. Factors reducing it: high temperature (cryptorchidism), mumps, radiation, alcohol, drugs."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the female reproductive organs. Explain the physiology of the menstrual cycle with ovarian and uterine changes.",
+      "answer": "1. Diagram: ovaries, uterine tubes (infundibulum, fimbriae, ampulla, isthmus), uterus (fundus, body, cervix), vagina, external genitalia.\n2. Ovaries: cortex with follicles; produce ova and oestrogen, progesterone, inhibin, relaxin.\n3. Uterus: perimetrium, myometrium, endometrium (functional and basal layers); site of implantation.\n4. Menstrual cycle: about 28 days; day 1 = first day of bleeding.\n5. Menstrual phase (days 1–5): fall of progesterone and oestrogen → spiral artery constriction → shedding of functional layer.\n6. Proliferative/follicular phase (days 6–14): FSH → follicle growth → Graafian follicle; oestrogen rebuilds endometrium.\n7. Ovulation (about day 14): high oestrogen → positive feedback → LH surge → rupture of follicle and release of secondary oocyte.\n8. Secretory/luteal phase (days 15–28): corpus luteum secretes progesterone and oestrogen; endometrium thick, glands coiled and secretory.\n9. No fertilization: corpus luteum → corpus albicans, hormones fall → menstruation; with fertilization hCG maintains corpus luteum.\n10. Chart of hormone levels and endometrial thickness; oral contraceptives suppress ovulation."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the structure of DNA. Explain the process of protein synthesis.",
+      "answer": "1. DNA: double helix (Watson and Crick, 1953); two antiparallel strands of nucleotides (phosphate, deoxyribose, base).\n2. Bases: purines A, G; pyrimidines C, T; A pairs with T (2 H-bonds), G with C (3 H-bonds); diagram.\n3. Replication semi-conservative; DNA vs RNA (ribose, uracil, single strand); mRNA, tRNA, rRNA.\n4. Central dogma: DNA → mRNA → protein; genetic code triplet, 64 codons, AUG start, UAA/UAG/UGA stop, degenerate, nearly universal.\n5. Transcription (nucleus): RNA polymerase binds promoter, unwinds DNA, builds complementary pre-mRNA from template strand.\n6. Processing: introns removed, exons spliced; 5′ cap and poly-A tail; mRNA exits by nuclear pores.\n7. Translation: amino acids activated and attached to tRNA; initiation at AUG with methionine-tRNA and ribosomal subunits.\n8. Elongation: tRNA anticodon pairs with codon; peptide bonds formed; ribosome moves codon by codon.\n9. Termination at stop codon; release factors free polypeptide; post-translational folding and modification.\n10. Drug link: tetracyclines and aminoglycosides (30S), macrolides and chloramphenicol (50S) act on bacterial ribosomes; rifampicin on bacterial RNA polymerase."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between spermatogenesis and oogenesis.",
+      "answer": "1. Site: seminiferous tubules of testis vs ovary.\n2. Onset: puberty vs fetal life; continuous vs cyclic, ending at menopause.\n3. Product: four sperm per primary spermatocyte vs one ovum and polar bodies per primary oocyte.\n4. Meiosis: uninterrupted vs arrested in prophase I and metaphase II, completed only after fertilization.\n5. Gamete: small, motile, millions daily, cytoplasm discarded vs large, non-motile, one per cycle, cytoplasm retained."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the process of fertilization.",
+      "answer": "1. Fusion of sperm and secondary oocyte in the ampulla of the uterine tube within about 12–24 h of ovulation.\n2. Capacitation of sperm in the female tract; penetration of corona radiata (hyaluronidase).\n3. Binding to zona pellucida and acrosome reaction (acrosin) to penetrate the zona.\n4. Membrane fusion; cortical reaction hardens zona — block to polyspermy; oocyte completes meiosis II.\n5. Pronuclei fuse → zygote (2n); sex decided by X or Y sperm; cleavage → morula → blastocyst → implantation from about day 6–7."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of the sex hormones — testosterone, oestrogen and progesterone.",
+      "answer": "1. Testosterone (Leydig cells; DHT in tissues): male genitalia, secondary sexual characters, spermatogenesis, anabolic effects on muscle and bone, libido.\n2. Oestrogen (follicles, corpus luteum, placenta): female secondary sexual characters, proliferative phase, LH surge, thin cervical mucus, bone protection.\n3. Progesterone (corpus luteum, placenta): secretory endometrium, maintains pregnancy, relaxes myometrium, thick cervical mucus, breast alveoli, slight rise in body temperature.\n4. Inhibin suppresses FSH; relaxin softens cervix and pelvic ligaments.\n5. Uses: hormone replacement, contraceptive pills, testosterone in hypogonadism."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on pregnancy and parturition.",
+      "answer": "1. Pregnancy about 40 weeks from LMP; three trimesters; organs form in first 8 weeks (drug risk).\n2. Placenta: exchange, barrier, IgG transfer, hormones hCG, progesterone, oestrogen, hPL, relaxin.\n3. Maternal changes: increased blood volume and cardiac output, respiration, GFR, weight; pregnancy tests detect hCG.\n4. Parturition: rising oestrogen/progesterone ratio, oxytocin and prostaglandins; Ferguson reflex positive feedback.\n5. Stages: dilatation (to 10 cm), expulsion of baby, delivery of placenta; lactation by prolactin and oxytocin."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the patterns of genetic inheritance with examples.",
+      "answer": "1. Mendel's laws: dominance, segregation, independent assortment; monohybrid cross Tt × Tt gives 3:1 phenotype, 1:2:1 genotype.\n2. Autosomal dominant (Huntington's, achondroplasia, familial hypercholesterolaemia); autosomal recessive (sickle cell anaemia, thalassaemia, cystic fibrosis, phenylketonuria).\n3. X-linked recessive (haemophilia, colour blindness, Duchenne dystrophy, G6PD deficiency): mostly males, carrier mothers.\n4. X-linked dominant, Y-linked, codominance (AB blood group), multiple alleles, polygenic (height, skin colour), mitochondrial (maternal).\n5. Example cross: carrier mother × normal father → half of sons affected, half of daughters carriers."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are menarche and menopause?",
+      "answer": "Menarche is the first menstrual period at puberty (usually about 11–14 years). Menopause is the permanent end of menstruation as the ovarian follicles run out, usually between about 45 and 55 years."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a codon? Name the start and stop codons.",
+      "answer": "A codon is a sequence of three bases on mRNA that specifies one amino acid or a stop signal. Start codon: AUG (methionine). Stop codons: UAA, UAG and UGA."
+    }
+  ]
+}

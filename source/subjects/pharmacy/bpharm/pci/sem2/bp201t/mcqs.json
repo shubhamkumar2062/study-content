@@ -1,0 +1,872 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The resting membrane potential of a typical neuron is about:",
+      "options": [
+        "−70 mV",
+        "+30 mV",
+        "−20 mV",
+        "−120 mV"
+      ],
+      "correct": 0,
+      "explanation": "At rest the inside of a neuron is about 70 mV negative to the outside, mainly from K+ leak.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Myelin in the central nervous system is formed by:",
+      "options": [
+        "Schwann cells",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Microglia"
+      ],
+      "correct": 1,
+      "explanation": "Oligodendrocytes myelinate CNS axons; Schwann cells do this in the PNS.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Saltatory conduction occurs in:",
+      "options": [
+        "Unmyelinated C fibres",
+        "Skeletal muscle fibres",
+        "Myelinated nerve fibres",
+        "Dendrites only"
+      ],
+      "correct": 2,
+      "explanation": "In myelinated fibres the impulse jumps between nodes of Ranvier.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The fastest conducting nerve fibres are:",
+      "options": [
+        "C fibres",
+        "B fibres",
+        "Aδ fibres",
+        "Aα fibres"
+      ],
+      "correct": 3,
+      "explanation": "Aα fibres are the largest myelinated fibres and conduct at 70–120 m/s.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Release of neurotransmitter at a chemical synapse is triggered by entry of:",
+      "options": [
+        "Calcium ions",
+        "Potassium ions",
+        "Chloride ions",
+        "Magnesium ions"
+      ],
+      "correct": 0,
+      "explanation": "Ca2+ entering the presynaptic terminal makes vesicles fuse and release transmitter.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The main inhibitory neurotransmitter of the brain is:",
+      "options": [
+        "Glutamate",
+        "GABA",
+        "Acetylcholine",
+        "Substance P"
+      ],
+      "correct": 1,
+      "explanation": "GABA is the chief inhibitory transmitter in the brain; glycine in the spinal cord.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Cerebrospinal fluid is mainly formed by the:",
+      "options": [
+        "Arachnoid villi",
+        "Dural sinuses",
+        "Choroid plexuses",
+        "Pia mater alone"
+      ],
+      "correct": 2,
+      "explanation": "Choroid plexuses in the ventricles secrete about 500 mL of CSF daily.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The third and fourth ventricles are connected by the:",
+      "options": [
+        "Foramen of Monro",
+        "Foramen of Magendie",
+        "Central canal",
+        "Cerebral aqueduct (of Sylvius)"
+      ],
+      "correct": 3,
+      "explanation": "The cerebral aqueduct runs through the midbrain from the third to the fourth ventricle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Broca's motor speech area corresponds to Brodmann areas:",
+      "options": [
+        "44 and 45",
+        "17 and 18",
+        "41 and 42",
+        "3, 1 and 2"
+      ],
+      "correct": 0,
+      "explanation": "Broca's area (44, 45) in the frontal lobe controls speech production.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Intention tremor and ataxia are signs of a lesion of the:",
+      "options": [
+        "Medulla oblongata",
+        "Cerebellum",
+        "Thalamus",
+        "Occipital lobe"
+      ],
+      "correct": 1,
+      "explanation": "The cerebellum coordinates movement; its damage causes ataxia and intention tremor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The vasomotor and respiratory centres are located in the:",
+      "options": [
+        "Cerebellum",
+        "Midbrain",
+        "Medulla oblongata",
+        "Cerebral cortex"
+      ],
+      "correct": 2,
+      "explanation": "The medulla contains the cardiac, vasomotor and respiratory centres.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Pain and temperature sensations are carried by the:",
+      "options": [
+        "Fasciculus gracilis",
+        "Rubrospinal tract",
+        "Lateral corticospinal tract",
+        "Lateral spinothalamic tract"
+      ],
+      "correct": 3,
+      "explanation": "The lateral spinothalamic tract carries pain and temperature and crosses in the spinal cord.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m13",
+      "unit": 1,
+      "question": "The knee jerk is an example of a:",
+      "options": [
+        "Monosynaptic stretch reflex",
+        "Polysynaptic withdrawal reflex",
+        "Conditioned reflex",
+        "Visceral reflex"
+      ],
+      "correct": 0,
+      "explanation": "The patellar reflex has one synapse between the Ia afferent and the α motor neuron (L2–L4).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "HCl in the stomach is secreted by:",
+      "options": [
+        "Chief cells",
+        "Parietal cells",
+        "G cells",
+        "Goblet cells"
+      ],
+      "correct": 1,
+      "explanation": "Parietal (oxyntic) cells secrete HCl and intrinsic factor.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The proton pump of parietal cells exchanges H+ for:",
+      "options": [
+        "Na+",
+        "Ca2+",
+        "K+",
+        "Cl−"
+      ],
+      "correct": 2,
+      "explanation": "The H+/K+ ATPase pumps H+ into the lumen in exchange for K+.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Vagal stimulation of parietal cells acts mainly through:",
+      "options": [
+        "H2 receptors",
+        "β1 receptors",
+        "Nicotinic NM receptors",
+        "Muscarinic M3 receptors"
+      ],
+      "correct": 3,
+      "explanation": "Acetylcholine from vagal pathways acts on M3 receptors of parietal cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Pepsinogen is converted to pepsin by:",
+      "options": [
+        "HCl",
+        "Enterokinase",
+        "Trypsin",
+        "Bile salts"
+      ],
+      "correct": 0,
+      "explanation": "Acid (and pepsin itself) activates pepsinogen; enterokinase activates trypsinogen.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The parotid duct is also called:",
+      "options": [
+        "Wharton's duct",
+        "Stensen's duct",
+        "Duct of Wirsung",
+        "Duct of Rivinus"
+      ],
+      "correct": 1,
+      "explanation": "The parotid gland opens by Stensen's duct opposite the upper second molar.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Trypsinogen is activated in the duodenum by:",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Enterokinase",
+        "Secretin"
+      ],
+      "correct": 2,
+      "explanation": "Brush-border enterokinase converts trypsinogen to trypsin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Vitamin B12 is absorbed mainly in the:",
+      "options": [
+        "Duodenum",
+        "Stomach",
+        "Colon",
+        "Terminal ileum"
+      ],
+      "correct": 3,
+      "explanation": "B12 bound to intrinsic factor is absorbed in the terminal ileum.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Kupffer cells are found in the:",
+      "options": [
+        "Liver sinusoids",
+        "Pancreatic islets",
+        "Gastric glands",
+        "Renal tubules"
+      ],
+      "correct": 0,
+      "explanation": "Kupffer cells are macrophages lining the hepatic sinusoids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Fats are absorbed into the lacteals in the form of:",
+      "options": [
+        "Free glycerol",
+        "Chylomicrons",
+        "Micelles",
+        "Triglyceride droplets"
+      ],
+      "correct": 1,
+      "explanation": "Triglycerides are re-formed in enterocytes and packed as chylomicrons that enter lymph.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Glucose is absorbed from the intestine together with sodium by:",
+      "options": [
+        "GLUT5",
+        "GLUT4",
+        "SGLT1",
+        "PepT1"
+      ],
+      "correct": 2,
+      "explanation": "SGLT1 is a Na+–glucose co-transporter on the brush border.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Creatine phosphate regenerates ATP with the help of the enzyme:",
+      "options": [
+        "ATP synthase",
+        "Carbonic anhydrase",
+        "Lactate dehydrogenase",
+        "Creatine kinase"
+      ],
+      "correct": 3,
+      "explanation": "Creatine kinase transfers phosphate from creatine phosphate to ADP.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "The normal BMR of an adult man is about:",
+      "options": [
+        "40 kcal/m²/h",
+        "10 kcal/m²/h",
+        "100 kcal/m²/h",
+        "4 kcal/m²/h"
+      ],
+      "correct": 0,
+      "explanation": "Adult male BMR is about 40 kcal per square metre per hour (women about 37).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m13",
+      "unit": 2,
+      "question": "The total number of temporary (deciduous) teeth is:",
+      "options": [
+        "32",
+        "20",
+        "28",
+        "24"
+      ],
+      "correct": 1,
+      "explanation": "Children have 20 milk teeth; adults have 32 permanent teeth.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Surfactant in the lungs is secreted by:",
+      "options": [
+        "Type I alveolar cells",
+        "Alveolar macrophages",
+        "Type II alveolar cells",
+        "Goblet cells"
+      ],
+      "correct": 2,
+      "explanation": "Type II pneumocytes make surfactant, which lowers alveolar surface tension.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The normal tidal volume of an adult is about:",
+      "options": [
+        "150 mL",
+        "1200 mL",
+        "3000 mL",
+        "500 mL"
+      ],
+      "correct": 3,
+      "explanation": "About 500 mL of air moves in or out in each quiet breath.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Vital capacity equals:",
+      "options": [
+        "IRV + TV + ERV",
+        "TV + RV",
+        "ERV + RV",
+        "IRV + TV"
+      ],
+      "correct": 0,
+      "explanation": "Vital capacity is the maximum air expelled after a maximum inspiration.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The most powerful stimulus to breathing in a healthy person is a rise in:",
+      "options": [
+        "Arterial PO2",
+        "Arterial PCO2",
+        "Blood glucose",
+        "Plasma K+"
+      ],
+      "correct": 1,
+      "explanation": "CO2 forms H+ in CSF, which strongly stimulates the central chemoreceptors.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Most carbon dioxide is carried in the blood as:",
+      "options": [
+        "Carbamino-haemoglobin",
+        "Dissolved CO2",
+        "Bicarbonate",
+        "Carbonic acid"
+      ],
+      "correct": 2,
+      "explanation": "About 70% of CO2 travels as bicarbonate in plasma.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A shift of the oxygen–haemoglobin dissociation curve to the right is caused by:",
+      "options": [
+        "Fetal haemoglobin",
+        "Low temperature",
+        "Carbon monoxide",
+        "Increased CO2 and H+"
+      ],
+      "correct": 3,
+      "explanation": "The Bohr effect: CO2, H+, heat and 2,3-BPG lower O2 affinity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The pneumotaxic centre is located in the:",
+      "options": [
+        "Pons",
+        "Medulla",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "correct": 0,
+      "explanation": "The pneumotaxic centre in the upper pons limits inspiration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The normal glomerular filtration rate is about:",
+      "options": [
+        "25 mL/min",
+        "125 mL/min",
+        "500 mL/min",
+        "1200 mL/min"
+      ],
+      "correct": 1,
+      "explanation": "Both kidneys filter about 125 mL/min, about 180 L/day.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Renin is secreted by the:",
+      "options": [
+        "Macula densa",
+        "Podocytes",
+        "Juxtaglomerular cells",
+        "Cells of the collecting duct"
+      ],
+      "correct": 2,
+      "explanation": "Granular JG cells in the afferent arteriole secrete renin.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "ADH increases water reabsorption mainly in the:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Glomerulus",
+        "Descending limb only",
+        "Collecting duct"
+      ],
+      "correct": 3,
+      "explanation": "ADH inserts aquaporin-2 channels in collecting duct cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The renal threshold for glucose is about:",
+      "options": [
+        "180 mg/dL",
+        "80 mg/dL",
+        "120 mg/dL",
+        "300 mg/dL"
+      ],
+      "correct": 0,
+      "explanation": "Above about 180 mg/dL, glucose carriers saturate and glycosuria appears.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Angiotensin I is converted to angiotensin II mainly in the:",
+      "options": [
+        "Liver",
+        "Lungs",
+        "Kidney",
+        "Adrenal cortex"
+      ],
+      "correct": 1,
+      "explanation": "ACE on pulmonary capillary endothelium converts angiotensin I to II.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m13",
+      "unit": 3,
+      "question": "The sacral micturition centre lies in spinal segments:",
+      "options": [
+        "T1–L2",
+        "C3–C5",
+        "S2–S4",
+        "L4–L5"
+      ],
+      "correct": 2,
+      "explanation": "Parasympathetic pelvic nerves from S2–S4 contract the detrusor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Which hormone acts through an intracellular (nuclear) receptor?",
+      "options": [
+        "Glucagon",
+        "Adrenaline",
+        "ADH",
+        "Thyroxine"
+      ],
+      "correct": 3,
+      "explanation": "Thyroid hormones and steroids act on intracellular receptors that alter gene transcription.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Insulin acts on its target cells through a:",
+      "options": [
+        "Tyrosine kinase receptor",
+        "Gs-protein–cAMP pathway",
+        "Nuclear receptor",
+        "Ligand-gated chloride channel"
+      ],
+      "correct": 0,
+      "explanation": "The insulin receptor is itself a tyrosine kinase.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Oxytocin is synthesised in the:",
+      "options": [
+        "Anterior pituitary",
+        "Hypothalamus",
+        "Posterior pituitary",
+        "Placenta"
+      ],
+      "correct": 1,
+      "explanation": "Oxytocin and ADH are made in hypothalamic nuclei and stored in the posterior pituitary.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Excess growth hormone in an adult causes:",
+      "options": [
+        "Gigantism",
+        "Cretinism",
+        "Acromegaly",
+        "Dwarfism"
+      ],
+      "correct": 2,
+      "explanation": "After epiphyseal closure GH excess enlarges hands, feet and jaw (acromegaly).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The enzyme blocked by carbimazole in thyroid hormone synthesis is:",
+      "options": [
+        "Deiodinase",
+        "Carbonic anhydrase",
+        "Adenylyl cyclase",
+        "Thyroid peroxidase"
+      ],
+      "correct": 3,
+      "explanation": "Carbimazole inhibits thyroid peroxidase, blocking oxidation and organification of iodine.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Calcitonin is secreted by:",
+      "options": [
+        "Parafollicular (C) cells of the thyroid",
+        "Chief cells of the parathyroid",
+        "Follicular cells of the thyroid",
+        "Adrenal medulla"
+      ],
+      "correct": 0,
+      "explanation": "C cells of the thyroid secrete calcitonin, which lowers blood calcium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Tetany occurs in deficiency of:",
+      "options": [
+        "Thyroxine",
+        "Parathyroid hormone",
+        "Cortisol",
+        "Insulin"
+      ],
+      "correct": 1,
+      "explanation": "Low PTH lowers plasma calcium, raising nerve excitability and causing tetany.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Aldosterone is secreted by the:",
+      "options": [
+        "Zona fasciculata",
+        "Zona reticularis",
+        "Zona glomerulosa",
+        "Adrenal medulla"
+      ],
+      "correct": 2,
+      "explanation": "The outer zona glomerulosa secretes mineralocorticoids.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Moon face and buffalo hump are features of:",
+      "options": [
+        "Addison's disease",
+        "Myxoedema",
+        "Diabetes insipidus",
+        "Cushing's syndrome"
+      ],
+      "correct": 3,
+      "explanation": "Cortisol excess redistributes fat to the face and upper back.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Melatonin is secreted by the:",
+      "options": [
+        "Pineal gland",
+        "Thymus",
+        "Pituitary gland",
+        "Adrenal medulla"
+      ],
+      "correct": 0,
+      "explanation": "The pineal gland secretes melatonin, mainly in darkness.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Glucagon is secreted by the:",
+      "options": [
+        "β cells of the islets",
+        "α cells of the islets",
+        "δ cells of the islets",
+        "Acinar cells"
+      ],
+      "correct": 1,
+      "explanation": "Alpha cells secrete glucagon, which raises blood glucose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Testosterone is secreted by the:",
+      "options": [
+        "Sertoli cells",
+        "Spermatogonia",
+        "Leydig cells",
+        "Prostate gland"
+      ],
+      "correct": 2,
+      "explanation": "Interstitial Leydig cells secrete testosterone under LH.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Fructose in semen is mainly supplied by the:",
+      "options": [
+        "Prostate",
+        "Bulbourethral glands",
+        "Epididymis",
+        "Seminal vesicles"
+      ],
+      "correct": 3,
+      "explanation": "Seminal vesicles give about 60% of semen, rich in fructose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Ovulation is triggered by a surge of:",
+      "options": [
+        "LH",
+        "FSH alone",
+        "Progesterone",
+        "Prolactin"
+      ],
+      "correct": 0,
+      "explanation": "High oestrogen causes an LH surge that ruptures the Graafian follicle.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The secretory phase of the endometrium is mainly due to:",
+      "options": [
+        "Oestrogen",
+        "Progesterone",
+        "FSH",
+        "Oxytocin"
+      ],
+      "correct": 1,
+      "explanation": "Progesterone from the corpus luteum makes the endometrium secretory.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Fertilization normally takes place in the:",
+      "options": [
+        "Uterine cavity",
+        "Cervix",
+        "Ampulla of the uterine tube",
+        "Ovary"
+      ],
+      "correct": 2,
+      "explanation": "The ampulla is the widest part of the tube and the usual site of fertilization.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "One primary spermatocyte gives rise to:",
+      "options": [
+        "One spermatozoon",
+        "Two spermatozoa",
+        "Eight spermatozoa",
+        "Four spermatozoa"
+      ],
+      "correct": 3,
+      "explanation": "Two meiotic divisions yield four spermatids, each becoming a sperm.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "At birth, primary oocytes are arrested in:",
+      "options": [
+        "Prophase I",
+        "Metaphase II",
+        "Anaphase I",
+        "Telophase II"
+      ],
+      "correct": 0,
+      "explanation": "Primary oocytes stay in prophase I until just before ovulation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Pregnancy tests detect:",
+      "options": [
+        "LH",
+        "hCG",
+        "Prolactin",
+        "Progesterone"
+      ],
+      "correct": 1,
+      "explanation": "Human chorionic gonadotropin from the trophoblast appears in urine and blood.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Down syndrome is due to:",
+      "options": [
+        "45, XO",
+        "47, XXY",
+        "Trisomy 21",
+        "Trisomy 13"
+      ],
+      "correct": 2,
+      "explanation": "An extra chromosome 21 causes Down syndrome.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "In DNA, guanine pairs with:",
+      "options": [
+        "Adenine",
+        "Thymine",
+        "Uracil",
+        "Cytosine"
+      ],
+      "correct": 3,
+      "explanation": "G pairs with C by three hydrogen bonds; A pairs with T by two.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Haemophilia A is inherited as:",
+      "options": [
+        "X-linked recessive",
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "Y-linked"
+      ],
+      "correct": 0,
+      "explanation": "The gene is on the X chromosome, so mostly males are affected.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "The start codon in protein synthesis is:",
+      "options": [
+        "UAA",
+        "AUG",
+        "UGA",
+        "UAG"
+      ],
+      "correct": 1,
+      "explanation": "AUG codes for methionine and starts translation; the others are stop codons.",
+      "probability": "medium"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "code": "BP201T",
+  "title": "Human Anatomy and Physiology II",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Vidhyadeep University), BP201T Human Anatomy and Physiology II and BP207P practical",
+    "url": "https://viph.vidhyadeepuni.ac.in/wp-content/uploads/2023/04/BP201TP.pdf"
+  },
+  "practicalCodes": [
+    "BP207P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Nervous system and central nervous system",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Digestive system and energetics",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Respiratory system and urinary system",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Endocrine system",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Reproductive system and introduction to genetics",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "integumentary-special-senses",
+      "title": "Study of the integumentary system and special senses using models",
+      "file": "practicals/integumentary-special-senses.md"
+    },
+    {
+      "id": "nervous-system-models",
+      "title": "Study of the nervous system using models and specimens",
+      "file": "practicals/nervous-system-models.md"
+    },
+    {
+      "id": "endocrine-system-models",
+      "title": "Study of the endocrine system using models and specimens",
+      "file": "practicals/endocrine-system-models.md"
+    },
+    {
+      "id": "neurological-examination",
+      "title": "Demonstration of the general neurological examination",
+      "file": "practicals/neurological-examination.md"
+    },
+    {
+      "id": "olfactory-nerve",
+      "title": "Demonstration of the function of the olfactory nerve",
+      "file": "practicals/olfactory-nerve.md"
+    },
+    {
+      "id": "taste",
+      "title": "Examination of the different types of taste",
+      "file": "practicals/taste.md"
+    },
+    {
+      "id": "visual-acuity",
+      "title": "Demonstration of visual acuity",
+      "file": "practicals/visual-acuity.md"
+    },
+    {
+      "id": "reflex-activity",
+      "title": "Demonstration of reflex activity",
+      "file": "practicals/reflex-activity.md"
+    },
+    {
+      "id": "body-temperature",
+      "title": "Recording of body temperature",
+      "file": "practicals/body-temperature.md"
+    },
+    {
+      "id": "feedback-mechanism",
+      "title": "Demonstration of positive and negative feedback mechanisms",
+      "file": "practicals/feedback-mechanism.md"
+    },
+    {
+      "id": "tidal-volume-vital-capacity",
+      "title": "Determination of tidal volume and vital capacity",
+      "file": "practicals/tidal-volume-vital-capacity.md"
+    },
+    {
+      "id": "organ-systems-models",
+      "title": "Study of digestive, respiratory, cardiovascular, urinary and reproductive systems with models",
+      "file": "practicals/organ-systems-models.md"
+    },
+    {
+      "id": "body-mass-index",
+      "title": "Recording of body mass index (BMI)",
+      "file": "practicals/body-mass-index.md"
+    },
+    {
+      "id": "family-planning-pregnancy-test",
+      "title": "Study of family planning devices and pregnancy diagnosis test",
+      "file": "practicals/family-planning-pregnancy-test.md"
+    },
+    {
+      "id": "blood-count-cell-analyser",
+      "title": "Demonstration of total blood count by cell analyser",
+      "file": "practicals/blood-count-cell-analyser.md"
+    },
+    {
+      "id": "permanent-slides-organs-gonads",
+      "title": "Permanent slides of vital organs and gonads",
+      "file": "practicals/permanent-slides-organs-gonads.md"
+    }
+  ]
+}
