@@ -1,0 +1,48 @@
+{
+  "code": "BP809ET",
+  "title": "Cosmetic Science",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP809ET Cosmetic Science (elective)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP809ET_B.Pharma-pages-46.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Cosmetics, cosmeceuticals, cosmetic excipients and the biology of skin, hair and mouth",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Formulation of skin care, hair care and oral care products",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Sun protection, herbs in cosmetics and analytical cosmetics",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Principles of cosmetic evaluation; soaps and syndet bars",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Cosmetic problems of skin, hair and scalp; antiperspirants and deodorants",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
