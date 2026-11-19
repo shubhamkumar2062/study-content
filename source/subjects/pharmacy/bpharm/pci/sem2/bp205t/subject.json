@@ -1,0 +1,37 @@
+{
+  "code": "BP205T",
+  "title": "Computer Applications in Pharmacy",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP205T Computer Applications in Pharmacy and BP210P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP205T_B.Pharma-pages-12.pdf"
+  },
+  "practicalCodes": [
+    "BP210P"
+  ],
+  "units": [
+    { "number": 1, "title": "Number systems and the concept of information systems", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Web technologies and databases", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Applications of computers in pharmacy", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Bioinformatics", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Computers in preclinical development: CDS, LIMS and TIMS", "notes": "notes/unit-5.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ],
+  "practicals": [
+    { "id": "questionnaire-word", "title": "Questionnaire on a disease using a word processor", "file": "practicals/questionnaire-word.md" },
+    { "id": "html-personal-page", "title": "HTML web page showing personal information", "file": "practicals/html-personal-page.md" },
+    { "id": "online-drug-information", "title": "Drug information and adverse effects from online tools", "file": "practicals/online-drug-information.md" },
+    { "id": "mailing-labels-word", "title": "Mailing labels with the label wizard in MS Word", "file": "practicals/mailing-labels-word.md" },
+    { "id": "access-patient-database", "title": "Patient information database in MS Access", "file": "practicals/access-patient-database.md" },
+    { "id": "access-patient-form", "title": "Form to view, add, delete and modify patient records", "file": "practicals/access-patient-form.md" },
+    { "id": "access-patient-report", "title": "Generating and printing a report from the patient database", "file": "practicals/access-patient-report.md" },
+    { "id": "access-invoice-table", "title": "Invoice table in MS Access", "file": "practicals/access-invoice-table.md" },
+    { "id": "access-drug-information", "title": "Drug information storage and retrieval in MS Access", "file": "practicals/access-drug-information.md" },
+    { "id": "access-queries", "title": "Creating and working with queries in MS Access", "file": "practicals/access-queries.md" },
+    { "id": "access-export-web", "title": "Exporting tables, queries, forms and reports to web pages", "file": "practicals/access-export-web.md" },
+    { "id": "access-export-xml", "title": "Exporting tables, queries, forms and reports to XML", "file": "practicals/access-export-xml.md" }
+  ]
+}

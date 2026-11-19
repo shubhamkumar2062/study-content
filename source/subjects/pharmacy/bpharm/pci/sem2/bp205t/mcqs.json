@@ -1,0 +1,774 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The base (radix) of the hexadecimal number system is:",
+      "options": [
+        "16",
+        "8",
+        "2",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "Hexadecimal uses 16 digits, 0–9 and A–F.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "25 in decimal is written in binary as:",
+      "options": [
+        "10011",
+        "11001",
+        "11010",
+        "10101"
+      ],
+      "correct": 1,
+      "explanation": "16 + 8 + 1 = 25.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The decimal value of 101101₂ is:",
+      "options": [
+        "43",
+        "53",
+        "45",
+        "41"
+      ],
+      "correct": 2,
+      "explanation": "32 + 8 + 4 + 1 = 45.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "One hexadecimal digit can be represented by how many bits?",
+      "options": [
+        "3",
+        "2",
+        "8",
+        "4"
+      ],
+      "correct": 3,
+      "explanation": "16 = 2⁴, so each hex digit equals 4 bits (octal uses 3).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The 2's complement of 1010 is:",
+      "options": [
+        "0110",
+        "0101",
+        "1011",
+        "0111"
+      ],
+      "correct": 0,
+      "explanation": "1's complement 0101 plus 1 gives 0110.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In 1's complement subtraction, the carry from the leftmost bit is:",
+      "options": [
+        "Discarded",
+        "Added back to the result (end-around carry)",
+        "Ignored and the answer made negative",
+        "Added to the subtrahend"
+      ],
+      "correct": 1,
+      "explanation": "In 1's complement the end-around carry is added; in 2's complement it is discarded.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "10111010₂ in hexadecimal is:",
+      "options": [
+        "AB",
+        "B9",
+        "BA",
+        "DA"
+      ],
+      "correct": 2,
+      "explanation": "1011 = B and 1010 = A.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Which DFD symbol represents a person or organisation outside the system?",
+      "options": [
+        "Process",
+        "Data store",
+        "Data flow",
+        "External entity"
+      ],
+      "correct": 3,
+      "explanation": "External entities (square) send or receive data, e.g. patient or supplier.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The highest-level DFD showing the whole system as a single process is the:",
+      "options": [
+        "Context diagram",
+        "Level 2 diagram",
+        "Decision table",
+        "Gantt chart"
+      ],
+      "correct": 0,
+      "explanation": "The context diagram (level 0) shows one process with all external entities.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "'Will the staff accept and use the new system?' is a question of:",
+      "options": [
+        "Technical feasibility",
+        "Operational feasibility",
+        "Economic feasibility",
+        "Schedule feasibility"
+      ],
+      "correct": 1,
+      "explanation": "Operational feasibility asks whether the system fits users and their work.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "A chart that shows project tasks as bars against a timeline is a:",
+      "options": [
+        "Data flow diagram",
+        "Flowchart",
+        "Gantt chart",
+        "Decision tree"
+      ],
+      "correct": 2,
+      "explanation": "Gantt charts are used to schedule and monitor projects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Running the old and new systems together for a period during changeover is called:",
+      "options": [
+        "Direct changeover",
+        "Pilot changeover",
+        "Phased changeover",
+        "Parallel changeover"
+      ],
+      "correct": 3,
+      "explanation": "Parallel running is the safest changeover method.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "HTML stands for:",
+      "options": [
+        "HyperText Markup Language",
+        "High Transfer Machine Language",
+        "HyperText Machine Language",
+        "Hyperlink Text Management Language"
+      ],
+      "correct": 0,
+      "explanation": "HTML is the markup language of web pages.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Which tag creates a hyperlink in HTML?",
+      "options": [
+        "<link>",
+        "<a>",
+        "<href>",
+        "<url>"
+      ],
+      "correct": 1,
+      "explanation": "The anchor tag <a href=\"…\"> creates a link.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Which statement about XML is correct?",
+      "options": [
+        "Tags are predefined like HTML",
+        "Closing tags are optional",
+        "Tags are defined by the user and are case-sensitive",
+        "It is mainly used to style web pages"
+      ],
+      "correct": 2,
+      "explanation": "XML stores and carries data with user-defined, case-sensitive tags.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "CSS written in a separate file and linked to many pages is called:",
+      "options": [
+        "Inline CSS",
+        "Internal CSS",
+        "Embedded HTML",
+        "External CSS"
+      ],
+      "correct": 3,
+      "explanation": "External style sheets format a whole site from one file.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "A program that translates a whole high-level program into machine code before it runs is a:",
+      "options": [
+        "Compiler",
+        "Interpreter",
+        "Assembler",
+        "Browser"
+      ],
+      "correct": 0,
+      "explanation": "An interpreter translates line by line; an assembler works on assembly language.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which of these is web server software?",
+      "options": [
+        "MS Access",
+        "Apache HTTP Server",
+        "BLAST",
+        "Microsoft Word"
+      ],
+      "correct": 1,
+      "explanation": "Apache, Nginx, IIS and Tomcat are web servers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "A field that uniquely identifies each record in a table is the:",
+      "options": [
+        "Foreign key",
+        "Query",
+        "Primary key",
+        "Report"
+      ],
+      "correct": 2,
+      "explanation": "The primary key cannot be blank or repeated.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Which SQL command reads data from a table?",
+      "options": [
+        "CREATE",
+        "GRANT",
+        "DROP",
+        "SELECT"
+      ],
+      "correct": 3,
+      "explanation": "SELECT is a DML command used to retrieve records.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In MS Access, the object used for entering and editing records one at a time on a screen is a:",
+      "options": [
+        "Form",
+        "Report",
+        "Module",
+        "Table relationship"
+      ],
+      "correct": 0,
+      "explanation": "Forms are data-entry screens; reports are for printing.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "MySQL is best described as:",
+      "options": [
+        "A web browser",
+        "An open-source client–server relational DBMS",
+        "A markup language",
+        "A word-processing package"
+      ],
+      "correct": 1,
+      "explanation": "MySQL uses SQL and serves many users from a server.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "A field in one table that refers to the primary key of another table is a:",
+      "options": [
+        "Composite report",
+        "Candidate form",
+        "Foreign key",
+        "Macro"
+      ],
+      "correct": 2,
+      "explanation": "Foreign keys create relationships between tables.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "The default file extension of a database in recent versions of MS Access is:",
+      "options": [
+        ".xlsx",
+        ".docx",
+        ".sql",
+        ".accdb"
+      ],
+      "correct": 3,
+      "explanation": "Older versions used .mdb.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "In a literature search, the Boolean operator that narrows results to records containing both terms is:",
+      "options": [
+        "AND",
+        "OR",
+        "NOT",
+        "NEAR"
+      ],
+      "correct": 0,
+      "explanation": "AND narrows, OR widens, NOT excludes.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Half-life of a drug following first-order elimination is calculated as:",
+      "options": [
+        "k / 0.693",
+        "0.693 / k",
+        "0.693 × k",
+        "AUC / Cmax"
+      ],
+      "correct": 1,
+      "explanation": "t½ = 0.693/k, where k is the elimination rate constant.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "In the Hansch QSAR approach, π represents:",
+      "options": [
+        "Electronic effect",
+        "Steric effect",
+        "Lipophilicity of a substituent",
+        "Molecular weight"
+      ],
+      "correct": 2,
+      "explanation": "σ is electronic and Es is steric.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Fitting candidate molecules into the binding site of a known protein structure by computer is called:",
+      "options": [
+        "Electrophoresis",
+        "Titration",
+        "Unit-dose dispensing",
+        "Molecular docking"
+      ],
+      "correct": 3,
+      "explanation": "Docking is a structure-based drug design method.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "CPOE stands for:",
+      "options": [
+        "Computerised physician (provider) order entry",
+        "Central pharmacy order evaluation",
+        "Clinical patient observation equipment",
+        "Computer pharmacy online enquiry"
+      ],
+      "correct": 0,
+      "explanation": "CPOE lets prescribers enter orders electronically.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "In barcode medication administration, the nurse scans:",
+      "options": [
+        "Only the prescription",
+        "The patient's wristband and the medicine",
+        "Only the pharmacy invoice",
+        "The doctor's ID card"
+      ],
+      "correct": 1,
+      "explanation": "Both scans let the system check the right patient and right drug.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Computer-controlled cabinets on wards that release only ordered medicines are called:",
+      "options": [
+        "Laminar flow cabinets",
+        "Refrigerated vaccine carriers",
+        "Automated dispensing cabinets",
+        "Fume hoods"
+      ],
+      "correct": 2,
+      "explanation": "They also record who removed each drug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Electronic pill caps that record each opening of the container are used for:",
+      "options": [
+        "Sterility testing",
+        "Stock valuation",
+        "Pharmacovigilance coding",
+        "Adherence monitoring"
+      ],
+      "correct": 3,
+      "explanation": "They give the date and time of each dose taken.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "MYCIN was an early example of a:",
+      "options": [
+        "Medical expert system",
+        "Web server",
+        "Database language",
+        "Laboratory robot"
+      ],
+      "correct": 0,
+      "explanation": "It used rules to advise on antibiotic choice.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "A therapeutic drug monitoring program is most needed for:",
+      "options": [
+        "Vitamin supplements",
+        "Drugs with a narrow therapeutic index such as digoxin",
+        "Topical emollients",
+        "Antacids"
+      ],
+      "correct": 1,
+      "explanation": "Narrow-index drugs need dose adjustment based on plasma levels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Which of these is a rule of Lipinski's rule of five for oral drugs?",
+      "options": [
+        "Log P at least 10",
+        "At least 10 hydrogen-bond donors",
+        "Molecular weight not more than 500",
+        "Molecular weight at least 1000"
+      ],
+      "correct": 2,
+      "explanation": "Other limits: log P ≤ 5, ≤ 5 H-bond donors, ≤ 10 acceptors.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Bioinformatics mainly applies computers to:",
+      "options": [
+        "Pharmacy billing",
+        "Tablet compression",
+        "Hospital payroll",
+        "Biological sequence and structure data"
+      ],
+      "correct": 3,
+      "explanation": "It handles DNA, RNA and protein data.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "GenBank is maintained by:",
+      "options": [
+        "NCBI, USA",
+        "EMBL–EBI, UK",
+        "National Institute of Genetics, Japan",
+        "WHO, Geneva"
+      ],
+      "correct": 0,
+      "explanation": "ENA is at EMBL–EBI and DDBJ in Japan.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Three-dimensional structures of proteins are stored in the:",
+      "options": [
+        "GenBank",
+        "Protein Data Bank (PDB)",
+        "PubMed",
+        "OMIM"
+      ],
+      "correct": 1,
+      "explanation": "PDB holds structures solved by X-ray, NMR and cryo-EM.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The manually reviewed section of UniProtKB is:",
+      "options": [
+        "TrEMBL",
+        "PROSITE",
+        "Swiss-Prot",
+        "KEGG"
+      ],
+      "correct": 2,
+      "explanation": "TrEMBL is automatically annotated and unreviewed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "BLAST is used to:",
+      "options": [
+        "Draw data flow diagrams",
+        "Integrate chromatographic peaks",
+        "Print mailing labels",
+        "Find sequences similar to a query sequence"
+      ],
+      "correct": 3,
+      "explanation": "Basic Local Alignment Search Tool.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "PROSITE and Pfam are examples of:",
+      "options": [
+        "Secondary databases",
+        "Primary nucleotide databases",
+        "Web servers",
+        "Literature databases"
+      ],
+      "correct": 0,
+      "explanation": "They hold motifs, domains and families derived from primary data.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Local alignment of sequences is performed by the:",
+      "options": [
+        "Needleman–Wunsch method",
+        "Smith–Waterman method",
+        "Hansch method",
+        "Trapezoidal method"
+      ],
+      "correct": 1,
+      "explanation": "Needleman–Wunsch gives global alignment.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Reverse vaccinology begins with:",
+      "options": [
+        "Growing large cultures of the pathogen",
+        "Killing the pathogen with heat",
+        "The genome sequence of the pathogen",
+        "Purifying the pathogen's sugar capsule"
+      ],
+      "correct": 2,
+      "explanation": "Antigens are predicted from the genome by computer.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Reverse vaccinology was first used successfully for vaccines against:",
+      "options": [
+        "Smallpox virus",
+        "Clostridium tetani toxin",
+        "Rabies virus",
+        "Neisseria meningitidis serogroup B"
+      ],
+      "correct": 3,
+      "explanation": "Its capsule was unsuitable, so genome-predicted proteins were used.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The database that stores known immune epitopes is:",
+      "options": [
+        "IEDB",
+        "DDBJ",
+        "PDB",
+        "KEGG"
+      ],
+      "correct": 0,
+      "explanation": "The Immune Epitope Database supports epitope-based vaccine design.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "LIMS stands for:",
+      "options": [
+        "Laboratory instrument maintenance schedule",
+        "Laboratory information management system",
+        "Linked information and media service",
+        "Licensed inventory management software"
+      ],
+      "correct": 1,
+      "explanation": "LIMS manages samples, tests and results.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "A chromatography data system (CDS) mainly:",
+      "options": [
+        "Stores only SOP documents",
+        "Prints patient bills",
+        "Controls the instrument and acquires and processes chromatographic data",
+        "Searches DNA databases"
+      ],
+      "correct": 2,
+      "explanation": "It integrates peaks and calculates results.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Which is a system suitability parameter calculated by a CDS?",
+      "options": [
+        "Specific rotation",
+        "Molar refraction",
+        "Bulk density",
+        "Tailing factor"
+      ],
+      "correct": 3,
+      "explanation": "Plates, tailing, resolution and %RSD are typical.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "TIMS is used to manage:",
+      "options": [
+        "Unstructured text documents such as protocols and reports",
+        "Chromatographic raw data only",
+        "Patient vital signs",
+        "Barcode printers"
+      ],
+      "correct": 0,
+      "explanation": "Text information management system.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In ALCOA, the letter C stands for:",
+      "options": [
+        "Complete",
+        "Contemporaneous",
+        "Confidential",
+        "Calibrated"
+      ],
+      "correct": 1,
+      "explanation": "Records must be made at the time the work is done.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "A secure, time-stamped record of who changed electronic data, when and why is called a/an:",
+      "options": [
+        "Data flow",
+        "Primary key",
+        "Audit trail",
+        "Gantt chart"
+      ],
+      "correct": 2,
+      "explanation": "Audit trails are required for GLP/GMP electronic records.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Scheduling pull points at 0, 3, 6 and 12 months under each storage condition is a LIMS function for:",
+      "options": [
+        "Payroll",
+        "Web hosting",
+        "Sequence alignment",
+        "Stability studies"
+      ],
+      "correct": 3,
+      "explanation": "LIMS reminds analysts when stability samples are due.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The US regulation on electronic records and electronic signatures is:",
+      "options": [
+        "21 CFR Part 11",
+        "Schedule M",
+        "ISO 9001",
+        "Schedule H1"
+      ],
+      "correct": 0,
+      "explanation": "Systems used for global submissions are designed to meet it.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A result outside the product specification is flagged by a LIMS as:",
+      "options": [
+        "OOT (out of time)",
+        "OOS (out of specification)",
+        "CoA",
+        "SOP"
+      ],
+      "correct": 1,
+      "explanation": "OOS results start an investigation.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Preclinical laboratory studies are carried out under:",
+      "options": [
+        "Good Distribution Practice only",
+        "Good Clinical Practice only",
+        "Good Laboratory Practice (GLP)",
+        "Good Agricultural Practice"
+      ],
+      "correct": 2,
+      "explanation": "GLP covers the conduct and records of non-clinical studies.",
+      "probability": "medium"
+    }
+  ]
+}

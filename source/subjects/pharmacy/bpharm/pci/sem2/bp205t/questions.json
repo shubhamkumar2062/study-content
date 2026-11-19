@@ -1,0 +1,446 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a number system? Explain the binary, octal, decimal and hexadecimal systems. Convert (a) 156₁₀ to binary, octal and hexadecimal, and (b) 10111010₂ to decimal, octal and hexadecimal.",
+      "answer": "1. Number system: a way of writing numbers using a fixed set of digits; positional, base (radix) = number of digits; each place is a power of the base.\n2. Binary: base 2, digits 0 and 1; used inside computers (two states of a switch). Bit, nibble (4 bits), byte (8 bits).\n3. Octal: base 8, digits 0–7; 1 octal digit = 3 bits.\n4. Decimal: base 10, digits 0–9; everyday use.\n5. Hexadecimal: base 16, digits 0–9 and A–F (A = 10 … F = 15); 1 hex digit = 4 bits; memory addresses, colour codes.\n6. (a) 156 ÷ 2 → remainders 0,0,1,1,1,0,0,1 read upward = 10011100₂ (128 + 16 + 8 + 4 = 156). 156 ÷ 8: 19 r4, 2 r3, 0 r2 → 234₈. Binary 10011100 grouped in fours = 1001 1100 → 9C₁₆ (9 × 16 + 12 = 156).\n7. (b) 10111010₂ = 128 + 32 + 16 + 8 + 2 = 186₁₀. Groups of three from the right: 010 111 010 → 272₈ (2 × 64 + 7 × 8 + 2 = 186). Groups of four: 1011 1010 → BA₁₆ (11 × 16 + 10 = 186).\n8. Conclusion: octal and hex are shorthand for long binary strings; always check by converting back to decimal."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain binary subtraction by the 1's complement and 2's complement methods with suitable examples. Why is the 2's complement method preferred?",
+      "answer": "1. Computers subtract by adding the complement of the subtrahend, so one adder circuit does both jobs.\n2. 1's complement: invert every bit (1010 → 0101). 2's complement: 1's complement + 1 (1010 → 0110).\n3. 1's complement method for A − B: add 1's complement of B to A; if a carry comes out, remove it and add 1 (end-around carry) — positive answer; if no carry, answer is negative: take the 1's complement of the sum.\n4. Example: 1101 − 1010 (13 − 10): 1101 + 0101 = 1 0010 → 0010 + 1 = 0011 = +3.\n5. Example: 1010 − 1101 (10 − 13): 1010 + 0010 = 1100, no carry → −(0011) = −3.\n6. 2's complement method: add 2's complement of B to A; if carry, discard it — positive; if no carry, negative: take 2's complement of the sum.\n7. Example: 110110 − 101011 (54 − 43): 2's comp of 101011 = 010101; 110110 + 010101 = 1 001011 → discard carry → 001011 = +11.\n8. Example: 1010 − 1101: 1010 + 0011 = 1101, no carry → 2's comp = 0011 → −3.\n9. Why 2's complement is preferred: only one zero (1's complement has +0 and −0), no end-around carry step, simpler and faster hardware; computers store negative integers this way."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a data flow diagram? Describe its symbols, levels and rules, and draw a context diagram and a level 1 DFD for a pharmacy dispensing system.",
+      "answer": "1. Definition: a DFD is a graphical picture of how data enter, move through, are changed in, stored in and leave a system; it shows what happens to data, not timing or sequence.\n2. Symbols: external entity (square — patient, doctor, supplier); process (circle or rounded rectangle, numbered — verify prescription); data store (open-ended rectangle — drug stock file); data flow (labelled arrow).\n3. Levels: context diagram (level 0) shows the whole system as one process with all external entities; level 1 splits it into major processes and data stores; level 2 and lower give more detail.\n4. Rules: each process has at least one input and one output; no flow directly between two entities or two stores; every flow labelled; levels must balance (same inputs and outputs).\n5. Context diagram: Patient → prescription → [0 Pharmacy dispensing system] → bill and labelled medicine → Patient; system → purchase order → Supplier; Supplier → invoice and stock → system.\n6. Level 1: 1.0 Verify prescription → 2.0 Dispense and label (reads and updates D1 Drug stock) → 3.0 Prepare bill (writes D2 Sales record) → patient; 4.0 Reorder stock reads D1 and sends purchase order to supplier.\n7. Uses: understanding the present system, communicating with users, basis for database and program design.\n8. Advantages: simple, easy for users to check, shows gaps and duplicate work."
+    },
+    {
+      "id": "u1-l04",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the system development life cycle (SDLC). Add a note on feasibility analysis and project planning.",
+      "answer": "1. SDLC: the stages through which an information system is planned, built, used and improved.\n2. Planning / problem definition: identify the problem and objectives.\n3. Feasibility study: technical, economic (cost–benefit), legal, operational and schedule feasibility (TELOS); feasibility report.\n4. System analysis: information gathering (interviews, questionnaires, observation, record review), requirement analysis (functional and non-functional), SRS, DFDs.\n5. System design: database design, input/output design with validation, process specifications (structured English, decision tables, trees, pseudocode).\n6. Development/coding: programs written.\n7. Testing: unit, integration, system and user acceptance testing.\n8. Implementation: installation, data conversion, user training, changeover (direct, parallel, pilot, phased).\n9. Maintenance: corrective, adaptive, perfective, preventive; review feeds the next cycle.\n10. Project planning: define scope, work breakdown, time and cost estimates, Gantt chart, PERT/CPM and critical path, resources, risk management, monitoring and control, documentation."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Convert: (a) 25₁₀ to binary, (b) 0.625₁₀ to binary, (c) 1011.101₂ to decimal.",
+      "answer": "(a) 25 ÷ 2 = 12 r1; 12 ÷ 2 = 6 r0; 6 ÷ 2 = 3 r0; 3 ÷ 2 = 1 r1; 1 ÷ 2 = 0 r1. Reading upward: 11001₂ (16 + 8 + 1 = 25).\n(b) 0.625 × 2 = 1.25 → 1; 0.25 × 2 = 0.5 → 0; 0.5 × 2 = 1.0 → 1. Reading downward: 0.101₂.\n(c) 1011.101₂ = 1×8 + 0×4 + 1×2 + 1×1 + 1×0.5 + 0×0.25 + 1×0.125 = 8 + 2 + 1 + 0.5 + 0.125 = 11.625₁₀."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Convert (a) 357₈ to binary and decimal, (b) 2470₁₀ to hexadecimal, (c) 745₈ to hexadecimal.",
+      "answer": "(a) Each octal digit as 3 bits: 3 = 011, 5 = 101, 7 = 111 → 11101111₂. Decimal: 3×64 + 5×8 + 7 = 192 + 40 + 7 = 239.\n(b) 2470 ÷ 16 = 154 r6; 154 ÷ 16 = 9 r10 (A); 9 ÷ 16 = 0 r9 → 9A6₁₆. Check: 9×256 + 10×16 + 6 = 2470.\n(c) 745₈ → 111 100 101 → regroup in fours from the right: 0001 1110 0101 → 1E5₁₆. Check: 745₈ = 485 and 1E5₁₆ = 256 + 224 + 5 = 485."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Perform (a) 101101 + 11011, (b) 1011 × 101 and (c) 11011 ÷ 101 in binary. Verify in decimal.",
+      "answer": "(a) Column addition with carries: 101101 + 011011 = 1001000₂. Check: 45 + 27 = 72 = 64 + 8.\n(b) Partial products: 1011, 0000 (shifted one place), 1011 (shifted two places); sum 1011 + 101100 = 110111₂. Check: 11 × 5 = 55 = 32 + 16 + 4 + 2 + 1.\n(c) Long division: 101 into 110 → 1, remainder 1; bring down 1 → 11 → 0; bring down 1 → 111 → 1, remainder 10. Quotient 101₂ (5), remainder 10₂ (2). Check: 27 ÷ 5 = 5 remainder 2."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is feasibility analysis? Explain the types of feasibility.",
+      "answer": "1. Feasibility analysis is a study done before development to decide whether a proposed system is worth building and can be built.\n2. Technical: are hardware, software and skills available?\n3. Economic (cost–benefit): do benefits such as saved time, fewer errors and less wastage exceed development and running costs?\n4. Legal: does it follow laws on records, privacy and drug regulation?\n5. Operational: will staff accept and use it; does it fit their work?\n6. Schedule: can it be finished in the time available?\n7. Output: a feasibility report recommending go, modify or stop (TELOS is an easy way to remember the types)."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the methods of information gathering used in system analysis.",
+      "answer": "1. Interviews: face-to-face questions with users and managers; detailed needs; time-consuming.\n2. Questionnaires: forms sent to many users; cheap and anonymous; low response, no follow-up.\n3. Observation: watching the work as it is actually done; people may change behaviour when watched.\n4. Record review: studying existing forms, registers and reports to learn what data exist.\n5. Group meetings / joint application development: users and developers agree requirements quickly.\n6. Prototyping: showing a working model so users can correct the design early.\n7. A mix of methods is usually used and the findings are written as requirements (SRS)."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are process specifications? Explain structured English and decision tables with a pharmacy example.",
+      "answer": "1. A process specification describes the logic inside each lowest-level DFD process so it can be programmed.\n2. Tools: structured English, decision tables, decision trees, pseudocode.\n3. Structured English: plain English with keywords IF, THEN, ELSE, FOR, REPEAT. Example: FOR each prescribed item, IF stock ≥ quantity THEN dispense and reduce stock ELSE mark not available; IF stock < reorder level THEN add to purchase list.\n4. Decision table: conditions in the upper rows, actions in the lower rows, one column (rule) per combination. Example conditions: valid prescription? item in stock? Actions: dispense / offer substitute or order / return prescription.\n5. Decision tables suit many conditions; structured English suits sequences and loops."
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain input and output design with examples of validation checks.",
+      "answer": "1. Input design: makes data entry quick and error-free — screens like the paper form, grouped fields, drop-down lists, check boxes, defaults, barcode scanning.\n2. Validation checks: range (age 0–120), type (numbers only for quantity), presence (required field), format (date dd/mm/yyyy), lookup (drug must be in the drug master), check digits.\n3. Output design: decides what the user receives — screens, printed reports, labels, bills, alerts, files.\n4. Good output: accurate, timely, clear headings, only to those who need it.\n5. Report types: detailed, summary (for managers), exception (expired or low-stock items)."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define 1's complement and 2's complement. Give the 2's complement of 101100.",
+      "answer": "1's complement: every bit inverted. 2's complement: 1's complement + 1. For 101100: 1's complement = 010011; 2's complement = 010100."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the four symbols used in a data flow diagram.",
+      "answer": "External entity (square), process (circle or rounded rectangle), data store (open-ended rectangle) and data flow (labelled arrow)."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate data and information.",
+      "answer": "Data are raw, unorganised facts (\"120\", \"Paracetamol\"); information is data processed and given meaning that helps a decision (\"120 strips of paracetamol 500 mg in stock\")."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is HTML? Describe the structure of an HTML document and the commonly used tags. Write a simple HTML page that displays drug information. Add a note on CSS.",
+      "answer": "1. HTML (HyperText Markup Language): markup language that describes the structure of web pages using predefined tags; read and displayed by a browser; saved as .html; current version HTML5.\n2. Tags in angle brackets; opening and closing tags (<p>…</p>); empty tags (<br>, <img>); attributes give extra information (href, src, alt).\n3. Structure: <!DOCTYPE html> <html> <head> <title>…</title> </head> <body> … </body> </html>.\n4. Common tags: <h1>–<h6> headings; <p> paragraph; <br>, <hr>; <b>, <i>, <u>; <ul>, <ol>, <li> lists; <table>, <tr>, <th>, <td> tables; <a href> links; <img src alt> images; <form>, <input> forms; <div>, <span>.\n5. Sample page: <html><head><title>Drug Information</title></head><body><h1>Paracetamol</h1><p>Class: <b>Analgesic</b></p><ul><li>Form: tablet</li><li>Store below 25 °C</li></ul></body></html>.\n6. CSS controls presentation (colour, font, layout): selector {property: value;}, e.g. h1 {color: navy;}.\n7. CSS types: inline (style attribute), internal (<style> in head), external (.css file linked with <link>); external is best for whole websites.\n8. Uses in pharmacy: hospital and drug-information websites, online pharmacy pages, e-learning."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a database and a DBMS? Explain the advantages of a DBMS, relational database terms (table, record, field, primary key, foreign key, relationships) and the objects of MS Access.",
+      "answer": "1. Database: organised collection of related data stored for easy retrieval and updating (drugs, patients, suppliers, sales).\n2. DBMS: software that creates, manages and controls access to databases (MySQL, Oracle, SQL Server, MS Access).\n3. Advantages: reduced redundancy, consistency, data sharing, security, integrity rules, fast queries and reports, backup and recovery.\n4. Models: hierarchical, network, relational (tables), object-oriented; relational is most used.\n5. Terms: table = data on one subject; record (row) = one item; field (column) = one attribute; data type; primary key = unique, non-blank identifier (DrugID); foreign key = field referring to another table's primary key (SupplierID in Drug table).\n6. Relationships: one-to-one, one-to-many (one supplier → many drugs), many-to-many through a linking table; normalisation stores each fact once.\n7. MS Access objects: tables (store data), queries (select, sort, filter, calculate, update), forms (data entry screens), reports (formatted printouts), macros (automate tasks), modules (VBA code). File type .accdb.\n8. Pharmacy use: patient records, drug master, stock and invoice tables, drug information retrieval."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate HTML and XML. Write a small XML document for a drug record.",
+      "answer": "1. HTML displays data; XML stores and carries data.\n2. HTML tags are predefined; XML tags are made by the user.\n3. HTML is not case-sensitive; XML is case-sensitive.\n4. HTML tolerates some unclosed tags; XML must be well-formed (every tag closed, proper nesting, one root, quoted attributes).\n5. HTML is for web pages; XML is for data exchange between programs and for export of databases.\n6. Example: <?xml version=\"1.0\"?><drugs><drug id=\"D001\"><name>Amoxicillin</name><form>Capsule</form><strength unit=\"mg\">500</strength></drug></drugs>."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are web servers and server products? Give examples.",
+      "answer": "1. Web server: computer and software that stores websites and sends pages to browsers in reply to HTTP requests; always on, fixed address.\n2. Client–server model: browser requests, server responds with HTML, CSS, images, scripts; may query a database server.\n3. Web server software: Apache HTTP Server (open source, LAMP stack), Nginx, Microsoft IIS, Apache Tomcat (Java).\n4. Server products: database servers (MySQL, SQL Server, Oracle), application servers, mail servers (Exchange), file/print servers, proxy servers, DNS servers.\n5. Cloud services rent servers over the Internet. Hospitals use internal servers on an intranet for HIS."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the generations of programming languages and the difference between a compiler and an interpreter.",
+      "answer": "1. First generation: machine language (binary), runs directly, machine-dependent.\n2. Second: assembly language with mnemonics (ADD, MOV), translated by an assembler.\n3. Third: high-level, English-like, machine-independent (C, C++, Java, Python).\n4. Fourth: very high-level / query languages that state what is wanted (SQL).\n5. Fifth: logic-based languages for expert systems (Prolog).\n6. Compiler translates the whole program into machine code before running (faster execution, errors listed together); interpreter translates and runs line by line (easier debugging, slower).\n7. Web: client-side JavaScript; server-side PHP, Python, Java, C#."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on MS Access and compare it with MySQL.",
+      "answer": "1. MS Access: desktop relational DBMS in Microsoft Office; database stored in one .accdb file.\n2. Objects: tables, queries, forms, reports, macros, modules (VBA); Datasheet and Design views; wizards for tables, forms, reports and labels.\n3. Data types: Short Text, Long Text, Number, Date/Time, Currency, AutoNumber, Yes/No, Attachment, Hyperlink.\n4. MySQL: open-source, client–server RDBMS using SQL, owned by Oracle; many users and large data; used behind websites.\n5. Comparison: Access suits small single-office use with built-in forms and reports; MySQL suits many users and large data but needs separate tools for forms and reports; Access is paid with Office, MySQL community edition is free."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a pharmacy drug database? Give its contents, uses and examples.",
+      "answer": "1. Organised, searchable electronic collection of information on medicines.\n2. Contents: generic and brand names, composition, dosage forms and strengths, indications, dose, contraindications, adverse effects, interactions, pregnancy and lactation use, storage, price, manufacturer.\n3. Uses: answering drug information queries, checking prescriptions for interactions and dose errors, finding substitutes, counselling leaflets, stock and price lookup, research and pharmacovigilance.\n4. Examples: National Formulary of India, Indian drug indexes (CIMS), DrugBank, PubChem, Micromedex, Lexicomp, PubMed for literature.\n5. Pharmacy software keeps a drug master database linked to stock, billing and patient records."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a primary key? Give an example.",
+      "answer": "A field that uniquely identifies each record in a table and cannot be blank or repeated, e.g. DrugID in a Drug table or PatientID in a Patient table."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the three ways of applying CSS to an HTML page.",
+      "answer": "Inline (style attribute in a tag), internal or embedded (<style> block in the head) and external (separate .css file linked with <link>)."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Expand SQL and name its DDL and DML commands.",
+      "answer": "Structured Query Language. DDL: CREATE, ALTER, DROP. DML: INSERT, SELECT, UPDATE, DELETE."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the applications of computers in hospital and clinical pharmacy, including electronic prescribing, barcode medicine identification and automated dispensing.",
+      "answer": "1. Hospital information system links departments; pharmacy module handles inventory (purchase, stock, reorder alerts, batch and expiry, ABC/VED analysis).\n2. Dispensing: outpatient and ward dispensing, unit-dose systems, labels, narcotic registers with audit trails.\n3. Clinical pharmacy: patient medication profiles, decision support (interaction, allergy, duplicate, dose and renal adjustment alerts), TDM and TPN calculations, ADR reporting to the Pharmacovigilance Programme of India, formulary management, drug use evaluation.\n4. Electronic prescribing / CPOE: prescriber enters order on screen, system checks it, order sent to pharmacy, pharmacist verifies, nurse records administration; e-discharge sends discharge prescription and summary.\n5. Benefits of EP: no illegible handwriting, complete orders, fewer errors, faster communication, full history, audit; problems: cost, downtime, alert fatigue, selection errors.\n6. Barcodes (linear, DataMatrix, QR; GS1 standards) for receiving, picking, billing and recall; barcode medication administration — scan wristband and medicine, system checks right patient, drug, dose, route and time, records administration.\n7. Automated dispensing: ward automated dispensing cabinets (release only ordered drugs, log user), pharmacy robots, unit-dose packaging machines.\n8. Benefits: fewer errors, speed, stock security, more pharmacist time for patients; limitations: cost, maintenance, loading errors."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the role of computers in pharmacokinetics and in drug design using mathematical models.",
+      "answer": "1. Pharmacokinetics: computers calculate Cmax, tmax, AUC (trapezoidal rule), k, t½ = 0.693/k, clearance, volume of distribution, bioavailability.\n2. Model fitting: one- and two-compartment and non-compartmental analysis by non-linear regression.\n3. Simulation and dose design: predict levels for new doses or intervals; individualise doses in renal or hepatic disease; TDM of digoxin, aminoglycosides, phenytoin, lithium, vancomycin.\n4. Population PK, bioequivalence statistics, PBPK models; software: Excel, Phoenix WinNonlin, NONMEM.\n5. Drug design (CADD): QSAR relates activity (log 1/C) to lipophilicity (π, log P), electronic (σ) and steric (Es) parameters — Hansch approach; 3D-QSAR.\n6. Molecular modelling: molecular mechanics, quantum mechanics, molecular dynamics.\n7. Structure-based design: docking into the target from PDB; virtual screening of large libraries.\n8. Ligand-based design: pharmacophore models, similarity search; ADMET prediction and Lipinski's rule of five.\n9. Advantages: fewer syntheses, lower cost, faster discovery; predictions must be confirmed experimentally."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on drug information storage and retrieval using computers.",
+      "answer": "1. Drug information: accurate, current facts on medicines for professionals and patients; answered by drug information centres.\n2. Storage: tertiary sources (formularies, drug databases), secondary sources (MEDLINE/PubMed, Embase), primary literature in online journals, centre's own query records.\n3. Retrieval: search by name, class, indication or keyword; Boolean AND (narrow), OR (widen), NOT (exclude); filters; MeSH terms.\n4. Steps: receive and classify query, collect patient data, search tertiary then secondary and primary sources, evaluate, answer, document.\n5. Advantages: speed, large storage, easy updating, many users; limitations: cost, training, Internet dependence, unreliable websites."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "How does mobile technology help in monitoring medication adherence?",
+      "answer": "1. Adherence = taking medicines as agreed; poor adherence causes treatment failure, resistance and extra cost.\n2. Reminder apps and SMS for doses and refills.\n3. Electronic pill bottles/caps (medication event monitoring systems) record each opening with time.\n4. Smart pill boxes that beep or light up and alert carers about missed doses.\n5. Video-observed therapy (tuberculosis), tele-pharmacy counselling, wearables sharing glucose or BP data.\n6. Problems: privacy, cost, digital literacy, reminder fatigue."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the electronic prescribing and discharge (EP) system and its benefits.",
+      "answer": "1. E-prescribing: prescriber enters the prescription on a computer (CPOE in hospitals) and it is sent electronically to the pharmacy.\n2. Decision support checks allergies, interactions and dose ranges when the order is entered.\n3. Pharmacist verifies and dispenses; nurse records administration electronically.\n4. E-discharge produces the discharge prescription and summary for the patient and next care provider.\n5. Benefits: legible and complete orders, fewer medication errors, faster communication, complete history, audit trail, data for stock planning.\n6. Problems: cost, training, downtime, alert fatigue, wrong selection from lists."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on patient monitoring systems and lab-diagnostic systems.",
+      "answer": "1. Patient monitoring: continuous measurement and display of vital signs in ICU, OT and emergency — ECG and heart rate, blood pressure, SpO2, respiratory rate, temperature, end-tidal CO2.\n2. Alarms when values cross limits; central station for many beds; data to electronic record; remote home monitoring.\n3. Lab-diagnostic (laboratory information) system: test ordering, barcode sample labels, sample tracking.\n4. Analysers interfaced to the computer send results directly; abnormal and critical values flagged against reference ranges.\n5. Quality control charts, validation, electronic reports to doctors, storage of past results."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is QSAR?",
+      "answer": "Quantitative structure–activity relationship: a mathematical equation relating the biological activity of molecules to properties such as lipophilicity (π), electronic (σ) and steric (Es) parameters, used to predict activity of new molecules."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are automated dispensing cabinets?",
+      "answer": "Computer-controlled cabinets on hospital wards that release only the medicines ordered for a patient after user login and record who removed what and when."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name four parameters displayed by a patient monitoring system.",
+      "answer": "Heart rate/ECG, blood pressure, oxygen saturation (SpO2) and respiratory rate (also temperature and end-tidal CO2)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define bioinformatics. Give its objectives and classify biological databases with suitable examples.",
+      "answer": "1. Definition: application of computer science, mathematics and statistics to biological data (DNA, RNA, protein sequences and structures) to store, retrieve, analyse and interpret them.\n2. Growth: faster, cheaper sequencing; Human Genome Project completed 2003; public databases online.\n3. Objectives: organise and store data; develop tools and algorithms; analyse and interpret function; compare sequences across species; predict structure and function; support drug and vaccine discovery; support personalised medicine.\n4. Primary (archival) databases: nucleotide — GenBank (NCBI, USA), ENA (EMBL–EBI, UK), DDBJ (Japan), sharing data daily as INSDC; structure — Protein Data Bank (PDB).\n5. Secondary (derived) databases: PROSITE, Pfam, PRINTS, InterPro — motifs, domains, families.\n6. Protein knowledgebase: UniProt = Swiss-Prot (manually reviewed) + TrEMBL (automatic).\n7. Specialised: KEGG (pathways), OMIM (genetic disorders), DrugBank (drugs and targets), IEDB (epitopes), PubChem; literature: PubMed.\n8. Tools: BLAST, FASTA, Clustal for searching and alignment.\n9. Pharmacy uses: target identification, pharmacogenomics, vaccine antigens."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the impact of bioinformatics on vaccine discovery.",
+      "answer": "1. Classical vaccines require growing the pathogen — slow, fails for unculturable or highly variable organisms.\n2. Reverse vaccinology: start from the genome → predict all proteins → select surface-exposed/secreted, conserved, non-human-like proteins → express and test in animals; first success with Neisseria meningitidis serogroup B.\n3. Epitope prediction (immunoinformatics): predict B-cell and T-cell epitopes and HLA binding; multi-epitope vaccines; IEDB database.\n4. Strain comparison and phylogenetics: conserved regions as targets; annual influenza strain selection; tracking variants.\n5. Rapid response: genomes shared within days; SARS-CoV-2 sequence shared early in 2020 used to design mRNA and viral-vector spike vaccines.\n6. Structure-based antigen design using PDB structures (e.g. stabilising pre-fusion proteins).\n7. Safety: screening antigens for similarity to human proteins and allergens; population coverage of epitopes.\n8. Benefits: faster, cheaper, broader coverage, rational design; limitation: predictions need laboratory and clinical confirmation."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is sequence alignment? Differentiate pairwise and multiple, global and local alignment. Add a note on BLAST.",
+      "answer": "1. Sequence alignment lines up DNA or protein sequences to find similar regions that suggest common function or ancestry (homology).\n2. Pairwise: two sequences; multiple: three or more (Clustal Omega, MUSCLE) — used for conserved regions and trees.\n3. Global: over the full length (Needleman–Wunsch); local: best matching part only (Smith–Waterman).\n4. BLAST (Basic Local Alignment Search Tool, NCBI): compares a query sequence with a database and lists similar sequences with scores and E-values.\n5. Uses: finding the function of new genes, identifying organisms, drug target and vaccine work."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on nucleotide and protein sequence databases.",
+      "answer": "1. Nucleotide: GenBank (NCBI, USA), ENA (EMBL–EBI, UK) and DDBJ (Japan) form the INSDC and exchange data daily.\n2. Each entry: accession number, description, organism, references, features and sequence.\n3. Protein: UniProtKB — Swiss-Prot (manually reviewed, high-quality annotation) and TrEMBL (automatically annotated).\n4. PDB: 3D structures from X-ray, NMR and cryo-EM, each with a four-character ID.\n5. PROSITE and Pfam for families and domains; data in FASTA format (header line starting with >)."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the concept of bioinformatics with reference to the central dogma and its main activities.",
+      "answer": "1. Information flows DNA → RNA → protein → structure → function; each can be read as sequences of letters (A, T, G, C; 20 amino acids).\n2. Sequence analysis: alignment, similarity search, homology.\n3. Gene finding and annotation of genomes.\n4. Phylogenetic analysis: evolutionary trees, outbreak tracking.\n5. Structural bioinformatics: structure prediction, binding sites, docking.\n6. Functional genomics (expression) and systems biology (networks); related fields: genomics, proteomics, pharmacogenomics."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Give the applications of bioinformatics in pharmacy.",
+      "answer": "1. Drug target identification and validation; checking target is absent in humans for antimicrobials.\n2. Structure-based drug design and virtual screening.\n3. Pharmacogenomics: genetic variants in drug-metabolising enzymes, personalised doses.\n4. Vaccine discovery: reverse vaccinology, epitope prediction.\n5. Diagnosis of genetic disease and pathogens; tracking antimicrobial resistance genes.\n6. Literature and data mining (PubMed, DrugBank, KEGG)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is reverse vaccinology?",
+      "answer": "Vaccine discovery that starts from the pathogen's genome: proteins are predicted and the likely surface, conserved antigens are selected by computer before laboratory testing (first used for meningococcus B)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Expand BLAST and PDB.",
+      "answer": "BLAST: Basic Local Alignment Search Tool. PDB: Protein Data Bank."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a laboratory information management system (LIMS)? Describe the sample life cycle, functions and advantages of a LIMS in preclinical development.",
+      "answer": "1. LIMS: software managing samples, tests, results, people, instruments and laboratory workflow.\n2. Sample life cycle: login with unique ID → barcode label → test assignment from specification → analysis → result entry (manual or from instruments/CDS) → calculation and check against limits → review and approval → report/certificate of analysis → storage and disposal.\n3. Functions: sample management and chain of custody; test methods and specifications with automatic OOS flags; workload scheduling; instrument integration; stability study scheduling and trending; inventory of standards and reagents; instrument calibration records; deviations and training records; reports.\n4. Compliance: audit trail, electronic signatures, user access levels, validation (GLP/GMP, 21 CFR Part 11), ALCOA data.\n5. Advantages: less paperwork and transcription error, faster turnaround, traceability, easy audits, early trend detection, integration with ERP and document systems.\n6. Limitations: cost, configuration and validation time, training, need for downtime procedures.\n7. Difference from CDS: CDS handles chromatography data; LIMS manages the whole laboratory and receives results from CDS."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the role of a chromatography data system (CDS) in preclinical data analysis. Add a note on data integrity requirements.",
+      "answer": "1. Chromatography (HPLC, GC, LC–MS) used for assay, impurities, dissolution, stability and bioanalysis; CDS controls instruments and collects, processes, stores and reports data.\n2. Instrument control: flow, gradient, temperature, wavelength, injection sequence; unattended runs.\n3. Acquisition: detector signal vs time stored as unchangeable raw data.\n4. Processing: peak detection and integration (retention time, area, height), baseline; manual integration only with justification.\n5. Calibration and calculation: external/internal standard, % assay, % impurities, % dissolved.\n6. System suitability: theoretical plates, tailing factor, resolution, %RSD of replicate injections.\n7. Reporting, review and electronic approval; networked CDS with central storage; examples Empower, Chromeleon, OpenLab.\n8. Data integrity: ALCOA(+) — attributable, legible, contemporaneous, original, accurate; unique logins, audit trail, electronic signatures, validation, backup and archive (21 CFR Part 11, GLP).\n9. Advantages: accuracy, reproducibility, time saving, traceability, results sent to LIMS."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the text information management system (TIMS).",
+      "answer": "1. TIMS stores, organises, indexes and retrieves unstructured text: protocols, reports, SOPs, literature, regulatory documents, notes.\n2. Functions: capture and scanning with OCR; indexing with keywords and metadata; full-text search with Boolean operators; version control; review and approval workflow with e-signatures; access control and audit trail; archiving.\n3. Text mining finds patterns in large text collections (literature, adverse event narratives).\n4. Uses: managing toxicology study protocols and reports, SOP control, literature searches, preparing regulatory documents, avoiding repeated experiments.\n5. Related: electronic laboratory notebooks and document management systems."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate CDS and LIMS.",
+      "answer": "1. CDS handles chromatography instruments and their data; LIMS manages samples, tests and workflow of the whole laboratory.\n2. CDS data: signals, chromatograms, peak areas; LIMS data: results, specifications, sample status, reports.\n3. CDS focuses on acquisition and processing; LIMS on management, tracking and reporting (CoA, stability).\n4. CDS sends final results to LIMS; LIMS receives results from CDS and other instruments.\n5. Both need audit trails, e-signatures and validation."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is ALCOA? Explain its importance for computerised laboratory data.",
+      "answer": "1. ALCOA: Attributable (who and when), Legible (readable, permanent), Contemporaneous (recorded at the time), Original (first record or true copy), Accurate (correct, changes explained); ALCOA+ adds complete, consistent, enduring, available.\n2. Required by GLP and GMP so studies can be reconstructed and trusted.\n3. Computer features that support it: unique user IDs, audit trails, time stamps, electronic signatures, no overwriting of raw data, backup and archive, system validation.\n4. Failures of data integrity can lead to rejection of studies and regulatory action."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Why are computers needed for data analysis in preclinical development?",
+      "answer": "1. Preclinical studies (characterisation, formulation, stability, bioanalysis, pharmacology, toxicology) generate large data volumes.\n2. Accurate, repeatable calculations (peak areas, calibration, statistics, PK).\n3. Traceability and GLP compliance; regulators need reconstructable records.\n4. Data ready for regulatory submission and retrieval years later.\n5. Systems used: CDS, LIMS, TIMS, ELN, statistical and PK software."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Expand CDS, LIMS and TIMS.",
+      "answer": "Chromatography (chromatographic) data system; laboratory information management system; text information management system."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an audit trail?",
+      "answer": "A secure, automatic, time-stamped record of who created, changed or deleted electronic data, when, and why, which cannot be altered by users."
+    }
+  ]
+}
