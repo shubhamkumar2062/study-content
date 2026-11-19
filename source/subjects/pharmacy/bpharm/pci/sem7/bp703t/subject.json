@@ -1,0 +1,48 @@
+{
+  "code": "BP703T",
+  "title": "Pharmacy Practice",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP703T Pharmacy Practice (Theory)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP703T_B.Pharma-pages-36.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Hospital and hospital pharmacy organisation, adverse drug reactions and drug interactions, community pharmacy",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Drug distribution, hospital formulary, therapeutic drug monitoring, medication adherence, medication history and community pharmacy management",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Pharmacy and therapeutics committee, drug information, patient counselling, education and training, prescriptions and communication",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Budget preparation, clinical pharmacy and over-the-counter sales",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Drug store management and inventory control, investigational drugs and interpretation of clinical laboratory tests",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define hospital pharmacy. Describe its organisation, location, layout and staff requirements, and list the functions of a hospital pharmacist.",
+      "answer": "1. Definition: department of a hospital, run by registered pharmacists, that procures, stores, compounds, dispenses and distributes drugs and supplies and gives drug information and clinical services for safe, effective, economical drug use.\n2. Organisation: chief pharmacist (reports to medical superintendent, secretary of PTC) → deputy chief pharmacist → sections: purchase and stores, dispensing (OPD, in-patient, emergency), manufacturing (sterile, non-sterile), drug information centre, clinical pharmacy services, education and research → pharmacists, technicians, store keepers, clerks, helpers. Draw the organisation chart.\n3. Location: ground floor; near OPD and emergency; good links (lifts, corridors) to wards; vehicle access for deliveries; dry area with room to expand.\n4. Layout: OPD dispensing counter with waiting and counselling area; in-patient/unit dose area; bulk store; cold room or refrigerators (2–8 °C); double-locked controlled drug store; separate fire-proof flammable store; sterile and non-sterile manufacturing areas; drug information centre; office and records.\n5. Staff requirements: depend on bed strength, OPD load, shifts and services offered; chief pharmacist, deputy, pharmacists, technicians, store keepers, clerks, helpers; minimum numbers follow government norms (e.g. Indian Public Health Standards).\n6. Functions of hospital pharmacist: selection, procurement, storage; accurate dispensing, labelling and counselling; records of purchase, issue and controlled drugs; PTC and formulary work; drug information; ADR monitoring, TDM, medication review; sterile and non-sterile preparation; education and training; cost control and rational drug use."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify adverse drug reactions with examples. Describe the methods used to detect ADRs and the reporting and management of ADRs.",
+      "answer": "1. Definition (WHO): response to a drug that is noxious and unintended and occurs at doses normally used in man for prophylaxis, diagnosis or therapy.\n2. Classification (syllabus): excessive pharmacological effect (hypoglycaemia with insulin, bleeding with anticoagulants); secondary pharmacological effect (dry mouth with anticholinergics); idiosyncrasy (chloramphenicol aplastic anaemia); allergic reaction (penicillin anaphylaxis, Stevens–Johnson syndrome); genetically determined toxicity (primaquine haemolysis in G6PD deficiency, succinylcholine apnoea); toxicity on sudden withdrawal (rebound hypertension after clonidine, adrenal crisis after steroids).\n3. Rawlins–Thompson: A augmented, B bizarre, C chronic, D delayed, E end of use, F failure.\n4. Detection: spontaneous case reports (cheap, cover all drugs, under-reporting, no incidence); intensive monitoring; cohort studies; case–control studies; record linkage studies (linked prescription, admission and death records of large populations); post-marketing surveillance and literature.\n5. Reporting in India: Pharmacovigilance Programme of India (2010), NCC at IPC Ghaziabad; reports through ADR Monitoring Centres on the Suspected ADR Reporting Form; consumer form, mobile app, helpline 1800-180-3024; data to WHO Uppsala Monitoring Centre.\n6. Management: detect → collect details → causality (WHO–UMC; Naranjo ≥9 definite, 5–8 probable, 1–4 possible, ≤0 doubtful) → severity (Hartwig) and preventability → stop or reduce drug, treat reaction, give alternative → document and report → record allergy, educate patient.\n7. Pharmacist's role: detection during chart review and counselling, filling forms, causality assessment, ADR bulletins and committee work."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is a community pharmacy? Describe the organisation and design of a retail drug store and the legal requirements for establishing and maintaining it. Add a note on records to be kept.",
+      "answer": "1. Definition: pharmacy outside hospital where medicines are dispensed on prescription and sold, and health advice is given; wholesale stores supply in bulk to retailers and institutions.\n2. Types: independent, chain, franchise (including Jan Aushadhi Kendras), hospital-attached, wholesale, online with licensed premises.\n3. Organisation: owner/manager, registered pharmacist (compulsory), sales assistants, accountant; wholesale has a competent person, store keepers, delivery staff.\n4. Design: prescription receiving counter, dispensing area away from public reach, display for non-prescription goods, refrigerator, locked cabinet for Schedule X, counselling corner, lighting, ventilation, protection from sun and moisture; draw a layout.\n5. Legal requirements (D&C Act 1940 and Rules 1945): application with fee and premises documents to State Licensing Authority; licences – retail Forms 20/21, wholesale 20B/21B, restricted 20A/21A, Schedule X 20F/20G; area at least 10 m² (15 m² for retail + wholesale); refrigerator; registered pharmacist for retail, competent person for wholesale; display of licence; GST, shops and establishments and trade registration.\n6. Maintenance: sell H, H1, X only on RMP prescription; no expired or substandard drugs; allow inspection; retention fee to keep licence valid.\n7. Records: purchase and sale bills; prescription register; Schedule H1 register (prescriber, patient, drug, quantity) kept 3 years; Schedule X prescriptions and records kept 2 years; NDPS records; stock, expiry and temperature logs."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify hospitals on the basis of level of care, clinical basis and non-clinical basis.",
+      "answer": "1. Level of care: primary (sub-centres, PHCs – first contact, basic care, referral); secondary (CHCs, district hospitals – general specialists); tertiary (medical colleges, super-speciality – advanced care, teaching, research).\n2. Clinical basis: general hospitals (many diseases, many departments) and speciality hospitals (TB, cancer, maternity, children, mental, eye, leprosy, infectious disease).\n3. Non-clinical basis: ownership (government, private, voluntary/trust, corporate); teaching or non-teaching; length of stay (short-stay, long-stay); size (bed strength); system of medicine (allopathic, Ayurveda, Unani, Siddha, homoeopathy); profit or non-profit."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are drug interactions? Explain pharmacokinetic drug interactions with examples, and mention beneficial interactions.",
+      "answer": "1. Definition: change in the effect of one drug (object) by another drug, food or chemical (precipitant).\n2. Absorption: chelation (tetracycline with calcium, iron, antacids); binding resins (cholestyramine); change in gastric pH or motility.\n3. Distribution: displacement from plasma proteins (sulphonamides displacing bilirubin in neonates).\n4. Metabolism: enzyme induction (rifampicin, phenytoin, carbamazepine reduce effect of oral contraceptives); enzyme inhibition (ketoconazole, erythromycin, cimetidine raise levels of other drugs).\n5. Excretion: competition for tubular secretion (probenecid with penicillin); urine pH change (alkalinisation increases salicylate excretion).\n6. Beneficial interactions: probenecid prolongs penicillin; carbidopa protects levodopa; co-trimoxazole sequential blockade; combination antitubercular therapy; adrenaline with local anaesthetics."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe spontaneous case reporting and record linkage studies as methods of detecting ADRs and drug interactions.",
+      "answer": "1. Spontaneous case reports: health professionals (and patients) voluntarily report suspected ADRs on a standard form to a national centre (PvPI in India).\n2. Advantages: cheap, simple, covers all drugs and patients throughout a drug's life, first signal of rare and serious reactions.\n3. Disadvantages: heavy under-reporting, reporting bias, no denominator so incidence cannot be calculated, quality of reports varies.\n4. Record linkage studies: separate records of the same person – prescriptions, hospital admissions, diagnoses, laboratory results, deaths – are linked by computer to find associations between drug exposure and later events.\n5. Advantages: very large populations, cheap compared with prospective studies, can find delayed effects and interactions.\n6. Disadvantages: depends on completeness and accuracy of records; confounding; privacy safeguards needed."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the medical staff of a hospital and their functions, and draw the organisation structure of a hospital.",
+      "answer": "1. Governing body frames policy; Director / Medical Superintendent is chief executive.\n2. Departments: medical services (clinical departments), nursing services, paramedical services (pharmacy, laboratory, radiology, physiotherapy), administrative services (finance, personnel, medical records, stores), supportive services (kitchen, laundry, CSSD, maintenance, security). Draw as a chart.\n3. Medical Superintendent – administration, discipline, co-ordination.\n4. Heads of departments and consultants – diagnosis, treatment, procedures, teaching and research.\n5. Resident doctors and house officers – day-to-day care, admission notes, orders, emergencies.\n6. Nursing superintendent and nurses – nursing care, drug administration, observation and ward records.\n7. Pharmacists – supply, dispensing, drug information, clinical services; laboratory and radiology staff – investigations; dietitian, physiotherapist, social worker – nutrition, rehabilitation, support."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain how proprietary products are dispensed in a community pharmacy.",
+      "answer": "1. Receive the prescription; check prescriber, signature, date, patient details and legality (Schedule H, H1, X need RMP prescription).\n2. Read and interpret the drug, strength, dosage form, quantity and directions; clarify doubts with the prescriber.\n3. Screen for allergies, interactions and duplications.\n4. Select the correct brand, strength and dosage form; check expiry date, batch and physical condition; do not substitute a brand without consent as per practice (generic dispensing encouraged).\n5. Label with patient name, directions, warnings; endorse or stamp the prescription.\n6. Final check, then hand over with counselling on use, side effects and storage.\n7. Record in the H1 register or Schedule X records where required and file the bill."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define adverse drug reaction (WHO).",
+      "answer": "A response to a drug which is noxious and unintended, and which occurs at doses normally used in man for prophylaxis, diagnosis or therapy of disease, or for modification of physiological function."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is idiosyncrasy? Give one example.",
+      "answer": "An unusual, unexpected response to a drug not explained by its known pharmacology, seen in a small number of people (often genetically based). Example: aplastic anaemia with chloramphenicol."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a drug distribution system? Describe the various systems of drug distribution to in-patients, with the advantages and disadvantages of the unit dose drug distribution system.",
+      "answer": "1. Definition: method by which ordered drugs move from pharmacy to patient so that the right drug, dose and form reach the right patient at the right time with minimum wastage and proper records.\n2. Individual prescription order system: each patient's drugs dispensed separately for a few days; pharmacist reviews every order, good control; but delays, more pharmacy work, returns and wastage; suited to small or private hospitals.\n3. Complete floor stock: charged and non-charged ward stock; drugs instantly available, fewer pharmacy staff; but no pharmacist review, more errors, expiry, pilferage, nursing time wasted.\n4. Combination system: individual orders plus limited floor stock for emergencies and cheap items – used in most hospitals.\n5. Unit dose system: single-unit, ready-to-administer packages, not more than a 24-hour supply, labelled with drug, strength, batch, expiry, in patient-specific drawers; flow: order copy → pharmacist review and patient profile → unit packs → cart to ward → nurse administers and records → unused doses returned and credited. Centralised or decentralised (satellite pharmacies).\n6. UDDS advantages: fewer medication errors, pharmacist checks every order, less wastage and pilferage, credit for returns, accurate charging, saves nursing time, patient medication profile helps monitoring.\n7. UDDS disadvantages: high start-up cost (packaging machines, carts), more pharmacy staff and 24-hour service, needs good communication.\n8. Automated systems: automated dispensing cabinets, barcode dispensing and administration, robots."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define therapeutic drug monitoring. Explain the need for TDM, the drugs usually monitored, the factors to be considered during TDM and the Indian scenario.",
+      "answer": "1. Definition: measurement of drug concentration in a biological fluid (usually plasma/serum), interpreted with clinical information, to individualise dosage within the therapeutic range.\n2. Need: narrow therapeutic index; large inter-individual pharmacokinetic variation; good concentration–effect relationship but effect hard to measure; non-linear kinetics (phenytoin); suspected toxicity, non-adherence, therapeutic failure or interaction; changing physiology (renal or hepatic failure, pregnancy, children, elderly).\n3. Drugs: phenytoin, carbamazepine, valproate, phenobarbitone; digoxin; lithium; aminoglycosides, vancomycin; theophylline; cyclosporine, tacrolimus. Drugs with easily measured effects (antihypertensives, antidiabetics, warfarin by INR) are monitored by effect.\n4. Factors: sampling at steady state (4–5 half-lives), trough before next dose or peak as needed, exact time of dose and sample; correct sample handling; validated assay with quality control; patient factors (age, weight, renal/hepatic function, disease, genetics); drug factors (formulation, protein binding, active metabolites); interactions and adherence; interpret with clinical response; clear report with recommendation.\n5. Process flow: indication → plan sample → collect → assay → interpret → recommend → adjust dose → follow-up.\n6. Indian scenario: mostly in tertiary and teaching hospitals; few labs elsewhere; high cost of assays and equipment; shortage of trained clinical pharmacists; low awareness; delays; patients' inability to pay; growing with Pharm.D and clinical pharmacy departments."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define hospital formulary. Describe its contents, preparation and revision, and the procedure for addition and deletion of drugs. Differentiate a formulary from a drug list.",
+      "answer": "1. Definition: continually revised compilation of pharmaceuticals with ancillary information, reflecting current clinical judgement of the medical staff, prepared by the PTC; both a list and a policy document.\n2. Contents – Part 1: hospital policies and procedures (formulary rules, non-formulary requests, prescribing rules, controlled drugs, automatic stop orders, substitution, ADR reporting, pharmacy services). Part 2: drug products list arranged alphabetically and by therapeutic class with index – generic name, brands, forms and strengths, uses, precautions, cost. Part 3: special information – abbreviations, equivalents, calculations, normal lab values, antidotes and poison information, nutritional products, interactions, TDM list, emergency drug list.\n3. Preparation: PTC fixes format and criteria → pharmacy drafts from use data → circulated to departments → PTC approves → medical staff and administration adopt → issued in print and electronically.\n4. Revision: regularly (often yearly) with supplements.\n5. Addition: request form by doctor (indication, advantage, evidence, cost) → pharmacist prepares monograph → PTC decision → staff informed.\n6. Deletion: unused or rarely used, outdated, replaced by better or cheaper drug, banned, unsafe, duplicates.\n7. Formulary vs drug list: formulary has information and policy, is a PTC tool for rational use and education, revised with evidence; drug list only names stocked items for purchase."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are the causes of medication non-adherence? Describe the role of the pharmacist in improving adherence.",
+      "answer": "1. Adherence: extent to which patient behaviour matches agreed recommendations; non-adherence may be intentional or unintentional.\n2. Causes (WHO dimensions): patient (forgetfulness, beliefs, fear of side effects, low literacy, depression); condition (chronic, symptom-free disease, feeling better); therapy (complex regimen, many drugs, side effects, long duration, devices); health system (short visits, poor communication, no counselling, shortages); socio-economic (cost, distance, poverty, lack of support).\n3. Pharmacist's role: counselling on purpose and use; simplifying regimens with prescriber (once daily, fixed-dose combinations); adherence aids (pill boxes, blister packs, reminders, calendars); written information and pictograms; managing side effects; involving family; follow-up and refill reminders; medication reviews."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods used for monitoring patient medication adherence.",
+      "answer": "1. Indirect methods: patient interview or self-report (simple, overestimates); structured questionnaires such as the Morisky scale; pill count at each visit; pharmacy refill records (gaps show non-adherence); electronic monitoring caps recording bottle opening; clinical response (affected by other factors).\n2. Direct methods: measuring drug, metabolite or marker levels in blood or urine (objective, costly, shows only recent intake); directly observed therapy (as in TB programmes).\n3. Use more than one method, since each has limits.\n4. Record findings and act – counsel, simplify, inform prescriber."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the need for a patient medication history interview and the contents of a medication history interview form.",
+      "answer": "1. Need: detect drug-related problems (ADRs, interactions, duplication, non-adherence, drug-induced admissions); record allergies; support medication reconciliation at admission, transfer and discharge; help choose therapy and plan monitoring; assess adherence and beliefs; build rapport.\n2. Conducting: prepare, introduce, open then specific questions, cover every Rx, OTC and herbal product, allergies, habits, adherence; verify with containers, prescriptions, family; document.\n3. Form contents: patient details (name, age, sex, IP number, weight, diagnosis); sources of information; current drugs (strength, dose and frequency as taken, duration, indication); recently stopped drugs; OTC/herbal products; allergies and ADR history; social history (alcohol, tobacco, diet); adherence assessment; discrepancies and action; pharmacist's signature and date."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the dispensing of controlled drugs in a hospital, and the charging policy and labelling of in-patient medicines.",
+      "answer": "1. Controlled drugs (NDPS Act and Schedule X): kept in a double-locked cupboard, keys with pharmacist in charge; supplied only on written, signed, dated prescription or special ward requisition by a doctor; entries in controlled drug register (date, patient, prescriber, received, issued, balance); empty ampoules and unused stock returned; regular stock verification; losses reported.\n2. Charging policy: per item/per dose charging; flat or package charge; free supply in government hospitals; charge includes drug cost plus handling charge fixed by management.\n3. Labelling: patient name and ward/bed number, drug name and strength, dosage form and quantity, directions, date of dispensing, expiry, auxiliary labels (shake well, external use, refrigerate), pharmacy name; clear and printed."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the financial, materials, staff and infrastructure requirements of community pharmacy management.",
+      "answer": "1. Financial: fixed capital (premises, furniture, refrigerator, computer) and working capital (stock, salaries, rent, utilities, licence fees); sources – savings, partners, bank loans, schemes; control through cash book, purchase and sale records, credit control, GST accounts, profit and loss account.\n2. Materials: stock based on local demand and nearby prescribers; reliable suppliers; purchase planning; FEFO; expiry checks and returns; correct storage including cold chain; computerised stock control with reorder levels.\n3. Staff: registered pharmacist always present for dispensing; assistants, accountant, delivery staff; training in dispensing, customer service, law and software; defined duties.\n4. Infrastructure: adequate area in a good location; counters, shelves, locked cabinets; refrigerator and power back-up; billing/inventory software; signboard with licence details; counselling area; reference books; fire safety."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a unit dose drug distribution system?",
+      "answer": "A system in which medicines are dispensed in single-unit, ready-to-administer packages for each patient, usually for not more than a 24-hour supply, placed in patient-specific drawers; it reduces errors and wastage."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate charged and non-charged floor stock.",
+      "answer": "Charged floor stock: ward stock whose drugs are billed to the patient when used. Non-charged floor stock: cheap, commonly used items (antiseptics, common tablets, IV fluids) kept on the ward and not billed to individual patients."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the organisation and functions of the Pharmacy and Therapeutics Committee. Explain its policies on inclusion of drugs in the formulary, prescriptions, automatic stop orders and the emergency drug list.",
+      "answer": "1. Definition: advisory committee of the medical staff and the link between medical staff and pharmacy; sets policies on selection, procurement, prescribing, distribution and safe use of drugs.\n2. Composition: senior physicians from major departments (one is chairman); chief pharmacist as secretary; nursing superintendent; administrator/medical superintendent; clinical pharmacologist, microbiologist, clinical pharmacist; meets regularly, keeps minutes; sub-committees (antimicrobial, ADR, formulary).\n3. Functions: advisory; educational; prepare and revise formulary; frame drug-use policies; evaluate new drugs (add/delete); drug utilisation review and prescription audit; ADR and medication error programmes; control investigational drugs with ethics committee; cost control.\n4. Formulary inclusion: efficacy, safety, need, quality, cost; generic names; avoid duplicates; formal request and monograph.\n5. Prescriptions: legible, generic names, full dose details; formulary drugs only, non-formulary on request; rules for verbal orders, who may prescribe, quantities for OPD; controlled drugs and restricted antimicrobials; look-alike sound-alike drugs.\n6. Automatic stop order: certain drugs (narcotics, sedatives, antimicrobials, anticoagulants, corticosteroids, potent IV drugs) automatically stopped after a period fixed by the committee unless re-ordered; prescriber reminded before stop.\n7. Emergency drug list: drugs always available in crash carts in wards, ICU, OT, emergency – for cardiac arrest, anaphylaxis, hypoglycaemia, seizures, poisoning, fluids; pharmacist checks, replaces, removes expired items and seals the cart."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a drug information centre? Describe the sources of drug information, computerised services, the systematic approach to answering a query, and the storage and retrieval of information.",
+      "answer": "1. Definitions: drug information – current, critically evaluated, unbiased information on drugs; DIC – staffed by trained pharmacists, answers queries and runs education and research; poison information centre – advice on poisoning (National Poisons Information Centre, AIIMS New Delhi).\n2. Functions: answer queries; bulletins and alerts; support PTC (monographs); ADR and medication safety; education; drug utilisation research.\n3. Primary sources: original research in journals (BMJ, Lancet, NEJM, Indian Journal of Pharmacology) – current but need evaluation.\n4. Secondary sources: indexing and abstracting services – MEDLINE/PubMed, Embase, International Pharmaceutical Abstracts, Cochrane Library – lead to primary literature.\n5. Tertiary sources: Martindale, IP, NFI, BNF, AHFS, pharmacology textbooks, CIMS/MIMS/IDR, package inserts – quick but may be outdated.\n6. Computerised services: online databases (PubMed, Cochrane, Micromedex-type subscription databases), downloadable compendia, hospital information systems with interaction checks, regulator and WHO sites, mobile reference apps, e-newsletters.\n7. Query approach: receive and record requester demographics → background (patient, urgency) → determine real question → search strategy (tertiary → secondary → primary) → evaluate and synthesise → respond clearly with references in time → follow-up and document.\n8. Storage and retrieval: query forms or database; literature filed by drug, class or subject using coding and keywords; card/vertical files earlier, now electronic databases and scanned documents; regular updating and weeding."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define patient counselling. Describe the steps involved in patient counselling, the barriers, and the special cases that require the pharmacist's attention.",
+      "answer": "1. Definition: two-way process in which the pharmacist gives information, advice and help on medicines and disease so the patient understands and uses medicines correctly; includes listening and checking understanding.\n2. Aims: better adherence, fewer ADRs and errors, better self-management, trust.\n3. Preparation: review prescription and records, identify problems, prepare leaflets and devices, choose a private place.\n4. Opening: greet, introduce, confirm identity, explain purpose and time.\n5. Content: name and purpose of drug; how much, how often, how long; how to take; device technique; common side effects and actions; precautions and interactions; storage; missed dose; lifestyle advice. Use the three prime questions (what is it for, how to take it, what to expect).\n6. Process: open questions, teach-back or show-and-tell, answer doubts.\n7. Closing: summarise, check understanding, give written information, explain follow-up; then document.\n8. Barriers: time, privacy, language, literacy, sensory impairment, anxiety, attitudes, poor skills.\n9. Special cases: children (counsel parents, measuring devices), elderly (polypharmacy, memory, large print, pill boxes), pregnancy and lactation, chronic diseases (diabetes, asthma, epilepsy, TB, HIV), narrow-therapeutic-index drugs, special devices (inhalers, insulin pens, eye drops, patches, suppositories), low literacy and language barriers (pictograms, family), disability, terminal and psychiatric illness."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the code of ethics for community pharmacists.",
+      "answer": "1. Source: PCI Code of Pharmaceutical Ethics, reflected in the Pharmacy Practice Regulations, 2015.\n2. In relation to job: proper premises, follow law, records, care with prescriptions, no substitution without permission, refuse supply likely to be misused, keep professional secrets.\n3. In relation to trade: fair prices, no misleading advertising, no hawking, honest dealing.\n4. In relation to medical profession: do not diagnose or prescribe beyond role; respect prescriber; contact prescriber about errors without criticising before patient; no secret arrangements or commissions.\n5. In relation to profession: uphold dignity, keep knowledge current, support colleagues, join associations.\n6. In relation to public: patient welfare first, honest information, confidentiality, service in emergencies."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are the parts of a prescription? Describe the interpretation and legal requirements of a prescribed medication order.",
+      "answer": "1. Parts: prescriber's details and registration number; date; patient's name, age, sex, address (weight for children); superscription (Rx); inscription (drug and strength); subscription (instructions to pharmacist – form and quantity); signatura (directions to patient); refills; signature.\n2. Interpretation: check legality, completeness, appropriateness of drug, dose, frequency, route and duration for the patient; interactions, allergies, duplications, contraindications; legibility and abbreviations (b.d., t.d.s., h.s., s.o.s., stat); clarify doubts with prescriber, never guess.\n3. Legal requirements (D&C Rules): Schedule H, H1, X only on RMP prescription; prescription in writing, signed and dated, with patient name and address and total amount to supply; pharmacist stamps/endorses with pharmacy name and date; H1 register and Schedule X records; NDPS rules for narcotics; generic, legible prescribing advised."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of the pharmacist in education and training programmes in the hospital, including internal and external programmes and services to nursing homes.",
+      "answer": "1. Pharmacist educates health professionals, students and patients and trains pharmacy staff.\n2. Internal programmes: in-service training of pharmacists and technicians; lectures to nurses on administration, storage, calculations, IV compatibility, ADR reporting; clinical meetings and journal clubs; orientation of new staff.\n3. External programmes: practical training and internship of B.Pharm, D.Pharm and Pharm.D students; continuing education for community pharmacists; workshops with professional bodies; training staff of other centres.\n4. Services to nursing homes and clinics: drug supply, drug information, storage and expiry advice, medication chart review, staff training, record keeping and legal compliance.\n5. Interdepartmental communication through procedures, forms, circulars, committees and hospital information systems; community health education on hygiene, immunisation, TB, HIV, diabetes, tobacco cessation and rational use."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain communication skills required by a pharmacist for communicating with prescribers and patients.",
+      "answer": "1. Communication process: sender, message, channel, receiver, feedback.\n2. Types: verbal, non-verbal (eye contact, posture, expression), written, active listening (paraphrasing, summarising, empathy).\n3. Barriers: noise, no privacy, language, jargon, emotions, hearing loss, time pressure, cultural differences.\n4. With prescribers: be prepared with patient facts and alternatives; brief, polite, evidence-based; structured format (situation, background, assessment, recommendation); document intervention and response.\n5. With patients: warm greeting, privacy, simple language, open questions, active listening, empathy, teach-back, respect for culture and confidentiality."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is an automatic stop order?",
+      "answer": "A PTC policy under which certain drugs (e.g. narcotics, antimicrobials, anticoagulants, corticosteroids) are automatically discontinued after a fixed period unless the prescriber writes a fresh order, preventing unnecessarily prolonged therapy."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give two examples each of primary, secondary and tertiary sources of drug information.",
+      "answer": "Primary: British Medical Journal, Indian Journal of Pharmacology. Secondary: MEDLINE/PubMed, International Pharmaceutical Abstracts. Tertiary: Martindale, National Formulary of India."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define clinical pharmacy. Describe the functions and responsibilities of a clinical pharmacist, with emphasis on medication chart review, clinical review, pharmacist interventions and ward round participation.",
+      "answer": "1. Definition: branch of pharmacy in which pharmacists provide patient care that optimises medication therapy and promotes health; patient-focused rather than product-focused; grew in India with Pharm.D (2008).\n2. Functions: ward rounds; medication history and reconciliation; chart review and clinical review; identifying and resolving drug-related problems; ADR monitoring; TDM and pharmacokinetic dosing; drug information; patient counselling at discharge; drug utilisation evaluation and antimicrobial stewardship; education and research.\n3. Medication chart review: daily check of indication for each drug and untreated indications; drug, dose, frequency, route, duration for age, weight, renal and liver function; interactions, duplications, contraindications, allergies; administration issues (IV compatibility, crushing, food timing); doses given or missed.\n4. Clinical review: combine drug therapy with clinical signs and lab data (renal and liver function, electrolytes, counts, cultures, drug levels) to judge effectiveness and safety.\n5. Pharmacist interventions: action leading to change in therapy; DRPs – untreated indication, drug without indication, wrong drug, dose too low/high, ADR, interaction, non-adherence, duplication; communicate, record acceptance and outcome.\n6. Ward rounds: prepare (charts, labs, new admissions); give information and suggestions during round; observe patients; follow up and document; benefits – fewer errors, rational prescribing, team learning.\n7. Pharmaceutical care as the guiding philosophy."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is pharmaceutical care? Explain the process of pharmaceutical care and describe how drug therapy is individualised on the basis of pharmacokinetics and disease pattern.",
+      "answer": "1. Definition (Hepler and Strand, 1990): responsible provision of drug therapy for the purpose of achieving definite outcomes that improve a patient's quality of life – cure, elimination or reduction of symptoms, arresting or slowing disease, preventing disease or symptoms.\n2. Features: patient-centred; pharmacist accepts responsibility for outcomes; documented; continuous.\n3. Process: assessment of drug-related needs → identify DRPs → care plan (goals, interventions, monitoring) → implementation with patient and team → follow-up evaluation → repeat.\n4. Renal impairment: renally cleared drugs (aminoglycosides, vancomycin, digoxin, lithium) accumulate; estimate creatinine clearance by Cockcroft–Gault [(140 − age) × weight / (72 × serum creatinine), × 0.85 for women]; reduce dose and/or extend interval; TDM; avoid nephrotoxins.\n5. Hepatic impairment: no single predictive test; lower doses or alternatives, close monitoring; low albumin increases free drug.\n6. Paediatrics: immature organs, different body water; dose by weight or BSA; suitable forms.\n7. Elderly: reduced renal function, altered body composition, more sensitivity, polypharmacy – start low, go slow, review need, Beers criteria.\n8. Pregnancy/lactation, obesity (ideal vs actual body weight), heart failure, critical illness also alter kinetics.\n9. Dosing patterns: loading dose for long half-life drugs, maintenance dose, continuous infusion, extended-interval dosing; steady state in 4–5 half-lives with maintenance dosing alone."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What are over-the-counter medicines? Discuss the position of OTC drugs in India, the role of the pharmacist in responding to symptoms, and the rational use of common OTC medications.",
+      "answer": "1. Definition: medicines that can be bought without a prescription for self-medication of minor, self-limiting conditions; safe when used as directed.\n2. Indian position: no legal OTC category in the D&C Act and Rules; drugs outside Schedules H, H1 and X may in practice be sold without prescription, mostly still under a sale licence; an OTC policy is under consideration.\n3. Features of a good OTC drug: wide safety margin, low misuse potential, self-recognisable condition, clear labelling, does not mask serious disease.\n4. Responding to symptoms: WWHAM – who is the patient, what symptoms, how long, action taken, medicines already taken; decide to supply, advise or refer.\n5. Red flags for referral: severe, prolonged or recurrent symptoms; infants, pregnant women, frail elderly; blood in stool, vomit, sputum or urine; weight loss; chest pain; high or persistent fever; breathlessness; failed OTC treatment.\n6. Rational use: analgesics (do not exceed labelled amount, hidden paracetamol in combinations, NSAID gastric and renal risk); cough-cold (viral, no antibiotics, sedating antihistamines, short use of nasal decongestants); antacids (separate from other drugs); diarrhoea (ORS first, zinc for children, no antidiarrhoeals in children or bloody diarrhoea); constipation (fibre, fluids, avoid long stimulant laxative use); antihistamines; topical products (avoid potent steroid combinations); vitamins and iron (store safely).\n7. General rules: correct identification, shortest course, read label, avoid duplicate ingredients, check interactions, care in special groups, refer when in doubt, recognise misuse."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the steps in budget preparation and implementation for a hospital pharmacy.",
+      "answer": "1. Budget: financial plan of expected income and expenditure for a period (financial year); tool for planning and control.\n2. Types: operating (drugs, salaries, maintenance), capital (equipment, alterations), personnel, cash; approaches – incremental and zero-based.\n3. Preparation: collect past consumption and expenditure data → forecast changes (new services, patient load, formulary changes, prices, staff) → estimate expenditure by heads and income → draft with justification → discuss with administrator/finance committee → approval by governing body.\n4. Implementation: allot amounts to heads; purchase within limits; compare actual with budget monthly or quarterly (variance analysis); find and correct causes; cost-saving measures (formulary, generics, ABC/VED, less expiry); revise if needed; use data for next year."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are drug-related problems? Explain pharmacist interventions with examples.",
+      "answer": "1. Drug-related problem: an event involving drug therapy that actually or potentially interferes with desired health outcomes.\n2. Types: untreated indication; drug without indication; wrong (less effective or unsafe) drug; dose too low; dose too high; adverse drug reaction; drug interaction; non-adherence; duplication.\n3. Intervention: any pharmacist action leading to change in management – e.g. suggesting dose reduction for low creatinine clearance, stopping a duplicate drug, adding prophylaxis, changing an interacting drug, counselling a non-adherent patient, reporting an ADR.\n4. Process: identify → discuss with prescriber with evidence → record acceptance → monitor outcome → document (shows value of the service)."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the role of the clinical pharmacist in ward round participation.",
+      "answer": "1. Before round: review medication charts, lab results, drug levels and new admissions; list problems to discuss.\n2. During round: present relevant drug information; suggest changes in drug, dose, route or monitoring; answer questions on interactions, ADRs, compatibility; note new orders.\n3. Observe patients for response and side effects.\n4. After round: follow up suggestions, check new orders, counsel patients, communicate with nurses, document interventions and outcomes.\n5. Benefits: fewer prescribing errors, rational and cost-effective therapy, better team learning, improved patient outcomes."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the WWHAM approach and list situations where a pharmacist should refer a patient to a doctor instead of selling an OTC product.",
+      "answer": "1. WWHAM: Who is the patient (age, pregnancy, other conditions); What are the symptoms; How long have they been present; Action already taken; Medicines already being taken.\n2. Purpose: decide whether to supply, give advice only, or refer.\n3. Refer when: symptoms severe, prolonged or recurrent; infants, pregnant women, frail elderly; blood in stool, vomit, sputum or urine; unexplained weight loss; chest pain; high or persistent fever; breathlessness; difficulty swallowing; OTC treatment has failed; possible ADR from prescribed drug; suspected misuse."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define pharmaceutical care.",
+      "answer": "The responsible provision of drug therapy for the purpose of achieving definite outcomes that improve a patient's quality of life (Hepler and Strand, 1990)."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the Cockcroft–Gault equation.",
+      "answer": "CrCl (mL/min) = (140 − age in years) × body weight (kg) / (72 × serum creatinine in mg/dL); multiply by 0.85 for women. It estimates creatinine clearance for renal dose adjustment."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is inventory control? Describe the principles of purchase, purchase procedure, economic order quantity and reorder level, with a worked example.",
+      "answer": "1. Definition: scientific management of stock so the right items are available in the right quantity at the right time at lowest total cost; objectives – no stock-outs, minimum capital locked, least expiry and pilferage, low costs, accurate records.\n2. Principles of purchase: quality from licensed reliable suppliers; right quantity at right time; best price through competition, bulk buying, rate contracts; generic formulary drugs; transparent rules.\n3. Methods: open tender, limited tender, single tender, negotiated purchase, rate contract, direct purchase, centralised purchase.\n4. Procedure: need identified (reorder level) → specifications → purchase committee approval → tender/quotations → comparison and selection → purchase order → delivery → receipt and inspection (quantity, quality, batch, expiry, documents) → goods received note, stock entry → payment.\n5. EOQ: order size at which total ordering + carrying cost is lowest; EOQ = √(2AO/C), A annual demand, O ordering cost per order, C carrying cost per unit per year.\n6. Example: A = 4,000 vials, O = ₹200, C = ₹4 → EOQ = √(2 × 4000 × 200 / 4) = √400000 ≈ 632 vials; about 6 orders a year.\n7. Reorder level = maximum usage × maximum lead time, or average usage × lead time + safety stock (e.g. 20/day × 10 days + 100 = 300 units); reorder quantity = EOQ; minimum level = ROL − normal usage × normal lead time; maximum level = ROL + ROQ − minimum usage × minimum lead time.\n8. Assumptions of EOQ: steady demand, fixed lead time, constant price; adjust for pack size, discounts, shelf life."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the methods used for analysis of drug expenditure. Explain ABC and VED analysis and the ABC–VED matrix in detail.",
+      "answer": "1. Purpose: identify where money is spent and which items need most control, balancing cost and availability.\n2. ABC analysis (always better control) by annual consumption value: list items with annual quantity and unit cost → annual value → arrange descending → cumulative % of value and items → classify.\n3. Class A: about 10–20% of items, 70–80% of value – strict control, frequent small orders, close monitoring by senior staff. Class B: about 20–30% items, 15–20% value – moderate control. Class C: about 50–70% items, 5–10% value – simple control, bulk orders.\n4. VED analysis by criticality: vital (life-saving; never out of stock – emergency drugs, anti-snake venom, oxygen), essential (important, not immediately life-threatening), desirable (shortage causes little harm).\n5. ABC–VED matrix: category I (AV, AE, AD, BV, CV) – closest management; category II (BE, CE, BD); category III (CD) – least attention; avoids cutting cost on vital cheap items.\n6. Other analyses: FSN (fast, slow, non-moving), SDE (scarce, difficult, easy), HML (unit price), XYZ (value of stock in hand), VEN (WHO).\n7. Other tools: drug utilisation review, therapeutic category expenditure, cost per patient-day, DDD studies, pharmacoeconomic comparisons.\n8. Benefits: lower expenditure, less dead stock and expiry, availability of vital drugs."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the investigational use of drugs in a hospital – description, principles, classification, control, identification, role of the hospital pharmacist and the advisory committee.",
+      "answer": "1. Description: new drug, or approved drug for a new use, dose, form or route, under clinical study and not approved for that use; in India governed by the New Drugs and Clinical Trials Rules, 2019, with approval of the Central Licensing Authority (CDSCO).\n2. Principles: scientific need and protocol; ethics (Declaration of Helsinki, GCP, ICMR National Ethical Guidelines); voluntary written informed consent (audio-video in certain cases); ethics committee and regulatory approval; safety monitoring and SAE reporting; compensation for trial injury; confidentiality and records.\n3. Classification (phases): I – small number of healthy volunteers (patients for toxic drugs), safety and PK; II – small patient groups, efficacy and dose; III – large randomised controlled multicentre trials, confirm efficacy and safety; IV – post-marketing surveillance.\n4. Control: approved protocol, sites and investigators; sponsor-supplied drug used only for enrolled subjects; separate restricted storage; accountability records; return or destruction as per protocol; audits.\n5. Identification: labelled for clinical trial use only, with protocol number, code, batch, storage, expiry or retest date, sponsor; blinded labels with emergency code-break.\n6. Pharmacist's role: receive and record supplies; correct storage with temperature logs; dispense only on investigator's order; maintain randomisation and blinding; accountability and reconciliation; prepare doses; information to staff; adverse event reporting; returns and destruction; serve on committees.\n7. Advisory committee: Institutional Ethics Committee (multidisciplinary, includes lay person, legal expert, social scientist, at least one woman; registered with the regulator) with PTC/research committee – approves and monitors trials and protects participants."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the organisation of a hospital drug store, types of materials stocked and their storage conditions.",
+      "answer": "1. Central store run by chief pharmacist or pharmacist store-in-charge with store keepers and clerks; flow: supplier → receiving and inspection → quarantine if needed → main store → issue on indent to pharmacy, wards, OT, ICU, with stock records.\n2. Requirements: central location with vehicle access, space, racks and pallets off floor and walls, protection from heat, light, moisture, pests; fire safety; security.\n3. Materials: oral, parenteral, topical drugs; IV fluids; surgical items and dressings; vaccines, insulin and biologicals; chemicals and reagents; flammables; controlled drugs; radiopharmaceuticals in some hospitals; medical gases.\n4. Storage: cold 2–8 °C (refrigerator, temperature log, no freezing of freeze-sensitive vaccines); cool 8–25 °C; room temperature as labelled; systematic arrangement; FEFO; light- and moisture-sensitive protection; separate fire-proof flammable store; double-locked controlled drugs; look-alike sound-alike segregation; quarantine area."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the interpretation of liver function tests and kidney function tests, with their drug relevance.",
+      "answer": "1. Liver function tests: total bilirubin about 0.3–1.2 mg/dL (raised in jaundice); ALT (SGPT) up to about 40 U/L – more liver-specific, raised in hepatitis and drug-induced liver injury (isoniazid, paracetamol overdose); AST up to about 40 U/L (liver, heart, muscle); alkaline phosphatase about 40–130 U/L (cholestasis, bone disease); total protein 6–8 g/dL, albumin 3.5–5 g/dL (low in liver disease, malnutrition – more free drug for highly bound drugs like phenytoin).\n2. Kidney function tests: serum creatinine about 0.6–1.2 mg/dL (renal failure, dehydration; used for creatinine clearance and dose adjustment); blood urea about 15–40 mg/dL (renal failure, dehydration, GI bleed); uric acid about 3–7 mg/dL (gout, thiazides, tumour lysis); electrolytes Na 135–145, K 3.5–5.0 mEq/L.\n3. Drug relevance: dose adjustment of renally cleared drugs; stopping hepatotoxic drugs; monitoring nephrotoxic drugs; ranges vary by laboratory."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the haematological tests and their significance in drug therapy.",
+      "answer": "1. Haemoglobin: men about 13–17, women about 12–15 g/dL – low in anaemia, bleeding.\n2. RBC indices: MCV about 80–100 fL – low in iron deficiency, high in B12/folate deficiency, methotrexate, alcohol; MCH, MCHC low in hypochromic anaemia; reticulocytes rise with response to iron.\n3. WBC 4,000–11,000/µL: leucocytosis in infection; leucopenia or agranulocytosis with anticancer drugs, clozapine, carbimazole. Differential: neutrophilia – bacterial infection; lymphocytosis – viral; eosinophilia – allergy, parasites.\n4. Platelets 1.5–4.5 lakh/µL: thrombocytopenia with heparin, some antibiotics, anticancer drugs.\n5. ESR: men 0–15, women 0–20 mm/h – non-specific inflammation marker.\n6. PT/INR monitors warfarin; aPTT monitors unfractionated heparin."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain urinalysis and the significance of abnormal findings.",
+      "answer": "1. Physical: volume about 0.8–2 L/day (polyuria in diabetes, diuretics; oliguria in renal failure, dehydration); colour pale yellow (red with blood or rifampicin, dark with bilirubin, cloudy with infection); specific gravity 1.005–1.030; pH about 4.5–8.\n2. Chemical (dipstick): protein absent (proteinuria in kidney disease, nephrotoxic drugs); glucose absent (diabetes, SGLT2 inhibitors); ketones absent (ketoacidosis, starvation); bilirubin absent; blood absent (stones, infection, anticoagulant excess); nitrite and leucocyte esterase negative (positive in UTI).\n3. Microscopy: few epithelial cells, 0–2 RBC and 0–5 WBC per high-power field, occasional hyaline casts; pyuria in UTI; RBC casts in glomerulonephritis; crystals in stones or drug crystalluria (sulphonamides)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the formula for economic order quantity and define its terms.",
+      "answer": "EOQ = √(2AO/C), where A = annual demand in units, O = cost of placing one order, C = carrying cost per unit per year. It is the order size with the lowest total of ordering and carrying costs."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is VED analysis?",
+      "answer": "Classification of inventory items by their criticality to patient care: Vital (life-saving, must never be out of stock), Essential (important) and Desirable (shortage causes little harm)."
+    }
+  ]
+}

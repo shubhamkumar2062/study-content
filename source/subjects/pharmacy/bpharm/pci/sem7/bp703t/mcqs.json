@@ -1,0 +1,746 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "A Primary Health Centre is an example of which level of health care?",
+      "options": [
+        "Primary care",
+        "Secondary care",
+        "Tertiary care",
+        "Quaternary care"
+      ],
+      "correct": 0,
+      "explanation": "PHCs and sub-centres are the first point of contact – primary level.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "A hospital treating only cancer patients is classified on a clinical basis as a:",
+      "options": [
+        "General hospital",
+        "Speciality hospital",
+        "Teaching hospital",
+        "Long-stay non-clinical hospital"
+      ],
+      "correct": 1,
+      "explanation": "Classification by the disease treated gives general vs speciality hospitals.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The most suitable location for the hospital pharmacy is:",
+      "options": [
+        "Top floor, away from patients",
+        "Basement, near the mortuary",
+        "Ground floor, near the OPD and emergency",
+        "Inside the operation theatre complex"
+      ],
+      "correct": 2,
+      "explanation": "Ground floor near OPD gives easy access to out-patients, wards and deliveries.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Haemolysis with primaquine in a patient with G6PD deficiency is an example of:",
+      "options": [
+        "Excessive pharmacological effect",
+        "Allergic reaction",
+        "Withdrawal toxicity",
+        "Genetically determined toxicity"
+      ],
+      "correct": 3,
+      "explanation": "An inherited enzyme deficiency causes the reaction.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Rebound hypertension after sudden stopping of clonidine is classified as:",
+      "options": [
+        "Toxicity following sudden withdrawal",
+        "Idiosyncrasy",
+        "Secondary pharmacological effect",
+        "Allergic drug reaction"
+      ],
+      "correct": 0,
+      "explanation": "Abrupt withdrawal produces rebound effects.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The National Coordination Centre of the Pharmacovigilance Programme of India is located at:",
+      "options": [
+        "CDSCO headquarters, Mumbai",
+        "Indian Pharmacopoeia Commission, Ghaziabad",
+        "AIIMS, Patna",
+        "Central Drugs Laboratory, Chennai"
+      ],
+      "correct": 1,
+      "explanation": "PvPI (2010) is coordinated by the IPC, Ghaziabad.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "On the Naranjo algorithm, a total score of 9 or more indicates that the ADR is:",
+      "options": [
+        "Probable",
+        "Possible",
+        "Definite",
+        "Doubtful"
+      ],
+      "correct": 2,
+      "explanation": "≥9 definite, 5–8 probable, 1–4 possible, ≤0 doubtful.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The main drawback of spontaneous ADR reporting is:",
+      "options": [
+        "Very high cost",
+        "It cannot detect rare reactions",
+        "It is limited to hospital patients only",
+        "Under-reporting, so incidence cannot be calculated"
+      ],
+      "correct": 3,
+      "explanation": "Spontaneous reporting is cheap and wide but heavily under-reported.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Probenecid prolonging the action of penicillin is an example of a beneficial interaction at the level of:",
+      "options": [
+        "Renal excretion",
+        "Absorption",
+        "Plasma protein binding",
+        "Hepatic enzyme induction"
+      ],
+      "correct": 0,
+      "explanation": "Probenecid competes for tubular secretion of penicillin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Retail sale of drugs in Schedule C and C1 (other than Schedule X) requires a licence in Form:",
+      "options": [
+        "20B",
+        "21",
+        "20F",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "Form 21 covers C and C1 drugs; Form 20 covers other drugs; 20B/21B are wholesale; 20F is Schedule X retail.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Under the Drugs and Cosmetics Rules, the Schedule H1 register must be kept for:",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correct": 2,
+      "explanation": "H1 records are preserved for three years.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In the unit dose drug distribution system, the supply at a time usually does not exceed:",
+      "options": [
+        "7 days",
+        "48 hours",
+        "One month",
+        "24 hours"
+      ],
+      "correct": 3,
+      "explanation": "Unit doses are dispensed for not more than a 24-hour period.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The drug distribution system with the greatest risk of medication errors and pilferage is:",
+      "options": [
+        "Complete floor stock system",
+        "Unit dose system",
+        "Individual prescription order system",
+        "Automated dispensing with barcodes"
+      ],
+      "correct": 0,
+      "explanation": "Floor stock has no pharmacist review and large ward stocks.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Cheap, commonly used items such as antiseptics kept on the ward without billing patients form:",
+      "options": [
+        "Charged floor stock",
+        "Non-charged floor stock",
+        "Unit dose stock",
+        "Investigational stock"
+      ],
+      "correct": 1,
+      "explanation": "Non-charged (free) floor stock is not charged to individual patients.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The hospital formulary is prepared by the:",
+      "options": [
+        "Infection Control Committee",
+        "Purchase Committee alone",
+        "Pharmacy and Therapeutics Committee",
+        "Drugs Technical Advisory Board"
+      ],
+      "correct": 2,
+      "explanation": "The PTC prepares and revises the formulary.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "A hospital formulary differs from a drug list because the formulary:",
+      "options": [
+        "Lists only brand names",
+        "Is prepared by suppliers",
+        "Is never revised",
+        "Contains policies and information on drug use as well as names"
+      ],
+      "correct": 3,
+      "explanation": "A drug list gives only names; the formulary is also a policy and information document.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "TDM is most useful for drugs that have:",
+      "options": [
+        "A narrow therapeutic index",
+        "A very wide safety margin",
+        "An easily measured clinical effect",
+        "No relation between level and effect"
+      ],
+      "correct": 0,
+      "explanation": "Narrow therapeutic index drugs need concentration monitoring.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which drug is commonly subjected to therapeutic drug monitoring?",
+      "options": [
+        "Paracetamol in therapeutic use",
+        "Lithium",
+        "Amoxicillin",
+        "Omeprazole"
+      ],
+      "correct": 1,
+      "explanation": "Lithium has a narrow therapeutic index and needs level monitoring.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "For TDM, blood samples are ideally taken at steady state, which is reached after about:",
+      "options": [
+        "1 half-life",
+        "10–12 half-lives",
+        "4–5 half-lives",
+        "Half a half-life"
+      ],
+      "correct": 2,
+      "explanation": "Steady state is reached in about 4–5 half-lives.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which is a direct method of assessing medication adherence?",
+      "options": [
+        "Pill count",
+        "Patient self-report",
+        "Refill records",
+        "Measuring drug levels in blood"
+      ],
+      "correct": 3,
+      "explanation": "Drug or marker levels and DOT are direct methods.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The main purpose of medication reconciliation at admission is to:",
+      "options": [
+        "Match the patient's home medicines with the admission orders",
+        "Fix the price of drugs",
+        "Prepare the hospital budget",
+        "Select drugs for the formulary"
+      ],
+      "correct": 0,
+      "explanation": "Reconciliation prevents omissions, duplications and errors at transfer of care.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "In the Pharmacy and Therapeutics Committee, the secretary is usually the:",
+      "options": [
+        "Medical superintendent",
+        "Chief pharmacist",
+        "Nursing superintendent",
+        "Hospital accountant"
+      ],
+      "correct": 1,
+      "explanation": "The chief pharmacist acts as secretary; a physician is usually chairman.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "A policy under which narcotics or antibiotics are discontinued after a fixed period unless re-ordered is called:",
+      "options": [
+        "Standing order",
+        "Emergency drug list",
+        "Automatic stop order",
+        "Formulary deletion"
+      ],
+      "correct": 2,
+      "explanation": "The automatic stop order prevents unnecessarily prolonged therapy.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "MEDLINE/PubMed is an example of a:",
+      "options": [
+        "Primary source",
+        "Tertiary source",
+        "Legal source",
+        "Secondary source of drug information"
+      ],
+      "correct": 3,
+      "explanation": "Indexing and abstracting services are secondary sources.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Martindale: The Complete Drug Reference is a:",
+      "options": [
+        "Tertiary source",
+        "Primary source",
+        "Secondary source",
+        "Indexing service"
+      ],
+      "correct": 0,
+      "explanation": "Compendia and textbooks are tertiary sources.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The National Poisons Information Centre in India is located at:",
+      "options": [
+        "IPC, Ghaziabad",
+        "AIIMS, New Delhi",
+        "CDL, Kolkata",
+        "NIPER, Mohali"
+      ],
+      "correct": 1,
+      "explanation": "The NPIC functions at AIIMS, New Delhi.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "In patient counselling, asking the patient to repeat or demonstrate what was explained is called:",
+      "options": [
+        "Feedback suppression",
+        "Closed questioning",
+        "Teach-back",
+        "Encoding"
+      ],
+      "correct": 2,
+      "explanation": "Teach-back checks understanding.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Which of the following is one of the 'three prime questions' used in counselling?",
+      "options": [
+        "What is your monthly income?",
+        "Which brand do you prefer?",
+        "Who is your pharmacist?",
+        "What did your doctor tell you this medicine is for?"
+      ],
+      "correct": 3,
+      "explanation": "The three prime questions cover purpose, how to take, and what to expect.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "In a prescription, the part that gives directions to the patient is the:",
+      "options": [
+        "Signatura",
+        "Superscription",
+        "Inscription",
+        "Subscription"
+      ],
+      "correct": 0,
+      "explanation": "Signatura (Sig.) contains directions to the patient.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The symbol Rx in a prescription is called the:",
+      "options": [
+        "Inscription",
+        "Superscription",
+        "Subscription",
+        "Signatura"
+      ],
+      "correct": 1,
+      "explanation": "Rx is the superscription.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The abbreviation 'h.s.' on a prescription means:",
+      "options": [
+        "Every hour",
+        "Half strength",
+        "At bedtime",
+        "After meals"
+      ],
+      "correct": 2,
+      "explanation": "h.s. = hora somni, at bedtime.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Pharmaceutical care was defined by:",
+      "options": [
+        "Rawlins and Thompson",
+        "Naranjo and Busto",
+        "Cockcroft and Gault",
+        "Hepler and Strand"
+      ],
+      "correct": 3,
+      "explanation": "Hepler and Strand defined pharmaceutical care in 1990.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The Cockcroft–Gault equation is used to estimate:",
+      "options": [
+        "Creatinine clearance",
+        "Hepatic blood flow",
+        "Body surface area",
+        "Plasma protein binding"
+      ],
+      "correct": 0,
+      "explanation": "It estimates creatinine clearance from age, weight and serum creatinine.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In the Cockcroft–Gault equation the result is multiplied by 0.85 for:",
+      "options": [
+        "Children",
+        "Women",
+        "Elderly men",
+        "Obese patients"
+      ],
+      "correct": 1,
+      "explanation": "A factor of 0.85 corrects for lower muscle mass in women.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "A budget that requires every activity to be justified afresh each year is called:",
+      "options": [
+        "Incremental budget",
+        "Capital budget",
+        "Zero-based budget",
+        "Cash budget"
+      ],
+      "correct": 2,
+      "explanation": "Zero-based budgeting starts from zero every year.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Purchase of a laminar air-flow unit for the pharmacy is included in the:",
+      "options": [
+        "Operating budget",
+        "Cash budget",
+        "Personnel budget",
+        "Capital budget"
+      ],
+      "correct": 3,
+      "explanation": "Long-life equipment is a capital item.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Comparing actual expenditure with budgeted amounts at intervals is called:",
+      "options": [
+        "Variance analysis",
+        "ABC analysis",
+        "Zero-based budgeting",
+        "Forecasting"
+      ],
+      "correct": 0,
+      "explanation": "Variance analysis is the main control step in budget implementation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Reviewing each patient's treatment chart daily for indication, dose, interactions and administration problems is called:",
+      "options": [
+        "Budget review",
+        "Medication chart review",
+        "Formulary revision",
+        "Purchase review"
+      ],
+      "correct": 1,
+      "explanation": "Medication chart review is a core clinical pharmacy activity.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "In India, the legal status of OTC drugs is best described as:",
+      "options": [
+        "A separate Schedule OTC in the Drugs and Cosmetics Rules",
+        "All drugs need a prescription",
+        "No separate legal OTC category; drugs outside Schedules H, H1 and X are sold without prescription",
+        "OTC drugs are regulated only by the NDPS Act"
+      ],
+      "correct": 2,
+      "explanation": "The D&C Act has no defined OTC category; a policy is under consideration.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "In the WWHAM method of responding to symptoms, 'A' stands for:",
+      "options": [
+        "Age of patient",
+        "Allergy history",
+        "Antibiotic prescribed",
+        "Action already taken"
+      ],
+      "correct": 3,
+      "explanation": "WWHAM = Who, What, How long, Action taken, Medicines.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The first-line treatment a pharmacist should recommend for acute watery diarrhoea is:",
+      "options": [
+        "Oral rehydration salts",
+        "An antibiotic",
+        "Loperamide for all ages",
+        "A stimulant laxative"
+      ],
+      "correct": 0,
+      "explanation": "ORS prevents and treats dehydration; antidiarrhoeals are not for children.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "According to pharmacopoeial storage terms, 'cold' means a temperature of:",
+      "options": [
+        "8–25 °C",
+        "2–8 °C",
+        "25–30 °C",
+        "Below −20 °C only"
+      ],
+      "correct": 1,
+      "explanation": "Cold = refrigerator temperature 2–8 °C; cool = 8–25 °C.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Economic order quantity is the order size at which:",
+      "options": [
+        "Ordering cost is highest",
+        "Carrying cost is zero",
+        "Total ordering and carrying cost is lowest",
+        "Stock-out cost is highest"
+      ],
+      "correct": 2,
+      "explanation": "EOQ minimises the total of ordering and carrying costs.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "If annual demand is 4,000 units, ordering cost ₹200 per order and carrying cost ₹4 per unit per year, the EOQ is about:",
+      "options": [
+        "400 units",
+        "1,000 units",
+        "200 units",
+        "632 units"
+      ],
+      "correct": 3,
+      "explanation": "√(2 × 4000 × 200 / 4) = √400000 ≈ 632.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "In ABC analysis, class A items are:",
+      "options": [
+        "Few items that account for most of the expenditure",
+        "Many cheap items with little expenditure",
+        "Vital life-saving items",
+        "Non-moving items"
+      ],
+      "correct": 0,
+      "explanation": "A items are about 10–20% of items and 70–80% of annual value.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "VED analysis classifies items on the basis of their:",
+      "options": [
+        "Unit price",
+        "Criticality to patient care",
+        "Annual consumption value",
+        "Speed of movement"
+      ],
+      "correct": 1,
+      "explanation": "Vital, Essential, Desirable reflects importance to care.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "FSN analysis is based on:",
+      "options": [
+        "Unit cost",
+        "Ease of procurement",
+        "Movement (rate of consumption) of items",
+        "Criticality"
+      ],
+      "correct": 2,
+      "explanation": "Fast-moving, Slow-moving, Non-moving.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Reorder level is commonly calculated as:",
+      "options": [
+        "Minimum usage × minimum lead time",
+        "Annual demand ÷ 12",
+        "EOQ × 2",
+        "Maximum usage × maximum lead time"
+      ],
+      "correct": 3,
+      "explanation": "ROL = maximum usage × maximum lead time (or average usage × lead time + safety stock).",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Clinical trials of new drugs in India are currently governed by the:",
+      "options": [
+        "New Drugs and Clinical Trials Rules, 2019",
+        "Schedule Y alone",
+        "Pharmacy Act, 1948",
+        "Drugs Price Control Order, 2013"
+      ],
+      "correct": 0,
+      "explanation": "The NDCT Rules 2019 replaced Schedule Y for clinical trials.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A phase I clinical trial is mainly done to study:",
+      "options": [
+        "Long-term post-marketing safety",
+        "Safety, tolerability and pharmacokinetics",
+        "Large-scale confirmation of efficacy",
+        "Cost-effectiveness only"
+      ],
+      "correct": 1,
+      "explanation": "Phase I is first-in-human testing for safety and PK.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Which test is used to monitor warfarin therapy?",
+      "options": [
+        "ESR",
+        "Serum amylase",
+        "INR (prothrombin time)",
+        "Urine specific gravity"
+      ],
+      "correct": 2,
+      "explanation": "Warfarin is monitored by INR.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "A raised MCV (macrocytosis) is typically seen in:",
+      "options": [
+        "Iron deficiency anaemia",
+        "Acute bacterial infection",
+        "Dehydration",
+        "Vitamin B12 or folate deficiency"
+      ],
+      "correct": 3,
+      "explanation": "Iron deficiency gives low MCV; B12/folate deficiency gives high MCV.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "A positive nitrite test on urine dipstick suggests:",
+      "options": [
+        "Urinary tract infection",
+        "Diabetes mellitus",
+        "Liver disease",
+        "Dehydration"
+      ],
+      "correct": 0,
+      "explanation": "Many bacteria convert nitrate to nitrite.",
+      "probability": "medium"
+    }
+  ]
+}
