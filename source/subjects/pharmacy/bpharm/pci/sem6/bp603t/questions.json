@@ -1,0 +1,509 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define herb, herbal material, herbal preparation and finished herbal product. Describe good agricultural and collection practices (GACP) for medicinal plants.",
+      "answer": "1. Definitions:\n   - Herb: crude plant material — leaves, flowers, fruits, seeds, stems, wood, bark, roots, rhizomes — whole, cut or powdered (dried senna leaf).\n   - Herbal material: herbs plus juices, gums, fixed and volatile oils, resins and dry powders, sometimes processed by local methods (acacia gum, aloe juice).\n   - Herbal preparation: herbal material processed by extraction, distillation, expression, fractionation, concentration or fermentation (tinctures, dry extracts, fatty oils).\n   - Finished herbal product: herbal preparation(s) made into a dosage form ready for use, with or without excipients (Triphala churna, ashwagandha tablets).\n2. GACP aims at safe, good-quality, consistent and traceable raw material. Main points:\n   - Identity: correct botanical identity of seed and planting material; voucher specimen.\n   - Site: soil and water free from heavy metals, pesticides and sewage; suitable climate; land history known.\n   - Seed and propagation material: certified, disease-free, traceable.\n   - Cultivation: correct spacing, clean irrigation water, organic manure preferred, crop rotation.\n   - Crop protection: minimum, approved pesticides; integrated pest management; biopesticides.\n   - Harvest: right part, stage, season and time; dry weather; clean tools; damaged plants removed.\n   - Primary processing: prompt cleaning and drying on clean surfaces; protection from animals and insects.\n   - Packing, storage and transport: clean labelled containers, dry ventilated store, no mixing.\n   - Personnel: trained, healthy workers with hygiene facilities and protective clothing.\n   - Wild collection: permission, sustainable amounts, no endangered species.\n   - Documentation: records of seed, field, inputs, harvest and processing so every batch can be traced.\n3. Benefits: uniform active content, freedom from contaminants, conservation of wild resources, acceptance in export markets."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the method of preparation and standardisation of Asava and Arishta. How do they differ?",
+      "answer": "1. Definition: Asava and Arishta are Ayurvedic liquid preparations in which self-produced alcohol, formed by fermentation of sugar, extracts the drugs and preserves the product.\n2. Difference: Asava — drugs (or their juices/powders) are used without boiling (cold process), e.g. Drakshasava, Kumaryasava. Arishta — a decoction (kwatha) of the drugs is made first, then fermented (hot process), e.g. Dashamularishta, Ashokarishta, Arjunarishta.\n3. Method:\n   - Prepare the decoction (Arishta) or cold liquid (Asava); strain.\n   - Dissolve jaggery, sugar or honey (source of sugar for fermentation).\n   - Add dhataki flowers (Woodfordia fruticosa), the traditional fermentation initiator carrying natural yeasts, and powdered prakshepa dravya (aromatic drugs).\n   - Fill into a clean, fumigated wooden vat or earthen/glazed vessel, leaving head space; seal.\n   - Keep in a quiet warm place for the period in the text (about a month).\n   - End point: bubbling stops, a lit match near the mouth is not put out, liquid becomes clear with a characteristic aroma.\n   - Decant, filter, allow to settle, bottle.\n4. Standardisation:\n   - Organoleptic: colour, odour, taste, clarity.\n   - pH, specific gravity, total solids.\n   - Alcohol content by distillation (within monograph limits; only self-produced).\n   - Test for absence of methanol.\n   - Reducing and non-reducing sugars.\n   - TLC/HPTLC fingerprint for ingredients.\n   - Microbial limits, heavy metals, pesticide residues.\n5. Advantages: good keeping quality, quick absorption, pleasant taste."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the basic principles of Ayurveda, Siddha, Unani and Homoeopathy.",
+      "answer": "1. Ayurveda (science of life; Charaka, Sushruta Samhitas):\n   - Panchamahabhuta: earth, water, fire, air, space make up body and drugs.\n   - Tridosha: vata (movement), pitta (metabolism, heat), kapha (structure, lubrication); health = balance.\n   - Sapta dhatu (rasa, rakta, mamsa, meda, asthi, majja, shukra), mala (wastes), agni (digestive fire; ama when weak), prakriti (constitution).\n   - Drug action by rasa, guna, virya, vipaka, prabhava. Treatment: shodhana (Panchakarma), shamana, diet, rasayana.\n2. Siddha (Tamil Nadu; Siddhars, Agastya):\n   - Five elements and three humours (vatham, pitham, kapham); 96 thathuvas.\n   - Eight-fold diagnosis (envagai thervu) — pulse, tongue, colour, voice, eyes, touch, urine, stools.\n   - Heavy use of metals and minerals (parpam, chendooram) with herbs.\n3. Unani (Greek origin; Hippocrates, Galen, Ibn Sina):\n   - Four humours: dam, balgham, safra, sauda.\n   - Temperament (mizaj): hot, cold, moist, dry.\n   - Six essentials for health: air, food and drink, movement and rest, mental activity and rest, sleep and wakefulness, retention and evacuation.\n   - Self-healing power of the body; regimental, diet, drug therapy and surgery.\n4. Homoeopathy (Samuel Hahnemann):\n   - Law of similars (similia similibus curentur).\n   - Drug proving on healthy volunteers.\n   - Single remedy, minimum dose, individualisation.\n   - Potentisation by serial dilution with succussion or trituration (X and C scales); mother tinctures from plants."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on biodynamic agriculture.",
+      "answer": "1. A form of organic farming based on Rudolf Steiner's lectures (1924); the farm is treated as a self-sustaining living organism.\n2. No synthetic fertilisers or pesticides; compost and farm manure maintain fertility.\n3. Biodynamic preparations: 500 horn manure (cow dung buried in a horn over winter, sprayed on soil); 501 horn silica (ground quartz in a horn, sprayed on leaves); 502–507 compost preparations from yarrow, chamomile, nettle, oak bark, dandelion and valerian.\n4. Sowing and harvest timed by a planetary/lunar calendar.\n5. Crop rotation, mixed cropping, livestock integration.\n6. Value: residue-free medicinal plants, better soil health; some practices lack scientific proof."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are biopesticides? Give examples with their sources and uses in medicinal plant cultivation.",
+      "answer": "1. Biopesticides are pest-control agents from living organisms or natural products; they are specific, degrade quickly and leave little residue.\n2. Botanical: neem seed — azadirachtin (antifeedant, growth regulator); pyrethrum flowers — pyrethrins (knock-down); Derris roots — rotenone; tobacco — nicotine.\n3. Microbial insecticides: Bacillus thuringiensis (crystal toxin against caterpillars); fungi Beauveria bassiana and Metarhizium anisopliae; nuclear polyhedrosis viruses against Helicoverpa and Spodoptera.\n4. Biofungicides: Trichoderma viride/harzianum, Pseudomonas fluorescens for soil-borne diseases.\n5. Pheromone traps for monitoring and mass trapping.\n6. Used within integrated pest management so medicinal plants carry no harmful pesticide residue."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the preparation and standardisation of Bhasma.",
+      "answer": "1. Bhasma: fine powder obtained by repeated incineration of purified metals, minerals or shells with herbal juices (Swarna, Abhraka, Lauha, Yashada, Shankha bhasma).\n2. Steps: shodhana (purification by heating and quenching in oil, buttermilk, cow's urine, decoctions) → bhavana (trituration with herbal juices), small cakes dried → marana (cakes sealed in sarava samputa and heated with cow-dung cakes, puta), repeated many times.\n3. Classical tests: rekhapurnatva (fills finger lines), varitara (floats on water), nishchandratva (no lustre), apunarbhava/nirutthatva (does not revert to metal), nirdhuma (no fumes), tasteless.\n4. Modern tests: particle size, XRD, SEM, elemental analysis by AAS/ICP, loss on drying, acid-insoluble ash, safety studies."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How are herbal raw materials selected, identified and authenticated?",
+      "answer": "1. Selection: correct species and part, chemotype/variety, geographical source, season and time of collection, freedom from contamination, legal and sustainable supply.\n2. Taxonomic identity: voucher specimen compared with herbarium sheet by a botanist; kept with batch record.\n3. Macroscopy/organoleptic: shape, size, colour, fracture, odour, taste.\n4. Microscopy: trichomes, stomata, crystals, starch grains; quantitative microscopy (stomatal index, vein-islet number, palisade ratio).\n5. Physicochemical: ash values, extractive values, moisture, swelling index, foaming index.\n6. Chemical: identification tests, TLC/HPTLC fingerprint against reference, marker assay by HPLC.\n7. DNA methods (barcoding, RAPD) for look-alike or powdered material.\n8. Material held in quarantine until it passes."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about the preparation and evaluation of Churna and Lehya.",
+      "answer": "1. Churna: fine powder of one or more dried drugs, sieved and mixed (Triphala, Sitopaladi, Avipattikar churna). Method: clean, dry, powder separately, pass through a fine sieve, mix in proportion, add salts/sugar last, store airtight.\n2. Evaluation of churna: organoleptic, particle size, loss on drying, total and acid-insoluble ash, water- and alcohol-soluble extractives, pH, bulk density, microscopy of each ingredient, TLC, microbial load, aflatoxins, heavy metals.\n3. Lehya (avaleha): semisolid jam of drugs with jaggery/sugar, ghee or oil, finished with honey (Chyawanprash). Method: prepare decoction/juice → dissolve jaggery and filter → heat with stirring till proper consistency (sinks in water without spreading, thread test) → add powders and ghee → cool, add honey when lukewarm.\n4. Evaluation of lehya: consistency, moisture, ash, pH, reducing and non-reducing sugars, fat content, TLC, microbial limits, heavy metals."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the processing of herbal raw material after harvest.",
+      "answer": "1. Collection of the right part at the right stage in dry weather; diseased or damaged plants rejected.\n2. Cleaning and removal of soil and foreign matter; washing only where allowed.\n3. Drying — most important step: stops enzyme action and mould; shade or low-temperature drying for leaves and flowers to keep colour and volatile oil; higher temperature for roots and barks.\n4. Special treatments: sweating/fermentation (vanilla), boiling (turmeric), peeling (ginger), shodhana of toxic drugs (kupilu, vatsanabha).\n5. Garbling: removal of unwanted parts, stones and insects by hand, sieving or winnowing.\n6. Size reduction if specified.\n7. Packing in clean, labelled containers; storage cool, dry, pest-free; transport and quarantine at the factory."
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain organic farming of medicinal plants and its importance.",
+      "answer": "1. Organic farming grows crops without synthetic fertilisers, synthetic pesticides, growth regulators or GMOs.\n2. Fertility from compost, farmyard manure, vermicompost, green manure, crop rotation and biofertilisers (Rhizobium, Azotobacter, phosphate-solubilising bacteria, mycorrhiza).\n3. Pests controlled by biological and cultural methods and biopesticides.\n4. Certification by accredited bodies; in India under the National Programme for Organic Production.\n5. Importance: no pesticide residues in medicines, export acceptance, better soil health and sustainability."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the role of dhataki flowers in Asava–Arishta preparation?",
+      "answer": "Flowers of Woodfordia fruticosa carry natural yeasts and act as the fermentation initiator, converting the sugar (jaggery) into self-produced alcohol."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are rekhapurnatva and varitara tests?",
+      "answer": "Classical tests for bhasma: rekhapurnatva — the powder fills the lines of the fingertips (fineness); varitara — a little powder floats on still water (fineness and lightness)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define nutraceuticals. Classify them and discuss their role in diabetes, cardiovascular disease and cancer.",
+      "answer": "1. Definition: a nutraceutical is a food or part of a food that gives medical or health benefits, including prevention or treatment of disease, beyond basic nutrition (term coined by Stephen DeFelice, 1989). In India regulated by FSSAI as food.\n2. Classification:\n   - By source: plant (curcumin, lycopene), animal (fish oil, glucosamine), microbial (probiotics, spirulina), mineral.\n   - By chemical nature: polyphenols, carotenoids, dietary fibre, omega-3 fatty acids, phytosterols, glucosinolates, peptides, vitamins and minerals.\n   - By product: dietary supplements, functional foods, herbal/botanical products, probiotics/prebiotics/synbiotics, sports and weight-management products.\n3. Diabetes: fenugreek (galactomannan slows absorption; 4-hydroxyisoleucine raises insulin), bitter gourd, cinnamon, gymnema, fibres (psyllium, guar), chromium — better glucose control, insulin sensitivity.\n4. Cardiovascular disease: omega-3 fatty acids lower triglycerides; garlic lowers cholesterol and platelet aggregation; phytosterols and soluble fibre (oat beta-glucan) lower LDL; flavonoids (cocoa, tea) antioxidant; coenzyme Q10.\n5. Cancer: lycopene, curcumin, green tea EGCG, sulforaphane, resveratrol, selenium, fibre — antioxidant, induce detoxifying enzymes, block proliferation, induce apoptosis.\n6. Nutraceuticals support, but do not replace, prescribed treatment; quality and interactions must be considered."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are herb–drug interactions? Classify them. Discuss the interactions and side effects of Hypericum, Ginkgo biloba and Ephedra.",
+      "answer": "1. Definition: change in the effect of a drug caused by a herb taken at the same time.\n2. Classification:\n   - Pharmacokinetic: absorption (fibre binding), distribution, metabolism (induction or inhibition of CYP450 — mainly CYP3A4 — and conjugation), excretion, P-glycoprotein.\n   - Pharmacodynamic: additive/synergistic or antagonistic effects at the site of action.\n3. Hypericum (St John's wort, Hypericum perforatum; hypericin, hyperforin):\n   - Side effects: photosensitivity, GI upset, restlessness.\n   - Hyperforin induces CYP3A4 and P-gp → lower levels of cyclosporine (rejection), digoxin, warfarin, oral contraceptives (breakthrough bleeding, pregnancy), indinavir, theophylline.\n   - With SSRIs → serotonin syndrome (pharmacodynamic).\n4. Ginkgo biloba (ginkgolides, bilobalide, flavonol glycosides):\n   - Side effects: headache, GI upset, allergy; seeds can cause seizures.\n   - Ginkgolide B antagonises platelet-activating factor → bleeding with warfarin, aspirin, clopidogrel, NSAIDs; stop before surgery.\n5. Ephedra (Ephedra sinica; ephedrine, pseudoephedrine):\n   - Side effects: hypertension, palpitations, arrhythmia, stroke, seizures, insomnia; ephedra supplements banned by the US FDA.\n   - With MAO inhibitors → hypertensive crisis; with caffeine → added cardiac toxicity; with cardiac glycosides or halothane → arrhythmias; opposes antihypertensives.\n6. Pharmacist's role: ask about herbal use, watch narrow-therapeutic-index drugs, report through pharmacovigilance."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the following as health foods: garlic, ginseng, ashwagandha and spirulina.",
+      "answer": "1. Garlic: bulbs of Allium sativum, Liliaceae (Amaryllidaceae). Alliin converted by alliinase to allicin on crushing; ajoenes, diallyl disulphide. Lowers cholesterol and blood pressure, antiplatelet, antimicrobial. Caution: bleeding with anticoagulants, lowers saquinavir.\n2. Ginseng: roots of Panax ginseng / P. quinquefolius, Araliaceae. Ginsenosides (triterpenoid saponins), polysaccharides. Adaptogen, anti-fatigue, improves performance, mild hypoglycaemic. Caution: insomnia, hypertension, interactions with warfarin, MAOIs, antidiabetics.\n3. Ashwagandha: roots of Withania somnifera, Solanaceae. Withanolides (withaferin A), alkaloids, sitoindosides. Rasayana and adaptogen; reduces stress, improves sleep and strength. Caution: sedatives, thyroid drugs, pregnancy.\n4. Spirulina: blue-green alga Spirulina (Arthrospira) platensis. Very high protein with essential amino acids, phycocyanin, beta-carotene, gamma-linolenic acid, iron, B vitamins. Protein supplement in malnutrition, antioxidant, natural blue colour. Caution: microcystin and heavy-metal contamination; B12 largely inactive analogue."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the market, growth and scope of nutraceuticals.",
+      "answer": "1. The nutraceutical market in India and worldwide is large and growing fast.\n2. Reasons: health awareness and preventive care, rise of lifestyle diseases, ageing population, belief in natural products, Ayurveda tradition, easy online and retail access, fitness culture.\n3. Indian strengths: biodiversity, traditional food herbs (turmeric, amla, ginger), manufacturing base.\n4. Challenges: unproven claims, adulteration, poor quality control, limited clinical evidence, interactions with medicines.\n5. Regulation by FSSAI under the Food Safety and Standards Act, 2006.\n6. Scope for pharmacists: formulation, standardisation, regulatory work, research and patient counselling."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the interactions of pepper (piperine) with drugs. What is meant by a bioenhancer?",
+      "answer": "1. Source: fruits of Piper nigrum and P. longum (Piperaceae); alkaloid piperine.\n2. Piperine inhibits CYP3A4, P-glycoprotein and glucuronidation and increases gut blood flow.\n3. Result: higher absorption and blood levels of drugs such as phenytoin, propranolol, theophylline, rifampicin, nevirapine — risk of toxicity with narrow-therapeutic-index drugs.\n4. Bioenhancer: a substance that increases the bioavailability of a drug given with it without having the same action itself. Trikatu (black pepper, long pepper, ginger) is the Ayurvedic example; piperine is combined with curcumin in some products.\n5. Side effect: gastric irritation in large amounts."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the source, constituents and health benefits of fenugreek and amla.",
+      "answer": "1. Fenugreek: seeds of Trigonella foenum-graecum, Fabaceae. Constituents: galactomannan mucilage, steroidal saponins (diosgenin), trigonelline, 4-hydroxyisoleucine, proteins. Benefits: lowers blood glucose and cholesterol, galactagogue, spice. Caution: adds to antidiabetic drugs.\n2. Amla: fruits of Emblica officinalis (Phyllanthus emblica), Euphorbiaceae/Phyllanthaceae. Constituents: vitamin C, hydrolysable tannins (emblicanins, gallic and ellagic acids), flavonoids, pectin. Benefits: antioxidant, immunity, rasayana, in Chyawanprash and Triphala, hair tonic, lipid lowering."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe kava-kava and ginseng with respect to side effects and drug interactions.",
+      "answer": "1. Kava-kava: roots of Piper methysticum, Piperaceae; kavalactones (kavain, methysticin).\n   - Side effects: hepatotoxicity (restricted in several countries), kava dermopathy, drowsiness.\n   - Interactions: additive CNS depression with alcohol, benzodiazepines, barbiturates; may worsen parkinsonism with levodopa; added liver injury with hepatotoxic drugs.\n2. Ginseng: Panax ginseng; ginsenosides.\n   - Side effects: insomnia, nervousness, headache, raised blood pressure, oestrogenic effects, hypoglycaemia (ginseng abuse syndrome).\n   - Interactions: reduces warfarin effect; with MAOIs (phenelzine) headache, tremor, mania; with insulin/oral antidiabetics added hypoglycaemia; overstimulation with stimulants."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are probiotics, prebiotics and synbiotics? Give their role in gastrointestinal diseases.",
+      "answer": "1. Probiotics: live microorganisms giving a health benefit in adequate amounts — Lactobacillus, Bifidobacterium, Saccharomyces boulardii.\n2. Prebiotics: non-digestible food components that selectively feed beneficial gut bacteria — inulin (chicory), fructo-oligosaccharides, galacto-oligosaccharides.\n3. Synbiotics: probiotic + prebiotic in one product.\n4. GI role: restore gut flora after antibiotics, reduce diarrhoea, relieve IBS symptoms (bloating, pain), produce short-chain fatty acids for colon cells, compete with harmful bacteria.\n5. Others for GI disease: psyllium fibre (constipation, IBS), peppermint oil (spasm), ginger (nausea), deglycyrrhizinised liquorice (ulcer)."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write the source, constituents and uses of alfalfa and chicory.",
+      "answer": "1. Alfalfa: leaves of Medicago sativa, Fabaceae. Constituents: proteins, vitamins A, C, E, K, minerals, chlorophyll, saponins, coumestrol (phytoestrogen). Uses: nutritive tonic, cholesterol lowering. Caution: L-canavanine in seeds/sprouts (lupus-like reactions); vitamin K opposes warfarin.\n2. Chicory: roots of Cichorium intybus, Asteraceae. Constituents: inulin, bitter sesquiterpene lactones (lactucin), chicoric acid, coumarins. Uses: roasted root as coffee substitute, inulin as prebiotic fibre, mild laxative, appetiser."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the enzyme and product formed when garlic is crushed.",
+      "answer": "The enzyme alliinase converts the odourless amino acid alliin into allicin, the pungent, active principle of garlic."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give one example of a herb–food interaction.",
+      "answer": "Grapefruit juice: its furanocoumarins inhibit intestinal CYP3A4 and raise blood levels of drugs such as some calcium-channel blockers and statins."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are phytosomes? Describe their preparation, advantages, characterisation and examples. How do they differ from liposomes?",
+      "answer": "1. Definition: a phytosome is a complex of a natural active constituent (mostly a polyphenol or flavonoid) with a phospholipid, usually phosphatidylcholine, in which the active is bonded to the polar head of the phospholipid; technology developed by Indena.\n2. Need: polar polyphenols cannot cross lipid membranes and others are poorly water-soluble, so oral bioavailability is poor.\n3. Preparation: phospholipid and active/extract reacted in a defined molar ratio (often 1:1 or 2:1) in an aprotic solvent (dioxane, acetone); complex recovered by precipitation with a non-solvent, or made by solvent evaporation, anti-solvent precipitation or freeze-drying.\n4. Advantages: much better absorption and bioavailability; lower dose; phosphatidylcholine is itself hepatoprotective; good skin penetration in cosmetics; stable complex with little leakage.\n5. Characterisation: IR, NMR, DSC and XRD to prove complex formation; particle size, zeta potential, solubility, partition coefficient, drug content, in vitro release, in vivo bioavailability.\n6. Examples: silybin phytosome (Silybum marianum), ginkgo phytosome, green tea (EGCG), curcumin, grape seed, ginseng phytosomes.\n7. Phytosome vs liposome: active bonded vs enclosed; low defined ratio vs excess phospholipid; better stability vs possible leakage; larger bioavailability gain for polyphenols."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the sources and description of raw materials of herbal origin used in cosmetics: fixed oils, waxes, gums, colours and perfumes.",
+      "answer": "1. Fixed oils (triglycerides; emollients, oily phase): coconut oil (Cocos nucifera — hair oil, soaps), olive oil (Olea europaea — creams), almond oil (Prunus amygdalus — skin and baby oils), castor oil (Ricinus communis — lipsticks), sesame oil (base for Ayurvedic oils).\n2. Waxes (esters of fatty acids and fatty alcohols; body and gloss): beeswax (cold creams, lipsticks), carnauba wax (Copernicia cerifera — hardest, gloss), candelilla wax (Euphorbia cerifera), jojoba (Simmondsia chinensis — liquid wax).\n3. Gums (thickeners, emulsifiers, film formers): acacia (Acacia senegal), tragacanth (Astragalus gummifer), karaya (Sterculia urens), guar (Cyamopsis tetragonolobus), xanthan (Xanthomonas campestris), agar, alginates, aloe gel.\n4. Colours: henna — lawsone (Lawsonia inermis), turmeric — curcumin, annatto — bixin, saffron — crocin, beetroot — betanin, indigo, chlorophyll, red sandalwood — santalins.\n5. Perfumes (volatile oils): rose (geraniol, citronellol), jasmine (benzyl acetate, jasmone), sandalwood (santalols), lavender (linalool, linalyl acetate), vetiver and patchouli (fixatives), lemongrass (citral).\n6. Quality: identity, freedom from rancidity and microbes, allergy testing."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the significance of natural excipients and describe herbal colorants, sweeteners, binders, diluents, viscosity builders and disintegrants with examples.",
+      "answer": "1. Excipient: substance other than the active added to aid manufacture, stability, acceptance or release.\n2. Advantages of natural excipients: biocompatible and non-toxic, biodegradable, cheap, renewable, modifiable (pregelatinised starch, sodium starch glycolate), acceptable to patients.\n3. Disadvantages: batch variation, microbial contamination, viscosity change on storage, heavy metals and pesticide residues, need for standardisation.\n4. Colorants: curcumin, chlorophyll, caramel, beta-carotene, annatto, anthocyanins, beetroot red.\n5. Sweeteners: sucrose, honey, glucose, stevioside/rebaudioside (Stevia rebaudiana), glycyrrhizin (liquorice), thaumatin (Thaumatococcus daniellii), mogrosides, sorbitol, mannitol.\n6. Binders: acacia, tragacanth, starch paste, pregelatinised starch, alginates, guar gum, gelatin.\n7. Diluents: starches, microcrystalline cellulose, lactose, sucrose, mannitol.\n8. Viscosity builders: acacia, tragacanth, guar, xanthan, alginate, pectin, agar, carrageenan, methylcellulose.\n9. Disintegrants: starch, sodium starch glycolate, alginic acid, MCC, agar, guar, isabgol husk.\n10. Flavours and perfumes: peppermint, lemon, orange, cinnamon, clove, cardamom, vanilla.\n11. Standardisation: identity, moisture, ash, swelling index, viscosity, pH, particle size, microbial limits."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write about herbal ingredients used in hair care products.",
+      "answer": "1. Herbal shampoos: shikakai (Acacia concinna pods) and reetha (Sapindus mukorossi) — natural saponins that lather and cleanse; amla and hibiscus.\n2. Hair oils: coconut or sesame base with amla, bhringraj (Eclipta alba), brahmi, hibiscus, neem.\n3. Hair dyes: henna (lawsone binds keratin, orange-red), indigo (blue-black with henna), catechu, amla.\n4. Anti-dandruff: neem, tea tree oil, fenugreek, lemon.\n5. Conditioners: aloe gel, hibiscus mucilage, guar derivatives."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe herbal ingredients used in oral hygiene products.",
+      "answer": "1. Neem (Azadirachta indica): antibacterial, used in tooth powders and as chewing sticks.\n2. Babool (Acacia arabica): astringent, strengthens gums.\n3. Clove oil (eugenol): analgesic and antiseptic for toothache.\n4. Peppermint (menthol): flavour and cooling.\n5. Miswak (Salvadora persica): chewing stick, antibacterial.\n6. Others: turmeric, bakul, triphala, thymol (thyme), eucalyptus, tulsi, liquorice in mouthwashes.\n7. Formulation aids: abrasives (calcium carbonate), humectants (sorbitol, glycerin), gum thickeners, foaming agents, sweeteners."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on herbal bleaching agents, protective agents and antioxidants used in skin care.",
+      "answer": "1. Bleaching agents block tyrosinase (melanin formation) or exfoliate: liquorice extract (glabridin), arbutin (bearberry), kojic acid (Aspergillus), vitamin C, lemon juice, papaya (papain), mulberry, turmeric.\n2. Protective agents: polyphenol-rich extracts (green tea, aloe) for antioxidant/UV support; moisturisers and humectants (aloe gel, honey, glycerin); barrier butters (cocoa, shea); soothing agents (calendula, chamomile, liquorice, neem).\n3. Antioxidants: tocopherols, ascorbic acid, rosemary extract (carnosic acid), green tea catechins, grape seed proanthocyanidins, sesamol — prevent rancidity of oils and protect skin from free radicals."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the formulation and evaluation of a herbal syrup.",
+      "answer": "1. Prepare and standardise the extract (marker content, DER, microbial limits).\n2. Make simple syrup by dissolving sucrose in purified water with heat; cool.\n3. Add aqueous or hydroalcoholic extract gradually with stirring.\n4. Add preservatives (parabens, sodium benzoate), flavour and colour; make up to volume; filter; fill into amber bottles.\n5. Evaluation: appearance, clarity, pH, specific gravity, viscosity, sugar content, marker assay, alcohol content (if any), microbial limits, preservative efficacy, fill volume, stability."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the problems in making tablets from herbal extracts and how they are solved.",
+      "answer": "1. Hygroscopic and sticky extracts cause poor flow, picking and sticking — add adsorbents (colloidal silica), use dry granulation, control humidity, film-coat.\n2. High dose of extract gives large tablets — use concentrated or standardised extracts.\n3. Bitter taste and odour — film or sugar coating.\n4. Poor compressibility — suitable binders (starch paste, PVP, acacia) and wet granulation.\n5. Variable content — standardised extract with marker assay.\n6. Evaluation: weight variation, hardness, friability, disintegration, dissolution, marker content, moisture, microbial limits."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on herbal mixtures and their evaluation.",
+      "answer": "1. A mixture is a liquid oral preparation with the drug dissolved or suspended in an aqueous vehicle.\n2. Insoluble powders/extracts need a suspending agent — tragacanth, acacia, xanthan, sodium CMC.\n3. Method: wet the powder, add suspending agent, add vehicle, preservative and flavour, homogenise, make up to volume; label 'Shake well before use'.\n4. Evaluation: sedimentation volume F = Hu/Ho, ease of redispersion, viscosity, pH, particle size, marker assay, microbial limits, stability."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two natural sweeteners used in place of sugar for diabetics.",
+      "answer": "Stevioside/rebaudioside from Stevia rebaudiana leaves and thaumatin from Thaumatococcus daniellii fruit (also glycyrrhizin from liquorice)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is lawsone?",
+      "answer": "Lawsone is the orange-red naphthoquinone pigment of henna leaves (Lawsonia inermis) that binds to keratin and dyes hair, skin and nails."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the WHO guidelines for the quality control and assessment of herbal drugs.",
+      "answer": "1. WHO guidelines: assessment of herbal medicines (quality, safety, efficacy), quality control methods for herbal materials, GACP, GMP for herbal medicines, pharmacovigilance of herbal medicines.\n2. Identity: macroscopy and organoleptic characters; microscopy and quantitative microscopy; chromatographic fingerprint (TLC/HPTLC); chemical tests.\n3. Purity: foreign matter; total, acid-insoluble and water-soluble ash; loss on drying/moisture (toluene distillation for volatile-oil drugs); swelling index, foaming index, bitterness value, haemolytic activity.\n4. Content: water- and alcohol-soluble extractives, volatile oil content, assay of active or marker constituents (HPLC, GC, titration, UV).\n5. Safety/contaminants: pesticide residues (GC); heavy metals — lead, cadmium, arsenic, mercury by AAS/ICP (WHO-suggested limits lead 10 mg/kg, cadmium 0.3 mg/kg); microbial contamination (total aerobic count, yeasts and moulds, absence of E. coli, Salmonella, S. aureus, P. aeruginosa); aflatoxins; radioactive contamination.\n6. Safety and efficacy: long traditional use accepted as evidence for traditional indications; toxicity and clinical studies for new products, uses or doses.\n7. Labelling: plant name, part, preparation, dose, warnings, storage."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define biopiracy. Discuss the patenting of traditional knowledge with the case studies of turmeric and neem.",
+      "answer": "1. Biopiracy: commercial use or patenting of biological resources or traditional knowledge without the consent of, and without benefit sharing with, the country or community that holds it.\n2. Patent: exclusive right for 20 years for an invention that is novel, inventive and industrially applicable, in return for disclosure. Prior art destroys novelty.\n3. Indian law: Patents Act Section 3(c) (natural substances not inventions) and Section 3(p) (traditional knowledge not patentable); source of biological material must be disclosed; Biological Diversity Act 2002 — NBA approval and benefit sharing; TKDL provides searchable prior art.\n4. Turmeric case: turmeric's wound-healing use is ancient in India; a US patent (1995) was granted to University of Mississippi Medical Center researchers for wound healing with turmeric; CSIR sought re-examination with old Sanskrit texts and a published Indian paper as prior art; patent revoked in 1997 for lack of novelty. Lesson: documentation of TK → TKDL.\n5. Neem case: neem used in India as pesticide and fungicide; EPO patent to W. R. Grace and the USDA for fungicidal use of a hydrophobic neem oil extract; opposed by Vandana Shiva's foundation, IFOAM and others with evidence of prior use in India; revoked in 2000, upheld on appeal.\n6. Lessons: document traditional knowledge, use benefit-sharing laws, challenge wrongful patents."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the regulation of Ayurvedic, Siddha and Unani drugs in India, including ASU DTAB, ASU DCC and Schedule Z.",
+      "answer": "1. ASU drugs regulated under Chapter IV-A of the Drugs and Cosmetics Act, 1940 and the related Drugs and Cosmetics Rules, 1945; Ministry of AYUSH at the centre; State Licensing Authority grants licences.\n2. Definitions: ASU drug — made exclusively as per formulae in the authoritative books of the First Schedule; patent/proprietary ASU medicine — ingredients from those books but formula not in them.\n3. ASU DTAB (Section 33C): technical advisory board advising Central and State Governments on technical matters of Chapter IV-A — standards, rules, list of books; members from AYUSH, Drugs Controller, laboratories and experts.\n4. ASU DCC (Section 33D): consultative committee of Central and State representatives advising on uniformity of administration across India.\n5. Manufacture: licence (application Form 24-D, licence Form 25-D); competent technical staff; Schedule T GMP; testing in own or approved laboratory; pharmacopoeial standards; labelling with ingredients, batch, dates, licence number; Schedule E(1) poisonous ingredients — 'to be taken under medical supervision'; control of misleading advertisements.\n6. Schedule Z (proposed) / licensing guidelines (Rule 158-B): classical ASU drugs — text reference and quality standards; patent/proprietary — safety data and evidence of effectiveness; new ASU drugs/new indications/dosage forms — toxicity and clinical studies as required, stability. More departure from classics = more evidence."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe stability testing of herbal drugs as per ICH guidelines.",
+      "answer": "1. Stability: ability to remain within physical, chemical, microbial and therapeutic specifications throughout shelf life in the marketed pack.\n2. Herbal challenges: many constituents, unknown actives — judge by several markers plus fingerprint.\n3. Factors: moisture, heat, light, oxygen, pH, microbes, container.\n4. ICH Q1A(R2) conditions: long-term 25 °C/60% RH or 30 °C/65% RH (12 months minimum at submission); intermediate 30 °C/65% RH; accelerated 40 °C/75% RH for 6 months. India — zone IVb, 30 °C/75% RH.\n5. Testing: three batches in final pack; physical (appearance, pH, viscosity, moisture, disintegration), chemical (marker assay, fingerprint, degradation products), microbial; long-term every 3 months in year one; photostability (Q1B).\n6. Shelf life = period within specification under labelled storage."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on ASU DTAB and ASU DCC.",
+      "answer": "1. Both are bodies under Chapter IV-A of the Drugs and Cosmetics Act, 1940 for Ayurvedic, Siddha and Unani drugs.\n2. ASU DTAB — Ayurvedic, Siddha and Unani Drugs Technical Advisory Board, Section 33C: advises Central and State Governments on technical matters arising from administration of Chapter IV-A; members include AYUSH officials, the Drugs Controller, laboratory heads and experts in the three systems, pharmacognosy and pharmaceutical chemistry; recommends rules, standards and authoritative books.\n3. ASU DCC — Ayurvedic, Siddha and Unani Drugs Consultative Committee, Section 33D: representatives of the Central and every State Government; advises on securing uniformity in the administration of the Act throughout India.\n4. DTAB = technical; DCC = administrative uniformity."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the ICH guidelines relevant to herbal products and state their use.",
+      "answer": "1. ICH has no herbal-only guideline; its quality guidelines are applied.\n2. Q1A(R2) stability testing; Q1B photostability.\n3. Q2 validation of analytical procedures (specificity, linearity, accuracy, precision, LOD, LOQ, robustness) for marker assays.\n4. Q3C residual solvents from extraction.\n5. Q6 specifications; Q7 GMP for active ingredients including extracts.\n6. Q9 quality risk management and Q10 quality system for raw-material variability.\n7. M4 Common Technical Document for registration dossiers."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the provisions of the Indian Patents Act and the Biological Diversity Act relevant to natural products?",
+      "answer": "1. Patents Act Section 3(c): mere discovery of a living thing or a naturally occurring substance is not an invention.\n2. Section 3(p): traditional knowledge, or aggregation/duplication of known properties of traditional components, is not patentable.\n3. Applicants must disclose the source and geographical origin of biological material; non-disclosure is a ground for opposition.\n4. New processes, formulations or proven new uses may be patented if novel, inventive and useful; term 20 years.\n5. Biological Diversity Act 2002: access to Indian bioresources and associated knowledge for research or commerce needs National Biodiversity Authority approval; IPR applications based on Indian bioresources need NBA approval; benefits shared with local communities."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the WHO approach to testing contaminants in herbal drugs.",
+      "answer": "1. Pesticide residues: organochlorine, organophosphorus and others by GC; limits per monograph or national law.\n2. Heavy metals: lead, cadmium, arsenic, mercury by AAS or ICP; WHO-suggested limits lead 10 mg/kg and cadmium 0.3 mg/kg.\n3. Microbial contamination: total aerobic microbial count, yeasts and moulds, absence of E. coli, Salmonella, S. aureus, P. aeruginosa; limits differ with type of use.\n4. Aflatoxins from Aspergillus flavus on badly stored drugs, by TLC/HPLC.\n5. Radioactive contamination where risk exists.\n6. Residual solvents in extracts."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on the Traditional Knowledge Digital Library (TKDL).",
+      "answer": "1. A database set up by the CSIR with the AYUSH department.\n2. It documents formulations and practices from classical texts of Ayurveda, Unani, Siddha and Yoga.\n3. Translates them into patent-office languages and a classification usable by examiners.\n4. Shared with major patent offices under access agreements so examiners can find prior art.\n5. Prevents wrongful patents on Indian traditional knowledge; created after the turmeric and neem cases."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define biopiracy.",
+      "answer": "Biopiracy is the commercial use or patenting of biological resources or traditional knowledge without the permission of, and without sharing benefits with, the country or community that owns it."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State the ICH accelerated stability condition.",
+      "answer": "40 °C ± 2 °C and 75% RH ± 5% RH for at least 6 months (ICH Q1A(R2))."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is Schedule T? Describe the components and objectives of GMP for Indian systems of medicine under Schedule T.",
+      "answer": "1. Schedule T of the Drugs and Cosmetics Rules, 1945 lays down Good Manufacturing Practices for Ayurvedic, Siddha and Unani medicines; compliance is a condition of the manufacturing licence and allows a GMP certificate.\n2. Objectives: authentic and uncontaminated raw materials; hygienic premises and equipment; processes as per authoritative texts through SOPs; quality control of raw, in-process and finished material; traceable records; safe, effective products and consumer confidence.\n3. Part I components:\n   - Location and surroundings away from sewage, refuse, smoke and fumes; buildings protected from weather, dust, insects, rodents; smooth washable walls and floors; light and ventilation.\n   - Potable water supply; disposal of waste without contamination; container cleaning facilities.\n   - Stores: raw materials (plant, animal, mineral, poisonous under lock; quarantine; under test/approved/rejected labels; FIFO), packing materials, finished goods.\n   - Working space to avoid mix-ups and cross-contamination; separate dusty and clean areas.\n   - Machinery and equipment suitable, easy to clean, maintained and calibrated.\n   - Standard operating procedures and master formula.\n   - Health, clothing and sanitation of workers; medical examinations; training; medical services.\n   - Documentation: batch manufacturing records, raw-material and QC records, distribution records for recall, market complaints, equipment logs.\n   - Quality control section or approved testing laboratory; retained samples.\n4. Part II: recommended machinery and minimum manufacturing area for each dosage form (churna, gutika, asava–arishta, avaleha, bhasma, taila–ghrita).\n5. Benefits: consistent quality, fewer recalls, export readiness."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the present scope and future prospects of the herbal drug industry in India.",
+      "answer": "1. Present scope:\n   - Rich biodiversity and living traditions (Ayurveda, Siddha, Unani, Sowa-Rigpa, Homoeopathy, folk medicine).\n   - Segments: classical ASU medicines, proprietary products, standardised extracts and phytochemicals (sennosides, diosgenin, papain, menthol), essential oils, nutraceuticals, herbal cosmetics, crude drugs; India leads in isabgol and senna.\n   - Government support: Ministry of AYUSH, NMPB, National AYUSH Mission.\n2. Problems: wild collection and over-harvesting, adulteration, lack of standardisation and clinical evidence, contamination, varying export rules, limited R&D.\n3. Future prospects:\n   - Rising global demand for herbal medicines, nutraceuticals and natural cosmetics.\n   - Standardised, evidence-based products and phytopharmaceuticals.\n   - Cultivation under GACP, contract and organic farming, tissue culture.\n   - Modern technology: supercritical fluid extraction, HPTLC/HPLC fingerprinting, DNA barcoding, phytosomes and nanocarriers.\n   - Reverse pharmacology for new drug discovery.\n   - AYUSH integration in health care and wellness tourism.\n   - IP protection through TKDL and benefit sharing.\n   - Careers for pharmacists in QC, regulatory affairs, formulation and research."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "low",
+      "question": "Give a brief account of plant-based industries and institutions working on medicinal and aromatic plants in India.",
+      "answer": "1. Plant-based industries: ASU and herbal medicine manufacturers; phytochemical and extract industry (curcumin, ashwagandha, boswellia extracts, sennosides, psyllium husk, papain, colchicine, diosgenin intermediates); essential oil industry (mint and menthol, lemongrass, citronella, palmarosa, sandalwood, vetiver); spice oleoresins; gums, resins and dyes (guar, karaya, lac, natural colours); herbal cosmetics; nutraceuticals; plant biotechnology.\n2. Institutions:\n   - Ministry of AYUSH (policy, regulation); NMPB (conservation, cultivation, GACP).\n   - PCIM&H, Ghaziabad (pharmacopoeias, appellate laboratory).\n   - CCRAS, CCRUM, CCRS, CCRH (research in each system).\n   - CSIR-CIMAP, Lucknow (varieties and agro-technology of aromatic and medicinal crops); CSIR-NBRI, Lucknow (botany, herbarium); CSIR-CDRI, Lucknow (drug discovery).\n   - CSIR-IIIM, Jammu; CSIR-IHBT, Palampur; CSIR-NEIST, Jorhat.\n   - ICAR-DMAPR, Anand (crop improvement of isabgol, senna, aloe).\n   - TBGRI, Thiruvananthapuram; FRLHT, Bengaluru; BSI, Kolkata; NIPER; TKDL."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the objectives of Schedule T.",
+      "answer": "1. Use only authentic, tested raw materials free from contamination.\n2. Manufacture in clean, hygienic premises with suitable equipment.\n3. Follow the authoritative text or approved formula exactly through written SOPs and master formulae.\n4. Control quality of raw material, in-process material and finished product.\n5. Keep records so each batch can be traced and recalled.\n6. Protect workers' health and hygiene.\n7. Deliver ASU medicines of assured quality, safety and efficacy and build confidence for domestic and export markets."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the requirements for stores (storage areas) under Schedule T.",
+      "answer": "1. Separate stores for raw materials, packing materials and finished goods.\n2. Raw material store: separate areas for plant, animal and mineral drugs; poisonous drugs under lock and key; clean, dry, well-ventilated, protected from insects and rodents.\n3. Quarantine area for material awaiting testing; labels 'under test', 'approved', 'rejected'.\n4. Containers labelled with name, source, quantity and date; first-in, first-out use.\n5. Packing material store with printed labels kept securely to prevent mix-ups.\n6. Finished goods kept in quarantine until QC release, then stored under proper conditions."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the documentation and records required under Schedule T.",
+      "answer": "1. Raw-material records: source, quantity, date of receipt, test results, approval or rejection.\n2. Master formula for each product.\n3. Batch manufacturing record: batch number, quantities used, each step with date and signature, in-process checks, yield, packing and labelling details.\n4. Quality control records of tests on raw, in-process and finished material.\n5. Distribution records for each batch to allow recall.\n6. Market complaint and adverse reaction records with actions taken.\n7. Cleaning, maintenance and calibration logs for equipment.\n8. Records kept for the period specified in the Schedule."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about health, clothing and sanitation of workers and working space under Schedule T.",
+      "answer": "1. Workers free from contagious disease; medical examination on joining and periodically.\n2. Clean uniforms, head covers, masks and gloves where needed.\n3. Washing and toilet facilities separate from production areas; no eating, smoking or spitting in work areas.\n4. Training in hygiene and job tasks; first aid and medical services.\n5. Working space: adequate area for each operation, orderly placement of equipment and materials, prevention of mix-ups and cross-contamination; separate areas for dust- or heat-producing operations (powdering, bhasma furnaces) and for clean operations (filling, packing)."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the National Medicinal Plants Board and CSIR-CIMAP.",
+      "answer": "1. National Medicinal Plants Board (NMPB), New Delhi, under the Ministry of AYUSH: coordinates policies on medicinal plants; supports conservation, cultivation, GACP guidelines, quality planting material, supply chain, market linkage and state medicinal plant boards.\n2. CSIR-Central Institute of Medicinal and Aromatic Plants (CIMAP), Lucknow: develops high-yielding varieties (mint, ashwagandha, artemisia and others), agro-technology, distillation technology for essential oils, phytochemistry and training of farmers; helped India become a major menthol producer."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "What are the main problems faced by the Indian herbal industry?",
+      "answer": "1. Raw material: dependence on wild collection, over-harvesting, endangered species, poor traceability, adulteration and substitution.\n2. Quality: lack of standardisation, batch variation, contamination with heavy metals, pesticides, microbes and aflatoxins.\n3. Evidence: limited pharmacological and clinical data.\n4. Regulation and export: different rules in importing countries; strict residue limits.\n5. Investment: low R&D in small units, weak IP protection, need for trained manpower."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What does Part II of Schedule T contain?",
+      "answer": "Part II lists the recommended machinery and equipment and the minimum manufacturing area needed for each category of ASU dosage form, such as churna, gutika, asava–arishta, avaleha and bhasma."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Expand PCIM&H and state its function.",
+      "answer": "Pharmacopoeia Commission for Indian Medicine and Homoeopathy, Ghaziabad — prepares the Ayurvedic, Siddha, Unani and Homoeopathic pharmacopoeias and formularies and acts as an appellate drug-testing laboratory."
+    }
+  ]
+}

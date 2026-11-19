@@ -1,0 +1,98 @@
+{
+  "code": "BP603T",
+  "title": "Herbal Drug Technology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP603T Herbal Drug Technology with its practical BP609P",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP603T_B.Pharma-pages-30.pdf"
+  },
+  "practicalCodes": [
+    "BP609P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Herbs as raw materials and Indian systems of medicine",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Nutraceuticals and herb–drug, herb–food interactions",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Herbal cosmetics, herbal excipients and herbal formulations",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Evaluation of herbal drugs, patenting and regulatory requirements",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Herbal drug industry and GMP for Indian systems of medicine (Schedule T)",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "phytochemical-screening",
+      "title": "Preliminary phytochemical screening of crude drugs",
+      "file": "practicals/phytochemical-screening.md"
+    },
+    {
+      "id": "alcohol-content-asava-arishta",
+      "title": "Determination of the alcohol content of Asava and Arishta",
+      "file": "practicals/alcohol-content-asava-arishta.md"
+    },
+    {
+      "id": "natural-excipient-evaluation",
+      "title": "Evaluation of excipients of natural origin",
+      "file": "practicals/natural-excipient-evaluation.md"
+    },
+    {
+      "id": "herbal-cosmetic-formulations",
+      "title": "Incorporation of a standardised extract in a cream, lotion and shampoo and their evaluation",
+      "file": "practicals/herbal-cosmetic-formulations.md"
+    },
+    {
+      "id": "herbal-syrup-mixture-tablet",
+      "title": "Incorporation of a standardised extract in a syrup, mixture and tablet and their evaluation",
+      "file": "practicals/herbal-syrup-mixture-tablet.md"
+    },
+    {
+      "id": "herbal-monograph-analysis",
+      "title": "Monograph analysis of a herbal drug from a recent pharmacopoeia",
+      "file": "practicals/herbal-monograph-analysis.md"
+    },
+    {
+      "id": "aldehyde-content",
+      "title": "Determination of aldehyde content of a volatile oil",
+      "file": "practicals/aldehyde-content.md"
+    },
+    {
+      "id": "phenol-content",
+      "title": "Determination of phenol content of a volatile oil",
+      "file": "practicals/phenol-content.md"
+    },
+    {
+      "id": "total-alkaloids",
+      "title": "Determination of total alkaloids in a crude drug",
+      "file": "practicals/total-alkaloids.md"
+    }
+  ]
+}

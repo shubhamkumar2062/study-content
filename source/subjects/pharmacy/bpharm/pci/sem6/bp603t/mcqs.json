@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which of the following is a finished herbal product?",
+      "options": [
+        "Triphala churna packed for sale",
+        "Dried senna leaf",
+        "Acacia gum",
+        "A dry extract of ginger used as a starting material"
+      ],
+      "correct": 0,
+      "explanation": "A finished herbal product is a dosage form ready for the patient.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Biodynamic agriculture is based on the ideas of:",
+      "options": [
+        "Samuel Hahnemann",
+        "Rudolf Steiner",
+        "Stephen DeFelice",
+        "Ibn Sina"
+      ],
+      "correct": 1,
+      "explanation": "Steiner's 1924 lectures founded biodynamic farming.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Biodynamic preparation 500 is:",
+      "options": [
+        "Horn silica",
+        "Yarrow compost preparation",
+        "Horn manure",
+        "Valerian flower extract"
+      ],
+      "correct": 2,
+      "explanation": "Preparation 500 is cow dung buried in a cow horn; 501 is horn silica.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Azadirachtin, a botanical insecticide, is obtained from:",
+      "options": [
+        "Pyrethrum",
+        "Derris",
+        "Tobacco",
+        "Neem"
+      ],
+      "correct": 3,
+      "explanation": "Azadirachtin from neem seed acts as antifeedant and growth regulator.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Bacillus thuringiensis is used as a:",
+      "options": [
+        "Microbial insecticide against caterpillars",
+        "Biofungicide",
+        "Biofertiliser for nitrogen fixation",
+        "Fermentation initiator"
+      ],
+      "correct": 0,
+      "explanation": "Its crystal protein is toxic to the gut of lepidopteran larvae.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The fermentation initiator traditionally used in Asava and Arishta is:",
+      "options": [
+        "Honey alone",
+        "Dhataki flowers",
+        "Triphala",
+        "Cow's urine"
+      ],
+      "correct": 1,
+      "explanation": "Woodfordia fruticosa flowers carry natural yeasts.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Arishta differs from Asava in that Arishta:",
+      "options": [
+        "Contains added ethanol",
+        "Is not fermented",
+        "Is made from a decoction of the drugs",
+        "Is a semisolid preparation"
+      ],
+      "correct": 2,
+      "explanation": "Arishta uses a decoction (hot process); Asava uses drugs without boiling.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The bhasma test in which the powder fills the lines of the fingertips is:",
+      "options": [
+        "Varitara",
+        "Nishchandratva",
+        "Apunarbhava",
+        "Rekhapurnatva"
+      ],
+      "correct": 3,
+      "explanation": "Rekhapurnatva shows the fineness of a bhasma.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Tridosha in Ayurveda consists of:",
+      "options": [
+        "Vata, pitta and kapha",
+        "Dam, balgham and safra",
+        "Rasa, guna and virya",
+        "Agni, ama and mala"
+      ],
+      "correct": 0,
+      "explanation": "Dam, balgham, safra and sauda are Unani humours.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The four humours of Unani medicine are:",
+      "options": [
+        "Vata, pitta, kapha, rakta",
+        "Dam, balgham, safra, sauda",
+        "Vatham, pitham, kapham, rasam",
+        "Earth, water, fire, air"
+      ],
+      "correct": 1,
+      "explanation": "Unani follows the Greek four-humour theory.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The law of similars is the basic principle of:",
+      "options": [
+        "Siddha",
+        "Unani",
+        "Homoeopathy",
+        "Biodynamic farming"
+      ],
+      "correct": 2,
+      "explanation": "Hahnemann's similia similibus curentur.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Chyawanprash is an example of:",
+      "options": [
+        "Churna",
+        "Arishta",
+        "Bhasma",
+        "Lehya (avaleha)"
+      ],
+      "correct": 3,
+      "explanation": "It is a semisolid jam-like preparation with jaggery, ghee and honey.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The term 'nutraceutical' was coined by:",
+      "options": [
+        "Stephen DeFelice",
+        "Rudolf Steiner",
+        "Samuel Hahnemann",
+        "Ibn Sina"
+      ],
+      "correct": 0,
+      "explanation": "DeFelice coined the term in 1989.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "In India, health supplements and nutraceuticals are regulated by:",
+      "options": [
+        "ASU DTAB",
+        "FSSAI",
+        "CDSCO as new drugs",
+        "National Biodiversity Authority"
+      ],
+      "correct": 1,
+      "explanation": "They are treated as foods under the Food Safety and Standards Act, 2006.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Inulin, a prebiotic, is obtained mainly from the roots of:",
+      "options": [
+        "Ginseng",
+        "Ashwagandha",
+        "Chicory",
+        "Alfalfa"
+      ],
+      "correct": 2,
+      "explanation": "Cichorium intybus roots are rich in inulin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The active compound formed when garlic is crushed is:",
+      "options": [
+        "Alliin",
+        "Ajmalicine",
+        "Allantoin",
+        "Allicin"
+      ],
+      "correct": 3,
+      "explanation": "Alliinase converts alliin to allicin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "4-Hydroxyisoleucine with insulin-releasing action is found in:",
+      "options": [
+        "Fenugreek",
+        "Amla",
+        "Ginger",
+        "Spirulina"
+      ],
+      "correct": 0,
+      "explanation": "Fenugreek seed amino acid that stimulates insulin release.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Withanolides are the active constituents of:",
+      "options": [
+        "Ginseng",
+        "Ashwagandha",
+        "Chicory",
+        "Kava-kava"
+      ],
+      "correct": 1,
+      "explanation": "Withaferin A is a withanolide of Withania somnifera.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Phycocyanin, a blue pigment, is present in:",
+      "options": [
+        "Amla",
+        "Honey",
+        "Spirulina",
+        "Alfalfa"
+      ],
+      "correct": 2,
+      "explanation": "Spirulina is a cyanobacterium rich in phycocyanin and protein.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Honey should not be given to infants under one year because of the risk of:",
+      "options": [
+        "Scurvy",
+        "Hepatotoxicity",
+        "Serotonin syndrome",
+        "Botulism"
+      ],
+      "correct": 3,
+      "explanation": "Spores of Clostridium botulinum can germinate in the infant gut.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "St John's wort lowers blood levels of cyclosporine and oral contraceptives by:",
+      "options": [
+        "Inducing CYP3A4 and P-glycoprotein",
+        "Inhibiting CYP3A4",
+        "Displacing them from plasma proteins",
+        "Increasing their renal reabsorption"
+      ],
+      "correct": 0,
+      "explanation": "Hyperforin is a strong inducer, causing pharmacokinetic interactions.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Piperine increases the bioavailability of drugs mainly by:",
+      "options": [
+        "Inducing hepatic enzymes",
+        "Inhibiting CYP3A4 and P-glycoprotein",
+        "Binding drugs in the gut",
+        "Increasing renal excretion"
+      ],
+      "correct": 1,
+      "explanation": "Piperine is the classic bioenhancer, as in Trikatu.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Bleeding risk of ginkgo with warfarin is due to:",
+      "options": [
+        "Vitamin K content",
+        "CYP3A4 induction",
+        "Antagonism of platelet-activating factor by ginkgolide B",
+        "Hypokalaemia"
+      ],
+      "correct": 2,
+      "explanation": "Ginkgolide B is a PAF antagonist.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "A herb known to cause liver toxicity and additive sedation with benzodiazepines is:",
+      "options": [
+        "Amla",
+        "Chicory",
+        "Fenugreek",
+        "Kava-kava"
+      ],
+      "correct": 3,
+      "explanation": "Kavalactones are CNS depressants; hepatotoxicity led to restrictions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The hardest natural wax, used to give gloss to lipsticks, is:",
+      "options": [
+        "Carnauba wax",
+        "Beeswax",
+        "Jojoba wax",
+        "Candelilla wax"
+      ],
+      "correct": 0,
+      "explanation": "Carnauba from palm leaves is the hardest natural wax.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Jojoba 'oil' is chemically a:",
+      "options": [
+        "Triglyceride",
+        "Liquid wax",
+        "Volatile oil",
+        "Resin"
+      ],
+      "correct": 1,
+      "explanation": "It is an ester of long-chain acids and alcohols, not a glyceride.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The colouring principle of henna is:",
+      "options": [
+        "Bixin",
+        "Crocin",
+        "Lawsone",
+        "Betanin"
+      ],
+      "correct": 2,
+      "explanation": "Lawsone is a naphthoquinone that binds keratin.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Shikakai and reetha are used in herbal shampoos because they contain:",
+      "options": [
+        "Tannins",
+        "Alkaloids",
+        "Fixed oils",
+        "Saponins"
+      ],
+      "correct": 3,
+      "explanation": "Saponins lather and cleanse.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Eugenol, used in herbal dental products, is obtained from:",
+      "options": [
+        "Clove oil",
+        "Peppermint oil",
+        "Neem bark",
+        "Babool bark"
+      ],
+      "correct": 0,
+      "explanation": "Clove oil eugenol is analgesic and antiseptic.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Herbal skin-lightening agents such as arbutin and glabridin act by inhibiting:",
+      "options": [
+        "Lipase",
+        "Tyrosinase",
+        "Collagenase",
+        "Alliinase"
+      ],
+      "correct": 1,
+      "explanation": "Tyrosinase makes melanin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "A non-caloric natural sweetener obtained from leaves is:",
+      "options": [
+        "Sorbitol",
+        "Honey",
+        "Stevioside",
+        "Lactose"
+      ],
+      "correct": 2,
+      "explanation": "Stevia rebaudiana leaves give steviosides and rebaudiosides.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Xanthan gum is obtained from:",
+      "options": [
+        "Seed endosperm",
+        "Tree exudate",
+        "Seaweed",
+        "A bacterium"
+      ],
+      "correct": 3,
+      "explanation": "Produced by Xanthomonas campestris fermentation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Sodium starch glycolate is used in tablets as a:",
+      "options": [
+        "Disintegrant",
+        "Binder",
+        "Lubricant",
+        "Sweetener"
+      ],
+      "correct": 0,
+      "explanation": "A modified starch that swells rapidly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "A phytosome is a complex of a plant constituent with:",
+      "options": [
+        "Cyclodextrin",
+        "Phosphatidylcholine",
+        "Polyethylene glycol",
+        "Gelatin"
+      ],
+      "correct": 1,
+      "explanation": "The polyphenol is bonded to the phospholipid head group.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The phytosome technology was developed by:",
+      "options": [
+        "CSIR-CIMAP",
+        "W. R. Grace",
+        "Indena",
+        "Indian Pharmacopoeia Commission"
+      ],
+      "correct": 2,
+      "explanation": "The Italian company Indena introduced phytosomes.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "The main advantage of phytosomes over plain extracts is:",
+      "options": [
+        "Higher sugar content",
+        "No need for standardisation",
+        "Longer fermentation time",
+        "Better oral bioavailability of polar polyphenols"
+      ],
+      "correct": 3,
+      "explanation": "The lipid-compatible complex crosses membranes more easily.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Which ICH guideline deals with stability testing of new drug substances and products?",
+      "options": [
+        "Q1A(R2)",
+        "Q2",
+        "Q3C",
+        "M4"
+      ],
+      "correct": 0,
+      "explanation": "Q1A(R2) gives storage conditions and frequencies.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The ICH accelerated stability condition is:",
+      "options": [
+        "25 °C / 60% RH",
+        "40 °C / 75% RH",
+        "30 °C / 65% RH",
+        "5 °C / ambient"
+      ],
+      "correct": 1,
+      "explanation": "Accelerated testing runs for at least 6 months at 40 °C/75% RH.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "India falls in which climatic zone for stability testing?",
+      "options": [
+        "Zone I",
+        "Zone II",
+        "Zone IVb (30 °C / 75% RH)",
+        "Zone III"
+      ],
+      "correct": 2,
+      "explanation": "Hot and very humid zone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "WHO-suggested maximum limit for lead in herbal materials is:",
+      "options": [
+        "0.3 mg/kg",
+        "100 mg/kg",
+        "1 g/kg",
+        "10 mg/kg"
+      ],
+      "correct": 3,
+      "explanation": "Lead 10 mg/kg; cadmium 0.3 mg/kg.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Biopiracy means:",
+      "options": [
+        "Use or patenting of bioresources or TK without consent or benefit sharing",
+        "Legal collection of plants with a permit",
+        "Cultivation under GACP",
+        "Conservation of endangered plants"
+      ],
+      "correct": 0,
+      "explanation": "Bioprospecting with consent and benefit sharing is the lawful counterpart.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The turmeric wound-healing patent was revoked after a challenge by:",
+      "options": [
+        "W. R. Grace",
+        "CSIR",
+        "USDA",
+        "National Biodiversity Authority"
+      ],
+      "correct": 1,
+      "explanation": "CSIR proved prior art from old texts; revoked in 1997.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The neem fungicide patent revoked in 2000 had been granted by the:",
+      "options": [
+        "Indian Patent Office",
+        "US Patent and Trademark Office",
+        "European Patent Office",
+        "WHO"
+      ],
+      "correct": 2,
+      "explanation": "EPO patent held by W. R. Grace and the USDA.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Section 3(p) of the Indian Patents Act excludes from patentability:",
+      "options": [
+        "New extraction processes",
+        "Novel formulations",
+        "Synthetic drugs",
+        "Traditional knowledge"
+      ],
+      "correct": 3,
+      "explanation": "TK or aggregation of known traditional properties is not an invention.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "ASU DTAB is constituted under section:",
+      "options": [
+        "33C",
+        "33D",
+        "26A",
+        "10A"
+      ],
+      "correct": 0,
+      "explanation": "Section 33D constitutes the ASU DCC.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The main function of ASU DCC is to:",
+      "options": [
+        "Grant patents for herbal drugs",
+        "Secure uniformity of administration of the Act throughout India",
+        "Prepare the Ayurvedic Pharmacopoeia",
+        "Certify organic produce"
+      ],
+      "correct": 1,
+      "explanation": "It is a consultative committee of Central and State representatives.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "ASU drugs are regulated under which chapter of the Drugs and Cosmetics Act?",
+      "options": [
+        "Chapter II",
+        "Chapter III",
+        "Chapter IV-A",
+        "Chapter V"
+      ],
+      "correct": 2,
+      "explanation": "Chapter IV-A deals with Ayurvedic, Siddha and Unani drugs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "TKDL was created to:",
+      "options": [
+        "Licence ASU manufacturers",
+        "Fix drug prices",
+        "Register organic farms",
+        "Provide prior art on traditional knowledge to patent offices"
+      ],
+      "correct": 3,
+      "explanation": "It translates classical formulations for patent examiners.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Schedule T of the Drugs and Cosmetics Rules deals with:",
+      "options": [
+        "GMP for Ayurvedic, Siddha and Unani medicines",
+        "Labelling of allopathic drugs",
+        "Clinical trials",
+        "Poisonous ASU drugs"
+      ],
+      "correct": 0,
+      "explanation": "Schedule E(1) lists poisonous ASU drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Part II of Schedule T contains:",
+      "options": [
+        "Definitions of ASU drugs",
+        "Recommended machinery and minimum manufacturing area",
+        "List of authoritative books",
+        "Patent requirements"
+      ],
+      "correct": 1,
+      "explanation": "Part I gives the GMP requirements.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Under Schedule T, raw materials awaiting tests are kept in a:",
+      "options": [
+        "Finished goods store",
+        "Packing material store",
+        "Quarantine area",
+        "Production area"
+      ],
+      "correct": 2,
+      "explanation": "They are released only after QC approval.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Poisonous raw drugs in an ASU factory store must be:",
+      "options": [
+        "Mixed with other raw drugs",
+        "Stored in the packing area",
+        "Kept in the production hall",
+        "Kept separately under lock and key"
+      ],
+      "correct": 3,
+      "explanation": "Schedule T requires separate secure storage.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The record that allows a batch to be recalled from the market is the:",
+      "options": [
+        "Distribution record",
+        "Equipment log",
+        "Training record",
+        "Water analysis report"
+      ],
+      "correct": 0,
+      "explanation": "It shows where each batch was sent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "CSIR-CIMAP is located at:",
+      "options": [
+        "Jammu",
+        "Lucknow",
+        "Palampur",
+        "Anand"
+      ],
+      "correct": 1,
+      "explanation": "IIIM is at Jammu, IHBT at Palampur, DMAPR at Anand.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The Pharmacopoeia Commission for Indian Medicine and Homoeopathy is located at:",
+      "options": [
+        "Lucknow",
+        "Kolkata",
+        "Ghaziabad",
+        "Chennai"
+      ],
+      "correct": 2,
+      "explanation": "It prepares ASU and Homoeopathic pharmacopoeias.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "ICAR-DMAPR, which works on crop improvement of isabgol and senna, is at:",
+      "options": [
+        "Lucknow",
+        "Jorhat",
+        "Thiruvananthapuram",
+        "Anand"
+      ],
+      "correct": 3,
+      "explanation": "Directorate of Medicinal and Aromatic Plants Research, Gujarat.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "India is a world leader in the production and export of:",
+      "options": [
+        "Isabgol (psyllium)",
+        "Ginseng",
+        "Kava-kava",
+        "Ephedra"
+      ],
+      "correct": 0,
+      "explanation": "India also leads in senna and is a major menthol producer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "A written, approved procedure for an activity in GMP is called a:",
+      "options": [
+        "Master formula",
+        "Standard operating procedure",
+        "Batch number",
+        "Retention sample"
+      ],
+      "correct": 1,
+      "explanation": "SOPs ensure each activity is done the same way.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "The batch manufacturing record contains:",
+      "options": [
+        "Only the sale price",
+        "Only the list of distributors",
+        "Quantities used and steps with dates and signatures",
+        "Patent details"
+      ],
+      "correct": 2,
+      "explanation": "It documents how each batch was made.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "The body that supports conservation and cultivation of medicinal plants and issues GACP guidelines in India is the:",
+      "options": [
+        "ASU DCC",
+        "FSSAI",
+        "Botanical Survey of India",
+        "National Medicinal Plants Board"
+      ],
+      "correct": 3,
+      "explanation": "NMPB functions under the Ministry of AYUSH.",
+      "probability": "high"
+    }
+  ]
+}
