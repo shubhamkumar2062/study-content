@@ -1,0 +1,48 @@
+{
+  "code": "BP802T",
+  "title": "Social and Preventive Pharmacy",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP802T Social and Preventive Pharmacy",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP802T_B.Pharma-pages-39.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Concept of health and disease, nutrition, sociology and hygiene",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Preventive medicine: prevention and control of diseases",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "National health programmes I",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "National health programmes II and the role of WHO",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Community services in rural, urban and school health",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

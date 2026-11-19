@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The WHO definition of health (1948) includes complete well-being in which three areas?",
+      "options": [
+        "Physical, mental and social",
+        "Physical, economic and spiritual",
+        "Mental, financial and political",
+        "Physical, nutritional and genetic"
+      ],
+      "correct": 0,
+      "explanation": "WHO defines health as complete physical, mental and social well-being, not merely absence of disease.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Screening of adults for hypertension is an example of:",
+      "options": [
+        "Primordial prevention",
+        "Secondary prevention",
+        "Primary prevention",
+        "Tertiary prevention"
+      ],
+      "correct": 1,
+      "explanation": "Screening aims at early diagnosis and prompt treatment, which is secondary prevention.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Prevention of the emergence of risk factors in a population is called:",
+      "options": [
+        "Primary prevention",
+        "Secondary prevention",
+        "Primordial prevention",
+        "Quaternary prevention"
+      ],
+      "correct": 2,
+      "explanation": "Primordial prevention stops risk factors such as tobacco use or unhealthy diets from arising.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The only human disease so far eradicated worldwide is:",
+      "options": [
+        "Polio",
+        "Leprosy",
+        "Measles",
+        "Smallpox"
+      ],
+      "correct": 3,
+      "explanation": "Smallpox is the classic example of eradication; polio is not yet eradicated globally.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Bitot's spots are a sign of deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin B12"
+      ],
+      "correct": 0,
+      "explanation": "Vitamin A deficiency causes night blindness, conjunctival xerosis and Bitot's spots.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Pellagra, with dermatitis, diarrhoea and dementia, is caused by deficiency of:",
+      "options": [
+        "Thiamine",
+        "Niacin",
+        "Riboflavin",
+        "Folic acid"
+      ],
+      "correct": 1,
+      "explanation": "Niacin (vitamin B3) deficiency causes pellagra.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Which feature distinguishes kwashiorkor from marasmus?",
+      "options": [
+        "Severe wasting",
+        "Good appetite",
+        "Presence of oedema",
+        "Old-man face"
+      ],
+      "correct": 2,
+      "explanation": "Oedema is the hallmark of kwashiorkor; marasmus has no oedema.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Low height for age in a child indicates:",
+      "options": [
+        "Wasting",
+        "Underweight",
+        "Obesity",
+        "Stunting"
+      ],
+      "correct": 3,
+      "explanation": "Stunting reflects long-term (chronic) undernutrition.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Folic acid deficiency in early pregnancy increases the risk of:",
+      "options": [
+        "Neural tube defects in the baby",
+        "Scurvy",
+        "Rickets",
+        "Night blindness"
+      ],
+      "correct": 0,
+      "explanation": "Adequate folate around conception reduces neural tube defects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Combining cereals and pulses improves protein quality because:",
+      "options": [
+        "Both lack all amino acids",
+        "Cereals lack lysine and pulses lack methionine",
+        "Pulses add vitamin C",
+        "Cereals add iron"
+      ],
+      "correct": 1,
+      "explanation": "This is the supplementary action of proteins; each covers the other's limiting amino acid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The mainstay of treatment of cholera is:",
+      "options": [
+        "Antimotility drugs",
+        "Antipyretics",
+        "Rehydration with ORS or IV fluids",
+        "Blood transfusion"
+      ],
+      "correct": 2,
+      "explanation": "Rapid replacement of fluid and electrolytes saves life in cholera.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Dengue is transmitted mainly by:",
+      "options": [
+        "Anopheles culicifacies",
+        "Culex quinquefasciatus",
+        "Mansonia",
+        "Aedes aegypti"
+      ],
+      "correct": 3,
+      "explanation": "Aedes aegypti is a day-biting mosquito breeding in clean stored water.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "For fever in suspected dengue, the pharmacist should advise:",
+      "options": [
+        "Paracetamol and avoid NSAIDs",
+        "Aspirin",
+        "Ibuprofen",
+        "Diclofenac"
+      ],
+      "correct": 0,
+      "explanation": "Aspirin and NSAIDs increase bleeding risk when platelets are low.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Bancroftian filariasis in India is transmitted by:",
+      "options": [
+        "Aedes albopictus",
+        "Culex quinquefasciatus",
+        "Anopheles stephensi",
+        "Sandfly"
+      ],
+      "correct": 1,
+      "explanation": "Culex breeds in dirty water such as drains and cesspits.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Contacts of an Ebola patient are monitored for:",
+      "options": [
+        "7 days",
+        "3 days",
+        "21 days",
+        "6 months"
+      ],
+      "correct": 2,
+      "explanation": "The incubation period of Ebola is 2 to 21 days.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "A major change in influenza A surface antigens that can cause a pandemic is called:",
+      "options": [
+        "Antigenic drift",
+        "Phase variation",
+        "Transduction",
+        "Antigenic shift"
+      ],
+      "correct": 3,
+      "explanation": "Shift produces a new subtype; drift causes seasonal epidemics.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "In a child aged 2–12 months, fast breathing suggesting pneumonia is a rate of:",
+      "options": [
+        "50 or more per minute",
+        "30 or more per minute",
+        "40 or more per minute",
+        "70 or more per minute"
+      ],
+      "correct": 0,
+      "explanation": "Cut-offs are 60 (under 2 months), 50 (2–12 months) and 40 (1–5 years).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Primaquine should be avoided in patients with:",
+      "options": [
+        "Hypertension",
+        "G6PD deficiency",
+        "Asthma",
+        "Peptic ulcer"
+      ],
+      "correct": 1,
+      "explanation": "Primaquine can cause haemolysis in G6PD deficiency; it is also avoided in pregnancy and infants.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The Indian law controlling narcotic drugs and psychotropic substances is the:",
+      "options": [
+        "COTPA, 2003",
+        "MTP Act, 1971",
+        "NDPS Act, 1985",
+        "Drugs and Magic Remedies Act, 1954"
+      ],
+      "correct": 2,
+      "explanation": "The Narcotic Drugs and Psychotropic Substances Act, 1985 governs supply control.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "A fasting plasma glucose diagnostic of diabetes is:",
+      "options": [
+        "100 mg/dl or more",
+        "110 mg/dl or more",
+        "200 mg/dl or more",
+        "126 mg/dl or more"
+      ],
+      "correct": 3,
+      "explanation": "FPG ≥ 126 mg/dl on repeat testing confirms diabetes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The Revised National TB Control Programme was renamed NTEP in:",
+      "options": [
+        "2020",
+        "2005",
+        "2012",
+        "2017"
+      ],
+      "correct": 0,
+      "explanation": "RNTCP became the National Tuberculosis Elimination Programme in January 2020.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Ni-kshay Poshan Yojana provides TB patients with:",
+      "options": [
+        "Free hospital beds",
+        "Nutritional support through direct benefit transfer",
+        "Free X-rays only",
+        "Life insurance"
+      ],
+      "correct": 1,
+      "explanation": "It gives money for nutrition to notified TB patients.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "PPTCT under NACP stands for prevention of:",
+      "options": [
+        "Post-treatment complications",
+        "Pre-term childbirth",
+        "Parent-to-child transmission",
+        "Partner-to-contact transmission"
+      ],
+      "correct": 2,
+      "explanation": "PPTCT tests pregnant women and treats positive mothers to protect the baby.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "In IDSP, the 'L' form is used for reporting:",
+      "options": [
+        "Leprosy cases",
+        "Line lists of deaths",
+        "Large outbreaks only",
+        "Laboratory-confirmed cases"
+      ],
+      "correct": 3,
+      "explanation": "S = syndromic, P = presumptive, L = laboratory-confirmed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "India achieved elimination of leprosy as a public health problem at national level in:",
+      "options": [
+        "2005",
+        "1983",
+        "1995",
+        "2014"
+      ],
+      "correct": 0,
+      "explanation": "In December 2005 the national prevalence fell below 1 per 10,000.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The toll-free number of the National Tele Mental Health Programme (Tele-MANAS) is:",
+      "options": [
+        "1800-11-2356",
+        "14416",
+        "1097",
+        "108"
+      ],
+      "correct": 1,
+      "explanation": "Tele-MANAS was launched on 10 October 2022 with the number 14416.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The Universal Immunization Programme was launched in India in:",
+      "options": [
+        "1952",
+        "1978",
+        "1985",
+        "1995"
+      ],
+      "correct": 2,
+      "explanation": "EPI began in 1978 and was expanded as UIP in 1985.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "India (with the WHO South-East Asia Region) was certified polio-free in:",
+      "options": [
+        "2011",
+        "2009",
+        "2017",
+        "2014"
+      ],
+      "correct": 3,
+      "explanation": "Certification came on 27 March 2014; the last wild polio case was in January 2011.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The leading cause of blindness in India is:",
+      "options": [
+        "Cataract",
+        "Glaucoma",
+        "Trachoma",
+        "Vitamin A deficiency"
+      ],
+      "correct": 0,
+      "explanation": "Cataract is the main cause, so free cataract surgery is a core activity of NPCB&VI.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The National Programme for Control of Blindness was launched in:",
+      "options": [
+        "1963",
+        "1976",
+        "1985",
+        "2017"
+      ],
+      "correct": 1,
+      "explanation": "It began in 1976 and was renamed NPCB&VI in 2017.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "India started the world's first national family planning programme in:",
+      "options": [
+        "1947",
+        "1966",
+        "1952",
+        "1977"
+      ],
+      "correct": 2,
+      "explanation": "It was launched during the First Five Year Plan.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Janani Suraksha Yojana mainly promotes:",
+      "options": [
+        "Free spectacles",
+        "Tobacco cessation",
+        "Adult vaccination",
+        "Institutional delivery through cash assistance"
+      ],
+      "correct": 3,
+      "explanation": "JSY is a conditional cash transfer for poor women delivering in health facilities.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Section 6(b) of COTPA, 2003 prohibits:",
+      "options": [
+        "Sale of tobacco within 100 yards of educational institutions",
+        "Smoking in public places",
+        "Tobacco advertising",
+        "Sale to minors"
+      ],
+      "correct": 0,
+      "explanation": "Section 4 = public smoking, 5 = advertising, 6(a) = minors, 6(b) = near educational institutions.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The National Tobacco Control Programme was launched in:",
+      "options": [
+        "1992",
+        "2007–08",
+        "2003",
+        "2014"
+      ],
+      "correct": 1,
+      "explanation": "NTCP started in 2007–08 in 42 districts of 21 states/UTs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The National Malaria Eradication Programme was launched in:",
+      "options": [
+        "1953",
+        "1977",
+        "1958",
+        "2016"
+      ],
+      "correct": 2,
+      "explanation": "NMCP (1953) was converted to NMEP in 1958.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The National Framework for Malaria Elimination aims at zero indigenous malaria cases nationally by:",
+      "options": [
+        "2025",
+        "2027",
+        "2035",
+        "2030"
+      ],
+      "correct": 3,
+      "explanation": "Transmission is to be interrupted in all states by 2027 and malaria eliminated nationally by 2030.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "RBSK screens children for the '4 Ds'. These are:",
+      "options": [
+        "Defects, deficiencies, diseases and developmental delays",
+        "Diarrhoea, dengue, diphtheria and dehydration",
+        "Drugs, diet, dental and disability",
+        "Death, disease, disability and discomfort"
+      ],
+      "correct": 0,
+      "explanation": "Rashtriya Bal Swasthya Karyakram covers children from birth to 18 years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The National Programme for the Health Care of the Elderly was launched in:",
+      "options": [
+        "1982",
+        "2010–11",
+        "2005",
+        "2017"
+      ],
+      "correct": 1,
+      "explanation": "NPHCE was launched by MoHFW during 2010–11.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The WHO Regional Office for South-East Asia is located in:",
+      "options": [
+        "Geneva",
+        "Manila",
+        "New Delhi",
+        "Colombo"
+      ],
+      "correct": 2,
+      "explanation": "India belongs to the South-East Asia Region, whose regional office is in New Delhi.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Which is a non-hormonal oral contraceptive offered under the family welfare programme?",
+      "options": [
+        "Levonorgestrel emergency pill",
+        "Combined oral pill",
+        "Medroxyprogesterone injection",
+        "Centchroman"
+      ],
+      "correct": 3,
+      "explanation": "Centchroman is a non-steroidal weekly pill.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The Alma-Ata Declaration on primary health care was made in:",
+      "options": [
+        "1978",
+        "1948",
+        "1986",
+        "2005"
+      ],
+      "correct": 0,
+      "explanation": "The Alma-Ata Conference in 1978 defined primary health care.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "In plain areas, one Primary Health Centre serves a population of:",
+      "options": [
+        "5,000",
+        "30,000",
+        "1,20,000",
+        "50,000"
+      ],
+      "correct": 1,
+      "explanation": "PHC norm is 30,000 in plains and 20,000 in hilly/tribal areas.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "A Community Health Centre in plain areas serves about:",
+      "options": [
+        "30,000 people",
+        "5,000 people",
+        "1,20,000 people",
+        "3,000 people"
+      ],
+      "correct": 2,
+      "explanation": "CHC norm is 1,20,000 in plains and 80,000 in hilly/tribal areas.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Which is NOT one of the principles of primary health care?",
+      "options": [
+        "Equitable distribution",
+        "Community participation",
+        "Intersectoral coordination",
+        "Use of the most advanced and costly technology"
+      ],
+      "correct": 3,
+      "explanation": "Primary health care uses appropriate, affordable technology.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The National Urban Health Mission covers cities and towns with a population above:",
+      "options": [
+        "50,000",
+        "5,000",
+        "10 lakh",
+        "20,000"
+      ],
+      "correct": 0,
+      "explanation": "NUHM, approved in May 2013, covers towns above 50,000 population.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Under NUHM, the women's group formed in a slum to work on local health issues is the:",
+      "options": [
+        "Rogi Kalyan Samiti",
+        "Mahila Arogya Samiti",
+        "Gram Sabha",
+        "Self-help bank"
+      ],
+      "correct": 1,
+      "explanation": "Mahila Arogya Samitis work with the urban ASHA and manage an untied fund.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Swachh Bharat Mission was launched on:",
+      "options": [
+        "15 August 2010",
+        "26 January 2005",
+        "2 October 2014",
+        "1 May 2013"
+      ],
+      "correct": 2,
+      "explanation": "It aimed at an open-defecation-free India.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "A latrine in which one pit is used while the other matures into manure is the:",
+      "options": [
+        "Bore-hole latrine",
+        "Trench latrine",
+        "Bucket latrine",
+        "Twin-pit latrine"
+      ],
+      "correct": 3,
+      "explanation": "Twin-pit pour-flush latrines are recommended for rural households.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The Ottawa Charter for health promotion (1986) includes which action area?",
+      "options": [
+        "Build healthy public policy",
+        "Increase hospital beds",
+        "Import more medicines",
+        "Reduce health budgets"
+      ],
+      "correct": 0,
+      "explanation": "Its five areas include healthy public policy and supportive environments.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The free residual chlorine aimed for after chlorinating water (with one hour contact) is about:",
+      "options": [
+        "5 mg per litre",
+        "0.5 mg per litre",
+        "50 mg per litre",
+        "0.005 mg per litre"
+      ],
+      "correct": 1,
+      "explanation": "About 0.5 mg/L free residual chlorine after one hour protects against later contamination.",
+      "probability": "low"
+    }
+  ]
+}

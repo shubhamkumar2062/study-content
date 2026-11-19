@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define health. Explain the changing concepts and dimensions of health, and describe the determinants and indicators of health.",
+      "answer": "1. WHO definition (1948): a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity; positive, multidimensional and an ideal.\n2. Concepts: biomedical (absence of disease), ecological (balance of agent, host, environment), psychosocial (social, cultural, economic factors), holistic (whole person and community).\n3. Dimensions: physical, mental, social, spiritual; also emotional, vocational and environmental.\n4. Spectrum of health: positive health → better health → freedom from sickness → unrecognised sickness → mild → severe sickness → death.\n5. Determinants: heredity, environment (water, air, housing), lifestyle (diet, exercise, tobacco, alcohol), socio-economic status (income, education, occupation), health services, gender, culture and politics.\n6. Indicators: mortality (crude death rate, IMR, MMR, life expectancy), morbidity (incidence, prevalence), disability, nutritional status (low birth weight, stunting), health-care delivery (doctor–population ratio), utilisation (immunisation coverage, institutional deliveries), social and environmental indicators (literacy, safe water, sanitation).\n7. Pharmacist links: promotes healthy lifestyle, screening, rational use of medicines."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the concept of prevention of disease. Describe the levels of prevention and the modes of intervention with suitable examples.",
+      "answer": "1. Prevention: actions that stop disease from occurring, detect it early or limit its consequences; based on the natural history of disease (pre-pathogenesis and pathogenesis).\n2. Primordial prevention: stop risk factors from appearing in the population — healthy school food, tobacco advertising ban, safe play spaces.\n3. Primary prevention (before disease): immunisation, safe water, sanitation, iodised salt, condoms, mosquito nets, health education.\n4. Secondary prevention (early disease): screening for hypertension, diabetes, cervical and oral cancer; sputum test for TB; prompt treatment.\n5. Tertiary prevention (established disease): disability limitation and rehabilitation — physiotherapy after stroke, leprosy footwear, artificial limbs.\n6. Quaternary prevention: protecting patients from over-medicalisation.\n7. Modes of intervention (Leavell and Clark): health promotion; specific protection; early diagnosis and treatment; disability limitation; rehabilitation (medical, vocational, social, psychological) — with a table matching each to a level.\n8. Control, elimination and eradication defined: control = reduce to acceptable level; elimination = stop transmission in an area or reduce below a set level (leprosy as a public health problem in India); eradication = worldwide end (smallpox).\n9. Role of pharmacist at each level: education, vaccines and supplies, screening, adherence, rehabilitation aids."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is malnutrition? Describe protein–energy malnutrition and the common vitamin deficiency disorders. Add a note on the prevention of malnutrition.",
+      "answer": "1. Malnutrition: undernutrition (deficiency) or overnutrition (obesity); India has a double burden.\n2. PEM: marasmus (energy deficiency; no oedema, wasted, old-man face, good appetite) vs kwashiorkor (protein deficiency with infection; oedema, moon face, flag sign hair, flaky-paint skin, fatty liver, poor appetite).\n3. Terms: stunting (low height for age), wasting (low weight for height), underweight (low weight for age). SAM (6–59 months): WHZ < −3 SD, MUAC < 115 mm or bilateral pitting oedema.\n4. Vitamin deficiencies (table): A — night blindness, Bitot's spots, keratomalacia; D — rickets, osteomalacia; K — bleeding; B1 — beriberi; B2 — angular stomatitis, cheilosis; niacin — pellagra (dermatitis, diarrhoea, dementia); B12 and folate — megaloblastic anaemia, folate deficiency → neural tube defects; C — scurvy.\n5. Minerals: iron — anaemia; iodine — goitre and cretinism.\n6. Causes: poverty, poor breastfeeding and complementary feeding, infections, large families, ignorance, food taboos, poor sanitation.\n7. Prevention: exclusive breastfeeding for 6 months; complementary feeding; growth monitoring; ICDS supplementary nutrition and school meals; fortification (iodised salt, fortified rice); vitamin A, IFA and deworming; immunisation, safe water, sanitation; family planning and women's education; nutrition education.\n8. Pharmacist: supplements counselling, referral of malnourished children, nutrition education."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a balanced diet? State the principles of planning a balanced diet.",
+      "answer": "1. Balanced diet: a diet containing all nutrients in correct amounts and proportions to meet body needs, with a small margin for lean periods; varies with age, sex, activity and physiological state.\n2. Include all food groups: cereals and millets; pulses, eggs, meat, fish; milk and milk products; vegetables and fruits; fats, oils and nuts.\n3. Prefer whole grains and millets; combine cereals with pulses (supplementary action of proteins: lysine and methionine).\n4. Plenty of colourful vegetables and fruits; adequate water and fibre.\n5. Limit sugar, salt, refined, fried and ultra-processed foods; use iodised salt; oils in moderation.\n6. Extra needs in pregnancy and lactation (energy, protein, iron, folate, calcium); exclusive breastfeeding for infants to six months.\n7. Follow ICMR-NIN dietary guidelines for exact allowances."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the impact of urbanisation on health.",
+      "answer": "1. Urbanisation = movement of people from rural to urban areas and growth of cities.\n2. Positive: better access to hospitals and specialists, education, jobs, transport and communication.\n3. Negative — environment: slums, overcrowding, poor water supply and drainage, air, noise and water pollution.\n4. Communicable diseases: TB, dengue, diarrhoea, HIV spread fast in crowded slums.\n5. Non-communicable diseases: sedentary life and fast food → obesity, diabetes, hypertension, heart disease.\n6. Injuries: road traffic accidents, industrial accidents.\n7. Mental and social: stress, depression, alcohol and drug misuse, crime, loss of joint-family support, isolation of the elderly.\n8. Response: NUHM, urban sanitation, town planning, parks, NCD screening."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the relationship between poverty and health.",
+      "answer": "1. Poverty leads to poor nutrition, overcrowded housing, unsafe water and poor sanitation → infections, malnutrition, TB.\n2. Low education → less awareness, late care seeking, poor hygiene.\n3. Inability to pay → delayed treatment, self-medication, incomplete courses.\n4. Illness → loss of wages, cost of treatment, debt (out-of-pocket spending) → deeper poverty.\n5. This forms a vicious cycle: poverty → ill health → loss of earnings → poverty (draw the cycle).\n6. Breaking the cycle: free primary care, insurance for hospital care (PM-JAY), nutrition programmes, safe water and sanitation, education and employment schemes."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is personal hygiene? Describe its components and list avoidable habits harmful to health.",
+      "answer": "1. Personal hygiene: practices an individual follows to keep the body clean and prevent disease.\n2. Components: daily bathing and clean clothes; hand washing with soap before eating and after toilet; care of hair and nails; oral hygiene (brush twice daily); care of eyes, ears and feet (footwear against hookworm); menstrual hygiene; food hygiene; sleep, rest and exercise; respiratory etiquette.\n3. Avoidable habits: smoking and chewing tobacco, alcohol misuse, drug abuse, junk food and overeating, sedentary life, self-medication with antibiotics, open defecation and spitting, unsafe sex, excessive screen time.\n4. Effects: cancers, heart disease, infections, drug resistance, accidents.\n5. Pharmacist: health education, tobacco cessation, safe medicine use."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the social causes of disease and the social problems of the sick.",
+      "answer": "1. Social causes: poverty, illiteracy, overcrowding and slums, unemployment, occupation hazards, harmful customs and beliefs (child marriage, food taboos), gender inequality, addictions.\n2. Social problems of the sick: loss of income and job, cost of treatment and debt, stigma and discrimination (TB, leprosy, HIV, mental illness), isolation, broken relationships, interrupted schooling, dependence on family, anxiety and depression.\n3. Solutions: health education, free services and insurance, legal protection (HIV/AIDS Act 2017, Mental Healthcare Act 2017), social support, rehabilitation.\n4. Pharmacist: kind counselling, confidentiality, guiding patients to free schemes."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the WHO definition of health.",
+      "answer": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity (WHO, 1948)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate between elimination and eradication.",
+      "answer": "Elimination stops transmission in a defined area or brings a disease below a set level (e.g., leprosy as a public health problem in India); eradication ends the infection worldwide (e.g., smallpox)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the epidemiology, prevention and control of malaria. Add the role of the pharmacist.",
+      "answer": "1. Agent: Plasmodium falciparum (severe, cerebral malaria), P. vivax (relapses), P. malariae, P. ovale; P. knowlesi occasionally.\n2. Vector: female Anopheles, night biting; An. culicifacies (rural), An. stephensi (urban) in India.\n3. Life cycle: sexual cycle in mosquito, asexual (liver, then red cell) in humans.\n4. Features: fever with chills and rigors, sweating, anaemia, splenomegaly; complications of falciparum — cerebral malaria, severe anaemia, kidney failure, danger in pregnancy.\n5. Diagnosis: blood smear (thick and thin) or RDT; test every fever in endemic areas.\n6. Treatment principle (national drug policy): ACT for falciparum; chloroquine plus primaquine for vivax (primaquine avoided in pregnancy, infants, G6PD deficiency); parenteral artemisinin derivatives for severe malaria.\n7. Prevention and control: early diagnosis and complete treatment; integrated vector management — IRS, LLINs, larvivorous fish (Gambusia, guppy), source reduction, larvicides, fogging in outbreaks; personal protection (nets, repellents, clothing, screens); surveillance; community participation; chemoprophylaxis for some travellers.\n8. National programme: NVBDCP/NCVBDC; National Framework for Malaria Elimination 2016–2030.\n9. Pharmacist: test before treat, full course counselling, G6PD caution, nets and repellents, reporting."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the epidemiology and prevention of dengue and chikungunya. Why are NSAIDs avoided in dengue?",
+      "answer": "1. Dengue agent: flavivirus with 4 serotypes; second infection with another serotype raises risk of severe dengue.\n2. Vector: Aedes aegypti (and A. albopictus), day biting, breeds in clean stored water (coolers, tyres, pots, tanks).\n3. Dengue features: high fever, headache, retro-orbital pain, myalgia, rash; warning signs — abdominal pain, persistent vomiting, bleeding, restlessness, falling platelets and rising haematocrit; severe dengue = plasma leakage with shock, severe bleeding, organ damage.\n4. Diagnosis: NS1 antigen early, IgM later; platelet count and haematocrit.\n5. Chikungunya: alphavirus, same Aedes vectors; sudden fever with severe, often prolonged joint pain; rarely fatal; supportive care.\n6. Prevention (both): weekly emptying and covering of containers ('dry day'), removing tyres and junk, larvicides, fogging in outbreaks, personal protection by day, nets for patients, community campaigns, National Dengue Day 16 May.\n7. Management principle: no specific antiviral; fluids; paracetamol for fever.\n8. NSAIDs and aspirin are avoided because they impair platelet function and irritate the stomach, increasing bleeding risk when platelets are low.\n9. Pharmacist: fever advice, warning signs, referral, myth-busting."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define drug addiction. Classify commonly abused substances and discuss the causes, effects, prevention and control of drug and substance abuse, including the role of the pharmacist.",
+      "answer": "1. Definitions: substance abuse — harmful or non-medical use; dependence — craving, loss of control, continued use despite harm, tolerance, withdrawal; psychological vs physical dependence; tolerance; withdrawal.\n2. Classification: depressants (alcohol, benzodiazepines, barbiturates); opioids (heroin, morphine, codeine cough syrups, tramadol); stimulants (cocaine, amphetamines, nicotine); cannabis; hallucinogens (LSD); inhalants (glue, petrol, whitener); tobacco.\n3. Causes: peer pressure, curiosity, stress, family problems, availability, unemployment, mental illness, early tobacco and alcohol use.\n4. Effects: organ damage, overdose deaths, HIV and hepatitis from needle sharing, accidents, crime, job loss, family breakdown.\n5. Supply reduction: NDPS Act 1985; Schedule H, H1, X controls.\n6. Demand reduction: school and college awareness, life skills, family counselling, campaigns.\n7. Harm reduction: needle–syringe programmes, opioid substitution therapy.\n8. Treatment and rehabilitation: detoxification, de-addiction centres, counselling, self-help groups (AA, NA), vocational rehabilitation, relapse prevention.\n9. Pharmacist: dispense controlled drugs only on valid prescription with registers; detect forged or repeat prescriptions; refuse misuse of cough syrups and sedatives; educate; refer; secure storage."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the prevention and control of cholera.",
+      "answer": "1. Agent: Vibrio cholerae O1 (classical, El Tor) and O139.\n2. Spread: faecal–oral via contaminated water and food; floods, camps, slums.\n3. Incubation: few hours to about 5 days; features: painless rice-water stools, vomiting, rapid dehydration, cramps.\n4. Treatment principle: ORS for most, IV fluids for severe dehydration, antibiotics as per guidelines for severe cases, zinc for children.\n5. Prevention: safe water (boiling, chlorination), sanitation and latrines, food hygiene, hand washing, disinfection of excreta, notification and outbreak investigation, oral cholera vaccine in high-risk areas, health education.\n6. Pharmacist: stock ORS and zinc, teach preparation of ORS, avoid antimotility drugs in children, refer severe cases."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the prevention and control of lymphatic filariasis.",
+      "answer": "1. Agents: Wuchereria bancrofti (most in India), Brugia malayi.\n2. Vectors: Culex quinquefasciatus (dirty water) and Mansonia (ponds with water plants).\n3. Nocturnal periodicity: night blood smear; antigen tests by day.\n4. Features: lymphangitis, lymphoedema, elephantiasis, hydrocele; stigma.\n5. Mass drug administration once a year to the eligible population in endemic districts (DEC plus albendazole, or triple-drug with ivermectin in selected districts), taken under supervision.\n6. Morbidity management and disability prevention: limb hygiene and exercise; hydrocele surgery.\n7. Vector control: drains, larvicides, removing water plants; personal protection.\n8. Pharmacist: explain MDA and mild reactions, exclusions (pregnancy, young children, seriously ill)."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the prevention and control of hypertension.",
+      "answer": "1. Definition: BP persistently 140/90 mm Hg or more; primary vs secondary.\n2. Risk factors: age, family history, obesity, high salt, low potassium, alcohol, tobacco, inactivity, stress, diabetes.\n3. Complications: stroke, MI, heart failure, kidney failure, retinopathy; 'silent killer'; rule of halves.\n4. Primordial: less salt in processed foods, tobacco control, health education in schools.\n5. Primary: salt under 5 g/day (WHO), fruits and vegetables, weight control, exercise, no tobacco, limit alcohol.\n6. Secondary: screening of adults, regular antihypertensive treatment and follow-up.\n7. Tertiary: stroke and cardiac rehabilitation.\n8. Pharmacist: BP checks, adherence counselling, lifestyle advice, avoid NSAIDs/decongestants without advice."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the prevention and early detection of cancer.",
+      "answer": "1. Common cancers in India: oral, lung, breast, cervical.\n2. Risk factors: tobacco (largest preventable), alcohol, HPV, hepatitis B and C, H. pylori, obesity, inactivity, radiation, occupational carcinogens, air pollution, heredity.\n3. Warning signs — CAUTION: change in bowel/bladder habits, a sore that does not heal, unusual bleeding, thickening or lump, indigestion or difficulty swallowing, obvious change in wart or mole, nagging cough or hoarseness.\n4. Primary prevention: tobacco and alcohol control, diet and exercise, HPV and hepatitis B vaccination, safe sex, workplace protection.\n5. Secondary: screening — oral visual examination, clinical breast examination, VIA/Pap/HPV test for cervix; early treatment.\n6. Tertiary: surgery, radiotherapy, chemotherapy, palliative care.\n7. Pharmacist: tobacco cessation, awareness, chemotherapy counselling, palliative care."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the prevention and control of acute respiratory infections and pneumonia in children.",
+      "answer": "1. ARI: upper (cold, pharyngitis, otitis) and lower (bronchiolitis, pneumonia); major cause of under-five deaths.\n2. Agents: RSV, influenza, measles; S. pneumoniae, Hib, S. aureus.\n3. Risk factors: low birth weight, malnutrition, no breastfeeding, overcrowding, indoor smoke, parental smoking, missed vaccines, vitamin A deficiency.\n4. Fast breathing cut-offs: < 2 months ≥ 60, 2–12 months ≥ 50, 1–5 years ≥ 40 per minute; chest indrawing and danger signs → urgent referral.\n5. Prevention: vaccines (measles, pertussis, Hib, PCV), exclusive breastfeeding, nutrition and vitamin A, clean fuel and ventilation, hand washing, less crowding.\n6. Case management with antibiotics by trained workers per national protocol; oxygen for severe cases.\n7. Pharmacist: no antibiotics for simple cold, recognise danger signs, ensure complete course."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is antigenic drift and antigenic shift in influenza?",
+      "answer": "Drift is small, gradual change in the haemagglutinin or neuraminidase antigens causing seasonal epidemics; shift is a sudden major change producing a new subtype that can cause a pandemic."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the vectors of malaria, dengue and bancroftian filariasis.",
+      "answer": "Malaria — female Anopheles; dengue — Aedes aegypti (and A. albopictus); bancroftian filariasis — Culex quinquefasciatus."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the objectives, functioning and outcome of the National AIDS Control Programme. Add the role of the pharmacist.",
+      "answer": "1. Background: run by NACO (set up 1992) with State AIDS Control Societies; implemented in phases; phase V from April 2021 to March 2026.\n2. Objectives: sharply reduce new infections and AIDS-related deaths (80% reduction from 2010 levels as stated aim), eliminate vertical transmission of HIV and syphilis, reach 95-95-95, reduce stigma.\n3. Targeted interventions for high-risk groups: condoms, STI care, counselling; harm reduction — needle–syringe exchange and opioid substitution therapy.\n4. ICTC: free confidential counselling and testing.\n5. PPTCT: testing all pregnant women, lifelong ART for positive mothers, infant prophylaxis and testing.\n6. ART and Link ART centres: free lifelong treatment, viral load monitoring, opportunistic infection care.\n7. STI/RTI clinics (Suraksha clinics), blood safety, IEC (Red Ribbon Clubs), helpline, surveillance.\n8. Legal: HIV and AIDS (Prevention and Control) Act, 2017 — non-discrimination, consent and confidentiality.\n9. Outcome: low adult prevalence, falling new infections and deaths, wide free ART coverage; gaps in testing and viral load coverage.\n10. Pharmacist: discreet condom/syringe supply, referral for testing, ART adherence counselling, side effects and interactions, PEP awareness, confidentiality, fight stigma."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the National Tuberculosis Elimination Programme with respect to its objectives, strategies and outcome.",
+      "answer": "1. Background: RNTCP started 1997 (pilot 1993) with DOTS; renamed NTEP in January 2020; National Strategic Plan 2017–2025 aimed to end TB ahead of the global 2030 target (check current plan on tbcindia.mohfw.gov.in).\n2. Objectives: reduce incidence and deaths; no catastrophic costs; find all cases including private sector.\n3. Detect: test presumptive TB (cough ≥ 2 weeks); CBNAAT/Truenat, microscopy, chest X-ray; active case finding; mandatory notification by doctors, labs and chemists.\n4. Treat: free daily fixed-dose combinations; shorter regimens for drug-resistant TB; treatment supporters; adherence technology; Ni-kshay Poshan Yojana (nutrition support via DBT).\n5. Prevent: TB preventive therapy for contacts and PLHIV; BCG; airborne infection control.\n6. Build: Ni-kshay online system; private sector engagement; Pradhan Mantri TB Mukt Bharat Abhiyaan with Ni-kshay Mitras.\n7. Outcome: higher notification, wider molecular testing, fall in incidence and deaths; TB still a major problem.\n8. Pharmacist: refer coughers, treatment supporter, adherence and side effects (red urine with rifampicin; report jaundice), record anti-TB drug sales and notify, World TB Day (24 March)."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the Universal Immunization Programme and the Pulse Polio programme. What has been their outcome?",
+      "answer": "1. UIP background: EPI 1978 → UIP 1985; part of NHM; Mission Indradhanush catch-up drives; eVIN for stock and cold-chain monitoring.\n2. UIP objectives: high coverage, quality services, reliable cold chain, district-wise monitoring, vaccine self-sufficiency.\n3. Main vaccines: Td in pregnancy; BCG, OPV-0 and hepatitis B at birth; OPV, pentavalent, rotavirus, fIPV, PCV in infancy; MR, JE (endemic areas) and boosters later; Td at 10 and 16 years (check current schedule on mohfw.gov.in).\n4. Functioning: fixed-day sessions at sub-centres and Anganwadis, ASHA mobilisation, cold chain, vaccine vial monitors, AEFI surveillance.\n5. Pulse Polio: launched 1995; national and sub-national immunisation days giving OPV to all under-fives on the same day; booth plus house-to-house; transit and mobile teams; finger and house marking; AFP surveillance (under 15 years) and sewage surveillance.\n6. Outcome: last wild polio case January 2011; WHO certified India (SEAR) polio-free on 27 March 2014; maternal and neonatal tetanus eliminated; coverage rising; new vaccines added.\n7. Pharmacist: cold chain 2–8 °C, no freezing of DPT/HepB/Td/PCV, VVM and expiry checks, reminders, AEFI reporting, myth busting."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the Integrated Disease Surveillance Programme (IDSP).",
+      "answer": "1. Launched November 2004 with World Bank assistance; now under NHM; reporting on the Integrated Health Information Platform (IHIP).\n2. Objective: decentralised, lab-based, IT-enabled surveillance of epidemic-prone diseases to detect outbreaks early and respond rapidly.\n3. Reporting forms: S (syndromic, by health workers), P (presumptive, by medical officers), L (laboratory-confirmed).\n4. Weekly reporting plus immediate reporting of unusual events; surveillance units at centre, state, district.\n5. Rapid response teams investigate outbreaks; referral lab network; media scanning.\n6. Diseases include diarrhoea/cholera, typhoid, hepatitis, malaria, dengue, measles, AES, ILI.\n7. Pharmacist: report unusual rise in sales of ORS, antipyretics, antimalarials; outbreak supply."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the National Leprosy Eradication Programme.",
+      "answer": "1. Background: control programme 1955 (dapsone) → NLEP 1983 with MDT; elimination as public health problem (< 1 per 10,000) nationally in December 2005.\n2. Objectives: reduce burden, interrupt transmission, prevent grade 2 disabilities, reduce stigma.\n3. Case detection campaigns (house-to-house), contact examination, Sparsh awareness campaign.\n4. Free MDT blister packs for PB and MB leprosy.\n5. Single-dose rifampicin post-exposure prophylaxis for contacts.\n6. DPMR: self-care, MCR footwear, reconstructive surgery; social rehabilitation.\n7. Outcome: big fall in prevalence; new cases still detected.\n8. Pharmacist: recognise anaesthetic patches, MDT counselling (red urine, skin darkening), recognise reactions, fight stigma."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the National Mental Health Programme.",
+      "answer": "1. Launched 1982; DMHP 1996 (Bellary model); Tele-MANAS launched 10 October 2022 (toll-free 14416); Mental Healthcare Act 2017.\n2. Objectives: minimum mental health care for all, especially the vulnerable; integrate mental health with general care and social development; community participation.\n3. DMHP: early detection and treatment, training of general doctors and workers, IEC, records.\n4. Tertiary strengthening, Centres of Excellence, manpower training.\n5. Life-skills, school mental health, suicide prevention, workplace stress.\n6. Primary-care screening at Ayushman Arogya Mandirs.\n7. Pharmacist: recognise depression/suicide risk and refer, adherence (do not stop antidepressants suddenly), safe storage, reduce stigma."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the National Programme for Control of Blindness and Visual Impairment.",
+      "answer": "1. Launched 1976 (Trachoma Control Programme of 1963 merged); renamed NPCB&VI in 2017 to cover all visual impairment.\n2. Goal stated by the government: reduce avoidable blindness prevalence to 0.25% by 2025 (check current target).\n3. Causes: cataract (leading), refractive errors, glaucoma, corneal blindness, diabetic retinopathy, childhood blindness.\n4. Activities: free cataract surgery with IOL; school eye screening and free spectacles; spectacles for presbyopia; eye banks and keratoplasty; glaucoma and DR care; vision centres; training; NGO support; Eye Donation Fortnight.\n5. Pharmacist: eye checks for diabetics, correct eye-drop use, avoid steroid drops without prescription, promote eye donation."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the National Programme for Prevention and Control of Deafness.",
+      "answer": "1. Started as a pilot in 2006–07 (January 2007) in 25 districts; expanded in phases.\n2. Objectives: prevent avoidable hearing loss from disease or injury; early identification, diagnosis and treatment of ear problems; medical rehabilitation of deaf persons of all ages; build institutional capacity for ear care.\n3. Activities: training of ENT staff and audiologists; equipment at district hospitals; newborn and school screening; free hearing aids and speech therapy; IEC.\n4. Preventable causes: chronic ear infections, wax, noise, ototoxic drugs (aminoglycosides), measles, mumps, meningitis, rubella in pregnancy, birth asphyxia, neonatal jaundice.\n5. Pharmacist: avoid self-medication in discharging ears, warn about ototoxic drugs, advise ear protection, refer children with poor speech."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are the S, P and L forms of IDSP?",
+      "answer": "S = syndromic reporting by health workers; P = presumptive (clinical) diagnosis by medical officers; L = laboratory-confirmed cases reported by labs."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "When was India certified polio-free, and what is AFP surveillance?",
+      "answer": "India (with the WHO South-East Asia Region) was certified polio-free on 27 March 2014; AFP surveillance reports and tests every case of acute flaccid paralysis in children under 15 years to detect any poliovirus."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the national health intervention programme for mother and child (RMNCH+A) with its major schemes.",
+      "answer": "1. Background: RCH approach; RMNCH+A strategy adopted in 2013 for the continuum of care (adolescence → pregnancy → delivery → newborn → childhood); nutrition component added later; runs under NHM.\n2. Objectives: reduce MMR, IMR, NMR and under-five mortality; reduce TFR; improve adolescent health and anaemia.\n3. Reproductive: spacing and permanent methods, home delivery of contraceptives by ASHA, post-partum family planning.\n4. Maternal: JSY (12 April 2005) — cash incentive for institutional delivery for poor women; JSSK (June 2011) — free delivery including caesarean, drugs, tests, diet, blood and transport; PMSMA — free specialist ANC on a fixed day each month; four ANC visits, IFA, calcium, Td, high-risk identification.\n5. Newborn: essential newborn care, breastfeeding within one hour, newborn care corners, SNCUs, home-based newborn care, kangaroo mother care.\n6. Child: UIP, exclusive breastfeeding, ORS–zinc, pneumonia management, vitamin A, deworming, RBSK (4 Ds), nutrition rehabilitation centres.\n7. Adolescent: RKSK — nutrition, SRH, mental health, injuries, substance misuse, NCDs; adolescent-friendly clinics; WIFS; menstrual hygiene.\n8. Cross-cutting: Anemia Mukt Bharat, death reviews, MCP card, ASHA incentives.\n9. Outcome: rise in institutional deliveries, marked fall in MMR, IMR, U5MR; anaemia and stunting remain.\n10. Pharmacist: IFA/calcium/ORS–zinc counselling, danger signs, safe drugs in pregnancy, contraception advice."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Trace the history of malaria control in India and describe the current strategy for malaria elimination.",
+      "answer": "1. NMCP 1953 — IRS with DDT; large fall in cases.\n2. NMEP 1958 — eradication attempt.\n3. Resurgence in the 1970s — insecticide and drug resistance, operational and financial problems.\n4. Modified Plan of Operation 1977, with P. falciparum containment — aim to prevent deaths and reduce morbidity.\n5. Early 2000s — integrated into NVBDCP covering malaria, dengue, chikungunya, filariasis, JE, kala-azar; now run by NCVBDC.\n6. National Framework for Malaria Elimination 2016–2030: interrupt indigenous transmission in all states/UTs by 2027; zero indigenous cases nationally by 2030; National Strategic Plan 2023–2027.\n7. Strategy: early diagnosis (RDT, microscopy by ASHAs) and complete treatment (ACT for Pf, CQ + PQ for Pv); IRS, LLINs, larvivorous fish, source reduction; case-based surveillance and district stratification (categories 0–3); BCC; intersectoral work; drug efficacy monitoring.\n8. Outcome: sharp fall in cases and deaths since 2015; residual burden in forest and tribal areas.\n9. Pharmacist: test before treat, full course, G6PD caution, nets and repellents, reporting."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the National Tobacco Control Programme and the main provisions of COTPA, 2003. Discuss the role of the pharmacist in tobacco cessation.",
+      "answer": "1. Background: NTCP launched 2007–08 in 42 districts of 21 states/UTs; now in all states and UTs; India is a party to WHO FCTC.\n2. Objectives: awareness of harmful effects; reduce production and supply; implement COTPA 2003; help people quit; implement FCTC strategies.\n3. COTPA sections: 4 — no smoking in public places; 5 — ban on direct/indirect advertising and sponsorship; 6(a) — no sale to or by persons under 18; 6(b) — no sale within 100 yards of educational institutions; 7 — specified (pictorial) health warnings.\n4. Functioning: national, state and district tobacco control cells; tobacco cessation centres; national quit line 1800-11-2356; training of health workers, police and teachers; tobacco-free educational institutions; enforcement squads; mass media; World No Tobacco Day 31 May; e-cigarette ban (2019 Act).\n5. Outcome: fall in adult tobacco use, but smokeless tobacco and oral cancer remain major problems.\n6. Pharmacist: 5 A's (Ask, Advise, Assess, Assist, Arrange); 5 R's for unwilling (Relevance, Risks, Rewards, Roadblocks, Repetition); nicotine replacement therapy counselling; referral to quit line and cessation centres; not selling tobacco."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the National Family Welfare Programme and the methods of contraception.",
+      "answer": "1. India was the first country to start a national family planning programme (1952, First Five Year Plan); later broadened to family welfare and a target-free, rights-based approach; National Population Policy 2000.\n2. Objectives: meet unmet need, stabilise population, improve maternal and child health through spacing.\n3. Spacing methods: condoms, combined oral pills, centchroman, injectable MPA, copper IUCD (including post-partum), emergency contraceptive pill.\n4. Permanent methods: tubectomy (laparoscopic, mini-lap), vasectomy (including no-scalpel).\n5. Support: home delivery by ASHA, compensation for sterilisation, indemnity scheme, Mission Parivar Vikas in high-fertility districts, safe abortion under MTP Act, logistics system, IEC.\n6. Outcome: TFR near replacement nationally; low male participation.\n7. Pharmacist: counselling on choice and correct use, missed pills, emergency contraception, dual protection."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the National Programme for the Health Care of the Elderly (NPHCE).",
+      "answer": "1. Launched 2010–11 by MoHFW for people aged 60 and above; under NCD flexible pool of NHM.\n2. Objectives: accessible promotive, preventive, curative and rehabilitative care through community-based primary care; identify and manage elderly health problems; capacity building of staff and family carers; referral services.\n3. Services: sub-centre/Ayushman Arogya Mandir — education, home visits; PHC and CHC — geriatric clinics, physiotherapy; district hospital — geriatric OPD and ward; Regional Geriatric Centres in medical colleges; National Centres for Ageing.\n4. Common problems: hypertension, diabetes, arthritis and falls, cataract, deafness, dementia, depression, polypharmacy.\n5. Pharmacist: medication review, reduce polypharmacy, pill organisers, large labels, fall-risk drug counselling, vaccination awareness."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the role of WHO in Indian national health programmes.",
+      "answer": "1. WHO: UN health agency, founded 1948, HQ Geneva; India in South-East Asia Region with regional office in New Delhi; country office for India.\n2. General functions: norms and standards (essential medicines list, ICD, guidelines), technical cooperation, epidemic surveillance under IHR (2005), research and statistics, prequalification.\n3. Smallpox eradication; polio — National Polio Surveillance Project and certification (2014).\n4. TB — DOTS and End TB strategy; leprosy — MDT recommended and supplied free for many years.\n5. Malaria and vector-borne diseases — technical strategy and drug policy; HIV and hepatitis guidelines.\n6. NCDs and tobacco — action plans, FCTC; mental health — mhGAP; blindness initiative.\n7. Emergencies — SARS, Ebola, influenza, COVID-19 response; medicines — essential medicines concept for NLEM, pharmacovigilance, GMP."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is meant by social health programmes? Give examples of community-based schemes that support health in India.",
+      "answer": "1. Social health programmes: the community-based arm of health programmes using community workers, other sectors and social support.\n2. ASHA under NHM: village health activist; mobilises for immunisation and institutional delivery, newborn visits, depot holder for ORS, contraceptives, IFA.\n3. VHSNC and Village Health and Nutrition Days: community planning, monthly service day.\n4. ICDS/POSHAN Abhiyaan: supplementary nutrition, growth monitoring, pre-school education via Anganwadi.\n5. School meals (PM POSHAN).\n6. Ayushman Bharat: Ayushman Arogya Mandirs and PM-JAY insurance.\n7. Jan Aushadhi Kendras: low-cost generics run by pharmacists.\n8. Swachh Bharat Mission; Rogi Kalyan Samitis.\n9. Pharmacist: work with ASHAs, camps, Jan Aushadhi, guiding people to schemes."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on JSY, JSSK and RBSK.",
+      "answer": "1. Janani Suraksha Yojana (launched 12 April 2005): conditional cash transfer to promote institutional delivery among poor pregnant women; ASHA as link worker; aims to reduce maternal and neonatal deaths.\n2. Janani Shishu Suraksha Karyakram (June 2011): free delivery including caesarean section in public facilities, free drugs, diagnostics, diet, blood, and transport (home to facility, referral, drop back) for pregnant women and sick infants.\n3. Rashtriya Bal Swasthya Karyakram: child health screening from birth to 18 years for the 4 Ds — defects at birth, deficiencies, diseases, developmental delays — by mobile health teams in Anganwadis and schools, with referral to District Early Intervention Centres for free treatment.\n4. All three work under RMNCH+A of NHM."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the 5 A's of tobacco cessation.",
+      "answer": "Ask about tobacco use, Advise to quit, Assess willingness, Assist in quitting (counselling, NRT), Arrange follow-up."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are the elimination goals of the National Framework for Malaria Elimination 2016–2030?",
+      "answer": "Interrupt indigenous transmission of malaria in all states and UTs by 2027 and achieve zero indigenous cases (elimination) in the whole country by 2030."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define primary health care. Describe its principles and elements, and the functions of a Primary Health Centre in India.",
+      "answer": "1. Definition (Alma-Ata 1978): essential health care based on practical, scientifically sound and socially acceptable methods, universally accessible to individuals and families through full participation, at affordable cost; first level of contact.\n2. Principles: equitable distribution, community participation, intersectoral coordination, appropriate technology, emphasis on prevention.\n3. Elements (ELEMENTS): education on health problems; locally endemic disease control; expanded immunisation; maternal and child health with family planning; essential drugs; nutrition; treatment of common illness; safe water and sanitation.\n4. Rural set-up and norms: sub-centre 5,000/3,000; PHC 30,000/20,000; CHC 1,20,000/80,000; Ayushman Arogya Mandirs.\n5. PHC functions: medical care and referral; MCH; family planning; immunisation; control of communicable diseases; NCD screening; environmental sanitation and safe water; health education; school health; basic lab; vital statistics and records; supervision and training; national programmes; free drugs.\n6. Staff: medical officer, pharmacist, nurses, LHV, health assistants, lab technician.\n7. Pharmacist at PHC: indenting, storage, cold chain, dispensing and counselling, records, programme drugs, health education, ADR reporting."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the National Urban Health Mission — its need, objectives, structure and functioning.",
+      "answer": "1. Background: approved by the Union Cabinet on 1 May 2013 as a sub-mission of NHM; covers cities and towns above 50,000 population and district/state headquarters.\n2. Need: rapid urbanisation, slums, poor water and sanitation, worse indicators among urban poor, lack of public primary care, NCD/TB/vector-borne burden.\n3. Objectives: essential primary care for the urban poor, reduce out-of-pocket spending, strengthen public health systems in cities, partner with ULBs, NGOs and private sector.\n4. Vulnerable groups: slum dwellers, homeless, rag pickers, street children, rickshaw pullers, construction and brick-kiln workers, sex workers, migrants.\n5. Community level: urban ASHA; Mahila Arogya Samiti with untied fund.\n6. Outreach: urban health and nutrition days, special camps, mobile units.\n7. U-PHC: about one per 50,000 population, in or near slums, convenient OPD hours, free drugs and tests, immunisation, FP, NCD screening (urban Ayushman Arogya Mandirs).\n8. U-CHC and district hospitals for referral; convergence with sanitation, ICDS, housing and livelihood schemes.\n9. Outcome and gaps; pharmacist's role in dispensing, counselling, screening and Jan Aushadhi."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are school health services? Describe their objectives and components, and the role of the pharmacist in school health promotion.",
+      "answer": "1. Importance: large population group, habit-forming age, carry messages home, early detection of correctable problems.\n2. Objectives: promote positive health, prevent disease, detect and correct defects early, provide a healthy environment, create awareness among children, parents and teachers.\n3. Health appraisal: periodic examination (height, weight, vision, hearing, teeth, anaemia, skin) and daily observation by teachers.\n4. Remedial measures and follow-up: treatment, spectacles, dental care, referral.\n5. Prevention of communicable diseases: immunisation checks, Td, isolation, deworming.\n6. Healthful environment: site, classrooms, light, ventilation, safe water, separate toilets, hand washing, waste disposal, playground.\n7. Nutritional services: PM POSHAN school meal, WIFS, nutrition education.\n8. First aid and emergency care; mental health and life skills; dental, eye, ear care.\n9. Health education: hygiene, hand washing, menstrual hygiene, road safety, substance abuse, age-appropriate SRH; inclusive education; school health records.\n10. Programmes: RBSK screening, School Health and Wellness Programme (health and wellness ambassadors), National Deworming Day, tobacco-free schools.\n11. Pharmacist: talks on hygiene and safe medicine use, anti-tobacco and anti-drug education, first-aid kits and training, support for deworming and IFA days."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the measures for improvement of rural sanitation.",
+      "answer": "1. Problems: open defecation, unsafe water, poor drainage, cattle near houses, refuse heaps, flies and mosquitoes.\n2. Excreta disposal: household sanitary latrines — pour-flush water-seal, twin-pit, septic tank; community and school toilets.\n3. Safe water: protected wells with parapet and cover, hand pumps, piped supply; chlorination with bleaching powder to leave about 0.5 mg/L free residual chlorine after one hour; household boiling, chlorine tablets, filtration.\n4. Sullage: soak pits, kitchen gardens, covered drains.\n5. Solid waste: segregation, compost pits, vermicompost, biogas from dung.\n6. Housing: ventilation, separate cattle sheds, clean cooking fuel.\n7. Vector control: remove stagnant water, drainage.\n8. Programmes: Swachh Bharat Mission (Grameen) from 2 October 2014 — ODF and ODF Plus; Jal Jeevan Mission; VHSNC funds.\n9. Benefits: fewer diarrhoeal diseases, typhoid, hepatitis A/E, worms; less stunting; dignity for women."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is health education? Describe its principles and methods.",
+      "answer": "1. Definition: a process that informs, motivates and helps people adopt and maintain healthy practices; aims at changes in knowledge, attitude and practice.\n2. Principles: interest (felt needs), participation, known to unknown, comprehension (local language), reinforcement, motivation, learning by doing, credibility, good human relations, use of leaders; 'soil, seed and sower'.\n3. Individual methods: counselling, home visits, pharmacy counter advice.\n4. Group methods: lecture, demonstration, group discussion, panel, symposium, role play, workshop.\n5. Mass methods: TV, radio, newspapers, posters, social media, exhibitions, street plays.\n6. Communication process: source → message → channel → receiver → feedback; barriers (language, literacy, beliefs, noise, mistrust).\n7. Pharmacist as health educator on health days and at the counter."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the concept of health promotion with reference to the Ottawa Charter.",
+      "answer": "1. Health promotion (Ottawa Charter, 1986): enabling people to increase control over, and improve, their health.\n2. Build healthy public policy — tobacco taxes, smoke-free laws, food labelling.\n3. Create supportive environments — safe water, parks, healthy canteens.\n4. Strengthen community action — VHSNC, Mahila Arogya Samiti.\n5. Develop personal skills — health education, life skills.\n6. Reorient health services towards prevention and promotion.\n7. Strategies: advocate, enable, mediate.\n8. Examples in India: COTPA, Swachh Bharat, school health and wellness programme, Ayushman Arogya Mandir wellness activities."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the rural health care infrastructure in India.",
+      "answer": "1. Three-tier primary care network under NHM linked to district hospitals.\n2. Village: ASHA, Anganwadi worker, VHSNC.\n3. Sub-centre: ANM and multipurpose worker; 5,000 population (3,000 in hilly/tribal); many upgraded to Ayushman Arogya Mandirs with a community health officer.\n4. PHC: medical officer and team; 30,000 (20,000); about six beds; referral unit for sub-centres.\n5. CHC: 1,20,000 (80,000); 30 beds with physician, surgeon, obstetrician and paediatrician; first referral unit for about four PHCs.\n6. District hospital: secondary care.\n7. Ayushman Arogya Mandirs provide comprehensive primary care including NCDs, mental health, elderly care, free drugs and tests."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the role of the community pharmacist in rural and urban health services.",
+      "answer": "1. First point of contact: triage and referral to PHC/U-PHC.\n2. Screening: BP, blood sugar, BMI, peak flow.\n3. Rational medicine use: no antibiotics without prescription, generics, Jan Aushadhi.\n4. Supply and counselling for programme drugs, vaccines, contraceptives, ORS–zinc, IFA.\n5. Health education on health days and in schools.\n6. Surveillance: TB notification, ADR reporting to PvPI, unusual sales during outbreaks.\n7. Disaster and emergency support; working with ASHAs and Anganwadi workers."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the population norms for a sub-centre, PHC and CHC in plain areas.",
+      "answer": "Sub-centre 5,000; PHC 30,000; CHC 1,20,000 (in hilly/tribal areas 3,000, 20,000 and 80,000)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a Mahila Arogya Samiti?",
+      "answer": "A women's group in an urban slum under NUHM that works on local health, nutrition, water and sanitation issues and manages an untied fund, linked with the urban ASHA."
+    }
+  ]
+}
