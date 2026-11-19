@@ -1,0 +1,48 @@
+{
+  "code": "BP801T",
+  "title": "Biostatistics and Research Methodology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP801T Biostatistics and Research Methodology",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP801T_B.Pharma-pages-38.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction, central tendency, dispersion and correlation",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Regression, probability, sampling and parametric tests",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Non-parametric tests, research, graphs and study design",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Blocking and confounding, regression modelling and statistical software",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Factorial design, response surface methodology and optimization",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

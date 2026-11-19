@@ -1,0 +1,582 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define biostatistics. Explain the measures of central tendency with their merits and demerits. From the following frequency distribution of disintegration time of 30 tablets (example numbers), calculate mean, median and mode: 0–2 min: 3; 2–4: 7; 4–6: 12; 6–8: 6; 8–10: 2.",
+      "answer": "1. Biostatistics: application of statistical methods (collection, organisation, analysis and interpretation of numerical data) to biological, medical and pharmaceutical problems.\n2. Central tendency: a single value representing the centre of data. Qualities of a good average: rigidly defined, simple, based on all values, little affected by extremes, suitable for algebra.\n3. Mean = Σx/n. Merits: uses every value, easy, suits further work. Demerits: pulled by extreme values, not for open classes or qualitative data.\n4. Median = middle value of ordered data. Merits: not affected by extremes, suits skewed and ordinal data, can be found graphically (ogive). Demerits: ignores actual values, less suited to algebra.\n5. Mode = most frequent value. Merits: easy, suits nominal data (most common brand). Demerits: may not exist or may be more than one; not based on all values.\n6. Table: mid-points 1, 3, 5, 7, 9; fx = 3, 21, 60, 42, 18; Σfx = 144; N = 30; cf = 3, 10, 22, 28, 30.\n7. Mean = Σfx/N = 144/30 = 4.8 min.\n8. Median: N/2 = 15 → median class 4–6; L = 4, F = 10, f = 12, h = 2. Median = 4 + (15 − 10)/12 × 2 = 4.83 min.\n9. Mode: modal class 4–6; f1 = 12, f0 = 7, f2 = 6. Mode = 4 + (12 − 7)/(24 − 7 − 6) × 2 = 4.91 min.\n10. Check: 3 Median − 2 Mean = 14.5 − 9.6 = 4.9 min, close to the mode, so the distribution is nearly symmetrical.",
+      "tags": [
+        "numerical",
+        "central tendency"
+      ]
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is correlation? Describe its types and the scatter diagram. Calculate Karl Pearson's coefficient of correlation for the following calibration data (example numbers): concentration (µg/ml) 2, 4, 6, 8, 10; absorbance 0.11, 0.20, 0.31, 0.40, 0.52. Interpret the result.",
+      "answer": "1. Correlation: degree and direction of linear relationship between two variables; it does not prove cause and effect.\n2. Types: positive (both rise: concentration and absorbance), negative (one rises, other falls: drug content and storage time), zero; simple, multiple and partial; linear and non-linear.\n3. Scatter diagram: plot (x, y) pairs; a narrow upward band = strong positive, downward band = negative, round cloud = none (draw three sketches).\n4. Formula: r = Sxy/√(Sxx × Syy), where Sxy = Σxy − ΣxΣy/n, Sxx = Σx² − (Σx)²/n, Syy = Σy² − (Σy)²/n.\n5. Sums: n = 5, Σx = 30, Σy = 1.54, Σxy = 11.28, Σx² = 220, Σy² = 0.5786.\n6. Sxy = 11.28 − 9.24 = 2.04; Sxx = 220 − 180 = 40; Syy = 0.5786 − 0.47432 = 0.10428.\n7. r = 2.04/√(40 × 0.10428) = 2.04/2.0424 = 0.9988.\n8. Interpretation: almost perfect positive linear correlation; r² = 0.998, so 99.8% of the variation in absorbance is explained by concentration; the method obeys Beer's law in this range.\n9. Properties of r: lies between −1 and +1; no unit; unaffected by change of origin and scale; geometric mean of the two regression coefficients.\n10. Uses in pharmacy: linearity in analytical validation, IVIVC, dose–response, hardness vs disintegration.",
+      "tags": [
+        "numerical",
+        "correlation"
+      ]
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain measures of dispersion. Calculate range, mean deviation, standard deviation and coefficient of variation for the weights (mg) of 10 tablets (example numbers): 248, 252, 250, 249, 251, 250, 253, 247, 250, 255.",
+      "answer": "1. Dispersion: scatter of values around the average. Absolute measures (range, quartile deviation, mean deviation, SD) carry units; relative measures (coefficient of range, CV) are unit-free.\n2. Range = largest − smallest; quick but uses only two values. Quartile deviation = (Q3 − Q1)/2. Mean deviation = Σ|x − x̄|/n. SD = √[Σ(x − x̄)²/(n − 1)] for a sample; the best measure, used in further statistics.\n3. Mean = 2505/10 = 250.5 mg.\n4. Range = 255 − 247 = 8 mg; coefficient of range = 8/502 = 0.016.\n5. Deviations: −2.5, 1.5, −0.5, −1.5, 0.5, −0.5, 2.5, −3.5, −0.5, 4.5; Σ|d| = 18 → mean deviation = 1.8 mg.\n6. Squared deviations sum = 50.5; variance = 50.5/9 = 5.61; SD = 2.37 mg.\n7. CV = 2.37/250.5 × 100 = 0.95%.\n8. Interpretation: very low CV shows a uniform batch.\n9. Properties of SD: not changed by adding a constant; multiplied by k when data are multiplied by k; ±1, ±2, ±3 SD cover about 68%, 95%, 99.7% of normal data.\n10. Pharmaceutical uses: weight variation, content uniformity, precision (% RSD) of analytical methods.",
+      "tags": [
+        "numerical",
+        "dispersion"
+      ]
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define biostatistics and list its applications in pharmacy.",
+      "answer": "1. Biostatistics: statistics applied to biological, medical and pharmaceutical data, to collect, summarise, analyse and draw conclusions despite variation.\n2. Applications: quality control (weight variation, content uniformity, control charts); formulation development and optimization (DoE); clinical trials (sample size, randomisation, analysis); bioavailability and bioequivalence; pharmacology (dose–response, ED50); stability and shelf-life by regression; analytical method validation (linearity, precision); epidemiology and pharmacovigilance.\n3. Branches: descriptive (tables, graphs, averages) and inferential (tests of significance, estimation)."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a frequency distribution? Describe the steps to construct a grouped frequency distribution.",
+      "answer": "1. Frequency distribution: arrangement of data in classes showing the number of observations (frequency) in each.\n2. Steps: find the range; decide the number of classes (5–15; Sturges' rule k = 1 + 3.322 log10 N); class width = range/number of classes, rounded; write class limits (exclusive method, e.g. 0–2, 2–4); tally each value; count frequencies; add relative and cumulative frequency columns.\n3. Terms: class limits, class mark = (lower + upper)/2, class width, relative frequency, cumulative frequency.\n4. It can be shown as a histogram, frequency polygon or ogive."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate Spearman's rank correlation coefficient: two panellists ranked six syrups as follows (example numbers). Panellist 1: 1, 2, 3, 4, 5, 6; Panellist 2: 2, 1, 4, 3, 6, 5.",
+      "answer": "1. Spearman's ρ = 1 − 6Σd²/[n(n² − 1)], for ranked data.\n2. Differences d: −1, 1, −1, 1, −1, 1; d² = 1 each; Σd² = 6; n = 6.\n3. ρ = 1 − (6 × 6)/(6 × 35) = 1 − 36/210 = 1 − 0.171 = 0.83.\n4. Interpretation: strong positive agreement between the panellists.\n5. Tied ranks are given the mean of the ranks they share."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between standard deviation and standard error of mean. Calculate SEM if SD of 10 tablet weights is 2.37 mg.",
+      "answer": "1. SD measures the spread of individual observations around the mean: s = √[Σ(x − x̄)²/(n − 1)].\n2. SEM measures the precision of the sample mean as an estimate of the population mean: SEM = SD/√n; it is the SD of the distribution of sample means.\n3. SD does not shrink with larger samples; SEM falls as n rises.\n4. Use mean ± SD to describe data; mean ± SEM or a confidence interval to compare means.\n5. SEM = 2.37/√10 = 2.37/3.162 = 0.75 mg."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain skewness and kurtosis with diagrams.",
+      "answer": "1. Skewness: lack of symmetry. Symmetrical: mean = median = mode. Positive skew: long right tail, mean > median > mode. Negative skew: long left tail, mean < median < mode.\n2. Karl Pearson's coefficient of skewness = (mean − mode)/SD.\n3. Kurtosis: peakedness compared with a normal curve: leptokurtic (tall, sharp), mesokurtic (normal), platykurtic (flat).\n4. Draw three curves for skewness and three for kurtosis.\n5. Example: plasma half-life or survival time data are often positively skewed, so the median is reported."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the empirical relationship between mean, median and mode.",
+      "answer": "For a moderately skewed distribution, Mode ≈ 3 Median − 2 Mean (equivalently, Mean − Mode ≈ 3(Mean − Median))."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define coefficient of variation and give its use.",
+      "answer": "CV = (SD/mean) × 100. It is a unit-free measure of relative spread, used to compare variability of data sets with different means or units and reported as % RSD for analytical precision."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the method of least squares. Fit the regression lines of y on x and x on y for the data (example numbers): x (µg/ml) 2, 4, 6, 8, 10; y (absorbance) 0.11, 0.20, 0.31, 0.40, 0.52. Estimate the concentration of a sample with absorbance 0.35 and find the standard error of estimate.",
+      "answer": "1. Regression: estimating the dependent variable from an independent variable using a fitted equation.\n2. Least squares: choose a and b so that the sum of squared vertical deviations Σ(y − a − bx)² is minimum. Normal equations: Σy = na + bΣx; Σxy = aΣx + bΣx².\n3. Solution: b = Sxy/Sxx; a = ȳ − bx̄. Line passes through (x̄, ȳ).\n4. Sums: x̄ = 6, ȳ = 0.308; Sxy = 2.04, Sxx = 40, Syy = 0.10428.\n5. y on x: b = 2.04/40 = 0.051; a = 0.308 − 0.306 = 0.002 → y = 0.002 + 0.051x.\n6. x on y: b′ = 2.04/0.10428 = 19.56; a′ = 6 − 19.56 × 0.308 = −0.025 → x = −0.025 + 19.56y.\n7. Check: 0.051 × 19.56 = 0.998 = r²; r = 0.999.\n8. Unknown: x = (0.35 − 0.002)/0.051 = 6.82 µg/ml (use y on x line rearranged, as in calibration).\n9. Predicted y: 0.104, 0.206, 0.308, 0.410, 0.512; residual SS = 0.00024; S(y.x) = √(0.00024/3) = 0.0089.\n10. Uses: calibration curves, stability and shelf life, dose–response, IVIVC, prediction in DoE.",
+      "tags": [
+        "numerical",
+        "regression"
+      ]
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a t-test? Give its assumptions and types. Two formulations gave the following % dissolution at 30 min (example numbers): A: 82, 85, 79, 88, 84, 86; B: 76, 80, 74, 79, 77, 82. Test whether they differ significantly at 5% level.",
+      "answer": "1. t-test (Student's t, W.S. Gosset): test of significance for means of small samples (n < 30) when population SD is unknown.\n2. Assumptions: random independent samples, normal population, quantitative data, equal variances for the unpaired test.\n3. Types: one-sample (sample mean vs a value), unpaired/pooled (two independent groups), paired (same subjects twice).\n4. H0: µA = µB; H1: µA ≠ µB; α = 0.05, two-tailed.\n5. A: mean 84.0, Σ(x − x̄)² = 50; B: mean 78.0, Σ(x − x̄)² = 42.\n6. Pooled variance sp² = (50 + 42)/(6 + 6 − 2) = 9.2; sp = 3.03.\n7. SE of difference = √[9.2(1/6 + 1/6)] = 1.751.\n8. t = (84 − 78)/1.751 = 3.43; df = 10; table t(0.05, 10) = 2.228.\n9. Decision: 3.43 > 2.228, reject H0; formulation A dissolves significantly more (P ≈ 0.006).\n10. Check of equal variances: F = 10.0/8.4 = 1.19 < F(5,5) 5.05, so pooling was valid.",
+      "tags": [
+        "numerical",
+        "t-test"
+      ]
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain one-way ANOVA with its assumptions. Analyse the hardness (kg) of tablets made with three binders (example numbers): PVP 5.1, 5.4, 5.0, 5.3; Starch 6.2, 6.0, 6.5, 6.1; MCC 5.6, 5.9, 5.5, 5.8. Apply the least significant difference test.",
+      "answer": "1. ANOVA (R.A. Fisher): compares three or more means in one test by splitting total variation into between-group and within-group (error) parts; avoids inflated Type I error of many t-tests.\n2. Assumptions: normal populations, equal variances, independent random samples, additive effects.\n3. Totals: 20.8, 24.8, 22.8; means 5.2, 6.2, 5.7; G = 68.4; N = 12; CF = 68.4²/12 = 389.88; Σx² = 392.22.\n4. SST = 392.22 − 389.88 = 2.34.\n5. SSB = (20.8² + 24.8² + 22.8²)/4 − 389.88 = 2.00; SSW = 0.34.\n6. ANOVA table: Between 2.00, df 2, MS 1.00; Within 0.34, df 9, MS 0.0378; F = 26.5.\n7. Table F(2, 9) at 5% = 4.26; F > table → binders differ significantly.\n8. LSD = t(0.05, 9) × √(2 × MSE/n) = 2.262 × √(2 × 0.0378/4) = 0.31 kg.\n9. Differences: starch − PVP 1.0, starch − MCC 0.5, MCC − PVP 0.5; all > 0.31 → all pairs differ; starch gives the hardest tablets.\n10. Other post-hoc tests: Tukey, Duncan, Bonferroni, Dunnett.",
+      "tags": [
+        "numerical",
+        "ANOVA"
+      ]
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is a normal distribution? Describe its properties with a diagram. Tablet weights are normally distributed with mean 250 mg and SD 5 mg (example numbers). Find the proportion of tablets weighing (a) between 240 and 260 mg and (b) more than 258 mg.",
+      "answer": "1. Normal distribution: continuous, bell-shaped probability distribution defined by mean µ and SD σ; f(x) = [1/(σ√2π)] e^[−(x − µ)²/2σ²].\n2. Properties: symmetrical about the mean; mean = median = mode; tails asymptotic to the x-axis; total area 1; inflexion points at µ ± σ; skewness zero, mesokurtic.\n3. Areas: µ ± 1σ 68.27%, µ ± 1.96σ 95%, µ ± 2σ 95.45%, µ ± 2.58σ 99%, µ ± 3σ 99.73% (draw the bell curve with these marked).\n4. Standard normal variate z = (x − µ)/σ, mean 0, SD 1; areas read from z tables.\n5. (a) z for 240 = −2, for 260 = +2; area = 0.9545 → 95.45% of tablets.\n6. (b) z = (258 − 250)/5 = 1.6; area beyond 1.6 = 0.0548 → about 5.5% of tablets.\n7. Importance: basis of z, t and F tests, confidence intervals and control charts; central limit theorem makes means of large samples nearly normal.\n8. Examples: tablet weight, assay values, measurement errors, body height.",
+      "tags": [
+        "numerical",
+        "normal distribution"
+      ]
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain Type I and Type II errors with a table. What is the power of a test?",
+      "answer": "1. Type I error (α): rejecting H0 when it is true (false positive), e.g. saying an ineffective drug works or rejecting a good batch (producer's risk in QC).\n2. Type II error (β): accepting H0 when it is false (false negative), e.g. missing a useful drug or accepting a bad batch (consumer's risk).\n3. Table: Reject H0 & H0 true = Type I; Accept H0 & H0 false = Type II; other two cells are correct decisions.\n4. Power = 1 − β: probability of detecting a real difference; usually 80–90%.\n5. Power increases with larger sample size, larger true difference, less variability and larger α. Lowering α alone raises β."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the various types of sampling with examples.",
+      "answer": "1. Probability sampling (known chance of selection): simple random (lottery, random numbers: 20 tablets from a batch); systematic (every kth unit after a random start: every 100th tablet off the press); stratified (divide into strata, sample each: beginning, middle, end of batch); cluster (choose whole groups at random: hospitals or villages); multistage (random selection in stages).\n2. Non-probability sampling: convenience (easily available patients), purposive/judgement (experts), quota (fixed numbers per category), snowball (subjects refer others).\n3. Probability methods allow valid statistical inference; non-probability methods risk bias.\n4. Sampling error falls with larger sample size; non-sampling errors arise from bias and measurement mistakes."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the paired t-test. Diastolic BP (mm Hg) of six patients before and after a drug was (example numbers): before 96, 100, 92, 104, 98, 95; after 90, 94, 90, 96, 93, 92. Is the fall significant?",
+      "answer": "1. Paired t-test: compares two related measurements on the same subjects (before–after, crossover); removes between-subject variation.\n2. H0: mean difference = 0.\n3. d = 6, 6, 2, 8, 5, 3; d̄ = 5.0; Σ(d − d̄)² = 24; sd = √(24/5) = 2.19.\n4. SE = 2.19/√6 = 0.894; t = 5.0/0.894 = 5.59; df = 5.\n5. Table t(0.05, 5) = 2.571; calculated > table → reject H0; the drug lowers BP significantly (P ≈ 0.003).",
+      "tags": [
+        "numerical",
+        "t-test"
+      ]
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain binomial distribution. If 10% of capsules are defective, find the probability that a sample of 5 has (a) no defective and (b) at least one defective (example numbers).",
+      "answer": "1. Binomial distribution: n independent trials, each with two outcomes, constant probability p of success, q = 1 − p.\n2. P(x) = nCx p^x q^(n−x); mean = np; variance = npq.\n3. (a) P(0) = 0.9^5 = 0.5905.\n4. (b) P(at least 1) = 1 − 0.5905 = 0.4095.\n5. Mean defectives = 5 × 0.1 = 0.5; variance = 0.45.\n6. Uses: number of responders among patients, defective units in a sample, acceptance sampling.",
+      "tags": [
+        "numerical"
+      ]
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define null and alternative hypothesis, level of significance, degrees of freedom and give the steps of a test of significance.",
+      "answer": "1. Null hypothesis (H0): no difference or no effect (µ1 = µ2).\n2. Alternative hypothesis (H1): there is a difference (two-tailed) or a difference in one stated direction (one-tailed).\n3. Level of significance (α): accepted risk of rejecting a true H0, usually 5% or 1%; P value = probability of a result this extreme if H0 is true.\n4. Degrees of freedom: number of values free to vary, e.g. n − 1 for one sample.\n5. Steps: state H0/H1 → choose α and tails → choose test and compute statistic → find table value for df → compare and decide → state conclusion."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain two-way ANOVA. How does it differ from one-way ANOVA?",
+      "answer": "1. Two-way ANOVA studies two sources of variation (factor A rows, factor B columns) together, e.g. formulations and analysts.\n2. Partition (without replication): SST = SS rows + SS columns + SS error; df r − 1, c − 1, (r − 1)(c − 1); F for rows = MSR/MSE, for columns = MSC/MSE.\n3. SS rows = Σ(row total²)/c − CF; SS columns = Σ(column total²)/r − CF.\n4. With replication it also tests the interaction A × B.\n5. Difference: one-way has one factor and error only; two-way removes a second source (block) from error, so tests are more sensitive (randomised block design).\n6. Example (example numbers): three formulations × four analysts gave F(formulation) = 33.3 and F(analyst) = 10.2, both above table values 5.14 and 4.76."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the standard error of mean? Give its formula.",
+      "answer": "SEM is the SD of sample means and shows how precisely the sample mean estimates the population mean: SEM = SD/√n."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State the relation between correlation coefficient and regression coefficients.",
+      "answer": "r = ±√[b(yx) × b(xy)]; r is the geometric mean of the two regression coefficients and has the same sign as them."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "When is a sample called large and which test is used for it?",
+      "answer": "A sample of 30 or more is usually called large; a z (normal deviate) test is used, z = (x̄ − µ)/(σ/√n)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are non-parametric tests? Compare them with parametric tests. Explain the Mann–Whitney U test and apply it to the time to pain relief (min) with two drugs (example numbers): A 18, 22, 15, 25, 20; B 30, 26, 28, 24, 35.",
+      "answer": "1. Non-parametric (distribution-free) tests: do not assume a normal population; work on ranks or counts; used for ordinal data, skewed data, very small samples.\n2. Comparison: parametric needs normality and equal variances, uses mean/SD, more powerful when valid (t, ANOVA); non-parametric needs no distribution, uses median/ranks, slightly less powerful (Mann–Whitney, Wilcoxon, Kruskal–Wallis, Friedman, chi-square).\n3. Mann–Whitney U: compares two independent groups (non-parametric form of unpaired t-test).\n4. Steps: H0 equal distributions → rank all values together → rank sums R1, R2 → U1 = n1n2 + n1(n1 + 1)/2 − R1; U2 = n1n2 − U1 → smaller U vs table.\n5. Ranks: A 2, 4, 1, 6, 3 (R = 16); B 9, 7, 8, 5, 10 (R = 39).\n6. U(A) = 25 + 15 − 16 = 24; U(B) = 25 − 24 = 1.\n7. Table critical U (n1 = n2 = 5, 5% two-tailed) = 2; U = 1 ≤ 2 → reject H0.\n8. Conclusion: drug A gives significantly faster relief.\n9. Wilcoxon rank sum gives the same decision (W = 16 ≤ 17).\n10. For n > 20, use z = (U − n1n2/2)/√[n1n2(n1 + n2 + 1)/12].",
+      "tags": [
+        "numerical",
+        "non-parametric"
+      ]
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify study designs. Explain cohort, observational and experimental studies. Describe the phases of clinical trials.",
+      "answer": "1. Classification: Observational (descriptive: case report, case series, cross-sectional; analytical: case–control, cohort) and Experimental (randomised controlled trial, non-randomised trial, field/community trial).\n2. Observational studies: investigator only observes, does not give exposure; used when experiments are unethical or impractical.\n3. Cross-sectional: exposure and outcome at one time; prevalence. Case–control: start with cases and controls, look back for exposure; odds ratio; quick, good for rare diseases; recall bias.\n4. Cohort: disease-free group classified by exposure and followed forward; gives incidence and relative risk; can study many outcomes; costly, long, drop-outs; prospective or retrospective.\n5. Experimental studies: investigator assigns treatment, randomisation, control (placebo or standard), blinding; RCT gives strongest evidence of cause and effect.\n6. Phase 0: microdose in a few subjects, early pharmacokinetics.\n7. Phase I: about 20–80 healthy volunteers (patients for toxic drugs); safety, tolerability, maximum tolerated dose, pharmacokinetics.\n8. Phase II: about 100–300 patients; efficacy, dose range, short-term safety.\n9. Phase III: about 1,000–3,000 or more patients, multicentre, against placebo or standard; confirms efficacy and safety; basis of marketing approval.\n10. Phase IV: post-marketing surveillance; rare and long-term adverse effects, new uses, pharmacovigilance. All phases need ethics approval, informed consent and GCP.",
+      "tags": [
+        "clinical trials",
+        "study design"
+      ]
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the chi-square test, its conditions and applications. In a trial (example numbers), 30 of 40 patients on a new drug and 18 of 40 on placebo were cured. Test whether cure is associated with the drug.",
+      "answer": "1. Chi-square test: compares observed (O) and expected (E) frequencies: χ² = Σ(O − E)²/E.\n2. Applications: goodness of fit, test of independence (association) in contingency tables, homogeneity of proportions.\n3. Conditions: counts not percentages, independent observations, random sample, expected frequency ≥ 5 per cell; Yates' correction for small 2 × 2; Fisher's exact test for very small tables.\n4. df = (r − 1)(c − 1).\n5. Table: drug 30 cured / 10 not; placebo 18 / 22; totals 48 / 32; N = 80.\n6. E = row total × column total/N: cured 24, not cured 16 in each row.\n7. χ² = 36/24 + 36/16 + 36/24 + 36/16 = 1.5 + 2.25 + 1.5 + 2.25 = 7.5.\n8. df = 1; table χ² = 3.84; 7.5 > 3.84 → reject H0; cure is associated with the drug (P ≈ 0.006).\n9. Shortcut: χ² = N(ad − bc)²/[(a + b)(c + d)(a + c)(b + d)] = 7.5. With Yates' correction χ² = 6.30, still significant.\n10. Limitation: shows association, not strength or cause.",
+      "tags": [
+        "numerical",
+        "chi-square"
+      ]
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the Kruskal–Wallis test. Apply it to % inhibition with three drugs (example numbers): X 42, 48, 39, 45; Y 55, 60, 52, 58; Z 47, 50, 44, 53.",
+      "answer": "1. Kruskal–Wallis H test: non-parametric equivalent of one-way ANOVA for three or more independent groups.\n2. H = [12/N(N + 1)] ΣR²/n − 3(N + 1); compare with χ² at k − 1 df.\n3. Ranks of all 12 values: X 2, 6, 1, 4 (R = 13); Y 10, 12, 8, 11 (R = 41); Z 5, 7, 3, 9 (R = 24).\n4. H = (12/156)(169/4 + 1681/4 + 576/4) − 39 = 0.0769 × 606.5 − 39 = 7.65.\n5. χ²(2 df, 5%) = 5.99; H > 5.99 → treatments differ significantly.",
+      "tags": [
+        "numerical",
+        "non-parametric"
+      ]
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the Friedman test with an example.",
+      "answer": "1. Friedman test: non-parametric equivalent of two-way ANOVA (randomised block) for k ≥ 3 related treatments given to the same b subjects.\n2. Steps: rank treatments within each subject; add ranks Rj per treatment; χr² = [12/bk(k + 1)]ΣRj² − 3b(k + 1); compare with χ² at k − 1 df.\n3. Example (example numbers): 5 panellists scored 3 flavours; rank sums 6, 15, 9.\n4. χr² = [12/(5 × 3 × 4)](36 + 225 + 81) − 60 = 0.2 × 342 − 60 = 8.4.\n5. 8.4 > 5.99 (2 df) → flavour preference differs; the flavour with rank sum 15 is preferred.",
+      "tags": [
+        "numerical",
+        "non-parametric"
+      ]
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is sample size determination? Explain the factors affecting it and calculate sample size per group to detect a 5 mm Hg difference in BP when SD is 10 mm Hg, α = 0.05 and power 80% (example numbers).",
+      "answer": "1. Sample size determination: finding the number of subjects needed to detect a stated difference with given α and power, without wasting resources.\n2. Factors: level of significance (α), power (1 − β), smallest important difference, variability (SD), design (paired/parallel), number of groups, expected drop-outs.\n3. Formula (two means): n per group = 2(zα/2 + zβ)²σ²/d².\n4. n = 2 × (1.96 + 0.84)² × 100/25 = 2 × 7.84 × 4 = 62.7 → 63 per group.\n5. With 90% power (zβ = 1.28) about 84 per group; add about 10% for drop-outs.",
+      "tags": [
+        "numerical",
+        "sample size"
+      ]
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a protocol? List the contents of a clinical study protocol.",
+      "answer": "1. Protocol: the written, pre-approved plan describing objectives, design, methods, statistics and organisation of a study.\n2. Contents: title, investigators and sites; background and rationale; objectives and hypothesis; study design (randomisation, blinding, controls); inclusion and exclusion criteria; sample size with justification; treatments and schedule; primary and secondary end points; procedures and visit schedule; safety monitoring and adverse-event reporting; statistical analysis plan; ethics committee approval and informed consent; data management and confidentiality; timelines, budget, references.\n3. Approval by Ethics Committee and, for clinical trials in India, the regulator (CDSCO under the New Drugs and Clinical Trials Rules, 2019)."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define plagiarism. Describe its types, consequences and prevention.",
+      "answer": "1. Plagiarism: presenting another person's words, ideas, data or work as one's own without acknowledgement.\n2. Types: direct copying, paraphrasing without credit, mosaic (patchwork), self-plagiarism, copying data or images.\n3. Consequences: rejection or retraction of papers, cancellation of degree or thesis, disciplinary action, loss of reputation; UGC Regulations 2018 give graded penalties in India.\n4. Prevention: cite every source, use quotation marks for exact words, write in own words, keep notes of sources, check drafts with similarity software."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the need for research and the need for design of experiments.",
+      "answer": "1. Research: systematic, objective search for new knowledge or answers to a defined question.\n2. Need in pharmacy: new drugs and dosage forms, improving products, proving safety and efficacy, solving manufacturing problems, rational drug use, evidence-based practice.\n3. Need for DoE: one-factor-at-a-time needs many runs and misses interactions; DoE changes several factors together, estimates main effects and interactions with few runs, estimates error, gives a model for prediction and optimization, supports QbD and design space.\n4. Principles: replication, randomisation, local control (blocking)."
+    },
+    {
+      "id": "u3-s07",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on graphs used in research: histogram, pie chart, cubic graph, response surface plot and contour plot.",
+      "answer": "1. Histogram: adjacent bars over continuous class intervals; area ∝ frequency; shows the shape of a distribution (tablet weights).\n2. Pie chart: circle divided into sectors; angle = value/total × 360°; shows parts of a whole (share of dosage forms).\n3. Cubic graph (cube plot): 3D cube with the response at each corner of a 2³ factorial design; shows effects of three factors at once.\n4. Response surface plot: 3D surface of predicted response against two factors from a fitted model; peaks/valleys show optimum.\n5. Contour plot: 2D top view of the response surface; lines join equal responses; overlay plots show the design space.\n6. All graphs need a title, labelled axes with units and a legend."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the non-parametric equivalents of the unpaired t-test, paired t-test and one-way ANOVA.",
+      "answer": "Unpaired t-test → Mann–Whitney U (Wilcoxon rank sum); paired t-test → Wilcoxon signed rank test; one-way ANOVA → Kruskal–Wallis H test."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between relative risk and odds ratio?",
+      "answer": "Relative risk (incidence in exposed ÷ incidence in unexposed) comes from cohort studies; odds ratio (odds of exposure in cases ÷ odds in controls) comes from case–control studies."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain blocking and confounding in two-level factorial designs. Show how a 2³ design is run in two blocks by confounding the ABC interaction.",
+      "answer": "1. Blocking: grouping runs into uniform sets (day, batch of raw material, operator) so that nuisance variation is removed from experimental error; randomise within blocks; replicates can be blocks.\n2. Confounding: when a single replicate must be split into blocks smaller than 2^k, an effect is deliberately made inseparable from the block difference; a high-order interaction (believed negligible) is chosen.\n3. 2³ runs: (1), a, b, ab, c, ac, bc, abc.\n4. Signs of ABC (product of A, B, C signs): (1) −, a +, b +, ab −, c +, ac −, bc −, abc +.\n5. Block 1 (ABC −): (1), ab, ac, bc (principal block, contains (1)); Block 2 (ABC +): a, b, c, abc.\n6. Defining contrast method: L = x1 + x2 + x3 (mod 2); L = 0 → block 1, L = 1 → block 2.\n7. Effect: block difference = ABC contrast; e.g. with responses 62, 74, 55, 69, 50, 81, 47, 79 (example numbers), block totals 259 and 258 and ABC contrast −1 are the same quantity.\n8. Main effects and two-factor interactions are unaffected (each has two + and two − in every block).\n9. Four blocks: confound two effects (AB, AC) and their generalised interaction (BC) also; blocks (1)/abc, a/bc, b/ac, ab/c.\n10. Complete vs partial confounding: same effect in every replicate vs different effects in different replicates.",
+      "tags": [
+        "blocking",
+        "confounding"
+      ]
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain hypothesis testing in simple and multiple regression models with a numerical example.",
+      "answer": "1. Purpose: check that the fitted relation is real and each coefficient is non-zero.\n2. Simple regression y = a + bx: t-test for slope, t = b/SE(b), SE(b) = S(y.x)/√Sxx, df n − 2; t-test for intercept, SE(a) = S(y.x)√(1/n + x̄²/Sxx).\n3. ANOVA: Syy = SSR + SSE; SSR = b × Sxy; F = MSR/MSE; for one x, F = t².\n4. Example (calibration, example numbers): b = 0.051, SE(b) = 0.00141, t = 36.1 > t(0.05, 3) = 3.182; intercept t = 0.21, not significant; F = 0.10404/0.00008 = 1300.5 > 10.13; R² = 0.998; 95% CI slope 0.0465–0.0555.\n5. Multiple regression y = b0 + b1x1 + … + bkxk: overall F = (SSR/k)/[SSE/(n − k − 1)]; t = bi/SE(bi) for each coefficient; R² and adjusted R² = 1 − (1 − R²)(n − 1)/(n − k − 1).\n6. Example (hardness model, example numbers): y = 0.767 + 0.48x1 + 0.75x2; F = 4.005/0.0544 = 73.6 > F(2, 3) 9.55; t(b1) = 10.3, t(b2) = 6.4 > 3.18; R² 0.98, adjusted 0.967.\n7. Diagnostics: residual plots, normality, outliers, multicollinearity.\n8. Model building: forward, backward, stepwise selection.\n9. Logistic regression for binary outcomes: logit p = b0 + b1x; Wald test; e^b1 = odds ratio.\n10. Uses: calibration, stability, formulation models, clinical risk factors.",
+      "tags": [
+        "numerical",
+        "regression"
+      ]
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe statistical analysis using Excel, SPSS, MINITAB and R. Give the steps to perform any one test in each.",
+      "answer": "1. Excel: spreadsheet with functions (AVERAGE, STDEV.S, CORREL, SLOPE, T.TEST) and the Analysis ToolPak (File → Options → Add-ins → Analysis ToolPak).\n2. Excel steps (unpaired t-test): enter data in two columns → Data → Data Analysis → t-Test: Two-Sample Assuming Equal Variances → select ranges, hypothesised difference 0, alpha 0.05 → output → read t Stat, P two-tail, t critical.\n3. SPSS: menu-driven; Data View and Variable View; Output Viewer.\n4. SPSS steps (one-way ANOVA): define variables → enter data → Analyze → Compare Means → One-Way ANOVA → dependent and factor → Post Hoc (LSD/Tukey) → Options (descriptives, homogeneity) → OK → read F and Sig.\n5. MINITAB: worksheet and session window; Stat menu with Basic Statistics, Regression, ANOVA, Nonparametrics, Quality Tools, DOE.\n6. MINITAB steps (factorial design): Stat → DOE → Factorial → Create Factorial Design → factors and levels → run sheet → enter responses → Analyze Factorial Design → effects, P values, Pareto chart, interaction and contour plots → Response Optimizer.\n7. R: free open-source command-based software (CRAN, RStudio; online versions available).\n8. R steps: a <- c(...); b <- c(...); t.test(a, b, var.equal = TRUE); lm(y ~ x1 + x2) with summary(); aov(); chisq.test(); wilcox.test().\n9. DoE software (Design-Expert): choose design → run order → enter responses → fit model, ANOVA → contour/3D/overlay plots → desirability optimization.\n10. Comparison: Excel simple; SPSS clinical/survey data; MINITAB quality and DoE; R free and most flexible.",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is confounding? Differentiate complete and partial confounding.",
+      "answer": "1. Confounding: deliberate design in which an effect (usually a high-order interaction) cannot be separated from block differences, used when a replicate must be split into smaller blocks.\n2. The confounded effect is sacrificed; other effects are estimated clearly.\n3. Complete confounding: the same effect is confounded in all replicates, so no information on it remains.\n4. Partial confounding: different effects are confounded in different replicates; each effect is estimated from replicates where it is not confounded.\n5. Example: 2³ in two blocks confounding ABC: block 1 (1), ab, ac, bc; block 2 a, b, c, abc."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the role of blocking in design of experiments.",
+      "answer": "1. Blocking groups experimental units or runs into homogeneous blocks (same day, same raw-material lot, same machine or analyst).\n2. Variation between blocks (nuisance factor) is removed from the error term.\n3. This gives a smaller error and more sensitive tests of the factors of interest.\n4. Treatments are randomised within each block.\n5. Examples: randomised block design, running each replicate of a factorial on a different day, crossover trials with subjects as blocks.\n6. If blocks are smaller than a full replicate, confounding is needed."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on logistic regression.",
+      "answer": "1. Logistic regression models a binary outcome (cured/not cured, responder/non-responder).\n2. Equation: logit(p) = ln[p/(1 − p)] = b0 + b1x1 + b2x2 + …; p = 1/[1 + e^−(b0 + b1x)].\n3. e^b is the odds ratio for a one-unit rise in x.\n4. Coefficients by maximum likelihood; tested by Wald or likelihood-ratio test.\n5. Example (example numbers): logit p = −4 + 0.5 dose → p = 0.5 at dose 8 (ED50), OR = e^0.5 = 1.65.\n6. Uses: quantal dose–response, risk factors for adverse reactions, predicting treatment success."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the practical statistical problems in industrial and clinical trials.",
+      "answer": "1. Industrial: batch uniformity (mean, SD, % RSD); process control (x̄ and R control charts, capability Cp, Cpk); lot acceptance (sampling plans); comparing methods, analysts, sites (F and t tests, ANOVA); method linearity (regression); shelf life (regression with confidence limits); formulation optimization (factorial, RSM); process validation.\n2. Clinical: sample size and power; randomisation and blinding; comparing treatments (t, Mann–Whitney, chi-square); before–after and crossover (paired t, Wilcoxon); several doses (ANOVA, Kruskal–Wallis); binary outcomes (RR, OR, logistic regression); time to event (Kaplan–Meier, log-rank); bioequivalence (90% CI within 80–125%); interim analysis and safety monitoring."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the features of SPSS and the steps to perform a chi-square test in it.",
+      "answer": "1. SPSS: menu-driven package (IBM) for clinical and social data; Data View (cases × variables), Variable View (name, type, labels, measure), Output Viewer; syntax for repeatable analysis.\n2. Tests available: descriptives, t-tests, ANOVA, correlation, regression (linear, logistic), non-parametric tests, survival analysis.\n3. Chi-square steps: define the two categorical variables with value labels → enter data (or weight cases by count) → Analyze → Descriptive Statistics → Crosstabs → put one variable in Rows and one in Columns → Statistics → tick Chi-square → Cells → tick Observed and Expected → OK.\n4. Read Pearson chi-square value, df and Asymptotic Significance; use Continuity Correction or Fisher's exact test for small 2 × 2 tables."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is meant by the principal block?",
+      "answer": "In a confounded factorial, the principal block is the block that contains the run (1) (all factors at the low level); other blocks are obtained from it by multiplying with a run not in it."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is adjusted R² preferred over R² in multiple regression?",
+      "answer": "R² always rises when a variable is added, even a useless one; adjusted R² penalises extra variables, so it is better for comparing models."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define factorial design. Explain the 2² factorial design and calculate the main effects and interaction for the disintegration time (min) data (example numbers): (1) = 4, a = 6, b = 7, ab = 13. List the advantages of factorial design.",
+      "answer": "1. Factorial design: every level of each factor combined with every level of the others; k factors at 2 levels need 2^k runs.\n2. Terms: factor, level (coded −1, +1), response, run, main effect, interaction.\n3. 2² design: four runs (1), a, b, ab; draw the square with A on the x-axis and B on the y-axis.\n4. Effect A = ½[(a + ab) − ((1) + b)] = ½[(6 + 13) − (4 + 7)] = 4.0 min.\n5. Effect B = ½[(b + ab) − ((1) + a)] = ½[(7 + 13) − (4 + 6)] = 5.0 min.\n6. Interaction AB = ½[((1) + ab) − (a + b)] = ½[(4 + 13) − (6 + 7)] = 2.0 min.\n7. Model: y = 7.5 + 2.0xA + 2.5xB + 1.0xAxB.\n8. Interpretation: A raises DT by 2 min at low B but 6 min at high B; non-parallel interaction plot.\n9. Advantages: several factors in fewer runs; detects interactions; hidden replication (all runs used for every effect); results valid over a range; gives a model for optimization; orthogonal, easy analysis.\n10. Limitations: runs rise fast with k; two levels cannot show curvature (add centre points or use RSM).",
+      "tags": [
+        "numerical",
+        "factorial design"
+      ]
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the 2³ factorial design with a table of signs. Calculate the effects for the % drug released (example numbers): (1) 62, a 74, b 55, ab 69, c 50, ac 81, bc 47, abc 79, and identify significant effects.",
+      "answer": "1. 2³ design: three factors A, B, C at two levels → eight runs; estimates A, B, C, AB, AC, BC, ABC.\n2. Table of signs in standard order (1), a, b, ab, c, ac, bc, abc; interaction columns = products of main columns; each column has four + and four −.\n3. Contrast = Σ(sign × response); effect = contrast/4; SS = contrast²/8.\n4. Contrasts: A 89, B −17, C −3, AB 3, AC 37, BC 7, ABC −1 (total 517, mean 64.6).\n5. Effects: A 22.25, B −4.25, C −0.75, AB 0.75, AC 9.25, BC 1.75, ABC −0.25.\n6. SS: A 990.1, B 36.1, C 1.1, AB 1.1, AC 171.1, BC 6.1, ABC 0.1; total 1205.9.\n7. Pool AB, BC, ABC as error: SS 7.375, df 3, MS 2.458.\n8. F: A 402.8, B 14.7, C 0.46, AC 69.6; table F(1, 3) = 10.13 → A, B and AC significant, C not.\n9. Yates' algorithm gives the same contrasts (column 3: 517, 89, −17, 3, −3, 37, 7, −1).\n10. Model y = 64.6 + 11.1xA − 2.1xB + 4.6xAxC; show cube plot and Pareto chart of effects.",
+      "tags": [
+        "numerical",
+        "factorial design"
+      ]
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is response surface methodology? Explain the central composite design and the optimization techniques used in pharmaceutical formulation.",
+      "answer": "1. RSM: statistical and mathematical techniques to model a response affected by several factors and find the optimum; uses a second-order model y = b0 + Σbixi + Σbijxixj + Σbiixi².\n2. Sequence: screening → first-order design and steepest ascent → second-order design → model checks (ANOVA, lack of fit, R²) → contour and 3D plots → optimization → check-point batches.\n3. CCD: 2^k factorial points + 2k axial points at ±α + n0 centre points; N = 2^k + 2k + n0 (k = 2: 13 runs with 5 centre points).\n4. α: rotatable (2^k)^¼ = 1.414 for k = 2, 1.682 for k = 3; face-centred α = 1; inscribed design keeps axial points at ±1; five levels per factor in rotatable CCD. Draw the CCD star diagram.\n5. Advantages: efficient quadratic model, sequential build from a factorial, estimates curvature and pure error. Box–Behnken is an alternative with no corner points.\n6. Optimization: finding factor levels giving the best response within constraints.\n7. Methods: classical calculus and Lagrangian (constraints by Lagrange multipliers); search (grid) method; simplex (moving triangle away from worst response); evolutionary operation (small changes during production); canonical analysis; overlay contour plots (design space); desirability function (overall D = geometric mean of individual d).\n8. Historical design: model built from existing past data; cheap but non-orthogonal, must be confirmed.\n9. Applications: tablets, SR matrices, microspheres, nanoparticles, emulsions, analytical methods, QbD design space.\n10. Always confirm the optimum with check-point batches and low prediction error.",
+      "tags": [
+        "RSM",
+        "optimization"
+      ]
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the advantages and limitations of factorial design over one-factor-at-a-time experiments.",
+      "answer": "1. Advantages: fewer runs for the same information; measures interactions, which OFAT cannot; every run contributes to every effect (hidden replication, high precision); conclusions valid over a range of conditions; gives a predictive model; orthogonal effects; simple analysis by sign table or software.\n2. Limitations: number of runs grows as 2^k; two-level designs detect only linear effects (curvature needs centre points or RSM); high-order interactions hard to interpret; fractional designs needed for many factors, with aliasing."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on central composite design.",
+      "answer": "1. CCD: the most common second-order response surface design.\n2. Parts: 2^k factorial (cube) points at ±1, 2k axial (star) points at ±α, n0 centre points.\n3. Runs: N = 2^k + 2k + n0 (k = 3: 8 + 6 + 6 = 20).\n4. α = (2^k)^¼ for rotatability (1.414, 1.682); α = 1 for face-centred design.\n5. Fits a full quadratic model; centre points give pure error and test curvature; can be built on a completed factorial.\n6. Draw the 2-factor CCD: square with four corners, four star points on the axes and centre point."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the use of the desirability function and overlay contour plots in optimization.",
+      "answer": "1. Many formulations must satisfy several responses at once (dissolution, hardness, friability).\n2. Desirability function: each response is converted to an individual desirability d between 0 (unacceptable) and 1 (ideal); overall desirability D = geometric mean of all d values; software searches for factor settings with the highest D.\n3. Overlay contour plots: contour plots of each response drawn for the two factors and superimposed; the region where every response meets its limits is the feasible region or design space.\n4. Both are used in DoE software and in Quality by Design; the chosen point is confirmed by check-point batches."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the simplex method and evolutionary operation as optimization techniques.",
+      "answer": "1. Simplex method: a geometric figure with k + 1 vertices (triangle for two factors) is set up; experiments are run at the vertices; the worst vertex is reflected through the centre of the others to a new point; the figure moves step by step towards the optimum; needs no model; used for analytical and formulation optimization.\n2. Evolutionary operation (EVOP): small, planned changes in process variables are made around the normal operating point during routine production; responses are compared after several cycles; the operating point is moved in the better direction; improves the process without separate experiments or loss of product."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a historical data design? Give its merits and limitations.",
+      "answer": "1. Historical data design: a response surface model built from data already available (earlier development batches, production records, past experiments) instead of new planned runs.\n2. Merits: no new experiments, saves time and cost, uses valuable existing knowledge, useful for troubleshooting and retrospective process understanding.\n3. Limitations: data not planned, so factors may be correlated and ranges narrow; some combinations missing; uncontrolled variables can bias the model; the model must be checked and confirmed with new runs."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "How many runs are needed for a full 2⁴ factorial design and a CCD with two factors and five centre points?",
+      "answer": "2⁴ = 16 runs; CCD with k = 2: 4 factorial + 4 axial + 5 centre = 13 runs."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an interaction effect?",
+      "answer": "An interaction exists when the effect of one factor on the response depends on the level of another factor; it shows as non-parallel lines in an interaction plot."
+    }
+  ]
+}

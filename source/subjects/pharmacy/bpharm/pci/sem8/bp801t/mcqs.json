@@ -1,0 +1,732 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The median of 247, 248, 249, 250, 250, 250, 251, 252, 253, 255 is:",
+      "options": [
+        "250",
+        "250.5",
+        "249.5",
+        "251"
+      ],
+      "correct": 0,
+      "explanation": "With 10 values, the median is the mean of the 5th and 6th values (250 and 250).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "For a moderately skewed distribution, mode is approximately equal to:",
+      "options": [
+        "2 Mean − 3 Median",
+        "3 Median − 2 Mean",
+        "3 Mean − 2 Median",
+        "(Mean + Median)/2"
+      ],
+      "correct": 1,
+      "explanation": "This is the empirical relation between the three averages.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The sample standard deviation uses which divisor?",
+      "options": [
+        "n",
+        "n + 1",
+        "n − 1",
+        "√n"
+      ],
+      "correct": 2,
+      "explanation": "n − 1 degrees of freedom are used because the mean is estimated from the same data.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Coefficient of variation is expressed as:",
+      "options": [
+        "(mean ÷ SD) × 100",
+        "SD ÷ √n",
+        "Variance ÷ mean",
+        "(SD ÷ mean) × 100"
+      ],
+      "correct": 3,
+      "explanation": "CV, also called % RSD, is a unit-free measure of relative spread.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The value of Karl Pearson's correlation coefficient lies between:",
+      "options": [
+        "−1 and +1",
+        "0 and 1",
+        "0 and ∞",
+        "−∞ and +∞"
+      ],
+      "correct": 0,
+      "explanation": "r = +1 is perfect positive and −1 perfect negative correlation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which average is most suitable for nominal data such as the most prescribed brand?",
+      "options": [
+        "Mean",
+        "Mode",
+        "Median",
+        "Geometric mean"
+      ],
+      "correct": 1,
+      "explanation": "Only the mode can be found for named categories.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "In a positively skewed distribution:",
+      "options": [
+        "Mode > median > mean",
+        "Mean = median = mode",
+        "Mean > median > mode",
+        "Median > mean > mode"
+      ],
+      "correct": 2,
+      "explanation": "The long right tail pulls the mean upward.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Spearman's rank correlation coefficient is calculated as:",
+      "options": [
+        "1 − Σd²/n",
+        "6Σd²/n(n² − 1)",
+        "Σxy/√(Σx²Σy²)",
+        "1 − 6Σd²/n(n² − 1)"
+      ],
+      "correct": 3,
+      "explanation": "d is the difference between the two ranks of each item.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The geometric mean of 2 and 8 is:",
+      "options": [
+        "4",
+        "5",
+        "3.2",
+        "16"
+      ],
+      "correct": 0,
+      "explanation": "GM = √(2 × 8) = 4.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Which of the following is a relative (unit-free) measure of dispersion?",
+      "options": [
+        "Standard deviation",
+        "Coefficient of variation",
+        "Range",
+        "Mean deviation"
+      ],
+      "correct": 1,
+      "explanation": "CV divides SD by the mean, so the unit cancels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In the least-squares regression line y = a + bx, the slope b equals:",
+      "options": [
+        "Sxy ÷ Syy",
+        "Sxx ÷ Sxy",
+        "Sxy ÷ Sxx",
+        "Syy ÷ Sxx"
+      ],
+      "correct": 2,
+      "explanation": "b(yx) = Σ(x − x̄)(y − ȳ)/Σ(x − x̄)².",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The two regression lines intersect at:",
+      "options": [
+        "The origin",
+        "(0, ȳ)",
+        "(x̄, 0)",
+        "(x̄, ȳ)"
+      ],
+      "correct": 3,
+      "explanation": "Both lines pass through the point of means.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The mean and variance of a binomial distribution are:",
+      "options": [
+        "np and npq",
+        "np and np",
+        "n and pq",
+        "npq and np"
+      ],
+      "correct": 0,
+      "explanation": "For n trials with success probability p, mean = np and variance = npq.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "In a normal distribution, the area within mean ± 1.96 SD is:",
+      "options": [
+        "68.27%",
+        "95%",
+        "99%",
+        "99.73%"
+      ],
+      "correct": 1,
+      "explanation": "±1.96σ covers 95% of the area.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "A Type I error means:",
+      "options": [
+        "Accepting a false null hypothesis",
+        "Rejecting a false null hypothesis",
+        "Rejecting a true null hypothesis",
+        "Accepting a true null hypothesis"
+      ],
+      "correct": 2,
+      "explanation": "Its probability is the level of significance α.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Power of a test is:",
+      "options": [
+        "1 − α",
+        "α + β",
+        "β",
+        "1 − β"
+      ],
+      "correct": 3,
+      "explanation": "Power is the chance of detecting a real difference.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Degrees of freedom for an unpaired t-test with sample sizes n1 and n2 are:",
+      "options": [
+        "n1 + n2 − 2",
+        "n1 + n2 − 1",
+        "n1 + n2",
+        "n1 − 1"
+      ],
+      "correct": 0,
+      "explanation": "One degree of freedom is lost for each sample mean.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Before-and-after readings on the same patients are compared by:",
+      "options": [
+        "Unpaired t-test",
+        "Paired t-test",
+        "One-way ANOVA",
+        "Chi-square test"
+      ],
+      "correct": 1,
+      "explanation": "Pairing removes between-patient variation.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In one-way ANOVA, F is calculated as:",
+      "options": [
+        "SS between ÷ SS total",
+        "MS within ÷ MS between",
+        "MS between groups ÷ MS within groups",
+        "SS within ÷ df total"
+      ],
+      "correct": 2,
+      "explanation": "A large F shows group means differ more than chance allows.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Sampling every 100th tablet coming off the press after a random start is:",
+      "options": [
+        "Stratified sampling",
+        "Cluster sampling",
+        "Quota sampling",
+        "Systematic sampling"
+      ],
+      "correct": 3,
+      "explanation": "Every kth unit is taken after a random start.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "The standard error of mean is:",
+      "options": [
+        "SD ÷ √n",
+        "SD × √n",
+        "SD ÷ n",
+        "Variance ÷ n²"
+      ],
+      "correct": 0,
+      "explanation": "It measures precision of the sample mean.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "The least significant difference (LSD) test is applied:",
+      "options": [
+        "Before ANOVA to check normality",
+        "After a significant F in ANOVA to compare pairs of means",
+        "To compare two variances",
+        "To test association in a contingency table"
+      ],
+      "correct": 1,
+      "explanation": "LSD = t × √(2MSE/n).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The non-parametric equivalent of the unpaired t-test is:",
+      "options": [
+        "Wilcoxon signed rank test",
+        "Friedman test",
+        "Mann–Whitney U test",
+        "Kruskal–Wallis test"
+      ],
+      "correct": 2,
+      "explanation": "It compares two independent groups using ranks (same as Wilcoxon rank sum).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The Kruskal–Wallis test is the non-parametric equivalent of:",
+      "options": [
+        "Paired t-test",
+        "Two-way ANOVA",
+        "Pearson correlation",
+        "One-way ANOVA"
+      ],
+      "correct": 3,
+      "explanation": "It compares three or more independent groups by ranks.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The Friedman test is used for:",
+      "options": [
+        "Three or more related treatments on the same subjects",
+        "Two independent groups",
+        "Association of two categorical variables",
+        "One sample against a claimed mean"
+      ],
+      "correct": 0,
+      "explanation": "It is the rank-based form of two-way (randomised block) ANOVA.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Degrees of freedom for a chi-square test on a 3 × 4 contingency table are:",
+      "options": [
+        "12",
+        "6",
+        "7",
+        "11"
+      ],
+      "correct": 1,
+      "explanation": "df = (3 − 1)(4 − 1) = 6.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "In a chi-square test, the expected frequency of a cell is:",
+      "options": [
+        "Row total ÷ column total",
+        "Grand total ÷ number of cells only",
+        "Row total × column total ÷ grand total",
+        "Observed − 0.5"
+      ],
+      "correct": 2,
+      "explanation": "It is the count expected if the two variables are independent.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A cohort study gives which measure of association?",
+      "options": [
+        "Odds ratio only",
+        "Prevalence only",
+        "Sensitivity",
+        "Relative risk"
+      ],
+      "correct": 3,
+      "explanation": "Cohort studies follow exposed and unexposed groups forward and measure incidence.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Healthy volunteers are usually studied for safety and pharmacokinetics in:",
+      "options": [
+        "Phase I",
+        "Phase II",
+        "Phase III",
+        "Phase IV"
+      ],
+      "correct": 0,
+      "explanation": "Phase II and III involve patients; Phase IV is post-marketing.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "A contour plot is:",
+      "options": [
+        "A bar chart of class frequencies",
+        "A two-dimensional view of a response surface with lines of equal response",
+        "A circle divided into sectors",
+        "A plot of residuals against run order"
+      ],
+      "correct": 1,
+      "explanation": "It is the top view of a response surface.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "For 80% power the value of zβ used in sample size formulas is about:",
+      "options": [
+        "1.96",
+        "1.28",
+        "0.84",
+        "2.58"
+      ],
+      "correct": 2,
+      "explanation": "1.28 corresponds to 90% power; 1.96 is zα/2 for 5%.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Fisher's three basic principles of experimental design are:",
+      "options": [
+        "Blinding, placebo and crossover",
+        "Sampling, coding and scaling",
+        "Mean, median and mode",
+        "Replication, randomisation and local control"
+      ],
+      "correct": 3,
+      "explanation": "Local control means blocking.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "When a 2³ factorial is run in two blocks of four, the effect usually confounded with blocks is:",
+      "options": [
+        "ABC",
+        "A",
+        "AB",
+        "C"
+      ],
+      "correct": 0,
+      "explanation": "The highest-order interaction is sacrificed because it is usually negligible.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The block containing treatment combination (1) is called the:",
+      "options": [
+        "Alias block",
+        "Principal block",
+        "Fold-over block",
+        "Centre block"
+      ],
+      "correct": 1,
+      "explanation": "Other blocks are obtained from it.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "If AB and AC are confounded with blocks in a 2³ design, the effect also confounded is:",
+      "options": [
+        "ABC",
+        "A",
+        "BC",
+        "C"
+      ],
+      "correct": 2,
+      "explanation": "The generalised interaction AB × AC = A²BC = BC.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "In simple linear regression, the t statistic for testing the slope has degrees of freedom:",
+      "options": [
+        "n − 1",
+        "n",
+        "n − 3",
+        "n − 2"
+      ],
+      "correct": 3,
+      "explanation": "Two constants (a and b) are estimated.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "For a regression with one independent variable, the ANOVA F equals:",
+      "options": [
+        "The square of the t value for the slope",
+        "The t value",
+        "R²",
+        "1/t"
+      ],
+      "correct": 0,
+      "explanation": "F = t² when there is one predictor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Logistic regression is used when the dependent variable is:",
+      "options": [
+        "Continuous and normally distributed",
+        "Binary (two outcomes)",
+        "A count of rare events only",
+        "Ranked from 1 to 10"
+      ],
+      "correct": 1,
+      "explanation": "It models the log odds of an event.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "In logistic regression, e raised to the power of a coefficient gives the:",
+      "options": [
+        "Relative risk",
+        "Correlation coefficient",
+        "Odds ratio",
+        "Standard error"
+      ],
+      "correct": 2,
+      "explanation": "e^b is the odds ratio for a one-unit change in x.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "In Excel, tests such as t-test and ANOVA are run through the:",
+      "options": [
+        "Pivot table wizard only",
+        "Page Layout menu",
+        "Spell check tool",
+        "Analysis ToolPak (Data → Data Analysis)"
+      ],
+      "correct": 3,
+      "explanation": "The ToolPak add-in must be enabled first.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "In SPSS, one-way ANOVA is found under:",
+      "options": [
+        "Analyze → Compare Means",
+        "File → Print",
+        "View → Toolbars",
+        "Transform → Recode only"
+      ],
+      "correct": 0,
+      "explanation": "Post-hoc tests are chosen in the same dialog.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The R command for fitting a linear regression model is:",
+      "options": [
+        "t.test()",
+        "lm()",
+        "chisq.test()",
+        "mean()"
+      ],
+      "correct": 1,
+      "explanation": "lm(y ~ x1 + x2) fits linear models; summary() shows the results.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The number of runs in a full 2⁴ factorial design (one replicate) is:",
+      "options": [
+        "8",
+        "24",
+        "16",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "2^k = 2⁴ = 16.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "In a 2² design with responses (1) = 4, a = 6, b = 7, ab = 13, the main effect of A is:",
+      "options": [
+        "5",
+        "2",
+        "8",
+        "4"
+      ],
+      "correct": 3,
+      "explanation": "A = ½[(6 + 13) − (4 + 7)] = 4.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "An interaction between two factors is indicated by:",
+      "options": [
+        "Non-parallel lines in an interaction plot",
+        "Parallel lines in an interaction plot",
+        "A zero main effect of both factors",
+        "Equal responses at all runs"
+      ],
+      "correct": 0,
+      "explanation": "The effect of one factor changes with the level of the other.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "In a 2³ design (single replicate), each effect equals the contrast divided by:",
+      "options": [
+        "8",
+        "4",
+        "2",
+        "16"
+      ],
+      "correct": 1,
+      "explanation": "Effect = contrast ÷ 2^(k−1) = contrast ÷ 4.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In a rotatable central composite design with two factors, α equals about:",
+      "options": [
+        "1.682",
+        "1",
+        "1.414",
+        "2"
+      ],
+      "correct": 2,
+      "explanation": "α = (2^k)^¼ = 4^¼ = 1.414; 1.682 is for three factors.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "A central composite design is made of:",
+      "options": [
+        "Only corner points",
+        "Only centre points",
+        "Random points chosen by the analyst",
+        "Factorial points, axial points and centre points"
+      ],
+      "correct": 3,
+      "explanation": "N = 2^k + 2k + n0.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Evolutionary operation (EVOP) is an optimization method in which:",
+      "options": [
+        "Small planned changes are made during routine production",
+        "A triangle of experiments moves away from the worst result",
+        "Lagrange multipliers add constraints",
+        "Past records alone are fitted to a model"
+      ],
+      "correct": 0,
+      "explanation": "It improves a running process without separate experiments.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Which design is chosen when existing past batch data are used to build a response surface model?",
+      "options": [
+        "Box–Behnken design",
+        "Historical data design",
+        "Full factorial design",
+        "Latin square design"
+      ],
+      "correct": 1,
+      "explanation": "No new runs are made, but the model must be confirmed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The desirability function combines several responses into an overall D that is the:",
+      "options": [
+        "Sum of all responses",
+        "Largest single response",
+        "Geometric mean of individual desirabilities",
+        "Arithmetic difference of responses"
+      ],
+      "correct": 2,
+      "explanation": "Each d ranges from 0 to 1; D is maximised.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Two-level factorial designs cannot detect:",
+      "options": [
+        "Main effects",
+        "Two-factor interactions",
+        "Experimental error when replicated",
+        "Curvature (quadratic effects)"
+      ],
+      "correct": 3,
+      "explanation": "Centre points or response surface designs are needed for curvature.",
+      "probability": "medium"
+    }
+  ]
+}
