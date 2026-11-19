@@ -1,0 +1,138 @@
+{
+  "code": "BP104T",
+  "title": "Pharmaceutical Inorganic Chemistry",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP104T Pharmaceutical Inorganic Chemistry and BP110P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP104T_B.Pharma-pages-5.pdf"
+  },
+  "practicalCodes": [
+    "BP110P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Impurities in pharmaceutical substances",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Acids, bases and buffers; electrolytes; dental products",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Gastrointestinal agents and antimicrobials",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Miscellaneous compounds",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Radiopharmaceuticals",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "limit-test-chloride-sulphate",
+      "title": "Limit test for chlorides and sulphates",
+      "file": "practicals/limit-test-chloride-sulphate.md"
+    },
+    {
+      "id": "modified-limit-test-chloride-sulphate",
+      "title": "Modified limit test for chlorides and sulphates",
+      "file": "practicals/modified-limit-test-chloride-sulphate.md"
+    },
+    {
+      "id": "limit-test-iron",
+      "title": "Limit test for iron",
+      "file": "practicals/limit-test-iron.md"
+    },
+    {
+      "id": "limit-test-heavy-metals",
+      "title": "Limit test for heavy metals",
+      "file": "practicals/limit-test-heavy-metals.md"
+    },
+    {
+      "id": "limit-test-lead",
+      "title": "Limit test for lead",
+      "file": "practicals/limit-test-lead.md"
+    },
+    {
+      "id": "limit-test-arsenic",
+      "title": "Limit test for arsenic (Gutzeit method)",
+      "file": "practicals/limit-test-arsenic.md"
+    },
+    {
+      "id": "identification-magnesium-hydroxide",
+      "title": "Identification tests for magnesium hydroxide",
+      "file": "practicals/identification-magnesium-hydroxide.md"
+    },
+    {
+      "id": "identification-ferrous-sulphate",
+      "title": "Identification tests for ferrous sulphate",
+      "file": "practicals/identification-ferrous-sulphate.md"
+    },
+    {
+      "id": "identification-sodium-bicarbonate",
+      "title": "Identification tests for sodium bicarbonate",
+      "file": "practicals/identification-sodium-bicarbonate.md"
+    },
+    {
+      "id": "identification-calcium-gluconate",
+      "title": "Identification tests for calcium gluconate",
+      "file": "practicals/identification-calcium-gluconate.md"
+    },
+    {
+      "id": "identification-copper-sulphate",
+      "title": "Identification tests for copper sulphate",
+      "file": "practicals/identification-copper-sulphate.md"
+    },
+    {
+      "id": "swelling-power-bentonite",
+      "title": "Swelling power of bentonite",
+      "file": "practicals/swelling-power-bentonite.md"
+    },
+    {
+      "id": "neutralising-capacity-aluminium-hydroxide-gel",
+      "title": "Neutralising capacity of aluminium hydroxide gel",
+      "file": "practicals/neutralising-capacity-aluminium-hydroxide-gel.md"
+    },
+    {
+      "id": "potassium-iodate-iodine-in-potassium-iodide",
+      "title": "Potassium iodate and free iodine in potassium iodide",
+      "file": "practicals/potassium-iodate-iodine-in-potassium-iodide.md"
+    },
+    {
+      "id": "preparation-boric-acid",
+      "title": "Preparation of boric acid",
+      "file": "practicals/preparation-boric-acid.md"
+    },
+    {
+      "id": "preparation-potash-alum",
+      "title": "Preparation of potash alum",
+      "file": "practicals/preparation-potash-alum.md"
+    },
+    {
+      "id": "preparation-ferrous-sulphate",
+      "title": "Preparation of ferrous sulphate",
+      "file": "practicals/preparation-ferrous-sulphate.md"
+    }
+  ]
+}

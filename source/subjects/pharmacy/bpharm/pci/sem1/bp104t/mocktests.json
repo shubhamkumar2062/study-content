@@ -1,0 +1,53 @@
+{
+  "tests": [
+    {
+      "id": "hptu-pci-full",
+      "title": "Full mock paper (75 marks, 3 hours)",
+      "patternSource": "PCI end-semester pattern as used by HPTU: Section A 20 objective questions, Section B 2 of 3 long essays, Section C 7 of 9 short answers. Confirm with your college.",
+      "durationMinutes": 180,
+      "totalMarks": 75,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Section A: Objective questions",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        },
+        {
+          "id": "b",
+          "title": "Section B: Long essays (answer any 2)",
+          "source": "long",
+          "marksEach": 10,
+          "count": 3,
+          "attempt": 2
+        },
+        {
+          "id": "c",
+          "title": "Section C: Short answers (answer any 7)",
+          "source": "short",
+          "marksEach": 5,
+          "count": 9,
+          "attempt": 7
+        }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Objective questions",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        }
+      ]
+    }
+  ]
+}

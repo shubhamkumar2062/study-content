@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The first edition of the Indian Pharmacopoeia was published in:",
+      "options": [
+        "1955",
+        "1946",
+        "1966",
+        "1985"
+      ],
+      "correct": 0,
+      "explanation": "The first IP appeared in 1955; the 1946 document was only the Indian Pharmacopoeial List.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "In the limit test for chloride, the acid added is:",
+      "options": [
+        "Dilute hydrochloric acid",
+        "Dilute nitric acid",
+        "Dilute sulphuric acid",
+        "Acetic acid"
+      ],
+      "correct": 1,
+      "explanation": "Nitric acid stops other silver salts precipitating; HCl would add chloride.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The potassium sulphate in barium sulphate reagent serves to:",
+      "options": [
+        "Prevent supersaturation",
+        "Make the solution alkaline",
+        "Provide seed crystals for uniform turbidity",
+        "Mask other metals"
+      ],
+      "correct": 2,
+      "explanation": "A trace of sulphate seeds BaSO4 formation; alcohol prevents supersaturation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "In the limit test for iron, citric acid is added to:",
+      "options": [
+        "Reduce ferric to ferrous iron",
+        "Develop the purple colour",
+        "Remove chloride",
+        "Prevent precipitation of iron as hydroxide"
+      ],
+      "correct": 3,
+      "explanation": "Citric acid complexes iron so it stays in solution when ammonia is added.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The purple colour in the iron limit test is due to:",
+      "options": [
+        "Ferrous thioglycollate",
+        "Ferric citrate",
+        "Ferric thiocyanate",
+        "Ferrous ammonium sulphate"
+      ],
+      "correct": 0,
+      "explanation": "Thioglycollic acid reduces iron and forms ferrous thioglycollate in alkaline medium.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In the Gutzeit test, arsenic is detected as a stain produced by:",
+      "options": [
+        "Hydrogen sulphide on lead acetate paper",
+        "Arsine on mercuric chloride paper",
+        "Arsenic trioxide on starch paper",
+        "Arsine on lead acetate paper"
+      ],
+      "correct": 1,
+      "explanation": "AsH3 gives a yellow-brown stain on HgCl2 paper; lead acetate traps H2S.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "In the limit test for lead, potassium cyanide is used to:",
+      "options": [
+        "Reduce ferric iron",
+        "Make the solution acidic",
+        "Mask interfering metals such as copper and zinc",
+        "Extract lead into chloroform"
+      ],
+      "correct": 2,
+      "explanation": "Cyanide complexes other metals so only lead reacts with dithizone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The limit test for heavy metals is carried out at a pH of about:",
+      "options": [
+        "1.0",
+        "7.0",
+        "10.0",
+        "3.5"
+      ],
+      "correct": 3,
+      "explanation": "Thioacetamide in acetate buffer pH 3.5 precipitates heavy metal sulphides.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Conversion of sodium hydroxide into sodium carbonate on storage is an example of impurity from:",
+      "options": [
+        "Atmospheric contamination",
+        "Raw material",
+        "Reaction vessel",
+        "Intermediate product"
+      ],
+      "correct": 0,
+      "explanation": "NaOH absorbs CO2 from the air.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Potassium iodate present in potassium iodide is an impurity arising from:",
+      "options": [
+        "The reaction vessel",
+        "An intermediate product of manufacture",
+        "Atmospheric dust",
+        "The container"
+      ],
+      "correct": 1,
+      "explanation": "KIO3 forms when iodine reacts with KOH and may not be fully reduced.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "According to the Henderson–Hasselbalch equation, when [salt] = [acid] the pH equals:",
+      "options": [
+        "7",
+        "2 pKa",
+        "pKa",
+        "pKa + 1"
+      ],
+      "correct": 2,
+      "explanation": "log 1 = 0, so pH = pKa.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The maximum buffer capacity of a buffer of total concentration C is:",
+      "options": [
+        "0.5 C",
+        "2.303 C",
+        "0.693 C",
+        "0.576 C"
+      ],
+      "correct": 3,
+      "explanation": "βmax = 2.303 C/4 = 0.576 C at pH = pKa.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The freezing point of blood and tears is about:",
+      "options": [
+        "−0.52 °C",
+        "−0.90 °C",
+        "−1.86 °C",
+        "0 °C"
+      ],
+      "correct": 0,
+      "explanation": "Body fluids freeze at about −0.52 °C, the same as 0.9% NaCl.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "In the White–Vincent method, the volume of water in which w g of drug is isotonic is:",
+      "options": [
+        "V = (0.52 − a)/b",
+        "V = w × E × 111.1",
+        "V = 17 Liso/M",
+        "V = w × E × 0.9"
+      ],
+      "correct": 1,
+      "explanation": "111.1 ml of water dissolves 1 g NaCl to give a 0.9% isotonic solution.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The main intracellular cation is:",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Potassium",
+        "Chloride"
+      ],
+      "correct": 2,
+      "explanation": "K⁺ is the chief cation inside cells; Na⁺ is the chief ECF cation.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Calcium gluconate is assayed by:",
+      "options": [
+        "Precipitation titration with silver nitrate",
+        "Iodometric titration",
+        "Titration with ceric ammonium sulphate",
+        "Complexometric titration with disodium edetate"
+      ],
+      "correct": 3,
+      "explanation": "Calcium forms a 1:1 complex with EDTA; mordant black II is the indicator.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The total osmolarity of WHO low-osmolarity ORS is:",
+      "options": [
+        "245 mOsm/L",
+        "311 mOsm/L",
+        "154 mOsm/L",
+        "290 mOsm/L"
+      ],
+      "correct": 0,
+      "explanation": "Reduced osmolarity ORS is 245 mOsm/L; the older formula was 311.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The normal ratio of bicarbonate to carbonic acid in blood is about:",
+      "options": [
+        "1 : 20",
+        "20 : 1",
+        "1 : 1",
+        "10 : 1"
+      ],
+      "correct": 1,
+      "explanation": "A 20:1 ratio gives a pH of about 7.4.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Fluoride prevents dental caries mainly by forming:",
+      "options": [
+        "Hydroxyapatite",
+        "Calcium fluoride crystals in saliva",
+        "Fluorapatite",
+        "Zinc eugenolate"
+      ],
+      "correct": 2,
+      "explanation": "Fluorapatite is harder and more acid resistant than hydroxyapatite.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Zinc eugenol cement sets because of formation of:",
+      "options": [
+        "Zinc oxide",
+        "Zinc phosphate",
+        "Zinc chloride",
+        "Zinc eugenolate"
+      ],
+      "correct": 3,
+      "explanation": "Eugenol chelates zinc to form zinc eugenolate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Ammonium chloride is assayed by:",
+      "options": [
+        "Formol titration",
+        "Mohr's titration",
+        "Iodometry",
+        "Complexometry"
+      ],
+      "correct": 0,
+      "explanation": "Formaldehyde releases HCl from NH4Cl, which is titrated with NaOH.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Which antacid is systemic?",
+      "options": [
+        "Aluminium hydroxide",
+        "Sodium bicarbonate",
+        "Magnesium trisilicate",
+        "Calcium carbonate"
+      ],
+      "correct": 1,
+      "explanation": "Sodium bicarbonate is absorbed and can cause systemic alkalosis.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Aluminium hydroxide is combined with magnesium hydroxide in antacids mainly because:",
+      "options": [
+        "Both release carbon dioxide",
+        "Both are systemic",
+        "Their effects on the bowel cancel each other",
+        "Magnesium increases constipation"
+      ],
+      "correct": 2,
+      "explanation": "Al is constipating and Mg is laxative.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Sodium bicarbonate is manufactured industrially by the:",
+      "options": [
+        "Contact process",
+        "Haber process",
+        "Anthraquinone process",
+        "Solvay (ammonia–soda) process"
+      ],
+      "correct": 3,
+      "explanation": "NaCl + NH3 + CO2 + H2O gives NaHCO3 and NH4Cl.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Glycerin is added in the assay of boric acid because it:",
+      "options": [
+        "Forms a stronger complex acid",
+        "Acts as indicator",
+        "Prevents hydrolysis",
+        "Removes carbon dioxide"
+      ],
+      "correct": 0,
+      "explanation": "Glyceroboric acid is strong enough to titrate sharply with NaOH.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Hydrogen peroxide is assayed by titration with:",
+      "options": [
+        "Sodium thiosulphate",
+        "Potassium permanganate in acid",
+        "Disodium edetate",
+        "Silver nitrate"
+      ],
+      "correct": 1,
+      "explanation": "KMnO4 oxidises H2O2 to oxygen and acts as its own indicator.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The activity of chlorinated lime is expressed as:",
+      "options": [
+        "Volume strength",
+        "Free calcium",
+        "Available chlorine",
+        "Total hypochlorite"
+      ],
+      "correct": 2,
+      "explanation": "Available chlorine is liberated iodine titrated with thiosulphate.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Potassium permanganate is prepared by oxidation of:",
+      "options": [
+        "Manganese sulphate",
+        "Potassium chlorate",
+        "Manganese chloride",
+        "Potassium manganate"
+      ],
+      "correct": 3,
+      "explanation": "MnO2 + KOH + KClO3 gives K2MnO4, which is oxidised to KMnO4.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Iodine is made soluble in water in Lugol's solution by:",
+      "options": [
+        "Potassium iodide",
+        "Alcohol",
+        "Glycerin",
+        "Sodium chloride"
+      ],
+      "correct": 0,
+      "explanation": "KI forms the soluble triiodide ion, I3⁻.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Bentonite is chiefly made of:",
+      "options": [
+        "Kaolinite",
+        "Montmorillonite",
+        "Talc",
+        "Calcite"
+      ],
+      "correct": 1,
+      "explanation": "Bentonite is a colloidal clay of montmorillonite that swells in water.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Ferrous sulphate is assayed with ceric ammonium sulphate using the indicator:",
+      "options": [
+        "Starch",
+        "Mordant black II",
+        "Ferroin",
+        "Phenolphthalein"
+      ],
+      "correct": 2,
+      "explanation": "Ferroin changes from red to pale blue at the end point.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Iron is absorbed mainly in the:",
+      "options": [
+        "Stomach, as ferric iron",
+        "Ileum, as ferric iron",
+        "Colon, as ferrous iron",
+        "Duodenum, as ferrous iron"
+      ],
+      "correct": 3,
+      "explanation": "Fe²⁺ is absorbed in the duodenum and upper jejunum.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In the assay of copper sulphate, cupric ions react with potassium iodide to give:",
+      "options": [
+        "Cuprous iodide and free iodine",
+        "Cupric iodide only",
+        "Copper metal",
+        "Copper hydroxide"
+      ],
+      "correct": 0,
+      "explanation": "2Cu²⁺ + 4I⁻ → 2CuI + I2; the iodine is titrated with thiosulphate.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Sodium thiosulphate acts in cyanide poisoning by converting cyanide into:",
+      "options": [
+        "Cyanmethaemoglobin",
+        "Thiocyanate",
+        "Cyanogen",
+        "Hydrogen cyanide"
+      ],
+      "correct": 1,
+      "explanation": "Rhodanese uses thiosulphate sulphur to form SCN⁻, excreted in urine.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Sodium nitrite is useful in cyanide poisoning because it forms:",
+      "options": [
+        "Carboxyhaemoglobin",
+        "Oxyhaemoglobin",
+        "Methaemoglobin",
+        "Thiocyanate"
+      ],
+      "correct": 2,
+      "explanation": "Methaemoglobin binds cyanide as cyanmethaemoglobin.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Potassium iodide is assayed with potassium iodate in strong HCl; the end point is shown by:",
+      "options": [
+        "Appearance of blue colour with starch",
+        "Appearance of pink colour",
+        "Formation of a white precipitate",
+        "Disappearance of violet colour in chloroform"
+      ],
+      "correct": 3,
+      "explanation": "Iodine is converted to iodine monochloride; the violet chloroform layer becomes colourless.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Activated charcoal is NOT useful in poisoning by:",
+      "options": [
+        "Iron salts",
+        "Paracetamol",
+        "Barbiturates",
+        "Most alkaloids"
+      ],
+      "correct": 0,
+      "explanation": "Charcoal adsorbs iron, lithium, alcohols and strong acids or alkalis poorly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Potash alum is an example of a:",
+      "options": [
+        "Complex salt",
+        "Double salt",
+        "Basic salt",
+        "Acid salt"
+      ],
+      "correct": 1,
+      "explanation": "It gives K⁺, Al³⁺ and SO4²⁻ ions separately in water.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Sodium thiosulphate is assayed by titration with:",
+      "options": [
+        "Potassium iodate",
+        "Silver nitrate",
+        "Iodine solution",
+        "Sodium hydroxide"
+      ],
+      "correct": 2,
+      "explanation": "2Na2S2O3 + I2 → Na2S4O6 + 2NaI, starch indicator.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The classical emetic 'tartar emetic' is:",
+      "options": [
+        "Sodium potassium tartrate",
+        "Potassium hydrogen tartrate",
+        "Calcium tartrate",
+        "Antimony potassium tartrate"
+      ],
+      "correct": 3,
+      "explanation": "Rochelle salt (sodium potassium tartrate) is a saline cathartic.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Which radiation has the highest penetrating power?",
+      "options": [
+        "Gamma rays",
+        "Alpha particles",
+        "Beta particles",
+        "Positrons"
+      ],
+      "correct": 0,
+      "explanation": "γ rays need thick lead or concrete; α is stopped by paper.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Which radiation has the highest ionising power?",
+      "options": [
+        "Gamma rays",
+        "Alpha particles",
+        "Beta particles",
+        "X-rays"
+      ],
+      "correct": 1,
+      "explanation": "Heavy, doubly charged α particles ionise strongly over a short path.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The half-life of a radioisotope is related to its decay constant λ by:",
+      "options": [
+        "t½ = λ/0.693",
+        "t½ = 1/λ",
+        "t½ = 0.693/λ",
+        "t½ = 2.303 λ"
+      ],
+      "correct": 2,
+      "explanation": "From N = N0 e^(−λt) with N = N0/2.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The half-life of iodine-131 is about:",
+      "options": [
+        "6 hours",
+        "60 days",
+        "5.3 years",
+        "8 days"
+      ],
+      "correct": 3,
+      "explanation": "I-131 t½ is about 8 days; Tc-99m is about 6 hours.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "One curie equals:",
+      "options": [
+        "3.7 × 10¹⁰ disintegrations per second",
+        "1 disintegration per second",
+        "3.7 × 10⁶ disintegrations per second",
+        "100 erg per gram"
+      ],
+      "correct": 0,
+      "explanation": "1 Ci = 3.7 × 10¹⁰ Bq.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The crystal commonly used in solid scintillation counters for gamma rays is:",
+      "options": [
+        "Lithium fluoride",
+        "Sodium iodide activated with thallium",
+        "Potassium iodide",
+        "Silicon"
+      ],
+      "correct": 1,
+      "explanation": "NaI(Tl) gives light flashes detected by a photomultiplier.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "A drawback of the Geiger–Müller counter is that it:",
+      "options": [
+        "Cannot detect beta particles",
+        "Needs no voltage",
+        "Cannot give the energy of the radiation",
+        "Has no dead time"
+      ],
+      "correct": 2,
+      "explanation": "Every event gives a pulse of the same size, so energy is not measured.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "After 3 half-lives, the fraction of radioactivity remaining is:",
+      "options": [
+        "1/3",
+        "1/6",
+        "1/16",
+        "1/8"
+      ],
+      "correct": 3,
+      "explanation": "(1/2)³ = 1/8.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Iodine-131 is produced by neutron irradiation of:",
+      "options": [
+        "Tellurium-130",
+        "Iodine-127",
+        "Xenon-131",
+        "Molybdenum-98"
+      ],
+      "correct": 0,
+      "explanation": "Te-130 captures a neutron to give Te-131, which decays to I-131.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The three basic rules of protection from external radiation are:",
+      "options": [
+        "Time, temperature and pressure",
+        "Time, distance and shielding",
+        "Distance, dilution and decay",
+        "Shielding, sterility and storage"
+      ],
+      "correct": 1,
+      "explanation": "Less time, more distance and proper shielding lower the dose.",
+      "probability": "medium"
+    }
+  ]
+}
