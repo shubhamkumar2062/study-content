@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The ICH guideline on stability testing of new drug substances and products is:",
+      "options": [
+        "Q1A(R2)",
+        "Q2(R2)",
+        "Q3A(R2)",
+        "Q6A"
+      ],
+      "correct": 0,
+      "explanation": "Q1A(R2) is the parent stability guideline; Q2 is analytical validation, Q3A impurities, Q6A specifications.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Accelerated stability testing under ICH Q1A(R2) is done at:",
+      "options": [
+        "30 °C ± 2 °C / 65% RH ± 5% RH",
+        "40 °C ± 2 °C / 75% RH ± 5% RH",
+        "25 °C ± 2 °C / 60% RH ± 5% RH",
+        "5 °C ± 3 °C"
+      ],
+      "correct": 1,
+      "explanation": "40 °C/75% RH for 6 months is the accelerated condition; 30/65 is intermediate and 25/60 long-term.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The ICH guideline on quality risk management is:",
+      "options": [
+        "Q8",
+        "Q10",
+        "Q9",
+        "Q7"
+      ],
+      "correct": 2,
+      "explanation": "Q9 (now Q9(R1)) covers quality risk management; Q8 is development, Q10 the quality system, Q7 GMP for APIs.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The PDCA cycle is associated with:",
+      "options": [
+        "Philip Crosby",
+        "Joseph Juran",
+        "Genichi Taguchi",
+        "W. Edwards Deming"
+      ],
+      "correct": 3,
+      "explanation": "Deming popularised the Plan–Do–Check–Act cycle; Crosby is linked to zero defects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "'Quality is fitness for use' and the quality trilogy were given by:",
+      "options": [
+        "Joseph Juran",
+        "Kaoru Ishikawa",
+        "Armand Feigenbaum",
+        "W. Edwards Deming"
+      ],
+      "correct": 0,
+      "explanation": "Juran's trilogy is quality planning, control and improvement.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In QbD, the multidimensional combination of input variables and process parameters shown to assure quality is the:",
+      "options": [
+        "Control strategy",
+        "Design space",
+        "QTPP",
+        "Critical quality attribute"
+      ],
+      "correct": 1,
+      "explanation": "Moving within the design space is not regarded as a change needing approval.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The ISO standard that gives requirements for a quality management system and is used for certification is:",
+      "options": [
+        "ISO 9000",
+        "ISO 9004",
+        "ISO 9001",
+        "ISO 14001"
+      ],
+      "correct": 2,
+      "explanation": "ISO 9000 is vocabulary, ISO 9004 guidance and ISO 14001 environmental management.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "NABL accredits testing and calibration laboratories against:",
+      "options": [
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 15189 only",
+        "ISO/IEC 17025"
+      ],
+      "correct": 3,
+      "explanation": "ISO/IEC 17025 covers testing and calibration labs; ISO 15189 is for medical labs.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "In ICH, the step at which the final harmonised guideline is adopted by the regulatory members is:",
+      "options": [
+        "Step 4",
+        "Step 2",
+        "Step 3",
+        "Step 5"
+      ],
+      "correct": 0,
+      "explanation": "Step 3 is regulatory consultation, Step 4 adoption and Step 5 implementation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The photostability ICH guideline requires overall illumination of not less than:",
+      "options": [
+        "200 lux hours",
+        "1.2 million lux hours",
+        "12,000 lux hours",
+        "1.2 thousand lux hours"
+      ],
+      "correct": 1,
+      "explanation": "Q1B: 1.2 million lux hours plus 200 watt hours/m² of near-UV energy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Under GMP, the head of production and the head of quality control should be:",
+      "options": [
+        "The same person for efficiency",
+        "Reporting to each other",
+        "Different persons, independent of each other",
+        "Appointed only for sterile plants"
+      ],
+      "correct": 2,
+      "explanation": "Independence prevents pressure to release a batch that should be rejected.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The maximum permitted number of particles ≥0.5 µm per m³ in a Grade C area at rest is:",
+      "options": [
+        "3,520",
+        "3,520,000",
+        "35,200",
+        "352,000"
+      ],
+      "correct": 3,
+      "explanation": "Grades A and B allow 3,520, Grade C 352,000 and Grade D 3,520,000 at rest.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Aseptic filling of vials is carried out in:",
+      "options": [
+        "Grade A with Grade B background",
+        "Grade D",
+        "Grade C",
+        "Any clean room with HEPA filters"
+      ],
+      "correct": 0,
+      "explanation": "High-risk operations need Grade A unidirectional airflow within a Grade B background.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Dedicated, segregated facilities are required for manufacture of:",
+      "options": [
+        "Paracetamol tablets",
+        "Penicillins",
+        "Vitamin syrups",
+        "Antacid suspensions"
+      ],
+      "correct": 1,
+      "explanation": "Penicillins are highly sensitising, so cross-contamination must be avoided completely.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Coving at wall–floor joints in production areas is provided to:",
+      "options": [
+        "Improve lighting",
+        "Reduce noise",
+        "Avoid dust collection and ease cleaning",
+        "Support heavy equipment"
+      ],
+      "correct": 2,
+      "explanation": "Rounded junctions leave no corners where dust and microbes can settle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The usual material of construction for product-contact parts of equipment is:",
+      "options": [
+        "Mild steel",
+        "Copper",
+        "Aluminium alloy",
+        "Stainless steel 316L"
+      ],
+      "correct": 3,
+      "explanation": "SS 316L resists corrosion and does not react with or add to the product.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The document written before buying equipment, stating what the user needs, is the:",
+      "options": [
+        "User requirement specification",
+        "Installation qualification",
+        "Batch manufacturing record",
+        "Site master file"
+      ],
+      "correct": 0,
+      "explanation": "The URS is the basis for design qualification.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A raw material that has been received but not yet tested is kept under:",
+      "options": [
+        "Approved status",
+        "Quarantine status",
+        "Rejected status",
+        "Released status"
+      ],
+      "correct": 1,
+      "explanation": "Materials stay quarantined until QC approves or rejects them.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Air in a cleaner area is generally kept at:",
+      "options": [
+        "Lower pressure than the adjoining less clean area",
+        "Same pressure as outside",
+        "Higher pressure than the adjoining less clean area",
+        "Negative pressure to the corridor always"
+      ],
+      "correct": 2,
+      "explanation": "Air should flow from cleaner to less clean areas; containment rooms are the exception.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Visual inspectors of injections should have periodic:",
+      "options": [
+        "Hearing tests",
+        "Blood sugar tests",
+        "Lung function tests",
+        "Eye examinations"
+      ],
+      "correct": 3,
+      "explanation": "Visual inspection of particles depends on good eyesight.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Type I glass is:",
+      "options": [
+        "Borosilicate glass",
+        "Soda-lime glass",
+        "Surface-treated soda-lime glass",
+        "General purpose soda-lime glass"
+      ],
+      "correct": 0,
+      "explanation": "Borosilicate (neutral) glass has the highest hydrolytic resistance.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The surface glass (water attack) test is used mainly to identify:",
+      "options": [
+        "Type I glass",
+        "Type II glass",
+        "Type III glass",
+        "Plastic containers"
+      ],
+      "correct": 1,
+      "explanation": "Type II has a treated inner surface, so a test on the surface distinguishes it.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Fragmentation (coring) is a test applied to:",
+      "options": [
+        "Glass ampoules",
+        "Cartons",
+        "Rubber closures",
+        "Aluminium tubes"
+      ],
+      "correct": 2,
+      "explanation": "Repeated needle piercing must not shed more fragments than the limit.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The Cobb test measures:",
+      "options": [
+        "Bursting strength",
+        "Light transmission",
+        "Hydrolytic resistance",
+        "Water absorption of paper and board"
+      ],
+      "correct": 3,
+      "explanation": "It is the water taken up by a set area of paper or board in a set time.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Bursting strength of corrugated board is measured with a:",
+      "options": [
+        "Mullen tester",
+        "Polariscope",
+        "Stalagmometer",
+        "Friabilator"
+      ],
+      "correct": 0,
+      "explanation": "The Mullen tester measures the pressure needed to rupture the board.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Under GLP, the individual with overall responsibility for the technical conduct of a study is the:",
+      "options": [
+        "QAU head",
+        "Study director",
+        "Sponsor",
+        "Archivist"
+      ],
+      "correct": 1,
+      "explanation": "The study director is the single point of study control.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The master schedule sheet in a GLP facility is maintained by the:",
+      "options": [
+        "Study director",
+        "Sponsor",
+        "Quality assurance unit",
+        "Animal care staff"
+      ],
+      "correct": 2,
+      "explanation": "The QAU keeps the master schedule of all studies.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "GLP regulations of the US FDA are found in:",
+      "options": [
+        "21 CFR Part 11",
+        "21 CFR Part 210",
+        "21 CFR Part 312",
+        "21 CFR Part 58"
+      ],
+      "correct": 3,
+      "explanation": "Part 58 covers good laboratory practice for nonclinical laboratory studies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "In India, GLP requirements for drug testing laboratories are laid down in:",
+      "options": [
+        "Schedule L-1",
+        "Schedule M",
+        "Schedule Y",
+        "Schedule H"
+      ],
+      "correct": 0,
+      "explanation": "Schedule L-1 of the Drugs and Cosmetics Rules gives GLP for testing laboratories.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Disqualification of a GLP testing facility requires that non-compliance has:",
+      "options": [
+        "Been reported by a sponsor",
+        "Adversely affected the validity of the studies",
+        "Happened more than twice",
+        "Involved only animal rooms"
+      ],
+      "correct": 1,
+      "explanation": "Data are excluded only when non-compliance affects validity and lesser measures are inadequate.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "A recall where use of the product is likely to cause serious harm or death is:",
+      "options": [
+        "Class II",
+        "Class III",
+        "Class I",
+        "Class IV"
+      ],
+      "correct": 2,
+      "explanation": "Class I is the most serious; Class III is unlikely to cause harm.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The document from which each batch manufacturing record is copied is the:",
+      "options": [
+        "Distribution record",
+        "Site master file",
+        "Certificate of analysis",
+        "Master formula record"
+      ],
+      "correct": 3,
+      "explanation": "The MFR is the approved master; the BMR is filled in for each batch.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Records that make a quick and complete recall possible are the:",
+      "options": [
+        "Distribution records",
+        "Training records",
+        "Calibration records",
+        "Cleaning records"
+      ],
+      "correct": 0,
+      "explanation": "They show which consignee received each batch.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "In ALCOA, the letter C stands for:",
+      "options": [
+        "Complete",
+        "Contemporaneous",
+        "Correct",
+        "Controlled"
+      ],
+      "correct": 1,
+      "explanation": "Records must be made at the time of the activity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The correct way to correct an entry in a GMP record is:",
+      "options": [
+        "Use correction fluid and rewrite",
+        "Overwrite the figure neatly",
+        "Strike through with a single line, write the correct value, sign, date and give the reason",
+        "Tear out the page and rewrite it"
+      ],
+      "correct": 2,
+      "explanation": "The original must stay readable and the change must be attributable.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "An internal audit carried out by a company of its own departments is called:",
+      "options": [
+        "Regulatory inspection",
+        "Vendor audit",
+        "Third-party audit",
+        "Self-inspection"
+      ],
+      "correct": 3,
+      "explanation": "Self-inspection finds GMP gaps before an inspector does.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Product quality review is usually carried out:",
+      "options": [
+        "Yearly for each product",
+        "Only after a recall",
+        "Only for new products",
+        "Every batch"
+      ],
+      "correct": 0,
+      "explanation": "It is also called the annual product review.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Returned goods may be returned to saleable stock only when:",
+      "options": [
+        "The distributor requests it",
+        "There is no doubt about their quality",
+        "They are within one month of expiry",
+        "The outer carton is replaced"
+      ],
+      "correct": 1,
+      "explanation": "Packs must be unopened, properly stored and with enough shelf life, checked by QA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Periodic exercises to test that the recall system works are called:",
+      "options": [
+        "Media fills",
+        "Line clearances",
+        "Mock recalls",
+        "Bracketing studies"
+      ],
+      "correct": 2,
+      "explanation": "A mock recall checks that all consignees can be traced quickly.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A complaint of a wrong drug inside a labelled pack would be classified as:",
+      "options": [
+        "Minor",
+        "Commercial",
+        "Cosmetic",
+        "Critical"
+      ],
+      "correct": 3,
+      "explanation": "It could cause serious harm and may need a Class I recall.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Documented proof that equipment works as intended across its operating ranges is:",
+      "options": [
+        "Operational qualification",
+        "Installation qualification",
+        "Design qualification",
+        "Performance qualification"
+      ],
+      "correct": 0,
+      "explanation": "OQ tests functions and limits without product; PQ checks consistent performance in use.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Validation done before a new product is marketed, usually on three consecutive batches, is:",
+      "options": [
+        "Retrospective validation",
+        "Prospective validation",
+        "Concurrent validation",
+        "Revalidation"
+      ],
+      "correct": 1,
+      "explanation": "Prospective validation is the preferred approach.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Validation based on review of historical data of batches already made is:",
+      "options": [
+        "Prospective validation",
+        "Concurrent validation",
+        "Retrospective validation",
+        "Cleaning validation"
+      ],
+      "correct": 2,
+      "explanation": "It uses past batch records and test data.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Holmium oxide filter is used in UV-visible spectrophotometer qualification to check:",
+      "options": [
+        "Stray light",
+        "Absorbance accuracy",
+        "Resolution",
+        "Wavelength accuracy"
+      ],
+      "correct": 3,
+      "explanation": "Holmium gives sharp peaks at known wavelengths.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Potassium dichromate solution is used to check the UV-visible spectrophotometer's:",
+      "options": [
+        "Absorbance (photometric) accuracy",
+        "Wavelength accuracy",
+        "Stray light",
+        "Cell matching only"
+      ],
+      "correct": 0,
+      "explanation": "Its specific absorbance at 235, 257, 313 and 350 nm is compared with stated values.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The theoretical slope of a pH electrode at 25 °C is about:",
+      "options": [
+        "100 mV per pH unit",
+        "59.16 mV per pH unit",
+        "10 mV per pH unit",
+        "0.59 mV per pH unit"
+      ],
+      "correct": 1,
+      "explanation": "Calibration checks that the actual slope is close to this value.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Detection limit by the calibration curve method is calculated as:",
+      "options": [
+        "10σ/S",
+        "σ/S",
+        "3.3σ/S",
+        "2σ/S"
+      ],
+      "correct": 2,
+      "explanation": "Quantitation limit is 10σ/S.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "For an identification test, the validation characteristic required is:",
+      "options": [
+        "Linearity",
+        "Quantitation limit",
+        "Accuracy",
+        "Specificity"
+      ],
+      "correct": 3,
+      "explanation": "Identification only needs to show the method can tell the analyte from other substances.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The EOQ for annual demand 10,000 units, ordering cost ₹200 and holding cost ₹4 per unit per year is:",
+      "options": [
+        "1,000 units",
+        "500 units",
+        "2,000 units",
+        "10,000 units"
+      ],
+      "correct": 0,
+      "explanation": "EOQ = √(2 × 10,000 × 200 / 4) = 1,000.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "VED analysis classifies inventory on the basis of:",
+      "options": [
+        "Annual consumption value",
+        "Criticality",
+        "Rate of movement",
+        "Unit price"
+      ],
+      "correct": 1,
+      "explanation": "Vital, Essential, Desirable; ABC uses value and FSN uses movement.",
+      "probability": "medium"
+    }
+  ]
+}

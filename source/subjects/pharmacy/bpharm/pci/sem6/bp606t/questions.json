@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define quality control, quality assurance and GMP. Explain the relationship between them and list the basic principles of GMP.",
+      "answer": "1. Quality control: part of GMP concerned with sampling, specifications, testing and release or rejection; product-oriented and detects defects.\n2. Quality assurance: sum of all organised arrangements made so that products are of the quality needed for their intended use; process-oriented and prevents defects.\n3. GMP: part of QA that ensures products are consistently produced and controlled to quality standards suited to their use and the licence.\n4. Relationship: QC lies within GMP, GMP within QA, QA within the pharmaceutical quality system (draw nested boxes).\n5. Table of differences: prevent vs detect; whole process vs samples; QA department and everyone vs QC lab; SOPs, validation, audits, change control vs specifications, tests, instruments.\n6. GMP principles: defined and validated processes; controlled changes; clear written SOPs; trained operators; records made during manufacture; deviations investigated; traceable batch history; proper storage and distribution; recall system; complaints examined.\n7. Indian law: Schedule M of the Drugs and Cosmetics Rules, 1945, revised by notification of 28 December 2023 (adds pharmaceutical quality system, risk management, product quality review)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is ICH? Describe its purpose, participants and the process of harmonisation. List the Q-series guidelines with their titles.",
+      "answer": "1. ICH = International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use; started 1990 (EU, Japan, USA regulators and industry); reorganised in 2015 as an international association.\n2. Purpose: common technical requirements, one data set for many regions, avoid repeating studies, reduce cost and time, maintain high quality, safety and efficacy standards.\n3. Participants: founding regulators (European Commission, US FDA, MHLW/PMDA Japan); founding industry (EFPIA, PhRMA, JPMA); other regulatory and industry members; observers such as WHO.\n4. Steps: 1 consensus building (technical document); 2a confirmation of consensus, 2b adoption of draft by regulators; 3 regulatory consultation and revision; 4 adoption of harmonised guideline; 5 implementation in each region.\n5. QSEM: Quality, Safety, Efficacy, Multidisciplinary.\n6. Q-series: Q1A(R2)–Q1E stability; Q2(R2) analytical validation; Q3A–Q3D impurities and residual solvents, elemental impurities; Q4/Q4A/Q4B pharmacopoeias; Q5A–Q5E biotech quality; Q6A/Q6B specifications; Q7 GMP for APIs; Q8(R2) pharmaceutical development; Q9(R1) quality risk management; Q10 pharmaceutical quality system; Q11 drug substance development; Q12 lifecycle management; Q13 continuous manufacturing; Q14 analytical procedure development.\n7. Note: R numbers change with revision; check ich.org."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the ICH guidelines for stability testing. Give the storage conditions for long-term, intermediate and accelerated studies and the concept of significant change.",
+      "answer": "1. Stability: ability to remain within specification throughout shelf life; supports expiry date, retest period and storage label.\n2. Guidelines: Q1A(R2) main guideline, Q1B photostability, Q1C new dosage forms, Q1D bracketing and matrixing, Q1E evaluation of data.\n3. Batches: three primary batches, at least two of pilot scale; same container-closure as marketed; validated stability-indicating methods; stress testing of drug substance.\n4. Conditions: long-term 25 ± 2 °C/60 ± 5% RH or 30 ± 2 °C/65 ± 5% RH, 12 months minimum at submission; intermediate 30 ± 2 °C/65 ± 5% RH, 6 months; accelerated 40 ± 2 °C/75 ± 5% RH, 6 months; refrigerated 5 ± 3 °C with accelerated 25 °C/60% RH; freezer −20 ± 5 °C.\n5. Frequency: every 3 months in year 1, 6 months in year 2, yearly after; accelerated 0, 3, 6 months.\n6. Significant change: 5% assay change; degradant over limit; failure of appearance/physical attributes; pH failure; dissolution failure for 12 units. If seen at accelerated, test at intermediate.\n7. Climatic zones I–IVb; India zone IVb (30 °C/75% RH).\n8. Q1B: at least 1.2 million lux hours and 200 Wh/m² near-UV. Q1D bracketing tests extremes; matrixing tests subsets."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define Total Quality Management. List its elements.",
+      "answer": "TQM: management approach in which the whole organisation continually improves processes, products and services, aiming at customer satisfaction. Elements: customer focus; top management commitment and leadership; total employee involvement (teams, quality circles); process-centred approach; integrated system; strategic and systematic approach; continual improvement (PDCA, kaizen); fact-based decision making (statistics, control charts); communication; training and education."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the philosophies of Deming, Juran and Crosby.",
+      "answer": "Deming: 14 points for management; PDCA (Plan–Do–Check–Act) cycle; reduce variation; stop dependence on mass inspection; drive out fear; constant improvement. Juran: quality is fitness for use; quality trilogy of planning, control and improvement; Pareto principle (vital few causes). Crosby: quality is conformance to requirements; zero defects; prevention not appraisal; cost of quality is the price of non-conformance; 'quality is free'. (Ishikawa: fishbone diagram, quality circles may be added.)"
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define Quality by Design. Explain its elements.",
+      "answer": "QbD (ICH Q8(R2)): systematic approach to development that begins with predefined objectives and emphasises product and process understanding and process control, based on sound science and quality risk management. Elements: QTPP (target profile of the product); CQAs (attributes that must stay within limits: assay, dissolution, impurities); risk assessment (fishbone, FMEA) linking inputs to CQAs; CMAs and CPPs (for example particle size, granulation time); design space (proven range of variables; movement inside is not a change); control strategy (in-process tests, PAT, specifications); lifecycle management and continual improvement. Tools: DoE, risk tools, PAT, multivariate analysis."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give an overview of ISO 9000 and its benefits.",
+      "answer": "ISO 9000 family on quality management: ISO 9000 fundamentals and vocabulary; ISO 9001 requirements (certifiable); ISO 9004 guidance for sustained success; ISO 19011 auditing. Seven principles: customer focus, leadership, engagement of people, process approach, improvement, evidence-based decision making, relationship management. ISO 9001 clauses 4–10: context, leadership, planning, support, operation, performance evaluation, improvement. Benefits: consistent products, fewer rejections, clear responsibilities, customer confidence, export access, measurement and continual improvement. Voluntary; does not replace GMP. Check iso.org for the current edition."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the steps for ISO registration (certification)?",
+      "answer": "1. Management decision, quality policy, management representative. 2. Gap analysis. 3. Training. 4. Documented information: policy, objectives, procedures, records. 5. Implementation for some months. 6. Internal audit and management review; correction. 7. Select an accredited certification body (accredited in India by NABCB). 8. Stage 1 audit (documents, readiness) and Stage 2 audit (implementation on site). 9. Close nonconformities with corrective action. 10. Certificate issued, usually valid three years with surveillance audits, then recertification."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is NABL? Describe the principles and procedure of NABL accreditation.",
+      "answer": "NABL: National Accreditation Board for Testing and Calibration Laboratories, a constituent board of the Quality Council of India; accredits testing and calibration labs to ISO/IEC 17025 and medical labs to ISO 15189. Principles: impartiality, technical competence for a defined scope, traceability of measurements, validated methods and measurement uncertainty, proficiency testing, confidentiality, working management system; international acceptance through ILAC/APAC arrangements. Procedure: prepare system and quality manual → online application with fee and scope → adequacy (document) review → pre-assessment where applicable → final on-site assessment by assessors → closure of non-conformities → accreditation committee recommendation → grant → surveillance and reassessment."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate quality assurance from quality control in two points.",
+      "answer": "QA prevents defects by controlling the whole system (SOPs, validation, audits); QC detects defects by testing samples against specifications."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is ISO 14001?",
+      "answer": "The ISO standard giving requirements for an environmental management system; a company can be certified against it to show control of pollution, waste and resource use."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the GMP requirements for personnel: responsibilities, training, hygiene and personal records.",
+      "answer": "1. Organisation chart; production head and quality heads separate and independent; written job descriptions; qualified full-time key staff; deputies named.\n2. Responsibilities: production head (manufacture per MFR/SOP, batch records complete, maintenance, training); QC head (approve/reject materials and products, specifications and methods, validation of methods, retention and stability samples); QA head (SOP and document approval, deviations, CAPA, change control, batch release, self-inspection, complaints and recall).\n3. Training: induction, job-specific, GMP refresher, special training for sterile areas and potent materials; training needs, plan, assessment of effectiveness, records.\n4. Hygiene: pre-employment and periodic medical checks; exclusion of sick people and open wounds; protective clothing suited to area; no eating, drinking, smoking or personal items; no jewellery or cosmetics; hand washing; gowning procedures; visitors supervised.\n5. Personal records: appointment, qualification and experience, job description, medical records, training records and assessments, authorisations.\n6. Link to Schedule M."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the requirements of premises for a pharmaceutical manufacturing unit with respect to design, construction, plant layout, maintenance and sanitation.",
+      "answer": "1. Location: away from sewers, drains, dust, smoke and odour sources; protected from pests.\n2. Construction: smooth, impervious, crack-free walls and ceilings with coving; hard, non-slip, chemical-resistant floors; flush doors, sealed windows; services from outside clean areas; trapped drains (none in aseptic areas); adequate lighting and space.\n3. Layout: logical sequence of operations; one-way flow of materials (receipt → quarantine → sampling → approved store → dispensing → processing → packing → finished goods → dispatch); separate people and material routes; air locks; separate areas for rejected and returned goods; dedicated or segregated facilities for penicillins, cephalosporins, hormones, cytotoxics; QC separate; toilets and canteen not opening into production (draw flow chart).\n4. Environmental control: HVAC with filtration, pressure differentials, air changes, temperature and RH control, dust extraction.\n5. Utilities: purified water, WFI, compressed air, nitrogen, clean steam qualified and monitored.\n6. Maintenance and sanitation: written cleaning programme, validated cleaning, disinfectant rotation, pest control, preventive building maintenance, waste removal; records."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the requirements of sterile areas and the measures for control of contamination in a pharmaceutical plant.",
+      "answer": "1. Sterile area grades A–D: A high-risk operations under unidirectional airflow; B background for A; C and D less critical stages. At rest ≥0.5 µm limits per m³: A 3,520; B 3,520; C 352,000; D 3,520,000 (≈ISO 5, 5, 7, 8). Other limits from the current Schedule M/annex.\n2. Design: smooth sealed surfaces; no sinks or drains in A/B; HEPA filters with integrity testing; interlocked air locks; pass boxes; pressure cascade (about 10–15 Pa between grades).\n3. People: stepwise gowning, sterile garments, minimum number, slow movement, training in aseptic technique.\n4. Monitoring: particle counts, settle plates, active air sampling, contact plates, glove prints; temperature, RH and pressure records; media fills.\n5. Contamination control: cross-contamination (dust, residues, air recirculation) — campaign working, dedicated facilities, validated cleaning, dust extraction, closed systems, air locks; microbial — hygiene, filtration, water control, sanitisation; particulate — smooth surfaces, sieves, metal detectors; mix-ups — line clearance, status labels, segregation."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the responsibilities of the heads of production and quality control.",
+      "answer": "Production head: ensures products are made and stored per approved MFR and SOPs; approves production instructions; checks batch records completed and signed; ensures premises and equipment maintained and validations done; ensures staff trained. QC head: approves or rejects starting materials, packing materials, intermediates and finished products; approves specifications, sampling instructions and test methods; ensures tests done and records checked; ensures method validation and instrument calibration; manages retention and stability samples. The two must be independent; shared duties include SOP authorisation, environmental monitoring, hygiene, training and vendor approval."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are the hygiene requirements for personnel in a pharmaceutical factory?",
+      "answer": "Medical examination before joining and periodically (eye test for visual inspectors); report illness; people with infectious disease or open lesions kept away from products; protective clothing suited to the area (overall, head and beard cover, mask, gloves, shoes; sterile gowns in aseptic areas); no eating, drinking, chewing, smoking or storing food and personal medicines in production, storage and lab areas; no jewellery, watches or cosmetics; hand washing and sanitising; avoid direct hand contact with product; gowning procedures and step-over benches; visitors supervised and gowned."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Draw and explain the plant layout with one-way flow for a tablet manufacturing unit.",
+      "answer": "Flow: receiving → quarantine → sampling booth → approved stores → dispensing → granulation → drying → blending → compression → coating → primary packing → secondary packing → finished goods quarantine → QA release → dispatch. Principles: rooms in sequence of operations, materials move one way, separate routes for people and materials, air locks between areas of different cleanliness, separate locked areas for rejected and returned goods, QC lab separate, change rooms at entry, toilets and canteen not opening into production, dust extraction at dispensing and compression."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on selection and purchase specifications (URS) of equipment.",
+      "answer": "Selection: capacity and precision suited to process; product-contact parts non-reactive, non-additive and non-absorptive (usually SS 316L); easy to clean and dismantle, no dead legs, CIP where possible; no shedding of lubricants or particles; safety. URS (written before purchase): purpose and capacity, operating ranges, materials of construction, cleanability, safety features, controls and data recording (data integrity), utilities, documents to be supplied (manuals, drawings, material and calibration certificates), training and after-sales support, IQ/OQ support. URS is the basis for DQ."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How is equipment maintained under GMP?",
+      "answer": "Written preventive maintenance programme and schedule; calibration of measuring instruments at fixed intervals against traceable standards with labels showing next due date; equipment log books for use, cleaning, maintenance and breakdowns; status labels (cleaned, to be cleaned, under maintenance, out of order); defective equipment removed or labelled; repairs done without risk to product; requalification after major repair or modification; lubricants not to contact product."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the purchase specifications and maintenance of stores for raw materials.",
+      "answer": "Specification: name, code, pharmacopoeial reference, description, identity, assay, impurities with limits, grade/particle size, approved suppliers, storage, retest period, packing and labelling. Vendor approval by sample testing, questionnaire, audit and performance; CoA with each lot but company tests too. Stores: receipt with document and container checks → own label → quarantine (yellow) → sampling in booth → QC testing → approved (green) or rejected (red, locked). Separate areas for quarantine, approved, rejected, returned and recalled; controlled and recorded temperature; pallets off the floor; flammables separate; controlled drugs locked; printed materials secured and counted; stock records; FEFO/FIFO issue; no issue after retest date without retest."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the four grades of clean area used for sterile manufacture.",
+      "answer": "Grade A (filling, open containers under unidirectional airflow), Grade B (background for A), Grade C and Grade D (less critical stages)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why must penicillin products be made in a separate facility?",
+      "answer": "Penicillins are highly sensitising; even trace cross-contamination can cause serious allergic reactions in patients taking other products, so dedicated, segregated facilities and air handling are required."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the quality control tests for glass containers as per the Indian Pharmacopoeia.",
+      "answer": "1. Types: Type I borosilicate (parenterals, autoclaved products); Type II surface-treated soda-lime (aqueous parenterals with pH below 7); Type III soda-lime (non-aqueous parenterals, powders, oral); Type IV general purpose (oral, topical).\n2. Powdered glass test: crushed glass of set particle size autoclaved with water; released alkali titrated with acid; checks bulk glass (Type I, III).\n3. Surface glass (water attack) test: containers filled with water and autoclaved; released alkali titrated; checks inner surface, identifies Type II.\n4. Arsenic test on water extract of containers for injections.\n5. Light transmission test for coloured glass: transmission in about 290–450 nm below the limit.\n6. Thermal shock test: hot and cold baths; no cracking.\n7. Internal bursting pressure test for pressurised containers.\n8. Annealing (polariscope) for residual strain.\n9. Dimensions, capacity, visual defects (cracks, stones, bubbles).\n10. Limits from current IP."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is Good Laboratory Practice? Discuss organization and personnel, the study director and the quality assurance unit under GLP.",
+      "answer": "1. Definition: quality system for planning, performing, monitoring, recording, archiving and reporting non-clinical safety studies; aim reliable, reconstructable data; origin in FDA 21 CFR Part 58 after 1970s data problems; OECD Principles; Schedule L-1 in India.\n2. Personnel: suitable education, training and experience; training summary and job description; enough staff; hygiene and protective clothing; sick staff excluded.\n3. Management: appoints study director, ensures QAU, test article characterisation, resources; acts on deviations.\n4. Study director: single point of control; protocol followed and amendments documented; data accurate; unforeseen events recorded; test systems as specified; GLP followed; records, specimens and report archived.\n5. QAU: independent of study conduct; master schedule sheet; copies of protocols; inspections at suitable intervals with reports to study director and management; periodic status reports; checks deviations authorised; reviews final report and signs QA statement.\n6. Subparts list A–K for context."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the protocol for conduct of a nonclinical laboratory study, records and reports, and disqualification of testing facilities under GLP.",
+      "answer": "1. Protocol contents: title and purpose; test and control article identity; sponsor and facility; test system number, weight, sex, source, species, strain, age; identification method; design and bias control; tests and frequency; records; dose levels, method, frequency, route; statistical methods; approval date and study director signature.\n2. Conduct: follow protocol; specimen identification; data recorded promptly, legibly, in ink, signed and dated; changes without obscuring original, with reason, signature and date; computer data with audit trail.\n3. Final report: facility, dates, objectives, methods and changes, statistics, article characterisation and stability, test system, dosage and route, unforeseen events, data transformations, summary and conclusions, names of scientists, storage location, QA statement, signed by study director; amendments signed.\n4. Archives: raw data, protocols, specimens, reports stored for retrieval, controlled access, archivist responsible, retention as per regulation.\n5. Disqualification: grounds (non-compliance, affects validity, lesser measures inadequate); notice and hearing; studies presumed unacceptable; others informed; reinstatement after proof of correction."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the quality control tests for rubber closures.",
+      "answer": "Identification of elastomer (IR of extract, ash, density); ability to withstand sterilisation; penetrability (force to pierce with standard needle within limit); fragmentation/coring (fragments after repeated piercing within limit); self-sealability (resealing after piercing, dye test under pressure); physicochemical tests on extract (appearance, acidity/alkalinity, absorbance, reducing substances, volatile sulfides, ammonium, heavy metals, residue on evaporation); biological toxicity tests for parenteral use; dimensions and hardness; compatibility with product (sorption of preservatives, leachables) in stability studies."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the quality control tests for plastic containers.",
+      "answer": "Identification of polymer (IR); leakage test; collapsibility test for squeezable containers; transparency/clarity for inspection of contents; water vapour permeability (weight change on storage); clarity and colour of aqueous extract; physicochemical tests on extract (non-volatile residue, residue on ignition, heavy metals, buffering capacity, UV absorbance, pH); biological tests (systemic injection, intracutaneous) for parenteral and ophthalmic containers; sorption and compatibility studies with the product. Blisters: foil thickness, seal strength, pinholes, dye leak test under vacuum."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the quality control tests for secondary packing materials.",
+      "answer": "Grammage (GSM) and thickness of paper and board; bursting strength (Mullen tester); compression strength of corrugated boxes (stacking load); Cobb test for water absorption; moisture content; tearing and folding endurance; drop and vibration tests on packed shippers; text and print checks against approved artwork (name, strength, batch, dates, legal statements, barcode, colour shade). Printed materials stored securely, counted on issue, reconciled and excess destroyed to prevent mix-ups."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the requirements for facilities and equipment under GLP.",
+      "answer": "Facilities: suitable size, construction and location with separation of activities; animal care facilities with separate rooms for species, studies, quarantine and isolation of sick animals; biohazard handling rooms; feed and bedding storage protected from pests; waste disposal; separate areas for receipt, storage and mixing of test and control articles; separate laboratory areas; secure archives; administrative areas. Equipment: suitable design and capacity, placed for operation and cleaning; regular inspection, cleaning, maintenance, testing and calibration as per SOPs naming responsible persons and remedies; written records of all operations and repairs."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on test and control articles and testing facility operation under GLP.",
+      "answer": "Test and control articles: identity, strength, purity and composition of each batch characterised and documented; stability determined; containers labelled with name, code/batch, expiry and storage; procedures for receipt, storage, distribution and accountability to avoid contamination and mix-up; mixtures with carriers analysed for uniformity, concentration and stability. Testing facility operation: SOPs for animal room preparation, animal care, receipt of articles, observations, laboratory tests, moribund or dead animals, necropsy, specimens, histopathology, data handling, equipment calibration; SOPs at the workplace; deviations authorised by study director; reagents labelled with identity, concentration, storage and expiry; animal identification, quarantine of new animals, analysis of feed and water."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the grounds and consequences of disqualification of a testing facility under GLP.",
+      "answer": "Purpose: exclude data from facilities whose non-compliance makes data unreliable. Grounds: failure to comply with GLP; the failure adversely affected the validity of studies; lesser regulatory actions are not or will not be adequate. Consequences: written notice and opportunity for a hearing; studies by the facility presumed unacceptable unless shown valid; regulator may inform sponsors and other agencies; legal action possible. Reinstatement: facility shows in writing and on inspection that it has corrected deficiencies and will comply."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which glass type is used for most parenteral preparations and why?",
+      "answer": "Type I borosilicate glass, because it has the highest hydrolytic resistance and releases very little alkali into the solution, even on autoclaving."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the role of the quality assurance unit (QAU) in GLP?",
+      "answer": "An independent group that keeps the master schedule, inspects studies, reports problems to the study director and management, and reviews the final report and signs the QA statement."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a product recall? Describe its classification and the procedure for recall of a product.",
+      "answer": "1. Recall: action to remove from the market batches that are defective, suspected defective or violating the law; voluntary or ordered by regulator.\n2. Reasons: contamination, mix-up/wrong label, sub-standard assay or dissolution, stability or sterility failure, serious adverse reaction, spurious product.\n3. Classes: I reasonable probability of serious harm or death (wrong drug, contaminated injection); II temporary or reversible harm or remote chance of serious harm; III unlikely to cause harm (minor label defect). Timelines and depth per CDSCO recall guidance.\n4. Procedure: recall committee decision → classify and decide depth → inform licensing authority → identify consignees from distribution records → recall letters/messages → public notice for Class I if needed → receive and segregate recalled stock → reconcile quantities made, distributed, returned → effectiveness check → investigation, root cause, CAPA → supervised destruction with records → final report.\n5. System must work at any time; tested by mock recalls."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the handling of complaints and returned goods in a pharmaceutical industry.",
+      "answer": "1. Complaint: report that a product may be defective or not performing; sources: patients, doctors, pharmacists, distributors, regulators.\n2. Types: quality, packaging/labelling, medical/adverse event (to pharmacovigilance), counterfeit suspicion, commercial.\n3. Procedure (flow chart): receive and log → acknowledge → classify critical/major/minor → obtain sample → investigate (batch records, retention samples, complaint sample, trend of other complaints, deviations, stability) → root cause → CAPA; decide recall or regulator notification → reply → close; periodic trend review.\n4. Records kept; serious defects or counterfeits reported to authority.\n5. Returned goods: separate locked area; record product, batch, quantity, reason, source, date; quarantine; QA evaluation of storage history, condition, remaining shelf life, reason.\n6. Decision: return to stock only if no doubt about quality (unopened, proper storage, adequate shelf life, satisfactory checks); reprocess under approved procedure; otherwise destroy; record and trend."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a Master Formula Record? Give its contents and differentiate it from a Batch Manufacturing Record.",
+      "answer": "1. MFR: master document approved for each product and batch size, from which batch records are copied.\n2. Contents: product name, form, strength, code, description, batch size; prepared/checked/approved signatures and dates; formula per unit and per batch including overages and processing aids; references to specifications; equipment list; step-by-step manufacturing instructions with parameters, precautions, in-process controls; theoretical yields and limits; packing instructions, materials, line clearance, printed specimens; storage conditions.\n3. BMR: copy of current MFR for one batch, filled in at the time: batch number, dates, line clearance, actual weights with material numbers and signatures, equipment used, actual parameters, in-process results, yields and reconciliation, deviations, packing material reconciliation, QC results, QA release.\n4. Differences: master vs one batch; instructions vs evidence; prepared once vs issued per batch; revised by change control vs filled during work.\n5. Records retained as per Schedule M (older text: one year after expiry of the batch); ALCOA principles."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is an SOP? Give its format and lifecycle.",
+      "answer": "SOP: authorised written procedure for routine operations (equipment operation and cleaning, calibration, gowning, complaint handling). Format: header with company, title, SOP number, version, effective and review dates, department, page x of y; objective, scope, responsibility, accountability, procedure in numbered steps, precautions, abbreviations, references, annexures/formats, revision history; prepared, checked and approved (QA) signatures. Lifecycle: draft by user department → review → QA approval → training → controlled copies issued → periodic review → revision through change control; old version withdrawn and archived."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on quality audit and its types.",
+      "answer": "Quality audit: systematic, independent, documented examination of whether quality activities and results comply with planned arrangements and whether these are effective. Types: internal audit/self-inspection by the company's own team; external/supplier audit of vendors and contract manufacturers or labs; third-party/regulatory inspection by CDSCO, state authority, WHO or certification bodies. Process: plan and checklist → opening meeting → evidence by observation, interview, records → classify observations critical/major/minor → closing meeting → report → CAPA by auditee → follow-up verification."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a product quality review? List what it covers.",
+      "answer": "Regular (usually yearly) review of each product to confirm process consistency and appropriateness of specifications, and to find improvements. Covers: starting and packing materials (especially new sources); critical in-process and finished product results with trends; failed batches and investigations; significant deviations and CAPA; changes to process or methods; stability results; complaints, returns and recalls; adequacy of previous corrective actions; qualification status of equipment and utilities. Outcome: decisions on revalidation or changes; reviewed by management."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain good documentation practices (ALCOA).",
+      "answer": "Documents define the system; records prove it was followed. ALCOA: Attributable (who and when), Legible, Contemporaneous (recorded at the time), Original, Accurate; ALCOA+ adds complete, consistent, enduring, available. Rules: approved, signed and dated documents with number, version and effective date; clear language; indelible ink; no blank spaces; corrections by single line, readable original, correct value, signature, date and reason; no overwriting or correction fluid; controlled copies, obsolete versions withdrawn; electronic records with access control, backup and audit trail; retention as required."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are distribution records? Why are they important?",
+      "answer": "Records of where each batch went: product, batch number, quantity, date of dispatch, consignee name and address, invoice number, mode of transport, cold-chain conditions where needed. Importance: allow quick and complete recall of any batch; reconciliation during recall; evidence of proper dispatch (FEFO, suitable vehicles); support complaint investigation. Kept at least as long as batch records."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How should pharmaceutical waste be disposed of?",
+      "answer": "Rejected, returned, recalled and expired products destroyed under QA supervision so they cannot be reused or diverted (crushing, incineration or authorised waste handler), with witnessed destruction records; printed packing materials with batch details shredded or burnt; hazardous chemicals and solvents through authorised facilities under hazardous waste rules and pollution control board consent; biomedical waste segregated and decontaminated under Bio-Medical Waste Management Rules; effluents treated in an ETP; narcotic and psychotropic products destroyed as the law requires; waste kept in closed labelled containers in a designated area and removed regularly."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define a Class I recall.",
+      "answer": "A recall where there is a reasonable probability that use of the product will cause serious adverse health effects or death, for example a wrong drug in the pack."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a site master file?",
+      "answer": "A document prepared by the manufacturer describing its quality management, personnel, premises and equipment, documentation, production, quality control, distribution, complaints, recalls and self-inspection at a particular site."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define validation. Discuss its importance, scope and types. Add a note on the validation master plan.",
+      "answer": "1. Validation: documented proof, in line with GMP, that a procedure, process, equipment, material, activity or system consistently leads to the expected result.\n2. Importance: builds quality in; assures batch consistency (samples cannot find all defects); fewer rejects and complaints; patient safety; legal GMP requirement; safer changes.\n3. Scope: process, cleaning, analytical method, equipment and facility qualification, utilities (water, air, steam), computer systems, transport and storage, packaging.\n4. Types: prospective (before sale, usually three consecutive batches; preferred); concurrent (during routine production, exceptional cases, justified); retrospective (historical data of many batches; not normal for new work); revalidation (after change or periodically). Lifecycle: process design, process qualification, continued process verification.\n5. Protocol contents: objective, scope, responsibilities, process and equipment, CPPs and CQAs, sampling plan, tests and acceptance criteria, number of batches, deviations, report.\n6. VMP: site validation policy, scope, team and responsibilities, plant/process description, critical parameters, list of items to validate, acceptance criteria, documentation format, SOPs, schedule, change control and revalidation policy, training."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain calibration and qualification. Describe DQ, IQ, OQ and PQ with an example, and the calibration of a pH meter.",
+      "answer": "1. Calibration: establishing relationship between instrument readings and traceable reference standards and adjusting; principles: master list, SOP, traceable and more accurate standards, full range, acceptance limits, labels with due date, out-of-calibration handling and impact assessment, in-house or accredited agency.\n2. Qualification: proving equipment is installed and works correctly; V-model links URS↔PQ, DQ↔OQ, specifications↔IQ.\n3. DQ: design meets URS and GMP. IQ: received and installed correctly, documents, utilities, materials certificates. OQ: works across operating ranges, alarms, interlocks, worst case, without product. PQ: consistent performance with product or placebo, commonly three runs. Example: tablet press or autoclave.\n4. Requalification after major repair, relocation or modification.\n5. pH meter: glass and reference electrodes, slope about 59.16 mV/pH at 25 °C. Procedure: warm up, rinse electrode, temperature compensation, standardise with pH ~7 buffer (6.86), set slope with pH 4.01, check with 9.18; readings within limit (commonly ±0.05); slope commonly 95–105%; record and label. Precautions: fresh buffers, keep bulb wet, bracket sample pH."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the general principles of analytical method validation as per ICH guidelines. Add a note on qualification of a UV-visible spectrophotometer.",
+      "answer": "1. Purpose: show the procedure is suitable for intended use; ICH Q2(R2) with Q14 on development.\n2. Specificity: no interference from impurities, degradants, excipients (placebo, spiked, stressed samples).\n3. Accuracy: recovery of known amounts, 3 levels × 3 replicates.\n4. Precision: repeatability (9 determinations over range or 6 at 100%), intermediate precision, reproducibility; % RSD.\n5. Linearity: at least 5 concentrations; r, slope, intercept. Range: assay 80–120%.\n6. DL = 3.3σ/S (S/N about 3:1); QL = 10σ/S (S/N about 10:1). Robustness: small deliberate changes.\n7. Table: identification needs specificity only; quantitative impurity all except DL; limit test specificity and DL; assay specificity, accuracy, precision, linearity, range. System suitability with each run.\n8. UV-visible qualification: wavelength accuracy with holmium oxide filter or holmium perchlorate (peaks near 241, 287, 361, 536 nm) or lamp lines; absorbance accuracy with potassium dichromate in about 0.005 M H2SO4 at 235, 257, 313, 350 nm; stray light with KCl about 1.2% (absorbance above 2.0 near 198–200 nm); resolution with 0.02% toluene in hexane (269/266 nm ratio); cell matching; plus IQ, OQ (noise, baseline, drift), PQ. Limits from current IP."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate calibration, qualification and validation.",
+      "answer": "Calibration: comparison of instrument readings with traceable standards and adjustment; applies to measuring instruments (balance, pH meter, thermometer). Qualification: documented proof that equipment, utilities or facilities are properly designed, installed and work as expected (DQ, IQ, OQ, PQ). Validation: documented proof that a process, method or system consistently gives the expected result (process, cleaning, analytical, computer validation). Calibration is part of qualification, and qualification is part of validation. 'Calibrate instruments, qualify equipment, validate processes and methods.'"
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the types of process validation.",
+      "answer": "Prospective: before marketing a new product/process, pre-approved protocol, usually three consecutive batches, batches released after approved report; preferred. Concurrent: during routine production in exceptional, justified cases (low volume, urgent need); batches released individually as data accumulate. Retrospective: review of historical batch data (often 10–30 batches) of products already in production; no longer normal for new work. Revalidation: after changes in formula, process, equipment, site, batch size or supplier, or periodically, controlled by change control. Modern lifecycle: process design, process qualification, continued process verification."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a validation master plan? List its contents.",
+      "answer": "VMP: high-level document summarising the site's validation philosophy and approach and listing what will be validated, by whom and when. Contents: introduction and policy; scope (products, processes, facilities, systems); organisation and responsibilities; brief plant, process and product description; critical parameters; list of items to qualify/validate (facilities, utilities, equipment, processes, cleaning, analytical methods, computer systems); key acceptance criteria; documentation format and numbering; required SOPs; planning and schedule; change control and revalidation policy; training."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe good warehousing practices.",
+      "answer": "Adequate space with separate areas for receipt, quarantine, sampling, approved, rejected, returned and recalled goods; storage conditions as per label with temperature mapping, continuous monitoring and alarms; status shown by labels or validated computer system; stock rotation by FEFO (or FIFO); cleanliness, pallets off floor, pest control; security with restricted access, secure stores for controlled drugs, printed materials and high-value items, separate flammables store; records of receipt, issue, balance and periodic physical checks; careful handling, spill clean-up and segregation of damaged goods; correct dispatch in suitable vehicles and validated cold chain."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain inventory control techniques used in materials management. Calculate EOQ for annual demand 10,000 units, ordering cost ₹200 and holding cost ₹4 per unit per year.",
+      "answer": "Materials management: plan, buy, store and control materials at the right time, quantity, quality and lowest cost. Techniques: ABC (consumption value: A few items, most value, tight control), VED (vital, essential, desirable: criticality), FSN (fast, slow, non-moving), HML (unit price), SDE (availability). EOQ = √(2DS/H) = √(2 × 10,000 × 200 / 4) = √1,000,000 = 1,000 units per order (10 orders a year). Reorder level = daily use × lead time + safety stock; safety stock covers delays; maximum and minimum levels limit excess and shortage."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the validation parameters for an analytical method and their meaning.",
+      "answer": "Specificity: measures analyte without interference. Accuracy: closeness to true value (recovery). Precision: closeness of repeated results — repeatability, intermediate precision, reproducibility (% RSD). Linearity: response proportional to concentration (at least 5 levels). Range: interval with suitable accuracy, precision, linearity (assay 80–120%). Detection limit: lowest detectable amount, 3.3σ/S. Quantitation limit: lowest quantifiable amount, 10σ/S. Robustness: unaffected by small deliberate changes. System suitability tests checked with each run. Reference: ICH Q2(R2)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define operational qualification.",
+      "answer": "Documented proof that installed equipment works as intended throughout its stated operating ranges, including alarms, interlocks and worst-case settings."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the formulas for detection limit and quantitation limit.",
+      "answer": "DL = 3.3σ/S and QL = 10σ/S, where σ is the standard deviation of the response and S is the slope of the calibration curve."
+    }
+  ]
+}

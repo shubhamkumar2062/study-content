@@ -1,0 +1,48 @@
+{
+  "code": "BP606T",
+  "title": "Quality Assurance",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (copy published by Mohanlal Sukhadia University), BP606T Pharmaceutical Quality Assurance (Theory)",
+    "url": "https://www.mlsu.ac.in/syllabus/pgs/BP606T.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Quality assurance and quality management concepts",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Organization, personnel, premises, equipment and raw materials",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Quality control of packaging materials and Good Laboratory Practices",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Complaints, recalls and documentation",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Calibration, validation and warehousing",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
