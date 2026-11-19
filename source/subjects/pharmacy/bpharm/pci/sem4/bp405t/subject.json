@@ -1,0 +1,103 @@
+{
+  "code": "BP405T",
+  "title": "Pharmacognosy and Phytochemistry I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP405T Pharmacognosy and Phytochemistry I with its practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP405T_B.Pharma-pages-22.pdf"
+  },
+  "practicalCodes": [
+    "BP409P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to pharmacognosy, classification and quality control of crude drugs",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Cultivation, collection, processing and storage of drugs of natural origin",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Plant tissue culture",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Pharmacognosy in systems of medicine and introduction to secondary metabolites",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Plant products, primary metabolites and marine drugs",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "chemical-tests-crude-drugs",
+      "title": "Chemical tests for tragacanth, acacia, agar, gelatin, starch, honey and castor oil",
+      "file": "practicals/chemical-tests-crude-drugs.md"
+    },
+    {
+      "id": "stomatal-number-index",
+      "title": "Stomatal number and stomatal index",
+      "file": "practicals/stomatal-number-index.md"
+    },
+    {
+      "id": "vein-islet-palisade-ratio",
+      "title": "Vein-islet number, vein-termination number and palisade ratio",
+      "file": "practicals/vein-islet-palisade-ratio.md"
+    },
+    {
+      "id": "eyepiece-micrometer-starch-crystals",
+      "title": "Size of starch grains and calcium oxalate crystals by eyepiece micrometer",
+      "file": "practicals/eyepiece-micrometer-starch-crystals.md"
+    },
+    {
+      "id": "fibre-length-width",
+      "title": "Fibre length and width",
+      "file": "practicals/fibre-length-width.md"
+    },
+    {
+      "id": "lycopodium-spore-method",
+      "title": "Number of starch grains by the lycopodium spore method",
+      "file": "practicals/lycopodium-spore-method.md"
+    },
+    {
+      "id": "ash-values",
+      "title": "Ash values (total, acid-insoluble, water-soluble)",
+      "file": "practicals/ash-values.md"
+    },
+    {
+      "id": "extractive-values",
+      "title": "Extractive values (alcohol- and water-soluble)",
+      "file": "practicals/extractive-values.md"
+    },
+    {
+      "id": "moisture-content",
+      "title": "Moisture content (loss on drying)",
+      "file": "practicals/moisture-content.md"
+    },
+    {
+      "id": "swelling-foaming-index",
+      "title": "Swelling index and foaming index",
+      "file": "practicals/swelling-foaming-index.md"
+    }
+  ]
+}

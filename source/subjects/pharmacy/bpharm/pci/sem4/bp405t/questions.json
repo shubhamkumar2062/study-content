@@ -1,0 +1,473 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define crude drug. Discuss the different methods of classification of crude drugs with their merits, demerits and examples.",
+      "answer": "1. Crude drug: plant, animal or mineral material used as medicine after only collection, drying and simple processing (not purified).\n2. Alphabetical: A–Z by Latin/English name; used in IP, BP, USP; easy to locate; shows nothing about source or action.\n3. Morphological: by part used — leaves (senna, digitalis), barks (cinchona), roots/rhizomes (rauwolfia, ginger), flowers (clove), fruits (fennel), seeds (nux vomica), woods (sandalwood), herbs (vinca), unorganised drugs (aloe, acacia); good for identification, but unrelated drugs grouped together.\n4. Taxonomical: Kingdom → Division → Class → Order → Family → Genus → Species; e.g., Solanaceae (belladonna, datura), Apiaceae (fennel, coriander), Leguminosae (senna, liquorice); shows natural relationships but not use.\n5. Chemical: by main constituent — alkaloids (cinchona), glycosides (digitalis), tannins (catechu), volatile oils (clove), resins (benzoin), carbohydrates (acacia), lipids (castor oil); best for phytochemistry; drugs with mixed constituents hard to place.\n6. Pharmacological: by action — cardiotonic (digitalis), purgative (senna), antihypertensive (rauwolfia), antimalarial (cinchona), anticancer (vinca); useful clinically; multi-action drugs hard to place.\n7. Chemotaxonomic: taxonomy plus chemistry; e.g., tropane alkaloids in Solanaceae, isoquinolines in Papaveraceae, glucosinolates in Brassicaceae; helps find new sources.\n8. Serotaxonomic: antigen–antibody reactions of plant proteins measure relatedness of taxa.\n9. Conclude: no single system is perfect; morphological for identification, chemical for study, pharmacological for therapy."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is adulteration? Describe the different types of adulteration with examples. Add a note on methods used to evaluate crude drugs.",
+      "answer": "1. Definition: substitution of the original drug partly or wholly with inferior, defective, spoiled or worthless material, or addition of foreign matter, lowering quality; deliberate or accidental.\n2. Types: (a) inferior commercial variety — cassia bark for Ceylon cinnamon; (b) exhausted drug — exhausted clove or ginger; (c) superficially similar cheaper material — Ailanthus leaves in belladonna, safflower in saffron; (d) artificially manufactured substitutes — artificial coffee beans; (e) worthless heavy materials — sand and stones in asafoetida, lead shot in opium; (f) synthetic principles — citral in lemon oil; (g) vegetative parts of the same plant — stems in senna; (h) deterioration in storage.\n3. Organoleptic evaluation: colour, odour, taste, size, shape, fracture (e.g., fibrous fracture of cinchona, sweet taste of liquorice).\n4. Microscopic: stomata, trichomes, calcium oxalate, starch, histochemical tests (phloroglucinol–HCl for lignin, iodine for starch); quantitative microscopy (stomatal index, vein-islet number, palisade ratio, lycopodium method).\n5. Physical: moisture, ash values, extractive values, swelling and foaming index, viscosity, melting point, refractive index, optical rotation, UV fluorescence.\n6. Chemical: identification tests and assays; acid, saponification, iodine and ester values for oils.\n7. Biological: bioassays where chemistry is inadequate — digitalis (pigeon), antibiotics (microbial assay), bitterness value."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain quantitative microscopy. Describe the determination of stomatal index, vein-islet number, palisade ratio and the lycopodium spore method.",
+      "answer": "1. Quantitative microscopy: numerical values measured under the microscope for identification and purity, especially of powdered drugs.\n2. Stomatal number: stomata per mm² of epidermis; varies with leaf age and conditions.\n3. Stomatal index: SI = S × 100/(E + S); clear leaf in chloral hydrate, trace 1 mm² with camera lucida, count S and E in 10 fields; constant for a species; separates related species (Indian vs Alexandrian senna).\n4. Vein-islet number: number of vein-islets per mm² midway between midrib and margin; draw 4 mm² square with camera lucida, count, divide by 4; vein-termination number counted similarly.\n5. Palisade ratio: average number of palisade cells beneath one upper epidermal cell; trace groups of four epidermal cells, count palisade cells beneath, divide by 4.\n6. Lycopodium spore method: lycopodium spores uniform, about 94,000 per mg; mix weighed drug (M) and lycopodium (W); count characteristic particles (N) and spores (S) in the same fields; particles per mg = N × W × 94,000/(S × M); % purity against genuine drug.\n7. Tools: camera lucida, stage micrometer (1 division = 10 µm), calibrated eyepiece micrometer.\n8. Applications: identification of leaf drugs, detection of adulteration in powders (ginger starch count)."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between organised and unorganised drugs with examples.",
+      "answer": "1. Organised drugs are made of cells and tissues; unorganised drugs have no cellular structure.\n2. Organised: direct plant/animal parts — leaves (senna), barks (cinnamon), roots (ipecac), rhizomes (ginger), flowers (clove), fruits (fennel), seeds (linseed), woods (sandalwood).\n3. Unorganised: products obtained by incision, drying or extraction — dried latex (opium), dried juice (aloe), dried extract (catechu), gums (acacia, tragacanth), oleoresins (turpentine), oleo-gum-resins (asafoetida, myrrh), balsams (benzoin, tolu), waxes and fats.\n4. Organised drugs are identified by morphology and microscopy; unorganised mainly by physical and chemical tests."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on chemotaxonomy and serotaxonomy.",
+      "answer": "1. Chemotaxonomy: classification of plants using their chemical constituents along with morphology; related plants make similar compounds.\n2. Examples: tropane alkaloids in Solanaceae; isoquinoline alkaloids in Papaveraceae and Berberidaceae; sesquiterpene lactones in Asteraceae; glucosinolates in Brassicaceae; volatile oils in Lamiaceae and Apiaceae.\n3. Uses: settling doubtful taxonomic positions, finding new sources of a drug in related species, detecting adulterants.\n4. Serotaxonomy: uses serology (antigen–antibody reactions) to compare plant proteins.\n5. Method: proteins of one plant injected into an animal to raise antiserum; antiserum tested against proteins of other plants; strength of precipitation shows degree of relationship."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the definition, history and scope of pharmacognosy.",
+      "answer": "1. Pharmacognosy (pharmakon = drug, gnosis = knowledge): study of drugs of natural origin — source, cultivation, collection, identification, constituents, evaluation, preservation and uses; term introduced by Seydler, 1815.\n2. History: Vedic texts and Charaka/Sushruta Samhitas; Shen Nung's herbal; Ebers papyrus; Dioscorides' De Materia Medica; Galen (galenicals); Avicenna; isolation of morphine and other alkaloids in the early 19th century; antibiotics, tissue culture and biotechnology in the 20th century.\n3. Scope: identification and detection of adulteration; isolation of active principles (digoxin, vincristine, paclitaxel, artemisinin); raw materials for semi-synthesis (diosgenin); pharmaceutical aids (gums, starch, gelatin, waxes); standardisation of herbal and AYUSH products; cultivation and conservation; tissue culture; marine and microbial drugs; cosmetics and flavours."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the camera lucida and how drawings are made to scale with it.",
+      "answer": "1. Camera lucida: attachment on the eyepiece with a prism and mirror; superimposes the microscopic image on paper so object and pencil tip are seen together; outlines can be traced exactly.\n2. Calibration: place stage micrometer (1 mm in 100 divisions, each 10 µm) on the stage and trace its divisions on paper to make a scale.\n3. Replace with specimen and trace epidermal cells, stomata, veins or other objects.\n4. Using the traced scale, mark a 1 mm² or 4 mm² square and count stomata, vein-islets, etc.\n5. Keep microscope, eyepiece and paper position unchanged after calibration.\n6. Used for leaf constants and drawing microscopic objects to scale."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain physical methods of evaluation of crude drugs.",
+      "answer": "1. Moisture content / loss on drying: excess water favours microbes and enzyme action.\n2. Ash values: total ash (all inorganic matter), acid-insoluble ash (silica, sand), water-soluble ash (low in exhausted drug), sulphated ash.\n3. Extractive values: water-, alcohol- and ether-soluble; low in exhausted or adulterated drugs.\n4. Foreign organic matter limits.\n5. Swelling index (isapgol), foaming index (saponin drugs).\n6. Physical constants: viscosity (gums), melting point (waxes), refractive index and optical rotation (oils), specific gravity, solubility.\n7. Fluorescence under UV light.\n8. These numerical values check purity and help detect adulteration."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is meant by stomatal index? Give its formula.",
+      "answer": "Stomatal index is the percentage of stomata out of the total epidermal cells and stomata in the same area: SI = S × 100/(E + S)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is lycopodium used in the lycopodium spore method?",
+      "answer": "Its spores are very uniform in size and shape and of known number (about 94,000 per mg), so they serve as an internal standard for counting."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the factors influencing the cultivation of medicinal plants.",
+      "answer": "1. Advantage of cultivation: uniform quality, purity, steady supply, protection of wild plants.\n2. Altitude: tea, cinchona need hills; senna, castor plains.\n3. Temperature: optimum range per species; frost and extreme heat harmful; affects volatile oil content.\n4. Rainfall and irrigation: water supply; flood, sprinkler, drip irrigation; excess causes root rot.\n5. Light and photoperiod: intensity affects photosynthesis and constituents; shade-loving (cardamom) vs sun plants; day length controls flowering.\n6. Soil: texture (sand, silt, clay, loam), drainage, pH, organic matter, microbes.\n7. Fertilisers and manures: organic (FYM, compost, green manure), inorganic N, P, K; nitrogen may increase alkaloids; biofertilisers.\n8. Pests and pest control: weeds, insects, fungi, nematodes; mechanical, agricultural (rotation, resistant varieties), biological (natural enemies, neem), chemical (within residue limits).\n9. Genetic factors: selected high-yielding varieties, polyploidy, hybrids.\n10. Time of harvest: constituent peaks with age, season, time of day."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are plant hormones? Describe auxins, gibberellins, cytokinins, abscisic acid and ethylene with their applications.",
+      "answer": "1. Definition: organic substances made in small amounts in one part of a plant and acting elsewhere to regulate growth and development; synthetic analogues are plant growth regulators.\n2. Auxins: IAA (natural), IBA, NAA, 2,4-D; cell elongation, apical dominance, rooting, phototropism; uses — rooting of cuttings, parthenocarpy, 2,4-D as weedkiller, callus induction.\n3. Gibberellins: GA3; stem elongation, seed germination, breaking dormancy, bolting; uses — better germination, larger fruit size, growth increase.\n4. Cytokinins: kinetin, zeatin, BAP; cell division, shoot formation, delay of senescence; uses — shoot regeneration in tissue culture, keeping leaves fresh.\n5. Abscisic acid: growth inhibitor; dormancy, stomatal closure under stress; uses — dormancy for storage, drought tolerance.\n6. Ethylene: fruit ripening, abscission; ethephon releases it; uses — uniform ripening, latex flow in rubber.\n7. Others: brassinosteroids, jasmonates (methyl jasmonate as elicitor in cell cultures).\n8. Auxin:cytokinin balance in tissue culture — high auxin roots, high cytokinin shoots, balance callus."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe polyploidy, mutation and hybridisation as methods of improving medicinal plants.",
+      "answer": "1. Aim: higher active constituent, better growth, resistance, uniformity.\n2. Polyploidy: more than two chromosome sets (3n, 4n); auto- and allopolyploidy; induced by colchicine, which blocks spindle formation so chromosomes double; effects — larger cells, organs (gigas effect), often more secondary metabolites (tetraploid Datura reported with more alkaloid); triploids seedless.\n3. Mutation: sudden heritable change in a gene or chromosome; spontaneous or induced by physical mutagens (X-rays, gamma rays, UV, neutrons) and chemical mutagens (EMS, nitrous acid, sodium azide); useful mutants selected, e.g., poppy lines rich in thebaine, wilt-resistant peppermint; most mutations harmful so large screening needed.\n4. Hybridisation: crossing genetically different plants; steps — select parents, emasculate, bag, pollinate, bag, collect seed, select over generations; intraspecific, interspecific, intergeneric; hybrid vigour (heterosis); examples — peppermint as natural hybrid of water mint and spearmint, cinchona hybrids.\n5. Limitations: time, cost, unpredictable results."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the collection, drying and storage of crude drugs.",
+      "answer": "1. Collection time: leaves near flowering; flowers before opening (clove buds); fruits when full grown; seeds when mature; barks in spring; roots and rhizomes in autumn; latex by incision (opium from unripe capsules).\n2. Harvesting: hand-picking or mechanical.\n3. Garbling: removal of soil, stones, stems, other plants and insects.\n4. Drying: stops enzyme action and microbial growth; sun, shade (aromatic drugs) or artificial (tray, hot air, vacuum, spray, freeze drying); low temperature for volatile oil drugs; rapid drying for glycoside drugs like digitalis.\n5. Curing/fermentation where needed: vanilla (glucovanillin → vanillin), tea, cocoa.\n6. Storage: cool, dry, ventilated, dark; airtight containers; protection from insects and rodents; regular inspection; first-in first-out."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on conservation of medicinal plants.",
+      "answer": "1. Need: overharvesting, habitat loss, grazing, fires, climate change, destructive harvesting of roots and barks.\n2. Threatened examples: Nardostachys jatamansi, Saussurea costus, Taxus wallichiana, Podophyllum hexandrum, Rauvolfia serpentina.\n3. In situ: national parks, wildlife sanctuaries, biosphere reserves, sacred groves, medicinal plant conservation areas.\n4. Ex situ: botanical and herbal gardens, seed banks, field gene banks, tissue culture, slow-growth storage, cryopreservation at −196 °C, DNA banks.\n5. Other measures: cultivation of threatened species, sustainable harvesting, community benefit-sharing, National Medicinal Plants Board, Biological Diversity Act 2002, CITES for trade."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the methods of propagation of medicinal plants.",
+      "answer": "1. Sexual (seeds): cheap, large numbers, but offspring vary; seed treatments to break dormancy — soaking, scarification, stratification, gibberellic acid; e.g., senna, isapgol, fennel, datura.\n2. Asexual (vegetative): clones identical to parent.\n3. Cuttings (stem, root, leaf) — rauwolfia.\n4. Layering, including air layering.\n5. Grafting (scion on rootstock) and budding.\n6. Underground parts: rhizomes (ginger, turmeric), bulbs (garlic), runners (mint), suckers, tubers.\n7. Micropropagation by tissue culture for rare and elite plants."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is polyploidy? How is it induced and what is its importance in medicinal plants?",
+      "answer": "1. Polyploidy: cells with more than two sets of chromosomes (triploid, tetraploid).\n2. Autopolyploidy (same species) and allopolyploidy (from hybrid of two species).\n3. Induction: colchicine (from Colchicum autumnale) applied to seeds, seedlings or buds; it stops spindle formation so chromosomes double without cell division; also temperature shocks.\n4. Effects: larger cells and organs, vigour, sometimes higher secondary metabolite content (e.g., tetraploid Datura reported with more tropane alkaloids); triploids are seedless.\n5. Importance: improved yield and quality of drug plants; source of new varieties for breeding."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "What is garbling? Explain the special processing (curing) of some crude drugs.",
+      "answer": "1. Garbling: final step before packing in which extraneous matter (soil, stones, stems, other plant parts, other plants, insects) is removed.\n2. Curing/fermentation: controlled enzyme action after collection to develop constituents or flavour.\n3. Vanilla pods: sweating and slow drying hydrolyse glucovanillin to vanillin.\n4. Tea: fermentation (oxidation) gives black tea.\n5. Cocoa beans fermented to develop flavour.\n6. Gentian root slowly dried to develop colour and flavour."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name two auxins and give one application.",
+      "answer": "Indole-3-acetic acid (IAA) and naphthalene acetic acid (NAA) (also IBA, 2,4-D); used to promote rooting of stem cuttings."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the role of colchicine in plant breeding?",
+      "answer": "Colchicine blocks spindle formation during cell division, so chromosomes double; it is used to induce polyploidy."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define plant tissue culture. Describe the types of cultures and the nutritional requirements of plant tissue culture media.",
+      "answer": "1. Definition: growth of plant cells, tissues or organs on a sterile nutrient medium under controlled conditions; based on totipotency.\n2. Callus culture: unorganised mass on solid medium with auxin/cytokinin.\n3. Suspension culture: cells in liquid medium on shaker or bioreactor; batch, continuous (chemostat, turbidostat), semi-continuous.\n4. Organ cultures: root, shoot tip/meristem (virus-free plants), embryo (embryo rescue).\n5. Anther/pollen culture: haploids; ovary/ovule culture.\n6. Protoplast culture: wall removed by cellulase and pectinase; fusion gives somatic hybrids.\n7. Hairy root culture: transformed by Agrobacterium rhizogenes; fast, hormone-free, stable.\n8. Immobilised cells in calcium alginate.\n9. Medium: macronutrients (N, P, K, Ca, Mg, S), micronutrients (Fe-EDTA, Mn, Zn, B, Cu, Mo, Co, I), sucrose 2–3%, vitamins (thiamine, nicotinic acid, pyridoxine, myo-inositol), amino acids (glycine), auxins and cytokinins, complex additives (coconut milk), agar 0.6–1%, pH 5.6–5.8.\n10. Common media: MS, White's, Gamborg B5, Nitsch."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the applications of plant tissue culture in pharmacognosy.",
+      "answer": "1. Production of secondary metabolites independent of season and land: shikonin (Lithospermum erythrorhizon, first commercial), ginsenosides, berberine, paclitaxel by plant cell fermentation, rosmarinic acid.\n2. Yield improvement: selection of high-yielding lines, medium optimisation, precursor feeding, elicitors (methyl jasmonate), immobilisation, hairy roots, two-phase systems.\n3. Biotransformation: Digitalis lanata cells convert β-methyldigitoxin to β-methyldigoxin (12β-hydroxylation).\n4. Micropropagation: mass clonal multiplication of elite or rare plants.\n5. Virus-free plants by meristem culture.\n6. Haploid production by anther culture; doubled haploids for breeding.\n7. Somatic hybridisation by protoplast fusion; embryo rescue.\n8. Germplasm conservation: slow growth, cryopreservation.\n9. Genetic transformation; edible vaccines.\n10. Study of biosynthetic pathways with labelled precursors.\n11. Limitations: low yields, genetic instability, slow growth, high cost, shear sensitivity."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What are edible vaccines? Describe their production, advantages and limitations.",
+      "answer": "1. Definition: vaccine antigens produced in transgenic edible plants; eating the plant material delivers the antigen; idea proposed in early 1990s.\n2. Principle: antigen reaches gut-associated lymphoid tissue (Peyer's patches) → mucosal (secretory IgA) and systemic immunity.\n3. Production: select antigen gene → insert into plant expression vector with promoter → transform plant cells by Agrobacterium tumefaciens or gene gun → regenerate transgenic plants by tissue culture → confirm expression and immune response.\n4. Plants: banana, tomato, potato, lettuce, rice, maize, carrot.\n5. Examples studied: hepatitis B surface antigen (potato, lettuce), E. coli heat-labile enterotoxin B subunit (potato), cholera toxin B, Norwalk virus capsid, rabies glycoprotein.\n6. Advantages: cheap, easy scale-up, no needles, less cold chain, no animal pathogens, mucosal immunity, suitable for developing countries.\n7. Limitations: dose variation, digestion in stomach, oral tolerance, allergy, loss on cooking, keeping vaccine crops out of food supply, regulatory and public concerns."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the historical development of plant tissue culture.",
+      "answer": "1. Schleiden and Schwann (1838–39): cell theory.\n2. Haberlandt (1902): first attempt to culture isolated plant cells; concept of totipotency; father of plant tissue culture.\n3. White (1934): continuous culture of tomato roots.\n4. Gautheret, Nobécourt and White (1939): continuously growing callus cultures.\n5. Miller and Skoog (1955): kinetin discovered; Skoog and Miller (1957): auxin:cytokinin ratio controls organ formation.\n6. Steward (1958): carrot plants from single cells.\n7. Cocking (1960): enzymatic isolation of protoplasts.\n8. Murashige and Skoog (1962): MS medium.\n9. Guha and Maheshwari (1964): haploids from Datura anthers.\n10. Shikonin produced commercially by cell culture (1983)."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "How is growth of a cell culture measured? Draw the growth curve of a suspension culture.",
+      "answer": "1. Fresh weight: filter and weigh cells.\n2. Dry weight: dry to constant weight; more accurate.\n3. Packed cell volume: centrifuge in graduated tube.\n4. Cell number: haemocytometer after separating clumps.\n5. Mitotic index.\n6. Viability: fluorescein diacetate (live cells fluoresce), Evans blue (dead cells stain), TTC reduction.\n7. Growth curve (sigmoid): lag phase → exponential phase → linear phase → deceleration → stationary phase; secondary metabolites often highest in late linear and stationary phases (draw biomass vs time)."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the general technique of plant tissue culture including sterilisation.",
+      "answer": "1. Select healthy plant; take explant.\n2. Surface sterilise: 70% ethanol briefly, then sodium hypochlorite or mercuric chloride; rinse in sterile water.\n3. Media and glassware autoclaved at 121 °C, 15 lb/in² for 15–20 minutes; heat-labile components filter-sterilised (0.22 µm); instruments flame-sterilised.\n4. Inoculate in laminar air-flow cabinet.\n5. Incubate at about 25 ± 2 °C with controlled light (e.g., 16 h light).\n6. Subculture every 3–4 weeks.\n7. Regenerate plantlets, root them, harden and transfer to soil; or use suspension cultures for metabolites."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on hairy root culture and its advantages.",
+      "answer": "1. Hairy roots form when plant tissue is infected by Agrobacterium rhizogenes, which transfers T-DNA of its Ri plasmid into plant cells.\n2. Transformed roots grow fast, branch profusely and need no added hormones.\n3. They are genetically and biochemically stable over long periods.\n4. They produce metabolites normally made in roots (e.g., tropane alkaloids) often at levels similar to the intact plant.\n5. Can be grown in bioreactors; used for biotransformation as well."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain the maintenance and preservation of plant cell cultures.",
+      "answer": "1. Regular subculture to fresh medium before nutrients run out or toxins build up.\n2. Slow-growth storage: low temperature (4–10 °C), reduced nutrients, growth retardants; increases interval between subcultures.\n3. Cryopreservation: treat with cryoprotectants (DMSO, glycerol, sucrose), cool and store in liquid nitrogen at −196 °C; metabolism stops and genetic make-up is kept.\n4. Problem of somaclonal variation in long-term cultures, reduced by checks and cryopreservation."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is totipotency?",
+      "answer": "The ability of a single living plant cell to divide and regenerate into a complete plant."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is callus?",
+      "answer": "An unorganised, undifferentiated mass of dividing cells formed from an explant on a medium containing auxin (and usually cytokinin)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define alkaloids. Classify them with examples and describe their properties and general tests for identification.",
+      "answer": "1. Definition: basic, nitrogen-containing organic compounds of plant origin, usually with N in a heterocyclic ring, with marked physiological action; usually bitter.\n2. True alkaloids (heterocyclic, from amino acids: morphine, atropine), protoalkaloids (N not in ring: ephedrine, mescaline, colchicine), pseudoalkaloids (not from amino acids: caffeine, solanidine, aconitine).\n3. Chemical classes: pyridine–piperidine (nicotine, lobeline, piperine), tropane (atropine, hyoscine, cocaine), quinoline (quinine), isoquinoline (morphine, papaverine, emetine), indole (reserpine, vincristine, strychnine, ergometrine), imidazole (pilocarpine), purine (caffeine), steroidal (conessine, solanidine), amino alkaloids (ephedrine).\n4. Properties: crystalline solids (some liquids: nicotine, coniine), bitter, optically active; bases soluble in organic solvents, salts soluble in water — basis of extraction; precipitated by heavy metals, tannic and picric acid.\n5. Tests: Mayer's (cream ppt), Dragendorff's (orange-red ppt), Wagner's (reddish-brown ppt), Hager's (yellow ppt), tannic acid (buff ppt).\n6. Special: murexide (purines, purple), Vitali–Morin (tropanes, violet), thalleioquin (quinine, emerald green)."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define glycosides. Classify them with examples and give the tests for cardiac, anthraquinone, saponin and cyanogenetic glycosides.",
+      "answer": "1. Definition: sugar (glycone) linked by a glycosidic bond to a non-sugar (aglycone); hydrolysed by acids or enzymes; activity mainly in aglycone.\n2. By linkage: O- (sennosides), C- (barbaloin), S- (sinigrin), N-glycosides (nucleosides).\n3. By sugar: glucosides, rhamnosides, digitoxosides.\n4. By aglycone: cardiac (digitoxin, digoxin), anthraquinone (sennosides, aloin, rhubarb, cascara), saponin (glycyrrhizin, dioscin), cyanogenetic (amygdalin, prunasin), isothiocyanate (sinigrin), flavonol (rutin), coumarin (psoralen), aldehyde (glucovanillin), phenolic (arbutin), bitter (gentiopicroside).\n5. Properties: crystalline or amorphous, bitter, water-soluble, hydrolysed by enzymes (emulsin, myrosin).\n6. Cardiac: Keller–Killiani (reddish-brown ring, bluish-green upper layer — deoxy sugar), Legal (pink-red), Baljet (orange).\n7. Anthraquinone: Borntrager's (pink-red ammonia layer); modified Borntrager's with FeCl3/HCl hydrolysis for C-glycosides.\n8. Saponin: froth test, haemolysis.\n9. Cyanogenetic: sodium picrate paper turns brick red (HCN)."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the role of pharmacognosy in Ayurveda, Unani, Siddha, Homeopathy and Chinese systems of medicine.",
+      "answer": "1. Ayurveda: Indian, from Atharvaveda; panchamahabhuta and three doshas (vata, pitta, kapha); texts Charaka, Sushruta, Ashtanga Hridaya; dosage forms churna, kwatha, asava/arishta, avaleha, bhasma, ghrita, taila; drugs ashwagandha, brahmi, guduchi, triphala.\n2. Unani: Greek–Arab origin, Avicenna's Canon; four humours (dam, balgham, safra, sauda) and mizaj; forms majoon, khamira, sharbat, arq; drugs unnab, gulbanafsha, sana.\n3. Siddha: Tamil Nadu, 18 Siddhars; vatham, pitham, kabam; 96 thathuvas; pulse diagnosis; extensive metals and minerals; forms chooranam, kudineer, chendooram, parpam, mezhugu; nilavembu.\n4. Homeopathy: Hahnemann; like cures like; single remedy, minimum dose, potentisation (X, C scales); mother tincture; Arnica, Belladonna, Nux vomica; HPI.\n5. Chinese: yin–yang, qi, five phases; acupuncture, multi-herb decoctions; ephedra → ephedrine, Artemisia annua → artemisinin, ginseng.\n6. Role of pharmacognosy: correct identification and authentication, detection of adulterants, standardisation, quality control (heavy metals, pesticides), scientific validation, and discovery of new drugs (artemisinin, reserpine)."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define tannins. Classify them and give their identification tests.",
+      "answer": "1. Tannins: complex polyphenols that precipitate proteins, tan hide to leather and are astringent.\n2. Hydrolysable (pyrogallol) tannins: esters of gallic/ellagic acid with glucose; FeCl3 blue-black; nutgall, myrobalan.\n3. Condensed (catechol) tannins: polymers of flavan-3-ols; form red phlobaphenes with acids; FeCl3 green-black; catechu, cinnamon, cinchona.\n4. Pseudotannins: gallic acid, chlorogenic acid, catechin; no tanning, no gelatin precipitate.\n5. Tests: FeCl3; gelatin (white ppt); goldbeater's skin test (brown-black after ferric salt); phenazone; bromine water (buff ppt, condensed); matchstick test for catechin (pink)."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define flavonoids. Give their classification and tests.",
+      "answer": "1. Polyphenols with C6–C3–C6 skeleton (2-phenylchromone nucleus); many yellow pigments; free or glycosides.\n2. Classes: flavones (apigenin), flavonols (quercetin, kaempferol, rutin), flavanones (hesperidin, naringin), isoflavones (genistein, daidzein), flavan-3-ols (catechin), anthocyanidins (cyanidin), chalcones and aurones.\n3. Properties: crystalline; glycosides water-soluble; antioxidant, anti-inflammatory, capillary-protective.\n4. Tests: Shinoda (Mg + conc. HCl → pink/red/magenta), alkaline reagent (NaOH yellow, colourless with acid), lead acetate (yellow ppt), FeCl3 (green to black)."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define volatile oils. Classify them chemically with examples and give their properties.",
+      "answer": "1. Odorous oily liquids that evaporate at room temperature, mainly obtained by steam distillation; present in glandular hairs, oil cells, vittae, cavities.\n2. Chemical classes: hydrocarbons (pinene — turpentine), alcohols (menthol — peppermint, linalool — coriander), aldehydes (citral — lemongrass, cinnamaldehyde — cinnamon), ketones (camphor, carvone — caraway), phenols (eugenol — clove, thymol — ajowan), phenolic ethers (anethole — fennel), oxides (cineole — eucalyptus), esters (linalyl acetate — lavender).\n3. Mostly terpenoids and phenylpropanoids.\n4. Properties: colourless when fresh, darken/resinify in air and light; high refractive index; optically active; immiscible with water, soluble in alcohol; leave no permanent grease spot.\n5. Storage: well-filled, airtight, amber containers, cool place."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define resins. Classify them with examples and give their properties.",
+      "answer": "1. Amorphous, solid or semi-solid, brittle plant products; insoluble in water, soluble in alcohol; soften on heating; burn with smoky flame.\n2. Chemistry: resin acids (abietic acid), resin alcohols, resin esters, resenes.\n3. Classes: resins (colophony, mastic), oleoresins (turpentine, copaiba, ginger oleoresin), gum resins (gamboge), oleo-gum-resins (asafoetida, myrrh, guggul), balsams with benzoic/cinnamic acid (benzoin, tolu, Peru, storax), glycoresins (jalap, podophyllum).\n4. Tests: alcoholic solution turns milky in water; acid and saponification values; KMnO4 → benzaldehyde odour for cinnamic acid balsams; asafoetida blue fluorescence (umbelliferone).\n5. Uses: inhalants, antiseptics, adhesives, plasters, warts (podophyllum), carminative (asafoetida)."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of pharmacognosy in allopathic medicine.",
+      "answer": "1. Pure active principles used as medicines: morphine, quinine, digoxin, atropine, reserpine, vincristine, paclitaxel, artemisinin, ephedrine, colchicine.\n2. Starting materials for semi-synthesis: diosgenin → steroid hormones; thebaine → opioids; artemisinin → artesunate.\n3. Lead molecules: cocaine → procaine; salicin → aspirin; quinine → chloroquine.\n4. Antibiotics from microbes.\n5. Pharmaceutical aids: acacia, tragacanth, agar, starch, gelatin, beeswax, wool fat, flavouring oils.\n6. Crude preparations still used: senna, ispaghula.\n7. Pharmacognosy ensures identity, purity and strength of these materials."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is Shinoda test?",
+      "answer": "Alcoholic extract treated with magnesium turnings and conc. HCl gives a pink, red or magenta colour, showing flavonoids."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State the principle of homeopathy.",
+      "answer": "Similia similibus curentur — like cures like: a substance that produces symptoms in a healthy person cures similar symptoms in a sick person, given in potentised minimum doses."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Give the biological source, collection, chemical constituents, tests and uses of acacia and tragacanth.",
+      "answer": "Acacia\n1. Source: dried gummy exudation from stems and branches of Acacia senegal and other African Acacia species; Leguminosae (Mimosoideae); Sudan (Kordofan).\n2. Collection: transverse incisions, bark strips peeled; tears harden, hand-picked, sun-bleached, graded.\n3. Description: round/oval opaque tears, brittle, bland taste; soluble in twice its weight of water.\n4. Chemistry: arabin — Ca, Mg, K salts of arabic acid (arabinose, galactose, rhamnose, glucuronic acid); oxidase and peroxidase enzymes.\n5. Tests: lead subacetate white ppt; benzidine + H2O2 blue (oxidase); reduces Fehling's after hydrolysis.\n6. Uses: emulsifying and suspending agent, binder, demulcent; heat solution to destroy oxidase before use with oxidisable drugs.\nTragacanth\n7. Source: dried gummy exudation from Astragalus gummifer and other Asiatic Astragalus species; Leguminosae (Papilionaceae); Iran, Turkey.\n8. Collection: gummosis of pith and medullary rays; incisions give ribbons and flakes.\n9. Chemistry: tragacanthin (water-soluble, ~30–40%) and bassorin (insoluble, swelling, ~60–70%); traces of starch.\n10. Tests: swells to a gel; few starch grains blue with iodine; canary-yellow with boiling NaOH; ruthenium red pink.\n11. Uses: suspending, emulsifying, thickening agent; binder; demulcent; toothpaste; adulterant karaya gum."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write the source, preparation, chemical nature, evaluation and uses of castor oil and beeswax.",
+      "answer": "Castor oil\n1. Source: fixed oil by cold expression of seeds of Ricinus communis, Euphorbiaceae; India largest producer.\n2. Preparation: decorticate, cold-press, steam/heat with water to coagulate proteins and inactivate lipase, filter, bleach; toxic ricin remains in press cake.\n3. Chemistry: triglycerides of ricinoleic acid (~85–90%, 12-hydroxy unsaturated acid) plus oleic, linoleic acids.\n4. Properties/evaluation: high viscosity and specific gravity, high acetyl value, miscible with ethanol, slightly soluble in light petroleum; acid, saponification, iodine values.\n5. Uses: purgative (ricinoleic acid released by lipase), emollient, plasticiser in flexible collodion, Turkey red oil, polyoxyl castor oils, lubricant.\nBeeswax\n6. Source: purified wax from honeycomb of Apis mellifera, Apidae; secreted by abdominal glands of worker bees.\n7. Preparation: combs melted in hot water, strained, moulded (yellow); bleached by sun/air or oxidants (white).\n8. Chemistry: myricyl palmitate (main ester), free cerotic acid, hydrocarbons, cerolein (colour).\n9. Evaluation: melting point about 61–65 °C, acid value, ester value, ratio number; adulterants paraffin, ceresin, stearic acid, tallow, Japan wax, resin; turbidity on saponification shows paraffin.\n10. Uses: stiffening agent in ointments, cold cream with borax, cosmetics, tablet polishing, dental wax."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify proteolytic enzymes and give the source, nature and uses of papain, bromelain, serratiopeptidase, urokinase, streptokinase and pepsin.",
+      "answer": "1. Proteolytic enzymes hydrolyse peptide bonds; classified by catalytic group — cysteine (papain, bromelain), serine (urokinase), aspartic (pepsin), metalloproteases (serratiopeptidase); streptokinase is a non-enzymic plasminogen activator.\n2. Papain: dried purified latex of unripe fruits of Carica papaya (Caricaceae); incisions on green fruits, latex dried; thiol protease, activated by cysteine; digestant, meat tenderiser, beer clarification, wound debridement; chymopapain for disc dissolution.\n3. Bromelain: pineapple stem and fruit, Ananas comosus (Bromeliaceae); cysteine proteases; anti-inflammatory/anti-oedema, burn debridement, digestant.\n4. Serratiopeptidase: fermentation by Serratia sp. E-15 (silkworm gut); zinc metalloprotease; enteric-coated tablets; anti-inflammatory, anti-oedema.\n5. Urokinase: human urine or kidney cell cultures; serine protease activating plasminogen directly; non-antigenic; pulmonary embolism, DVT, catheter clearance.\n6. Streptokinase: group C β-haemolytic streptococci; binds plasminogen to form activator complex; antigenic; acute MI, DVT, pulmonary embolism.\n7. Pepsin: gastric mucosa of pig, sheep, cattle; aspartic protease active at pH ~1.5–2; digestive aid.\n8. Evaluation by activity units on substrates (casein, egg albumin, haemoglobin); store cool and dry."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the biological source, preparation, chemistry and uses of agar.",
+      "answer": "1. Source: dried gelatinous substance extracted from red algae (Rhodophyceae) — Gelidium amansii, other Gelidium and Gracilaria species; Japan, India and others.\n2. Preparation: algae washed, bleached, boiled with slightly acidified water, filtered, gelled, frozen and thawed (purification), dried and cut into strips or powdered.\n3. Description: translucent strips/flakes; insoluble in cold water; dissolves in boiling water; 1.5% solution gels on cooling.\n4. Chemistry: agarose (neutral gelling polysaccharide of galactose and 3,6-anhydro-L-galactose) and agaropectin (sulphated, non-gelling).\n5. Tests: iodine crimson to violet; ruthenium red pink; no ppt with tannic acid.\n6. Uses: bacteriological culture media, bulk laxative, suspending/emulsifying/gelling agent, food."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the biological source, composition, evaluation and uses of honey.",
+      "answer": "1. Source: sugary secretion deposited in honeycomb by Apis mellifera and other Apis species, Apidae.\n2. Formation: nectar converted by invertase to glucose and fructose; ripened in comb.\n3. Collection: uncap combs, centrifugal extraction, warm, strain.\n4. Composition: invert sugar 70–80% (fructose > glucose), water 17–20%, little sucrose, dextrins, enzymes, organic acids, minerals, vitamins, pollen.\n5. Evaluation: Fiehe's test (resorcinol–HCl, cherry red = artificial invert sugar); laevorotatory (dextrorotatory suggests glucose/dextrin); moisture, ash, reducing sugars, sucrose; Fehling's and Seliwanoff's positive.\n6. Adulterants: cane sugar syrup, jaggery, glucose syrup, artificial invert sugar.\n7. Uses: demulcent, sweetener, vehicle in linctuses, nutrient, wound dressing, anupana in Ayurveda."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on gelatin.",
+      "answer": "1. Source: partial hydrolysis of collagen from skin, connective tissue and bones of cattle and pigs.\n2. Type A (acid-processed, pig skin, IEP about 7–9); Type B (alkali/lime-processed, bones and hides, IEP about 4.7–5.2).\n3. Preparation: pre-treat, wash, extract with hot water in stages, filter, concentrate, chill to gel, dry, grind.\n4. Properties: swells in cold water (5–10 times its weight), dissolves in hot water, sets to gel; gel strength as Bloom.\n5. Chemistry: rich in glycine, proline, hydroxyproline; lacks tryptophan.\n6. Tests: tannic acid buff ppt; picric acid yellow ppt; ammonia with soda lime; biuret positive.\n7. Uses: hard and soft capsules, glycero-gelatin suppositories, binder, coating, haemostatic sponge, plasma expanders, culture media."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write notes on marine drugs with examples.",
+      "answer": "1. Marine organisms (sponges, tunicates, molluscs, bryozoans, algae, microbes) produce unusual defensive compounds.\n2. Anticancer: cytarabine (analogue of sponge nucleosides, Cryptotethya crypta), trabectedin (tunicate Ecteinascidia turbinata), eribulin (analogue of halichondrin B, sponge Halichondria okadai), monomethyl auristatin E from dolastatin 10 (sea hare) in antibody–drug conjugates, bryostatin (investigational).\n3. Analgesic: ziconotide (ω-conotoxin from cone snail Conus magus), intrathecal for severe pain.\n4. Antiviral: vidarabine.\n5. Antibiotic: cephalosporins from Cephalosporium acremonium isolated from sea water.\n6. Others: omega-3 fatty acids (fish oils), protamine (fish sperm), cod liver oil, tetrodotoxin (research), pseudopterosins.\n7. Pharmaceutical aids: agar, alginates, carrageenan, chitosan.\n8. Challenges: supply, synthesis, true producer; solved by aquaculture, semi-synthesis, analogues, microbial culture."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on hallucinogens, teratogens and natural allergens.",
+      "answer": "1. Hallucinogens alter perception and mood: cannabis (THC), peyote (mescaline), Psilocybe (psilocybin), ergot → LSD, morning glory (ergine), datura (hyoscine), Amanita muscaria (muscimol), nutmeg (myristicin), Salvia divinorum.\n2. Teratogens cause foetal malformations: Veratrum californicum (cyclopamine — cyclopia in lambs), lupins (anagyrine — crooked calf), hemlock (coniine), tobacco (anabasine, nicotine), locoweeds (swainsonine); avoid podophyllum and ergot in pregnancy.\n3. Allergens cause exaggerated immune reactions: type I — pollens (ragweed, Parthenium), mould spores, dust mites, insect venoms, peanut, latex; type IV contact dermatitis — urushiol (poison ivy, cashew shell, marking nut), primin (Primula), sesquiterpene lactones (Asteraceae), wool fat."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the source, chemistry and uses of wool fat and chaulmoogra oil.",
+      "answer": "Wool fat\n1. Source: purified fat-like substance from wool of sheep Ovis aries, Bovidae; recovered from wool scouring liquors, purified and bleached.\n2. Chemistry: a wax — esters of cholesterol, lanosterol and aliphatic alcohols with fatty acids, plus free alcohols; no glycerides.\n3. Property: absorbs about twice its weight of water forming w/o emulsion; Liebermann–Burchard positive.\n4. Uses: water-absorbing ointment bases, emollient creams; may cause contact allergy.\nChaulmoogra oil\n5. Source: fixed oil from seeds of Hydnocarpus wightiana, H. kurzii, H. anthelmintica (Flacourtiaceae).\n6. Chemistry: glycerides of cyclopentenyl acids — hydnocarpic, chaulmoogric, gorlic; dextrorotatory.\n7. Uses: formerly leprosy and chronic skin diseases; replaced by multidrug therapy."
+    },
+    {
+      "id": "u5-s07",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Give the source, identification and uses of cotton, jute and hemp fibres.",
+      "answer": "1. Cotton: epidermal seed hairs of Gossypium species, Malvaceae; nearly pure cellulose, not lignified; flattened twisted ribbon; iodine + H2SO4 blue; no colour with phloroglucinol–HCl; dissolves in cuoxam; uses — absorbent cotton, gauze, filtering.\n2. Absorbent cotton made by removing wax/fat with alkali under pressure, bleaching and carding.\n3. Jute: bast fibres of Corchorus capsularis and C. olitorius; lignocellulose; red with phloroglucinol–HCl, yellow with iodine–H2SO4; sacking, gunny bags, ropes.\n4. Hemp: bast fibres of Cannabis sativa, Cannabaceae; mainly cellulose, slightly lignified; ropes, twine, canvas, caulking."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the difference between tragacanthin and bassorin?",
+      "answer": "Tragacanthin is the water-soluble fraction of tragacanth; bassorin is the larger water-insoluble fraction that swells to form a gel."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is castor oil miscible with alcohol unlike other fixed oils?",
+      "answer": "Its main fatty acid, ricinoleic acid, carries a hydroxyl group that makes the oil more polar."
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The term 'pharmacognosy' was introduced by:",
+      "options": [
+        "Dioscorides",
+        "Galen",
+        "C. A. Seydler",
+        "Hahnemann"
+      ],
+      "correct": 2,
+      "explanation": "Seydler used the word in 1815 in Analecta Pharmacognostica.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which of the following is an unorganised drug?",
+      "options": [
+        "Senna leaf",
+        "Aloe",
+        "Cinchona bark",
+        "Clove"
+      ],
+      "correct": 1,
+      "explanation": "Aloe is a dried juice with no cellular structure.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Opium is an example of a:",
+      "options": [
+        "Dried juice",
+        "Dried extract",
+        "Oleo-gum-resin",
+        "Dried latex"
+      ],
+      "correct": 3,
+      "explanation": "Opium is the dried latex of unripe capsules of Papaver somniferum.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Pharmacopoeias usually arrange drugs by which classification?",
+      "options": [
+        "Alphabetical",
+        "Morphological",
+        "Taxonomical",
+        "Chemical"
+      ],
+      "correct": 0,
+      "explanation": "Alphabetical listing makes monographs easy to find.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Classification of plants using antigen–antibody reactions of their proteins is called:",
+      "options": [
+        "Chemotaxonomy",
+        "Serotaxonomy",
+        "Cytotaxonomy",
+        "Numerical taxonomy"
+      ],
+      "correct": 1,
+      "explanation": "Serotaxonomy compares plant proteins by serology.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Stomata of senna leaf are of which type?",
+      "options": [
+        "Anomocytic",
+        "Anisocytic",
+        "Diacytic",
+        "Paracytic (rubiaceous)"
+      ],
+      "correct": 3,
+      "explanation": "Senna has paracytic stomata with two subsidiary cells parallel to the pore.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Stomatal index is calculated as:",
+      "options": [
+        "E × 100/(E + S)",
+        "S/E",
+        "S × 100/(E + S)",
+        "(E + S)/S × 100"
+      ],
+      "correct": 2,
+      "explanation": "S = stomata, E = epidermal cells in the same area.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "One milligram of lycopodium contains approximately:",
+      "options": [
+        "94,000 spores",
+        "9,400 spores",
+        "940,000 spores",
+        "49,000 spores"
+      ],
+      "correct": 0,
+      "explanation": "This known number makes lycopodium an internal standard.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Acid-insoluble ash mainly indicates contamination with:",
+      "options": [
+        "Sand and earth (silica)",
+        "Calcium oxalate",
+        "Moisture",
+        "Volatile oil"
+      ],
+      "correct": 0,
+      "explanation": "Natural plant salts dissolve in dilute HCl; silica does not.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Phloroglucinol with conc. HCl stains lignified tissue:",
+      "options": [
+        "Blue",
+        "Pink to red",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 1,
+      "explanation": "Lignin gives a pink to red colour with phloroglucinol–HCl.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Barks are generally collected in:",
+      "options": [
+        "Winter",
+        "Late autumn",
+        "Spring, when cambium is active",
+        "Any season"
+      ],
+      "correct": 2,
+      "explanation": "Active cambium lets the bark separate easily.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Removal of extraneous matter from a crude drug before packing is called:",
+      "options": [
+        "Curing",
+        "Stratification",
+        "Scarification",
+        "Garbling"
+      ],
+      "correct": 3,
+      "explanation": "Garbling removes soil, stems, other plants and insects.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Vanillin is developed in vanilla pods by:",
+      "options": [
+        "Steam distillation",
+        "Sun bleaching",
+        "Freeze drying",
+        "Curing (enzymatic hydrolysis of glucovanillin)"
+      ],
+      "correct": 3,
+      "explanation": "Sweating and slow drying release vanillin from its glycoside.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which hormone promotes rooting of stem cuttings?",
+      "options": [
+        "Indole-3-butyric acid",
+        "Abscisic acid",
+        "Ethylene",
+        "Kinetin"
+      ],
+      "correct": 0,
+      "explanation": "IBA and NAA are auxins used as rooting hormones.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Gibberellic acid is mainly known for:",
+      "options": [
+        "Fruit ripening",
+        "Stomatal closure",
+        "Stem elongation and seed germination",
+        "Leaf fall"
+      ],
+      "correct": 2,
+      "explanation": "GA3 elongates stems and breaks seed dormancy.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which plant hormone is a gas?",
+      "options": [
+        "Kinetin",
+        "Ethylene",
+        "Gibberellin",
+        "Auxin"
+      ],
+      "correct": 1,
+      "explanation": "Ethylene is gaseous and hastens fruit ripening.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Kinetin belongs to the group:",
+      "options": [
+        "Auxins",
+        "Gibberellins",
+        "Abscisins",
+        "Cytokinins"
+      ],
+      "correct": 3,
+      "explanation": "Kinetin promotes cell division and shoot formation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Colchicine induces polyploidy by:",
+      "options": [
+        "Breaking DNA strands",
+        "Inhibiting spindle formation",
+        "Stimulating cell wall formation",
+        "Promoting meiosis"
+      ],
+      "correct": 1,
+      "explanation": "Chromosomes double but the cell does not divide.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which of the following is a chemical mutagen?",
+      "options": [
+        "Ethyl methane sulphonate",
+        "Gamma rays",
+        "X-rays",
+        "Ultraviolet light"
+      ],
+      "correct": 0,
+      "explanation": "EMS is a chemical mutagen; the others are physical.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Seed banks and cryopreservation are examples of:",
+      "options": [
+        "In situ conservation",
+        "Hybridisation",
+        "Ex situ conservation",
+        "Mutation breeding"
+      ],
+      "correct": 2,
+      "explanation": "They conserve plants outside their natural habitat.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The father of plant tissue culture is:",
+      "options": [
+        "Gottlieb Haberlandt",
+        "Philip White",
+        "Murashige",
+        "F. C. Steward"
+      ],
+      "correct": 0,
+      "explanation": "Haberlandt (1902) first tried culturing plant cells and proposed totipotency.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "MS medium was developed by:",
+      "options": [
+        "Gamborg",
+        "Murashige and Skoog",
+        "White",
+        "Nitsch"
+      ],
+      "correct": 1,
+      "explanation": "Murashige and Skoog published it in 1962.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "A high cytokinin to auxin ratio in the medium favours:",
+      "options": [
+        "Root formation",
+        "Callus only",
+        "Shoot formation",
+        "Cell death"
+      ],
+      "correct": 2,
+      "explanation": "High cytokinin gives shoots; high auxin gives roots.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Hairy root cultures are produced by infection with:",
+      "options": [
+        "Agrobacterium tumefaciens",
+        "Escherichia coli",
+        "Bacillus subtilis",
+        "Agrobacterium rhizogenes"
+      ],
+      "correct": 3,
+      "explanation": "Its Ri plasmid T-DNA induces hairy roots.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The usual pH of plant tissue culture media is:",
+      "options": [
+        "3.0–3.5",
+        "7.0–7.4",
+        "8.0–8.5",
+        "5.6–5.8"
+      ],
+      "correct": 3,
+      "explanation": "Media are adjusted to slightly acidic pH before autoclaving.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The first secondary metabolite produced commercially by plant cell culture was:",
+      "options": [
+        "Shikonin",
+        "Paclitaxel",
+        "Digoxin",
+        "Quinine"
+      ],
+      "correct": 0,
+      "explanation": "Shikonin from Lithospermum erythrorhizon cells, Japan, 1983.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Haploid plants are obtained from:",
+      "options": [
+        "Embryo culture",
+        "Anther culture",
+        "Root culture",
+        "Callus from leaf"
+      ],
+      "correct": 1,
+      "explanation": "Pollen in anthers is haploid.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Virus-free plants are commonly obtained by:",
+      "options": [
+        "Protoplast fusion",
+        "Anther culture",
+        "Meristem culture",
+        "Hairy root culture"
+      ],
+      "correct": 2,
+      "explanation": "The apical meristem is usually free of virus.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Fluorescein diacetate is used in cell culture to test:",
+      "options": [
+        "Cell viability",
+        "Sterility",
+        "pH",
+        "Sugar content"
+      ],
+      "correct": 0,
+      "explanation": "Living cells hydrolyse it and fluoresce green.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Edible vaccines mainly stimulate:",
+      "options": [
+        "Only cell-mediated immunity",
+        "Mucosal (secretory IgA) immunity",
+        "Complement activation alone",
+        "No immunity"
+      ],
+      "correct": 1,
+      "explanation": "Antigen in gut lymphoid tissue induces mucosal IgA as well as systemic response.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Dragendorff's reagent is:",
+      "options": [
+        "Potassium mercuric iodide",
+        "Iodine in potassium iodide",
+        "Potassium bismuth iodide",
+        "Picric acid"
+      ],
+      "correct": 2,
+      "explanation": "It gives an orange to reddish-brown precipitate with alkaloids.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Mayer's reagent gives which precipitate with alkaloids?",
+      "options": [
+        "Yellow",
+        "Orange-red",
+        "Black",
+        "Cream/white"
+      ],
+      "correct": 3,
+      "explanation": "Mayer's reagent is potassium mercuric iodide.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Caffeine is identified by the:",
+      "options": [
+        "Vitali–Morin test",
+        "Murexide test",
+        "Thalleioquin test",
+        "Borntrager's test"
+      ],
+      "correct": 1,
+      "explanation": "Purines give a purple colour with ammonia after evaporation with HCl and KClO3.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Keller–Killiani test detects:",
+      "options": [
+        "2-deoxy sugars of cardiac glycosides",
+        "Anthraquinones",
+        "Saponins",
+        "Tannins"
+      ],
+      "correct": 0,
+      "explanation": "It gives a reddish-brown ring with a bluish-green upper layer.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Borntrager's test is used for:",
+      "options": [
+        "Cardiac glycosides",
+        "Cyanogenetic glycosides",
+        "Anthraquinone glycosides",
+        "Flavonoids"
+      ],
+      "correct": 2,
+      "explanation": "Free anthraquinones colour the ammonia layer pink to red.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Barbaloin of aloe is an example of:",
+      "options": [
+        "O-glycoside",
+        "S-glycoside",
+        "N-glycoside",
+        "C-glycoside"
+      ],
+      "correct": 3,
+      "explanation": "The sugar is attached directly to a carbon atom.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Shinoda test (Mg + HCl) is positive for:",
+      "options": [
+        "Alkaloids",
+        "Flavonoids",
+        "Tannins",
+        "Resins"
+      ],
+      "correct": 1,
+      "explanation": "Flavonoids give pink to magenta colour.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Condensed tannins give with ferric chloride a:",
+      "options": [
+        "Blue-black colour",
+        "Violet colour",
+        "Brownish-green colour",
+        "No colour"
+      ],
+      "correct": 2,
+      "explanation": "Hydrolysable tannins give blue-black.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Eugenol, the main constituent of clove oil, is a:",
+      "options": [
+        "Phenol",
+        "Ketone",
+        "Ester",
+        "Oxide"
+      ],
+      "correct": 0,
+      "explanation": "Eugenol is a phenylpropanoid phenol.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The founder of homeopathy is:",
+      "options": [
+        "Avicenna",
+        "Charaka",
+        "Shen Nung",
+        "Samuel Hahnemann"
+      ],
+      "correct": 3,
+      "explanation": "Hahnemann founded homeopathy on the principle of like cures like.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Acacia gum is obtained from:",
+      "options": [
+        "Astragalus gummifer",
+        "Acacia senegal",
+        "Sterculia urens",
+        "Gelidium amansii"
+      ],
+      "correct": 1,
+      "explanation": "Acacia senegal, Leguminosae, is the official source.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The water-insoluble swelling fraction of tragacanth is:",
+      "options": [
+        "Bassorin",
+        "Tragacanthin",
+        "Arabin",
+        "Agarose"
+      ],
+      "correct": 0,
+      "explanation": "Bassorin swells to a gel; tragacanthin dissolves.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Agar is obtained from:",
+      "options": [
+        "Brown algae",
+        "Green algae",
+        "Red algae",
+        "Fungi"
+      ],
+      "correct": 2,
+      "explanation": "Gelidium and Gracilaria belong to Rhodophyceae.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Fiehe's test is used to detect adulteration of:",
+      "options": [
+        "Beeswax with paraffin",
+        "Castor oil with mineral oil",
+        "Gelatin with agar",
+        "Honey with artificial invert sugar"
+      ],
+      "correct": 3,
+      "explanation": "Hydroxymethylfurfural gives a cherry-red colour with resorcinol–HCl.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The main fatty acid of castor oil is:",
+      "options": [
+        "Ricinoleic acid",
+        "Oleic acid",
+        "Hydnocarpic acid",
+        "Cerotic acid"
+      ],
+      "correct": 0,
+      "explanation": "Ricinoleic acid forms about 85–90% of the fatty acids.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Which fixed oil is dextrorotatory?",
+      "options": [
+        "Castor oil",
+        "Olive oil",
+        "Chaulmoogra oil",
+        "Arachis oil"
+      ],
+      "correct": 2,
+      "explanation": "Its cyclopentenyl fatty acids make it optically active.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The main ester of beeswax is:",
+      "options": [
+        "Cetyl palmitate",
+        "Myricyl palmitate",
+        "Cholesteryl oleate",
+        "Glyceryl stearate"
+      ],
+      "correct": 1,
+      "explanation": "Beeswax also contains free cerotic acid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Papain is obtained from the latex of:",
+      "options": [
+        "Pineapple stem",
+        "Fig leaves",
+        "Ripe papaya seeds",
+        "Unripe fruits of Carica papaya"
+      ],
+      "correct": 3,
+      "explanation": "Incisions on green fruits yield latex that is dried.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Ziconotide, used for severe chronic pain, comes from:",
+      "options": [
+        "Cone snail venom",
+        "A marine sponge",
+        "A tunicate",
+        "Red algae"
+      ],
+      "correct": 0,
+      "explanation": "It is ω-conotoxin MVIIA from Conus magus.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Cyclopamine, which causes cyclopia in lambs, occurs in:",
+      "options": [
+        "Lupinus species",
+        "Conium maculatum",
+        "Veratrum californicum",
+        "Nicotiana tabacum"
+      ],
+      "correct": 2,
+      "explanation": "It is a steroidal alkaloid teratogen.",
+      "probability": "low"
+    }
+  ]
+}
