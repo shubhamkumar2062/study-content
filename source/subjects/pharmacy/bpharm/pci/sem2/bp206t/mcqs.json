@@ -1,0 +1,508 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which of the following is a non-renewable resource?",
+      "options": [
+        "Petroleum",
+        "Forest",
+        "Solar energy",
+        "Fresh water"
+      ],
+      "correct": 0,
+      "explanation": "Petroleum forms over millions of years and cannot be replaced once used.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The National Forest Policy of India (1988) aims to keep what share of the land area under forest?",
+      "options": [
+        "One-tenth",
+        "One-third",
+        "One-fifth",
+        "One-half"
+      ],
+      "correct": 1,
+      "explanation": "The policy target is one-third of the land area (two-thirds in hilly regions).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "About what percentage of the earth's water is salt water in the oceans?",
+      "options": [
+        "About 50%",
+        "About 75%",
+        "About 97%",
+        "About 3%"
+      ],
+      "correct": 2,
+      "explanation": "Only about 3% is fresh water, and most of that is frozen.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The Chipko movement was mainly concerned with:",
+      "options": [
+        "Pollution of rivers",
+        "Construction of nuclear plants",
+        "Mining of coal",
+        "Protection of trees from felling"
+      ],
+      "correct": 3,
+      "explanation": "Villagers hugged trees to stop commercial felling in the Garhwal Himalaya in the 1970s.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Salt-water intrusion into coastal aquifers is caused mainly by:",
+      "options": [
+        "Over-pumping of groundwater",
+        "Afforestation",
+        "Rainwater harvesting",
+        "Contour ploughing"
+      ],
+      "correct": 0,
+      "explanation": "When fresh groundwater is removed faster than recharge, sea water moves in.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Accumulation of salts at the soil surface due to excessive irrigation is called:",
+      "options": [
+        "Eutrophication",
+        "Salinisation",
+        "Biomagnification",
+        "Nitrification"
+      ],
+      "correct": 1,
+      "explanation": "Irrigation water evaporates and leaves its salts behind in the topsoil.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Biogas is produced mainly by:",
+      "options": [
+        "Burning of coal",
+        "Splitting of uranium",
+        "Anaerobic digestion of cow dung and organic waste",
+        "Evaporation of sea water"
+      ],
+      "correct": 2,
+      "explanation": "Biogas, mostly methane, comes from anaerobic breakdown of organic matter.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Silicosis is an occupational lung disease commonly seen in workers of:",
+      "options": [
+        "Textile retail shops",
+        "Dairy farms",
+        "Fishing boats",
+        "Stone quarries and mines"
+      ],
+      "correct": 3,
+      "explanation": "It is caused by inhaling silica dust during mining, quarrying and stone crushing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Terracing and contour ploughing are methods used to control:",
+      "options": [
+        "Soil erosion",
+        "Air pollution",
+        "Noise",
+        "Ozone depletion"
+      ],
+      "correct": 0,
+      "explanation": "They slow down runoff on slopes and keep topsoil in place.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Conversion of fertile dry land into desert-like land is called:",
+      "options": [
+        "Deforestation",
+        "Desertification",
+        "Eutrophication",
+        "Afforestation"
+      ],
+      "correct": 1,
+      "explanation": "Overgrazing, deforestation and poor irrigation degrade dry lands into desert.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Environmental studies is described as multidisciplinary because it:",
+      "options": [
+        "Deals only with plants",
+        "Is a branch of physics alone",
+        "Draws on many subjects such as biology, chemistry, engineering, economics and law",
+        "Concerns only city planning"
+      ],
+      "correct": 2,
+      "explanation": "Environmental problems need knowledge from many sciences and social sciences.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Which of these is an inexhaustible energy source?",
+      "options": [
+        "Coal",
+        "Natural gas",
+        "Uranium",
+        "Sunlight"
+      ],
+      "correct": 3,
+      "explanation": "Solar energy will not run out on a human time scale.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The term 'ecosystem' was first used by:",
+      "options": [
+        "A. G. Tansley",
+        "Charles Darwin",
+        "R. Lindeman",
+        "E. Haeckel"
+      ],
+      "correct": 0,
+      "explanation": "Tansley introduced the term in 1935.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Green plants in an ecosystem are called:",
+      "options": [
+        "Primary consumers",
+        "Producers",
+        "Decomposers",
+        "Secondary consumers"
+      ],
+      "correct": 1,
+      "explanation": "They make food from CO2 and water by photosynthesis.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "According to the ten per cent law, the energy transferred from one trophic level to the next is about:",
+      "options": [
+        "1%",
+        "50%",
+        "10%",
+        "90%"
+      ],
+      "correct": 2,
+      "explanation": "Most energy is lost as heat; about 10% passes on (Lindeman).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which ecological pyramid is always upright?",
+      "options": [
+        "Pyramid of numbers",
+        "Pyramid of biomass",
+        "None of these",
+        "Pyramid of energy"
+      ],
+      "correct": 3,
+      "explanation": "Energy is lost at every level, so higher levels always have less.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The pyramid of biomass is inverted in:",
+      "options": [
+        "A pond or ocean ecosystem",
+        "A grassland",
+        "A forest",
+        "A desert"
+      ],
+      "correct": 0,
+      "explanation": "A small mass of fast-growing phytoplankton supports a larger mass of consumers.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Conversion of ammonia to nitrite in the nitrogen cycle is done by:",
+      "options": [
+        "Rhizobium",
+        "Nitrosomonas",
+        "Pseudomonas",
+        "Penicillium"
+      ],
+      "correct": 1,
+      "explanation": "Nitrosomonas oxidises ammonia to nitrite; Nitrobacter then forms nitrate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Bacteria and fungi that break down dead organisms are called:",
+      "options": [
+        "Producers",
+        "Herbivores",
+        "Decomposers",
+        "Autotrophs"
+      ],
+      "correct": 2,
+      "explanation": "They return nutrients from dead matter to the soil and water.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A food chain that begins with dead organic matter is called a:",
+      "options": [
+        "Grazing food chain",
+        "Parasitic food chain",
+        "Predator food chain",
+        "Detritus food chain"
+      ],
+      "correct": 3,
+      "explanation": "Detritus chains start with fallen leaves and dead remains.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The first organisms to colonise bare rock during succession are usually:",
+      "options": [
+        "Lichens",
+        "Large trees",
+        "Grasses",
+        "Shrubs"
+      ],
+      "correct": 0,
+      "explanation": "Lichens are pioneer species that begin breaking rock into soil.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The zone of a lake near the shore where rooted plants grow is the:",
+      "options": [
+        "Profundal zone",
+        "Littoral zone",
+        "Limnetic zone",
+        "Benthic zone"
+      ],
+      "correct": 1,
+      "explanation": "The littoral zone is shallow and well lit to the bottom.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "An estuary is characterised by:",
+      "options": [
+        "Water with no salt at all",
+        "Permanent ice cover",
+        "Brackish water where a river meets the sea",
+        "Very low productivity"
+      ],
+      "correct": 2,
+      "explanation": "Fresh and sea water mix, giving changing salinity and high productivity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Net primary productivity equals:",
+      "options": [
+        "Gross primary productivity plus respiration",
+        "Energy stored by carnivores",
+        "Total sunlight falling on the area",
+        "Gross primary productivity minus plant respiration"
+      ],
+      "correct": 3,
+      "explanation": "NPP is the organic matter left for consumers after the plants' own use.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Carbon monoxide is harmful because it:",
+      "options": [
+        "Combines with haemoglobin and reduces oxygen transport",
+        "Causes acid rain",
+        "Destroys the ozone layer",
+        "Causes eutrophication"
+      ],
+      "correct": 0,
+      "explanation": "CO forms carboxyhaemoglobin, binding far more strongly than oxygen.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The main gases responsible for acid rain are:",
+      "options": [
+        "CO2 and O2",
+        "SO2 and NOx",
+        "CO and CH4",
+        "N2 and Ar"
+      ],
+      "correct": 1,
+      "explanation": "They form sulphuric and nitric acids in the atmosphere.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Depletion of the stratospheric ozone layer is mainly caused by:",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen gas",
+        "Chlorofluorocarbons (CFCs)",
+        "Water vapour"
+      ],
+      "correct": 2,
+      "explanation": "CFCs release chlorine atoms that destroy ozone in a chain reaction.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The international agreement to phase out ozone-depleting substances is the:",
+      "options": [
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Basel Convention",
+        "Montreal Protocol"
+      ],
+      "correct": 3,
+      "explanation": "Signed in 1987 to control CFCs and similar substances.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Photochemical smog contains mainly:",
+      "options": [
+        "Ozone and PAN",
+        "Sulphuric acid and soot only",
+        "Carbon monoxide only",
+        "Chlorine gas"
+      ],
+      "correct": 0,
+      "explanation": "NOx and hydrocarbons react in sunlight to form ozone and peroxyacetyl nitrate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The device that removes fine particles by giving them an electric charge is the:",
+      "options": [
+        "Cyclone separator",
+        "Electrostatic precipitator",
+        "Gravity settling chamber",
+        "Catalytic converter"
+      ],
+      "correct": 1,
+      "explanation": "Charged particles collect on oppositely charged plates.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Minamata disease is caused by:",
+      "options": [
+        "Cadmium",
+        "Lead",
+        "Mercury",
+        "Arsenic"
+      ],
+      "correct": 2,
+      "explanation": "Methyl mercury in fish from factory waste caused the disease in Japan.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "A high BOD value of a water sample indicates:",
+      "options": [
+        "Very pure water",
+        "High dissolved oxygen",
+        "Absence of microbes",
+        "Heavy organic pollution"
+      ],
+      "correct": 3,
+      "explanation": "Much organic matter means microbes use a lot of oxygen.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Excess nitrate in drinking water causes in infants:",
+      "options": [
+        "Methaemoglobinaemia (blue baby syndrome)",
+        "Fluorosis",
+        "Itai-itai disease",
+        "Rickets"
+      ],
+      "correct": 0,
+      "explanation": "Nitrate interferes with oxygen carriage by the infant's blood.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The activated sludge process is part of which stage of sewage treatment?",
+      "options": [
+        "Preliminary treatment",
+        "Secondary (biological) treatment",
+        "Primary sedimentation",
+        "Disinfection only"
+      ],
+      "correct": 1,
+      "explanation": "Microbes in an aerated tank oxidise dissolved organic matter.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The Water (Prevention and Control of Pollution) Act was passed in:",
+      "options": [
+        "1981",
+        "1986",
+        "1974",
+        "2016"
+      ],
+      "correct": 2,
+      "explanation": "Air Act 1981, Environment (Protection) Act 1986, Bio-Medical Waste Rules 2016.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Use of micro-organisms to remove pollutants from soil or water is called:",
+      "options": [
+        "Biomagnification",
+        "Incineration",
+        "Desertification",
+        "Bioremediation"
+      ],
+      "correct": 3,
+      "explanation": "Microbes break down pollutants such as oil into harmless products.",
+      "probability": "medium"
+    }
+  ]
+}
