@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The IUPAC name of (CH3)3C–CH2–CH(CH3)2 is:",
+      "options": [
+        "2,2,4-Trimethylpentane",
+        "2,4,4-Trimethylpentane",
+        "Isononane",
+        "1,1,1,3-Tetramethylbutane"
+      ],
+      "correct": 0,
+      "explanation": "Number from the end nearer the first branch: methyls at 2, 2 and 4 (lowest locant set).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which functional group gets the highest priority as the suffix in IUPAC naming?",
+      "options": [
+        "Aldehyde",
+        "Carboxylic acid",
+        "Alcohol",
+        "Amine"
+      ],
+      "correct": 1,
+      "explanation": "Priority: acid > ester > amide > nitrile > aldehyde > ketone > alcohol > amine.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Ethanol and methoxymethane are examples of:",
+      "options": [
+        "Chain isomers",
+        "Position isomers",
+        "Functional group isomers",
+        "Metamers"
+      ],
+      "correct": 2,
+      "explanation": "Same formula C2H6O but different functional groups (alcohol and ether).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "How many structural isomers does C5H12 have?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "correct": 3,
+      "explanation": "n-Pentane, isopentane (2-methylbutane) and neopentane (2,2-dimethylpropane).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Diethyl ether and methyl n-propyl ether are:",
+      "options": [
+        "Tautomers",
+        "Chain isomers",
+        "Metamers",
+        "Ring–chain isomers"
+      ],
+      "correct": 2,
+      "explanation": "Same functional group (–O–) with different alkyl groups on either side.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Keto–enol tautomerism involves migration of:",
+      "options": [
+        "A proton with shift of a double bond",
+        "An alkyl group only",
+        "A pair of π electrons only",
+        "A halogen atom"
+      ],
+      "correct": 0,
+      "explanation": "Tautomers interconvert by moving an H atom and a double bond; they are in dynamic equilibrium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The IUPAC name of CH3–CO–CH2–CHO is:",
+      "options": [
+        "Butan-2-on-4-al",
+        "4-Oxobutan-2-one",
+        "1-Formylpropan-2-one",
+        "3-Oxobutanal"
+      ],
+      "correct": 3,
+      "explanation": "The aldehyde outranks the ketone, so -al is the suffix and the ketone is the 3-oxo prefix.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The most stable carbocation is:",
+      "options": [
+        "(CH3)2CH+",
+        "(CH3)3C+",
+        "CH3CH2+",
+        "CH3+"
+      ],
+      "correct": 1,
+      "explanation": "Tertiary cation: three alkyl groups give the most +I and hyperconjugation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "A carbanion is usually:",
+      "options": [
+        "sp2 hybridised and planar",
+        "sp3 hybridised and pyramidal",
+        "sp hybridised and linear",
+        "Electron-deficient with 6 electrons"
+      ],
+      "correct": 1,
+      "explanation": "A carbanion has 8 electrons (one lone pair) and is sp3, pyramidal like ammonia.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Pyridine is classified as a:",
+      "options": [
+        "Alicyclic compound",
+        "Homocyclic aromatic hydrocarbon",
+        "Acyclic compound",
+        "Heterocyclic compound"
+      ],
+      "correct": 3,
+      "explanation": "Its ring contains a nitrogen atom, so it is heterocyclic.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The H–C–H bond angle in methane is:",
+      "options": [
+        "109°28′",
+        "120°",
+        "180°",
+        "90°"
+      ],
+      "correct": 0,
+      "explanation": "Four sp3 orbitals point to the corners of a regular tetrahedron.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The peroxide effect is shown by:",
+      "options": [
+        "HCl only",
+        "HI only",
+        "HBr only",
+        "HCl, HBr and HI"
+      ],
+      "correct": 2,
+      "explanation": "Only with HBr are both free radical propagation steps exothermic.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Propene reacts with HBr (no peroxide) to give mainly:",
+      "options": [
+        "2-Bromopropane",
+        "1-Bromopropane",
+        "1,2-Dibromopropane",
+        "Propane"
+      ],
+      "correct": 0,
+      "explanation": "Markownikoff addition through the more stable 2° carbocation.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The rate law of an E2 reaction is:",
+      "options": [
+        "Rate = k[RX]",
+        "Rate = k[RX][Base]",
+        "Rate = k[Base]",
+        "Rate = k[RX]²"
+      ],
+      "correct": 1,
+      "explanation": "E2 is one concerted step involving both substrate and base: second order.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Dehydrohalogenation of 2-bromobutane with alcoholic KOH gives mainly:",
+      "options": [
+        "But-1-ene",
+        "Butan-2-ol",
+        "But-2-ene",
+        "Butane"
+      ],
+      "correct": 2,
+      "explanation": "Saytzeff's rule: the more substituted alkene is the major product.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Ozonolysis of 2-methylpropene followed by Zn/H2O gives:",
+      "options": [
+        "Two molecules of acetaldehyde",
+        "Propanal and formaldehyde",
+        "Acetone only",
+        "Acetone and formaldehyde"
+      ],
+      "correct": 3,
+      "explanation": "(CH3)2C=CH2 splits at the double bond into (CH3)2C=O and HCHO.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which alkene is the most stable?",
+      "options": [
+        "trans-But-2-ene",
+        "Propene",
+        "2,3-Dimethylbut-2-ene",
+        "Ethene"
+      ],
+      "correct": 2,
+      "explanation": "Tetrasubstituted alkenes have the lowest heat of hydrogenation (most hyperconjugation).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Addition of HBr to buta-1,3-diene at about 40 °C gives mainly:",
+      "options": [
+        "1-Bromobut-2-ene (1,4-adduct)",
+        "3-Bromobut-1-ene (1,2-adduct)",
+        "1,4-Dibromobutane",
+        "Cyclobutyl bromide"
+      ],
+      "correct": 0,
+      "explanation": "At higher temperature the more stable 1,4-product dominates (thermodynamic control).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In the Diels–Alder reaction the diene must be in the:",
+      "options": [
+        "s-trans conformation",
+        "Anti-periplanar conformation",
+        "Chair conformation",
+        "s-cis conformation"
+      ],
+      "correct": 3,
+      "explanation": "Both ends of the diene must face the dienophile for the cyclic transition state.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Which reaction gives an alkane with one carbon fewer than the starting compound?",
+      "options": [
+        "Wurtz reaction",
+        "Decarboxylation of a sodium carboxylate with soda lime",
+        "Hydrogenation of an alkene",
+        "Kolbe electrolysis"
+      ],
+      "correct": 1,
+      "explanation": "RCOONa + NaOH (CaO) → R–H + Na2CO3 removes the carboxyl carbon.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "SN2 reactions proceed with:",
+      "options": [
+        "Racemisation",
+        "Complete inversion of configuration",
+        "Retention of configuration",
+        "Carbocation rearrangement"
+      ],
+      "correct": 1,
+      "explanation": "Backside attack flips the configuration (Walden inversion).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Which alkyl halide reacts fastest by SN1?",
+      "options": [
+        "(CH3)2CH–Br",
+        "CH3CH2–Br",
+        "CH3–Br",
+        "(CH3)3C–Br"
+      ],
+      "correct": 3,
+      "explanation": "SN1 rate follows carbocation stability; the 3° cation is most stable.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The best leaving group among the halides is:",
+      "options": [
+        "I−",
+        "Br−",
+        "Cl−",
+        "F−"
+      ],
+      "correct": 0,
+      "explanation": "Iodide is the weakest base and the C–I bond is the weakest.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "In the Lucas test, immediate turbidity is given by:",
+      "options": [
+        "Secondary alcohols",
+        "Primary alcohols",
+        "Tertiary alcohols",
+        "Methanol"
+      ],
+      "correct": 2,
+      "explanation": "3° alcohols form carbocations fastest, so the insoluble chloride appears at once.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Chloroform on exposure to air and light forms:",
+      "options": [
+        "Phosgene",
+        "Chloral",
+        "Carbon tetrachloride",
+        "Methylene chloride"
+      ],
+      "correct": 0,
+      "explanation": "2CHCl3 + O2 → 2COCl2 + 2HCl; hence storage in amber bottles with 1% ethanol.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Polar aprotic solvents such as DMSO favour:",
+      "options": [
+        "SN1 reactions",
+        "SN2 reactions",
+        "E1 reactions",
+        "Free radical reactions"
+      ],
+      "correct": 1,
+      "explanation": "They do not solvate anions, leaving the nucleophile highly reactive.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Chlorobutanol is prepared from:",
+      "options": [
+        "Butanol and chlorine",
+        "Chloral and ethanol",
+        "Acetone and chloroform in presence of KOH",
+        "Acetaldehyde and HCl"
+      ],
+      "correct": 2,
+      "explanation": "CH3COCH3 + CHCl3 → (CH3)2C(OH)CCl3 by base-catalysed addition.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Which alcohol gives a negative iodoform test?",
+      "options": [
+        "Ethanol",
+        "Propan-2-ol",
+        "Butan-2-ol",
+        "Methanol"
+      ],
+      "correct": 3,
+      "explanation": "Methanol has no CH3CH(OH)– group.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Glycerol heated with KHSO4 gives the pungent compound:",
+      "options": [
+        "Acetone",
+        "Allyl alcohol",
+        "Acrolein",
+        "Formaldehyde"
+      ],
+      "correct": 2,
+      "explanation": "Dehydration of glycerol gives CH2=CH–CHO (acrolein test).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Ethyl chloride is used in pharmacy mainly as a:",
+      "options": [
+        "Local anaesthetic freezing spray",
+        "Urinary antiseptic",
+        "Sedative–hypnotic",
+        "Keratolytic"
+      ],
+      "correct": 0,
+      "explanation": "Its rapid evaporation chills and numbs the skin.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Aldol condensation requires the carbonyl compound to have:",
+      "options": [
+        "No α-hydrogen",
+        "An aromatic ring",
+        "A carboxyl group",
+        "An α-hydrogen"
+      ],
+      "correct": 3,
+      "explanation": "The α-H is removed to form the enolate that attacks the second molecule.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Benzaldehyde with concentrated NaOH gives:",
+      "options": [
+        "Benzoin",
+        "Benzyl alcohol and sodium benzoate",
+        "Cinnamic acid",
+        "Benzil"
+      ],
+      "correct": 1,
+      "explanation": "Cannizzaro reaction: disproportionation of an aldehyde without α-H.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The catalyst used in benzoin condensation is:",
+      "options": [
+        "Concentrated H2SO4",
+        "Cyanide ion (KCN)",
+        "Sodium acetate",
+        "Anhydrous AlCl3"
+      ],
+      "correct": 1,
+      "explanation": "CN− adds, stabilises the carbanion and is then released.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Perkin reaction of benzaldehyde with acetic anhydride and sodium acetate gives:",
+      "options": [
+        "Benzoic acid",
+        "Cinnamaldehyde",
+        "Benzyl acetate",
+        "Cinnamic acid"
+      ],
+      "correct": 3,
+      "explanation": "The product is the α,β-unsaturated aromatic acid C6H5CH=CHCOOH.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "In the crossed Cannizzaro reaction of benzaldehyde with formaldehyde, the product oxidised is:",
+      "options": [
+        "Formaldehyde (to formate)",
+        "Benzaldehyde (to benzoate)",
+        "Both equally",
+        "Neither"
+      ],
+      "correct": 0,
+      "explanation": "HCHO is most reactive towards OH−, so it is oxidised and benzaldehyde is reduced to benzyl alcohol.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Tollens' reagent gives a silver mirror with:",
+      "options": [
+        "Acetone",
+        "Ethanol",
+        "Acetaldehyde",
+        "Acetic acid"
+      ],
+      "correct": 2,
+      "explanation": "Aldehydes reduce ammoniacal silver nitrate; ketones do not.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Hexamine is obtained from formaldehyde and:",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Phenol",
+        "Chloroform"
+      ],
+      "correct": 0,
+      "explanation": "6HCHO + 4NH3 → (CH2)6N4 + 6H2O.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Paraldehyde is a cyclic trimer of:",
+      "options": [
+        "Formaldehyde",
+        "Acetaldehyde",
+        "Acetone",
+        "Chloral"
+      ],
+      "correct": 1,
+      "explanation": "Three CH3CHO units join in a six-membered trioxane ring with acid catalysis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The electromeric effect is:",
+      "options": [
+        "Permanent and found in σ bonds",
+        "A partial shift of σ electrons",
+        "Temporary and needs an attacking reagent",
+        "Found only in saturated compounds"
+      ],
+      "correct": 2,
+      "explanation": "It is a complete π shift at the demand of a reagent and disappears when it is removed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Vanillin is chemically:",
+      "options": [
+        "3-Phenylprop-2-enal",
+        "2-Hydroxybenzaldehyde",
+        "4-Methoxybenzoic acid",
+        "4-Hydroxy-3-methoxybenzaldehyde"
+      ],
+      "correct": 3,
+      "explanation": "Vanillin has –CHO, –OCH3 at 3 and –OH at 4 on the ring.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The strongest acid among the following is:",
+      "options": [
+        "Chloroacetic acid",
+        "Dichloroacetic acid",
+        "Trichloroacetic acid",
+        "Acetic acid"
+      ],
+      "correct": 2,
+      "explanation": "Three –I chlorine atoms stabilise the anion most (pKa about 0.65).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Which acid is stronger?",
+      "options": [
+        "Fluoroacetic acid",
+        "Iodoacetic acid",
+        "Bromoacetic acid",
+        "Chloroacetic acid"
+      ],
+      "correct": 0,
+      "explanation": "Fluorine is the most electronegative, so its −I effect is the largest.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "In aqueous solution, the strongest base is:",
+      "options": [
+        "Methylamine",
+        "Trimethylamine",
+        "Ammonia",
+        "Dimethylamine"
+      ],
+      "correct": 3,
+      "explanation": "+I effect, solvation and steric effects together make the 2° amine strongest in water.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The carbylamine reaction is given by:",
+      "options": [
+        "Secondary amines",
+        "Primary amines",
+        "Tertiary amines",
+        "Amides"
+      ],
+      "correct": 1,
+      "explanation": "Only RNH2 forms the foul-smelling isocyanide with CHCl3 and alcoholic KOH.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Aspirin is prepared by acetylation of salicylic acid with:",
+      "options": [
+        "Methanol",
+        "Acetic anhydride",
+        "Acetaldehyde",
+        "Ethyl acetate"
+      ],
+      "correct": 1,
+      "explanation": "Acetic anhydride acetylates the phenolic –OH, with a little acid as catalyst.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Methyl salicylate is used as a:",
+      "options": [
+        "Urinary antiseptic",
+        "Scabicide",
+        "Anticoagulant for stored blood",
+        "Counter-irritant in liniments"
+      ],
+      "correct": 3,
+      "explanation": "Oil of wintergreen is rubbed on the skin for muscle and joint pain.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Which compound reduces Tollens' reagent?",
+      "options": [
+        "Formic acid",
+        "Acetic acid",
+        "Oxalic acid",
+        "Benzoic acid"
+      ],
+      "correct": 0,
+      "explanation": "Formic acid contains an aldehyde-like H–C=O group.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The hydroxamic acid test (red-violet with FeCl3) is used to detect:",
+      "options": [
+        "Amines",
+        "Alcohols",
+        "Esters",
+        "Ketones"
+      ],
+      "correct": 2,
+      "explanation": "Esters form hydroxamic acids with hydroxylamine, which give coloured ferric complexes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Ethylenediamine is used to increase the solubility of theophylline in:",
+      "options": [
+        "Aminophylline",
+        "Amphetamine sulfate",
+        "Ethanolamine oleate",
+        "Hexamine mandelate"
+      ],
+      "correct": 0,
+      "explanation": "Aminophylline is theophylline combined with ethylenediamine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Amides are practically neutral because:",
+      "options": [
+        "Nitrogen has no lone pair",
+        "The nitrogen lone pair is delocalised into the C=O group",
+        "They are fully ionised in water",
+        "Alkyl groups withdraw electrons"
+      ],
+      "correct": 1,
+      "explanation": "Resonance with the carbonyl makes the lone pair unavailable for protonation.",
+      "probability": "low"
+    }
+  ]
+}

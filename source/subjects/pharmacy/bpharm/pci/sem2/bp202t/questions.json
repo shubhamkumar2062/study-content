@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State the rules of the IUPAC system of nomenclature. Name the following: (CH3)3C–CH2–CH(CH3)2, CH3–CH(C2H5)–CH2–CH3, CH2=CH–CH2–CH2OH, CH3–CO–CH2–CHO and CH3–CH(Cl)–CH2–COOH.",
+      "answer": "1. Name = prefixes (substituents, alphabetical) + word root (number of C: meth, eth, prop, but, pent, hex, hept, oct, non, dec) + primary suffix (-ane, -ene, -yne) + secondary suffix (main functional group: -ol, -al, -one, -oic acid).\n2. Parent chain: the longest continuous chain containing the main functional group and the maximum number of multiple bonds.\n3. Numbering: lowest locant to the main functional group, then to multiple bonds, then to substituents (lowest locant rule); on a tie, alphabetical order decides.\n4. Repeated substituents take di-, tri-, tetra- and each needs a locant.\n5. Prefixes are written alphabetically (di-, tri-, sec-, tert- ignored); numbers separated by commas, numbers and words by hyphens.\n6. Priority for the suffix: acid > ester > amide > nitrile > aldehyde > ketone > alcohol > amine; halo, nitro and alkoxy are always prefixes.\n7. The carbon of –CHO, –COOH and –CN is counted in the chain and is C1.\n8. Answers: (a) 2,2,4-trimethylpentane (isooctane); (b) 3-methylpentane (the ethyl group lengthens the chain); (c) but-3-en-1-ol (–OH gets C1); (d) 3-oxobutanal (aldehyde outranks ketone); (e) 3-chlorobutanoic acid."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is isomerism? Classify structural isomerism and explain each type with suitable examples.",
+      "answer": "1. Definition: isomers are compounds with the same molecular formula but different structures, hence different properties.\n2. Two main classes: structural (atoms joined differently) and stereoisomerism (same joining, different spatial arrangement).\n3. Chain isomerism: different carbon skeleton — C5H12: n-pentane, isopentane (2-methylbutane), neopentane (2,2-dimethylpropane). More branching → lower boiling point.\n4. Position isomerism: same skeleton and group, different position — propan-1-ol / propan-2-ol; but-1-ene / but-2-ene.\n5. Functional group isomerism: different functional groups — C2H6O ethanol / methoxymethane; C3H6O propanal / propanone; C3H6O2 propanoic acid / methyl ethanoate.\n6. Metamerism: same functional group, different alkyl groups on either side of –O–, –CO–, –NH– — ethoxyethane / 1-methoxypropane; pentan-2-one / pentan-3-one.\n7. Tautomerism: two forms in rapid dynamic equilibrium by proton shift — keto–enol (acetone ⇌ prop-1-en-2-ol; ethyl acetoacetate). Tautomers are real isomers, unlike resonance structures.\n8. Ring–chain isomerism: propene / cyclopropane; but-1-ene / cyclobutane.\n9. Example of counting: C4H10O has 7 structural isomers (4 alcohols + 3 ethers).\n10. Significance: isomers differ in physical properties, reactivity and biological activity."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify organic compounds with examples. Explain functional groups and homologous series. Add a note on the classification of carbon atoms and reaction intermediates.",
+      "answer": "1. By skeleton: acyclic/open chain (butane, ethanol); cyclic → homocyclic [alicyclic (cyclohexane) and aromatic (benzene)] and heterocyclic (pyridine, furan, thiophene).\n2. By saturation: saturated (alkanes) and unsaturated (alkenes, alkynes).\n3. Functional group: atom/group deciding characteristic reactions — –OH, –CHO, >C=O, –COOH, –NH2, –X, –COOR, –CONH2, –CN, –NO2 with one example each.\n4. Homologous series: same general formula, successive members differ by –CH2–, similar chemical properties, gradation in physical properties, similar methods of preparation (CnH2n+2, CnH2n+1OH).\n5. Carbon classes: 1° (bonded to one C), 2° (two), 3° (three), 4° (four); illustrate with 2,2-dimethylbutane.\n6. Bond fission: homolytic → free radicals; heterolytic → carbocations and carbanions.\n7. Carbocation: sp2, planar, 6 electrons, stability 3° > 2° > 1° > CH3+ (+I, hyperconjugation).\n8. Carbanion: sp3, pyramidal, stability reverse. Free radical: 7 electrons, 3° most stable. Carbene: :CCl2 from CHCl3 + base."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the IUPAC names of: (a) (CH3)2CH–CH2–OH (b) CH2=CH–CHO (c) CH3COOC2H5 (d) CH3–CH(NH2)–CH3 (e) CH3CH2CH2CN.",
+      "answer": "(a) 2-Methylpropan-1-ol (isobutyl alcohol).\n(b) Prop-2-enal (acrolein).\n(c) Ethyl ethanoate (ethyl acetate).\n(d) Propan-2-amine (isopropylamine).\n(e) Butanenitrile (the C of –CN is counted and is C1)."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain tautomerism with an example. How does it differ from resonance?",
+      "answer": "1. Tautomerism: a special functional isomerism in which two isomers exist in dynamic equilibrium and interconvert by migration of a proton with a shift of a double bond.\n2. Keto–enol example: CH3–CO–CH3 (keto) ⇌ CH2=C(OH)–CH3 (enol); for acetone the keto form dominates; enol content is high in ethyl acetoacetate and acetylacetone (conjugation, H-bonding).\n3. Difference from resonance: tautomers are real compounds with different atom positions (H moves) and can sometimes be separated; resonance structures differ only in electron positions, are not real, and the true molecule is a single hybrid.\n4. Equilibrium (⇌) for tautomers vs double-headed arrow (⟷) for resonance."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the rules for naming carbocyclic compounds with examples.",
+      "answer": "1. Prefix cyclo- before the root: cyclopropane, cyclohexane.\n2. One substituent needs no number: methylcyclohexane.\n3. Two or more substituents: lowest set of locants, then alphabetical order: 1,2-dimethylcyclopentane, 1-ethyl-3-methylcyclohexane.\n4. Functional group on the ring gets C1: cyclohexanol, 3-methylcyclohexan-1-one, cyclohex-2-en-1-ol.\n5. –COOH, –CHO, –CN on a ring: cyclohexanecarboxylic acid, cyclopentanecarbaldehyde.\n6. If the chain is longer than the ring, the ring becomes a substituent: 1-cyclopropylheptane."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write all the structural isomers of C4H10O and name them. Indicate the type of isomerism.",
+      "answer": "Alcohols: butan-1-ol CH3CH2CH2CH2OH; butan-2-ol CH3CH(OH)CH2CH3; 2-methylpropan-1-ol (CH3)2CHCH2OH; 2-methylpropan-2-ol (CH3)3COH.\nEthers: 1-methoxypropane CH3OCH2CH2CH3; 2-methoxypropane CH3OCH(CH3)2; ethoxyethane C2H5OC2H5.\nTotal 7. Chain: butan-1-ol / 2-methylpropan-1-ol; position: butan-1-ol / butan-2-ol; functional: alcohol / ether; metamerism: ethoxyethane / methoxypropane."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between inductive effect and electromeric effect. Give the order of +I and –I groups.",
+      "answer": "1. Inductive: permanent; partial shift of σ electrons; operates along σ bonds and fades after 2–3 carbons; no reagent needed.\n2. Electromeric: temporary; complete transfer of a π pair; only in multiple bonds; occurs at the demand of an attacking reagent and vanishes when it is removed.\n3. +I order: (CH3)3C– > (CH3)2CH– > CH3CH2– > CH3–.\n4. –I order: –NO2 > –CN > –COOH > –F > –Cl > –Br > –I > –OH.\n5. When they oppose, the electromeric effect usually dominates during reaction."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain chain, position and metamerism with one example each, using C5H12, C3H8O and C4H10O.",
+      "answer": "Chain: C5H12 — n-pentane, 2-methylbutane, 2,2-dimethylpropane (different skeletons).\nPosition: C3H8O — propan-1-ol and propan-2-ol (–OH at different positions).\nMetamerism: C4H10O — ethoxyethane and 1-methoxypropane (different alkyl groups on the two sides of –O–)."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a homologous series? Give two of its features.",
+      "answer": "A series of compounds with the same functional group and general formula in which successive members differ by –CH2–. Features: similar chemical properties; gradual change in physical properties such as boiling point."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Arrange carbocations in order of stability and give the reason.",
+      "answer": "3° > 2° > 1° > CH3+. Alkyl groups stabilise the positive charge by +I effect and hyperconjugation; more alkyl groups, more stability."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain E1 and E2 reactions with mechanism, kinetics and stereochemistry. Compare E1 and E2 and discuss factors affecting them.",
+      "answer": "1. β-Elimination: loss of X from α-C and H from β-C gives C=C.\n2. E2: one-step concerted; base removes β-H while X leaves; transition state B···H···C···C···X; rate = k[RX][Base] (second order); needs strong base (alc. KOH, NaOEt); anti-periplanar H and X; no rearrangement.\n3. E1: step 1 slow ionisation to carbocation (R3C–Br → R3C+ + Br−); step 2 fast loss of β-H; rate = k[RX] (first order); weak base; polar protic solvent; carbocation may rearrange; competes with SN1.\n4. Reactivity: 3° > 2° > 1° for both; RI > RBr > RCl > RF.\n5. Orientation: Saytzeff — more substituted alkene major (2-bromobutane → but-2-ene about 80%); bulky base gives Hofmann product.\n6. Comparison table: molecularity, kinetics, steps, intermediate, rearrangement, stereochemistry (anti vs none), base, solvent, isotope effect (E2 shows large deuterium effect).\n7. Factors: substrate (3° favours E1), base strength and concentration (strong → E2), solvent (polar protic → E1), leaving group (good LG speeds both), temperature (high favours elimination over substitution)."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State Markownikoff's rule and explain it with mechanism. What is anti-Markownikoff's addition (peroxide effect)? Explain its mechanism and why it is shown only by HBr.",
+      "answer": "1. Markownikoff's rule: the negative part of an unsymmetrical reagent adds to the carbon with fewer H atoms.\n2. Mechanism (propene + HBr): step 1 π electrons attack H+ → 2° carbocation CH3–C+H–CH3 (more stable than 1°); step 2 Br− attacks → 2-bromopropane.\n3. Modern form: addition proceeds through the more stable carbocation (3° > 2° > 1°).\n4. Peroxide (Kharasch) effect: with peroxide, HBr adds the opposite way → 1-bromopropane.\n5. Initiation: ROOR → 2RO·; RO· + HBr → ROH + Br·.\n6. Propagation: Br· + CH2=CHCH3 → BrCH2–C·H–CH3 (2° radical, more stable); radical + HBr → BrCH2CH2CH3 + Br·.\n7. Termination: radicals combine.\n8. Only HBr: H–Cl bond too strong (H abstraction step unfavourable); I· too unreactive to add to C=C; for HBr both propagation steps are exothermic."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the stability of conjugated dienes. Explain 1,2- and 1,4-addition to buta-1,3-diene and the Diels–Alder reaction with mechanism and applications.",
+      "answer": "1. Types of dienes: cumulated, conjugated, isolated.\n2. Stability: heat of hydrogenation 57.1 kcal/mol vs about 60.6 for two isolated C=C → delocalisation energy about 3.5 kcal/mol; C2–C3 1.48 Å (shorter than 1.54 Å); continuous overlap of four p orbitals; resonance.\n3. Electrophilic addition of HBr: H+ adds to C1 → allylic carbocation CH3–C+H–CH=CH2 ⟷ CH3–CH=CH–C+H2; Br− attacks C2 (1,2-product, 3-bromobut-1-ene) or C4 (1,4-product, 1-bromobut-2-ene).\n4. Low temperature (−80 °C): 1,2 major (kinetic control); 40 °C: 1,4 major (thermodynamic control, more substituted C=C).\n5. Free radical addition: Br· gives an allylic radical; 1,2 and 1,4 products; polymerisation to rubbers.\n6. Diels–Alder: [4+2] cycloaddition of diene + dienophile → cyclohexene; butadiene + ethene → cyclohexene; butadiene + maleic anhydride → cyclohex-4-ene-1,2-dicarboxylic anhydride.\n7. Features: concerted, one step; diene must be s-cis; electron-withdrawing groups on dienophile speed it; syn and stereospecific; endo rule.\n8. Uses: one-step six-membered rings in syntheses of steroids, terpenes; test for conjugated dienes."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the mechanism of chlorination of methane. Why is bromination more selective than chlorination?",
+      "answer": "1. Initiation: Cl2 → 2Cl· (light).\n2. Propagation: Cl· + CH4 → HCl + ·CH3; ·CH3 + Cl2 → CH3Cl + Cl·.\n3. Termination: Cl· + Cl· → Cl2; ·CH3 + ·CH3 → C2H6; ·CH3 + Cl· → CH3Cl.\n4. Excess Cl2 gives CH2Cl2, CHCl3, CCl4.\n5. Selectivity: Cl· is highly reactive and attacks 3°, 2°, 1° H at similar rates (about 5 : 3.8 : 1); Br· is less reactive, so it strongly prefers the H giving the most stable radical (3°) — bromination gives mainly one product."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "State and explain Saytzeff's rule with an example and evidence.",
+      "answer": "1. Rule: in elimination, the more substituted alkene (fewer H on the double-bond carbons) is the major product.\n2. Example: 2-bromobutane + alcoholic KOH → but-2-ene (about 80%) + but-1-ene (about 20%).\n3. Evidence: heats of hydrogenation show more substituted alkenes are more stable; but-2-ene has more α-H for hyperconjugation; the transition state resembles the alkene, so the more stable alkene forms faster.\n4. Exception: bulky base (tert-butoxide) or quaternary ammonium leaving group → Hofmann (less substituted) product."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is ozonolysis? Give its mechanism outline and importance with examples.",
+      "answer": "1. Alkene + O3 → molozonide → ozonide; hydrolysis with Zn/H2O → aldehydes/ketones (Zn destroys H2O2 so aldehydes are not oxidised).\n2. But-2-ene → 2 CH3CHO; 2-methylpropene → acetone + HCHO; but-1-ene → propanal + HCHO.\n3. Importance: locating the position of the double bond (join the carbonyl carbons to rebuild the alkene); structure proof of natural products; preparation of carbonyl compounds."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain sp2 hybridisation in ethene and the order of stability of alkenes.",
+      "answer": "1. Each C: 2s + two 2p → three sp2 orbitals at 120° in one plane; one 2p unhybridised.\n2. sp2–sp2 σ bond + sideways p–p π bond above and below the plane; C=C 1.34 Å; planar molecule; restricted rotation → cis–trans isomers.\n3. Stability (heats of hydrogenation): R2C=CR2 > R2C=CHR > R2C=CH2 ≈ trans-RCH=CHR > cis > RCH=CH2 > CH2=CH2.\n4. Reasons: hyperconjugation with α C–H, +I of alkyl groups; trans less crowded than cis."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write two methods of preparation and two reactions of alkanes. Give uses of paraffins.",
+      "answer": "Preparation: (1) Wurtz: 2CH3Br + 2Na → C2H6 + 2NaBr (dry ether); (2) Sabatier–Senderens hydrogenation: CH2=CH2 + H2 → C2H6 (Ni, about 250 °C); also decarboxylation CH3COONa + NaOH (CaO) → CH4.\nReactions: (1) halogenation CH4 + Cl2 → CH3Cl + HCl (light); (2) combustion CH4 + 2O2 → CO2 + 2H2O; also cracking.\nUses: liquid paraffin (laxative, emulsion base), soft paraffin (ointment base), hard paraffin (stiffening agent), petroleum ether (solvent), LPG (fuel, propellant)."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain rearrangement of carbocations with examples.",
+      "answer": "1. A carbocation rearranges to a more stable one by moving a group from the neighbouring carbon with its bond pair.\n2. 1,2-Hydride shift: CH3–CH(CH3)–C+H–CH3 (2°) → CH3–C+(CH3)–CH2CH3 (3°).\n3. 1,2-Methyl shift: dehydration of 3,3-dimethylbutan-2-ol → 2° cation (CH3)3C–C+H–CH3 → 3° cation (CH3)2C+–CH(CH3)2 → 2,3-dimethylbut-2-ene.\n4. Occurs only in carbocation reactions: E1, SN1, acid dehydration, HX addition; never in E2 or SN2."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the peroxide effect?",
+      "answer": "Addition of HBr to an unsymmetrical alkene in the presence of peroxide gives the anti-Markownikoff product by a free radical mechanism (Kharasch effect), e.g. propene → 1-bromopropane."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a dienophile? Give an example.",
+      "answer": "The alkene (2π component) that reacts with a conjugated diene in the Diels–Alder reaction; best with electron-withdrawing groups, e.g. maleic anhydride, acrolein, ethene."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain SN1 and SN2 reactions with mechanism, kinetics, stereochemistry and order of reactivity of alkyl halides. Discuss the factors affecting them.",
+      "answer": "1. SN2: one step; nucleophile attacks from the back as X leaves; pentacoordinate transition state; rate = k[RX][Nu] (second order); complete inversion (Walden), e.g. (R)-2-bromobutane + OH− → (S)-butan-2-ol.\n2. SN2 reactivity: CH3X > 1° > 2° >> 3° (steric hindrance); neopentyl very slow.\n3. SN1: step 1 slow ionisation (CH3)3C–Br → (CH3)3C+ + Br−; step 2 fast attack by Nu (H2O); rate = k[RX] (first order).\n4. SN1 stereochemistry: planar carbocation → racemisation (with some excess inversion); rearrangement possible (neopentyl bromide → 2-methylbutan-2-ol).\n5. SN1 reactivity: 3° > 2° > 1° > CH3 (carbocation stability); allyl, benzyl high.\n6. Factors: substrate structure; nucleophile strength/concentration (matters for SN2 only); leaving group (I− > Br− > Cl− > F−; –OH must be protonated); solvent (polar protic → SN1, polar aprotic DMSO/DMF/acetone → SN2); temperature (high favours elimination).\n7. Summary table of SN1 vs SN2."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Give the preparation, properties, storage and uses of chloroform. Write the structure and uses of iodoform and trichloroethylene.",
+      "answer": "1. Chloroform CHCl3, trichloromethane, sweet-smelling heavy liquid, bp 61 °C.\n2. Preparation from ethanol + bleaching powder: CaOCl2 + H2O → Ca(OH)2 + Cl2; C2H5OH + Cl2 → CH3CHO + 2HCl; CH3CHO + 3Cl2 → CCl3CHO + 3HCl; 2CCl3CHO + Ca(OH)2 → 2CHCl3 + (HCOO)2Ca. Also from acetone + bleaching powder.\n3. Oxidation in air/light: 2CHCl3 + O2 → 2COCl2 (phosgene) + 2HCl. Storage: amber bottles filled to the brim, cool, 1% ethanol added (converts phosgene to diethyl carbonate). Purity: no precipitate with AgNO3.\n4. Reactions: carbylamine test with 1° amines; with acetone + KOH → chlorobutanol; Reimer–Tiemann via :CCl2.\n5. Uses: solvent for extraction, preservative (chloroform water); formerly anaesthetic, abandoned because of liver and heart toxicity.\n6. Iodoform CHI3: yellow crystals, characteristic odour; ethanol or acetone + I2 + NaOH (haloform reaction); antiseptic dusting powders and packing pastes.\n7. Trichloroethylene ClCH=CCl2: from tetrachloroethane + lime; degreasing/extraction solvent, formerly inhalational analgesic; never with soda lime (toxic dichloroacetylene)."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Give the classification of alcohols, two methods of preparation and two reactions. Describe the qualitative tests for alcohols, and write the structure and uses of glycerol and propylene glycol.",
+      "answer": "1. Classification: mono-, di-, tri-, polyhydric; 1°, 2°, 3°.\n2. Preparation: hydration of alkenes (CH2=CH2 + H2O, H3PO4); hydrolysis of alkyl halides (RX + aq. KOH); reduction of carbonyls; Grignard + carbonyl; fermentation.\n3. Reactions: with Na → RONa + H2; esterification with RCOOH/H2SO4; oxidation (1° → aldehyde → acid, 2° → ketone, 3° resistant); dehydration to alkene.\n4. Tests: sodium (H2), ceric ammonium nitrate (yellow → red), ester test (fruity smell), Lucas (3° instant, 2° about 5 minutes, 1° none), chromic acid (orange → green for 1°/2°), iodoform (CH3CH(OH)–).\n5. Glycerol CH2OH–CHOH–CH2OH (propane-1,2,3-triol): by-product of soap making; acrolein test with KHSO4; borax–phenolphthalein test; uses — humectant, sweetener, solvent (glycerites), suppositories, plasticiser, glyceryl trinitrate.\n6. Propylene glycol CH3CHOHCH2OH (propane-1,2-diol): hydration of propylene oxide; cosolvent in injections, humectant, preservative, plasticiser; replaces toxic ethylene glycol."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between SN1 and SN2 reactions (any eight points).",
+      "answer": "Molecularity: uni vs bi. Kinetics: k[RX] vs k[RX][Nu]. Steps: two (carbocation) vs one (transition state). Stereochemistry: racemisation vs inversion. Substrate: 3° > 2° > 1° vs CH3 > 1° > 2° > 3°. Rearrangement: possible vs never. Nucleophile: weak enough vs strong, concentrated. Solvent: polar protic vs polar aprotic. Competes with E1 vs E2."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is the Lucas test? Explain its principle for distinguishing 1°, 2° and 3° alcohols.",
+      "answer": "1. Reagent: conc. HCl + anhydrous ZnCl2.\n2. Alcohol is converted to the alkyl chloride, which is insoluble and makes the solution turbid.\n3. The reaction goes through a carbocation (SN1), so the rate follows carbocation stability: 3° turbid immediately, 2° within about 5 minutes, 1° no turbidity at room temperature (only on heating).\n4. ZnCl2 helps the –OH leave."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure, preparation and uses of chlorobutanol and benzyl alcohol.",
+      "answer": "Chlorobutanol: (CH3)2C(OH)CCl3, 1,1,1-trichloro-2-methylpropan-2-ol; acetone + chloroform with solid KOH (cold); preservative (about 0.5%) in injections and eye drops; mild sedative–hypnotic, local anaesthetic; volatile, lost on autoclaving.\nBenzyl alcohol: C6H5CH2OH, phenylmethanol; hydrolysis of benzyl chloride with aqueous alkali or Cannizzaro of benzaldehyde; preservative in multidose injections, local anaesthetic, solvent; avoid preserved injections in newborns."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the structure and uses of ethyl chloride, dichloromethane, tetrachloroethylene and carbon tetrachloride.",
+      "answer": "Ethyl chloride CH3CH2Cl: local anaesthetic freezing spray (refrigerant), earlier general anaesthetic.\nDichloromethane CH2Cl2: extraction solvent, paint stripper, solvent in synthesis and coating.\nTetrachloroethylene Cl2C=CCl2: dry-cleaning solvent, formerly anthelmintic (hookworm).\nCarbon tetrachloride CCl4: solvent for fats and oils, formerly fire extinguisher and anthelmintic; hepatotoxic, now restricted."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the preparation and uses of ethanol. How is methanol distinguished from ethanol?",
+      "answer": "1. Fermentation: sucrose → glucose + fructose (invertase) → 2C2H5OH + 2CO2 (zymase).\n2. Hydration of ethylene with H3PO4 at high temperature and pressure.\n3. Uses: solvent for tinctures and elixirs, 70% antiseptic, preservative, extraction, fuel.\n4. Distinction: ethanol gives a yellow iodoform precipitate, methanol does not; methanol + salicylic acid + conc. H2SO4 gives wintergreen odour (methyl salicylate).\n5. Methanol is toxic (formaldehyde, formic acid → blindness, acidosis)."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain the haloform reaction with mechanism outline and give examples of compounds that answer the iodoform test.",
+      "answer": "1. Compounds with CH3CO– or CH3CH(OH)– react with I2 + NaOH.\n2. CH3CH(OH)– is first oxidised to CH3CO–.\n3. The three α-H are replaced by I: CH3COR → CI3COR.\n4. OH− cleaves CI3–CO–R → CHI3 (yellow precipitate) + RCOO−.\n5. Positive: ethanol, acetaldehyde, acetone, propan-2-ol, butan-2-one. Negative: methanol, propan-1-ol, formaldehyde, pentan-3-one."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is Walden inversion?",
+      "answer": "The inversion of configuration at a carbon during SN2 substitution, because the nucleophile attacks from the side opposite to the leaving group (like an umbrella turning inside out)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is chloroform stored in dark amber bottles filled to the brim?",
+      "answer": "In light and air chloroform is oxidised to poisonous phosgene (COCl2); dark bottles cut out light and filling to the brim excludes air. About 1% ethanol is added to destroy any phosgene."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is aldol condensation? Explain its mechanism. Write a note on crossed aldol condensation (Claisen–Schmidt reaction) with examples.",
+      "answer": "1. Aldehydes/ketones with α-H in dilute alkali give β-hydroxy aldehydes/ketones (aldols), which lose water on heating → α,β-unsaturated carbonyl compounds.\n2. Example: 2CH3CHO → CH3CH(OH)CH2CHO (3-hydroxybutanal) → CH3CH=CHCHO (crotonaldehyde).\n3. Step 1: OH− removes α-H → resonance-stabilised enolate (−CH2CHO ⟷ CH2=CHO−).\n4. Step 2: enolate adds to the carbonyl C of a second molecule → alkoxide.\n5. Step 3: protonation by water → aldol, OH− regenerated.\n6. Step 4: dehydration on heating.\n7. Acetone with Ba(OH)2 → diacetone alcohol → mesityl oxide.\n8. Aldehydes without α-H (HCHO, C6H5CHO) do not give aldol.\n9. Crossed aldol: two different carbonyls; useful when one has no α-H. Claisen–Schmidt: C6H5CHO + CH3CHO → C6H5CH=CHCHO (cinnamaldehyde); C6H5CHO + acetone → benzalacetone / dibenzalacetone.\n10. Uses: building C–C bonds, cinnamaldehyde, pentaerythritol."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the Cannizzaro reaction and crossed Cannizzaro reaction with mechanism. Give evidence for the mechanism and applications.",
+      "answer": "1. Aldehydes without α-H with concentrated NaOH undergo disproportionation: 2HCHO → HCOONa + CH3OH; 2C6H5CHO → C6H5COONa + C6H5CH2OH.\n2. Step 1: OH− adds to C=O → C6H5CH(OH)O−.\n3. Step 2 (slow): hydride transfer from this anion to the carbonyl C of a second aldehyde → C6H5COOH + C6H5CH2O−.\n4. Step 3: proton exchange → C6H5COO− + C6H5CH2OH.\n5. Evidence: in D2O the benzyl alcohol has no C–D bond, so the H came from the aldehyde (hydride transfer).\n6. Intramolecular: glyoxal → sodium glycollate.\n7. Crossed Cannizzaro: two different aldehydes without α-H; with HCHO, formaldehyde is oxidised to formate and the other is reduced: C6H5CHO + HCHO + NaOH → C6H5CH2OH + HCOONa.\n8. Applications: benzyl alcohol preparation; pentaerythritol (CH3CHO + 3HCHO aldol, then crossed Cannizzaro with HCHO) → pentaerythritol tetranitrate (vasodilator)."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain benzoin condensation and Perkin condensation with mechanism and applications.",
+      "answer": "1. Benzoin: 2C6H5CHO + KCN (catalyst, aqueous ethanol, reflux) → C6H5COCH(OH)C6H5.\n2. Mechanism: CN− adds to C=O → C6H5CH(O−)CN; proton shift → carbanion C6H5C−(OH)CN (stabilised by CN and ring); carbanion attacks a second benzaldehyde; proton transfer and loss of CN− → benzoin.\n3. Cyanide is unique: nucleophile, stabilises carbanion (polarity reversal), good leaving group.\n4. Application: benzoin → benzil (HNO3) → + urea → phenytoin.\n5. Perkin: C6H5CHO + (CH3CO)2O + CH3COONa, about 180 °C → C6H5CH=CHCOOH (cinnamic acid) + CH3COOH.\n6. Mechanism: acetate removes α-H of anhydride → carbanion; adds to aldehyde C=O → alkoxide; acetyl transfer and elimination of acetic acid → unsaturated anhydride; hydrolysis → cinnamic acid.\n7. Applications: cinnamic acids; coumarin from salicylaldehyde (fragrance, parent of warfarin-type anticoagulants)."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the mechanism of nucleophilic addition to carbonyl compounds. Why are aldehydes more reactive than ketones?",
+      "answer": "1. C=O is polar (δ+ C); the nucleophile attacks C, π pair moves to O, forming a tetrahedral alkoxide; protonation gives the product.\n2. Base catalysis: HCN + OH− → CN−; CN− adds → cyanohydrin.\n3. Acid catalysis: H+ protonates O, making C more electrophilic for weak nucleophiles (H2O, ROH).\n4. Aldehydes more reactive: only one +I alkyl group (larger δ+ on C) and less steric crowding than ketones. Order HCHO > CH3CHO > CH3COCH3; aromatic carbonyls least (resonance)."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the qualitative tests to distinguish aldehydes from ketones.",
+      "answer": "Both: 2,4-DNP → yellow/orange precipitate.\nTollens' (ammoniacal AgNO3): silver mirror with aldehydes, no change with ketones.\nFehling's: red Cu2O with aliphatic aldehydes; ketones negative (benzaldehyde usually negative).\nSchiff's reagent: pink/magenta with aldehydes.\nSodium nitroprusside + NaOH: red colour with methyl ketones (acetone).\nIodoform: methyl ketones and acetaldehyde."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define electromeric effect. Explain +E and −E effects with examples and compare with the inductive effect.",
+      "answer": "1. Temporary, complete transfer of a shared π pair to one atom of a multiple bond on demand of an attacking reagent.\n2. +E: electrons shift towards the atom the reagent attaches to — H+ adding to ethene.\n3. −E: electrons shift away from the attacked atom — CN− attacking the carbon of C=O (pair moves onto O).\n4. Inductive: permanent, partial, σ bonds, fades along chain; electromeric: temporary, complete, π bonds only, needs reagent, dominates when opposed."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the structure, preparation and uses of formaldehyde and hexamine.",
+      "answer": "Formaldehyde HCHO: methanol + air over heated Ag or Cu; formalin about 37–40%; disinfectant, fumigant, specimen preservative, resins; polymerises to paraformaldehyde.\nHexamine (CH2)6N4 (methenamine): 6HCHO + 4NH3 → (CH2)6N4 + 6H2O; cage of 4 N and 6 CH2; urinary antiseptic (releases HCHO in acidic urine; mandelate/hippurate), solid fuel tablets."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the structure and uses of chloral hydrate and paraldehyde. Why is chloral hydrate a stable gem-diol?",
+      "answer": "Chloral hydrate CCl3CH(OH)2: from chloral (chlorination of ethanol) + water; sedative–hypnotic. Stable because the strong −I of CCl3 makes the C=O carbon very electrophilic (hydrate favoured) and intramolecular H-bonds between –OH and Cl hold it.\nParaldehyde (CH3CHO)3: cyclic trimer from acetaldehyde + a drop of conc. H2SO4; sedative, anticonvulsant (status epilepticus); strong odour, partly excreted by lungs; use glass not plastic."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the structure and uses of benzaldehyde, vanillin and cinnamaldehyde.",
+      "answer": "Benzaldehyde C6H5CHO: from benzal chloride hydrolysis or Étard reaction; flavouring (bitter almond), synthesis of cinnamic acid, benzoin; oxidises to benzoic acid in air.\nVanillin (4-hydroxy-3-methoxybenzaldehyde): from vanilla, eugenol → isoeugenol → oxidation, or lignin; flavouring and taste masking.\nCinnamaldehyde C6H5CH=CHCHO: cinnamon oil; Claisen–Schmidt of benzaldehyde + acetaldehyde; flavour, carminative, mild antimicrobial."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why does formaldehyde not undergo aldol condensation?",
+      "answer": "It has no α-hydrogen, so it cannot form an enolate. With concentrated alkali it undergoes the Cannizzaro reaction instead."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is formalin? Give one use.",
+      "answer": "An aqueous solution of about 37–40% formaldehyde (with methanol as stabiliser); used as a disinfectant/fumigant and to preserve biological specimens."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the acidity of carboxylic acids. Discuss the effect of substituents on acidity with reference to the inductive effect, giving pKa values.",
+      "answer": "1. RCOOH + H2O ⇌ RCOO− + H3O+; Ka, pKa (smaller pKa = stronger).\n2. Carboxylate ion stabilised by two identical resonance forms; charge shared by two O; both C–O equal (about 1.27 Å).\n3. Stronger than phenol (charge partly on C) and alcohol (no resonance): pKa ethanol 16, phenol 10, acetic 4.76; acids release CO2 from NaHCO3.\n4. −I groups stabilise the anion → stronger: ClCH2COOH 2.86, FCH2COOH 2.59, NCCH2COOH about 2.5.\n5. Number of –I groups: acid strength ClCH2COOH (pKa 2.86) < Cl2CHCOOH (1.29) < Cl3CCOOH (0.65).\n6. Electronegativity: FCH2COOH > ClCH2COOH > BrCH2COOH > ICH2COOH.\n7. Distance: 2-chlorobutanoic (pKa about 2.8) > 3-chloro (4.1) > 4-chloro (4.5) > butanoic (4.8).\n8. +I groups weaken: HCOOH 3.75 > CH3COOH 4.76 > CH3CH2COOH 4.87 > (CH3)3CCOOH 5.0.\n9. Dicarboxylic acids: first ionisation of oxalic acid strong (pKa1 about 1.3)."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the basicity of aliphatic amines. Explain the effect of substituents and solvation on basicity. Give qualitative tests for primary, secondary and tertiary amines.",
+      "answer": "1. Lone pair on N accepts H+: RNH2 + H2O ⇌ RNH3+ + OH−; Kb, pKb.\n2. Aliphatic amines stronger than NH3 (pKb 4.75) because alkyl groups are +I.\n3. In water: (CH3)2NH (3.3) > CH3NH2 (3.4) > (CH3)3N (4.2) > NH3; ethyl series (C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3; in gas phase 3° > 2° > 1°.\n4. Reasons: +I effect (favours 3°); solvation of the ammonium ion by H-bonding (RNH3+ has 3 N–H, best solvated, favours 1°); steric hindrance (lowers 3°). Balance → 2° strongest.\n5. −I groups lower basicity (trifluoroethylamine, ethanolamine weaker than ethylamine); amides neutral (lone pair delocalised into C=O); quaternary ammonium hydroxides strong bases.\n6. Tests: carbylamine (1° only, foul isocyanide); nitrous acid (1° N2 gas, 2° yellow oily nitrosamine, 3° soluble salt); Hinsberg (1° sulfonamide soluble in KOH, 2° insoluble, 3° no reaction)."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Give the structure, method of preparation and uses of aspirin, methyl salicylate, benzyl benzoate and dimethyl phthalate. Add the tests for esters.",
+      "answer": "1. Aspirin (acetylsalicylic acid): salicylic acid + acetic anhydride + a few drops conc. H2SO4/H3PO4, warm; analgesic, antipyretic, anti-inflammatory, low-dose antiplatelet; no immediate FeCl3 violet (develops after hydrolysis).\n2. Methyl salicylate: salicylic acid + methanol + conc. H2SO4, reflux; oil of wintergreen; counter-irritant liniments, flavouring; toxic if swallowed.\n3. Benzyl benzoate: benzoyl chloride + benzyl alcohol (pyridine) or Tishchenko reaction of benzaldehyde; scabicide, pediculicide, solvent in oily injections.\n4. Dimethyl phthalate: phthalic anhydride + methanol + H2SO4; mosquito repellent, plasticiser.\n5. Ester tests: fruity odour; hydroxamic acid test (NH2OH·HCl + NaOH, acidify, FeCl3 → red-violet); saponification decolourises pink NaOH–phenolphthalein on warming."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure and uses of lactic acid, tartaric acid and citric acid.",
+      "answer": "Lactic acid CH3CH(OH)COOH: fermentation of sugars by lactic acid bacteria; calcium lactate, sodium lactate (Ringer's lactate), acidulant.\nTartaric acid HOOC–CH(OH)–CH(OH)–COOH: from argol; effervescent granules, Rochelle salt (Fehling's B), cream of tartar.\nCitric acid HOOC–CH2–C(OH)(COOH)–CH2–COOH: Aspergillus niger fermentation; effervescent preparations, sodium citrate anticoagulant, potassium citrate urinary alkaliniser, buffer, flavour."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the qualitative tests for carboxylic acids, amides and esters.",
+      "answer": "Acids: blue litmus red; NaHCO3 effervescence (CO2); ester test with ethanol + H2SO4 (fruity smell); neutral FeCl3 (acetate red, benzoate buff, salicylate violet).\nAmides: boil with NaOH → NH3 (red litmus blue); urea: biuret test violet; N2 with HNO2.\nEsters: fruity odour; hydroxamic acid test → red-violet with FeCl3; saponification with NaOH–phenolphthalein (pink disappears)."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the structure, preparation and uses of ethanolamine, ethylenediamine and amphetamine.",
+      "answer": "Ethanolamine HOCH2CH2NH2: ethylene oxide + NH3; emulsifier soaps, ethanolamine oleate sclerosant, buffer.\nEthylenediamine H2NCH2CH2NH2: 1,2-dichloroethane + NH3; solubiliser in aminophylline, EDTA manufacture, ligand.\nAmphetamine C6H5CH2CH(NH2)CH3 (1-phenylpropan-2-amine): Leuckart reaction or reductive amination of phenylacetone; CNS stimulant (narcolepsy, ADHD); controlled under NDPS Act."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write two methods of preparation and two reactions of carboxylic acids.",
+      "answer": "Preparation: (1) oxidation of 1° alcohols/aldehydes with KMnO4 or K2Cr2O7; (2) hydrolysis of nitriles R–CN + 2H2O (H+) → RCOOH + NH4+; also Grignard + CO2.\nReactions: (1) esterification RCOOH + R'OH ⇌ RCOOR' + H2O (conc. H2SO4); (2) acid chloride with SOCl2; also NaHCO3 salt, LiAlH4 reduction, decarboxylation with soda lime, HVZ α-bromination."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the structure and uses of oxalic acid, succinic acid, salicylic acid and benzoic acid.",
+      "answer": "Oxalic acid HOOC–COOH: primary standard for KMnO4, rust/ink stain remover; poisonous.\nSuccinic acid HOOC–CH2CH2–COOH: succinylcholine synthesis, succinate esters (hydrocortisone sodium succinate), acidulant.\nSalicylic acid (2-hydroxybenzoic acid): keratolytic, Whitfield's ointment, raw material for aspirin and methyl salicylate.\nBenzoic acid C6H5COOH: preservative, antifungal (Whitfield's ointment)."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write two methods of preparation of aliphatic amines and explain the Hinsberg test.",
+      "answer": "Preparation: (1) Hofmann bromamide: RCONH2 + Br2 + 4NaOH → RNH2 + Na2CO3 + 2NaBr + 2H2O (one C fewer); (2) reduction of nitriles with LiAlH4 or Na/ethanol (also Gabriel phthalimide for pure 1°).\nHinsberg: shake amine with benzenesulfonyl chloride + KOH. 1° → N-alkylsulfonamide that dissolves in KOH (acidic N–H), reprecipitates on acidifying; 2° → N,N-dialkylsulfonamide insoluble in KOH (no N–H); 3° → no reaction (dissolves in acid)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is a carboxylic acid stronger than phenol?",
+      "answer": "The carboxylate ion has two equivalent resonance forms that share the charge equally between two electronegative oxygens; in phenoxide the charge is spread partly onto ring carbons, which stabilise it less."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the carbylamine reaction?",
+      "answer": "A primary amine heated with chloroform and alcoholic KOH gives a foul-smelling isocyanide: RNH2 + CHCl3 + 3KOH → RNC + 3KCl + 3H2O; a test for 1° amines."
+    }
+  ]
+}

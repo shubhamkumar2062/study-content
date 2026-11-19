@@ -1,0 +1,118 @@
+{
+  "code": "BP202T",
+  "title": "Pharmaceutical Organic Chemistry I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP202T Pharmaceutical Organic Chemistry I and BP208P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP202T_B.Pharma-pages-9.pdf"
+  },
+  "practicalCodes": [
+    "BP208P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Classification, nomenclature and isomerism",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Alkanes, alkenes and conjugated dienes",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Alkyl halides and alcohols",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Carbonyl compounds (aldehydes and ketones)",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Carboxylic acids and aliphatic amines",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "preliminary-tests",
+      "title": "Preliminary tests: colour, odour, aliphatic/aromatic, saturation",
+      "file": "practicals/preliminary-tests.md"
+    },
+    {
+      "id": "lassaigne-test",
+      "title": "Detection of N, S and halogens (Lassaigne's test)",
+      "file": "practicals/lassaigne-test.md"
+    },
+    {
+      "id": "solubility-tests",
+      "title": "Solubility tests and solubility classification",
+      "file": "practicals/solubility-tests.md"
+    },
+    {
+      "id": "tests-acids-phenols",
+      "title": "Functional group tests: carboxylic acids and phenols",
+      "file": "practicals/tests-acids-phenols.md"
+    },
+    {
+      "id": "tests-aldehydes-ketones",
+      "title": "Functional group tests: aldehydes and ketones",
+      "file": "practicals/tests-aldehydes-ketones.md"
+    },
+    {
+      "id": "tests-alcohols-esters",
+      "title": "Functional group tests: alcohols and esters",
+      "file": "practicals/tests-alcohols-esters.md"
+    },
+    {
+      "id": "tests-nitrogen-compounds",
+      "title": "Functional group tests: amines, amides/urea, anilides, nitro compounds",
+      "file": "practicals/tests-nitrogen-compounds.md"
+    },
+    {
+      "id": "tests-carbohydrates",
+      "title": "Tests for carbohydrates",
+      "file": "practicals/tests-carbohydrates.md"
+    },
+    {
+      "id": "tests-hydrocarbons-halides",
+      "title": "Tests for aromatic and halogenated hydrocarbons",
+      "file": "practicals/tests-hydrocarbons-halides.md"
+    },
+    {
+      "id": "melting-boiling-point",
+      "title": "Melting point and boiling point",
+      "file": "practicals/melting-boiling-point.md"
+    },
+    {
+      "id": "systematic-analysis",
+      "title": "Systematic analysis and identification of an unknown",
+      "file": "practicals/systematic-analysis.md"
+    },
+    {
+      "id": "solid-derivatives",
+      "title": "Preparation of solid derivatives",
+      "file": "practicals/solid-derivatives.md"
+    },
+    {
+      "id": "molecular-models",
+      "title": "Construction of molecular models",
+      "file": "practicals/molecular-models.md"
+    }
+  ]
+}
