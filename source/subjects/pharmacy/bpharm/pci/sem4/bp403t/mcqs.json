@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The size range of colloidal particles is about:",
+      "options": [
+        "1 nm to 0.5 µm",
+        "Less than 1 nm",
+        "0.5 µm to 100 µm",
+        "Above 100 µm"
+      ],
+      "correct": 0,
+      "explanation": "Colloids lie between molecular dispersions (<1 nm) and coarse dispersions (>0.5 µm).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which of the following is a lyophilic colloid in water?",
+      "options": [
+        "Gold sol",
+        "Gelatin",
+        "Arsenic sulfide sol",
+        "Silver iodide sol"
+      ],
+      "correct": 1,
+      "explanation": "Gelatin is hydrated and disperses spontaneously; the others are lyophobic.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The Faraday–Tyndall effect is due to:",
+      "options": [
+        "Absorption of light by the medium",
+        "Refraction at the container wall",
+        "Scattering of light by colloidal particles",
+        "Fluorescence of the particles"
+      ],
+      "correct": 2,
+      "explanation": "Particles scatter light so the beam path is seen as a bright cone.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "According to the Schulze–Hardy rule, the best coagulant for a negatively charged arsenic sulfide sol is:",
+      "options": [
+        "NaCl",
+        "BaCl2",
+        "KCl",
+        "AlCl3"
+      ],
+      "correct": 3,
+      "explanation": "Coagulating power rises with the valency of the counter-ion; Al³⁺ is trivalent.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The potential that controls the stability of a colloidal dispersion is the:",
+      "options": [
+        "Zeta potential",
+        "Nernst potential",
+        "Redox potential",
+        "Membrane potential"
+      ],
+      "correct": 0,
+      "explanation": "Zeta potential at the shear plane governs repulsion between particles.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Movement of liquid through a fixed porous plug under an applied electric field is called:",
+      "options": [
+        "Electrophoresis",
+        "Electro-osmosis",
+        "Sedimentation potential",
+        "Streaming potential"
+      ],
+      "correct": 1,
+      "explanation": "In electro-osmosis the liquid moves; in electrophoresis the particles move.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "A smaller gold number of a protective colloid indicates:",
+      "options": [
+        "Less protective power",
+        "Larger particle size",
+        "Greater protective power",
+        "Higher molecular weight"
+      ],
+      "correct": 2,
+      "explanation": "Less colloid is needed to protect the gold sol, so it is more effective (gelatin about 0.005–0.01).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Complex coacervation can be produced by mixing:",
+      "options": [
+        "Gold sol and NaCl",
+        "Starch and water",
+        "Sodium lauryl sulfate and water",
+        "Gelatin and acacia at a suitable pH"
+      ],
+      "correct": 3,
+      "explanation": "Oppositely charged gelatin (below its isoelectric point) and acacia separate as a coacervate.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Conversion of a fresh precipitate into a colloidal sol by a small amount of electrolyte is called:",
+      "options": [
+        "Peptization",
+        "Coagulation",
+        "Dialysis",
+        "Coacervation"
+      ],
+      "correct": 0,
+      "explanation": "Ferric hydroxide with a little ferric chloride is a classic example.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "In the light-scattering equation Hc/τ = 1/M + 2Bc, the intercept of Hc/τ versus c gives:",
+      "options": [
+        "M",
+        "1/M",
+        "B",
+        "2B"
+      ],
+      "correct": 1,
+      "explanation": "Extrapolating to zero concentration gives the reciprocal of molecular weight.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The CGS unit of viscosity, the poise, is:",
+      "options": [
+        "dyne cm⁻¹",
+        "cm² s⁻¹",
+        "dyne s cm⁻²",
+        "g cm⁻³"
+      ],
+      "correct": 2,
+      "explanation": "Viscosity = shear stress/shear rate = (dyne/cm²)/(s⁻¹).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Kinematic viscosity is equal to:",
+      "options": [
+        "Absolute viscosity multiplied by density",
+        "Reciprocal of absolute viscosity",
+        "Relative viscosity minus one",
+        "Absolute viscosity divided by density"
+      ],
+      "correct": 3,
+      "explanation": "Its unit is the stokes (cm²/s).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Flow that begins only after a yield value is exceeded is called:",
+      "options": [
+        "Plastic flow",
+        "Newtonian flow",
+        "Pseudoplastic flow",
+        "Dilatant flow"
+      ],
+      "correct": 0,
+      "explanation": "Bingham bodies such as flocculated suspensions have a yield value.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Solutions of methylcellulose and tragacanth usually show:",
+      "options": [
+        "Dilatant flow",
+        "Pseudoplastic flow",
+        "Plastic flow",
+        "Newtonian flow"
+      ],
+      "correct": 1,
+      "explanation": "Polymer chains uncoil and align with shear, so viscosity falls.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "In the power equation F^N = η′G, dilatant systems have:",
+      "options": [
+        "N greater than 1",
+        "N equal to 1",
+        "N less than 1",
+        "N equal to 0"
+      ],
+      "correct": 2,
+      "explanation": "N > 1 is pseudoplastic, N = 1 Newtonian, N < 1 dilatant.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Thixotropy is best described as:",
+      "options": [
+        "Increase in viscosity with temperature",
+        "Permanent loss of structure on shearing",
+        "Instant recovery of viscosity on removing stress",
+        "Slow isothermal recovery of consistency after shearing"
+      ],
+      "correct": 3,
+      "explanation": "The structure broken by shear rebuilds slowly on standing; a hysteresis loop forms.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which viscometer is suitable for non-Newtonian systems?",
+      "options": [
+        "Cone-and-plate viscometer",
+        "Ostwald viscometer",
+        "Hoeppler falling-sphere viscometer",
+        "Ubbelohde viscometer"
+      ],
+      "correct": 0,
+      "explanation": "Rotational (multipoint) instruments vary the shear rate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "In an Ostwald viscometer, η1/η2 equals:",
+      "options": [
+        "ρ2t2/ρ1t1",
+        "ρ1t1/ρ2t2",
+        "t1/t2 only",
+        "ρ1/ρ2 only"
+      ],
+      "correct": 1,
+      "explanation": "Flow time and density both appear because flow is driven by the liquid's weight.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Viscosity of a liquid when temperature increases:",
+      "options": [
+        "Increases",
+        "Remains constant",
+        "Decreases",
+        "First increases then decreases"
+      ],
+      "correct": 2,
+      "explanation": "η = A e^(Ev/RT); liquids thin on heating (gases thicken).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "In the Heckel equation, a low mean yield pressure (Py) indicates a material that deforms mainly by:",
+      "options": [
+        "Brittle fracture",
+        "Elastic recovery",
+        "Melting",
+        "Plastic deformation"
+      ],
+      "correct": 3,
+      "explanation": "Py = 1/K; a steep slope and low Py mean easy plastic densification.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "A flocculated suspension shows:",
+      "options": [
+        "Rapid settling with a loose, easily redispersed sediment",
+        "Slow settling with a hard cake",
+        "A cloudy supernatant for a long time",
+        "A very high zeta potential"
+      ],
+      "correct": 0,
+      "explanation": "Flocs settle fast but do not cake.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "According to Stokes's law, the rate of sedimentation is directly proportional to:",
+      "options": [
+        "The viscosity of the medium",
+        "The square of particle diameter",
+        "The square root of particle diameter",
+        "The reciprocal of density difference"
+      ],
+      "correct": 1,
+      "explanation": "v = d²(ρs − ρ0)g/18η.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Sedimentation volume F is the ratio of:",
+      "options": [
+        "Original volume to sediment volume",
+        "Flocculated to deflocculated sediment volume",
+        "Ultimate sediment volume to original suspension volume",
+        "Supernatant volume to sediment volume"
+      ],
+      "correct": 2,
+      "explanation": "F = Vu/V0; F/F∞ is the degree of flocculation.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "If F = 0.6 and F∞ = 0.1, the degree of flocculation β is:",
+      "options": [
+        "0.06",
+        "0.5",
+        "0.7",
+        "6"
+      ],
+      "correct": 3,
+      "explanation": "β = F/F∞ = 0.6/0.1 = 6.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "An emulsion that conducts electricity and turns cobalt chloride paper pink is:",
+      "options": [
+        "Oil-in-water",
+        "Water-in-oil",
+        "Oil-in-oil",
+        "Water-in-oil-in-oil"
+      ],
+      "correct": 0,
+      "explanation": "Water is the continuous phase in an o/w emulsion.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Bancroft's rule states that the continuous phase of an emulsion is the phase in which the emulsifier is:",
+      "options": [
+        "Less soluble",
+        "More soluble",
+        "Insoluble",
+        "Precipitated"
+      ],
+      "correct": 1,
+      "explanation": "A water-soluble emulsifier gives o/w; an oil-soluble one gives w/o.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Acacia stabilises emulsions mainly by forming a:",
+      "options": [
+        "Monomolecular film",
+        "Solid particle film",
+        "Multimolecular film",
+        "Gas film"
+      ],
+      "correct": 2,
+      "explanation": "Hydrophilic colloids form strong multilayer films around droplets.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Which instability of emulsions is irreversible?",
+      "options": [
+        "Creaming",
+        "Flocculation",
+        "Sedimentation of droplets",
+        "Cracking (coalescence)"
+      ],
+      "correct": 3,
+      "explanation": "Once the film ruptures, droplets fuse and phases separate; shaking cannot restore them.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Surfactants with HLB in the range 3–6 are mainly used as:",
+      "options": [
+        "w/o emulsifying agents",
+        "o/w emulsifying agents",
+        "Solubilising agents",
+        "Detergents"
+      ],
+      "correct": 0,
+      "explanation": "o/w emulsifiers are 8–18, solubilisers 15–18.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Microemulsions differ from macroemulsions in being:",
+      "options": [
+        "Milky and unstable",
+        "Thermodynamically stable and transparent",
+        "Made without surfactant",
+        "Of droplet size above 10 µm"
+      ],
+      "correct": 1,
+      "explanation": "Droplets of about 10–100 nm form spontaneously with surfactant and cosurfactant.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Martin's diameter is the length of the line that:",
+      "options": [
+        "Joins two parallel tangents",
+        "Equals the diameter of a sphere of equal volume",
+        "Divides the particle image into two equal areas",
+        "Equals the sieve aperture"
+      ],
+      "correct": 2,
+      "explanation": "Feret's diameter is the distance between two parallel tangents.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The volume–surface mean diameter (dvs) is given by:",
+      "options": [
+        "Σnd/Σn",
+        "Σnd⁴/Σnd³",
+        "Σnd²/Σnd",
+        "Σnd³/Σnd²"
+      ],
+      "correct": 3,
+      "explanation": "dvs relates directly to specific surface.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "For spherical particles, specific surface per gram (Sw) equals:",
+      "options": [
+        "6/(ρd)",
+        "6ρ/d",
+        "πd²/ρ",
+        "d/6ρ"
+      ],
+      "correct": 0,
+      "explanation": "Sw = 6/(ρdvs) because αs/αv = 6 for spheres.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The approximate size range suitable for optical microscopy is:",
+      "options": [
+        "0.001–0.01 µm",
+        "0.2–100 µm",
+        "1–10 mm",
+        "Above 1 mm only"
+      ],
+      "correct": 1,
+      "explanation": "Below about 0.2 µm light microscopes cannot resolve particles.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The Andreasen pipette is used in which method of particle size analysis?",
+      "options": [
+        "Sieving",
+        "Microscopy",
+        "Sedimentation",
+        "Gas adsorption"
+      ],
+      "correct": 2,
+      "explanation": "Samples are withdrawn from a fixed depth at set times (Stokes's law).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The BET equation is used to determine:",
+      "options": [
+        "Particle size by sieving",
+        "True density",
+        "Angle of repose",
+        "Surface area by gas adsorption"
+      ],
+      "correct": 3,
+      "explanation": "Monolayer volume of nitrogen gives the total surface area.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "True density of a powder is commonly measured with a:",
+      "options": [
+        "Helium pycnometer",
+        "Graduated cylinder",
+        "Mercury displacement only",
+        "Tap density tester"
+      ],
+      "correct": 0,
+      "explanation": "Helium penetrates even fine pores, so only the solid volume is measured.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The theoretical porosity of uniform spheres in closest (rhombohedral) packing is about:",
+      "options": [
+        "48%",
+        "26%",
+        "74%",
+        "10%"
+      ],
+      "correct": 1,
+      "explanation": "Open cubic packing gives about 48%.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "A powder has bulk density 0.50 g/ml and tapped density 0.60 g/ml. Its Hausner ratio is:",
+      "options": [
+        "0.83",
+        "16.7",
+        "1.20",
+        "1.10"
+      ],
+      "correct": 2,
+      "explanation": "Hausner ratio = 0.60/0.50 = 1.20 (Carr's index 16.7%).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A powder cone 3 cm high with a base radius of 3 cm has an angle of repose of:",
+      "options": [
+        "30°",
+        "60°",
+        "90°",
+        "45°"
+      ],
+      "correct": 3,
+      "explanation": "tan θ = h/r = 1, so θ = 45° (passable flow).",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The half-life of a first-order reaction is:",
+      "options": [
+        "0.693/k",
+        "A0/2k",
+        "1/(ka)",
+        "0.105/k"
+      ],
+      "correct": 0,
+      "explanation": "It is independent of initial concentration; 0.105/k is t90.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The units of a zero-order rate constant are:",
+      "options": [
+        "Per unit time",
+        "Concentration per unit time",
+        "Per concentration per unit time",
+        "No units"
+      ],
+      "correct": 1,
+      "explanation": "From A = A0 − k0t, k0 has units of concentration/time.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "A drug suspension degrading by apparent zero-order kinetics has k0 equal to:",
+      "options": [
+        "k1 / solubility",
+        "k1 × total drug content",
+        "k1 × solubility of the drug",
+        "0.693/k1"
+      ],
+      "correct": 2,
+      "explanation": "Only dissolved drug degrades, and it stays at saturation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "For a second-order reaction with equal initial concentrations a, the half-life is:",
+      "options": [
+        "0.693/k",
+        "a/2k",
+        "ka",
+        "1/(ka)"
+      ],
+      "correct": 3,
+      "explanation": "Half-life is inversely proportional to the initial concentration.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "A plot of log concentration against time is linear for a reaction of:",
+      "options": [
+        "First order",
+        "Zero order",
+        "Second order",
+        "Third order"
+      ],
+      "correct": 0,
+      "explanation": "Zero order gives a linear A vs t plot; second order gives 1/(a − x) vs t.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "In accelerated stability testing, the Arrhenius plot is drawn between:",
+      "options": [
+        "k and T",
+        "log k and 1/T",
+        "log k and T",
+        "1/k and log T"
+      ],
+      "correct": 1,
+      "explanation": "log k = log A − Ea/(2.303RT), so log k vs 1/T is a straight line.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Catalysis whose rate increases with buffer concentration at constant pH is called:",
+      "options": [
+        "Specific acid–base catalysis",
+        "Enzyme catalysis",
+        "General acid–base catalysis",
+        "Photocatalysis"
+      ],
+      "correct": 2,
+      "explanation": "In specific catalysis only H⁺ and OH⁻ matter, so buffer concentration has no effect.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Which of the following is an oil-soluble antioxidant?",
+      "options": [
+        "Sodium metabisulfite",
+        "Sodium bisulfite",
+        "Disodium edetate",
+        "Butylated hydroxytoluene"
+      ],
+      "correct": 3,
+      "explanation": "BHT is oil soluble; bisulfites are water soluble; edetate is a chelator.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "For a reaction between ions of the same sign, increasing the ionic strength:",
+      "options": [
+        "Increases the rate",
+        "Decreases the rate",
+        "Has no effect",
+        "Stops the reaction"
+      ],
+      "correct": 0,
+      "explanation": "log k = log k0 + 1.02ZAZB√µ; ZAZB is positive.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The standard ICH accelerated storage condition is:",
+      "options": [
+        "25 °C ± 2 °C / 60% RH ± 5% RH",
+        "40 °C ± 2 °C / 75% RH ± 5% RH",
+        "30 °C ± 2 °C / 65% RH ± 5% RH",
+        "5 °C ± 3 °C"
+      ],
+      "correct": 1,
+      "explanation": "Accelerated studies run for at least 6 months at 40 °C/75% RH.",
+      "probability": "medium"
+    }
+  ]
+}

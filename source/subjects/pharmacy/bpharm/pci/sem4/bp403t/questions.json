@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify colloids based on the interaction between the dispersed phase and the dispersion medium. Give a comparative account of the properties of lyophilic, lyophobic and association colloids with examples.",
+      "answer": "1. Dispersed systems by size: molecular (<1 nm), colloidal (1 nm–0.5 µm), coarse (>0.5 µm); colloids pass filter paper but not semipermeable membranes.\n2. Lyophilic: strong affinity for medium, solvated, form spontaneously; gelatin, acacia, tragacanth, methylcellulose, albumin (rubber in benzene for non-aqueous).\n3. Lyophobic: little affinity; need dispersion (colloid mill, Bredig's arc, ultrasonics, peptization) or condensation (change of solvent, chemical reaction) methods; gold, silver, sulfur, As2S3, AgI.\n4. Association colloids: surfactant monomers form micelles above the CMC; orientation reversed in oil; solubilise drugs.\n5. Comparison table: formation (spontaneous / special methods / above CMC); solvation (high / little / heads hydrated); viscosity (raised / near medium / rises at high concentration); visibility in ultramicroscope (poor / bright points / poor); effect of electrolytes (stable to small amounts, salted out by large / coagulated by small amounts, Schulze–Hardy / CMC lowered); reversibility (reversible / irreversible / reversible); main stabilising factor (solvation / charge / hydration and charge).\n6. Purification of lyophobic sols: dialysis, electrodialysis, ultrafiltration.\n7. Applications: plasma expanders (dextran), suspending agents, colloidal silver, micellar solubilisation of vitamins."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the electrical properties of colloids. Explain the electrical double layer, the difference between Nernst and zeta potential, and the electrokinetic phenomena. How does zeta potential relate to stability?",
+      "answer": "1. Origin of charge: ionisation of surface groups (proteins, charge zero at isoelectric point), preferential adsorption of ions (AgI sol negative with excess KI, positive with excess AgNO3), friction in non-aqueous media.\n2. Double layer diagram: charged surface, tightly bound (Stern) layer of counter-ions, diffuse layer in which counter-ions thin out into the electrically neutral bulk.\n3. Nernst potential: from the actual surface to the bulk. Zeta potential: from the plane of shear (outer limit of the liquid moving with the particle) to the bulk.\n4. Electrophoresis: particles move in a field; mobility gives ζ = ηv/(εE) (water 20 °C: ζ in volts ≈ 141 × v/E in cm² V⁻¹ s⁻¹).\n5. Electro-osmosis: liquid moves through a fixed plug. Sedimentation potential (Dorn effect): settling particles create a potential. Streaming potential: liquid forced through a bed creates a potential.\n6. Stability: high ζ (roughly >30 mV either sign) gives repulsion and a stable sol; electrolytes compress the double layer and lower ζ, causing coagulation (Schulze–Hardy rule).\n7. Donnan membrane equilibrium: unequal distribution of small ions across a membrane when a non-diffusible charged colloid is on one side.\n8. Applications: control of flocculation in suspensions, stability of emulsions and colloidal drug carriers."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the optical and kinetic properties of colloids. Explain how molecular weight of a polymer can be found from light scattering and osmotic pressure.",
+      "answer": "1. Faraday–Tyndall effect: scattered light shows the path of a beam as a bright cone; true solutions show little.\n2. Ultramicroscope: dark-field, side illumination; particles seen as bright points, counted and their Brownian motion followed; shape not seen.\n3. Electron microscope: resolves to about 1 nm; gives size, shape and structure.\n4. Light scattering: turbidity τ; Hc/τ = 1/M + 2Bc; plot Hc/τ vs c, intercept = 1/M; also used for micelle size.\n5. Brownian motion: random zig-zag movement from bombardment by medium molecules; reduces settling.\n6. Diffusion: Fick's law dq/dt = −DS(dc/dx); Stokes–Einstein D = kT/(6πηr); gives particle radius.\n7. Osmotic pressure: π = cRT/M; for polymers π/c = RT(1/M + Bc); plot π/c vs c, intercept RT/M gives number-average M.\n8. Sedimentation: Stokes's law v = 2r²(ρ − ρ0)g/9η; ultracentrifuge for colloids.\n9. Viscosity: Einstein η = η0(1 + 2.5φ); intrinsic viscosity and Mark–Houwink equation [η] = KMᵃ give molecular weight."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a protective colloid? Define gold number and explain its significance.",
+      "answer": "1. A lyophilic colloid that, when added to a lyophobic sol, makes it less sensitive to coagulation by electrolytes; it is adsorbed on the lyophobic particles and forms a solvated protective layer.\n2. Gold number: minimum weight in mg of the protective colloid that prevents the colour change (red to violet) of 10 ml of a standard gold sol on adding 1 ml of 10% NaCl solution.\n3. Smaller gold number = greater protective power: gelatin about 0.005–0.01, acacia about 0.15–0.25, starch about 25.\n4. Uses: gelatin in colloidal silver preparations; stabilising suspensions.\n5. Sensitization: very small amounts of a lyophilic colloid may instead make the sol more sensitive."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain coacervation. Distinguish simple and complex coacervation and give its pharmaceutical use.",
+      "answer": "1. Coacervation: separation of a lyophilic colloid dispersion into two liquid phases, a colloid-rich coacervate and a colloid-poor phase (not a solid precipitate).\n2. Simple coacervation: caused by a dehydrating agent (alcohol, sodium sulfate) or temperature change acting on one colloid, e.g. gelatin.\n3. Complex coacervation: two oppositely charged colloids neutralise each other, e.g. gelatin (positive below its isoelectric point) with acacia (negative).\n4. Use: microencapsulation; the coacervate deposits around dispersed drug droplets or particles and is hardened (formaldehyde, cooling), giving taste masking, protection and controlled release."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the effect of electrolytes on lyophobic and lyophilic sols. State the Schulze–Hardy rule.",
+      "answer": "1. Lyophobic sols are stabilised by charge; electrolyte counter-ions compress the double layer and lower ζ, so particles coagulate.\n2. Schulze–Hardy rule: coagulating power rises steeply with the valency of the counter-ion (roughly with its sixth power, about 1 : 64 : 729). For negative As2S3 sol, Al³⁺ > Ba²⁺ > Na⁺; for positive Fe(OH)3 sol, PO4³⁻ > SO4²⁻ > Cl⁻.\n3. Lyophilic sols are stabilised by solvation; small amounts of electrolyte have little effect; large amounts salt them out by desolvation.\n4. Hofmeister (lyotropic) series ranks salting-out power: citrate > tartrate > sulfate > acetate > chloride > nitrate > bromide > iodide.\n5. Alcohol or acetone (dehydrating) plus electrolyte (removing charge) precipitates lyophilic colloids most completely."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is peptization? Explain with examples.",
+      "answer": "1. Conversion of a freshly formed precipitate into a colloidal sol by adding a small amount of an electrolyte (peptizing agent).\n2. Mechanism: the precipitate particles adsorb one ion (common ion) of the electrolyte, acquire a like charge and repel each other into a dispersed sol.\n3. Examples: fresh ferric hydroxide + a little ferric chloride (adsorbs Fe³⁺, positive sol); silver chloride + a little silver nitrate.\n4. It is the reverse of coagulation; washing a precipitate with water can also peptize it by removing coagulating ions.\n5. Used as a dispersion method for preparing lyophobic sols."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain Brownian motion and diffusion of colloidal particles. Write the Stokes–Einstein equation.",
+      "answer": "1. Brownian motion: rapid random zig-zag motion of colloidal particles caused by unequal bombardment by molecules of the medium; seen in the ultramicroscope; weaker for larger particles (hardly seen above about 5 µm).\n2. It opposes sedimentation and helps keep sols stable.\n3. Diffusion: spontaneous movement from higher to lower concentration; Fick's first law dq/dt = −DS(dc/dx).\n4. Stokes–Einstein: D = kT/(6πηr) = RT/(6πηrN); D falls as particle radius and medium viscosity rise.\n5. Uses: finding particle radius and molecular weight of proteins and polymers."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the Donnan membrane equilibrium and its significance.",
+      "answer": "1. When a non-diffusible charged colloid (Na⁺R⁻) is separated by a membrane from a diffusible electrolyte (NaCl), small ions distribute unequally at equilibrium.\n2. The colloid side has more Na⁺ and less Cl⁻ than the other side.\n3. Equation: [Cl⁻]o = [Cl⁻]i √(1 + [R⁻]i/[Cl⁻]i), where i = colloid side.\n4. Significance: explains unequal distribution of ions across cell membranes, affects absorption of drugs bound to charged polymers, and must be corrected for in osmotic pressure measurements of proteins."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define the Tyndall effect.",
+      "answer": "Scattering of light by colloidal particles, so that a beam of light passing through a colloid is seen as a bright cone when viewed from the side; true solutions show almost none."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is zeta potential?",
+      "answer": "The difference in potential between the plane of shear (the surface of the liquid layer that moves with a particle) and the bulk of the solution; it controls the stability of colloids and suspensions."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify fluids based on their flow behaviour. Explain Newtonian and the different types of non-Newtonian flow with rheograms and examples.",
+      "answer": "1. Rheology: study of flow and deformation; shear stress F = force/area, rate of shear G = dv/dr (s⁻¹).\n2. Newtonian: F = ηG; rheogram straight through origin; η constant (poise, 1 cP = 1 mPa s); water, glycerin, simple syrups, dilute solutions.\n3. Plastic (Bingham): straight line cutting stress axis at yield value f; U = (F − f)/G; flocculated network must break first; flocculated suspensions, ointments, pastes.\n4. Pseudoplastic: curve through origin, viscosity falls with shear; polymer chains uncoil and align and release solvent; F^N = η′G with N > 1; tragacanth, sodium alginate, methylcellulose, sodium CMC.\n5. Dilatant: viscosity rises with shear, N < 1; ≥50% deflocculated particles change from close to open packing and liquid cannot fill voids; starch in water; can jam mills during wet granulation.\n6. Draw all four rheograms on one G vs F graph.\n7. Non-Newtonian systems need multipoint (rotational) viscometers.\n8. Pharmaceutical relevance: pouring, spreading, suspension stability, syringeability, processing."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define thixotropy. Explain its mechanism, measurement and applications in pharmaceutical formulations. Add a note on negative thixotropy and rheopexy.",
+      "answer": "1. Definition: isothermal, comparatively slow recovery, on standing, of a consistency lost through shearing.\n2. Seen in plastic and pseudoplastic systems: card-house structure of flocculated particles or entangled polymer chains breaks on shearing and slowly rebuilds by Brownian motion.\n3. Rheogram: up-curve and down-curve do not coincide; down-curve lies to the left; hysteresis loop.\n4. Measurement: area of hysteresis loop; thixotropic coefficient of breakdown B (fall in plastic viscosity per unit increase in shear rate, from loops to two top shear rates); M, fall of viscosity with time at constant shear.\n5. Applications: suspensions stay structured at rest (no settling or caking) but pour after shaking; emulsions resist creaming; depot intramuscular suspensions (concentrated procaine penicillin G) thin through the needle and set as a depot; ointments and creams spread yet stay in place.\n6. Too much thixotropy is undesirable; thixotropy may change on ageing, so it is a stability test.\n7. Negative thixotropy (antithixotropy): consistency rises on shearing, down-curve to the right (magnesia magma).\n8. Rheopexy: gel forms faster with gentle shaking or rolling (some bentonite dispersions)."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the principle, construction and working of capillary, falling-sphere and rotational viscometers. Which are suitable for non-Newtonian systems and why?",
+      "answer": "1. Single-point instruments work at one shear rate and suit only Newtonian liquids; multipoint instruments give full rheograms.\n2. Ostwald (capillary): time for fixed volume to flow between two marks under gravity; Poiseuille η = πr⁴tΔP/(8lV); relative form η1/η2 = ρ1t1/ρ2t2. Example: water 100 s, syrup (ρ 1.10) 150 s → η = 0.890 × 1.10 × 150/(0.997 × 100) = 1.47 cP.\n3. Hoeppler (falling sphere): ball falls in a tilted tube; η = t(Sb − Sf)B; based on Stokes's law; small sample.\n4. Cup-and-bob: sample in gap between cup and bob; Couette type (cup rotates, MacMichael) and Searle type (bob rotates, Stormer: η = Kv w/v); drawback: non-uniform shear across the gap, plug flow.\n5. Cone-and-plate (Ferranti–Shirley): sample between flat plate and shallow cone; uniform shear rate; small sample; η = CT/v.\n6. Brookfield spindle viscometer: torque on rotating spindle converted to viscosity by spindle/speed factor; helipath stand for stiff semisolids.\n7. Rotational instruments vary the shear rate and so suit non-Newtonian systems; capillary and falling-sphere do not.\n8. Precautions: constant temperature, clean instruments, calibrate with a standard liquid."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "State Newton's law of flow. Define viscosity, kinematic viscosity and fluidity with their units.",
+      "answer": "1. Newton's law: rate of shear is proportional to shearing stress, F′/A = η dv/dr (F = ηG).\n2. Viscosity (η): resistance of a liquid to flow; unit poise = dyne s cm⁻²; 1 P = 100 cP = 0.1 Pa s; water ≈ 1 cP at 20 °C.\n3. Kinematic viscosity = η/ρ; unit stokes (cm²/s), centistoke = 0.01 S; measured by capillary viscometers.\n4. Fluidity φ = 1/η.\n5. Relative viscosity η/η0, specific viscosity ηrel − 1, intrinsic viscosity [η] = lim ηsp/c."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the effect of temperature on viscosity of liquids and gases.",
+      "answer": "1. Liquids: viscosity falls as temperature rises because molecules gain energy to overcome attractions between layers.\n2. Arrhenius-type equation η = A e^(Ev/RT); log η vs 1/T is linear; Ev = activation energy for flow.\n3. Gases: viscosity rises with temperature because faster molecules transfer more momentum between layers.\n4. Practical points: report viscosity with temperature; use thermostatic baths (about ±0.1 °C); products may thin in hot climates."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain plastic flow. Define yield value and plastic viscosity.",
+      "answer": "1. Plastic (Bingham) bodies do not flow until a minimum stress, the yield value f, is applied; below it they behave as elastic solids.\n2. Rheogram: straight line that cuts the stress axis at f, not through the origin.\n3. Plastic viscosity U = (F − f)/G; mobility = 1/U (slope of the straight part).\n4. Cause: flocculated particles form a continuous network that must be broken.\n5. Examples: concentrated flocculated suspensions, ointments, pastes; yield value helps keep particles suspended and ointments in place."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is dilatant flow? Explain its mechanism and its importance in processing.",
+      "answer": "1. Shear thickening: apparent viscosity rises as shear rate rises; rheogram curves toward stress axis; power law F^N = η′G with N < 1.\n2. Occurs in concentrated (about 50% or more) deflocculated suspensions of small particles, e.g. starch in water.\n3. At rest particles are closely packed with minimum voids filled by the liquid; on shearing they move to open packing, voids enlarge, liquid is insufficient to lubricate, so resistance rises sharply; the material may look dry and expand.\n4. Importance: dilatant masses can jam mills, granulators and mixers during wet granulation, so equipment and moisture content must be chosen carefully."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain elastic and plastic deformation of solids. Define stress, strain and elastic modulus.",
+      "answer": "1. Stress = force per unit area (tensile, compressive or shear). Strain = change in dimension/original dimension (no unit).\n2. Elastic modulus (Young's modulus) E = stress/strain in the elastic region (Hooke's law); high E = stiff material.\n3. Elastic deformation: reversible, below yield point; stored energy released on decompression and can cause capping and lamination of tablets.\n4. Plastic deformation: permanent, above yield point; particles flow and form new bonds; gives strong tablets (microcrystalline cellulose, sodium chloride).\n5. Brittle fracture: particles break into fragments giving new bonding surfaces (dicalcium phosphate, lactose).\n6. Draw stress–strain curve: straight elastic region, yield point, plastic region, fracture."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the Heckel equation and explain how Heckel plots are used to study compression of powders.",
+      "answer": "1. ln[1/(1 − D)] = KP + A, where D = relative density of the compact at pressure P, (1 − D) = porosity, K = slope, A = intercept.\n2. Treats reduction of voids under pressure as a first-order process.\n3. Mean yield pressure Py = 1/K.\n4. Steep slope, low Py: material densifies by plastic deformation (soft, ductile). Gentle slope, high Py: brittle fracture materials.\n5. Intercept A reflects densification by particle rearrangement at low pressure.\n6. Uses: selecting excipients, comparing batches, predicting tableting behaviour."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two single-point and two multipoint viscometers.",
+      "answer": "Single point: Ostwald (capillary) and Hoeppler (falling sphere). Multipoint: cup-and-bob (Stormer) and cone-and-plate (Ferranti–Shirley), also the Brookfield viscometer."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a hysteresis loop?",
+      "answer": "The area enclosed between the up-curve and the down-curve of a rheogram of a thixotropic material; its area is a measure of the structural breakdown caused by shearing."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Differentiate between flocculated and deflocculated suspensions. Discuss the approaches used in the formulation of suspensions, with the role of controlled flocculation and structured vehicles.",
+      "answer": "1. Suspension: insoluble solid dispersed in liquid; ideal properties: slow settling, easy redispersion, no caking, pourable, uniform dose.\n2. Interfacial properties: ΔG = γSL ΔA; wetting agents lower γSL; zeta potential and double layer.\n3. Comparison table: separate particles vs flocs; slow vs fast settling; compact cake vs loose high-volume sediment; difficult vs easy redispersion; cloudy vs clear supernatant; high vs low zeta potential.\n4. DLVO picture: primary minimum (close, irreversible contact, caking) and secondary minimum (loose flocs).\n5. Structured vehicle: deflocculated particles in viscous pseudoplastic/plastic, thixotropic vehicle (methylcellulose, CMC, tragacanth, bentonite); may still cake slowly.\n6. Controlled flocculation: electrolytes (AlCl3 with negative sulfamerazine; KH2PO4 with positive bismuth subnitrate), surfactants, polymers bridging particles.\n7. Draw zeta potential vs electrolyte concentration: caking zone, no-caking flocculated zone, caking again after charge reversal.\n8. Flocculation in a structured vehicle combines both and is usually best.\n9. Evaluation: sedimentation volume F, degree of flocculation β, redispersibility, particle size, zeta potential, rheology."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the theories of emulsification. Explain the role of different types of emulsifying agents.",
+      "answer": "1. Emulsion: two immiscible liquids, one dispersed as globules, stabilised by an emulsifier; o/w, w/o, multiple.\n2. Interfacial tension theory: emulsifiers lower γ, so W = γΔA for dispersion falls and coalescence tendency falls; does not fully explain stability.\n3. Oriented wedge theory: emulsifier orients with bulkier part in the phase it prefers; sodium soaps give o/w, calcium/magnesium soaps give w/o; Bancroft's rule: the phase in which the emulsifier is more soluble becomes continuous.\n4. Monomolecular adsorption: surfactants form a monolayer film, lower γ and give charge; mixed hydrophilic + lipophilic surfactants (polysorbate 80 + sorbitan monooleate) form a stronger complex film.\n5. Multimolecular adsorption: hydrophilic colloids (acacia, gelatin) form thick, strong multilayer films and raise viscosity; o/w.\n6. Solid particle adsorption: finely divided solids at the interface; wetted more by water (bentonite, Mg(OH)2) → o/w; wetted more by oil (carbon black, talc) → w/o.\n7. Diagrams of the three film types.\n8. Classes of emulsifiers: synthetic surfactants (anionic, cationic, nonionic), natural (acacia, tragacanth, lecithin, wool fat, cholesterol), finely divided solids, auxiliary (cetyl alcohol, glyceryl monostearate)."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the physical instability of emulsions. Add notes on preservation of emulsions and emulsion formulation by the HLB method with an example.",
+      "answer": "1. Creaming (upward) or sedimentation: due to density difference, reversible on shaking; reduce by smaller droplets, higher viscosity of continuous phase, smaller density difference (Stokes's law).\n2. Flocculation: loose clumps of droplets with intact films; speeds creaming.\n3. Coalescence and breaking (cracking): film ruptures, irreversible; causes: opposite-type emulsifier, electrolytes, alcohol, heat, freezing, microbes.\n4. Phase inversion: o/w ↔ w/o; phase volume above about 74% for uniform spheres, divalent ions with sodium soaps, temperature near the phase inversion temperature of nonionics.\n5. Ostwald ripening: small droplets dissolve into large ones.\n6. Preservation: preservative in aqueous phase; loss by partition into oil and binding by nonionic surfactants (parabens + polysorbates); parabens, benzoic acid, sorbic acid, chlorocresol; antioxidants BHA, BHT, propyl gallate, tocopherol; chelators EDTA, citric acid; light and heat protection.\n7. HLB: w/o 3–6, o/w 8–18; required HLB of oil phase; blend HLB = Σ fraction × HLB.\n8. Example: required HLB 12 with polysorbate 80 (15.0) and sorbitan monooleate (4.3): 15x + 4.3(1 − x) = 12 → x = 0.72; 72% : 28%.\n9. Confirm experimentally with a series of blends."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "State Stokes's law. Discuss the factors affecting the rate of sedimentation and its limitations.",
+      "answer": "1. v = d²(ρs − ρ0)g/18η.\n2. Factors: particle diameter (squared; halving d gives one quarter of v), density difference (raise vehicle density with sorbitol, glycerin, sucrose), viscosity of medium (add suspending agents).\n3. Example: d = 10 µm, ρs 1.3, water: v = (10⁻³)² × 0.3 × 981/(18 × 0.01) = 1.64 × 10⁻³ cm/s.\n4. Limitations: assumes spheres of uniform size, dilute suspension (below about 2% solids), no collisions, no Brownian motion; hindered settling in concentrated suspensions (Higuchi v′ = vεⁿ); very small particles show Brownian motion."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define sedimentation volume and degree of flocculation. How are they used to evaluate suspensions?",
+      "answer": "1. Sedimentation volume F = Vu/V0 (or Hu/H0): ultimate sediment volume over original suspension volume.\n2. F between 0 and 1; F = 1 is flocculation equilibrium (no clear supernatant); F can exceed 1 if the floc network is loose.\n3. Degree of flocculation β = F/F∞, where F∞ is the sedimentation volume of the fully deflocculated suspension.\n4. Example: F = 30/50 = 0.60, F∞ = 5/50 = 0.10, β = 6.\n5. Higher F and β indicate a well flocculated, non-caking suspension; used to compare suspending and flocculating agents and their concentrations."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the tests to identify the type of an emulsion.",
+      "answer": "1. Dilution test: o/w mixes with water, w/o with oil.\n2. Dye test: water-soluble dye (amaranth) colours the continuous phase of o/w; oil-soluble dye (Sudan III) colours the continuous phase of w/o.\n3. Conductivity: o/w conducts (bulb glows), w/o does not.\n4. Cobalt chloride paper: o/w turns blue paper pink.\n5. Fluorescence under UV: w/o fluoresces over the whole field; o/w shows spotty fluorescence."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are microemulsions? Compare them with conventional emulsions.",
+      "answer": "1. Clear, isotropic, thermodynamically stable dispersions of oil and water with surfactant plus cosurfactant (short-chain alcohol).\n2. Droplet size about 10–100 nm; form spontaneously because interfacial tension becomes extremely low.\n3. Types: o/w, w/o, bicontinuous.\n4. Comparison: milky vs clear; 0.1–10 µm vs 10–100 nm; unstable vs stable; need energy vs spontaneous; less vs more surfactant.\n5. Uses: oral delivery of poorly soluble drugs (cyclosporin), topical, transdermal and parenteral delivery."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are multiple emulsions? How are they prepared and what are their uses?",
+      "answer": "1. Emulsions in which the dispersed droplets themselves contain smaller droplets: w/o/w or o/w/o.\n2. Preparation (w/o/w): two steps; primary w/o emulsion with a lipophilic (low HLB) emulsifier, then dispersed in water containing a hydrophilic (high HLB) emulsifier.\n3. Uses: prolonged release (drug in inner phase must cross the oil layer), taste masking, protection of sensitive drugs, vaccine adjuvants.\n4. Problem: instability; inner droplets leak or merge with the outer phase."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the rheological properties of emulsions and the factors affecting their viscosity.",
+      "answer": "1. Dilute emulsions are usually Newtonian; concentrated ones pseudoplastic or plastic; creams may be thixotropic.\n2. Phase volume: viscosity rises sharply as internal phase increases toward close packing.\n3. Viscosity of continuous phase: the main factor; thickening agents raise it.\n4. Droplet size and distribution: smaller, uniform droplets give higher viscosity.\n5. Emulsifier type and amount, auxiliary emulsifiers (cetyl alcohol), and flocculation of droplets raise consistency.\n6. Importance: pourability, spreadability, slowing creaming."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define caking.",
+      "answer": "Formation of a compact, non-redispersible sediment at the bottom of a deflocculated suspension, as closely packed particles bind together (primary minimum)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Calculate the HLB of a blend of 60% polysorbate 80 (HLB 15.0) and 40% sorbitan monooleate (HLB 4.3).",
+      "answer": "HLB = 0.6 × 15.0 + 0.4 × 4.3 = 9.0 + 1.72 = 10.72 (about 10.7)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define micromeritics. Describe the methods of determining particle size with their principle, advantages and limitations.",
+      "answer": "1. Micromeritics: science of small particles; size in µm; importance in dissolution, absorption, stability, flow, uniformity, lung deposition.\n2. Equivalent sphere diameters: ds, dv, dp, dst; Feret's and Martin's diameters.\n3. Optical microscopy (about 0.2–100 µm): eyepiece micrometer calibrated with stage micrometer; count 300–500 particles; number distribution; sees shape and aggregates; slow, two dimensions, operator bias.\n4. Sieving (above about 40–50 µm): stack of standard sieves, shake fixed time, weigh fractions; weight distribution; simple, large samples; not for fines, clumping, attrition.\n5. Sedimentation (about 1–200 µm), Andreasen pipette: samples from depth h at time t; d = √[18ηh/((ρs − ρ0)gt)]; weight distribution; sedimentation balance.\n6. Coulter counter: particles in electrolyte through an orifice; resistance pulse proportional to volume; fast number distribution.\n7. Others: laser diffraction, electron microscopy, elutriation, centrifugation.\n8. Choice of method depends on size range and type of distribution needed."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain particle size distribution and the different mean diameters. Calculate dln and dvs for a sample and explain the significance of number and weight distributions.",
+      "answer": "1. Frequency curve (mode), cumulative S-curve (median); log-normal distribution: dg at 50%, σg = d84.13%/d50%.\n2. Number distribution (microscope, Coulter) vs weight distribution (sieve, sedimentation); weight distribution shifted to larger sizes; Hatch–Choate equations interconvert.\n3. Edmundson: d = [Σnd^(p+f)/Σnd^f]^(1/p).\n4. dln = Σnd/Σn; dsn = √(Σnd²/Σn); dvn = ∛(Σnd³/Σn); dsl = Σnd²/Σnd; dvs = Σnd³/Σnd²; dwm = Σnd⁴/Σnd³.\n5. Worked example: classes 5, 15, 25, 35, 45 µm with n = 40, 120, 180, 100, 60: Σn 500, Σnd 12,700, Σnd² 384,500, Σnd³ 12,977,500 → dln = 25.4 µm, dvs = 33.8 µm.\n6. Particles per gram N = 6/(πdvn³ρ).\n7. Significance: dvs relates to specific surface and dissolution; dwm to weight-based processes; choice of mean depends on the property studied."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the derived properties of powders: porosity, packing arrangement, densities, bulkiness and flow properties. Add methods of improving flow.",
+      "answer": "1. Porosity ε = (Vb − Vp)/Vb = 1 − ρbulk/ρtrue.\n2. Packing: uniform spheres from about 26% (closest, rhombohedral) to about 48% (open, cubic) porosity; real powders often higher; changes with tapping and compression.\n3. True density: helium pycnometer or liquid displacement in a specific gravity bottle. Granule density: mercury displacement. Bulk density: powder poured into a graduated cylinder. Tapped density: after tapping to constant volume.\n4. Bulkiness = 1/bulk density; rises as particle size falls; matters for capsule and container size.\n5. Flow: angle of repose tan θ = h/r; Carr's index = (ρtap − ρbulk)/ρtap × 100; Hausner ratio = ρtap/ρbulk; flowability scale (excellent 25–30°, ≤10%, 1.00–1.11).\n6. Worked example: 25 g, 40 ml poured, 33 ml tapped, true density 1.536 → ρb 0.625, ρtap 0.758, ε 59.3%, Carr 17.5% (fair), Hausner 1.21.\n7. Factors reducing flow: fine size, irregular shape, moisture, static charge.\n8. Improving flow: granulation, glidants (colloidal silica, talc, small amounts of magnesium stearate), removing fines, drying, spherical particles, vibrating hoppers."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define specific surface. Derive the expression for specific surface of spherical particles and calculate it for particles of 10 µm diameter and density 2 g/cm³.",
+      "answer": "1. Specific surface: surface per unit volume (Sv) or per unit weight (Sw).\n2. S = αs d², V = αv d³; Sv = αs/(αv dvs); Sw = Sv/ρ.\n3. For spheres αs = π, αv = π/6, ratio 6: Sw = 6/(ρdvs).\n4. Example: d = 10⁻³ cm, ρ = 2.0: Sw = 6/(2 × 10⁻³) = 3,000 cm²/g = 0.3 m²/g.\n5. Reducing size tenfold raises Sw tenfold; importance in dissolution and adsorption."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods for determining the surface area of powders.",
+      "answer": "1. Adsorption: nitrogen adsorbed at its boiling point (−196 °C); monolayer volume from the BET equation p/[y(p0 − p)] = 1/(ym b) + (b − 1)p/(ym b p0); plot vs p/p0, ym = 1/(slope + intercept); each N2 molecule covers about 16.2 Å²; measures total surface including pores.\n2. Air permeability: resistance of a packed powder bed to air flow; Kozeny–Carman Sw = (14/ρ)√[AΔPtε³/(ηLV(1 − ε)²)]; Fisher subsieve sizer, Blaine apparatus; measures external surface only.\n3. Permeability gives lower values than adsorption for porous powders."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the microscopic method of particle size analysis.",
+      "answer": "1. Range about 0.2–100 µm; gives projected diameter and number distribution.\n2. Disperse powder in a non-solvent liquid on a slide.\n3. Calibrate eyepiece micrometer with stage micrometer (divisions of 0.01 mm = 10 µm): value of one eyepiece division = (stage divisions × 10 µm)/eyepiece divisions that coincide.\n4. Measure particles along a fixed direction (Feret's or Martin's diameter); count 300–500 or more.\n5. Tabulate size classes and numbers; calculate dln = Σnd/Σn and other means.\n6. Advantages: shape and aggregates seen. Limitations: slow, two dimensions only, small sample, operator fatigue."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a log-normal distribution? Define geometric mean diameter and geometric standard deviation.",
+      "answer": "1. Many powders give a skewed frequency curve that becomes a normal bell curve when size is plotted on a logarithmic scale.\n2. On log-probability paper the cumulative plot is a straight line.\n3. Geometric mean diameter dg: size at the 50% point (median).\n4. Geometric standard deviation σg = size at 84.13% ÷ size at 50% (or 50% ÷ 15.87%).\n5. σg = 1 means a monodisperse powder; larger σg means wider spread.\n6. Number and weight log-normal distributions share the same σg and are linked by the Hatch–Choate equations."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain angle of repose. Describe its determination and interpretation.",
+      "answer": "1. Maximum angle between the surface of a pile of powder and the horizontal.\n2. Fixed funnel method: powder flows through a funnel at fixed height until the cone touches the funnel tip; measure height h and radius r.\n3. tan θ = h/r; example h = 2.4 cm, r = 4.0 cm → tan θ = 0.6, θ = 31°.\n4. Interpretation (USP scale): 25–30° excellent, 31–35° good, 36–40° fair, 41–45° passable, higher values poor.\n5. Affected by particle size, shape, moisture, glidants and lubricants."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the Andreasen pipette method for particle size determination.",
+      "answer": "1. Sedimentation method based on Stokes's law; about 1–200 µm; gives weight distribution and Stokes diameter.\n2. Apparatus: graduated cylinder with a pipette whose tip is at known depth h; a 10 ml sample is withdrawn through a side stopcock.\n3. A 1–2% suspension is shaken and allowed to settle; samples are withdrawn at intervals, evaporated and weighed.\n4. At time t, particles larger than d = √[18ηh/((ρs − ρ0)gt)] have settled below the tip.\n5. Weight in each sample as a fraction of initial concentration gives cumulative % undersize at each d."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define bulkiness.",
+      "answer": "The reciprocal of bulk density (specific bulk volume, ml/g); it increases as particle size decreases."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Carr's compressibility index.",
+      "answer": "Carr's index = (tapped density − bulk density)/tapped density × 100; values of 10% or less indicate excellent flow, higher values poorer flow."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define order of reaction. Derive the rate equations for zero-order and first-order reactions and give their half-life, shelf-life and units of rate constant. Add a note on pseudo-zero-order kinetics in suspensions.",
+      "answer": "1. Order: sum of exponents of concentration terms in the experimental rate equation; molecularity: number of molecules in an elementary step.\n2. Zero order: −dA/dt = k0 → A = A0 − k0t; plot A vs t linear; k0 in conc time⁻¹; t½ = A0/2k0; t90 = 0.1A0/k0.\n3. First order: −dA/dt = kA → ln A = ln A0 − kt → log A = log A0 − kt/2.303; plot log A vs t, slope −k/2.303; k in time⁻¹; t½ = 0.693/k; t90 = 0.105/k; independent of A0.\n4. Example: 100 → 80 mg/ml in 60 days: k = (2.303/60) log 1.25 = 3.72 × 10⁻³ day⁻¹; t½ 186 days; t90 28 days.\n5. Pseudo-zero order: in suspensions only dissolved drug degrades and stays at solubility Cs: rate = k1Cs = k0.\n6. Example: 5 g/100 ml suspension, Cs 0.5 g/100 ml, k1 2 × 10⁻⁶ s⁻¹ → k0 = 1 × 10⁻⁶; t90 = 0.5/10⁻⁶ = 5 × 10⁵ s ≈ 5.8 days (vs about 14.6 h in solution).\n7. Pseudo-first order: hydrolysis with water in excess."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain accelerated stability testing. Describe how the Arrhenius equation is used to predict shelf life, with a numerical example. Give the limitations of accelerated stability studies.",
+      "answer": "1. Aim: predict shelf life quickly by storing at elevated temperatures, humidity and light.\n2. Arrhenius: k = A e^(−Ea/RT); log k = log A − Ea/(2.303RT); log k2/k1 = Ea(T2 − T1)/(2.303RT1T2).\n3. Procedure: store at e.g. 40, 50, 60, 70 °C; assay at intervals; find order and k at each temperature; plot log k vs 1/T; extrapolate to 25 °C; t90 = 0.105/k.\n4. Example: k60 = 0.020, k70 = 0.050 day⁻¹ → log 2.5 = 0.398; Ea ≈ 20.8 kcal/mol; log k25 = −1.699 − 1.603 = −3.302, k25 = 5.0 × 10⁻⁴ day⁻¹; t90 = 210 days.\n5. Q10 method: t90(T2) = t90(T1)/Q10^(ΔT/10); Q10 about 2–4.\n6. Free and Blythe method: log (time for fixed % loss) vs 1/T.\n7. Limitations: mechanism or order may change with temperature; not for physical instability (suspensions, emulsions, ointments), diffusion-controlled, photochemical, microbial or protein degradation; moisture changes at high temperature; must be confirmed by real-time data.\n8. ICH conditions: accelerated 40 °C/75% RH 6 months; long-term 25 °C/60% RH or 30 °C/75% RH (zone IVb, India)."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the physical and chemical factors influencing chemical degradation of pharmaceutical products. Explain specific and general acid–base catalysis.",
+      "answer": "1. Temperature: Arrhenius equation; rate rises with temperature; Q10 about 2–4.\n2. Solvent/dielectric constant: log k = log k∞ − KZAZB/ε; like-charged ions: rate falls as ε falls; opposite charges: rate rises; less water also slows hydrolysis.\n3. Ionic strength: Brønsted–Bjerrum log k = log k0 + 1.02ZAZB√µ (√µ/(1 + √µ) at higher µ); like charges faster, opposite charges slower, neutral little effect. Example: ZAZB = +1, µ = 0.01 → k/k0 = 1.26.\n4. Specific acid–base catalysis: only H⁺ and OH⁻; kobs = k0 + kH[H⁺] + kOH[OH⁻]; pH–rate profile (V or U shape) gives pH of maximum stability.\n5. General acid–base catalysis: buffer species also catalyse; at constant pH and ionic strength rate rises with buffer concentration; test by varying buffer concentration.\n6. Other factors: light, oxygen, moisture, trace metals, excipients, containers.\n7. Practical: formulate at pH of maximum stability with the lowest effective buffer concentration and a non-catalysing buffer."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Derive the rate equation for a second-order reaction with equal initial concentrations. Give its half-life and units of the rate constant.",
+      "answer": "1. −dA/dt = kA² (or k[A][B] with [A] = [B] = a − x).\n2. dx/dt = k(a − x)²; integrate: 1/(a − x) − 1/a = kt, or k = x/[at(a − x)].\n3. Plot 1/(a − x) vs t is linear with slope k.\n4. t½: put x = a/2 → t½ = 1/(ka); depends inversely on initial concentration.\n5. Units: conc⁻¹ time⁻¹ (M⁻¹ s⁻¹).\n6. Unequal concentrations: k = [2.303/(t(a − b))] log[b(a − x)/(a(b − x))].\n7. Example: saponification of ethyl acetate by NaOH; a = 0.02 M, k = 5 M⁻¹ min⁻¹ → t½ = 10 min."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods for determining the order of a reaction.",
+      "answer": "1. Substitution method: put data into the integrated equation of each order; the one giving a constant k is the order.\n2. Graphical method: plot A, log A and 1/(a − x) vs t; the straight-line plot shows zero, first or second order.\n3. Half-life method: t½ ∝ 1/a^(n−1); n = 1 + log(t½1/t½2)/log(a2/a1). Example: 40 min at 0.1 M, 20 min at 0.2 M → n = 2.\n4. Initial rate method: log(initial rate) vs log[A] has slope n."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the methods of stabilising drugs against hydrolysis.",
+      "answer": "1. Labile groups: esters (aspirin, procaine, atropine), amides (chloramphenicol), lactams (penicillins), imides (barbiturates).\n2. pH control with buffers at the pH of maximum stability.\n3. Reducing water: dry powders for reconstitution, non-aqueous or mixed solvents, moisture-proof packaging and desiccants.\n4. Suspensions or less soluble forms (apparent zero order).\n5. Complexation (caffeine with benzocaine) and micellar solubilisation shield the labile group.\n6. Refrigeration; choice of solvent dielectric constant."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is oxidation? Explain autoxidation and the methods of preventing oxidative degradation.",
+      "answer": "1. Oxidation: loss of electrons or hydrogen, or gain of oxygen; mostly autoxidation by air.\n2. Free-radical chain: initiation (light, heat, metals form R•), propagation (R• + O2 → ROO•; ROO• + RH → ROOH + R•), termination.\n3. Susceptible drugs: adrenaline, ascorbic acid, phenothiazines, morphine, vitamin A, unsaturated oils.\n4. Antioxidants: reducing agents (sodium metabisulfite, bisulfite, sulfite, ascorbic acid); chain breakers (BHA, BHT, propyl gallate, tocopherols); chelating synergists (disodium edetate, citric acid).\n5. Replace air with nitrogen; pH control (adrenaline more stable in acid); light protection; low temperature; avoid metal contamination."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is photolytic degradation? How is it prevented?",
+      "answer": "1. Degradation caused by absorption of light (UV and short visible wavelengths), which excites the molecule to decompose or form free radicals.\n2. Examples: nifedipine, riboflavin, sodium nitroprusside, chlorpromazine, ergometrine, vitamin A, furosemide.\n3. Prevention: amber glass, opaque containers and cartons, foil blisters, film coats with titanium dioxide or iron oxide, light-proof covers for infusions, antioxidants where radicals form.\n4. Photostability testing (ICH Q1B) decides whether light-resistant packaging is needed."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the effect of ionic strength and dielectric constant on the rate of reaction between ions.",
+      "answer": "1. Ionic strength µ = ½Σcz²; Brønsted–Bjerrum log k = log k0 + 1.02ZAZB√µ (water, 25 °C, dilute).\n2. Same-sign ions: rate increases with µ; opposite signs: decreases; ion–neutral: little effect.\n3. Example: ZAZB = +1, µ = 0.01: log k/k0 = 0.102, k/k0 = 1.26.\n4. Dielectric constant: log k = log k∞ − KZAZB/ε; plot log k vs 1/ε linear.\n5. Same-sign ions: lowering ε (adding alcohol, glycerin) slows reaction; opposite signs: speeds it."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define shelf life and give its expression for a first-order reaction.",
+      "answer": "Shelf life (t90) is the time for the drug content to fall to 90% of its initial (labelled) value under stated storage; for first order t90 = 0.105/k."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between order and molecularity?",
+      "answer": "Order is the sum of the exponents of concentrations in the experimentally found rate equation (may be zero or a fraction); molecularity is the number of molecules taking part in an elementary step (always a whole number)."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "code": "BP403T",
+  "title": "Physical Pharmaceutics II",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP403T Physical Pharmaceutics II and BP407P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP403T_B.Pharma-pages-20.pdf"
+  },
+  "practicalCodes": [
+    "BP407P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Colloidal dispersions",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Rheology and deformation of solids",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Coarse dispersions (suspensions and emulsions)",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Micromeritics",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Drug stability and reaction kinetics",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "particle-size-sieving",
+      "title": "Particle size and size distribution by sieving",
+      "file": "practicals/particle-size-sieving.md"
+    },
+    {
+      "id": "particle-size-microscopy",
+      "title": "Particle size and size distribution by microscopy",
+      "file": "practicals/particle-size-microscopy.md"
+    },
+    {
+      "id": "bulk-true-density-porosity",
+      "title": "Bulk density, true density and porosity",
+      "file": "practicals/bulk-true-density-porosity.md"
+    },
+    {
+      "id": "angle-of-repose-lubricant",
+      "title": "Angle of repose and the influence of a lubricant",
+      "file": "practicals/angle-of-repose-lubricant.md"
+    },
+    {
+      "id": "viscosity-ostwald",
+      "title": "Viscosity of a liquid by Ostwald's viscometer",
+      "file": "practicals/viscosity-ostwald.md"
+    },
+    {
+      "id": "sedimentation-volume-agents",
+      "title": "Sedimentation volume with different suspending agents",
+      "file": "practicals/sedimentation-volume-agents.md"
+    },
+    {
+      "id": "sedimentation-volume-concentration",
+      "title": "Sedimentation volume with different concentrations of one suspending agent",
+      "file": "practicals/sedimentation-volume-concentration.md"
+    },
+    {
+      "id": "viscosity-brookfield",
+      "title": "Viscosity of a semisolid by Brookfield viscometer",
+      "file": "practicals/viscosity-brookfield.md"
+    },
+    {
+      "id": "first-order-rate-constant",
+      "title": "Rate constant of a first-order reaction (acid hydrolysis of methyl acetate)",
+      "file": "practicals/first-order-rate-constant.md"
+    },
+    {
+      "id": "second-order-rate-constant",
+      "title": "Rate constant of a second-order reaction (saponification of ethyl acetate)",
+      "file": "practicals/second-order-rate-constant.md"
+    },
+    {
+      "id": "accelerated-stability",
+      "title": "Accelerated stability study and shelf-life prediction",
+      "file": "practicals/accelerated-stability.md"
+    }
+  ]
+}
