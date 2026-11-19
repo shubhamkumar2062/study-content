@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify anti-asthmatic drugs with examples. Describe the mechanism of action, uses and adverse effects of β2-adrenergic agonists and corticosteroids in asthma.",
+      "answer": "1. Asthma: chronic airway inflammation with reversible bronchoconstriction; aims are bronchodilation (relief) and anti-inflammatory control.\n2. Classification: (a) bronchodilators — β2-agonists: SABA salbutamol, terbutaline; LABA salmeterol, formoterol; methylxanthines theophylline, aminophylline, doxofylline; anticholinergics ipratropium, tiotropium; (b) leukotriene modifiers — montelukast, zafirlukast (CysLT1 block), zileuton (5-LOX inhibitor); (c) mast cell stabilisers — sodium cromoglycate, ketotifen; (d) corticosteroids — inhaled beclomethasone, budesonide, fluticasone; systemic prednisolone, hydrocortisone; (e) biologicals — omalizumab (anti-IgE), mepolizumab (anti-IL-5).\n3. β2-agonists — mechanism: β2 receptor → Gs → adenylyl cyclase → ↑cAMP → PKA → bronchial smooth muscle relaxation; also less mediator release and better mucociliary clearance.\n4. Uses: salbutamol inhaled as reliever in acute attacks and before exercise; LABA for maintenance only with ICS; also nebulised in acute severe asthma; terbutaline in premature labour (older use).\n5. Adverse effects: tremor, palpitation, tachycardia, hypokalaemia, hyperglycaemia, tolerance on regular use.\n6. Corticosteroids — mechanism: bind cytoplasmic glucocorticoid receptor → nucleus → ↓ transcription of cytokines, COX-2, adhesion molecules; ↑ lipocortin inhibits phospholipase A2; fewer eosinophils and mast cells; up-regulate β2 receptors.\n7. Uses: ICS as main controller in persistent asthma; oral/IV steroids in severe exacerbations and acute severe asthma.\n8. Adverse effects: ICS — oral candidiasis, dysphonia (use spacer, rinse mouth); systemic — Cushingoid features, osteoporosis, hyperglycaemia, adrenal suppression, growth retardation in children.\n9. Note: steroids do not relieve an acute attack immediately; they act over hours."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify drugs used in peptic ulcer. Explain the mechanism of action, uses and adverse effects of proton pump inhibitors. Add a note on H. pylori eradication therapy.",
+      "answer": "1. Peptic ulcer: mucosal break in stomach/duodenum when aggressive factors (acid, pepsin, H. pylori, NSAIDs) exceed defensive factors (mucus, bicarbonate, prostaglandins).\n2. Classification: (a) reduce acid secretion — H2 antagonists cimetidine, ranitidine, famotidine; PPIs omeprazole, esomeprazole, lansoprazole, pantoprazole, rabeprazole; P-CAB vonoprazan; anticholinergic pirenzepine; PG analogue misoprostol; (b) neutralise acid — antacids: sodium bicarbonate (systemic), Mg(OH)2, Al(OH)3, CaCO3, magaldrate; (c) ulcer protectives — sucralfate, colloidal bismuth subcitrate; (d) anti-H. pylori — amoxicillin, clarithromycin, metronidazole, tetracycline.\n3. PPI mechanism: weak-base prodrugs concentrated in acidic canaliculi of parietal cells → converted to sulfenamide → covalent, irreversible binding to cysteine of H+/K+ ATPase (final common step) → near-complete acid suppression; effect lasts till new pumps are made; give before breakfast as enteric-coated forms.\n4. Uses: GERD (drug of choice), peptic ulcer, Zollinger–Ellison syndrome, H. pylori eradication, NSAID-ulcer prevention, stress ulcer prophylaxis.\n5. Adverse effects: headache, diarrhoea; long term — B12 deficiency, hypomagnesaemia, fractures, enteric infections including C. difficile, rebound hypersecretion; omeprazole inhibits CYP2C19 → less clopidogrel activation.\n6. H. pylori: Gram-negative urease-producing bacillus; causes duodenal ulcer and recurrence.\n7. Triple therapy: PPI + clarithromycin + amoxicillin (or metronidazole) for 14 days.\n8. Quadruple therapy: PPI + bismuth + tetracycline + metronidazole when clarithromycin resistance is likely.\n9. Eradication reduces ulcer recurrence markedly."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify anti-emetic drugs. Discuss the pharmacology of ondansetron and metoclopramide. Which anti-emetic is preferred in motion sickness?",
+      "answer": "1. Vomiting centre in medulla receives input from CTZ (D2, 5-HT3, NK1; outside BBB), gut vagal afferents (5-HT3), vestibular apparatus (M1, H1) and higher centres.\n2. Classification: 5-HT3 antagonists (ondansetron, granisetron, palonosetron); D2 antagonists — prokinetic (metoclopramide, domperidone), neuroleptic (prochlorperazine, chlorpromazine, haloperidol); NK1 antagonists (aprepitant, fosaprepitant); H1 antihistamines (promethazine, cyclizine, meclizine, doxylamine); anticholinergic (hyoscine); corticosteroid (dexamethasone); cannabinoids (dronabinol, nabilone); benzodiazepine (lorazepam).\n3. Ondansetron — mechanism: blocks 5-HT3 receptors on vagal afferents in the gut and in CTZ.\n4. Uses: chemotherapy-induced (with dexamethasone ± aprepitant), radiotherapy and postoperative vomiting; weak in motion sickness.\n5. Adverse effects: headache, constipation, dizziness, QT prolongation.\n6. Metoclopramide — mechanism: D2 block in CTZ and gut + 5-HT4 agonism → ↑ ACh release in myenteric plexus → prokinetic: faster gastric emptying, ↑ LES tone.\n7. Uses: drug- and postoperative vomiting, gastroparesis, GERD (adjunct), before emergency anaesthesia, to speed absorption of drugs in migraine.\n8. Adverse effects: extrapyramidal effects (acute dystonia, especially children and young adults; tardive dyskinesia on long use), sedation, hyperprolactinaemia (galactorrhoea, gynaecomastia).\n9. Domperidone: peripheral D2 block, hardly crosses BBB, fewer EPS.\n10. Motion sickness: hyoscine (most effective, also as transdermal patch) and H1 blockers like promethazine, meclizine."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the pharmacology of theophylline.",
+      "answer": "1. Methylxanthine bronchodilator; aminophylline is the water-soluble ethylenediamine salt; doxofylline is a newer analogue.\n2. Mechanism: PDE inhibition → ↑ cAMP; adenosine receptor block; ↑ histone deacetylase (anti-inflammatory).\n3. Actions: bronchodilation, CNS and cardiac stimulation, mild diuresis, ↑ gastric secretion, ↑ diaphragm contractility.\n4. Uses: add-on in asthma and COPD; caffeine/theophylline in apnoea of prematurity.\n5. Narrow therapeutic index; monitored plasma levels; adverse effects nausea, vomiting, insomnia, tachycardia, arrhythmia, seizures at high levels.\n6. Interactions: CYP1A2 — erythromycin, ciprofloxacin, cimetidine raise levels; rifampicin, phenytoin, smoking lower them."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate expectorants and antitussives with examples. Mention the mechanism of mucolytics.",
+      "answer": "1. Expectorants increase the volume of bronchial secretion so sputum is coughed out easily: guaiphenesin, ammonium chloride, potassium iodide, vasaka.\n2. Mucolytics reduce viscosity: bromhexine (depolymerises mucopolysaccharides; ambroxol its metabolite), N-acetylcysteine and carbocisteine (free –SH breaks disulfide bonds of mucoproteins), dornase alfa (breaks DNA in pus).\n3. Antitussives suppress cough: opioids codeine, pholcodine (act on medullary cough centre); non-opioids dextromethorphan, noscapine; antihistamines diphenhydramine, chlorpheniramine; demulcents (lozenges, honey).\n4. Use: expectorant/mucolytic for productive cough; antitussive only for dry, troublesome cough.\n5. Combining an expectorant with a cough suppressant is irrational.\n6. Codeine: constipation, sedation, dependence; dextromethorphan: no analgesia, avoid with MAO inhibitors."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify laxatives (purgatives) with their mechanism of action.",
+      "answer": "1. Bulk-forming: ispaghula, methylcellulose, bran — absorb water, swell, distend colon, stimulate peristalsis; need plenty of water.\n2. Stool softeners: docusate (lowers surface tension), liquid paraffin (lubricant; lipoid pneumonia, loss of fat-soluble vitamins).\n3. Osmotic: lactulose (also hepatic encephalopathy — acid traps ammonia), MgSO4, Mg(OH)2, Na2SO4, polyethylene glycol — retain water in lumen.\n4. Stimulant: bisacodyl, senna, sodium picosulfate, castor oil — act on myenteric plexus, increase secretion.\n5. Newer: lubiprostone (Cl− channel activator), prucalopride (5-HT4 agonist), linaclotide.\n6. Contraindications: intestinal obstruction, undiagnosed abdominal pain; chronic stimulant abuse → hypokalaemia, atonic colon."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on oral rehydration solution and drugs used in diarrhoea.",
+      "answer": "1. Fluid and electrolyte replacement is the first priority in acute diarrhoea.\n2. ORS principle: Na+ and glucose absorbed together by SGLT1 in small intestine; water follows; mechanism intact even in cholera.\n3. WHO reduced-osmolarity ORS (~245 mOsm/L) lowers stool output, vomiting and need for IV fluids; zinc supplements in children.\n4. Antimotility: loperamide, diphenoxylate + atropine (μ-opioid agonists; ↓ peristalsis); avoid in dysentery with fever/blood and in young children.\n5. Antisecretory: racecadotril (enkephalinase inhibitor). Adsorbents: kaolin, pectin.\n6. Antimicrobials only for specific causes: cholera (doxycycline, azithromycin), shigellosis, amoebiasis and giardiasis (metronidazole).\n7. Probiotics: Lactobacillus, Saccharomyces boulardii for antibiotic-associated diarrhoea."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on nasal decongestants and respiratory stimulants.",
+      "answer": "1. Nasal decongestants are α-adrenergic agonists that constrict dilated nasal mucosal vessels.\n2. Topical: oxymetazoline, xylometazoline, naphazoline, phenylephrine — rapid relief; use for a few days only; prolonged use → rebound congestion (rhinitis medicamentosa); naphazoline avoided in infants.\n3. Oral: pseudoephedrine, phenylephrine — may raise BP, cause insomnia, urinary retention; avoid in hypertension and with MAO inhibitors.\n4. Respiratory stimulants (analeptics) stimulate the respiratory centre directly or via carotid chemoreceptors.\n5. Doxapram — carotid body and medulla; post-anaesthetic respiratory depression. Caffeine citrate — apnoea of prematurity. Nikethamide, lobeline — obsolete.\n6. Narrow margin between stimulation and convulsions, so ventilatory support and specific antagonists are preferred."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is sodium cromoglycate not useful in an acute asthma attack?",
+      "answer": "It only prevents mast cell degranulation; it has no bronchodilator action, so it is used for prophylaxis, not relief of an established attack."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two carminatives and one digestant.",
+      "answer": "Carminatives: peppermint oil, dill (also cardamom, ginger, simethicone as antifoaming agent). Digestant: pancreatin (or pepsin, papain)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify penicillins. Describe the mechanism of action, therapeutic uses and adverse effects of penicillin G. Add a note on β-lactamase inhibitors.",
+      "answer": "1. Classification: natural — benzylpenicillin (penicillin G), procaine and benzathine penicillin (depot); acid-resistant — penicillin V; penicillinase-resistant — methicillin, cloxacillin, dicloxacillin, flucloxacillin; extended spectrum — ampicillin, amoxicillin; antipseudomonal — piperacillin, carbenicillin, ticarcillin; with β-lactamase inhibitors — amoxicillin-clavulanate, ampicillin-sulbactam, piperacillin-tazobactam.\n2. Mechanism: bind penicillin-binding proteins (transpeptidases) → block cross-linking of peptidoglycan → weak wall → autolysins → lysis; bactericidal on growing cells; human cells lack cell wall.\n3. Uses of penicillin G: streptococcal pharyngitis and rheumatic fever prophylaxis (benzathine), pneumococcal and meningococcal infections, syphilis (drug of choice), gonorrhoea (sensitive strains), diphtheria, tetanus, gas gangrene, actinomycosis, leptospirosis.\n4. Adverse effects: hypersensitivity — rash, urticaria, fever, angioedema, anaphylaxis (treat with adrenaline); ask history; cross-allergy among penicillins.\n5. Others: Jarisch–Herxheimer reaction in syphilis, pain at injection site, seizures at very high levels, electrolyte load with large IV amounts; ampicillin rash, diarrhoea.\n6. Probenecid blocks tubular secretion and prolongs action.\n7. β-Lactamase inhibitors: clavulanic acid, sulbactam, tazobactam — β-lactam structure, weak antibacterial; irreversibly bind β-lactamase (suicide inhibitors) → protect partner penicillin; widen spectrum to β-lactamase producers (Staph, H. influenzae, Klebsiella, anaerobes)."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify aminoglycosides. Discuss their common properties, mechanism of action, adverse effects and uses.",
+      "answer": "1. Examples: streptomycin, gentamicin, tobramycin, amikacin, kanamycin, netilmicin, sisomicin, neomycin, framycetin.\n2. Common properties: polar, not absorbed orally; poor CSF and cell penetration; excreted unchanged by kidney; narrow therapeutic index; mainly aerobic Gram-negative bacilli; less active in acidic/anaerobic sites; concentration-dependent killing with post-antibiotic effect; ototoxic and nephrotoxic.\n3. Mechanism: oxygen-dependent transport into bacteria; bind 30S subunit → block initiation complex, cause misreading of mRNA → faulty proteins insert into membrane → more drug entry; break polysomes → bactericidal; β-lactams enhance entry (synergy).\n4. Ototoxicity: vestibular (streptomycin, gentamicin) or cochlear (amikacin, neomycin, kanamycin); may be permanent; worse with loop diuretics.\n5. Nephrotoxicity: proximal tubule damage, usually reversible; worse with vancomycin, amphotericin B, NSAIDs.\n6. Neuromuscular blockade: reduced ACh release; danger with NM blockers and in myasthenia; reversed by calcium.\n7. Avoid in pregnancy; monitor levels; once-daily dosing gives high peak and low trough.\n8. Uses: gentamicin/amikacin in serious Gram-negative sepsis (with β-lactam), enterococcal endocarditis with penicillin; streptomycin in TB, plague, tularaemia; amikacin in MDR-TB; neomycin orally for bowel preparation and hepatic encephalopathy, topically; tobramycin in Pseudomonas."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the general principles of antimicrobial chemotherapy. Discuss the mechanisms of drug resistance and the rationale of combining antimicrobials.",
+      "answer": "1. Definitions: antibiotic, antimicrobial agent, bactericidal vs bacteriostatic, MIC, selective toxicity.\n2. Choice of drug depends on: organism (clinical diagnosis, Gram stain, culture and sensitivity; empirical then definitive therapy); drug factors (spectrum, cidal/static, tissue penetration, kinetics, toxicity, cost); patient factors (age, pregnancy, renal/liver function, allergy, host defence, G6PD deficiency).\n3. Adequate dose and duration; time-dependent (β-lactams) vs concentration-dependent (aminoglycosides, FQs) killing; antimicrobial stewardship.\n4. Resistance types: natural and acquired; acquired by mutation or gene transfer — conjugation (R plasmids), transduction (phage), transformation (free DNA).\n5. Mechanisms: inactivating enzymes (β-lactamase, aminoglycoside-modifying enzymes, chloramphenicol acetyltransferase); altered target (PBP2a in MRSA, mutated gyrase); reduced permeability (porin loss); efflux pumps (tetracyclines, FQs); alternative pathway (sulfonamides). Cross-resistance among related drugs.\n6. Prevention: rational use, adequate dose and duration, combinations where needed, infection control.\n7. Combination — reasons: prevent resistance (TB, HIV), synergism (cotrimoxazole; penicillin + aminoglycoside in endocarditis), mixed infections, empirical therapy in severe infection, reduce toxicity.\n8. Disadvantages: antagonism (bacteriostatic + cidal), more toxicity, superinfection, cost.\n9. Problems of AMA use: toxicity, hypersensitivity, superinfection, masking of infection, vitamin deficiency."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the rationale of combining sulfamethoxazole with trimethoprim. Mention uses of cotrimoxazole.",
+      "answer": "1. Sulfamethoxazole inhibits dihydropteroate synthase (PABA analogue); trimethoprim inhibits bacterial dihydrofolate reductase.\n2. Two steps of the same folate pathway blocked: sequential block → synergism; combination bactericidal though each alone is static.\n3. Less resistance and wider spectrum.\n4. Tablet ratio 1 trimethoprim : 5 sulfamethoxazole gives optimal 1:20 plasma ratio; similar half-lives.\n5. Uses: UTI, respiratory infections, shigellosis, typhoid (where sensitive), Pneumocystis jirovecii pneumonia (drug of choice, treatment and prophylaxis), toxoplasmosis, nocardiosis.\n6. Adverse effects: rashes and Stevens–Johnson syndrome, megaloblastic anaemia, hyperkalaemia, more reactions in HIV patients."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify cephalosporins into generations with examples and uses.",
+      "answer": "1. Same mechanism as penicillins (PBP binding); nucleus 7-aminocephalosporanic acid; more β-lactamase resistant.\n2. First: cefazolin, cephalexin, cefadroxil — Gram-positive, surgical prophylaxis.\n3. Second: cefuroxime, cefaclor, cefoxitin — better Gram-negative, H. influenzae; cefoxitin anaerobes.\n4. Third: ceftriaxone, cefotaxime, ceftazidime, cefoperazone, cefixime, cefpodoxime — strong Gram-negative; ceftriaxone in meningitis, typhoid, gonorrhoea; ceftazidime anti-Pseudomonas.\n5. Fourth: cefepime, cefpirome — broad, β-lactamase stable. Fifth: ceftaroline — MRSA.\n6. Adverse effects: hypersensitivity (low cross-allergy with penicillin), diarrhoea, superinfection; cefoperazone → hypoprothrombinaemia and disulfiram-like reaction; ceftriaxone biliary sludge."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on chloramphenicol with emphasis on its adverse effects.",
+      "answer": "1. Broad-spectrum, bacteriostatic; binds 50S subunit, inhibits peptidyl transferase.\n2. Good oral absorption; enters CSF and eye; glucuronidated in liver; enzyme inhibitor.\n3. Bone marrow toxicity: dose-related reversible suppression and idiosyncratic irreversible aplastic anaemia (often fatal).\n4. Grey baby syndrome in neonates: deficient glucuronyl transferase and renal excretion → accumulation → vomiting, ashen grey cyanosis, hypothermia, collapse.\n5. Others: hypersensitivity, superinfection, optic neuritis; raises levels of phenytoin, warfarin, tolbutamide.\n6. Restricted uses: bacterial meningitis/brain abscess when alternatives unsuitable, rickettsial infections, typhoid where sensitive, anaerobic infections, topical eye infections."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the mechanism of action, uses and adverse effects of fluoroquinolones.",
+      "answer": "1. Examples: ciprofloxacin, norfloxacin, ofloxacin; respiratory FQs levofloxacin, moxifloxacin.\n2. Mechanism: inhibit DNA gyrase (topoisomerase II, Gram-negatives) and topoisomerase IV (Gram-positives) → DNA breaks → bactericidal, concentration-dependent, post-antibiotic effect.\n3. Uses: UTI, bacterial diarrhoea, typhoid, gonorrhoea (resistance high), bone/joint infections, respiratory infections, MDR-TB (levofloxacin, moxifloxacin), anthrax.\n4. Adverse effects: GI upset, CNS (dizziness, seizures), tendinitis and tendon rupture, cartilage damage (avoid in children and pregnancy), photosensitivity, QT prolongation, dysglycaemia, neuropathy.\n5. Interactions: antacids, iron, calcium chelate and reduce absorption; ciprofloxacin inhibits CYP1A2 → theophylline toxicity; NSAIDs increase seizure risk."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on tetracyclines: mechanism, uses and adverse effects.",
+      "answer": "1. Tetracycline, oxytetracycline, doxycycline, minocycline, tigecycline.\n2. Mechanism: actively taken up; bind 30S subunit, block aminoacyl-tRNA attachment at A-site → bacteriostatic, broad spectrum.\n3. Chelate Ca, Mg, Al, Fe → milk, antacids, iron reduce absorption; doxycycline excreted mainly in faeces (safe in renal failure).\n4. Uses: rickettsial infections (doxycycline drug of choice), Mycoplasma, Chlamydia, cholera, brucellosis, plague, acne, malaria, H. pylori, Lyme disease, leptospirosis prophylaxis.\n5. Adverse effects: GI irritation, oesophageal ulcer, teeth discolouration and bone growth effects (avoid in pregnancy and under 8 years), superinfection, phototoxicity, hepatotoxicity, Fanconi syndrome with expired drug, vestibular effects (minocycline)."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is grey baby syndrome?",
+      "answer": "Toxicity of chloramphenicol in newborns, who cannot glucuronidate or excrete it; accumulation causes vomiting, ashen grey cyanosis, hypothermia and circulatory collapse."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define post-antibiotic effect with an example.",
+      "answer": "Continued suppression of bacterial growth after the drug level falls below the MIC; seen with aminoglycosides and fluoroquinolones."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antitubercular drugs. Describe the mechanism of action and adverse effects of first-line drugs. Explain why multidrug therapy is used in tuberculosis.",
+      "answer": "1. Classification: first-line — isoniazid (H), rifampicin (R), pyrazinamide (Z), ethambutol (E), streptomycin (S); second-line — levofloxacin, moxifloxacin; amikacin, kanamycin, capreomycin; ethionamide, cycloserine, PAS, linezolid, clofazimine; newer — bedaquiline, delamanid, pretomanid.\n2. Isoniazid: prodrug activated by KatG; inhibits mycolic acid synthesis; bactericidal on dividing bacilli. AE: peripheral neuropathy (pyridoxine prevents), hepatitis, CNS effects; slow acetylators.\n3. Rifampicin: inhibits DNA-dependent RNA polymerase; bactericidal on all populations. AE: hepatitis, orange-red secretions, flu-like syndrome, thrombocytopenia; enzyme inducer (contraceptive failure, ↓ warfarin, steroids, PIs).\n4. Pyrazinamide: active at acidic pH inside macrophages; sterilising. AE: hepatotoxicity, hyperuricaemia, arthralgia.\n5. Ethambutol: inhibits arabinosyl transferase; bacteriostatic. AE: optic neuritis (↓ acuity, red–green colour loss).\n6. Streptomycin: 30S; ototoxic, nephrotoxic.\n7. Multidrug therapy reasons: prevent resistant mutants; kill rapidly dividing, intracellular and intermittently active bacilli; shorten duration.\n8. Regimen (NTEP): intensive phase HRZE 2 months + continuation HRE 4 months, daily fixed-dose combinations by weight band, DOTS with patient support.\n9. MDR-TB (resistant to H and R) — bedaquiline, linezolid, FQ-based all-oral regimens."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antimalarial drugs. Discuss the mechanism, uses and adverse effects of chloroquine. Add a note on artemisinin-based combination therapy and primaquine.",
+      "answer": "1. Life cycle: sporozoites → liver schizonts (hypnozoites in vivax/ovale) → erythrocytic schizogony (fever) → gametocytes.\n2. Classification by stage: blood schizonticides — chloroquine, quinine, mefloquine, artemisinins, lumefantrine, amodiaquine, piperaquine, atovaquone, proguanil, pyrimethamine, doxycycline; tissue schizonticides — primaquine, proguanil; hypnozoiticides — primaquine, tafenoquine; gametocides — primaquine (falciparum), chloroquine/quinine (vivax).\n3. Chloroquine mechanism: weak base concentrates in parasite food vacuole; inhibits haem polymerase → toxic free haem accumulates → parasite dies.\n4. Uses: vivax malaria (with primaquine), extraintestinal amoebiasis, rheumatoid arthritis and lupus (hydroxychloroquine).\n5. Adverse effects: nausea, pruritus, headache, visual blurring; retinopathy and corneal deposits on long use; QT prolongation; worsens psoriasis.\n6. ACT: artemisinins (endoperoxide bridge activated by haem iron → free radicals) act fast and reduce gametocytes; short half-life, so always combined — artesunate + SP (India except NE states), artemether + lumefantrine (NE states), DHA-piperaquine; injectable artesunate for severe malaria.\n7. Primaquine: 8-aminoquinoline; kills hypnozoites (radical cure of vivax/ovale) and falciparum gametocytes; haemolysis in G6PD deficiency — test first; avoid in pregnancy and infants."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify antiretroviral drugs with their mechanisms. Write the adverse effects of important drugs and the principles of antiretroviral therapy.",
+      "answer": "1. HIV: RNA retrovirus infecting CD4 T cells; steps — attachment (CD4 + CCR5/CXCR4), fusion, reverse transcription, integration, protein processing, budding.\n2. NRTIs: zidovudine, lamivudine, emtricitabine, abacavir, tenofovir — phosphorylated by host kinases, compete with nucleotides, cause chain termination.\n3. NNRTIs: efavirenz, nevirapine, rilpivirine, etravirine — bind non-catalytic site of reverse transcriptase.\n4. Protease inhibitors: lopinavir, atazanavir, darunavir, ritonavir — block cleavage of polyproteins → immature virions; ritonavir boosts others by CYP3A4 inhibition.\n5. Integrase inhibitors: dolutegravir, raltegravir, bictegravir. Entry/fusion inhibitors: maraviroc (CCR5), enfuvirtide.\n6. Adverse effects: zidovudine — anaemia, neutropenia; abacavir — hypersensitivity; tenofovir — renal toxicity, bone loss; NRTIs — lactic acidosis; efavirenz — CNS effects, vivid dreams; nevirapine — rash, hepatotoxicity; PIs — lipodystrophy, dyslipidaemia, hyperglycaemia, interactions; dolutegravir — weight gain.\n7. Principles: combination of three drugs (2 NRTIs + 1 from another class) to prevent resistance; lifelong adherence; first-line in India TLD (tenofovir + lamivudine + dolutegravir); monitor viral load and CD4; uses in prevention of mother-to-child transmission and post-exposure prophylaxis."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on amphotericin B.",
+      "answer": "1. Polyene antifungal from Streptomyces nodosus; broad-spectrum, fungicidal.\n2. Mechanism: binds ergosterol in fungal membrane → pores → leakage of ions → death; some binding to cholesterol explains toxicity.\n3. Not absorbed orally; given IV; lipid/liposomal forms less toxic.\n4. Uses: serious systemic mycoses — cryptococcal meningitis (with flucytosine), mucormycosis, histoplasmosis, candidaemia, aspergillosis (some settings); kala-azar.\n5. Adverse effects: infusion reactions (fever, chills, rigors, hypotension), nephrotoxicity (main), hypokalaemia, hypomagnesaemia, anaemia, thrombophlebitis."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the mechanism of action, uses and adverse effects of metronidazole.",
+      "answer": "1. Nitroimidazole; prodrug whose nitro group is reduced in anaerobes and protozoa → reactive radicals damage DNA; aerobes and host cells lack this system.\n2. Uses: intestinal and hepatic amoebiasis (drug of choice), giardiasis, trichomoniasis (treat partner), bacterial vaginosis, anaerobic infections (Bacteroides, Clostridia), C. difficile colitis, H. pylori regimens, dental infections, surgical prophylaxis.\n3. Adverse effects: metallic taste, nausea, dark urine, headache; neuropathy and seizures with prolonged use.\n4. Disulfiram-like reaction with alcohol; enhances warfarin effect.\n5. Follow with a luminal amoebicide (diloxanide furoate) to clear cysts."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on multidrug therapy of leprosy and the treatment of lepra reactions.",
+      "answer": "1. Leprosy: M. leprae; paucibacillary (≤5 lesions) and multibacillary (>5 lesions, nerve involvement or smear positive).\n2. Drugs: dapsone (folate synthesis inhibitor; haemolysis, methaemoglobinaemia, dapsone syndrome), rifampicin (monthly, bactericidal), clofazimine (reddish-black pigmentation, anti-inflammatory).\n3. WHO MDT: rifampicin + clofazimine + dapsone for both PB (6 months) and MB (12 months).\n4. Type 1 (reversal) reaction: corticosteroids.\n5. Type 2 (ENL): corticosteroids, clofazimine, thalidomide (contraindicated in pregnancy).\n6. MDT prevents resistance and cures the disease."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anthelmintic drugs with their mechanisms of action.",
+      "answer": "1. Benzimidazoles (albendazole, mebendazole): bind β-tubulin, block microtubules → ↓ glucose uptake; broad spectrum, neurocysticercosis, hydatid disease.\n2. Pyrantel pamoate: depolarising block → spastic paralysis (roundworm, hookworm, pinworm). Levamisole: nicotinic agonist.\n3. Piperazine: GABA agonist → flaccid paralysis (antagonises pyrantel).\n4. Ivermectin: glutamate-gated Cl− channels → paralysis; onchocerciasis, strongyloidiasis, scabies.\n5. Diethylcarbamazine: sensitises microfilariae to host immunity; filariasis (Mazzotti reaction).\n6. Praziquantel: ↑ Ca2+ permeability → contraction, tegument damage; schistosomiasis, tapeworms, flukes. Niclosamide: tapeworms (uncoupler)."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on acyclovir.",
+      "answer": "1. Guanosine analogue, anti-herpes drug.\n2. Activation: viral thymidine kinase forms acyclovir monophosphate (only in infected cells → selectivity); host kinases form triphosphate.\n3. Triphosphate inhibits viral DNA polymerase and causes chain termination.\n4. Uses: herpes simplex (genital, labial, keratitis, encephalitis — drug of choice), varicella and herpes zoster; prophylaxis in immunocompromised patients.\n5. Adverse effects: renal crystal formation with rapid IV infusion, CNS effects, local irritation.\n6. Valacyclovir is an oral prodrug with better bioavailability; resistance via TK-deficient strains (foscarnet then used)."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is pyridoxine given with isoniazid?",
+      "answer": "Isoniazid increases pyridoxine excretion and interferes with its action, causing peripheral neuropathy; pyridoxine prevents this."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is radical cure in malaria? Name the drug used.",
+      "answer": "Elimination of dormant liver hypnozoites of P. vivax/ovale to prevent relapse; primaquine (or tafenoquine)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify anticancer drugs with examples. Describe the mechanism of action and toxicity of alkylating agents and antimetabolites.",
+      "answer": "1. Classification: cytotoxic — alkylating agents (cyclophosphamide, ifosfamide, chlorambucil, melphalan, busulfan, carmustine, dacarbazine, cisplatin, carboplatin, oxaliplatin); antimetabolites (methotrexate; 6-mercaptopurine, 6-thioguanine, fludarabine; 5-FU, capecitabine, cytarabine, gemcitabine); natural products (vincristine, vinblastine; paclitaxel, docetaxel; etoposide; topotecan, irinotecan; doxorubicin, daunorubicin, bleomycin, actinomycin D, mitomycin; L-asparaginase); hormonal (prednisolone, tamoxifen, letrozole, anastrozole, flutamide, bicalutamide, abiraterone, leuprolide, goserelin); targeted (imatinib, gefitinib, rituximab, trastuzumab).\n2. Alkylating agents: reactive carbonium ions alkylate N7 of guanine → DNA cross-links, miscoding, strand breaks; cell-cycle non-specific.\n3. Cyclophosphamide is activated by liver CYP; acrolein causes haemorrhagic cystitis (mesna protects); also immunosuppressant.\n4. Cisplatin: DNA cross-links; nephrotoxicity, ototoxicity, severe vomiting, neuropathy.\n5. Common toxicity of alkylating agents: myelosuppression, alopecia, vomiting, sterility, secondary leukaemia; busulfan → lung fibrosis, pigmentation.\n6. Antimetabolites act in S-phase: methotrexate inhibits DHFR (folinic acid rescue); 5-FU → FdUMP inhibits thymidylate synthase; 6-MP inhibits purine synthesis (reduce with allopurinol); cytarabine inhibits DNA polymerase.\n7. Toxicity: myelosuppression, mucositis, diarrhoea, hepatotoxicity (methotrexate), hand-foot syndrome (capecitabine).\n8. Supportive care: antiemetics, G-CSF, allopurinol/rasburicase for tumour lysis."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify immunosuppressant drugs. Describe the mechanism of action, uses and adverse effects of cyclosporine. Add a note on monoclonal antibodies.",
+      "answer": "1. Classification: calcineurin inhibitors (cyclosporine, tacrolimus); mTOR inhibitors (sirolimus, everolimus); antiproliferatives (azathioprine, mycophenolate mofetil, methotrexate, cyclophosphamide, leflunomide); glucocorticoids (prednisolone, methylprednisolone); antibodies (antithymocyte globulin, basiliximab, rituximab, belatacept); anti-cytokine (infliximab, adalimumab, etanercept, tocilizumab).\n2. Cyclosporine mechanism: binds cyclophilin → complex inhibits calcineurin → NFAT not dephosphorylated → no IL-2 transcription → T-cell activation blocked; no bone marrow suppression.\n3. Uses: organ transplant rejection prophylaxis, graft-versus-host disease, psoriasis, rheumatoid arthritis, nephrotic syndrome, dry eye (topical).\n4. Adverse effects: nephrotoxicity (main), hypertension, hyperkalaemia, hepatotoxicity, hirsutism, gum hyperplasia, tremor, diabetes, infections, lymphoma risk.\n5. Narrow therapeutic index; CYP3A4 substrate — ketoconazole, erythromycin, diltiazem, grapefruit raise; rifampicin, phenytoin lower levels.\n6. Monoclonal antibodies: single-clone antibodies (hybridoma or recombinant); suffix -omab mouse, -ximab chimeric, -zumab humanised, -umab human.\n7. Examples: rituximab (CD20, lymphoma, RA), trastuzumab (HER2 breast cancer, cardiotoxic), bevacizumab (VEGF), cetuximab (EGFR), infliximab/adalimumab (TNF-α), omalizumab (IgE), basiliximab (IL-2R), denosumab (RANKL).\n8. AE of mAbs: infusion reactions, infections (TB reactivation with anti-TNF), anti-drug antibodies."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the general principles of cancer chemotherapy, including the cell cycle and the log-kill hypothesis. Mention the common toxicities and their management.",
+      "answer": "1. Cell cycle: G1 → S → G2 → M, with resting G0 cells insensitive to most drugs.\n2. Cell-cycle specific drugs: S phase antimetabolites; G2 bleomycin, etoposide; M phase vinca alkaloids, taxanes; effective in high-growth-fraction tumours (leukaemias, lymphomas).\n3. Cell-cycle non-specific: alkylating agents, platinum, anthracyclines; useful in low-growth-fraction solid tumours.\n4. Log-kill hypothesis: each course kills a constant fraction of cells (e.g. 99.9% = 3-log kill); repeated courses needed even after clinical remission.\n5. Combination chemotherapy: drugs with different mechanisms and non-overlapping toxicities, each active alone (CHOP, ABVD) → more kill, less resistance.\n6. Intermittent cycles allow marrow and gut recovery; adjuvant and neoadjuvant chemotherapy.\n7. Common toxicities: myelosuppression, nausea and vomiting, mucositis, alopecia, sterility, teratogenicity, hyperuricaemia, secondary cancers.\n8. Management: ondansetron/aprepitant/dexamethasone for vomiting; filgrastim for neutropenia; allopurinol/rasburicase for tumour lysis; mesna with cyclophosphamide; folinic acid rescue with methotrexate; dexrazoxane for doxorubicin cardiotoxicity.\n9. Resistance: P-glycoprotein efflux, target amplification, DNA repair, failed apoptosis."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on drugs used in urinary tract infections.",
+      "answer": "1. Commonest organism E. coli; also Klebsiella, Proteus, Enterococcus, Pseudomonas (hospital).\n2. Urinary antiseptics: nitrofurantoin (reduced by bacterial flavoproteins; acts only in urine; neuropathy, pulmonary reactions, haemolysis in G6PD; avoid in renal failure), methenamine mandelate (formaldehyde in acidic urine; prophylaxis only), nalidixic acid.\n3. Fosfomycin trometamol: single oral dose for uncomplicated cystitis.\n4. Cotrimoxazole/trimethoprim; fluoroquinolones for complicated UTI and pyelonephritis.\n5. β-lactams (amoxicillin-clavulanate, cephalexin, cefixime, ceftriaxone) — safe in pregnancy; aminoglycosides and carbapenems for severe or resistant infections.\n6. Phenazopyridine relieves dysuria only. Treat asymptomatic bacteriuria in pregnancy."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the syndromic approach to sexually transmitted diseases and the drugs of choice for syphilis, gonorrhoea and chlamydial infection.",
+      "answer": "1. Syndromic approach (NACO): treat all likely causes of a syndrome (urethral discharge, genital ulcer, vaginal discharge) at the first visit using colour-coded kits, without waiting for laboratory diagnosis.\n2. Syphilis: benzathine penicillin G; doxycycline if allergic (not in pregnancy).\n3. Gonorrhoea: ceftriaxone, with azithromycin or doxycycline for possible chlamydial co-infection.\n4. Chlamydia, LGV: azithromycin or doxycycline. Chancroid: azithromycin, ceftriaxone.\n5. Trichomoniasis and bacterial vaginosis: metronidazole; candidiasis: clotrimazole, fluconazole; herpes: acyclovir.\n6. Treat partners, counsel on condoms, test for HIV and syphilis."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare vinca alkaloids and taxanes.",
+      "answer": "1. Both act on microtubules and arrest cells in M phase.\n2. Vinca alkaloids (vincristine, vinblastine) bind tubulin and prevent polymerisation (assembly) of microtubules.\n3. Taxanes (paclitaxel, docetaxel) promote assembly and stabilise microtubules, preventing disassembly.\n4. Uses: vincristine — ALL, lymphomas (Hodgkin's, non-Hodgkin's), Wilms' tumour; vinblastine — Hodgkin's, testicular cancer; taxanes — breast, ovarian, lung cancers.\n5. Toxicity: vincristine — peripheral neuropathy, constipation, little marrow toxicity; vinblastine — myelosuppression; paclitaxel — hypersensitivity (premedication), neuropathy, neutropenia, alopecia."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on immunostimulants.",
+      "answer": "1. Drugs that enhance immune responses in immunodeficiency, chronic infections and some cancers.\n2. BCG: TB vaccine; intravesical in superficial bladder cancer.\n3. Levamisole: restores T-cell function; anthelmintic origin.\n4. Interferons: α (hepatitis B/C, hairy cell leukaemia, Kaposi sarcoma), β (multiple sclerosis), γ (chronic granulomatous disease); flu-like symptoms, depression, marrow suppression.\n5. Interleukin-2 (aldesleukin): renal cell carcinoma, melanoma. G-CSF (filgrastim), GM-CSF: neutropenia.\n6. Immune checkpoint inhibitors: pembrolizumab, nivolumab (PD-1), ipilimumab (CTLA-4) — immune-related adverse effects.\n7. Others: imiquimod, thymosin, immunoglobulins, vaccines, herbal (Withania, Tinospora)."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are biosimilars? How do they differ from generic drugs?",
+      "answer": "1. A biosimilar is a biological product highly similar to an approved reference biological with no clinically meaningful difference in safety, purity and potency.\n2. Biologicals are large proteins made in living cells; exact copies are not possible.\n3. Generic: small, chemically defined, identical, approved on bioequivalence; biosimilar: large, complex, similar not identical, approved by stepwise comparability (analytical, non-clinical, PK/PD, immunogenicity, clinical).\n4. Biosimilars need immunogenicity studies and pharmacovigilance; costlier to develop than generics but cheaper than originators.\n5. India: CDSCO/DBT 'Similar Biologics' guidelines.\n6. Examples: biosimilar trastuzumab, rituximab, adalimumab, insulin glargine, filgrastim, erythropoietin."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is mesna given with cyclophosphamide?",
+      "answer": "Mesna binds acrolein, the toxic metabolite of cyclophosphamide/ifosfamide, in the bladder and prevents haemorrhagic cystitis."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the target of imatinib? Name its main use.",
+      "answer": "BCR-ABL tyrosine kinase (also c-KIT); chronic myeloid leukaemia (and GIST)."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define toxicology. Explain acute, subacute, subchronic and chronic toxicity studies. Add a note on the 3Rs and newer methods of acute toxicity testing.",
+      "answer": "1. Toxicology: science of harmful effects of chemicals on living organisms, their mechanisms, detection and management; poison, toxicity, hazard and risk; branches — clinical, forensic, environmental, occupational, regulatory.\n2. Acute toxicity: effects after a single exposure (or several within 24 h), observed for 14 days; gives LD50 or toxic class, signs, target organs; guides later dose selection.\n3. Subacute (repeated-dose 28-day): daily exposure for 14–28 days; target organs and reversibility.\n4. Subchronic: repeated exposure usually 90 days; NOAEL.\n5. Chronic: 6 months (rodents) to 9–12 months (non-rodents) or more; long-term organ damage and safety margin for long-term use.\n6. Design: rodent and non-rodent, both sexes, three dose levels and a control; observe signs, body weight, food intake, haematology, serum biochemistry, urine, organ weights, histopathology.\n7. Indian requirement: New Drugs and Clinical Trials Rules 2019 (Schedule Y earlier); OECD guidelines internationally.\n8. 3Rs: replacement, reduction, refinement; CCSEA (CPCSEA) guidelines and IAEC approval.\n9. Fewer-animal acute methods: fixed dose procedure (OECD 420), acute toxic class (OECD 423), up-and-down procedure (OECD 425) replace the classical LD50 test."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define genotoxicity, mutagenicity, carcinogenicity and teratogenicity. Name the tests used to detect each and give examples of agents.",
+      "answer": "1. Genotoxicity: any damage to DNA or chromosomes (breaks, adducts) whether or not inherited; tests — comet assay, chromosomal aberration test, micronucleus test.\n2. Mutagenicity: permanent heritable change in DNA sequence (point mutation, frameshift, chromosomal change); all mutagens are genotoxic but not vice versa.\n3. Ames test: reverse mutation in histidine-dependent Salmonella typhimurium strains with liver S9 fraction for metabolic activation; mouse lymphoma assay; in vivo micronucleus test.\n4. Carcinogenicity: ability to cause malignant tumours; genotoxic vs non-genotoxic carcinogens; stages initiation → promotion → progression.\n5. Test: long-term rodent bioassay (about 2 years in rats and mice), transgenic models; needed for drugs used long term.\n6. Examples of carcinogens: alkylating agents (secondary leukaemia), oestrogens and tamoxifen (endometrium), benzene, aflatoxin, tobacco smoke, asbestos.\n7. Teratogenicity: structural or functional defects in embryo/fetus from exposure during pregnancy; most sensitive during organogenesis (weeks 3–8).\n8. Tests: reproductive and developmental toxicity studies — fertility, embryo-fetal development in two species, pre- and postnatal development.\n9. Examples: thalidomide (phocomelia), isotretinoin, warfarin, valproate (neural tube defects), phenytoin, ACE inhibitors, tetracyclines, methotrexate, lithium, diethylstilboestrol, alcohol."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define chronopharmacology and biological rhythms. Describe the biological clock and explain its significance in chronotherapy with examples.",
+      "answer": "1. Chronopharmacology: study of variation of drug effects and kinetics with biological time, and of drug effects on rhythms.\n2. Rhythm terms: cycle, period, amplitude, acrophase, MESOR; circadian (~24 h), ultradian (<24 h), infradian (>24 h; circamensual, circannual); zeitgeber (light).\n3. Branches: chronopharmacokinetics, chronopharmacodynamics (chronesthesy), chronotoxicology, chronotherapy.\n4. Biological clock: suprachiasmatic nucleus of the hypothalamus is the master clock, reset by light through the retinohypothalamic tract; synchronises peripheral clocks in liver, heart, gut, kidney.\n5. Molecular basis: clock genes CLOCK, BMAL1, Period, Cryptochrome in ~24 h feedback loops; pineal melatonin secreted in darkness.\n6. Significance: disease symptoms and drug handling vary through the day; disruption (shift work, jet lag) affects health.\n7. Chronotherapy examples: asthma worse at night → evening ICS/LABA or timed theophylline; early-morning BP surge → timed antihypertensives; cholesterol synthesis at night → evening short-acting statin; nocturnal acid → bedtime H2 blocker; morning corticosteroid to mimic cortisol rhythm and reduce HPA suppression; RA morning stiffness → bedtime delayed-release drug; timed cancer chemotherapy.\n8. Chronotherapeutic delivery: pulsatile or delayed-release dosage forms timed to disease rhythm."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the general principles of treatment of poisoning.",
+      "answer": "1. Resuscitation and stabilisation — airway, breathing, circulation first.\n2. Diagnosis — history (bring container), examination, laboratory and toxicological analysis.\n3. Decontamination — measures to limit further exposure.\n4. Enhanced elimination — for selected cases, as decided by the treating doctor.\n5. Specific antidote where available.\n6. Supportive care and monitoring — the backbone, since most poisons lack antidotes.\n7. Prevention and follow-up — counselling, safe storage, Poison Information Centres."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is an antidote? Classify antidotes by mechanism with examples.",
+      "answer": "1. Antidote: a substance that counteracts the effect of a poison.\n2. Receptor antagonists: naloxone (opioids), flumazenil (benzodiazepines), atropine (muscarinic effects of anticholinesterases).\n3. Enzyme reactivators: pralidoxime (organophosphate-inhibited cholinesterase).\n4. Chelating agents: dimercaprol, calcium disodium edetate, succimer, penicillamine (heavy metals); desferrioxamine (iron).\n5. Neutralising/binding agents: digoxin-specific antibody fragments (digoxin), protamine (heparin).\n6. Blocking toxic metabolite formation: fomepizole (methanol).\n7. Restoring a protective substance: N-acetylcysteine (paracetamol); bypassing a block: vitamin K (warfarin), folinic acid (methotrexate)."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Name the antidotes for the poisonings listed in the syllabus: barbiturates, morphine, organophosphorus compounds, lead, mercury and arsenic.",
+      "answer": "1. Barbiturates: no specific antidote; supportive care.\n2. Morphine (opioids): naloxone, an opioid receptor antagonist.\n3. Organophosphorus compounds: atropine (muscarinic antagonist) plus pralidoxime (oxime cholinesterase reactivator).\n4. Lead: chelating agents — calcium disodium edetate, dimercaprol, succimer, penicillamine.\n5. Mercury: dimercaprol, succimer, unithiol.\n6. Arsenic: dimercaprol, succimer, unithiol.\n7. Chelating agents form stable complexes with metal ions that are excreted."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate acute and chronic toxicity.",
+      "answer": "1. Exposure: acute — single or short (within 24 h); chronic — repeated over months or years.\n2. Onset: acute quick; chronic slow and gradual.\n3. Effects: acute often reversible; chronic cumulative, may be irreversible (organ damage, cancer).\n4. Study duration: acute observation 14 days; chronic 6–12 months or more.\n5. Information: acute gives LD50/toxic class and signs; chronic gives NOAEL and long-term safety.\n6. Pattern: acute — accidental single exposure; chronic — occupational exposure to heavy metals."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on circadian rhythm and chronotherapy.",
+      "answer": "1. Circadian rhythm: biological rhythm with a period of about 24 h (sleep–wake, temperature, cortisol, BP).\n2. Controlled by the suprachiasmatic nucleus, set by light; melatonin from pineal at night.\n3. Drug absorption, metabolism, excretion and receptor sensitivity vary through the day.\n4. Chronotherapy: timing doses to match rhythms for better effect and fewer adverse effects.\n5. Examples: evening statin, morning corticosteroid, evening asthma controllers, bedtime H2 blocker, timed antihypertensives.\n6. Chronotherapeutic delivery systems release drug after a lag time."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the Ames test?",
+      "answer": "A mutagenicity test that measures reverse mutation in histidine-dependent Salmonella typhimurium strains, with liver S9 fraction added for metabolic activation."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define zeitgeber with an example.",
+      "answer": "An external time cue that resets the biological clock; the light–dark cycle is the main one (also meals, activity)."
+    }
+  ]
+}

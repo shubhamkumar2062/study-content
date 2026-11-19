@@ -1,0 +1,942 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The drug of choice for quick relief of an acute asthma attack is:",
+      "options": [
+        "Inhaled salbutamol",
+        "Oral prednisolone",
+        "Sodium cromoglycate",
+        "Salmeterol"
+      ],
+      "correct": 0,
+      "explanation": "Salbutamol is a short-acting inhaled β2-agonist that relaxes bronchial muscle within minutes.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Long-acting β2-agonists such as salmeterol should always be used with:",
+      "options": [
+        "An antihistamine",
+        "An antitussive",
+        "A nasal decongestant",
+        "An inhaled corticosteroid"
+      ],
+      "correct": 3,
+      "explanation": "A LABA used alone increases the risk of severe attacks, so it is combined with an inhaled steroid.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Theophylline produces bronchodilation mainly by:",
+      "options": [
+        "Blocking muscarinic receptors",
+        "Stabilising mast cells",
+        "Inhibiting phosphodiesterase and blocking adenosine receptors",
+        "Blocking leukotriene receptors"
+      ],
+      "correct": 2,
+      "explanation": "Raised cAMP from PDE inhibition plus adenosine receptor blockade relaxes airway muscle.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Sodium cromoglycate acts by:",
+      "options": [
+        "Blocking H1 receptors",
+        "Blocking CysLT1 receptors",
+        "Inhibiting 5-lipoxygenase",
+        "Stabilising mast cell membranes"
+      ],
+      "correct": 3,
+      "explanation": "It prevents mast cell degranulation and is used only for prophylaxis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Oral candidiasis after inhaled corticosteroid use is reduced by:",
+      "options": [
+        "Using a spacer and rinsing the mouth",
+        "Taking the dose at night",
+        "Doubling the dose",
+        "Adding an antihistamine"
+      ],
+      "correct": 0,
+      "explanation": "A spacer reduces oropharyngeal deposition and rinsing removes the remaining drug.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Proton pump inhibitors act by irreversibly inhibiting:",
+      "options": [
+        "Carbonic anhydrase",
+        "H+/K+ ATPase of the parietal cell",
+        "Gastrin receptors",
+        "Histamine H2 receptors"
+      ],
+      "correct": 1,
+      "explanation": "They bind covalently to the proton pump, the final common step of acid secretion.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Gynaecomastia may occur with which anti-ulcer drug?",
+      "options": [
+        "Famotidine",
+        "Pantoprazole",
+        "Cimetidine",
+        "Sucralfate"
+      ],
+      "correct": 2,
+      "explanation": "Cimetidine blocks androgen receptors and raises prolactin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Sucralfate requires which condition to be effective?",
+      "options": [
+        "Alkaline medium",
+        "Presence of food only",
+        "An acidic medium",
+        "Simultaneous antacid use"
+      ],
+      "correct": 2,
+      "explanation": "It polymerises in acid to a sticky gel that coats the ulcer base.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Lactulose is also used in the treatment of:",
+      "options": [
+        "Hepatic encephalopathy",
+        "Peptic ulcer",
+        "Asthma",
+        "Motion sickness"
+      ],
+      "correct": 0,
+      "explanation": "Colonic acidification traps ammonia as ammonium ions, which are not absorbed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The anti-emetic of choice for motion sickness is:",
+      "options": [
+        "Ondansetron",
+        "Metoclopramide",
+        "Aprepitant",
+        "Hyoscine"
+      ],
+      "correct": 3,
+      "explanation": "Anticholinergic hyoscine acts on the vestibular pathway; 5-HT3 blockers are poor in motion sickness.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Extrapyramidal reactions are most likely with:",
+      "options": [
+        "Domperidone",
+        "Metoclopramide",
+        "Ondansetron",
+        "Promethazine"
+      ],
+      "correct": 1,
+      "explanation": "Metoclopramide crosses the blood-brain barrier and blocks central D2 receptors.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Reduced osmolarity ORS recommended by WHO has an osmolarity of about:",
+      "options": [
+        "311 mOsm/L",
+        "245 mOsm/L",
+        "150 mOsm/L",
+        "400 mOsm/L"
+      ],
+      "correct": 1,
+      "explanation": "The reduced osmolarity formula (about 245 mOsm/L) lowers stool output and vomiting.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Penicillins are bactericidal because they inhibit:",
+      "options": [
+        "Protein synthesis at 50S",
+        "Transpeptidase cross-linking of peptidoglycan",
+        "DNA gyrase",
+        "Folate synthesis"
+      ],
+      "correct": 1,
+      "explanation": "Binding penicillin-binding proteins stops wall cross-linking, so the cell lyses.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Clavulanic acid is added to amoxicillin to:",
+      "options": [
+        "Increase absorption",
+        "Reduce allergy",
+        "Inhibit β-lactamase",
+        "Prolong half-life"
+      ],
+      "correct": 2,
+      "explanation": "It is a suicide inhibitor of β-lactamase and protects amoxicillin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The drug of choice for syphilis is:",
+      "options": [
+        "Benzathine penicillin G",
+        "Ciprofloxacin",
+        "Gentamicin",
+        "Metronidazole"
+      ],
+      "correct": 0,
+      "explanation": "Treponema pallidum remains highly sensitive to penicillin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Trimethoprim acts by inhibiting:",
+      "options": [
+        "Dihydropteroate synthase",
+        "RNA polymerase",
+        "Bacterial dihydrofolate reductase",
+        "Transpeptidase"
+      ],
+      "correct": 2,
+      "explanation": "It is far more selective for the bacterial than the human enzyme.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Aplastic anaemia is a serious idiosyncratic reaction to:",
+      "options": [
+        "Erythromycin",
+        "Cefixime",
+        "Doxycycline",
+        "Chloramphenicol"
+      ],
+      "correct": 3,
+      "explanation": "It is unrelated to dose and often fatal, which restricts the use of chloramphenicol.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which antibiotic group inhibits protein synthesis by causing misreading of mRNA at the 30S subunit?",
+      "options": [
+        "Macrolides",
+        "Tetracyclines",
+        "Aminoglycosides",
+        "Lincosamides"
+      ],
+      "correct": 2,
+      "explanation": "Aminoglycosides cause misreading and faulty proteins, making them bactericidal.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Tendon rupture is a recognised adverse effect of:",
+      "options": [
+        "Fluoroquinolones",
+        "Cephalosporins",
+        "Sulfonamides",
+        "Macrolides"
+      ],
+      "correct": 0,
+      "explanation": "Achilles tendinitis and rupture are more common in the elderly and with steroids.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Tetracyclines are avoided in children under 8 years because they cause:",
+      "options": [
+        "Optic neuritis",
+        "Discolouration of teeth and effects on bone growth",
+        "Aplastic anaemia",
+        "Nephrotoxicity"
+      ],
+      "correct": 1,
+      "explanation": "They chelate calcium and deposit in growing teeth and bones.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Erythromycin increases theophylline toxicity because it:",
+      "options": [
+        "Displaces it from protein binding",
+        "Reduces renal excretion",
+        "Inhibits CYP3A4 metabolism",
+        "Increases absorption"
+      ],
+      "correct": 2,
+      "explanation": "Enzyme inhibition raises theophylline plasma levels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Transfer of resistance genes between bacteria through a plasmid and sex pilus is called:",
+      "options": [
+        "Transduction",
+        "Transformation",
+        "Mutation",
+        "Conjugation"
+      ],
+      "correct": 3,
+      "explanation": "Conjugation transfers R plasmids and is the commonest route in Gram-negative bacteria.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "The ratio of trimethoprim to sulfamethoxazole in a cotrimoxazole tablet is:",
+      "options": [
+        "1 : 5",
+        "1 : 20",
+        "1 : 1",
+        "5 : 1"
+      ],
+      "correct": 0,
+      "explanation": "The 1:5 tablet ratio gives the optimal 1:20 ratio in plasma.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Cilastatin is combined with imipenem to:",
+      "options": [
+        "Inhibit β-lactamase",
+        "Prevent renal dehydropeptidase from breaking it down",
+        "Reduce seizures",
+        "Improve oral absorption"
+      ],
+      "correct": 1,
+      "explanation": "Cilastatin inhibits renal dehydropeptidase I, preserving imipenem in the urinary tract.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Isoniazid acts mainly by inhibiting the synthesis of:",
+      "options": [
+        "Arabinogalactan",
+        "Folic acid",
+        "Peptidoglycan",
+        "Mycolic acid"
+      ],
+      "correct": 3,
+      "explanation": "It is activated by mycobacterial catalase-peroxidase and blocks mycolic acid synthesis.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Orange-red discolouration of urine and tears is caused by:",
+      "options": [
+        "Ethambutol",
+        "Pyrazinamide",
+        "Rifampicin",
+        "Isoniazid"
+      ],
+      "correct": 2,
+      "explanation": "This harmless colouring also stains soft contact lenses.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Optic neuritis with loss of red-green colour vision is typical of:",
+      "options": [
+        "Ethambutol",
+        "Streptomycin",
+        "Rifampicin",
+        "Pyrazinamide"
+      ],
+      "correct": 0,
+      "explanation": "Visual acuity and colour vision are checked during ethambutol therapy.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Hyperuricaemia during antitubercular treatment is most often due to:",
+      "options": [
+        "Isoniazid",
+        "Ethambutol",
+        "Streptomycin",
+        "Pyrazinamide"
+      ],
+      "correct": 3,
+      "explanation": "Pyrazinoic acid reduces renal uric acid excretion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "MDR tuberculosis is defined as resistance to at least:",
+      "options": [
+        "Isoniazid and rifampicin",
+        "Rifampicin and ethambutol",
+        "Isoniazid and streptomycin",
+        "Pyrazinamide and ethambutol"
+      ],
+      "correct": 0,
+      "explanation": "Resistance to the two most powerful first-line drugs defines MDR-TB.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Reddish-black skin pigmentation is an adverse effect of:",
+      "options": [
+        "Dapsone",
+        "Ofloxacin",
+        "Rifampicin",
+        "Clofazimine"
+      ],
+      "correct": 3,
+      "explanation": "The dye-like clofazimine deposits in skin and tissues.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Amphotericin B binds to which component of the fungal cell membrane?",
+      "options": [
+        "Chitin",
+        "Glucan",
+        "Ergosterol",
+        "Cholesterol"
+      ],
+      "correct": 2,
+      "explanation": "Binding ergosterol forms pores through which ions leak out.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Azole antifungals act by inhibiting:",
+      "options": [
+        "Squalene epoxidase",
+        "β-(1,3)-glucan synthase",
+        "DNA gyrase",
+        "Lanosterol 14α-demethylase"
+      ],
+      "correct": 3,
+      "explanation": "Blocking this fungal CYP enzyme stops ergosterol synthesis.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Acyclovir is selective for infected cells because it is first phosphorylated by:",
+      "options": [
+        "Host thymidine kinase",
+        "Host DNA polymerase",
+        "Viral protease",
+        "Viral thymidine kinase"
+      ],
+      "correct": 3,
+      "explanation": "Only infected cells contain viral thymidine kinase, which activates the drug.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Oseltamivir acts against influenza virus by inhibiting:",
+      "options": [
+        "Neuraminidase",
+        "Reverse transcriptase",
+        "DNA polymerase",
+        "Protease"
+      ],
+      "correct": 0,
+      "explanation": "Blocking neuraminidase prevents release of new virions from infected cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Chloroquine kills the malarial parasite mainly by:",
+      "options": [
+        "Blocking folate synthesis",
+        "Inhibiting haem polymerase in the food vacuole",
+        "Generating free radicals",
+        "Inhibiting protein synthesis"
+      ],
+      "correct": 1,
+      "explanation": "Free toxic haem accumulates when its conversion to haemozoin is blocked.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Radical cure of Plasmodium vivax malaria requires:",
+      "options": [
+        "Chloroquine alone",
+        "Artesunate alone",
+        "Primaquine",
+        "Doxycycline"
+      ],
+      "correct": 2,
+      "explanation": "Primaquine kills dormant liver hypnozoites and prevents relapse.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m13",
+      "unit": 3,
+      "question": "Before giving primaquine it is important to test for:",
+      "options": [
+        "Liver enzymes",
+        "G6PD deficiency",
+        "Blood sugar",
+        "Serum creatinine"
+      ],
+      "correct": 1,
+      "explanation": "Primaquine causes haemolysis in people with G6PD deficiency.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m14",
+      "unit": 3,
+      "question": "Metronidazole is selectively toxic to anaerobes because they:",
+      "options": [
+        "Reduce its nitro group to reactive intermediates",
+        "Have a thick capsule",
+        "Lack a cell wall",
+        "Cannot pump it out"
+      ],
+      "correct": 0,
+      "explanation": "Only anaerobes and some protozoa have the low-redox systems that activate the drug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m15",
+      "unit": 3,
+      "question": "Albendazole acts on worms by:",
+      "options": [
+        "Opening chloride channels",
+        "Increasing calcium permeability",
+        "Causing spastic paralysis",
+        "Binding β-tubulin and blocking microtubule formation"
+      ],
+      "correct": 3,
+      "explanation": "Loss of microtubules impairs glucose uptake and the worm dies slowly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The commonest organism causing urinary tract infection is:",
+      "options": [
+        "Escherichia coli",
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Proteus mirabilis"
+      ],
+      "correct": 0,
+      "explanation": "E. coli from the bowel accounts for most community-acquired UTIs.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Nitrofurantoin is useful only in lower urinary tract infection because it:",
+      "options": [
+        "Is bacteriostatic",
+        "Reaches effective concentration only in urine",
+        "Is destroyed in the kidney",
+        "Binds plasma proteins strongly"
+      ],
+      "correct": 1,
+      "explanation": "Its plasma levels are too low to treat tissue infection such as pyelonephritis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Methenamine is effective only when the urine is:",
+      "options": [
+        "Alkaline",
+        "Dilute",
+        "Acidic",
+        "Concentrated with protein"
+      ],
+      "correct": 2,
+      "explanation": "Acid pH releases formaldehyde, the active antibacterial.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Alkylating agents damage DNA chiefly by attaching an alkyl group to:",
+      "options": [
+        "N7 of guanine",
+        "N3 of adenine only",
+        "The sugar backbone",
+        "Thymine dimers"
+      ],
+      "correct": 0,
+      "explanation": "Alkylation at guanine N7 causes cross-links and miscoding.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Haemorrhagic cystitis caused by cyclophosphamide is due to its metabolite:",
+      "options": [
+        "Phosphoramide mustard",
+        "Acrolein",
+        "Aldophosphamide",
+        "Chloroacetaldehyde"
+      ],
+      "correct": 1,
+      "explanation": "Acrolein irritates the bladder; mesna binds it and prevents the damage.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Methotrexate acts by inhibiting:",
+      "options": [
+        "Thymidylate synthase",
+        "Topoisomerase II",
+        "Dihydrofolate reductase",
+        "Ribonucleotide reductase"
+      ],
+      "correct": 2,
+      "explanation": "Folinic acid rescue bypasses this block in normal cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Which drug stabilises microtubules and prevents their disassembly?",
+      "options": [
+        "Vincristine",
+        "Etoposide",
+        "Cisplatin",
+        "Paclitaxel"
+      ],
+      "correct": 3,
+      "explanation": "Taxanes act opposite to vinca alkaloids, which prevent assembly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Cumulative cardiotoxicity is characteristic of:",
+      "options": [
+        "Doxorubicin",
+        "Bleomycin",
+        "Vincristine",
+        "Cisplatin"
+      ],
+      "correct": 0,
+      "explanation": "Free radical damage to the myocardium limits the total lifetime amount used.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Pulmonary fibrosis is a typical toxicity of:",
+      "options": [
+        "Methotrexate",
+        "Tamoxifen",
+        "5-Fluorouracil",
+        "Bleomycin"
+      ],
+      "correct": 3,
+      "explanation": "Bleomycin spares the marrow but damages the lungs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Cyclosporine suppresses the immune response by inhibiting:",
+      "options": [
+        "mTOR",
+        "Purine synthesis",
+        "Calcineurin and IL-2 transcription",
+        "The IL-2 receptor"
+      ],
+      "correct": 2,
+      "explanation": "The cyclosporine-cyclophilin complex blocks calcineurin, so IL-2 is not produced.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Gum hyperplasia and hirsutism are typical adverse effects of:",
+      "options": [
+        "Tacrolimus",
+        "Azathioprine",
+        "Mycophenolate",
+        "Cyclosporine"
+      ],
+      "correct": 3,
+      "explanation": "Tacrolimus causes nephrotoxicity and diabetes but much less hirsutism or gum change.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "A monoclonal antibody with the suffix -zumab is:",
+      "options": [
+        "Fully murine",
+        "Humanised",
+        "Chimeric",
+        "Fully human"
+      ],
+      "correct": 1,
+      "explanation": "-omab is murine, -ximab chimeric, -zumab humanised and -umab fully human.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m13",
+      "unit": 4,
+      "question": "Trastuzumab is directed against:",
+      "options": [
+        "CD20",
+        "HER2/neu receptor",
+        "VEGF",
+        "TNF-α"
+      ],
+      "correct": 1,
+      "explanation": "It is used in HER2-positive breast cancer and can be cardiotoxic.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m14",
+      "unit": 4,
+      "question": "A biosimilar is best described as a product that is:",
+      "options": [
+        "Chemically identical to the reference biological",
+        "Highly similar to the reference biological with no clinically meaningful differences",
+        "A new biological with a new target",
+        "A generic version approved on bioequivalence alone"
+      ],
+      "correct": 1,
+      "explanation": "Living-cell manufacture makes an identical copy impossible, so comparability is shown stepwise.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "LD50 is defined as the dose that:",
+      "options": [
+        "Produces the desired effect in 50% of animals",
+        "Kills 50% of the test animals",
+        "Is lethal to all animals",
+        "Causes toxicity in 50% of humans"
+      ],
+      "correct": 1,
+      "explanation": "It is a statistical measure of acute toxicity in animal studies.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Acute toxicity studies usually involve a single exposure with observation for:",
+      "options": [
+        "24 hours",
+        "7 days",
+        "14 days",
+        "90 days"
+      ],
+      "correct": 2,
+      "explanation": "Animals are watched for 14 days for delayed signs and deaths.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "A repeated-dose study lasting about 90 days is called:",
+      "options": [
+        "Acute",
+        "Subacute",
+        "Subchronic",
+        "Chronic"
+      ],
+      "correct": 2,
+      "explanation": "Subchronic studies identify target organs and the NOAEL.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The Ames test is used to detect:",
+      "options": [
+        "Carcinogenicity in rodents",
+        "Mutagenicity using Salmonella typhimurium",
+        "Teratogenicity in rabbits",
+        "Acute toxicity"
+      ],
+      "correct": 1,
+      "explanation": "Reversion of histidine-dependent strains indicates mutagenic potential.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The classical example of a drug causing phocomelia is:",
+      "options": [
+        "Thalidomide",
+        "Warfarin",
+        "Phenytoin",
+        "Lithium"
+      ],
+      "correct": 0,
+      "explanation": "The thalidomide tragedy led to compulsory reproductive toxicity testing.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The period of greatest risk of structural birth defects is:",
+      "options": [
+        "The first two weeks after conception",
+        "Organogenesis, about weeks 3 to 8",
+        "The second trimester",
+        "The last month of pregnancy"
+      ],
+      "correct": 1,
+      "explanation": "Before this period damage is all-or-none; later, growth and function are affected.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Which term means any damage to genetic material, whether inherited or not?",
+      "options": [
+        "Mutagenicity",
+        "Carcinogenicity",
+        "Genotoxicity",
+        "Teratogenicity"
+      ],
+      "correct": 2,
+      "explanation": "Mutagenicity is the subset that produces permanent heritable changes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The specific antagonist used in opioid poisoning is:",
+      "options": [
+        "Flumazenil",
+        "Atropine",
+        "Pralidoxime",
+        "Naloxone"
+      ],
+      "correct": 3,
+      "explanation": "Naloxone is a pure opioid receptor antagonist.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "In organophosphorus poisoning, the enzyme reactivator used along with atropine is:",
+      "options": [
+        "Pralidoxime",
+        "Dimercaprol",
+        "Penicillamine",
+        "Desferrioxamine"
+      ],
+      "correct": 0,
+      "explanation": "Oximes reactivate inhibited acetylcholinesterase, best before ageing of the enzyme.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Chelating agents such as dimercaprol and succimer are used in poisoning by:",
+      "options": [
+        "Opioids",
+        "Benzodiazepines",
+        "Barbiturates",
+        "Heavy metals"
+      ],
+      "correct": 3,
+      "explanation": "Chelators bind metal ions into complexes that are excreted.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "A rhythm with a period of about 24 hours is called:",
+      "options": [
+        "Ultradian",
+        "Circadian",
+        "Infradian",
+        "Circannual"
+      ],
+      "correct": 1,
+      "explanation": "Circadian comes from circa diem, meaning about a day.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "The master biological clock in mammals is located in the:",
+      "options": [
+        "Pineal gland",
+        "Pituitary gland",
+        "Suprachiasmatic nucleus of the hypothalamus",
+        "Medulla oblongata"
+      ],
+      "correct": 2,
+      "explanation": "It is reset by light through the retinohypothalamic tract.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m13",
+      "unit": 5,
+      "question": "Short-acting statins such as simvastatin are advised in the evening because:",
+      "options": [
+        "Absorption is better at night",
+        "Cholesterol synthesis is highest at night",
+        "Side effects are fewer at night",
+        "They cause drowsiness"
+      ],
+      "correct": 1,
+      "explanation": "Timing the peak level with peak HMG-CoA reductase activity improves the effect.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m14",
+      "unit": 5,
+      "question": "An external cue that sets the biological clock is called a:",
+      "options": [
+        "Zeitgeber",
+        "Acrophase",
+        "MESOR",
+        "Chronon"
+      ],
+      "correct": 0,
+      "explanation": "The light-dark cycle is the main zeitgeber in humans.",
+      "probability": "medium"
+    }
+  ]
+}

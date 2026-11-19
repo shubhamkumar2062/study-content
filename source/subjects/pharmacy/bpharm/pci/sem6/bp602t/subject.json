@@ -1,0 +1,38 @@
+{
+  "code": "BP602T",
+  "title": "Pharmacology III",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP602T Pharmacology III and BP608P practical",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP602T_B.Pharma-pages-29.pdf"
+  },
+  "practicalCodes": ["BP608P"],
+  "units": [
+    {"number": 1, "title": "Drugs acting on the respiratory system and the gastrointestinal tract", "notes": "notes/unit-1.md"},
+    {"number": 2, "title": "Chemotherapy: general principles, sulfonamides and antibiotics", "notes": "notes/unit-2.md"},
+    {"number": 3, "title": "Chemotherapy of tuberculosis, leprosy, fungal, viral, worm, malarial and amoebic infections", "notes": "notes/unit-3.md"},
+    {"number": 4, "title": "UTI and STD, cancer chemotherapy and immunopharmacology", "notes": "notes/unit-4.md"},
+    {"number": 5, "title": "Principles of toxicology and chronopharmacology", "notes": "notes/unit-5.md"}
+  ],
+  "extras": [
+    {"id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md"},
+    {"id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md"}
+  ],
+  "practicals": [
+    {"id": "dose-calculation", "title": "Dose calculation in pharmacological experiments", "file": "practicals/dose-calculation.md"},
+    {"id": "mast-cell-stabilisation", "title": "Antiallergic activity by mast cell stabilisation assay", "file": "practicals/mast-cell-stabilisation.md"},
+    {"id": "antiulcer-pylorus-ligation-nsaid", "title": "Anti-ulcer activity by pylorus ligation (Shay rat) and NSAID-induced ulcer models", "file": "practicals/antiulcer-pylorus-ligation-nsaid.md"},
+    {"id": "gi-motility", "title": "Effect of drugs on gastrointestinal motility", "file": "practicals/gi-motility.md"},
+    {"id": "guinea-pig-ileum", "title": "Effect of agonists and antagonists on guinea pig ileum", "file": "practicals/guinea-pig-ileum.md"},
+    {"id": "serum-biochemistry-semi-autoanalyser", "title": "Estimation of serum biochemical parameters by semi-autoanalyser", "file": "practicals/serum-biochemistry-semi-autoanalyser.md"},
+    {"id": "saline-purgative-frog-intestine", "title": "Effect of saline purgative on frog intestine", "file": "practicals/saline-purgative-frog-intestine.md"},
+    {"id": "insulin-hypoglycaemia-rabbit", "title": "Hypoglycaemic effect of insulin in rabbit", "file": "practicals/insulin-hypoglycaemia-rabbit.md"},
+    {"id": "pyrogen-test-rabbit", "title": "Test for pyrogens (rabbit method)", "file": "practicals/pyrogen-test-rabbit.md"},
+    {"id": "acute-oral-toxicity-ld50", "title": "Acute oral toxicity (LD50) from given data", "file": "practicals/acute-oral-toxicity-ld50.md"},
+    {"id": "acute-skin-irritation", "title": "Acute skin irritation / corrosion of a test substance", "file": "practicals/acute-skin-irritation.md"},
+    {"id": "acute-eye-irritation", "title": "Acute eye irritation / corrosion of a test substance", "file": "practicals/acute-eye-irritation.md"},
+    {"id": "pharmacokinetic-parameters", "title": "Calculation of pharmacokinetic parameters from given data", "file": "practicals/pharmacokinetic-parameters.md"},
+    {"id": "biostatistics-t-test-anova", "title": "Biostatistics: Student's t test and ANOVA", "file": "practicals/biostatistics-t-test-anova.md"},
+    {"id": "biostatistics-chi-square-wilcoxon", "title": "Biostatistics: chi-square test and Wilcoxon signed rank test", "file": "practicals/biostatistics-chi-square-wilcoxon.md"}
+  ]
+}
