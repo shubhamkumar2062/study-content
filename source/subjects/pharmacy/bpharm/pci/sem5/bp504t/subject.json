@@ -1,0 +1,98 @@
+{
+  "code": "BP504T",
+  "title": "Pharmacognosy and Phytochemistry II",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP504T Pharmacognosy and Phytochemistry II with its practical BP508P",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP504T_B.Pharma-pages-26.pdf"
+  },
+  "practicalCodes": [
+    "BP508P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Metabolic pathways in higher plants and their determination",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Secondary metabolites — chemical classes and drug monographs",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Isolation, identification and analysis of phytoconstituents",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Industrial production, estimation and utilization of phytoconstituents",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Basics of phytochemistry — extraction and modern analytical techniques",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "crude-drug-microscopy",
+      "title": "Morphology, histology, powder characteristics, extraction and detection of cinchona, cinnamon, senna, clove, ephedra, fennel and coriander",
+      "file": "practicals/crude-drug-microscopy.md"
+    },
+    {
+      "id": "caffeine-from-tea-dust",
+      "title": "Isolation and detection of caffeine from tea dust",
+      "file": "practicals/caffeine-from-tea-dust.md"
+    },
+    {
+      "id": "diosgenin-from-dioscorea",
+      "title": "Isolation and detection of diosgenin from Dioscorea",
+      "file": "practicals/diosgenin-from-dioscorea.md"
+    },
+    {
+      "id": "atropine-from-belladonna",
+      "title": "Isolation and detection of atropine from belladonna",
+      "file": "practicals/atropine-from-belladonna.md"
+    },
+    {
+      "id": "sennosides-from-senna",
+      "title": "Isolation and detection of sennosides from senna",
+      "file": "practicals/sennosides-from-senna.md"
+    },
+    {
+      "id": "paper-chromatography-sugars",
+      "title": "Separation of sugars by paper chromatography",
+      "file": "practicals/paper-chromatography-sugars.md"
+    },
+    {
+      "id": "tlc-herbal-extract",
+      "title": "Thin layer chromatography of a herbal extract",
+      "file": "practicals/tlc-herbal-extract.md"
+    },
+    {
+      "id": "volatile-oil-distillation-tlc",
+      "title": "Distillation of volatile oils and detection of constituents by TLC",
+      "file": "practicals/volatile-oil-distillation-tlc.md"
+    },
+    {
+      "id": "chemical-tests-crude-drugs",
+      "title": "Chemical tests for asafoetida, benzoin, colophony, aloes and myrrh",
+      "file": "practicals/chemical-tests-crude-drugs.md"
+    }
+  ]
+}

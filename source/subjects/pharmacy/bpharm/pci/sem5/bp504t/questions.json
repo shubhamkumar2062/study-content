@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the shikimic acid pathway with a flow chart. Name the important classes of secondary metabolites formed through it.",
+      "answer": "1. Definition: the shikimic acid pathway builds the aromatic ring in plants and microorganisms. Animals lack it, so phenylalanine and tryptophan are essential amino acids for humans.\n2. Starting materials: phosphoenolpyruvate (PEP) from glycolysis and D-erythrose-4-phosphate from the pentose phosphate pathway.\n3. Steps: PEP + erythrose-4-phosphate → DAHP (C7) → 3-dehydroquinic acid → 3-dehydroshikimic acid → shikimic acid → shikimate-3-phosphate (ATP) → EPSP (second PEP) → chorismic acid.\n4. Branches from chorismic acid: prephenic acid → phenylalanine and tyrosine; anthranilic acid → tryptophan.\n5. Products:\n   - phenylpropanoids (C6-C3): cinnamic acid through phenylalanine ammonia lyase, then hydroxycinnamic acids, coumarins, lignans (podophyllotoxin), lignin, eugenol, anethole, cinnamaldehyde;\n   - flavonoids: ring B and the C3 unit from shikimate, ring A from three malonyl-CoA units;\n   - hydrolysable tannins through gallic acid, formed from 3-dehydroshikimic acid;\n   - alkaloids from tyrosine (morphine, berberine), phenylalanine (ephedrine) and tryptophan (reserpine, vinca alkaloids, quinine);\n   - some quinones.\n6. Importance: the herbicide glyphosate blocks EPSP synthase, so it kills plants but has low toxicity to animals.\n7. Flow chart: PEP + erythrose-4-P → DAHP → dehydroquinic → dehydroshikimic (→ gallic acid) → shikimic → shikimate-3-P → EPSP → chorismic → prephenic (phenylalanine, tyrosine) and anthranilic (tryptophan)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the acetate-mevalonate pathway and classify terpenoids with suitable examples.",
+      "answer": "1. The acetate-mevalonate pathway makes the C5 isoprene unit from which all terpenoids and steroids are built.\n2. Steps: two acetyl-CoA → acetoacetyl-CoA; a third acetyl-CoA → HMG-CoA; HMG-CoA reductase (NADPH) → mevalonic acid; two phosphorylations and decarboxylation → isopentenyl pyrophosphate (IPP), which isomerises to dimethylallyl pyrophosphate (DMAPP).\n3. Chain building: DMAPP + IPP → geranyl pyrophosphate (C10); + IPP → farnesyl pyrophosphate (C15); + IPP → geranylgeranyl pyrophosphate (C20); two farnesyl units tail-to-tail → squalene (C30) → triterpenes and steroids; two geranylgeranyl units → phytoene (C40) → carotenoids.\n4. MEP pathway: plastids make IPP from pyruvate and glyceraldehyde-3-phosphate through 1-deoxy-D-xylulose-5-phosphate; monoterpenes, diterpenes and carotenoids come mainly by this route.\n5. Isoprene rule: Wallach observed terpenoids are multiples of C5; Ruzicka related their structures to the joining of IPP and DMAPP.\n6. Classification:\n   - hemiterpene C5: isoprene;\n   - monoterpene C10: menthol, citral, camphor, geraniol;\n   - sesquiterpene C15: artemisinin, zingiberene;\n   - diterpene C20: taxol, forskolin, phytol;\n   - triterpene C30: glycyrrhetinic acid, and steroids after loss of carbons (diosgenin, digitoxigenin);\n   - tetraterpene C40: carotenoids;\n   - polyterpene: rubber, gutta-percha.\n7. Medical note: HMG-CoA reductase is the enzyme blocked by statins in humans."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "How are radioactive isotopes used in biogenetic studies? Describe the methods of feeding the precursor, the experimental approaches and the limitations.",
+      "answer": "1. Purpose: to prove that a suspected precursor really gives rise to a secondary metabolite, and to find which atom of the product comes from which atom of the precursor.\n2. Isotopes: 14C (half-life about 5,730 years, the most used), 3H, 32P, 35S; stable isotopes 13C, 15N and 2H are followed by NMR and mass spectrometry.\n3. Detection: liquid scintillation counting for 14C and 3H, Geiger-Muller counter for stronger emitters, autoradiography of chromatograms, radio-TLC and radio-HPLC.\n4. Methods of feeding: root feeding in water culture; wick or stem feeding; cut shoot feeding; injection into stems, capsules or fruits; infiltration of leaf discs; spraying on leaves; 14CO2 in a closed chamber; adding the precursor to tissue or cell cultures.\n5. Experimental approaches:\n   - precursor-product sequence, with purification to constant specific activity and stepwise chemical degradation to locate the label;\n   - competitive feeding with an unlabelled suspected intermediate, which dilutes the label if the intermediate is genuine;\n   - sequential (pulse) analysis after short exposure to 14CO2, which shows the order of compounds;\n   - double labelling, where an unchanged ratio of two labels shows that the bond between them survived;\n   - use of blocked mutants and isolated enzymes;\n   - grafting, which showed that nicotine is formed in tobacco roots.\n6. Calculation: % incorporation = activity in isolated product x 100 / activity fed; dilution value = specific activity of precursor / specific activity of product. A low dilution suggests a close precursor.\n7. Limitations: poor uptake or transport of the precursor; dilution by the plant's own pool; randomisation after breakdown to small units; differences between cut shoots and intact plants; licensing, safety and cost of radioactive work.\n8. Examples: ornithine gives the pyrrolidine ring of tropane alkaloids; tyrosine gives both halves of benzylisoquinoline alkaloids; mevalonic acid gives terpenoids; pulse feeding of poppy showed thebaine → codeine → morphine."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between primary and secondary metabolites with examples.",
+      "answer": "1. Primary metabolites are needed for the life of every cell; secondary metabolites are not essential for the cell's own survival.\n2. Primary metabolites occur in all plants; secondary metabolites occur only in certain species, organs or stages.\n3. Primary: carbohydrates, amino acids, proteins, lipids, nucleic acids. Secondary: alkaloids, glycosides, terpenoids, flavonoids, tannins, resins.\n4. Primary metabolites are produced in large amounts and vary little; secondary metabolites are produced in small amounts and vary with season, climate and plant part.\n5. Secondary metabolites protect the plant and attract pollinators, and most medicinal activity belongs to them, for example morphine, digoxin, menthol and quercetin."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the acetate-malonate (polyketide) pathway with examples.",
+      "answer": "1. Acetyl-CoA is carboxylated to malonyl-CoA by acetyl-CoA carboxylase.\n2. A starter unit is joined head-to-tail with several malonyl-CoA units; carbon dioxide is lost at each step, so the chain grows by two carbons each time.\n3. If each keto group is reduced as the chain grows, a fatty acid is formed, for example palmitic and oleic acids.\n4. If the keto groups are not reduced, a poly-beta-keto chain (polyketide) is formed, which folds and cyclises by aldol or Claisen reactions into aromatic rings.\n5. Products: anthraquinones of senna, aloes, rhubarb and cascara; phloroglucinols and chromones; ring A of flavonoids; microbial polyketides such as tetracyclines and griseofulvin."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the amino acid precursors of the main groups of alkaloids with one drug example each.",
+      "answer": "1. Ornithine (and arginine): pyrrolidine and tropane alkaloids - hyoscyamine and atropine of belladonna, cocaine; nicotine with nicotinic acid.\n2. Lysine: piperidine and quinolizidine alkaloids - lobeline, sparteine.\n3. Phenylalanine: phenylethylamine protoalkaloids - ephedrine of ephedra.\n4. Tyrosine: benzylisoquinoline alkaloids - morphine and papaverine of opium, berberine, emetine.\n5. Tryptophan: indole and quinoline alkaloids - reserpine of rauwolfia, vinblastine of vinca, quinine of cinchona, after condensation of tryptamine with secologanin to give strictosidine.\n6. Histidine: imidazole alkaloids - pilocarpine. Anthranilic acid: quinoline and quinazoline alkaloids - vasicine. Purine nucleotides: caffeine and theobromine."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the methods of feeding labelled precursors to plants in tracer studies.",
+      "answer": "1. Root feeding: the plant is grown in water culture and the labelled compound is added to the solution; suitable for alkaloids formed in roots.\n2. Wick or stem feeding: a cotton wick passed through the stem dips into the solution and carries it in.\n3. Cut shoot feeding: a cut twig stands in the solution and draws it up by transpiration.\n4. Injection into stems, fruits or capsules, for example into opium poppy capsules.\n5. Infiltration or floating of leaf discs in the solution, and spraying or painting on the leaf surface.\n6. Exposure to 14CO2 in a closed chamber, so that the plant fixes the label by photosynthesis.\n7. Addition of the precursor to sterile tissue, cell suspension or hairy root cultures, which gives the best control."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Outline the biosynthesis of tropane alkaloids from ornithine.",
+      "answer": "1. Ornithine is decarboxylated to putrescine, which is methylated to N-methylputrescine.\n2. Oxidation and cyclisation give the N-methyl-delta-1-pyrrolinium cation, the pyrrolidine ring of the alkaloid.\n3. Condensation with an acetate-derived unit and ring closure give tropinone.\n4. Reduction of tropinone gives tropine.\n5. Tropine is esterified with phenyllactic acid, derived from phenylalanine, to give littorine, which rearranges to hyoscyamine.\n6. Hyoscyamine is oxidised through 6,7-dehydrohyoscyamine to hyoscine. Racemisation of hyoscyamine during extraction gives atropine."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the formula for percentage incorporation in a tracer experiment.",
+      "answer": "Percentage incorporation = (total radioactivity in the isolated product / total radioactivity fed) x 100. A related measure, the dilution value, is the specific activity of the precursor divided by that of the product."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which enzyme of the shikimic acid pathway is inhibited by glyphosate, and why is the herbicide of low toxicity to animals?",
+      "answer": "Glyphosate inhibits EPSP synthase, the enzyme that adds the second phosphoenolpyruvate to shikimate-3-phosphate. Animals do not possess the shikimic acid pathway, so the herbicide has little effect on them."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Give the biological source, chemical constituents, chemical tests and uses of opium. Add a note on its collection and legal control.",
+      "answer": "1. Synonym: afim, raw opium.\n2. Biological source: dried latex obtained by incising the unripe capsules of Papaver somniferum L., family Papaveraceae.\n3. Geographical source: India is a major licit producer, with licensed cultivation in Madhya Pradesh, Rajasthan and Uttar Pradesh; also Turkey and Australia (as poppy straw).\n4. Collection: a few days after the petals fall, when the capsules turn yellowish-green, shallow vertical incisions are made in the afternoon with a multi-bladed knife; the latex that exudes coagulates overnight and is scraped off next morning, then dried and made into cakes.\n5. Chemical constituents: about 25 alkaloids, mostly combined with meconic acid.\n   - phenanthrene group: morphine (the main alkaloid, about 10%), codeine, thebaine;\n   - benzylisoquinoline group: papaverine, noscapine (narcotine), narceine;\n   - also meconic acid, sugars, resin, wax and mucilage.\n6. Chemical test: an aqueous extract with ferric chloride gives a deep red colour due to meconic acid, which is not discharged by dilute hydrochloric acid.\n7. Uses: morphine for severe pain; codeine as an antitussive and mild analgesic; papaverine as a smooth muscle relaxant; noscapine as an antitussive; thebaine as a raw material for semi-synthetic opioids and antagonists. Opium preparations were formerly used in diarrhoea.\n8. Commercial applications: opium and poppy straw are the raw materials of alkaloid factories; poppy seeds and poppy seed oil are used in food, and contain almost no alkaloid.\n9. Legal control: opium, poppy straw and their alkaloids are controlled under the Narcotic Drugs and Psychotropic Substances Act, 1985; cultivation requires a licence from the Central Bureau of Narcotics."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe digitalis under the headings biological source, constituents, chemical tests and uses. Compare Digitalis purpurea with Digitalis lanata.",
+      "answer": "1. Biological source: dried leaves of Digitalis purpurea L., family Scrophulariaceae (now placed in Plantaginaceae). The leaves are dried quickly at about 60 degrees Celsius to stop enzymic breakdown. Digitalis lanata Ehrh. leaves are the source of digoxin.\n2. Geographical source: Europe and the United States; cultivated in Kashmir and the Nilgiris in India.\n3. Chemical constituents: cardenolide (cardiac) glycosides.\n   - D. purpurea: primary glycosides purpurea glycoside A and B, which lose glucose by enzymic action to give digitoxin and gitoxin; the aglycones are digitoxigenin and gitoxigenin; also gitaloxin.\n   - D. lanata: lanatosides A, B and C, which are acetylated; lanatoside C gives digoxin, aglycone digoxigenin.\n   - The sugar chain is three digitoxose units with glucose. Also steroidal saponins such as digitonin, anthraquinones, flavonoids and the enzyme digipurpidase.\n4. Chemical tests: Keller-Killiani test (glacial acetic acid with a trace of ferric chloride, then concentrated sulphuric acid down the side: reddish-brown ring with a bluish-green upper layer, showing 2-deoxy sugar); Legal test (pink to red); Baljet test (orange); Liebermann-Burchard for the steroid nucleus.\n5. Uses: digoxin in congestive heart failure and for controlling the ventricular rate in atrial fibrillation; digitoxin is longer acting. They inhibit Na+/K+-ATPase, raise intracellular calcium, strengthen the force of contraction and slow conduction through the AV node. The therapeutic index is narrow, so blood levels are monitored.\n6. Comparison: D. purpurea gives digitoxin and has no lanatosides; D. lanata has acetylated lanatosides, is the commercial source of digoxin and deslanoside, and its leaves are narrower and woolly.\n7. Adulterants: leaves of Verbascum thapsus, Symphytum and Primula species."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify resins with examples. Describe benzoin and asafoetida with their sources, constituents, tests and uses.",
+      "answer": "1. Resins are amorphous, brittle solids or semisolids, mixtures of resin acids, resin alcohols, resin esters and inert resenes. They are insoluble in water, soluble in alcohol, ether and chloroform, and burn with a smoky flame.\n2. Classification:\n   - resins proper: colophony, podophyllum resin;\n   - oleoresins (resin + volatile oil): turpentine, ginger, capsicum;\n   - oleo-gum-resins (resin + volatile oil + gum): asafoetida, myrrh, guggul;\n   - balsams (resin with cinnamic or benzoic acid or their esters): benzoin, tolu, Peru balsam, storax;\n   - glycoresins: jalap.\n3. Benzoin.\n   - Biological source: balsamic resin obtained from incisions in the stems of Styrax benzoin Dryander and S. paralleloneurum (Sumatra benzoin) or Styrax tonkinensis (Siam benzoin), family Styracaceae; it is a pathological product.\n   - Constituents: Sumatra benzoin contains free cinnamic and benzoic acids, coniferyl cinnamate, cinnamyl cinnamate, sumaresinolic acid and vanillin; Siam benzoin contains mainly coniferyl benzoate, free benzoic acid and vanillin, with little or no cinnamic acid.\n   - Tests: on dry heating it gives a white sublimate of benzoic acid; Sumatra benzoin warmed with potassium permanganate solution gives the odour of benzaldehyde, while Siam benzoin does not.\n   - Uses: compound benzoin tincture as a steam inhalation and antiseptic protective, mild expectorant, preservative for fats, incense and perfumery.\n4. Asafoetida.\n   - Biological source: oleo-gum-resin obtained by incising the living rhizomes and roots of Ferula assa-foetida L., Ferula foetida and other Ferula species, family Umbelliferae.\n   - Geographical source: Iran and Afghanistan; cultivation has begun in Himachal Pradesh.\n   - Constituents: resin containing asaresinotannol combined with ferulic acid, free ferulic acid, umbelliferone in combined form; gum made of glucose, galactose and arabinose; volatile oil containing organic sulphur compounds which give the characteristic odour.\n   - Tests: a fresh fracture with concentrated sulphuric acid turns reddish-brown; with 50% nitric acid it turns green; boiling with hydrochloric acid and adding ammonia gives a blue fluorescence (umbelliferone); with water it forms a milky emulsion.\n   - Uses: carminative, antispasmodic and expectorant; used in flatulence and colic; widely used as the condiment hing.\n   - Adulterants: colophony, gum arabic, galbanum, sand and red clay."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the biological source, constituents and uses of vinca.",
+      "answer": "1. Biological source: dried whole plant or leaves of Catharanthus roseus (L.) G. Don, family Apocynaceae; it is also known as Madagascar periwinkle or sadabahar.\n2. Geographical source: native to Madagascar, cultivated throughout India.\n3. Constituents: more than a hundred monoterpenoid indole alkaloids. The dimeric alkaloids vinblastine and vincristine occur in very small amounts; the monomers vindoline and catharanthine are plentiful; ajmalicine, serpentine and lochnerine are also present.\n4. Uses: vinblastine in Hodgkin disease, testicular cancer and Kaposi sarcoma; vincristine in acute lymphoblastic leukaemia, lymphomas and Wilms tumour. Both bind tubulin and arrest cells in metaphase. Ajmalicine is used in circulatory disorders.\n5. Commercial application: vindoline and catharanthine are coupled to make vinblastine, and further semi-synthetic drugs such as vinorelbine and vindesine."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the source, constituents and uses of liquorice.",
+      "answer": "1. Biological source: dried peeled or unpeeled roots and stolons of Glycyrrhiza glabra L., family Leguminosae.\n2. Geographical source: Spain, Italy, Russia, Iran and China; grown in Punjab and sub-Himalayan India.\n3. Constituents: glycyrrhizin, a triterpenoid saponin present as calcium and potassium salts, about fifty times sweeter than sucrose, which on hydrolysis gives 18-beta-glycyrrhetinic acid and two molecules of glucuronic acid; flavonoids liquiritin and isoliquiritin with their aglycones; starch, sugars and asparagine.\n4. Chemical test: the powder treated with 80% sulphuric acid gives a deep yellow colour.\n5. Uses: demulcent and expectorant in cough preparations, sweetening and flavouring agent that masks bitterness, antiulcer (carbenoxolone is a derivative of glycyrrhetinic acid), anti-inflammatory.\n6. Caution: long or large use causes sodium and water retention, loss of potassium and raised blood pressure."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe senna with its source, constituents, microscopy and uses.",
+      "answer": "1. Biological source: dried leaflets of Cassia angustifolia Vahl (Tinnevelly senna) or Cassia acutifolia Delile (Alexandrian senna), family Leguminosae; the pods are also official.\n2. Geographical source: Tinnevelly senna is cultivated in Tamil Nadu and Gujarat; Alexandrian senna comes from Egypt and Sudan.\n3. Constituents: dianthrone glycosides sennosides A and B (glucosides of sennidins A and B) and sennosides C and D; free and combined anthraquinones such as rhein and aloe-emodin; flavonols, mucilage, calcium oxalate and resin.\n4. Microscopy: isobilateral leaf with paracytic stomata on both surfaces; unicellular, thick-walled, warty trichomes; a crystal sheath of calcium oxalate prisms around the midrib fibres; cluster crystals in the mesophyll.\n5. Chemical test: Borntrager test after hydrolysis gives a pink-red ammoniacal layer.\n6. Uses: stimulant laxative for constipation and for bowel preparation before colonoscopy. Colonic bacteria convert the sennosides to rhein anthrone, which increases peristalsis and fluid secretion. It is often combined with carminatives to reduce griping."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between hydrolysable and condensed tannins, and give the general tests for tannins.",
+      "answer": "1. Hydrolysable tannins are esters of gallic acid (gallotannins) or ellagic acid (ellagitannins) with a sugar, usually glucose; condensed tannins are polymers of flavan-3-ols such as catechin and epicatechin joined by carbon-carbon bonds.\n2. On treatment with acid, hydrolysable tannins break into gallic or ellagic acid and sugar, while condensed tannins polymerise further into insoluble red phlobaphenes.\n3. With ferric chloride, hydrolysable tannins give a blue-black colour and condensed tannins a green-black colour.\n4. On dry distillation, hydrolysable tannins give pyrogallol and condensed tannins give catechol. Bromine water precipitates condensed tannins only.\n5. Examples: hydrolysable - nutgall, myrobalan, clove, rhubarb; condensed - catechu, kino, cinnamon, tea.\n6. General tests: gelatin test (1% gelatin with 10% sodium chloride gives a white precipitate), goldbeater skin test, phenazone test, and the matchstick test for catechins."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the biological source, constituents and uses of clove, and name its common adulterants.",
+      "answer": "1. Biological source: dried flower buds of Syzygium aromaticum (L.) Merr. and L. M. Perry, family Myrtaceae.\n2. Geographical source: Indonesia, Zanzibar and Pemba, Madagascar; in India, Kerala and Tamil Nadu.\n3. Constituents: volatile oil about 15 to 20%, whose main constituent is the phenol eugenol, with acetyl eugenol and beta-caryophyllene; gallotannic acid; oleanolic acid, sterols and fixed oil.\n4. Chemical tests: an alcoholic extract or the oil with ferric chloride gives a blue colour; with strong potassium hydroxide solution, needle-shaped crystals of potassium eugenate separate.\n5. Uses: dental analgesic and antiseptic, zinc oxide-eugenol dental cement, carminative and stomachic, flavouring agent and spice; eugenol is a starting material for vanillin.\n6. Adulterants: clove stalks, mother cloves, blown cloves and exhausted cloves, which float horizontally on water."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the chemical tests used to identify colophony and myrrh.",
+      "answer": "Colophony: a solution in light petroleum shaken with dilute copper acetate gives an emerald-green colour in the petroleum layer. Myrrh: an ether extract, evaporated and exposed to bromine vapour, gives a violet colour."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is the modified Borntrager test needed for aloes?",
+      "answer": "The active constituent aloin (barbaloin) is a C-glycoside, which is not split by dilute acid alone. Ferric chloride with hydrochloric acid is therefore used to oxidise the anthrone and release the anthraquinone, which then gives the pink-red colour with ammonia."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the general method of extraction of alkaloids from a crude drug. Explain the isolation, identification and assay of caffeine from tea dust.",
+      "answer": "1. General principle: alkaloids occur in the plant as salts of organic acids. They are freed by alkali and are then soluble in organic solvents, while their salts are soluble in water. Repeated changes of pH therefore purify them.\n2. General scheme:\n   - moisten the powdered drug with ammonia, sodium carbonate or lime to free the bases;\n   - extract with an organic solvent such as chloroform, ether or toluene;\n   - shake the organic layer with dilute acid, so the alkaloid salts pass into the aqueous layer and fats and pigments stay behind;\n   - basify the aqueous layer with ammonia and re-extract with chloroform;\n   - evaporate to give total alkaloids, and purify by crystallisation of salts, column chromatography or preparative thin layer chromatography.\n3. Isolation of caffeine from tea dust:\n   - boil tea dust with water containing calcium carbonate, which keeps tannins back as insoluble salts and frees the caffeine;\n   - filter hot and cool the filtrate;\n   - extract repeatedly with chloroform in a separating funnel, shaking gently to avoid an emulsion;\n   - dry the chloroform layer over anhydrous sodium sulphate and evaporate to give crude caffeine;\n   - purify by sublimation or by recrystallisation from hot alcohol or water.\n4. Identification: white silky needles, bitter taste, melting point about 235 to 237 degrees Celsius, sublimes; murexide test gives a purple colour with ammonia; precipitated by tannic acid but little by Mayer reagent since it is a very weak base; thin layer chromatography against a standard with ultraviolet quenching at 254 nanometres; ultraviolet maximum at about 273 nanometres.\n5. Assay: ultraviolet spectrophotometry at about 273 nanometres, high performance liquid chromatography with ultraviolet detection, non-aqueous titration with perchloric acid, or a gravimetric method.\n6. Uses of caffeine: central nervous system stimulant, adjuvant in analgesic combinations, with ergotamine in migraine, and as caffeine citrate in apnoea of the newborn."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the isolation, identification and analysis of menthol and citral.",
+      "answer": "1. Menthol - nature and source: a monocyclic monoterpene alcohol; natural l-menthol is obtained from the oil of Mentha arvensis var. piperascens (Japanese mint) and from peppermint oil.\n2. Isolation of menthol: the herb is steam distilled to give mint oil; the oil is chilled in stages below about zero degrees Celsius, when menthol crystallises; the crystals are separated by centrifugation, recrystallised, washed and dried. The liquid left is dementholised oil.\n3. Identification of menthol: colourless crystals with a peppermint odour and cooling taste; melting point about 42 to 44 degrees Celsius; laevorotatory; it liquefies when triturated with an equal weight of camphor, thymol or chloral hydrate; thin layer chromatography with anisaldehyde-sulphuric acid spray gives a violet spot matching the standard; the infrared spectrum shows a broad hydroxyl band and no carbonyl band.\n4. Analysis of menthol: gas chromatography with a flame ionisation detector is the method of choice. Classically the oil is acetylated with acetic anhydride and sodium acetate, and the ester value before and after acetylation gives the free and total menthol.\n5. Citral - nature and source: a mixture of the geometric isomers geranial and neral, an acyclic monoterpene aldehyde, obtained from lemongrass oil of Cymbopogon flexuosus and C. citratus, family Poaceae.\n6. Isolation of citral: steam distillation gives lemongrass oil; the oil is shaken with saturated sodium bisulphite solution, when citral forms a water-soluble bisulphite addition compound; the aqueous layer is washed with ether to remove non-aldehydic matter and the adduct is decomposed with sodium carbonate; the freed citral is separated by steam distillation or extraction. Fractional distillation under reduced pressure is an alternative.\n7. Identification of citral: pale yellow liquid with a lemon odour; forms a 2,4-dinitrophenylhydrazone, semicarbazone and oxime of sharp melting point; restores the colour of Schiff reagent; gas chromatography shows two peaks; the infrared spectrum shows a conjugated aldehyde carbonyl band.\n8. Analysis of citral: the hydroxylamine hydrochloride (oximation) method, in which the liberated hydrochloric acid is titrated with standard alkali; the bisulphite absorption method in a cassia flask, where the fall in oil volume gives the percentage of aldehyde; and gas chromatography.\n9. Uses: menthol as a carminative, counter-irritant and cooling agent; citral in perfumery and as a starting material for ionones and vitamin A."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the isolation and identification of quinine and reserpine.",
+      "answer": "1. Quinine - source: bark of Cinchona species, family Rubiaceae; it is a quinoline alkaloid.\n2. Isolation of quinine:\n   - the powdered bark is mixed with lime or sodium hydroxide and water to liberate the alkaloid bases;\n   - the mass is extracted with hot toluene;\n   - the solvent extract is shaken with dilute sulphuric acid, so the alkaloids pass into the acid layer as sulphates;\n   - the acid solution is neutralised to about pH 6.5 and cooled, when quinine sulphate, the least soluble of the cinchona alkaloid sulphates, crystallises;\n   - it is recrystallised from hot water with charcoal. Quinidine, cinchonine and cinchonidine remain in the mother liquor and are separated as other salts.\n3. Identification of quinine: white, very bitter needles; a solution in dilute sulphuric acid shows a strong blue fluorescence that is quenched by chloride; the thalleioquin test with bromine water and excess ammonia gives an emerald-green colour; the herapathite test gives green crystals; thin layer chromatography with Dragendorff reagent and a blue fluorescent spot under 365 nanometres.\n4. Assay of quinine: non-aqueous titration with perchloric acid, fluorimetry in dilute sulphuric acid, ultraviolet spectrophotometry and high performance liquid chromatography.\n5. Reserpine - source: roots of Rauwolfia serpentina, family Apocynaceae; it is a weakly basic indole alkaloid ester.\n6. Isolation of reserpine:\n   - the powdered root is percolated with methanol or ethanol;\n   - the extract is concentrated, diluted with water and defatted with light petroleum;\n   - the aqueous solution is made mildly alkaline with sodium bicarbonate and extracted with chloroform, in which the weakly basic reserpine dissolves while strongly basic alkaloids largely remain behind;\n   - the chloroform extract is concentrated and purified on a column of alumina or silica;\n   - reserpine is crystallised from methanol or acetone-methanol.\n7. Identification of reserpine: white to pale yellow crystals that darken in light, so it is stored protected from light; positive with alkaloid reagents; oxidation with nitrous acid gives a yellow-green fluorescent product; thin layer chromatography with Dragendorff reagent and ultraviolet fluorescence; ultraviolet and infrared spectra matched with a standard.\n8. Assay of reserpine: fluorimetry after nitrous acid oxidation, ultraviolet spectrophotometry and high performance liquid chromatography."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "How is atropine isolated and identified?",
+      "answer": "1. Source: Atropa belladonna, Datura species, Hyoscyamus muticus and Duboisia species, family Solanaceae.\n2. Isolation: the powdered drug is moistened with sodium carbonate solution or ammonia to free the bases; extracted with ether or chloroform; the organic extract is shaken with dilute sulphuric acid so the alkaloid salts pass into water; the acid layer is made alkaline with ammonia and re-extracted with chloroform; the residue is hyoscyamine with hyoscine.\n3. Racemisation: the hyoscyamine is refluxed in chloroform or warmed in alcohol with a trace of alkali, which converts laevo-hyoscyamine into racemic atropine.\n4. Crystallisation: atropine is crystallised from acetone, or converted to atropine sulphate and crystallised from alcohol; hyoscine remains in the mother liquor and is separated as the hydrobromide.\n5. Identification: melting point about 114 to 116 degrees Celsius; optically inactive, unlike laevorotatory hyoscyamine; Vitali-Morin test with fuming nitric acid followed by acetone and alcoholic potassium hydroxide gives a violet colour; positive with general alkaloid reagents; thin layer chromatography with Dragendorff spray."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the isolation and identification of rutin.",
+      "answer": "1. Nature and source: rutin is quercetin-3-O-rutinoside, a flavonol glycoside obtained from buckwheat, the flower buds of Sophora japonica and the leaves of Ruta graveolens.\n2. Key property: it is soluble in boiling water and hot alcohol but only slightly soluble in cold water.\n3. Isolation: the powdered drug is extracted with boiling water or hot methanol under reflux; the hot extract is filtered quickly and allowed to stand in a cold place, when rutin crystallises as pale yellow needles; a methanol extract is concentrated and diluted with water to bring out the rutin; the crude product is recrystallised from hot water or methanol-water with charcoal.\n4. Identification: Shinoda test with magnesium and concentrated hydrochloric acid gives a red colour; ferric chloride gives green; alkali deepens the yellow colour; acid hydrolysis gives quercetin with glucose and rhamnose, confirmed by paper chromatography; thin layer chromatography with natural products reagent gives an orange-yellow fluorescence under 365 nanometres; the ultraviolet spectrum shows the two bands of a flavonol.\n5. Assay: aluminium chloride colorimetry against a rutin standard, high performance liquid chromatography or densitometric high performance thin layer chromatography."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How is artemisinin isolated, identified and estimated?",
+      "answer": "1. Source: leaves and flowering tops of Artemisia annua, family Asteraceae; the compound is a sesquiterpene lactone with an endoperoxide bridge.\n2. Isolation: the dried leaves are extracted with hexane or petroleum ether at moderate temperature; the extract is concentrated and dewaxed by dissolving the residue in a little acetonitrile or aqueous alcohol and chilling; the product is purified by silica gel column chromatography with hexane-ethyl acetate; artemisinin is crystallised from cyclohexane or hexane-ethyl acetate. Supercritical carbon dioxide extraction is also used.\n3. Identification: colourless needles with a melting point of about 156 to 157 degrees Celsius; it liberates iodine from potassium iodide in acetic acid, which shows the peroxide; thin layer chromatography with anisaldehyde-sulphuric acid spray matches a standard; it does not quench under ultraviolet light at 254 nanometres; the infrared spectrum shows a lactone carbonyl near 1735 reciprocal centimetres.\n4. Estimation: high performance liquid chromatography with an evaporative light scattering or refractive index detector, because artemisinin absorbs ultraviolet light poorly; alternatively the compound is converted with alkali into an ultraviolet-absorbing derivative before chromatography; densitometric high performance thin layer chromatography is also used."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the isolation and identification of curcumin.",
+      "answer": "1. Source: rhizomes of Curcuma longa L., family Zingiberaceae. Turmeric contains three curcuminoids: curcumin, demethoxycurcumin and bisdemethoxycurcumin.\n2. Isolation: the dried powdered rhizome is first treated with hexane or light petroleum to remove volatile oil and fats; the marc is extracted with acetone, ethanol or ethyl acetate to give turmeric oleoresin; the oleoresin is washed with hexane and the crude curcuminoids that separate are collected; pure curcumin is obtained by crystallisation from ethanol or isopropanol or by silica gel column chromatography.\n3. Identification: orange-yellow crystalline powder with a melting point of about 180 to 183 degrees Celsius; it turns reddish-brown with alkali and yellow again with acid; with boric acid it gives an orange-red colour known as rosocyanin; thin layer chromatography shows three yellow spots in daylight; the visible absorption maximum is about 420 to 430 nanometres in methanol.\n4. Estimation: spectrophotometry at about 425 nanometres for total curcuminoids, or high performance liquid chromatography, which separates the three curcuminoids.\n5. Uses: anti-inflammatory, antioxidant, antiseptic and a natural food colour."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the isolation of glycyrrhetinic acid from liquorice.",
+      "answer": "1. Nature: 18-beta-glycyrrhetinic acid is the triterpenoid aglycone of glycyrrhizin, the sweet saponin of liquorice root.\n2. Isolation steps:\n   - the coarse powder of liquorice is extracted with dilute ammonia water or hot water, in which glycyrrhizin dissolves as its ammonium salt;\n   - the extract is concentrated and acidified with dilute sulphuric or hydrochloric acid, when crude glycyrrhizic acid is precipitated and collected;\n   - the glycyrrhizic acid is refluxed with dilute mineral acid for a few hours, which removes the two glucuronic acid units;\n   - the insoluble aglycone separates and is filtered, washed free of acid and recrystallised from ethanol or methanol.\n3. Identification: the Liebermann-Burchard test gives a pink to violet colour, showing a triterpenoid; thin layer chromatography with anisaldehyde-sulphuric acid gives a violet spot matching a standard; the ultraviolet maximum is near 250 nanometres because of the 11-oxo-12-ene system.\n4. Assay: high performance liquid chromatography with ultraviolet detection near 250 nanometres, or ultraviolet spectrophotometry of glycyrrhizin in an ammoniacal extract.\n5. Use: anti-inflammatory and antiulcer; carbenoxolone, its hemisuccinate, heals peptic ulcers."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the Vitali-Morin test and which compounds does it identify?",
+      "answer": "The residue is treated with fuming nitric acid and evaporated to dryness; the residue is then dissolved in acetone and a drop of alcoholic potassium hydroxide is added, giving a violet colour. It identifies tropane alkaloid esters such as atropine, hyoscyamine and hyoscine."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is sodium bisulphite used in the isolation of citral?",
+      "answer": "Citral is an aldehyde and forms a water-soluble bisulphite addition compound, which separates it from the terpenes and alcohols of the oil. The adduct is then decomposed with alkali to regenerate pure citral."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the industrial production, estimation and utilization of diosgenin. Why is it important to the pharmaceutical industry?",
+      "answer": "1. Source: tubers of Dioscorea species such as D. deltoidea, D. floribunda and D. composita, family Dioscoreaceae; fenugreek seeds and Costus speciosus are other sources. Diosgenin occurs in the plant as the saponin dioscin.\n2. Production:\n   - tubers are cleaned, sliced and dried, or the wet pulp is fermented for a few days so that the plant's own enzymes remove part of the sugar chain and improve the yield;\n   - the material is hydrolysed by refluxing with 2 to 4 normal hydrochloric or sulphuric acid for several hours, which splits off the sugars and frees the water-insoluble diosgenin;\n   - the hydrolysed mass is filtered, washed free of acid, neutralised and dried;\n   - the dried residue is extracted with petroleum ether, hexane or toluene;\n   - the solvent is concentrated and the crude diosgenin is recrystallised from acetone or ethanol.\n3. Estimation: gravimetric determination of crude sapogenin after hydrolysis; colorimetry of the coloured product formed with anisaldehyde-sulphuric acid against a standard curve; high performance thin layer chromatography, high performance liquid chromatography and gas liquid chromatography, which also separate diosgenin from yamogenin.\n4. Utilization: diosgenin is the chief starting material for steroid drugs. By the Marker degradation it is converted into 16-dehydropregnenolone acetate, which leads to:\n   - progesterone and other progestins;\n   - corticosteroids such as cortisone, hydrocortisone, prednisolone and dexamethasone, with microbial hydroxylation steps;\n   - androgens and oestrogens;\n   - oral contraceptive steroids.\n5. Importance: total synthesis of the steroid nucleus is long and costly, so a plant sapogenin that already has the four-ring skeleton makes steroid hormones affordable. Supply problems with wild Dioscorea led to cultivation and to the use of other sapogenin sources such as hecogenin from sisal waste and soya sterols."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the production, estimation and uses of taxol. How was the problem of its supply solved?",
+      "answer": "1. Source: paclitaxel, also called taxol, is a diterpenoid taxane first obtained from the bark of Taxus brevifolia; Taxus baccata and Taxus wallichiana are other species, family Taxaceae.\n2. The supply problem: the content in bark is very small, the yew grows slowly, and stripping the bark kills the tree, so several thousand trees were needed for the early clinical trials.\n3. Routes of production:\n   - extraction from bark with methanol, followed by solvent partition and repeated chromatography and crystallisation; this was the original route and was not sustainable;\n   - semi-synthesis from 10-deacetylbaccatin III, which is present in good amount in the needles and can be clipped from living trees year after year; the side chain is attached chemically to give paclitaxel, and the same intermediate gives docetaxel;\n   - plant cell fermentation, in which Taxus cell suspensions are grown in large bioreactors with elicitors such as methyl jasmonate and the drug is recovered from the cells and medium;\n   - total synthesis, achieved in 1994, which is too long to be economical;\n   - endophytic fungi of yew, which make traces of the compound and remain a research idea.\n4. Estimation: high performance liquid chromatography with ultraviolet detection at about 227 nanometres, which separates paclitaxel from cephalomannine, baccatin III and 10-deacetylbaccatin III; liquid chromatography with mass spectrometry for low levels.\n5. Mechanism: taxanes bind to tubulin and stabilise microtubules, preventing their breakdown, so cell division is blocked.\n6. Uses: paclitaxel infusion in ovarian, breast and non-small-cell lung cancer and in Kaposi sarcoma; docetaxel in breast, prostate, gastric and lung cancers; paclitaxel-coated coronary stents. As the drug is poorly soluble in water, it is given in a polyoxyl castor oil and ethanol vehicle, which can cause hypersensitivity, or as albumin-bound nanoparticles."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the industrial production, estimation and uses of digoxin and of sennosides.",
+      "answer": "1. Digoxin - source: leaves of Digitalis lanata, family Scrophulariaceae. Its lanatoside C has no counterpart in D. purpurea.\n2. Production of digoxin:\n   - leaves are dried rapidly at a controlled temperature, or processed fresh, so that enzymes do not destroy the glycosides;\n   - extraction with dilute ethanol or methanol in water;\n   - removal of tannins and pigments with adsorbents, and transfer of the glycosides into chloroform or chloroform-alcohol;\n   - the terminal glucose of lanatoside C is removed by the plant enzyme digilanidase to give acetyldigoxin, and the acetyl group is removed by mild alkaline hydrolysis, giving digoxin; deslanoside is obtained if the acetyl group is removed first;\n   - purification by repeated column chromatography and crystallisation.\n3. Estimation of digoxin: high performance liquid chromatography is the official type method, with limits for digitoxin and gitoxin; colorimetric methods using alkaline picrate (Baljet), 3,5-dinitrobenzoic acid (Kedde) or xanthydrol; biological assay in the past; immunoassay of plasma digoxin for therapeutic drug monitoring.\n4. Uses of digoxin: congestive heart failure and control of ventricular rate in atrial fibrillation and flutter; available as tablets, paediatric elixir and injection. The therapeutic index is narrow and toxicity increases with low potassium; digoxin-specific antibody fragments are the antidote.\n5. Sennosides - source: leaves and pods of Cassia angustifolia and C. acutifolia, family Leguminosae.\n6. Production of sennosides:\n   - the drug is powdered and may be pre-extracted with a non-polar solvent to remove chlorophyll and resin;\n   - extraction with about 70% aqueous methanol or ethanol kept slightly acidic with citric acid to protect the glycosides;\n   - the extract is concentrated under vacuum and impurities are removed;\n   - the sennosides are precipitated as their calcium salts by adding calcium chloride in methanol and raising the pH with ammonia;\n   - the precipitate is filtered, washed, dried and milled to give calcium sennosides.\n7. Estimation of sennosides: the pharmacopoeial type method hydrolyses and oxidises the glycosides with ferric chloride in hydrochloric acid, extracts the aglycones into ether, treats them with magnesium acetate in methanol and reads the red colour at about 515 nanometres, calculating the result as sennoside B; high performance liquid chromatography measures sennosides A, B, C and D separately.\n8. Uses of sennosides: stimulant laxative tablets, granules and syrups, and bowel preparation before endoscopy and radiology."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "How is artemisinin produced on an industrial scale, and how is it estimated and used?",
+      "answer": "1. Source: leaves of Artemisia annua, family Asteraceae; high-yielding varieties are grown in India, China and East Africa.\n2. Production: the crop is harvested before or at the start of flowering, when the content is highest; the leaves are shade dried and separated from stems; extraction with hexane, petroleum ether or supercritical carbon dioxide; concentration and dewaxing; purification by silica gel column chromatography and crystallisation.\n3. Derivatives: artemisinin is reduced to dihydroartemisinin, which gives artesunate with succinic anhydride, and artemether and arteether as the methyl and ethyl ethers.\n4. Another route: engineered baker's yeast makes artemisinic acid by fermentation, which is converted chemically into artemisinin; this semi-synthetic material has been produced commercially to steady supplies.\n5. Estimation: high performance liquid chromatography with an evaporative light scattering or refractive index detector, since the compound absorbs ultraviolet light poorly; alternatively conversion with alkali to an ultraviolet-absorbing product before chromatography.\n6. Uses: artemisinin-based combination therapy for uncomplicated falciparum malaria, for example artemether with lumefantrine or artesunate with sulfadoxine-pyrimethamine; injectable artesunate for severe and cerebral malaria. Combinations are used to delay resistance."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the production, estimation and uses of caffeine.",
+      "answer": "1. Sources: tea waste and tea dust of Camellia sinensis, the by-product of decaffeinating coffee, cola nuts, and chemical synthesis, which supplies much of the world's caffeine.\n2. Production from tea waste: the waste is extracted with hot water in the presence of lime or sodium carbonate, which keeps tannins back as insoluble salts and frees the caffeine; the hot extract is filtered and concentrated; caffeine is extracted with a solvent such as dichloromethane or adsorbed on activated charcoal and eluted; the crude product is decolourised with charcoal and recrystallised from water or alcohol, or purified by sublimation.\n3. Production from coffee: green beans are moistened and extracted with supercritical carbon dioxide, ethyl acetate or water; the caffeine removed is purified and sold.\n4. Estimation: ultraviolet spectrophotometry at about 273 nanometres, high performance liquid chromatography for beverages and tablets, non-aqueous titration with perchloric acid for the pure substance, and gravimetric methods.\n5. Uses: central nervous system stimulant; adjuvant in analgesic combinations with paracetamol or aspirin; with ergotamine in migraine; caffeine citrate in apnoea of prematurity; in soft drinks and energy drinks."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the production and uses of vincristine and vinblastine.",
+      "answer": "1. Source: leaves of Catharanthus roseus, family Apocynaceae. The dimeric alkaloids are present in extremely small amounts, so very large quantities of leaves are needed.\n2. Production: dried leaves are extracted with acidified aqueous alcohol, or with an organic solvent after moistening with acid, so the alkaloids are taken out as salts; the extract is defatted, basified and extracted into an organic solvent to give total alkaloids; the bisindole fraction is separated by column chromatography and by selective crystallisation of salts, and each alkaloid is converted to its sulphate.\n3. Semi-synthesis: the plentiful monomers catharanthine and vindoline are coupled and the product reduced to give vinblastine, which can be converted to vincristine; vindesine and vinorelbine are further semi-synthetic members.\n4. Estimation: high performance liquid chromatography with ultraviolet detection, and liquid chromatography with mass spectrometry for trace levels; thin layer chromatography with Dragendorff reagent for identity.\n5. Uses: vincristine in acute lymphoblastic leukaemia, lymphomas and Wilms tumour, with peripheral neuropathy as the limiting effect; vinblastine in Hodgkin disease, testicular tumours and Kaposi sarcoma, with bone-marrow suppression as the limiting effect. Both are given intravenously only and are severe vesicants."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the production, estimation and uses of podophyllotoxin.",
+      "answer": "1. Source: rhizomes and roots of Podophyllum hexandrum, the Indian Himalayan species, and Podophyllum peltatum, family Berberidaceae.\n2. Production: the powdered rhizome is percolated with 90% ethanol; the concentrated percolate is poured slowly into water acidified with hydrochloric acid, when podophyllum resin is precipitated, collected and dried at low temperature away from light; the resin is extracted with chloroform or ethyl acetate and purified by column chromatography; podophyllotoxin is crystallised.\n3. Semi-synthesis: podophyllotoxin is converted to 4-demethylepipodophyllotoxin and then glycosylated to give etoposide, or with a thenylidene acetal to give teniposide; etoposide phosphate is a water-soluble prodrug.\n4. Estimation: high performance liquid chromatography with ultraviolet detection, gravimetric assay of the resin content of the rhizome, and densitometric high performance thin layer chromatography.\n5. Uses: etoposide in small-cell lung cancer, testicular cancer and lymphomas, acting as a topoisomerase II inhibitor; teniposide in childhood leukaemia; podophyllotoxin 0.5% preparations for anogenital warts. The resin is no longer used as a purgative because of its toxicity.\n6. Conservation: Podophyllum hexandrum is threatened by over-collection and is protected."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the source, production, estimation and uses of forskolin.",
+      "answer": "1. Source: tuberous roots of Coleus forskohlii, family Lamiaceae, cultivated in Karnataka, Tamil Nadu and Gujarat.\n2. Chemistry: a labdane diterpenoid that directly activates the enzyme adenylate cyclase and so raises cyclic AMP in the cell.\n3. Production: the roots are harvested, cleaned, sliced and dried; the powdered root is extracted with an organic solvent such as toluene, ethyl acetate or ethanol; the extract is concentrated under vacuum and purified by column chromatography and crystallisation; standardised extracts are prepared by blending the purified material.\n4. Estimation: high performance liquid chromatography with ultraviolet detection at a low wavelength of about 210 nanometres, because the compound has only a weak chromophore; densitometric high performance thin layer chromatography after spraying with anisaldehyde-sulphuric acid.\n5. Uses: eye drops to lower intra-ocular pressure in glaucoma; studied as a bronchodilator, vasodilator and positive inotropic agent; widely sold in weight-loss supplements, although the evidence is weak; an important research tool for raising cyclic AMP."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "From which plant and intermediate is digoxin obtained commercially?",
+      "answer": "Digoxin is obtained from the leaves of Digitalis lanata through its primary glycoside lanatoside C, which loses glucose enzymically and its acetyl group by mild alkaline hydrolysis. Digitalis purpurea does not contain lanatosides."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is 10-deacetylbaccatin III and why is it important?",
+      "answer": "It is a taxane present in good amount in the renewable needles of yew trees. The side chain is added to it chemically to give paclitaxel and docetaxel, so the drugs can be made without destroying the bark or the tree."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the classical and modern methods of extraction of crude drugs with their merits and demerits.",
+      "answer": "1. Definition: extraction is the separation of the useful constituents of a drug from the inert material by means of a selective solvent; the undissolved residue is the marc.\n2. Steps that decide the yield: size reduction, wetting and penetration of the solvent, dissolution of the constituents, and diffusion out of the cell. Stirring and fresh solvent keep the concentration difference high.\n3. Choice of solvent: water for sugars, gums, glycosides and tannins; alcohol and hydro-alcohol for most constituents; acetone and ethyl acetate for moderately polar compounds; chloroform for alkaloid bases and terpenoids; hexane and petroleum ether for fats, waxes and volatile oils. A good solvent is selective, cheap, safe, easily recovered and unreactive.\n4. Classical methods:\n   - maceration: soaking in the whole solvent in a closed vessel for days, simple but less efficient;\n   - percolation: solvent passed slowly through packed, moistened drug, more efficient, used for tinctures and extracts;\n   - digestion: maceration with gentle heat, for hard drugs with stable constituents;\n   - infusion and decoction: short maceration or boiling with water, used in Ayurveda;\n   - Soxhlet or continuous hot extraction: efficient, uses little solvent, but not for heat-sensitive compounds;\n   - counter-current extraction: industrial, drug and solvent move in opposite directions, high efficiency;\n   - steam distillation for volatile oils and expression for citrus oils and fixed oils.\n5. Modern methods:\n   - supercritical fluid extraction, usually with carbon dioxide above about 31 degrees Celsius and 74 bar, which leaves no solvent residue, works at low temperature and is selective, but needs costly equipment and a modifier for polar compounds;\n   - microwave-assisted extraction, which heats the water inside the cells so that they burst; it is very fast and uses little solvent, but is unsuitable for very heat-sensitive compounds;\n   - ultrasound-assisted extraction, which uses cavitation to break cell walls; it is simple and cheap, but local heat and free radicals may degrade some constituents;\n   - pressurised or accelerated solvent extraction, which keeps the solvent liquid above its boiling point; it is fast and automated but costly;\n   - enzyme-assisted extraction with cellulase or pectinase, which is mild and improves the yield.\n6. Conclusion: the method chosen depends on the nature of the constituent, its heat stability, the scale of work and the cost."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write the principle, procedure, detection methods and applications of thin layer chromatography. How does high performance thin layer chromatography differ from it?",
+      "answer": "1. Principle: the components of a mixture are separated between a thin layer of adsorbent spread on a plate (the stationary phase) and a solvent that rises through it by capillary action (the mobile phase). A component held more strongly by the adsorbent moves more slowly. The separation is mainly by adsorption.\n2. Stationary phase: silica gel G, alumina, kieselguhr or cellulose, spread about 0.25 millimetre thick on a glass, aluminium or plastic plate; the letter G shows that calcium sulphate is present as a binder. Plates may contain a fluorescent indicator for detection at 254 nanometres.\n3. Procedure:\n   - activate the plate, usually at about 110 degrees Celsius for thirty minutes;\n   - apply the sample and a reference standard as small spots about two centimetres from the lower edge;\n   - place the plate in a chamber saturated with the mobile phase, with the solvent level below the spots;\n   - allow the solvent to rise to a marked distance, remove the plate, mark the solvent front and dry it;\n   - detect the spots and calculate the Rf value.\n4. Rf = distance travelled by the solute divided by distance travelled by the solvent front. It is always less than one and is reproducible only when the adsorbent, solvent system, chamber saturation, layer thickness and temperature are the same.\n5. Detection: ultraviolet light at 254 and 365 nanometres, iodine vapour, and spray reagents such as anisaldehyde-sulphuric acid for terpenoids, Dragendorff reagent for alkaloids, natural products reagent for flavonoids, ninhydrin for amino acids.\n6. Applications: identity tests in pharmacopoeial monographs, checking the purity of an isolated compound, monitoring a column separation, fingerprinting herbal extracts, detecting adulteration and substitution, and preparative separation of small amounts.\n7. High performance thin layer chromatography: it uses pre-coated plates with very fine and uniform particles, automatic application of the sample as bands, development in a controlled chamber and densitometric scanning of the plate. It therefore gives sharper separation, better reproducibility and quantitative results, and is widely used for the standardisation and fingerprinting of herbal products."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the applications of ultraviolet, infrared, nuclear magnetic resonance and mass spectroscopy in the identification of phytoconstituents.",
+      "answer": "1. General: each technique answers a different question, and together they settle the structure of an isolated compound. Chromatography separates, spectroscopy identifies.\n2. Ultraviolet and visible spectroscopy:\n   - principle: absorption of radiation between about 200 and 800 nanometres causes electron transitions in chromophores such as conjugated double bonds, carbonyl groups and aromatic rings;\n   - Beer-Lambert law, absorbance equals molar absorptivity times concentration times path length, makes it a quantitative method;\n   - in phytochemistry it gives the lambda max of a compound, and shift reagents such as aluminium chloride, sodium methoxide and sodium acetate move the two flavonoid bands in ways that show which hydroxyl groups are free;\n   - examples: assay of caffeine at about 273 nanometres and of curcuminoids at about 425 nanometres.\n3. Infrared spectroscopy:\n   - principle: absorption between 4000 and 400 reciprocal centimetres excites bond vibrations when the dipole moment changes;\n   - group frequencies identify hydroxyl, amino, carbonyl, ester and lactone groups; lactone carbonyls absorb at a higher frequency than ketones;\n   - the fingerprint region between 1500 and 600 reciprocal centimetres is characteristic of the whole molecule, so two superimposable spectra prove identity; this is the basis of pharmacopoeial identity tests;\n   - near infrared is used for rapid non-destructive screening of raw materials.\n4. Nuclear magnetic resonance spectroscopy:\n   - principle: nuclei with spin, chiefly hydrogen and carbon-13, absorb radio waves in a strong magnetic field;\n   - proton spectra give the chemical shift, which shows the chemical environment, the integration, which counts the protons, the multiplicity, which shows the number of neighbours, and the coupling constant, which shows geometry;\n   - carbon-13 spectra show the number and type of carbons, and DEPT distinguishes methyl, methylene and methine carbons;\n   - two-dimensional experiments such as COSY, HSQC, HMBC and NOESY connect the atoms and settle the complete structure and stereochemistry of a new natural product.\n5. Mass spectrometry:\n   - principle: the sample is ionised and the ions are separated according to their mass to charge ratio;\n   - the molecular ion gives the molecular weight, high resolution gives the molecular formula, and the fragmentation pattern helps to build the structure;\n   - soft ionisation such as electrospray is used for non-volatile natural products;\n   - hyphenated methods such as gas chromatography with mass spectrometry and liquid chromatography with tandem mass spectrometry allow identification in a mixture, trace analysis, pesticide screening and dereplication, which is finding out quickly whether a compound is already known.\n6. Conclusion: in practice an unknown constituent is purified, its ultraviolet and infrared spectra suggest the class, mass spectrometry gives the formula, and nuclear magnetic resonance completes the structure."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on supercritical fluid extraction.",
+      "answer": "1. Principle: above its critical temperature and pressure a substance becomes a supercritical fluid, which diffuses through a solid like a gas and dissolves materials like a liquid. Carbon dioxide is used most, with a critical point near 31 degrees Celsius and 74 bar.\n2. Procedure: the drug is packed in an extraction vessel; carbon dioxide is compressed and heated to the supercritical state and passed through the drug; the extract-laden fluid is passed into a separator where the pressure is released, so the carbon dioxide becomes a gas and leaves the extract behind; the gas is recycled.\n3. Selectivity: changing the pressure and temperature changes the solvent power, so different fractions can be collected; a modifier such as ethanol is added for polar constituents, because carbon dioxide itself is non-polar.\n4. Merits: no solvent residue, low working temperature so heat-sensitive compounds are protected, no oxidation because air is excluded, non-toxic and non-flammable, and the solvent is recycled.\n5. Demerits: costly high-pressure equipment and poor extraction of very polar compounds without a modifier.\n6. Uses: volatile oils, oleoresins such as ginger and turmeric, decaffeination of coffee, artemisinin and hop extracts."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle and applications of high performance liquid chromatography.",
+      "answer": "1. Principle: a liquid mobile phase is pumped at high pressure through a column packed with very small particles. The components distribute between the stationary and mobile phases and come out at different retention times.\n2. Modes: normal phase uses a polar stationary phase such as silica with a non-polar mobile phase; reverse phase, which is the common mode, uses a non-polar C18 or C8 bonded phase with a polar mobile phase of water or buffer with methanol or acetonitrile. In reverse phase, polar compounds come out first. Elution may be isocratic or gradient.\n3. Instrument: solvent reservoirs with a degasser, a high-pressure pump, an injector or autosampler, the column with an oven, a detector and a data system.\n4. Detectors: ultraviolet and photodiode array, fluorescence, refractive index, evaporative light scattering for compounds without a chromophore such as artemisinin and saponins, electrochemical, and mass spectrometry.\n5. Applications: assay of sennosides, digoxin, paclitaxel, podophyllotoxin, caffeine and curcuminoids; fingerprinting and standardisation of herbal extracts; purity, impurity and stability testing; preparative isolation of pure compounds.\n6. Advantages: rapid, sensitive, works with non-volatile and heat-sensitive compounds, and gives quantitative results."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe paper chromatography with its principle, development techniques and applications.",
+      "answer": "1. Principle: it is partition chromatography. The stationary phase is water held on the cellulose fibres of the paper, and the mobile phase is an organic solvent usually saturated with water. A component more soluble in the stationary water moves slowly, and one more soluble in the mobile phase moves faster.\n2. Procedure: the sample is spotted about two centimetres from one edge of the paper and dried; the paper is placed in a chamber saturated with the solvent, with the solvent level below the spot; after development the solvent front is marked, the paper dried and the spots located; the Rf value is calculated.\n3. Solvent system: a common one is n-butanol, acetic acid and water in the proportion 4:1:5.\n4. Development techniques: ascending, descending, ascending-descending, radial or circular, and two-dimensional for complex mixtures.\n5. Detection: ultraviolet light, iodine vapour, and sprays such as ninhydrin for amino acids, aniline hydrogen phthalate for sugars and Dragendorff reagent for alkaloids.\n6. Applications: separation of sugars, amino acids, plant acids and other polar water-soluble substances; checking purity; a standard practical exercise in the separation of sugars. In reverse-phase paper chromatography the paper is made non-polar and the mobile phase is polar."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the principle, types and applications of electrophoresis in phytochemical work.",
+      "answer": "1. Principle: charged particles placed in an electric field move towards the electrode of opposite charge. The rate depends on the charge, the size and shape of the molecule, the field strength, the pH and ionic strength of the buffer and the nature of the supporting medium. The pH is important because it decides the charge on the molecule.\n2. Types: paper and cellulose acetate electrophoresis for proteins and small molecules; agarose gel electrophoresis for nucleic acids; polyacrylamide gel electrophoresis for proteins, with sodium dodecyl sulphate separating them by molecular weight; isoelectric focusing, in which proteins stop at their isoelectric point in a pH gradient; two-dimensional electrophoresis; and capillary electrophoresis, which uses a narrow fused-silica capillary and high voltage.\n3. Applications in pharmacognosy: DNA fingerprinting and barcoding of medicinal plants to confirm identity and detect substitution, which is valuable for powdered drugs; isoenzyme and seed-protein patterns to distinguish varieties; purity and identity testing of enzyme drugs such as papain and bromelain; and capillary electrophoresis for separating alkaloids, flavonoids and plant acids as an alternative to liquid chromatography."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare gas chromatography with high performance liquid chromatography.",
+      "answer": "1. Mobile phase: gas chromatography uses an inert carrier gas such as nitrogen or helium, while high performance liquid chromatography uses a liquid pumped under high pressure.\n2. Sample: gas chromatography needs volatile and thermally stable substances, or derivatives made volatile by silylation or methylation; liquid chromatography handles non-volatile, polar and heat-sensitive compounds directly.\n3. Column: capillary or packed columns in a temperature-programmed oven for gas chromatography; short columns of very fine bonded-phase particles for liquid chromatography.\n4. Detectors: flame ionisation, thermal conductivity and electron capture detectors with gas chromatography; ultraviolet, photodiode array, fluorescence, refractive index and evaporative light scattering detectors with liquid chromatography; both can be coupled to mass spectrometry.\n5. Typical use in this subject: gas chromatography for the composition of volatile oils such as menthol, eugenol and citral, and for residual solvents and pesticide residues; liquid chromatography for glycosides, alkaloids and other non-volatile markers such as sennosides, digoxin and curcuminoids."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define Rf value and state why it must be quoted with the conditions.",
+      "answer": "Rf is the distance travelled by the solute divided by the distance travelled by the solvent front, and is always less than one. It changes with the adsorbent, solvent system, chamber saturation, layer thickness and temperature, so the conditions must be stated for the value to be reproducible."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a marker compound? Distinguish between an active and an analytical marker.",
+      "answer": "A marker is a constituent chosen for the quality control of a herbal drug. An active marker is responsible for the therapeutic effect, such as sennoside B in senna, while an analytical marker is simply characteristic and easy to measure, and need not be active."
+    }
+  ]
+}

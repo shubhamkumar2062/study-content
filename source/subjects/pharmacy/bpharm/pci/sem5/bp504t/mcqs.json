@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The two starting materials of the shikimic acid pathway are:",
+      "options": [
+        "Acetyl-CoA and malonyl-CoA",
+        "Phosphoenolpyruvate and erythrose-4-phosphate",
+        "Mevalonic acid and IPP",
+        "Ornithine and lysine"
+      ],
+      "correct": 1,
+      "explanation": "PEP from glycolysis condenses with erythrose-4-phosphate from the pentose phosphate pathway to give DAHP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The branch point of the shikimic acid pathway that leads to phenylalanine, tyrosine and tryptophan is:",
+      "options": [
+        "Chorismic acid",
+        "Shikimic acid",
+        "Gallic acid",
+        "Cinnamic acid"
+      ],
+      "correct": 0,
+      "explanation": "Chorismic acid gives prephenic acid (phenylalanine, tyrosine) and anthranilic acid (tryptophan).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The enzyme that converts phenylalanine to cinnamic acid is:",
+      "options": [
+        "Chalcone synthase",
+        "EPSP synthase",
+        "Phenylalanine ammonia lyase",
+        "Strictosidine synthase"
+      ],
+      "correct": 2,
+      "explanation": "PAL removes ammonia from phenylalanine, opening the phenylpropanoid route.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The active isoprene unit of terpenoid biosynthesis is:",
+      "options": [
+        "Mevalonic acid",
+        "Squalene",
+        "Geranyl pyrophosphate",
+        "Isopentenyl pyrophosphate"
+      ],
+      "correct": 3,
+      "explanation": "IPP, with its isomer DMAPP, is the C5 unit from which all terpenoids are built.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Squalene, the precursor of triterpenes and steroids, is formed by the tail-to-tail joining of two molecules of:",
+      "options": [
+        "Geranyl pyrophosphate",
+        "Farnesyl pyrophosphate",
+        "Geranylgeranyl pyrophosphate",
+        "Dimethylallyl pyrophosphate"
+      ],
+      "correct": 1,
+      "explanation": "Two C15 farnesyl pyrophosphate units join tail to tail to give C30 squalene.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Tropane alkaloids such as hyoscyamine are derived mainly from the amino acid:",
+      "options": [
+        "Tyrosine",
+        "Tryptophan",
+        "Ornithine",
+        "Histidine"
+      ],
+      "correct": 2,
+      "explanation": "Ornithine gives putrescine and then the N-methylpyrrolinium cation, which forms the tropane ring.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Strictosidine, the precursor of the indole and quinoline alkaloids, is formed from tryptamine and:",
+      "options": [
+        "Secologanin",
+        "Mevalonic acid",
+        "Dopamine",
+        "Cadaverine"
+      ],
+      "correct": 0,
+      "explanation": "Tryptamine condenses with the iridoid secologanin, catalysed by strictosidine synthase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Anthraquinones of senna and aloes are formed through the:",
+      "options": [
+        "Shikimic acid pathway",
+        "Mevalonate pathway",
+        "Amino acid pathway",
+        "Acetate-malonate pathway"
+      ],
+      "correct": 3,
+      "explanation": "They are polyketides formed from an octaketide chain made of acetate and malonate units.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The isotope most widely used in biogenetic studies of plant metabolites is:",
+      "options": [
+        "32P",
+        "14C",
+        "35S",
+        "131I"
+      ],
+      "correct": 1,
+      "explanation": "Carbon is the backbone of organic compounds and the long half-life of 14C needs no correction during an experiment.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Which of the following is NOT a method of feeding a labelled precursor to a plant?",
+      "options": [
+        "Wick (stem) feeding",
+        "Cut shoot feeding",
+        "Electrophoretic feeding",
+        "Exposure to 14CO2"
+      ],
+      "correct": 2,
+      "explanation": "Electrophoresis is a separation technique, not a feeding method; root, wick, cut shoot, injection and 14CO2 are used.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The family of Catharanthus roseus is:",
+      "options": [
+        "Apocynaceae",
+        "Solanaceae",
+        "Asteraceae",
+        "Rubiaceae"
+      ],
+      "correct": 0,
+      "explanation": "Vinca, like rauwolfia, belongs to Apocynaceae.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The chief alkaloid of opium is:",
+      "options": [
+        "Papaverine",
+        "Morphine",
+        "Noscapine",
+        "Thebaine"
+      ],
+      "correct": 1,
+      "explanation": "Morphine, a phenanthrene alkaloid, makes up about 10% of raw opium.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Digoxin is obtained from:",
+      "options": [
+        "Digitalis purpurea",
+        "Strophanthus kombe",
+        "Digitalis lanata",
+        "Urginea indica"
+      ],
+      "correct": 2,
+      "explanation": "Lanatoside C of Digitalis lanata is converted to digoxin; D. purpurea has no lanatosides.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The sweet principle of liquorice is:",
+      "options": [
+        "Liquiritin",
+        "Glabridin",
+        "Isoliquiritigenin",
+        "Glycyrrhizin"
+      ],
+      "correct": 3,
+      "explanation": "Glycyrrhizin, a triterpenoid saponin, is about fifty times sweeter than sucrose and gives glycyrrhetinic acid on hydrolysis.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Eugenol, the main constituent of clove oil, gives which colour with ferric chloride?",
+      "options": [
+        "Blue",
+        "Green",
+        "Pink",
+        "Yellow"
+      ],
+      "correct": 0,
+      "explanation": "Phenolic eugenol gives a blue colour with ferric chloride.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The principal constituent of coriander oil is:",
+      "options": [
+        "Anethole",
+        "Linalool",
+        "Carvone",
+        "Cinnamaldehyde"
+      ],
+      "correct": 1,
+      "explanation": "Coriander oil is rich in (+)-linalool, also called coriandrol; anethole belongs to fennel.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which test is used to identify asafoetida?",
+      "options": [
+        "Matchstick test",
+        "Murexide test",
+        "Umbelliferone (blue fluorescence) test",
+        "Thalleioquin test"
+      ],
+      "correct": 2,
+      "explanation": "Boiling with hydrochloric acid and adding ammonia gives a blue fluorescence due to umbelliferone.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Aloin, the active constituent of aloes, is a:",
+      "options": [
+        "Cardiac glycoside",
+        "Cyanogenetic glycoside",
+        "Saponin glycoside",
+        "C-glycoside"
+      ],
+      "correct": 3,
+      "explanation": "Aloin (barbaloin) is a C-glycoside of aloe-emodin anthrone, so it needs the modified Borntrager test.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The endoperoxide bridge essential for antimalarial activity is present in:",
+      "options": [
+        "Quinine",
+        "Artemisinin",
+        "Reserpine",
+        "Podophyllotoxin"
+      ],
+      "correct": 1,
+      "explanation": "Artemisinin is a sesquiterpene lactone whose 1,2,4-trioxane endoperoxide is needed for activity.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Sumatra benzoin can be distinguished from Siam benzoin because it contains:",
+      "options": [
+        "Cinnamic acid",
+        "Vanillin",
+        "Coniferyl benzoate",
+        "Benzoic acid"
+      ],
+      "correct": 0,
+      "explanation": "Sumatra benzoin contains cinnamic acid, so it gives the odour of benzaldehyde with potassium permanganate; Siam benzoin has little or none.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "The bitterest natural compound, found in gentian, is:",
+      "options": [
+        "Gentiopicrin",
+        "Swertiamarin",
+        "Amarogentin",
+        "Gentisin"
+      ],
+      "correct": 2,
+      "explanation": "Amarogentin is present in small amounts but is the most bitter natural substance known.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Rutin is chemically:",
+      "options": [
+        "Quercetin-3-O-rutinoside",
+        "Kaempferol-3-glucoside",
+        "Apigenin-7-glucoside",
+        "Naringenin-7-rhamnoside"
+      ],
+      "correct": 0,
+      "explanation": "Rutin is the 3-O-rutinoside of quercetin; rutinose is rhamnose plus glucose.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "In the general extraction of alkaloids the powdered drug is first treated with:",
+      "options": [
+        "Dilute sulphuric acid",
+        "An alkali such as ammonia or lime",
+        "Petroleum ether",
+        "Sodium bisulphite"
+      ],
+      "correct": 1,
+      "explanation": "Alkali frees the alkaloid bases from their salts so that they dissolve in an organic solvent.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Caffeine is purified in the laboratory mainly by:",
+      "options": [
+        "Steam distillation",
+        "Electrophoresis",
+        "Sublimation",
+        "Ion exchange"
+      ],
+      "correct": 2,
+      "explanation": "Caffeine sublimes on heating, which gives a quick and effective purification.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "During the isolation of caffeine from tea, calcium carbonate or lime is added in order to:",
+      "options": [
+        "Precipitate caffeine",
+        "Increase the solubility of caffeine in chloroform",
+        "Neutralise the chloroform",
+        "Hold back tannins as insoluble salts"
+      ],
+      "correct": 3,
+      "explanation": "The alkali keeps tannins and other acids back as insoluble salts while freeing the caffeine.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Atropine differs from hyoscyamine in that it is:",
+      "options": [
+        "Dextrorotatory",
+        "Optically inactive",
+        "An ester of tropic acid only",
+        "A quaternary alkaloid"
+      ],
+      "correct": 1,
+      "explanation": "Atropine is the racemic (DL) form, produced by racemisation of laevo-hyoscyamine during extraction.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The thalleioquin test, giving an emerald-green colour, identifies:",
+      "options": [
+        "Quinine",
+        "Reserpine",
+        "Atropine",
+        "Caffeine"
+      ],
+      "correct": 0,
+      "explanation": "Bromine water followed by excess ammonia gives the green thalleioquin colour with quinine and quinidine.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "A fluorescent product used for the assay of reserpine is formed by treatment with:",
+      "options": [
+        "Ferric chloride",
+        "Potassium iodide",
+        "Nitrous acid",
+        "Magnesium acetate"
+      ],
+      "correct": 2,
+      "explanation": "Nitrous acid oxidises reserpine to 3,4-dehydroreserpine, which fluoresces yellow-green and is measured fluorimetrically.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Menthol is separated from Japanese mint oil by:",
+      "options": [
+        "Precipitation with lead acetate",
+        "Bisulphite addition",
+        "Acid-base extraction",
+        "Freezing and crystallisation"
+      ],
+      "correct": 3,
+      "explanation": "The oil is chilled and menthol crystallises out, leaving dementholised oil behind.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Rutin is isolated from the plant mainly because it:",
+      "options": [
+        "Sublimes readily",
+        "Is soluble in boiling water but sparingly soluble in cold water",
+        "Is volatile in steam",
+        "Forms a bisulphite adduct"
+      ],
+      "correct": 1,
+      "explanation": "The hot aqueous or alcoholic extract deposits rutin crystals on cooling.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Artemisinin is usually estimated by HPLC with an evaporative light scattering detector because it:",
+      "options": [
+        "Is volatile",
+        "Is unstable in water",
+        "Lacks a useful ultraviolet chromophore",
+        "Is strongly fluorescent"
+      ],
+      "correct": 2,
+      "explanation": "Artemisinin absorbs ultraviolet light poorly, so a universal detector or a derivatisation step is needed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The boric acid test giving a red colour (rosocyanin) identifies:",
+      "options": [
+        "Curcumin",
+        "Podophyllotoxin",
+        "Glycyrrhetinic acid",
+        "Citral"
+      ],
+      "correct": 0,
+      "explanation": "Curcuminoids of turmeric give the characteristic red rosocyanin colour with boric acid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Podophyllum resin is obtained by pouring the alcoholic extract of the rhizome into:",
+      "options": [
+        "Hot alkali",
+        "Acidified water",
+        "Saturated sodium chloride",
+        "Chloroform"
+      ],
+      "correct": 1,
+      "explanation": "The resin, being insoluble in water, is precipitated when the concentrated alcoholic percolate is poured into acidified water.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Glycyrrhetinic acid is obtained from glycyrrhizin by:",
+      "options": [
+        "Steam distillation",
+        "Sublimation",
+        "Oxidation with permanganate",
+        "Acid hydrolysis"
+      ],
+      "correct": 3,
+      "explanation": "Hydrolysis removes the two glucuronic acid units, leaving the insoluble triterpenoid aglycone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Diosgenin is converted to steroid hormones through the intermediate:",
+      "options": [
+        "16-Dehydropregnenolone acetate",
+        "Squalene",
+        "Cholesterol",
+        "Hecogenin"
+      ],
+      "correct": 0,
+      "explanation": "The Marker degradation converts diosgenin to 16-DPA, the key steroid intermediate.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Before acid hydrolysis, Dioscorea tubers are often fermented in order to:",
+      "options": [
+        "Destroy the alkaloids",
+        "Improve the yield of sapogenin by partial enzymic removal of sugars",
+        "Remove the starch completely",
+        "Convert diosgenin to progesterone"
+      ],
+      "correct": 1,
+      "explanation": "Fermentation lets the plant's own enzymes remove part of the sugar chain, which improves the final yield.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Sennosides are usually marketed as:",
+      "options": [
+        "Sodium sennosides",
+        "Sennoside hydrochloride",
+        "Calcium sennosides",
+        "Magnesium sennosides"
+      ],
+      "correct": 2,
+      "explanation": "Sennosides are precipitated with calcium chloride and sold as calcium sennosides.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "In the official colorimetric assay of sennosides, the colour of the magnesium acetate complex is read at about:",
+      "options": [
+        "273 nm",
+        "425 nm",
+        "227 nm",
+        "515 nm"
+      ],
+      "correct": 3,
+      "explanation": "The red complex formed with magnesium acetate after hydrolysis and oxidation is measured at about 515 nm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The modern semi-synthetic route to paclitaxel starts from:",
+      "options": [
+        "10-Deacetylbaccatin III of yew needles",
+        "Taxine from the seeds",
+        "Podophyllotoxin",
+        "Squalene"
+      ],
+      "correct": 0,
+      "explanation": "10-DAB is plentiful in renewable needles and the C-13 side chain is attached chemically to give paclitaxel.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The dose-limiting toxicity of vincristine is:",
+      "options": [
+        "Bone-marrow suppression",
+        "Peripheral neuropathy",
+        "Nephrotoxicity",
+        "Pulmonary fibrosis"
+      ],
+      "correct": 1,
+      "explanation": "Vincristine mainly damages nerves, while vinblastine mainly suppresses the bone marrow.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Artemisinin is given as a combination therapy mainly to:",
+      "options": [
+        "Increase its solubility",
+        "Reduce its cost",
+        "Delay the development of resistance",
+        "Prevent its sublimation"
+      ],
+      "correct": 2,
+      "explanation": "Artemisinin-based combination therapy protects the drug from resistance and clears parasites more completely.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Forskolin acts by directly activating:",
+      "options": [
+        "Phosphodiesterase",
+        "Guanylate cyclase",
+        "Na+/K+-ATPase",
+        "Adenylate cyclase"
+      ],
+      "correct": 3,
+      "explanation": "Forskolin raises cyclic AMP by activating adenylate cyclase, which lowers intra-ocular pressure in glaucoma.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Etoposide, used in cancer chemotherapy, is a semi-synthetic derivative of:",
+      "options": [
+        "Podophyllotoxin",
+        "Paclitaxel",
+        "Camptothecin",
+        "Colchicine"
+      ],
+      "correct": 0,
+      "explanation": "Etoposide and teniposide are prepared from podophyllotoxin and act as topoisomerase II inhibitors.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A large part of commercial caffeine is obtained as a by-product of:",
+      "options": [
+        "Sugar refining",
+        "Decaffeination of coffee",
+        "Distillation of mint oil",
+        "Tanning of leather"
+      ],
+      "correct": 1,
+      "explanation": "Caffeine removed during decaffeination is purified and sold, along with caffeine from tea waste and from synthesis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Digoxin in the blood of patients is usually measured by:",
+      "options": [
+        "Gas chromatography",
+        "Non-aqueous titration",
+        "Immunoassay",
+        "Gravimetry"
+      ],
+      "correct": 2,
+      "explanation": "Its narrow therapeutic index makes plasma monitoring necessary, and immunoassay is the routine method.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Atropine for commercial use is obtained mainly from solanaceous plants by:",
+      "options": [
+        "Steam distillation",
+        "Racemisation of hyoscyamine after acid-base extraction",
+        "Fermentation",
+        "Hydrolysis of a glycoside"
+      ],
+      "correct": 1,
+      "explanation": "Hyoscyamine is extracted by the acid-base method and then racemised to atropine, which is crystallised as the sulphate.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The undissolved residue left after extraction of a crude drug is called:",
+      "options": [
+        "Menstruum",
+        "Marc",
+        "Eluate",
+        "Raffinate"
+      ],
+      "correct": 1,
+      "explanation": "The solvent is the menstruum and the exhausted drug left behind is the marc.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Which extraction process passes fresh solvent continuously through the drug by repeated distillation and condensation?",
+      "options": [
+        "Maceration",
+        "Infusion",
+        "Soxhlet extraction",
+        "Decoction"
+      ],
+      "correct": 2,
+      "explanation": "In continuous hot extraction the condensed solvent repeatedly washes the drug and siphons back into the flask.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The gas most commonly used in supercritical fluid extraction is:",
+      "options": [
+        "Nitrogen",
+        "Helium",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "correct": 3,
+      "explanation": "Carbon dioxide has a convenient critical point near 31 degrees Celsius and 74 bar and leaves no residue.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Ultrasound-assisted extraction improves the yield mainly through:",
+      "options": [
+        "Cavitation that breaks the cell walls",
+        "Ionisation of the solvent",
+        "Formation of a supercritical fluid",
+        "Enzymic digestion"
+      ],
+      "correct": 0,
+      "explanation": "Collapsing cavitation bubbles disrupt the plant cell walls and release the contents into the solvent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Paper chromatography is an example of which type of chromatography?",
+      "options": [
+        "Adsorption",
+        "Partition",
+        "Ion exchange",
+        "Size exclusion"
+      ],
+      "correct": 1,
+      "explanation": "The stationary phase is water held by the cellulose fibres, so separation occurs by partition.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "In silica gel G used for thin layer chromatography, the letter G indicates:",
+      "options": [
+        "Granular silica",
+        "Glass-bonded silica",
+        "Calcium sulphate binder",
+        "A fluorescent indicator"
+      ],
+      "correct": 2,
+      "explanation": "G stands for gypsum, that is calcium sulphate, added as a binder; F254 indicates a fluorescent indicator.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The Rf value of a compound:",
+      "options": [
+        "Is always greater than one",
+        "Is independent of the solvent system",
+        "Is measured in centimetres",
+        "Is always less than one"
+      ],
+      "correct": 3,
+      "explanation": "The solute cannot travel further than the solvent front, so the ratio is always below one; it depends on the conditions.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "In reverse-phase high performance liquid chromatography:",
+      "options": [
+        "Polar compounds are eluted first",
+        "Non-polar compounds are eluted first",
+        "The stationary phase is silica and the mobile phase is hexane",
+        "No detector is required"
+      ],
+      "correct": 0,
+      "explanation": "The stationary phase is non-polar C18, so polar compounds are held weakly and come out first.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Which detector is preferred in liquid chromatography for compounds without a chromophore, such as saponins?",
+      "options": [
+        "Flame ionisation detector",
+        "Electron capture detector",
+        "Evaporative light scattering detector",
+        "Thermal conductivity detector"
+      ],
+      "correct": 2,
+      "explanation": "The ELSD responds to any non-volatile solute and does not depend on ultraviolet absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Gas chromatography is best suited for the analysis of:",
+      "options": [
+        "Cardiac glycosides",
+        "Volatile oils",
+        "Tannins",
+        "Polysaccharides"
+      ],
+      "correct": 1,
+      "explanation": "The sample must be volatile and thermally stable, which suits the constituents of volatile oils.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "The region of the infrared spectrum between about 1500 and 600 reciprocal centimetres is called the:",
+      "options": [
+        "Group frequency region",
+        "Overtone region",
+        "Near infrared region",
+        "Fingerprint region"
+      ],
+      "correct": 3,
+      "explanation": "This region is characteristic of the whole molecule, so superimposable spectra confirm identity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "In electrophoresis, the rate of movement of a molecule depends chiefly on its charge, its size and the:",
+      "options": [
+        "pH of the buffer",
+        "Colour of the molecule",
+        "Melting point",
+        "Refractive index"
+      ],
+      "correct": 0,
+      "explanation": "The buffer pH decides the charge carried by the molecule, so it controls the direction and speed of migration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m13",
+      "unit": 5,
+      "question": "Agarose gel electrophoresis is used in pharmacognosy mainly for:",
+      "options": [
+        "Separating volatile oils",
+        "Assay of alkaloids",
+        "DNA fingerprinting of medicinal plants",
+        "Determination of ash values"
+      ],
+      "correct": 2,
+      "explanation": "DNA markers run on agarose gels confirm the identity of a plant and reveal substitution in powdered drugs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m14",
+      "unit": 5,
+      "question": "Beer-Lambert law, which makes ultraviolet spectroscopy quantitative, states that absorbance is proportional to:",
+      "options": [
+        "The square of the concentration",
+        "Concentration and path length",
+        "Wavelength",
+        "Temperature"
+      ],
+      "correct": 1,
+      "explanation": "A equals molar absorptivity times concentration times path length, so absorbance rises with both concentration and cell length.",
+      "probability": "high"
+    }
+  ]
+}
