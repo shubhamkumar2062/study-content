@@ -397,6 +397,12 @@ def load_subject(folder: Path, catalog: Catalog, report: Report) -> SubjectConte
                 normalised = [o.strip().lower() for o in m["options"]]
                 if len(set(normalised)) != len(normalised):
                     report.error(mpath, f"{m['id']}: two options are the same")
+            # Students learn to guess a favourite letter; keep the right answers spread out.
+            if len(mcqs) >= 20:
+                from collections import Counter
+                position, count = Counter(m["correct"] for m in mcqs).most_common(1)[0]
+                if count > 0.4 * len(mcqs):
+                    report.warn(mpath, f"{count} of {len(mcqs)} correct answers are option {'ABCDEF'[position]}; spread them out")
 
     tests: list[dict] = []
     tpath = folder / "mocktests.json"

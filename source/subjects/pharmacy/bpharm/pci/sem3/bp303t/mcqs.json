@@ -5,12 +5,12 @@
       "unit": 1,
       "question": "The father of microbiology, who first described bacteria with his own simple lenses, is:",
       "options": [
+        "Antonie van Leeuwenhoek",
         "Louis Pasteur",
         "Robert Koch",
-        "Antonie van Leeuwenhoek",
         "Joseph Lister"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Leeuwenhoek made simple lenses in 1676 and described the organisms he called animalcules.",
       "probability": "high"
     },
@@ -34,11 +34,11 @@
       "question": "Bacterial ribosomes are of the type:",
       "options": [
         "80S",
-        "70S",
         "60S",
+        "70S",
         "40S"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Prokaryotes have 70S ribosomes made of 50S and 30S subunits; this difference is the basis of selective antibiotic action.",
       "probability": "high"
     },
@@ -49,10 +49,10 @@
       "options": [
         "Chitin",
         "Cellulose",
-        "Peptidoglycan",
-        "Ergosterol"
+        "Ergosterol",
+        "Peptidoglycan"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Peptidoglycan, also called murein, gives the wall its strength and is the target of penicillins.",
       "probability": "high"
     },
@@ -61,12 +61,12 @@
       "unit": 1,
       "question": "Endotoxin of Gram-negative bacteria is:",
       "options": [
-        "Teichoic acid",
         "Lipopolysaccharide",
+        "Teichoic acid",
         "Mycolic acid",
         "Dipicolinic acid"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Lipopolysaccharide in the outer membrane of Gram-negative bacteria acts as endotoxin and as a pyrogen.",
       "probability": "high"
     },
@@ -104,11 +104,11 @@
       "question": "Cells are most uniform and most sensitive to antimicrobial agents in the:",
       "options": [
         "Lag phase",
-        "Log phase",
         "Stationary phase",
-        "Decline phase"
+        "Decline phase",
+        "Log phase"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Log phase cells divide at the maximum rate and are physiologically uniform, so this phase is used for assays.",
       "probability": "high"
     },
@@ -117,12 +117,12 @@
       "unit": 1,
       "question": "The method of choice for long-term preservation of cultures in a culture collection is:",
       "options": [
+        "Lyophilisation",
         "Refrigeration at 4 °C",
         "Periodic subculture",
-        "Lyophilisation",
         "Paraffin overlay"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Freeze drying in skim milk or serum preserves cultures for many years in sealed ampoules.",
       "probability": "medium"
     },
@@ -160,11 +160,11 @@
       "question": "Dark-field microscopy is used chiefly to examine:",
       "options": [
         "Stained smears of sputum",
-        "Living spirochaetes",
         "Thin sections for ultrastructure",
-        "Fungal spores on agar"
+        "Fungal spores on agar",
+        "Living spirochaetes"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Light scattered by thin living organisms such as Treponema makes them bright on a dark background.",
       "probability": "medium"
     },
@@ -173,12 +173,12 @@
       "unit": 2,
       "question": "The mordant used in Gram staining is:",
       "options": [
-        "Crystal violet",
         "Gram's iodine",
+        "Crystal violet",
         "Ethanol",
         "Safranin"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Iodine forms a large complex with crystal violet inside the cell so that the dye is not washed out easily.",
       "probability": "high"
     },
@@ -216,11 +216,11 @@
       "question": "Acid fastness of Mycobacterium is due to:",
       "options": [
         "Teichoic acid",
-        "Mycolic acid",
         "Lipopolysaccharide",
-        "Dipicolinic acid"
+        "Dipicolinic acid",
+        "Mycolic acid"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "The waxy mycolic acid in the wall holds the stain and resists decolourisation.",
       "probability": "high"
     },
@@ -229,12 +229,12 @@
       "unit": 2,
       "question": "The IMViC pattern of Escherichia coli is:",
       "options": [
-        "Negative, negative, positive, positive",
         "Positive, positive, negative, negative",
+        "Negative, negative, positive, positive",
         "Positive, negative, positive, negative",
         "Negative, positive, negative, positive"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Escherichia coli is indole and methyl red positive, Voges-Proskauer and citrate negative.",
       "probability": "high"
     },
@@ -258,11 +258,11 @@
       "question": "Moist heat kills microorganisms mainly by:",
       "options": [
         "Oxidation",
-        "Coagulation and denaturation of proteins",
         "Alkylation",
+        "Coagulation and denaturation of proteins",
         "Formation of thymine dimers"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Condensing steam denatures and coagulates cell proteins and enzymes.",
       "probability": "high"
     },
@@ -273,10 +273,10 @@
       "options": [
         "121 °C for 15 min",
         "134 °C for 3 min",
-        "160 °C for 2 h",
-        "100 °C for 30 min"
+        "100 °C for 30 min",
+        "160 °C for 2 h"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Dry heat penetrates poorly, so 160 °C for 2 hours is the standard cycle.",
       "probability": "high"
     },
@@ -285,12 +285,12 @@
       "unit": 2,
       "question": "The usual dose of gamma radiation used for sterilisation is:",
       "options": [
-        "2.5 kGy",
         "25 kGy",
+        "2.5 kGy",
         "250 kGy",
         "2500 kGy"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "A dose of 25 kGy, equal to 2.5 Mrad, is the accepted sterilising dose from a cobalt-60 source.",
       "probability": "high"
     },
@@ -314,11 +314,11 @@
       "question": "The pore size of a sterilising grade membrane filter is:",
       "options": [
         "0.45 µm",
-        "0.22 µm",
         "1.2 µm",
+        "0.22 µm",
         "5 µm"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "A 0.22 µm membrane is validated by the retention of Brevundimonas diminuta.",
       "probability": "high"
     },
@@ -328,11 +328,11 @@
       "question": "The biological indicator used for moist heat sterilisation is:",
       "options": [
         "Bacillus atrophaeus",
-        "Geobacillus stearothermophilus",
         "Bacillus pumilus",
-        "Brevundimonas diminuta"
+        "Brevundimonas diminuta",
+        "Geobacillus stearothermophilus"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Spores of Geobacillus stearothermophilus are highly resistant to moist heat and are used to validate autoclave cycles.",
       "probability": "high"
     },
@@ -341,12 +341,12 @@
       "unit": 2,
       "question": "Ethylene oxide kills microorganisms by:",
       "options": [
-        "Oxidation",
         "Alkylation of proteins and nucleic acids",
+        "Oxidation",
         "Coagulation of proteins",
         "Dissolving membrane lipids"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "It alkylates amino, sulphydryl, hydroxyl and carboxyl groups, which inactivates essential molecules.",
       "probability": "high"
     },
@@ -370,11 +370,11 @@
       "question": "Tyndallisation means heating at:",
       "options": [
         "121 °C for 15 min on one day",
-        "100 °C for 20 to 30 min on three successive days",
         "160 °C for 2 h",
+        "100 °C for 20 to 30 min on three successive days",
         "63 °C for 30 min"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Spores that germinate between the heatings are killed on the following day.",
       "probability": "medium"
     },
@@ -384,11 +384,11 @@
       "question": "The cell wall of fungi is made mainly of:",
       "options": [
         "Peptidoglycan",
-        "Chitin",
         "Cellulose",
-        "Lipopolysaccharide"
+        "Lipopolysaccharide",
+        "Chitin"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Fungal walls contain chitin with glucans, unlike the peptidoglycan wall of bacteria.",
       "probability": "high"
     },
@@ -397,12 +397,12 @@
       "unit": 3,
       "question": "The sterol present in the fungal cell membrane is:",
       "options": [
-        "Cholesterol",
         "Ergosterol",
+        "Cholesterol",
         "Lanosterol",
         "Stigmasterol"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ergosterol is the target of amphotericin B and of the azole antifungal drugs.",
       "probability": "high"
     },
@@ -426,11 +426,11 @@
       "question": "Thick-walled resting spores formed by Candida albicans are called:",
       "options": [
         "Sporangiospores",
-        "Chlamydospores",
         "Basidiospores",
+        "Chlamydospores",
         "Ascospores"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Chlamydospores are thick-walled asexual resting spores formed within or at the end of a hypha.",
       "probability": "medium"
     },
@@ -453,12 +453,12 @@
       "unit": 3,
       "question": "The protein subunits that build the viral capsid are called:",
       "options": [
-        "Capsomeres",
         "Virions",
         "Prophages",
-        "Plasmids"
+        "Plasmids",
+        "Capsomeres"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Capsomeres assemble into the capsid, which protects the nucleic acid.",
       "probability": "high"
     },
@@ -467,12 +467,12 @@
       "unit": 3,
       "question": "The phase of viral replication in which no complete virus can be detected inside the cell is:",
       "options": [
-        "Adsorption",
         "Eclipse phase",
+        "Adsorption",
         "Maturation",
         "Release"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "During biosynthesis the genome and proteins exist separately, so no infectious particle is found.",
       "probability": "high"
     },
@@ -496,11 +496,11 @@
       "question": "Influenza vaccine virus is usually grown in the:",
       "options": [
         "Yolk sac",
-        "Allantoic cavity of embryonated eggs",
         "Chorioallantoic membrane",
+        "Allantoic cavity of embryonated eggs",
         "Peritoneum of mice"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "The allantoic cavity of 10 to 11 day old embryonated eggs gives a high yield of influenza virus.",
       "probability": "medium"
     },
@@ -510,11 +510,11 @@
       "question": "The organism used in the Rideal-Walker phenol coefficient test is:",
       "options": [
         "Staphylococcus aureus",
-        "Salmonella typhi",
         "Escherichia coli",
-        "Bacillus subtilis"
+        "Bacillus subtilis",
+        "Salmonella typhi"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Salmonella typhi is the standard test organism in this method.",
       "probability": "high"
     },
@@ -523,12 +523,12 @@
       "unit": 3,
       "question": "The Chick-Martin test differs from the Rideal-Walker test because it:",
       "options": [
-        "Uses a higher temperature",
         "Includes organic matter",
+        "Uses a higher temperature",
         "Uses fungi as test organisms",
         "Measures zone diameter"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Dried yeast or faecal suspension is added to imitate conditions of actual use.",
       "probability": "high"
     },
@@ -566,11 +566,11 @@
       "question": "Fluid thioglycollate medium in the sterility test is incubated at:",
       "options": [
         "20 to 25 °C",
-        "30 to 35 °C",
         "37 to 40 °C",
-        "44 °C"
+        "44 °C",
+        "30 to 35 °C"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Thioglycollate medium is incubated at 30 to 35 °C and detects anaerobes as well as aerobes.",
       "probability": "high"
     },
@@ -579,12 +579,12 @@
       "unit": 3,
       "question": "The minimum period of incubation in the sterility test is:",
       "options": [
+        "14 days",
         "24 hours",
         "7 days",
-        "14 days",
         "28 days"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Sterility test containers are incubated for not less than 14 days with periodic inspection.",
       "probability": "high"
     },
@@ -594,11 +594,11 @@
       "question": "A HEPA filter retains particles of 0.3 µm with an efficiency of at least:",
       "options": [
         "90 per cent",
+        "99.97 per cent",
         "95 per cent",
-        "99 per cent",
-        "99.97 per cent"
+        "99 per cent"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": "This is the defining efficiency of a high efficiency particulate air filter.",
       "probability": "high"
     },
@@ -608,11 +608,11 @@
       "question": "The air velocity in a laminar air flow unit is about:",
       "options": [
         "0.045 m/s",
-        "0.45 m/s",
         "4.5 m/s",
+        "0.45 m/s",
         "45 m/s"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "About 0.45 m/s, that is 90 feet per minute, keeps the flow unidirectional over the work area.",
       "probability": "high"
     },
@@ -621,12 +621,12 @@
       "unit": 4,
       "question": "An aseptic room is kept at positive pressure so that:",
       "options": [
-        "Air flows outwards and contaminated air cannot enter",
         "Operators breathe more easily",
         "The temperature stays low",
-        "Filters last longer"
+        "Filters last longer",
+        "Air flows outwards and contaminated air cannot enter"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "A higher pressure inside makes air leak out through gaps instead of drawing unfiltered air in.",
       "probability": "high"
     },
@@ -635,12 +635,12 @@
       "unit": 4,
       "question": "Wall and floor junctions in a clean room are coved because:",
       "options": [
-        "It looks better",
         "Dust and organisms cannot collect in corners",
+        "It looks better",
         "It saves material",
         "It reduces noise"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Curved junctions have no corners for dust to settle in and are easy to clean.",
       "probability": "medium"
     },
@@ -649,12 +649,12 @@
       "unit": 4,
       "question": "The critical zone where sterile products are filled is classified as:",
       "options": [
-        "Grade A",
         "Grade B",
+        "Grade A",
         "Grade C",
         "Grade D"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "Grade A is the critical zone and is supplied with unidirectional air.",
       "probability": "high"
     },
@@ -664,11 +664,11 @@
       "question": "The largest single source of contamination in an aseptic area is:",
       "options": [
         "Raw materials",
-        "Personnel",
         "Packaging materials",
+        "Personnel",
         "Water"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "People shed skin scales, hair and droplets continuously, so gowning and training are essential.",
       "probability": "high"
     },
@@ -679,10 +679,10 @@
       "options": [
         "The concentration",
         "The square of the concentration",
-        "The logarithm of the concentration",
-        "The reciprocal of the concentration"
+        "The reciprocal of the concentration",
+        "The logarithm of the concentration"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Diffusion of the antibiotic gives a logarithmic dose response relationship.",
       "probability": "high"
     },
@@ -691,12 +691,12 @@
       "unit": 4,
       "question": "The turbidimetric method of antibiotic assay usually requires an incubation of about:",
       "options": [
-        "30 minutes",
         "3 to 4 hours",
+        "30 minutes",
         "18 to 24 hours",
         "48 hours"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Growth is measured after only 3 to 4 hours, which makes the method much faster than the plate method.",
       "probability": "high"
     },
@@ -705,12 +705,12 @@
       "unit": 4,
       "question": "Vitamin B12 is assayed microbiologically using:",
       "options": [
-        "Lactobacillus leichmannii",
         "Lactobacillus casei",
+        "Lactobacillus leichmannii",
         "Staphylococcus aureus",
         "Bacillus subtilis"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "Lactobacillus leichmannii requires vitamin B12 and grows in proportion to the amount supplied.",
       "probability": "high"
     },
@@ -720,11 +720,11 @@
       "question": "Riboflavin is assayed microbiologically using:",
       "options": [
         "Lactobacillus leichmannii",
-        "Lactobacillus casei",
         "Escherichia coli",
+        "Lactobacillus casei",
         "Candida albicans"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Lactobacillus casei needs riboflavin for growth, so growth measures the vitamin present.",
       "probability": "medium"
     },
@@ -734,11 +734,11 @@
       "question": "A media fill trial is carried out to:",
       "options": [
         "Test the potency of a medium",
-        "Simulate the filling process and prove it does not contaminate the product",
         "Check the pH of a medium",
-        "Determine the shelf life of the medium"
+        "Determine the shelf life of the medium",
+        "Simulate the filling process and prove it does not contaminate the product"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Sterile nutrient medium is run through the line in place of product, and the filled units are incubated.",
       "probability": "medium"
     },
@@ -747,12 +747,12 @@
       "unit": 4,
       "question": "In the agar diffusion assay the solutions are arranged in a balanced design in order to:",
       "options": [
-        "Save material",
         "Cancel out differences between plates and positions",
+        "Save material",
         "Speed up diffusion",
         "Reduce the incubation time"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Rotating the positions of standard and test solutions removes systematic errors between plates.",
       "probability": "medium"
     },
@@ -762,11 +762,11 @@
       "question": "Most bacteria require a water activity above about:",
       "options": [
         "0.5",
-        "0.7",
         "0.9",
+        "0.7",
         "1.0"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Most bacteria need a water activity above about 0.9, while moulds can grow down to about 0.7.",
       "probability": "high"
     },
@@ -776,11 +776,11 @@
       "question": "The commonest source of microbial contamination of liquid pharmaceutical products is:",
       "options": [
         "Air",
-        "Water",
         "Packaging",
+        "Water",
         "Labels"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Water supports Pseudomonas and other Gram-negative organisms and is used in large quantities.",
       "probability": "high"
     },
@@ -790,11 +790,11 @@
       "question": "An objectionable organism in an oral liquid preparation is:",
       "options": [
         "Bacillus subtilis",
-        "Escherichia coli",
         "Micrococcus luteus",
-        "Saccharomyces cerevisiae"
+        "Saccharomyces cerevisiae",
+        "Escherichia coli"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Escherichia coli indicates faecal contamination and must be absent from oral products.",
       "probability": "high"
     },
@@ -803,12 +803,12 @@
       "unit": 5,
       "question": "Benzoic acid is an effective preservative only in:",
       "options": [
-        "Alkaline products",
         "Acidic products",
+        "Alkaline products",
         "Neutral products",
         "Oily products"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Only the undissociated acid is active, so the product must be acidic, usually about pH 4 or below.",
       "probability": "high"
     },
@@ -832,11 +832,11 @@
       "question": "A preservative acts mainly in the:",
       "options": [
         "Oil phase",
-        "Aqueous phase",
         "Container wall",
+        "Aqueous phase",
         "Head space"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Organisms grow in the water phase, so the free concentration there decides the effect.",
       "probability": "high"
     },
@@ -847,10 +847,10 @@
       "options": [
         "24 hours",
         "7 days",
-        "28 days",
-        "6 months"
+        "6 months",
+        "28 days"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Counts are measured at intervals such as 7, 14 and 28 days and compared with the stated criteria.",
       "probability": "high"
     },
@@ -859,12 +859,12 @@
       "unit": 5,
       "question": "Animal cells in culture are usually incubated at:",
       "options": [
+        "37 °C with 5 per cent carbon dioxide",
         "25 °C with 5 per cent oxygen",
         "30 °C in air",
-        "37 °C with 5 per cent carbon dioxide",
         "44 °C in air"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "The carbon dioxide maintains the bicarbonate buffer at pH 7.2 to 7.4 at body temperature.",
       "probability": "high"
     },
@@ -888,11 +888,11 @@
       "question": "Trypan blue is used in cell culture to:",
       "options": [
         "Sterilise the medium",
-        "Distinguish dead cells from living cells",
         "Stain the nucleus of living cells",
+        "Distinguish dead cells from living cells",
         "Adjust the pH"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Dead cells with damaged membranes take up the dye, while living cells exclude it.",
       "probability": "high"
     },
@@ -903,10 +903,10 @@
       "options": [
         "Primary cultures",
         "Finite diploid strains",
-        "Continuous cell lines",
-        "Organ cultures"
+        "Organ cultures",
+        "Continuous cell lines"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "They divide indefinitely, are often aneuploid, and are maintained as continuous cell lines.",
       "probability": "high"
     },
@@ -915,12 +915,12 @@
       "unit": 5,
       "question": "The cryoprotectant commonly added before freezing cells in liquid nitrogen is:",
       "options": [
-        "Glucose",
         "Dimethyl sulphoxide",
+        "Glucose",
         "Sodium chloride",
         "Phenol red"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Dimethyl sulphoxide, or glycerol, prevents ice crystals from damaging the cells.",
       "probability": "medium"
     },
@@ -944,11 +944,11 @@
       "question": "Phenol red in a cell culture medium acts as:",
       "options": [
         "A preservative",
-        "A pH indicator",
         "A growth factor",
+        "A pH indicator",
         "An antibiotic"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "It shows the pH of the medium by its colour, turning yellow as acid accumulates.",
       "probability": "medium"
     }

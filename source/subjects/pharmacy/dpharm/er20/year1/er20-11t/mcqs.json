@@ -5,12 +5,12 @@
       "unit": 1,
       "question": "The Pharmacy Act was passed in the year:",
       "options": [
+        "1948",
         "1940",
         "1945",
-        "1948",
         "1955"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "The Pharmacy Act, 1948 regulates the profession; the PCI was set up under it in 1949.",
       "probability": "high"
     },
@@ -34,11 +34,11 @@
       "question": "The Indian Pharmacopoeia is published by the:",
       "options": [
         "Pharmacy Council of India",
-        "Indian Pharmacopoeia Commission, Ghaziabad",
         "Central Drugs Standard Control Organisation",
+        "Indian Pharmacopoeia Commission, Ghaziabad",
         "Indian Pharmaceutical Association"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "The Indian Pharmacopoeia Commission at Ghaziabad publishes the IP.",
       "probability": "high"
     },
@@ -49,10 +49,10 @@
       "options": [
         "Acharya P. C. Ray",
         "Col. R. N. Chopra",
-        "Prof. M. L. Schroff",
-        "William Martindale"
+        "William Martindale",
+        "Prof. M. L. Schroff"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Prof. M. L. Schroff started pharmacy education at BHU in 1932.",
       "probability": "high"
     },
@@ -89,12 +89,12 @@
       "unit": 1,
       "question": "The first edition of the United States Pharmacopeia appeared in:",
       "options": [
-        "1820",
         "1864",
         "1888",
+        "1820",
         "1955"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "USP 1820; BP 1864; NF 1888.",
       "probability": "medium"
     },
@@ -104,11 +104,11 @@
       "question": "Bengal Chemical and Pharmaceutical Works was founded by:",
       "options": [
         "Prof. M. L. Schroff",
-        "Acharya P. C. Ray",
         "Col. R. N. Chopra",
-        "Dr. Yellapragada Subbarow"
+        "Dr. Yellapragada Subbarow",
+        "Acharya P. C. Ray"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Acharya P. C. Ray founded it; it marks the start of the Indian drug industry.",
       "probability": "medium"
     },
@@ -117,12 +117,12 @@
       "unit": 1,
       "question": "Pharmacy Practice Regulations were notified by the PCI in:",
       "options": [
+        "2015",
         "1991",
         "2008",
-        "2015",
         "2020"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "The Pharmacy Practice Regulations came in 2015.",
       "probability": "low"
     },
@@ -146,11 +146,11 @@
       "question": "Type I glass is:",
       "options": [
         "Soda-lime glass",
-        "Borosilicate glass",
         "Treated soda-lime glass",
+        "Borosilicate glass",
         "General-purpose glass"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Type I is borosilicate, the most resistant, used for injections.",
       "probability": "high"
     },
@@ -161,10 +161,10 @@
       "options": [
         "Parenteral products",
         "Blood products",
-        "Non-parenteral products",
-        "Water for injection"
+        "Water for injection",
+        "Non-parenteral products"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "NP means non-parenteral: tablets, oral liquids, external preparations.",
       "probability": "high"
     },
@@ -173,12 +173,12 @@
       "unit": 2,
       "question": "Amber-coloured glass is used to protect the contents from:",
       "options": [
-        "Moisture",
         "Light",
+        "Moisture",
         "Oxygen",
         "Microbes"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Amber glass filters out UV and blue light.",
       "probability": "high"
     },
@@ -188,11 +188,11 @@
       "question": "Movement of plasticiser from a PVC bag into an IV fluid is called:",
       "options": [
         "Permeation",
-        "Sorption",
         "Leaching",
+        "Sorption",
         "Modification"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Leaching is migration of plastic additives into the product.",
       "probability": "high"
     },
@@ -202,11 +202,11 @@
       "question": "Rubber closures are pre-soaked in preservative solution to prevent:",
       "options": [
         "Leaching",
-        "Sorption of preservative from the product",
         "Coring",
+        "Sorption of preservative from the product",
         "Corrosion"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Rubber takes up preservatives; pre-saturating it prevents loss from the product.",
       "probability": "medium"
     },
@@ -217,10 +217,10 @@
       "options": [
         "Saccharin",
         "Sorbitol",
-        "Aspartame",
-        "Sucralose"
+        "Sucralose",
+        "Aspartame"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Aspartame releases phenylalanine.",
       "probability": "high"
     },
@@ -229,12 +229,12 @@
       "unit": 2,
       "question": "Saccharin is about how many times sweeter than sucrose?",
       "options": [
+        "300–500",
         "2–5",
         "20–50",
-        "300–500",
         "5000"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Saccharin is about 300–500 times as sweet as sucrose.",
       "probability": "medium"
     },
@@ -272,11 +272,11 @@
       "question": "The flavour best suited to mask a sour taste is:",
       "options": [
         "Chocolate",
-        "Citrus",
         "Butterscotch",
-        "Liquorice"
+        "Liquorice",
+        "Citrus"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Citrus flavours go well with sour (acidic) tastes.",
       "probability": "medium"
     },
@@ -327,12 +327,12 @@
       "unit": 3,
       "question": "According to IP, a 'coarse powder' is described as:",
       "options": [
-        "10/44",
         "22/60",
         "44/85",
-        "85"
+        "85",
+        "10/44"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "All pass sieve 10 and not more than 40% pass sieve 44.",
       "probability": "high"
     },
@@ -341,12 +341,12 @@
       "unit": 3,
       "question": "A cyclone separator works on the principle of:",
       "options": [
+        "Centrifugal force",
         "Filtration",
         "Sedimentation under gravity only",
-        "Centrifugal force",
         "Electrostatic attraction"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "The spinning air throws heavy particles to the wall.",
       "probability": "high"
     },
@@ -356,11 +356,11 @@
       "question": "A triple roller mill is mainly used for:",
       "options": [
         "Drying granules",
-        "Mixing dry powders",
         "Smoothing ointments and pastes",
+        "Mixing dry powders",
         "Filtering solutions"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Shear between rollers gives smooth semisolids.",
       "probability": "medium"
     },
@@ -369,12 +369,12 @@
       "unit": 3,
       "question": "A membrane filter of pore size used for sterilisation is:",
       "options": [
-        "0.22 µm",
         "2.2 µm",
         "22 µm",
+        "0.22 µm",
         "220 µm"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "0.22 µm (often called 0.2 µm) filters retain bacteria.",
       "probability": "high"
     },
@@ -397,12 +397,12 @@
       "unit": 3,
       "question": "Freeze drying removes water by:",
       "options": [
+        "Sublimation",
         "Evaporation",
         "Boiling",
-        "Sublimation",
         "Filtration"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Frozen water changes directly to vapour under vacuum.",
       "probability": "high"
     },
@@ -412,11 +412,11 @@
       "question": "In Darcy's law, the rate of filtration is inversely proportional to:",
       "options": [
         "Area of filter",
-        "Pressure difference",
         "Viscosity of the liquid",
+        "Pressure difference",
         "Permeability"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Rate = K A ΔP / (η L); higher viscosity slows filtration.",
       "probability": "medium"
     },
@@ -426,11 +426,11 @@
       "question": "In extraction, the insoluble residue left after removing the solvent is called:",
       "options": [
         "Menstruum",
-        "Marc",
         "Percolate",
+        "Marc",
         "Infusion"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Marc is the residue; menstruum is the solvent.",
       "probability": "medium"
     },
@@ -441,10 +441,10 @@
       "options": [
         "Infusion",
         "Maceration",
-        "Decoction",
-        "Percolation"
+        "Percolation",
+        "Decoction"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Decoction suits hard, woody drugs with heat-stable constituents.",
       "probability": "medium"
     },
@@ -453,12 +453,12 @@
       "unit": 3,
       "question": "A double cone blender mixes powders mainly by:",
       "options": [
-        "High shear",
         "Tumbling",
+        "High shear",
         "Impact",
         "Ultrasound"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Rotation makes the powder fall from one cone to the other.",
       "probability": "low"
     },
@@ -468,11 +468,11 @@
       "question": "Magnesium stearate is used in tablets as a:",
       "options": [
         "Binder",
-        "Disintegrant",
         "Lubricant",
+        "Disintegrant",
         "Diluent"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "It reduces friction between tablet and die wall.",
       "probability": "high"
     },
@@ -482,11 +482,11 @@
       "question": "Separation of the top of a tablet as a cap is called:",
       "options": [
         "Picking",
-        "Capping",
         "Mottling",
+        "Capping",
         "Sticking"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Capping is usually due to trapped air, fines or dry granules.",
       "probability": "high"
     },
@@ -496,11 +496,11 @@
       "question": "As per IP, the disintegration time limit for uncoated tablets is:",
       "options": [
         "5 minutes",
-        "15 minutes",
         "30 minutes",
-        "60 minutes"
+        "60 minutes",
+        "15 minutes"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Uncoated 15, film-coated 30, sugar-coated 60 minutes.",
       "probability": "high"
     },
@@ -524,11 +524,11 @@
       "question": "For tablets of average weight 250 mg or more, the IP weight variation limit is:",
       "options": [
         "±10%",
-        "±7.5%",
         "±5%",
+        "±7.5%",
         "±2%"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "≤80 mg ±10%, 80–250 mg ±7.5%, ≥250 mg ±5%.",
       "probability": "high"
     },
@@ -538,11 +538,11 @@
       "question": "Which of the following is a superdisintegrant?",
       "options": [
         "Lactose",
-        "Croscarmellose sodium",
         "Talc",
+        "Croscarmellose sodium",
         "Povidone"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Croscarmellose, crospovidone and sodium starch glycolate are superdisintegrants.",
       "probability": "medium"
     },
@@ -552,11 +552,11 @@
       "question": "Cellulose acetate phthalate is used for:",
       "options": [
         "Sugar coating",
-        "Enteric coating",
         "Lubrication",
-        "Granulation"
+        "Granulation",
+        "Enteric coating"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "It is insoluble in stomach acid and dissolves in the intestine.",
       "probability": "medium"
     },
@@ -565,12 +565,12 @@
       "unit": 4,
       "question": "The largest hard gelatin capsule size is:",
       "options": [
+        "000",
         "5",
         "0",
-        "00",
-        "000"
+        "00"
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": "Size 000 (about 1.37 ml) is largest; size 5 is smallest.",
       "probability": "high"
     },
@@ -594,11 +594,11 @@
       "question": "The most common method of making soft gelatin capsules is the:",
       "options": [
         "Dipping method",
-        "Rotary die process",
         "Slugging",
+        "Rotary die process",
         "Pan coating"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Two gelatin ribbons are filled, sealed and cut between rotating dies.",
       "probability": "medium"
     },
@@ -608,11 +608,11 @@
       "question": "Slugging is another name for:",
       "options": [
         "Wet granulation",
-        "Dry granulation",
         "Direct compression",
-        "Film coating"
+        "Film coating",
+        "Dry granulation"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Powder is compressed into slugs, broken and screened.",
       "probability": "medium"
     },
@@ -621,12 +621,12 @@
       "unit": 4,
       "question": "Moisture content of hard gelatin capsule shells is about:",
       "options": [
+        "13–16%",
         "1–3%",
         "5–8%",
-        "13–16%",
         "25–30%"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Hard shells normally hold about 13–16% water.",
       "probability": "low"
     },
@@ -650,11 +650,11 @@
       "question": "An elixir is a:",
       "options": [
         "Thick aqueous sugar solution",
-        "Clear sweetened hydroalcoholic solution",
         "Oil-in-water emulsion",
+        "Clear sweetened hydroalcoholic solution",
         "Suspension for external use"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Elixirs contain water and alcohol, sweetened and flavoured.",
       "probability": "high"
     },
@@ -665,10 +665,10 @@
       "options": [
         "2 : 2 : 1",
         "3 : 2 : 1",
-        "4 : 2 : 1",
-        "1 : 2 : 4"
+        "1 : 2 : 4",
+        "4 : 2 : 1"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Fixed oil 4:2:1; volatile 2:2:1; mineral 3:2:1.",
       "probability": "high"
     },
@@ -677,12 +677,12 @@
       "unit": 5,
       "question": "Which instability of emulsions is irreversible?",
       "options": [
+        "Cracking",
         "Creaming",
         "Sedimentation",
-        "Cracking",
         "Flocculation"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Cracking (coalescence) cannot be reversed by shaking.",
       "probability": "high"
     },
@@ -706,11 +706,11 @@
       "question": "According to Stokes' law, sedimentation rate is reduced by:",
       "options": [
         "Increasing particle size",
-        "Increasing viscosity of the medium",
         "Increasing density difference",
+        "Increasing viscosity of the medium",
         "Raising gravity"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Rate is inversely proportional to viscosity.",
       "probability": "medium"
     },
@@ -720,11 +720,11 @@
       "question": "In a flocculated suspension, the sediment is:",
       "options": [
         "Hard cake",
-        "Loose and easily redispersed",
         "Absent",
-        "Compact and dense"
+        "Compact and dense",
+        "Loose and easily redispersed"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Flocs settle fast but form a loose, high-volume sediment.",
       "probability": "medium"
     },
@@ -733,12 +733,12 @@
       "unit": 5,
       "question": "Liniments are applied to the skin:",
       "options": [
-        "Without rubbing",
         "With friction (rubbing)",
+        "Without rubbing",
         "Only on broken skin",
         "By spraying"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Liniments are rubbed in; lotions are dabbed on.",
       "probability": "high"
     },
@@ -747,12 +747,12 @@
       "unit": 5,
       "question": "Theobroma oil as a suppository base shows:",
       "options": [
-        "Polymorphism",
         "High water solubility",
+        "Polymorphism",
         "Melting point above 50 °C",
         "No change on overheating"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "Overheating forms unstable polymorphs of lower melting point.",
       "probability": "medium"
     },
@@ -762,11 +762,11 @@
       "question": "An example of an absorption ointment base is:",
       "options": [
         "Hard paraffin",
-        "Wool fat",
         "Polyethylene glycol",
+        "Wool fat",
         "Liquid paraffin"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Wool fat can take up water to form w/o emulsions.",
       "probability": "medium"
     },
@@ -775,12 +775,12 @@
       "unit": 5,
       "question": "Oily nasal drops are avoided because they may cause:",
       "options": [
-        "Lipid pneumonia",
         "Hypertension",
         "Anaphylaxis",
-        "Hearing loss"
+        "Hearing loss",
+        "Lipid pneumonia"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Oil can reach the lungs.",
       "probability": "medium"
     },
@@ -789,12 +789,12 @@
       "unit": 5,
       "question": "Span emulsifiers mainly produce:",
       "options": [
-        "o/w emulsions",
         "w/o emulsions",
+        "o/w emulsions",
         "Suspensions",
         "Gels"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Spans have low HLB and favour w/o emulsions; Tweens favour o/w.",
       "probability": "low"
     },
@@ -818,11 +818,11 @@
       "question": "In effervescent granules, the usual ratio of citric acid to tartaric acid is:",
       "options": [
         "1 : 1",
-        "1 : 2",
         "2 : 1",
+        "1 : 2",
         "1 : 3"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Citric : tartaric 1 : 2 gives good granules.",
       "probability": "high"
     },
@@ -832,11 +832,11 @@
       "question": "In the fusion method of effervescent granules, the binder is provided by:",
       "options": [
         "Starch paste",
-        "Water of crystallisation of citric acid",
         "Alcohol",
-        "Sodium bicarbonate"
+        "Sodium bicarbonate",
+        "Water of crystallisation of citric acid"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Heating releases citric acid's water of crystallisation.",
       "probability": "medium"
     },
@@ -845,12 +845,12 @@
       "unit": 6,
       "question": "A sodium chloride solution isotonic with blood is:",
       "options": [
-        "0.45% w/v",
         "0.9% w/v",
+        "0.45% w/v",
         "1.8% w/v",
         "5% w/v"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "0.9% w/v NaCl is isotonic; 5% dextrose is also isotonic.",
       "probability": "high"
     },
@@ -874,11 +874,11 @@
       "question": "The LAL test detects:",
       "options": [
         "Particulate matter",
-        "Bacterial endotoxins",
         "Fungi",
+        "Bacterial endotoxins",
         "Leaking ampoules"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Limulus amoebocyte lysate gels with endotoxin.",
       "probability": "high"
     },
@@ -887,12 +887,12 @@
       "unit": 6,
       "question": "The leakage test for ampoules uses:",
       "options": [
-        "A coloured dye bath under vacuum",
         "A rabbit",
         "Culture media",
-        "A friabilator"
+        "A friabilator",
+        "A coloured dye bath under vacuum"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Leaking ampoules take up dye such as methylene blue.",
       "probability": "medium"
     },
@@ -901,12 +901,12 @@
       "unit": 6,
       "question": "BCG vaccine is an example of a:",
       "options": [
+        "Live attenuated vaccine",
         "Killed vaccine",
         "Toxoid",
-        "Live attenuated vaccine",
         "Antiserum"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "BCG contains live weakened bacilli.",
       "probability": "high"
     },
@@ -930,11 +930,11 @@
       "question": "Anti-snake venom gives:",
       "options": [
         "Active immunity",
-        "Passive immunity",
         "Herd immunity",
+        "Passive immunity",
         "No immunity"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "It supplies ready-made antibodies.",
       "probability": "medium"
     },
@@ -944,11 +944,11 @@
       "question": "Most vaccines should be stored at:",
       "options": [
         "−20 °C",
-        "2–8 °C",
         "25 °C",
-        "37 °C"
+        "37 °C",
+        "2–8 °C"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Refrigerated 2–8 °C; adsorbed vaccines must not be frozen.",
       "probability": "high"
     },
@@ -957,12 +957,12 @@
       "unit": 6,
       "question": "Multi-dose eye drops for home use are generally discarded after opening within:",
       "options": [
-        "1 day",
         "4 weeks",
+        "1 day",
         "6 months",
         "1 year"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Usually 4 weeks after first opening.",
       "probability": "medium"
     },
@@ -985,12 +985,12 @@
       "unit": 7,
       "question": "Quality control is mainly concerned with:",
       "options": [
-        "Sampling, specifications and testing",
         "Marketing",
         "Plant layout only",
+        "Sampling, specifications and testing",
         "Pricing"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "QC tests materials and products against specifications.",
       "probability": "high"
     },
@@ -1000,11 +1000,11 @@
       "question": "Which statement is correct?",
       "options": [
         "QC includes QA",
-        "QA includes GMP, which includes QC",
         "GMP includes QA",
-        "QA and QC are unrelated"
+        "QA and QC are unrelated",
+        "QA includes GMP, which includes QC"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "QA is the widest concept, then GMP, then QC.",
       "probability": "high"
     },
@@ -1013,12 +1013,12 @@
       "unit": 7,
       "question": "Checking a balance against certified standard weights is called:",
       "options": [
-        "Validation",
         "Calibration",
+        "Validation",
         "Qualification",
         "Auditing"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Calibration compares instrument readings with reference standards.",
       "probability": "medium"
     },
@@ -1028,11 +1028,11 @@
       "question": "Validation carried out before a new product is released for sale is:",
       "options": [
         "Retrospective",
-        "Concurrent",
         "Prospective",
+        "Concurrent",
         "Revalidation"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Prospective validation is done before commercial release.",
       "probability": "high"
     },
@@ -1042,11 +1042,11 @@
       "question": "IQ in equipment qualification stands for:",
       "options": [
         "Internal quality",
-        "Installation qualification",
         "Inspection quotient",
+        "Installation qualification",
         "Instrument quality"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "DQ, IQ, OQ, PQ = design, installation, operational, performance qualification.",
       "probability": "medium"
     },
@@ -1055,12 +1055,12 @@
       "unit": 7,
       "question": "Aseptic filling of injections is done under:",
       "options": [
-        "Grade A",
         "Grade B",
         "Grade C",
-        "Grade D"
+        "Grade D",
+        "Grade A"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Grade A (laminar air flow) is for critical aseptic steps.",
       "probability": "medium"
     },
@@ -1069,12 +1069,12 @@
       "unit": 7,
       "question": "Received raw materials awaiting QC approval are kept in:",
       "options": [
-        "Dispensing area",
         "Quarantine",
+        "Dispensing area",
         "Finished goods store",
         "Packaging hall"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Quarantine prevents use before approval.",
       "probability": "medium"
     },
@@ -1112,11 +1112,11 @@
       "question": "OROS is an example of:",
       "options": [
         "Transdermal system",
-        "Osmotic controlled release system",
         "Liposome",
+        "Osmotic controlled release system",
         "Ocular insert"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Osmotic pressure pushes drug through a laser-drilled orifice.",
       "probability": "high"
     },
@@ -1126,11 +1126,11 @@
       "question": "Ocusert contains:",
       "options": [
         "Timolol",
-        "Pilocarpine",
         "Atropine",
-        "Chloramphenicol"
+        "Chloramphenicol",
+        "Pilocarpine"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Ocusert releases pilocarpine for about a week.",
       "probability": "high"
     },
@@ -1168,11 +1168,11 @@
       "question": "Niosomes differ from liposomes in being made of:",
       "options": [
         "Phospholipids",
-        "Non-ionic surfactants",
         "Gelatin",
+        "Non-ionic surfactants",
         "Albumin"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Niosomes use non-ionic surfactant vesicles.",
       "probability": "medium"
     },
@@ -1181,12 +1181,12 @@
       "unit": 8,
       "question": "Sudden release of the entire dose from a sustained-release product is called:",
       "options": [
-        "Dose dumping",
         "First-pass effect",
         "Lag time",
-        "Bioequivalence"
+        "Bioequivalence",
+        "Dose dumping"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Dose dumping can cause toxicity.",
       "probability": "high"
     },
@@ -1195,12 +1195,12 @@
       "unit": 8,
       "question": "Zero-order release means:",
       "options": [
-        "Release proportional to the amount left",
         "A constant amount released per unit time",
+        "Release proportional to the amount left",
         "No release",
         "Release only at pH 7"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Rate is independent of the amount remaining.",
       "probability": "medium"
     },
@@ -1223,12 +1223,12 @@
       "unit": 8,
       "question": "Liposomal amphotericin B is an example of:",
       "options": [
-        "Targeted drug delivery",
         "Osmotic pump",
         "Implant",
+        "Targeted drug delivery",
         "Transdermal patch"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Liposomes reduce toxicity and target the drug.",
       "probability": "low"
     },
@@ -1239,10 +1239,10 @@
       "options": [
         "Very low cost",
         "Flexible dose adjustment",
-        "High cost of development and manufacture",
-        "Need for frequent dosing"
+        "Need for frequent dosing",
+        "High cost of development and manufacture"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "NDDS are costly to develop and make.",
       "probability": "medium"
     }

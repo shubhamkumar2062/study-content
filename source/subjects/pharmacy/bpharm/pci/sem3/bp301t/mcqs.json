@@ -5,12 +5,12 @@
       "unit": 1,
       "question": "The C–C bond length in benzene is about:",
       "options": [
+        "1.39 Å",
         "1.54 Å",
         "1.34 Å",
-        "1.39 Å",
         "1.20 Å"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "All six bonds are equal at 1.39 Å, between a single (1.54 Å) and a double (1.34 Å) bond, because the π electrons are delocalised.",
       "probability": "high"
     },
@@ -48,11 +48,11 @@
       "question": "The electrophile in the nitration of benzene is:",
       "options": [
         "NO2−",
-        "NO2+",
         "NO+",
-        "HNO3"
+        "HNO3",
+        "NO2+"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Conc. H2SO4 protonates HNO3, which loses water to give the nitronium ion, NO2+.",
       "probability": "high"
     },
@@ -61,12 +61,12 @@
       "unit": 1,
       "question": "Which group is a meta director in electrophilic aromatic substitution?",
       "options": [
+        "–NO2",
         "–OH",
         "–CH3",
-        "–NO2",
         "–Cl"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "–NO2 withdraws electrons by –I and –R, so the meta position is the least deactivated.",
       "probability": "high"
     },
@@ -90,11 +90,11 @@
       "question": "Benzene and chlorine in sunlight (no catalyst) give:",
       "options": [
         "Chlorobenzene",
-        "Benzene hexachloride (BHC)",
         "DDT",
+        "Benzene hexachloride (BHC)",
         "Chloral"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "In sunlight a free-radical addition adds six Cl atoms, giving hexachlorocyclohexane (BHC). With FeCl3 you get substitution instead.",
       "probability": "medium"
     },
@@ -105,10 +105,10 @@
       "options": [
         "α-isomer",
         "β-isomer",
-        "γ-isomer",
-        "δ-isomer"
+        "δ-isomer",
+        "γ-isomer"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Only the γ-isomer, lindane, is strongly insecticidal; it is used as a 1% lotion for scabies and lice.",
       "probability": "medium"
     },
@@ -117,12 +117,12 @@
       "unit": 1,
       "question": "Saccharin is made starting from:",
       "options": [
-        "Benzene",
         "Toluene",
+        "Benzene",
         "Phenol",
         "Aniline"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Remsen–Fahlberg route: toluene → chlorosulfonic acid → ammonia → KMnO4 oxidation → heat to close the ring.",
       "probability": "medium"
     },
@@ -145,12 +145,12 @@
       "unit": 1,
       "question": "The usual catalyst for Friedel–Crafts alkylation is:",
       "options": [
-        "Anhydrous AlCl3",
         "Conc. HNO3",
         "Ni",
+        "Anhydrous AlCl3",
         "Zn–Hg/HCl"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Anhydrous AlCl3, a Lewis acid, pulls the halide off the alkyl halide to form the carbocation electrophile.",
       "probability": "medium"
     },
@@ -160,11 +160,11 @@
       "question": "Chloramine-T is mainly used as:",
       "options": [
         "A sweetener",
-        "An antiseptic and disinfectant",
         "An insecticide",
-        "A local anaesthetic"
+        "A local anaesthetic",
+        "An antiseptic and disinfectant"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Chloramine-T (sodium N-chloro-p-toluenesulfonamide) releases active chlorine; it is an antiseptic and disinfects water.",
       "probability": "low"
     },
@@ -173,12 +173,12 @@
       "unit": 2,
       "question": "Which compound releases CO2 from sodium bicarbonate solution?",
       "options": [
-        "Phenol",
         "Benzoic acid",
+        "Phenol",
         "Aniline",
         "Benzyl alcohol"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Benzoic acid (pKa 4.2) is stronger than carbonic acid; phenol (pKa 10) is too weak to react with NaHCO3.",
       "probability": "high"
     },
@@ -188,11 +188,11 @@
       "question": "The strongest acid among these is:",
       "options": [
         "Phenol",
+        "Picric acid",
         "p-Cresol",
-        "p-Nitrophenol",
-        "Picric acid"
+        "p-Nitrophenol"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": "Picric acid (2,4,6-trinitrophenol, pKa about 0.4) has three –NO2 groups spreading the negative charge of the phenoxide ion.",
       "probability": "high"
     },
@@ -202,11 +202,11 @@
       "question": "Sodium phenoxide heated with CO2 under pressure gives salicylic acid. This is the:",
       "options": [
         "Reimer–Tiemann reaction",
-        "Kolbe–Schmidt reaction",
         "Sandmeyer reaction",
+        "Kolbe–Schmidt reaction",
         "Gattermann reaction"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "The Kolbe–Schmidt reaction gives salicylic acid, the starting material for aspirin.",
       "probability": "high"
     },
@@ -215,12 +215,12 @@
       "unit": 2,
       "question": "Diazotisation of aniline is carried out at:",
       "options": [
-        "0–5 °C",
         "25–30 °C",
         "50–60 °C",
-        "100 °C"
+        "100 °C",
+        "0–5 °C"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Above about 5 °C the diazonium salt loses N2 and turns into phenol.",
       "probability": "high"
     },
@@ -229,12 +229,12 @@
       "unit": 2,
       "question": "A diazonium salt warmed with CuCN gives:",
       "options": [
+        "Benzonitrile",
         "Chlorobenzene",
         "Phenol",
-        "Benzonitrile",
         "Fluorobenzene"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "This is the Sandmeyer reaction: CuCl, CuBr and CuCN give ArCl, ArBr and ArCN.",
       "probability": "high"
     },
@@ -244,11 +244,11 @@
       "question": "Fluorobenzene is best made from a diazonium salt by the:",
       "options": [
         "Sandmeyer reaction",
-        "Gattermann reaction",
         "Balz–Schiemann reaction",
+        "Gattermann reaction",
         "Reimer–Tiemann reaction"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "In the Balz–Schiemann reaction the diazonium fluoroborate (from HBF4) is heated to give ArF.",
       "probability": "medium"
     },
@@ -257,12 +257,12 @@
       "unit": 2,
       "question": "Phenol, chloroform and NaOH give mainly:",
       "options": [
-        "Salicylaldehyde",
         "Salicylic acid",
         "Benzaldehyde",
+        "Salicylaldehyde",
         "Picric acid"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "This is the Reimer–Tiemann reaction; dichlorocarbene attacks the ortho position, giving salicylaldehyde.",
       "probability": "medium"
     },
@@ -272,11 +272,11 @@
       "question": "Aniline is a weaker base than ammonia because:",
       "options": [
         "It has no lone pair on nitrogen",
-        "Its lone pair is delocalised into the ring",
         "It is a gas",
-        "The ring donates electrons to nitrogen"
+        "The ring donates electrons to nitrogen",
+        "Its lone pair is delocalised into the ring"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "The nitrogen lone pair is shared with the benzene ring, so it is less available to take a proton (pKb 9.4 vs 4.75).",
       "probability": "medium"
     },
@@ -285,12 +285,12 @@
       "unit": 2,
       "question": "Which of these is the strongest acid?",
       "options": [
-        "Benzoic acid",
         "o-Toluic acid",
+        "Benzoic acid",
         "m-Toluic acid",
         "p-Toluic acid"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ortho effect: almost any ortho group makes benzoic acid stronger, even an electron-donating –CH3.",
       "probability": "medium"
     },
@@ -313,12 +313,12 @@
       "unit": 2,
       "question": "Liebermann's nitroso test is given by:",
       "options": [
-        "Phenols",
         "Primary aliphatic amines",
         "Carboxylic acids",
+        "Phenols",
         "Alkanes"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Phenol with NaNO2 and conc. H2SO4 gives a deep green or blue colour that turns red on dilution and blue again with NaOH.",
       "probability": "low"
     },
@@ -328,11 +328,11 @@
       "question": "Saponification value is the number of milligrams of KOH needed to:",
       "options": [
         "Neutralise the free fatty acids in 1 g of fat",
-        "Saponify 1 g of fat completely",
         "Neutralise the volatile acids from 5 g of fat",
-        "React with the iodine taken up by 1 g of fat"
+        "React with the iodine taken up by 1 g of fat",
+        "Saponify 1 g of fat completely"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "It covers free and combined (ester) acids, so it reflects the average chain length of the fatty acids.",
       "probability": "high"
     },
@@ -341,12 +341,12 @@
       "unit": 3,
       "question": "Acid value is the number of milligrams of KOH needed to neutralise:",
       "options": [
-        "All the fatty acids in 1 g of fat",
         "The free fatty acids in 1 g of fat",
+        "All the fatty acids in 1 g of fat",
         "The glycerol in 1 g of fat",
         "The free hydroxyl groups in 1 g of fat"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Acid value measures only free fatty acids, so it rises as a fat turns rancid.",
       "probability": "high"
     },
@@ -370,11 +370,11 @@
       "question": "The reagent used in the Wijs method for iodine value is:",
       "options": [
         "Iodine in water",
-        "Iodine monochloride in glacial acetic acid",
         "Potassium iodate",
+        "Iodine monochloride in glacial acetic acid",
         "Iodine in chloroform only"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Wijs solution is ICl in glacial acetic acid; the excess is estimated with sodium thiosulfate.",
       "probability": "high"
     },
@@ -385,10 +385,10 @@
       "options": [
         "Less than 100",
         "100–130",
-        "More than 130",
-        "Exactly 0"
+        "Exactly 0",
+        "More than 130"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Drying oils (e.g. linseed) are highly unsaturated: iodine value above 130.",
       "probability": "medium"
     },
@@ -397,12 +397,12 @@
       "unit": 3,
       "question": "Ester value equals:",
       "options": [
-        "Saponification value + acid value",
         "Saponification value − acid value",
+        "Saponification value + acid value",
         "Acid value − iodine value",
         "Iodine value − acid value"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Saponification value counts free plus combined acids; subtracting the free acids (acid value) leaves the ester part.",
       "probability": "medium"
     },
@@ -411,12 +411,12 @@
       "unit": 3,
       "question": "A high Reichert–Meissl value is typical of:",
       "options": [
-        "Butter (ghee)",
         "Groundnut oil",
+        "Butter (ghee)",
         "Olive oil",
         "Castor oil"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "Butter fat has volatile, water-soluble acids such as butyric acid; its RM value is 17–35, other fats are below 1.",
       "probability": "medium"
     },
@@ -426,11 +426,11 @@
       "question": "Hardening of oils means:",
       "options": [
         "Saponification with NaOH",
-        "Catalytic hydrogenation of C=C bonds with Ni",
         "Oxidation with air",
+        "Catalytic hydrogenation of C=C bonds with Ni",
         "Removal of free fatty acids"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Hydrogen is added to the double bonds with a nickel catalyst, turning liquid oil into solid fat such as vanaspati.",
       "probability": "medium"
     },
@@ -439,12 +439,12 @@
       "unit": 3,
       "question": "Oxidative rancidity can be slowed by adding:",
       "options": [
-        "Butylated hydroxytoluene (BHT)",
         "Nickel",
         "Sodium hydroxide",
-        "Water"
+        "Water",
+        "Butylated hydroxytoluene (BHT)"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Antioxidants such as BHT, BHA and vitamin E stop the free-radical chain that oxidises double bonds.",
       "probability": "medium"
     },
@@ -467,12 +467,12 @@
       "unit": 4,
       "question": "Sulfonation of naphthalene at about 80 °C gives mainly:",
       "options": [
-        "Naphthalene-1-sulfonic acid",
         "Naphthalene-2-sulfonic acid",
+        "Naphthalene-1-sulfonic acid",
         "1,5-Disulfonic acid",
         "No reaction"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "At low temperature the faster-forming 1- (α) product dominates; at about 160 °C the more stable 2- (β) product forms.",
       "probability": "high"
     },
@@ -482,11 +482,11 @@
       "question": "Haworth synthesis of naphthalene starts from benzene and:",
       "options": [
         "Phthalic anhydride",
-        "Succinic anhydride",
         "Maleic anhydride",
+        "Succinic anhydride",
         "Acetic anhydride"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Friedel–Crafts acylation with succinic anhydride, Clemmensen reduction, ring closure, reduction and dehydrogenation give naphthalene.",
       "probability": "high"
     },
@@ -497,10 +497,10 @@
       "options": [
         "1 and 2",
         "2 and 3",
-        "9 and 10",
-        "1 and 4"
+        "1 and 4",
+        "9 and 10"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Reaction at C9 and C10 leaves two intact benzene rings, so it costs the least resonance energy.",
       "probability": "high"
     },
@@ -509,12 +509,12 @@
       "unit": 4,
       "question": "The resonance energy of naphthalene is about:",
       "options": [
-        "36 kcal/mol",
         "61 kcal/mol",
+        "36 kcal/mol",
         "84 kcal/mol",
         "92 kcal/mol"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Naphthalene 61, anthracene 84 and phenanthrene 92 kcal/mol.",
       "probability": "medium"
     },
@@ -524,11 +524,11 @@
       "question": "Naphthalene has how many π electrons?",
       "options": [
         "6",
-        "8",
         "10",
+        "8",
         "14"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Two fused rings with five double bonds give 10 π electrons (4n+2, n = 2).",
       "probability": "medium"
     },
@@ -538,11 +538,11 @@
       "question": "The Elbs reaction (pyrolysis of an o-methyl diaryl ketone) is used to prepare:",
       "options": [
         "Naphthalene",
-        "Anthracene",
         "Phenanthrene",
+        "Anthracene",
         "Diphenylmethane"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Heating o-methylbenzophenone-type ketones closes the middle ring of anthracene.",
       "probability": "medium"
     },
@@ -553,10 +553,10 @@
       "options": [
         "Naphthalene",
         "Anthracene",
-        "Phenanthrene",
-        "Triphenylmethane"
+        "Triphenylmethane",
+        "Phenanthrene"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "A diazotised o-amino-α-phenylcinnamic acid cyclises with copper, then decarboxylation gives phenanthrene.",
       "probability": "medium"
     },
@@ -565,12 +565,12 @@
       "unit": 4,
       "question": "Gomberg prepared the first stable free radical, which was:",
       "options": [
+        "Triphenylmethyl radical",
         "Methyl radical",
         "Benzyl radical",
-        "Triphenylmethyl radical",
         "Phenyl radical"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Trityl chloride with zinc or silver gives (C6H5)3C•; the odd electron is spread over three rings.",
       "probability": "medium"
     },
@@ -579,12 +579,12 @@
       "unit": 4,
       "question": "The anti-inflammatory drug naproxen contains which ring system?",
       "options": [
-        "Naphthalene",
         "Anthracene",
+        "Naphthalene",
         "Phenanthrene",
         "Cyclopropane"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "Naproxen is a methoxy-naphthalene propionic acid.",
       "probability": "low"
     },
@@ -594,11 +594,11 @@
       "question": "Oxidation of phenanthrene with chromic acid gives:",
       "options": [
         "Phthalic acid",
-        "9,10-Phenanthraquinone",
         "Anthraquinone",
+        "9,10-Phenanthraquinone",
         "Benzoic acid"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "C9 and C10 are the reactive positions, so oxidation there gives 9,10-phenanthraquinone.",
       "probability": "low"
     },
@@ -607,12 +607,12 @@
       "unit": 5,
       "question": "According to Baeyer, the angle deviation per bond in cyclopropane is:",
       "options": [
-        "24°44′",
         "9°44′",
         "0°44′",
-        "5°16′"
+        "5°16′",
+        "24°44′"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "(109°28′ − 60°)/2 = 24°44′. Cyclobutane is 9°44′ and cyclopentane 0°44′.",
       "probability": "high"
     },
@@ -621,12 +621,12 @@
       "unit": 5,
       "question": "Baeyer's strain theory predicted the most stable ring to be:",
       "options": [
+        "Cyclopentane",
         "Cyclopropane",
         "Cyclobutane",
-        "Cyclopentane",
         "Cyclohexane"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Its planar angle (108°) is closest to 109°28′. In reality cyclohexane is the most stable because it is not planar.",
       "probability": "high"
     },
@@ -663,12 +663,12 @@
       "unit": 5,
       "question": "Freund's method makes cyclopropane from 1,3-dibromopropane and:",
       "options": [
-        "Zinc",
         "Sodium ethoxide",
         "Nickel",
-        "Bromine"
+        "Bromine",
+        "Zinc"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Zinc (or sodium) removes both bromine atoms and joins the two end carbons.",
       "probability": "medium"
     },
@@ -677,12 +677,12 @@
       "unit": 5,
       "question": "In the Simmons–Smith reaction an alkene reacts with:",
       "options": [
-        "CH2N2 and light",
         "CH2I2 and Zn–Cu couple",
+        "CH2N2 and light",
         "CHCl3 and NaOH",
         "H2 and Ni"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "CH2I2 with a zinc–copper couple forms a carbenoid that adds CH2 across the double bond, giving a cyclopropane.",
       "probability": "medium"
     },
@@ -720,11 +720,11 @@
       "question": "Cyclopropane reacts with bromine to give:",
       "options": [
         "Bromocyclopropane",
-        "1,3-Dibromopropane",
         "1,2-Dibromopropane",
-        "No reaction"
+        "No reaction",
+        "1,3-Dibromopropane"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "The strained ring opens, so bromine adds across it to give 1,3-dibromopropane.",
       "probability": "medium"
     },
@@ -733,12 +733,12 @@
       "unit": 5,
       "question": "The Sachse–Mohr theory explains that large rings are:",
       "options": [
-        "Planar and strained",
         "Puckered and strainless",
+        "Planar and strained",
         "Unstable above six carbons",
         "Aromatic"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Rings of six or more carbons pucker so every angle stays near 109°28′; decalin's two forms support this.",
       "probability": "low"
     },
