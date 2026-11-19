@@ -1,0 +1,1138 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Pharmaceutical care was defined by:",
+      "options": [
+        "Hepler and Strand",
+        "Schroff and Ray",
+        "Chopra and Martindale",
+        "Florey and Chain"
+      ],
+      "correct": 0,
+      "explanation": "Hepler and Strand defined pharmaceutical care in 1990.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The Pharmacy Practice Regulations were issued by the PCI in:",
+      "options": [
+        "2005",
+        "2015",
+        "1948",
+        "2020"
+      ],
+      "correct": 1,
+      "explanation": "PCI notified the Pharmacy Practice Regulations in 2015.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Good Pharmacy Practice guidelines were revised jointly by FIP and WHO in:",
+      "options": [
+        "1993",
+        "1985",
+        "2011",
+        "2001"
+      ],
+      "correct": 2,
+      "explanation": "FIP adopted GPP in 1993; the joint FIP/WHO revision came in 2011.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which of the following is NOT one of the four roles in the FIP/WHO GPP guidelines?",
+      "options": [
+        "Providing effective medication therapy management",
+        "Maintaining professional performance",
+        "Contributing to public health",
+        "Manufacturing bulk drugs"
+      ],
+      "correct": 3,
+      "explanation": "Bulk manufacture is an industrial job, not a GPP role of the practising pharmacist.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "A written, approved, step-by-step instruction for a routine task is called:",
+      "options": [
+        "Standard Operating Procedure",
+        "Master formula",
+        "Prescription",
+        "Patient information leaflet"
+      ],
+      "correct": 0,
+      "explanation": "An SOP makes a routine task be done the same correct way every time.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Only a registered pharmacist may dispense medicines on prescription under the:",
+      "options": [
+        "Drugs (Prices Control) Order, 2013",
+        "Pharmacy Act, 1948",
+        "NDPS Act, 1985",
+        "Shops and Establishments Act"
+      ],
+      "correct": 1,
+      "explanation": "The Pharmacy Act, 1948 provides for registration and restricts dispensing to registered pharmacists.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Reporting of adverse drug reactions in India is done under:",
+      "options": [
+        "NPPA",
+        "CDSCO pricing cell",
+        "PvPI",
+        "NTEP"
+      ],
+      "correct": 2,
+      "explanation": "The Pharmacovigilance Programme of India (PvPI) collects ADR reports.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The Pharmaceutical Society of Great Britain was founded in:",
+      "options": [
+        "1852",
+        "1901",
+        "1948",
+        "1841"
+      ],
+      "correct": 3,
+      "explanation": "It was founded in 1841; the American Pharmaceutical Association followed in 1852.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Which section of an SOP states who carries out and who checks a task?",
+      "options": [
+        "Responsibility",
+        "Scope",
+        "Purpose",
+        "References"
+      ],
+      "correct": 0,
+      "explanation": "The responsibility section names the persons who do and check the task.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The symbol Rx in a prescription is called the:",
+      "options": [
+        "Inscription",
+        "Superscription",
+        "Subscription",
+        "Signa"
+      ],
+      "correct": 1,
+      "explanation": "Rx (recipe – take thou) is the superscription.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Directions to the patient in a prescription are given in the:",
+      "options": [
+        "Inscription",
+        "Superscription",
+        "Signa",
+        "Subscription"
+      ],
+      "correct": 2,
+      "explanation": "The signa (transcription) gives the patient's directions copied onto the label.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The abbreviation 'h.s.' means:",
+      "options": [
+        "Every hour",
+        "Half strength",
+        "Before meals",
+        "At bedtime"
+      ],
+      "correct": 3,
+      "explanation": "h.s. (hora somni) means at bedtime.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The abbreviation 't.d.s.' means:",
+      "options": [
+        "Three times a day",
+        "Twice a day",
+        "Four times a day",
+        "Once a day"
+      ],
+      "correct": 0,
+      "explanation": "t.d.s. = ter die sumendum, three times a day.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The Schedule H1 register must be kept for:",
+      "options": [
+        "1 year",
+        "3 years",
+        "2 years",
+        "5 years"
+      ],
+      "correct": 1,
+      "explanation": "H1 records are maintained separately and kept for three years.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Schedule X prescriptions are written in:",
+      "options": [
+        "Single copy returned to patient",
+        "Triplicate",
+        "Duplicate, one copy kept by the pharmacy",
+        "Any form without copy"
+      ],
+      "correct": 2,
+      "explanation": "A Schedule X prescription is in duplicate; the pharmacy keeps one copy for 2 years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which ancillary label is most suitable for a suspension?",
+      "options": [
+        "Swallow whole",
+        "Avoid sunlight",
+        "Store in a freezer",
+        "Shake well before use"
+      ],
+      "correct": 3,
+      "explanation": "Particles settle in a suspension, so it must be shaken before each dose.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Chlorpromazine dispensed instead of chlorpropamide is an example of:",
+      "options": [
+        "Look-alike sound-alike error",
+        "Wrong quantity error",
+        "Omission error",
+        "Wrong patient error"
+      ],
+      "correct": 0,
+      "explanation": "The two names look and sound alike – a classic LASA error.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Writing 'chlorproMAZINE' on shelf labels is called:",
+      "options": [
+        "Pictogram labelling",
+        "Tall-man lettering",
+        "Barcode labelling",
+        "Colour coding"
+      ],
+      "correct": 1,
+      "explanation": "Tall-man lettering highlights the differing letters of LASA names.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "WWHAM is used for:",
+      "options": [
+        "Inventory control",
+        "Accountancy",
+        "Responding to symptoms",
+        "Labelling"
+      ],
+      "correct": 2,
+      "explanation": "WWHAM is a questioning method for symptom enquiries at the counter.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "In WWHAM, the letter 'A' stands for:",
+      "options": [
+        "Age",
+        "Allergy",
+        "Adherence",
+        "Action already taken"
+      ],
+      "correct": 3,
+      "explanation": "Who, What symptoms, How long, Action taken, Medicines.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "'Are you allergic to penicillin?' is an example of a:",
+      "options": [
+        "Closed question",
+        "Open question",
+        "Leading question",
+        "Reflective question"
+      ],
+      "correct": 0,
+      "explanation": "It invites a yes or no answer, so it is closed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Which question should a pharmacist avoid?",
+      "options": [
+        "How do you take your tablets?",
+        "You take it every day, don't you?",
+        "What did the doctor tell you?",
+        "When did the cough start?"
+      ],
+      "correct": 1,
+      "explanation": "It is a leading question that suggests the answer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "In SOLER, the letter 'O' stands for:",
+      "options": [
+        "Opinion",
+        "Oral communication",
+        "Open posture",
+        "Observation"
+      ],
+      "correct": 2,
+      "explanation": "SOLER: Square, Open posture, Lean forward, Eye contact, Relaxed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Facial expression and posture are forms of:",
+      "options": [
+        "Written communication",
+        "Electronic communication",
+        "Formal communication",
+        "Non-verbal communication"
+      ],
+      "correct": 3,
+      "explanation": "Body language is non-verbal communication.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "SBAR is useful when a pharmacist communicates with:",
+      "options": [
+        "A prescriber about a problem",
+        "A child about a cold",
+        "A supplier about price",
+        "A customer about billing"
+      ],
+      "correct": 0,
+      "explanation": "Situation, Background, Assessment, Recommendation – structured talk with health professionals.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The response by the receiver showing that a message was understood is called:",
+      "options": [
+        "Noise",
+        "Feedback",
+        "Channel",
+        "Encoding"
+      ],
+      "correct": 1,
+      "explanation": "Feedback closes the communication loop.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Asking the patient to repeat how they will use a medicine is called:",
+      "options": [
+        "Probing",
+        "Paraphrasing by pharmacist",
+        "Teach-back",
+        "Leading"
+      ],
+      "correct": 2,
+      "explanation": "Teach-back confirms understanding in the patient's own words.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Which is the correct order of the stages of patient counselling?",
+      "options": [
+        "Content, introduction, closing, process",
+        "Closing, process, content, introduction",
+        "Process, content, introduction, closing",
+        "Introduction, content, process, closing"
+      ],
+      "correct": 3,
+      "explanation": "A session opens, gives content through a two-way process and then closes.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Patients using an inhaled corticosteroid should be told to:",
+      "options": [
+        "Rinse the mouth and spit after use",
+        "Use it only during an attack",
+        "Swallow the inhaler powder with water",
+        "Stop it when symptoms improve"
+      ],
+      "correct": 0,
+      "explanation": "Rinsing prevents oral thrush and hoarseness; steroids are used daily as preventers.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Orange-red discoloration of urine during TB treatment is caused by:",
+      "options": [
+        "Isoniazid",
+        "Rifampicin",
+        "Ethambutol",
+        "Pyrazinamide"
+      ],
+      "correct": 1,
+      "explanation": "Rifampicin colours urine, tears and sweat orange-red; it is harmless.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "A patient with hypoglycaemia should first take:",
+      "options": [
+        "A long walk",
+        "An extra dose of insulin",
+        "15–20 g of quick-acting sugar",
+        "A high-fat meal"
+      ],
+      "correct": 2,
+      "explanation": "Quick sugar raises blood glucose; recheck after about 15 minutes.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Unopened insulin should be stored at:",
+      "options": [
+        "Below 0 °C",
+        "25–30 °C",
+        "Above 40 °C",
+        "2–8 °C"
+      ],
+      "correct": 3,
+      "explanation": "Insulin is kept in a refrigerator and must not be frozen.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The single most important step to slow the progress of COPD is:",
+      "options": [
+        "Stopping smoking",
+        "Daily antibiotics",
+        "High-salt diet",
+        "Bed rest"
+      ],
+      "correct": 0,
+      "explanation": "Smoking cessation is the only measure shown to slow decline in lung function.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Patient Package Inserts must be supplied in the pack of every medicine in:",
+      "options": [
+        "India",
+        "The European Union",
+        "All Asian countries",
+        "No country"
+      ],
+      "correct": 1,
+      "explanation": "EU law requires a patient leaflet in every medicine pack.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Dry cough is a known side effect of:",
+      "options": [
+        "Amlodipine",
+        "Metformin",
+        "ACE inhibitors",
+        "Salbutamol"
+      ],
+      "correct": 2,
+      "explanation": "ACE inhibitors such as enalapril commonly cause a dry cough.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Lack of a private counselling area is a barrier related to the:",
+      "options": [
+        "Patient",
+        "Prescriber",
+        "Drug",
+        "Environment"
+      ],
+      "correct": 3,
+      "explanation": "Noise, crowd and no privacy are environmental barriers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Medication adherence was defined in 2003 by:",
+      "options": [
+        "WHO",
+        "FIP",
+        "PCI",
+        "FDA"
+      ],
+      "correct": 0,
+      "explanation": "The WHO report on adherence to long-term therapies (2003) gives the standard definition.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Forgetting doses is an example of:",
+      "options": [
+        "Intentional non-adherence",
+        "Unintentional non-adherence",
+        "Concordance",
+        "Persistence"
+      ],
+      "correct": 1,
+      "explanation": "The patient wants to take the medicine but fails – unintentional.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Which of the following is a therapy-related factor for non-adherence?",
+      "options": [
+        "Poverty",
+        "Short consultation time",
+        "Many doses a day",
+        "Depression"
+      ],
+      "correct": 2,
+      "explanation": "Complex regimens belong to the therapy dimension of the WHO model.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Directly observed therapy is widely used to improve adherence in:",
+      "options": [
+        "Common cold",
+        "Acne",
+        "Constipation",
+        "Tuberculosis"
+      ],
+      "correct": 3,
+      "explanation": "DOT was used in TB programmes to ensure each dose is taken.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "By Asian Indian cut-offs, a BMI of 24 kg/m² is classed as:",
+      "options": [
+        "Overweight",
+        "Normal",
+        "Obese",
+        "Underweight"
+      ],
+      "correct": 0,
+      "explanation": "Asian cut-offs: 18.5–22.9 normal, 23–24.9 overweight, 25 or more obese.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "A fasting plasma glucose of 126 mg/dL or more suggests:",
+      "options": [
+        "Normal glucose",
+        "Diabetes",
+        "Hypoglycaemia",
+        "Prediabetes"
+      ],
+      "correct": 1,
+      "explanation": "100–125 mg/dL is prediabetes; 126 mg/dL or more suggests diabetes and needs referral.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Normal oxygen saturation measured by pulse oximetry is about:",
+      "options": [
+        "70–80%",
+        "80–85%",
+        "95–100%",
+        "50–60%"
+      ],
+      "correct": 2,
+      "explanation": "SpO2 below 95% needs attention and below 90% is urgent.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Pill count and refill records are:",
+      "options": [
+        "Direct methods of measuring adherence",
+        "Screening tests",
+        "Inventory methods",
+        "Indirect methods of measuring adherence"
+      ],
+      "correct": 3,
+      "explanation": "Direct methods measure drug in body fluids or observe intake; others are indirect.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A peak flow below 50% of personal best indicates the:",
+      "options": [
+        "Danger (red) zone",
+        "Green zone",
+        "Normal zone",
+        "Yellow zone"
+      ],
+      "correct": 0,
+      "explanation": "Below 50% is the red zone needing urgent care; 50–80% is the warning zone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "In Indian law, prescription-only drugs are listed in:",
+      "options": [
+        "Schedule K only",
+        "Schedules H, H1 and X",
+        "Schedule M",
+        "Schedule P"
+      ],
+      "correct": 1,
+      "explanation": "Schedules H, H1 and X need a prescription; India has no separate OTC schedule.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Household remedies that may be sold in villages under conditions are covered by:",
+      "options": [
+        "Schedule X",
+        "Schedule H1",
+        "Schedule K",
+        "Schedule C"
+      ],
+      "correct": 2,
+      "explanation": "Schedule K lists exemptions, including household remedies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "The usual maximum daily dose of paracetamol for a healthy adult is:",
+      "options": [
+        "1 g",
+        "10 g",
+        "500 mg",
+        "4 g"
+      ],
+      "correct": 3,
+      "explanation": "Most labels give 4 g a day as the adult maximum; lower in liver disease or heavy drinkers.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Use of medicines to treat self-recognised symptoms without a doctor is called:",
+      "options": [
+        "Self-medication",
+        "Polypharmacy",
+        "Concordance",
+        "Pharmacovigilance"
+      ],
+      "correct": 0,
+      "explanation": "Self-medication is part of self-care.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "Which of the following is a risk of self-medication?",
+      "options": [
+        "Quick relief",
+        "Delay in treating serious disease",
+        "Lower cost",
+        "Saving the doctor's time"
+      ],
+      "correct": 1,
+      "explanation": "Wrong self-diagnosis can hide or delay serious illness.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "In ASMETHOD, the letter 'D' stands for:",
+      "options": [
+        "Dose",
+        "Duration",
+        "Danger symptoms",
+        "Diet"
+      ],
+      "correct": 2,
+      "explanation": "ASMETHOD ends with Danger symptoms, the red flags.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "A good OTC medicine should have:",
+      "options": [
+        "High abuse potential",
+        "Need for regular blood tests",
+        "Many serious interactions",
+        "A wide margin of safety"
+      ],
+      "correct": 3,
+      "explanation": "OTC drugs must be safe for use without medical supervision.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Which product should NOT be sold without a prescription?",
+      "options": [
+        "Amoxicillin capsules",
+        "ORS sachets",
+        "Calamine lotion",
+        "Antacid tablets"
+      ],
+      "correct": 0,
+      "explanation": "Antibiotics are prescription drugs; selling them freely adds to antimicrobial resistance.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "A cough lasting more than 2–3 weeks should be:",
+      "options": [
+        "Treated with lozenges only",
+        "Referred to a doctor",
+        "Ignored",
+        "Treated with antibiotics from the pharmacy"
+      ],
+      "correct": 1,
+      "explanation": "A prolonged cough may be TB or another serious disease and needs referral.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The most important treatment of acute diarrhoea is:",
+      "options": [
+        "Loperamide in all ages",
+        "Antibiotics",
+        "Oral rehydration solution",
+        "Stopping all food"
+      ],
+      "correct": 2,
+      "explanation": "ORS prevents and treats dehydration, the main danger.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "Zinc is given with ORS to children with diarrhoea for:",
+      "options": [
+        "1 day",
+        "2 months",
+        "6 months",
+        "10–14 days"
+      ],
+      "correct": 3,
+      "explanation": "WHO and national guidance advise zinc for 10–14 days.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Aspirin should be avoided in children because of the risk of:",
+      "options": [
+        "Reye's syndrome",
+        "Rickets",
+        "Rebound congestion",
+        "Raynaud's disease"
+      ],
+      "correct": 0,
+      "explanation": "Reye's syndrome affects the liver and brain in children and teenagers.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "Nasal decongestant drops used for too long can cause:",
+      "options": [
+        "Constipation",
+        "Rebound congestion",
+        "Hair loss",
+        "Dry cough"
+      ],
+      "correct": 1,
+      "explanation": "Use for more than about a week leads to rhinitis medicamentosa.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "The first-choice laxative for simple constipation is:",
+      "options": [
+        "Liquid paraffin for months",
+        "Castor oil daily",
+        "Ispaghula husk",
+        "Senna for long-term use"
+      ],
+      "correct": 2,
+      "explanation": "Bulk-forming laxatives taken with water are tried first.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "Scabies is treated with:",
+      "options": [
+        "Clotrimazole cream",
+        "Benzoyl peroxide gel",
+        "Hydrocortisone cream alone",
+        "Permethrin 5% cream"
+      ],
+      "correct": 3,
+      "explanation": "Permethrin kills the mite; all household contacts are treated together.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "A productive cough is best treated with:",
+      "options": [
+        "An expectorant or mucolytic",
+        "A cough suppressant",
+        "An antihistamine alone",
+        "A laxative"
+      ],
+      "correct": 0,
+      "explanation": "Suppressing a productive cough keeps sputum in the chest.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "A mouth ulcer should be referred if it lasts more than:",
+      "options": [
+        "2 days",
+        "3 weeks",
+        "5 days",
+        "1 week"
+      ],
+      "correct": 1,
+      "explanation": "A long-lasting ulcer may be oral cancer, especially in tobacco users.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "RICE in the management of sprains stands for:",
+      "options": [
+        "Rub, Inject, Cover, Exercise",
+        "Rest, Inhale, Cool, Eat",
+        "Rest, Ice, Compression, Elevation",
+        "Relax, Immobilise, Cream, Exercise"
+      ],
+      "correct": 2,
+      "explanation": "RICE is first aid for sprains and strains.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "The retail sale licence for drugs other than Schedules C, C1 and X is issued in:",
+      "options": [
+        "Form 21",
+        "Form 25",
+        "Form 28",
+        "Form 20"
+      ],
+      "correct": 3,
+      "explanation": "Form 20 covers retail sale of drugs other than C, C1 and X.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Retail sale of Schedule C and C1 drugs (for example insulin and vaccines) needs a licence in:",
+      "options": [
+        "Form 21",
+        "Form 20",
+        "Form 20B",
+        "Form 25"
+      ],
+      "correct": 0,
+      "explanation": "Form 21 is for Schedule C and C1 drugs other than Schedule X.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "The minimum area for a retail pharmacy under the Drugs and Cosmetics Rules is:",
+      "options": [
+        "5 square metres",
+        "10 square metres",
+        "25 square metres",
+        "50 square metres"
+      ],
+      "correct": 1,
+      "explanation": "Retail needs at least 10 m²; combined retail and wholesale at least 15 m².",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "Drug sale licences are granted by the:",
+      "options": [
+        "Pharmacy Council of India",
+        "NPPA",
+        "State Licensing Authority",
+        "Municipal corporation"
+      ],
+      "correct": 2,
+      "explanation": "The State Drugs Controller's office licenses drug sale after inspection.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "In ABC analysis, 'A' items are those with:",
+      "options": [
+        "High importance only",
+        "Fast movement only",
+        "Low price",
+        "High annual value"
+      ],
+      "correct": 3,
+      "explanation": "About 10–20% of items account for about 70–80% of annual value.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "VED analysis classifies items by their:",
+      "options": [
+        "Importance",
+        "Annual value",
+        "Movement",
+        "Unit price"
+      ],
+      "correct": 0,
+      "explanation": "Vital, Essential, Desirable – based on clinical importance.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "If daily use is 10 strips, lead time 3 days and safety stock 20 strips, the reorder level is:",
+      "options": [
+        "30 strips",
+        "50 strips",
+        "23 strips",
+        "60 strips"
+      ],
+      "correct": 1,
+      "explanation": "Reorder level = 10 × 3 + 20 = 50.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "FEFO stands for:",
+      "options": [
+        "First entry, first out",
+        "Fast expiry, fast order",
+        "First expiry, first out",
+        "Final expiry, final order"
+      ],
+      "correct": 2,
+      "explanation": "Stock that expires first is sold first.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "FSN analysis is based on:",
+      "options": [
+        "Value of stock",
+        "Supplier location",
+        "Storage temperature",
+        "Movement of stock"
+      ],
+      "correct": 3,
+      "explanation": "Fast, Slow and Non-moving items.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m01",
+      "unit": 9,
+      "question": "The book of original entry in which transactions are recorded in date order is the:",
+      "options": [
+        "Day book (journal)",
+        "Balance sheet",
+        "Trial balance",
+        "Profit and loss account"
+      ],
+      "correct": 0,
+      "explanation": "Transactions are first written in the day book and then posted to the ledger.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m02",
+      "unit": 9,
+      "question": "In a cash book, cash receipts are recorded on the:",
+      "options": [
+        "Credit (right) side",
+        "Debit (left) side",
+        "Both sides",
+        "Ledger folio column"
+      ],
+      "correct": 1,
+      "explanation": "Receipts are debited on the left; payments are credited on the right.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m03",
+      "unit": 9,
+      "question": "A cash book with cash, bank and discount columns is a:",
+      "options": [
+        "Single-column cash book",
+        "Petty cash book",
+        "Triple-column cash book",
+        "Purchase day book"
+      ],
+      "correct": 2,
+      "explanation": "Triple column = cash, bank and discount.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m04",
+      "unit": 9,
+      "question": "Money invested in furniture, racks and a refrigerator is:",
+      "options": [
+        "Working capital",
+        "Variable cost",
+        "Net profit",
+        "Fixed capital"
+      ],
+      "correct": 3,
+      "explanation": "Long-term assets form fixed capital.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m05",
+      "unit": 9,
+      "question": "Ceiling prices of scheduled formulations in India are notified by the:",
+      "options": [
+        "NPPA",
+        "PCI",
+        "IPC",
+        "WHO"
+      ],
+      "correct": 0,
+      "explanation": "The National Pharmaceutical Pricing Authority fixes prices under DPCO 2013.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m06",
+      "unit": 9,
+      "question": "With fixed costs of ₹50,000 a month and a gross margin of 20%, the break-even sales are:",
+      "options": [
+        "₹10,000",
+        "₹2,50,000",
+        "₹60,000",
+        "₹1,00,000"
+      ],
+      "correct": 1,
+      "explanation": "Break-even = 50,000 ÷ 0.20 = 2,50,000.",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m07",
+      "unit": 9,
+      "question": "Checking of licence conditions and scheduled-drug records by a Drugs Inspector is a:",
+      "options": [
+        "Financial audit",
+        "Customer satisfaction audit",
+        "Statutory (regulatory) inspection",
+        "Stock audit by the owner"
+      ],
+      "correct": 2,
+      "explanation": "It is a legal inspection under the Drugs and Cosmetics Act.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m08",
+      "unit": 9,
+      "question": "ABHA, the health account ID, is part of the:",
+      "options": [
+        "Pharmacy Practice Regulations",
+        "Drugs (Prices Control) Order",
+        "NDPS Act",
+        "Ayushman Bharat Digital Mission"
+      ],
+      "correct": 3,
+      "explanation": "ABDM creates the ABHA health ID and links health records with consent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m09",
+      "unit": 9,
+      "question": "Refill reminders, loyalty cards and home delivery are tools of:",
+      "options": [
+        "Customer Relationship Management",
+        "Inventory control",
+        "Accountancy",
+        "Pharmacovigilance"
+      ],
+      "correct": 0,
+      "explanation": "CRM builds long-term relations with customers.",
+      "probability": "high"
+    }
+  ]
+}

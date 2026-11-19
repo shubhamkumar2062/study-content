@@ -1,0 +1,770 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight and common patterns in ER-2020 D.Pharm papers. It is not a promise. Long answers here are 5-mark and short answers 3-mark, matching the ER-2020 board pattern.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define community pharmacy. Describe the professional responsibilities of a community pharmacist.",
+      "answer": "1. Definition: a community pharmacy is a pharmacy that serves the public directly from a shop in the community, supplying medicines on prescription and without prescription and advising on their safe use and on health.\n2. Dispensing: check, interpret and fill prescriptions; correct drug, dose, quantity and label.\n3. Patient counselling: how and when to take medicines, side effects, storage, missed doses.\n4. Responding to symptoms and OTC supply: assess minor ailments, supply suitable products, refer when needed.\n5. Preventing drug-related problems: check interactions, allergies, duplication, doses; contact prescriber.\n6. Health screening: BP, blood glucose, BMI, peak flow, pulse oximetry; refer abnormal results.\n7. Health promotion: diet, exercise, smoking cessation, hygiene, awareness campaigns.\n8. Adherence support: reminders, pill organisers, follow-up.\n9. Pharmacovigilance: report adverse drug reactions under PvPI.\n10. Legal duties: licences, Schedule H1/X records, proper storage, purchase from licensed sources.\n11. Rational use and AMR prevention: no antibiotics without prescription; safe disposal of medicines.\n12. Management of stock, staff and finances; continuing professional development and ethics."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is Good Pharmacy Practice (GPP)? Explain its requirements and the main roles of a pharmacist under GPP.",
+      "answer": "1. Definition: GPP is pharmacy practice that meets the needs of people using pharmacy services by giving the best evidence-based care; adopted by FIP in 1993 and revised jointly by FIP and WHO in 2011.\n2. Requirements: (a) the first concern is the patient's welfare; (b) core activity is supply of quality medicines with information and monitoring of effects; (c) contribute to rational and economic prescribing and use; (d) each service is relevant to the person, clearly defined and communicated.\n3. Four roles: (a) prepare, obtain, store, secure, distribute, administer, dispense and dispose of medical products; (b) provide effective medication therapy management; (c) maintain and improve professional performance; (d) contribute to the effectiveness of the health system and public health.\n4. GPP elements in a pharmacy: suitable premises with counselling area and refrigerator; registered pharmacist and trained staff; procurement from licensed sources and FEFO storage; proper dispensing, labelling and counselling; documentation; SOPs, self-inspection and complaint handling."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the history and development of community pharmacy with reference to international and Indian scenarios.",
+      "answer": "1. Early period: healers prepared and gave medicines; no separate pharmacist.\n2. Arab world: early medicine shops in Baghdad (8th century) and formularies.\n3. Europe: 13th-century decree of Frederick II separated pharmacy from medicine; apothecary shops spread.\n4. Professional bodies: Pharmaceutical Society of Great Britain 1841, American Pharmaceutical Association 1852; compulsory registration.\n5. 20th century: industrial manufacture reduced compounding; pharmacist became product supplier; later clinical pharmacy and pharmaceutical care (Hepler and Strand, 1990) shifted focus to patient.\n6. Developed countries today: medicine reviews, vaccination, minor ailment schemes, screening.\n7. India: vaidya/hakim in traditional systems; chemist shops in British period (Bathgate and Co., Calcutta, 1811); Drugs and Cosmetics Act 1940, Pharmacy Act 1948; rapid growth of retail shops.\n8. Recent Indian developments: Pharmacy Practice Regulations 2015, ER-2020 D.Pharm, Jan Aushadhi Kendras, chain and online pharmacies, PvPI and TB programme roles.\n9. Problems in India: absent pharmacists, sale without prescription, no OTC list, low counselling."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define SOP. Write the format of a Standard Operating Procedure.",
+      "answer": "Definition: a written, approved, step-by-step instruction for doing a routine task the same correct way every time.\nFormat: header (pharmacy name, SOP number, title, version, effective and review dates); 1 Purpose; 2 Scope; 3 Responsibility; 4 Definitions; 5 Procedure in numbered steps; 6 Records/formats; 7 References; 8 Prepared, reviewed and approved by (signatures).\nExamples: receiving prescriptions, cold chain storage, BP measurement, handling expired stock."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give the importance of SOPs in a community pharmacy.",
+      "answer": "1. Uniform quality of service whoever is on duty.\n2. Fewer errors in dispensing and storage.\n3. Clear responsibility for each task.\n4. Training tool for new staff.\n5. Evidence of compliance during inspection and audit.\n6. Basis for review and continuous improvement."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "List the problems faced by community pharmacy practice in India.",
+      "answer": "1. Registered pharmacist often absent; untrained staff sell medicines.\n2. Business focus with little counselling.\n3. Prescription drugs, especially antibiotics, sold without prescription.\n4. No clear legal OTC list.\n5. Low public recognition of pharmacists.\n6. Crowded counters and no private counselling space.\n7. Poor record keeping and limited continuing education."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the code of ethics of a pharmacist towards patients, prescribers and the profession.",
+      "answer": "Patients: welfare first, confidentiality, dignity, honest advice, no exploitation.\nPrescribers: cooperate, do not change a prescription without consulting, never criticise the doctor before the patient.\nProfession: maintain high standards, keep knowledge updated, do not run down colleagues, avoid unethical trade practices.\nSociety: promote rational use and take part in public health programmes."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define pharmaceutical care.",
+      "answer": "Pharmaceutical care is the responsible provision of drug therapy for the purpose of achieving definite outcomes that improve a patient's quality of life (Hepler and Strand, 1990)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the four roles of a pharmacist in the FIP/WHO GPP guidelines.",
+      "answer": "1. Prepare, obtain, store, secure, distribute, administer, dispense and dispose of medical products. 2. Provide effective medication therapy management. 3. Maintain and improve professional performance. 4. Contribute to the health care system and public health."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define prescription. Describe the various parts of a prescription with a neat sketch.",
+      "answer": "1. Definition: a written or electronic order from a registered medical practitioner, dentist or veterinarian to a pharmacist to supply a medicine in stated dose and quantity to a named patient with directions for use.\n2. Sketch: box showing prescriber details at top, date and patient details, Rx, drug lines, directions, refill and signature.\n3. Prescriber details: name, qualification, registration number, address, phone.\n4. Date: checks validity and prevents misuse.\n5. Patient details: name, age, sex, address, weight for children.\n6. Superscription: the symbol Rx (recipe – take thou).\n7. Inscription: name of drug, dosage form and strength – main part.\n8. Subscription: directions to the pharmacist – quantity to dispense or how to prepare.\n9. Signa (transcription): directions to the patient – dose, frequency, route, timing, duration; copied onto the label.\n10. Renewal instructions: number of refills.\n11. Signature of prescriber: essential for legality."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the steps in handling a prescription in a community pharmacy.",
+      "answer": "1. Receive the prescription politely; confirm the patient's identity and for whom it is.\n2. Read the whole prescription carefully; do not guess unclear words.\n3. Check legality: prescriber's name, registration number, signature, date, patient name and address; special rules for Schedule H1 and X.\n4. Check completeness: drug, strength, form, dose, frequency, duration, quantity.\n5. Clinical check: dose for age and weight, interactions, allergy, duplication, pregnancy, contraindications.\n6. Clarify doubts with the prescriber by phone and record the outcome; never change on your own.\n7. Select and prepare: right product, check name, strength, batch and expiry; count or measure accurately.\n8. Label each container with main and ancillary labels.\n9. Final check, preferably by a second person.\n10. Hand over with counselling.\n11. Record in registers; stamp scheduled-drug prescriptions with pharmacy name and date; file or return."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are dispensing errors? Discuss their types, causes and strategies to minimise them.",
+      "answer": "1. Definition: any difference between the medicine supplied and what the prescription intended, or any failure in labelling or information.\n2. Types: wrong drug (LASA names), wrong strength, wrong dosage form, wrong dose or directions on label, wrong quantity, wrong patient, expired drug, omission, missing counselling or warning label.\n3. Causes: illegible handwriting, ambiguous abbreviations, look-alike sound-alike names and packs, workload and interruptions, poor lighting and shelf arrangement, lack of training and SOPs, not confirming patient identity, calculation errors.\n4. Strategies: clarify unclear prescriptions; store LASA drugs apart with tall-man lettering; read label three times; independent double check; confirm identity with two details; computer labels and barcode scanning; quiet dispensing area; counsel every patient; updated references and interaction software; no-blame reporting and review of errors and near-misses."
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain labelling of dispensed medications, including main label, ancillary labels and pictograms.",
+      "answer": "1. Purpose: tells the patient how to use the medicine safely at home.\n2. Main label contents: pharmacy name and address; patient name; drug name, strength and form; directions in simple words; quantity; date and serial number; prescriber; batch and expiry; storage; 'keep out of reach of children'.\n3. Ancillary labels: extra warnings – shake well (suspensions), for external use only (lotions, liniments), may cause drowsiness (antihistamines), avoid alcohol (metronidazole), take with food (NSAIDs), swallow whole (enteric-coated), complete the course (antibiotics), refrigerate 2–8 °C (insulin), avoid sunlight (tetracyclines).\n4. Pictograms: standard pictures (sun for morning, moon for night, plate for food, eye drop) published by USP and FIP; help patients with low literacy, children, elderly, other languages; must be explained.\n5. Good labels: typed, clear, local language where possible, no abbreviations."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the meaning of: o.d., b.d., t.d.s., h.s., a.c., p.c., stat, s.o.s.",
+      "answer": "o.d. – once a day; b.d. – twice a day; t.d.s. – three times a day; h.s. – at bedtime; a.c. – before meals; p.c. – after meals; stat – immediately; s.o.s. – if necessary."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "When is a prescription legally valid? Add the special requirements for Schedule H1 and X drugs.",
+      "answer": "Valid when: written by an RMP (or dentist/veterinarian) with name, address and registration number; signed and dated; has patient's name and address; drug, strength, dose and quantity clear; not already fully dispensed.\nSchedule H1: supplied only on prescription; separate register with patient, prescriber, drug and quantity kept for 3 years.\nSchedule X: prescription in duplicate, one copy retained for 2 years; separate register; locked storage.\nScheduled-drug prescriptions are stamped with the pharmacy name and date."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What are Good Dispensing Practices?",
+      "answer": "Ensuring the right patient gets the right drug, dose and quantity with clear instructions and suitable packaging every time: clean uncluttered dispensing area; registered pharmacist supervises; LASA items separated, FEFO; follow SOPs, one prescription at a time; counting trays and calibrated measures; clean light-resistant or child-resistant containers; clear typed labels; final double check; counselling; accurate records."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give instructions to a patient for using eye drops and a metered-dose inhaler.",
+      "answer": "Eye drops: wash hands; tilt head back; pull lower lid down; instil one drop without touching the tip; close eye and press the inner corner for about a minute; wait 5 minutes between different drops; discard after the in-use period.\nInhaler: shake; breathe out fully; seal lips round the mouthpiece; press once while breathing in slowly and deeply; hold breath about 10 seconds; wait before a second puff; rinse mouth after a steroid inhaler."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define superscription and inscription in a prescription.",
+      "answer": "Superscription is the symbol Rx at the start. Inscription is the main part giving the name, dosage form and strength of the drug."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is tall-man lettering?",
+      "answer": "Writing the differing parts of look-alike drug names in capitals (for example chlorproMAZINE and chlorproPAMIDE) on shelf labels to reduce selection errors."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define communication. Describe the types of communication and the communication process.",
+      "answer": "1. Definition: the process of sending and receiving information, ideas and feelings between people to reach a shared understanding.\n2. Process: sender encodes a message → channel (speech, writing, gesture) → receiver decodes → feedback to sender; noise can distort at any step. Draw the loop diagram.\n3. Elements: sender, message, channel, receiver, feedback, noise.\n4. Types: verbal (counselling, phone call); non-verbal (eye contact, facial expression, posture, tone, proximity); written (labels, leaflets, referral notes, records); visual (pictograms, demonstrations, posters); electronic (SMS, email, apps).\n5. Other classifications: formal and informal; one-way and two-way; interpersonal, group and mass.\n6. Importance in pharmacy: safe medicine use depends on the patient understanding the pharmacist."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are patient interview techniques? Explain the types of questions, stages of an interview and the WWHAM method.",
+      "answer": "1. Patient interview: planned conversation to gather information (symptoms, medical and medication history) and give advice.\n2. Types of questions: open-ended ('How are you taking these?'); closed ('Are you allergic to penicillin?'); probing ('What do you mean by dizzy?'); reflective; leading questions should be avoided.\n3. Stages: opening (greet, introduce, purpose, privacy, consent) → information gathering (open then closed questions, active listening) → assessment (treat, advise or refer) → advice and agreed plan → closing (summary, teach-back, follow-up).\n4. WWHAM: Who is the patient, What are the symptoms, How long, Action already taken, Medicines being taken.\n5. ASMETHOD: Age/appearance, Self or someone else, Medication, Extra medicines, Time persisting, History, Other symptoms, Danger symptoms.\n6. Good habits: privacy, simple language, non-judgemental attitude, brief notes, teach-back."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain verbal communication skills of a pharmacist for one-to-one and telephone conversations.",
+      "answer": "1. One-to-one: clarity with short sentences; correct pace and volume; friendly tone; active listening (attention, nodding, no interruption); paraphrasing and summarising; empathy; good questioning; checking understanding.\n2. Telephone: answer promptly; greet and name the pharmacy and yourself; speak clearly and slowly; confirm caller's identity before sharing patient information; spell drug names and repeat numbers back; write notes; summarise agreed actions; end politely; record time, caller and advice; refer when beyond competence.\n3. Avoid: jargon, eating or side talk on the phone, long hold without explanation, giving confidential details to unknown callers."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is body language? Explain SOLER.",
+      "answer": "Body language is non-verbal communication through posture, gestures, facial expression, eye contact, distance, touch and tone.\nSOLER: Sit or stand squarely facing the patient; Open posture (no crossed arms); Lean slightly forward; Eye contact (friendly, regular); Relaxed manner.\nThe pharmacist also reads the patient's body language (pain, worry, confusion)."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "How should a pharmacist communicate with a doctor about a prescription problem?",
+      "answer": "Be polite, brief and specific; identify yourself and the patient; have the details ready; state the problem and suggest an alternative; use correct terms; follow SBAR (Situation, Background, Assessment, Recommendation); never criticise the prescriber before the patient; record what was agreed, with whom and when."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give the principles of written communication and the contents of a referral note.",
+      "answer": "Principles (7 Cs): clear, concise, concrete, correct, coherent, complete, courteous; large font and pictures for patients.\nReferral note: patient name and age, reason for referral, symptoms and duration, medicines taken, screening results (for example BP reading), pharmacist name, pharmacy and phone, date."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Write the differences between open-ended and closed questions with examples.",
+      "answer": "Open-ended: allow a full answer, give more information, start with how/what/why; e.g. 'How do you take your tablets?'\nClosed: give a yes/no or single-fact answer, quick and specific; e.g. 'Do you smoke?'\nUse open questions first, then closed questions to confirm details."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Expand WWHAM.",
+      "answer": "Who is the patient, What are the symptoms, How long have they been present, Action already taken, Medicines being taken."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is teach-back?",
+      "answer": "A method of checking understanding by asking the patient to explain or show in their own words how they will use the medicine."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define patient counselling. Describe the stages of patient counselling.",
+      "answer": "1. Definition: a two-way face-to-face discussion in which the pharmacist gives the patient information about the illness, medicines and lifestyle in understandable language and checks understanding.\n2. Stage 1 Introduction: prepare (read prescription and record, have leaflets and devices); greet, introduce, confirm identity; explain purpose and time; private place; consent; find out what the patient knows.\n3. Stage 2 Content: name and purpose of medicine; dose, frequency, timing, duration; how to take; what to expect; side effects and actions; precautions and interactions; missed dose; storage and disposal; refills and monitoring; lifestyle.\n4. Stage 3 Process: open-ended prime questions (what is it for, how to take it, what to expect); fill gaps; simple words, demonstration, written material; empathy.\n5. Stage 4 Closing: summarise key points; teach-back; invite questions; give written information and contact number; plan follow-up; document."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are the barriers to effective patient counselling? Explain strategies to overcome them.",
+      "answer": "1. Patient-related: language difference, low literacy, poor hearing or vision, memory problems, anxiety or denial, cultural beliefs → use patient's language or interpreter, pictograms and demonstrations, speak slowly facing the patient, large print, involve carers, empathy, respect beliefs.\n2. Pharmacist-related: lack of time, poor knowledge or skills, negative attitude, jargon → plan and prioritise, training, references, simple words, positive attitude.\n3. Environment-related: noise, crowd, no privacy, high counter, interruptions → separate counselling area, appointments for long sessions, fewer interruptions.\n4. System-related: too few pharmacists, no payment for counselling, no patient records → trained support staff, counselling as a standard service, patient medication records.\n5. Sensitive topics (HIV, sexual or mental health) → privacy, confidentiality, non-judgemental attitude."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the patient counselling points for a patient with type 2 diabetes mellitus on insulin and metformin.",
+      "answer": "1. Disease: lifelong; good control prevents eye, kidney, nerve, heart and foot damage.\n2. Metformin: take with or after meals; stomach upset early, usually settles.\n3. Insulin: correct type and dose; subcutaneous in abdomen or thigh; rotate sites; pen technique – prime, dial, inject, hold about 10 seconds; never share pens; store unopened at 2–8 °C, do not freeze; in-use pen at room temperature for the stated period.\n4. Hypoglycaemia: sweating, shaking, hunger, confusion → take 15–20 g quick sugar, recheck; carry sugar and identity card; do not skip meals.\n5. Monitoring: home glucometer use; HbA1c every 3–6 months; yearly eye, kidney and foot checks.\n6. Lifestyle: diet low in sugar and refined starch, regular exercise, weight control, no smoking.\n7. Foot care: daily inspection, proper footwear, early care of cuts.\n8. Sick days: do not stop insulin, drink fluids, test more often, see doctor if vomiting."
+    },
+    {
+      "id": "u4-l04",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write patient counselling points for asthma and tuberculosis.",
+      "answer": "Asthma: (1) disease of airway inflammation with triggers – dust, smoke, pollen, cold air, exercise; (2) reliever salbutamol for attacks – frequent use means poor control; (3) preventer inhaled steroid daily even when well – rinse mouth and spit after use; (4) inhaler technique – shake, breathe out, seal lips, press and breathe in slowly, hold about 10 s; spacer for children; (5) peak flow diary and written action plan; (6) emergency signs – reliever not working, cannot speak, blue lips; (7) avoid triggers and smoking; report sensitivity to aspirin/NSAIDs.\nTuberculosis: (1) curable bacterial infection spread by cough; (2) fixed-dose combination, free under NTEP; take daily for the full course (at least 6 months) – stopping early causes relapse and resistance; (3) rifampicin colours urine, tears and sweat orange-red (harmless); (4) report jaundice, vomiting, tingling feet, vision changes, joint pain; (5) rifampicin reduces oral contraceptive effect – use another method; (6) cover cough, ventilation, screen contacts; (7) nutrition, no alcohol, follow-up sputum tests."
+    },
+    {
+      "id": "u4-l05",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define Patient Package Insert. Discuss its contents, importance and scenario of PPI use in India and other countries.",
+      "answer": "1. Definition: printed plain-language information for patients placed in the medicine pack by the manufacturer and approved by the regulator.\n2. Contents: name and strength; uses; contraindications and precautions; how to take, missed dose; side effects; interactions; pregnancy and breast-feeding; storage and disposal; manufacturer and revision date.\n3. Importance: reinforces counselling, can be re-read at home, improves knowledge, safety and adherence, helps early recognition of side effects, supports informed decisions, uniform information.\n4. Limitations: useless to those who cannot read; long side-effect lists may frighten; strip-dispensing means leaflets are often not given.\n5. Other countries: EU requires a patient leaflet in every pack; USA requires patient labelling for some products and Medication Guides for drugs with serious risks; UK and Australia give consumer leaflets.\n6. India: packs mostly carry prescribing information for doctors, often only in English; patient leaflets not required for most medicines; pharmacists can prepare leaflets in local languages."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "List the benefits of patient counselling.",
+      "answer": "Patient understands illness and treatment; correct use of medicines; better adherence and outcomes; fewer adverse reactions and interactions; correct device use; less anxiety and involvement in decisions; detection and prevention of drug-related problems and dispensing errors; trust in the pharmacist; lower health costs and admissions."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write counselling points for a patient with hypertension.",
+      "answer": "High BP is usually silent but damages heart, brain, kidneys and eyes; take medicines daily at the same time even when well; do not stop suddenly; common effects – ankle swelling (amlodipine), dry cough (ACE inhibitors), more urine (diuretics – take in morning), dizziness on standing (rise slowly); regular BP checks and home monitoring; less salt, fruits and vegetables, exercise, weight control, stop smoking, limit alcohol; avoid self-medication with NSAIDs and decongestants."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write counselling points for COPD and HIV/AIDS patients.",
+      "answer": "COPD: stopping smoking is the most important step; use long-acting bronchodilator inhalers correctly; clean nebuliser parts; see doctor early for more breathlessness or changed sputum; breathing exercises, nutrition, vaccination as advised; no smoking near oxygen.\nHIV/AIDS: ART daily at the same time with very high adherence; free at ART centres; report rash or jaundice; many interactions – check before any new medicine; safe sex and no needle sharing; prophylaxis as prescribed; confidentiality and support."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Define Patient Information Leaflet. Give its uses and how to prepare one.",
+      "answer": "Definition: short written leaflet giving patients information on a disease, medicine, device or healthy lifestyle in simple language.\nUses: supports counselling, disease and lifestyle education, device instructions, health promotion, reaches carers.\nPreparation: decide purpose and readers; simple words, large font, local language; headings, bullets and pictures; correct up-to-date content; include what, why, what to do and avoid, when to see doctor, contact; one or two pages; test and update."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the three prime questions used in counselling.",
+      "answer": "1. What did your doctor tell you the medicine is for? 2. How did your doctor tell you to take it? 3. What did your doctor tell you to expect?"
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define medication adherence. Discuss the factors influencing non-adherence and the strategies to overcome it.",
+      "answer": "1. Definition (WHO 2003): the extent to which a person's behaviour – taking medicines, following diet, changing lifestyle – corresponds with recommendations agreed with a health care provider.\n2. Types of non-adherence: unintentional (forgetting, not understanding, cannot use device, cannot afford) and intentional (stops when well, fears side effects, beliefs).\n3. WHO factors: social and economic (poverty, cost, illiteracy, distance); health system (short consultations, no counselling, stock-outs); condition (no symptoms, chronic, depression); therapy (polypharmacy, frequent doses, side effects, long duration, devices); patient (forgetfulness, beliefs, low motivation).\n4. Consequences: treatment failure, complications, admissions, drug resistance, wasted money.\n5. Strategies: counselling with teach-back; simplify regimen and use FDCs; reminders (alarms, apps, SMS); pill organisers and blister packs; manage side effects; cheaper generics and free government schemes; device training; family involvement; follow-up and refill tracking; motivational approach; directly observed therapy in TB."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the scope and importance of health screening services in a community pharmacy.",
+      "answer": "1. Screening: testing apparently healthy people to detect disease or risk early; monitoring: regular tests in diagnosed patients.\n2. Why pharmacies: easy access, long hours, no appointment, visited by healthy and sick.\n3. Scope: BP (sphygmomanometer); capillary blood glucose (glucometer); BMI and waist (scale, stadiometer, tape); peak flow (asthma); pulse oximetry (SpO2); point-of-care cholesterol and HbA1c; temperature; pregnancy tests.\n4. Routine monitoring: shows treatment control, detects side effects, improves adherence, records for doctor.\n5. Early detection: silent diseases (hypertension, diabetes, high cholesterol) found early; prevents stroke, heart attack, kidney failure, blindness.\n6. Referral of undiagnosed cases: written referral with readings; urgent referral for danger values.\n7. Requirements: private area, validated calibrated devices, SOPs, consent, infection control and sharps disposal, records, confidentiality; result is a screen not a diagnosis."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between compliance, adherence and concordance.",
+      "answer": "Compliance: older term – patient obeys the prescriber's instructions; passive.\nAdherence: patient actively agrees with and follows the plan; preferred term (WHO 2003).\nConcordance: agreement reached between patient and prescriber after discussion, respecting the patient's views."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Give the normal values and referral limits for BP, fasting blood glucose, BMI and SpO2 used in pharmacy screening.",
+      "answer": "BP: normal below 120/80 mmHg; refer at 140/90 mmHg or above on repeated readings.\nFasting glucose: normal below 100 mg/dL; 100–125 prediabetes; 126 mg/dL or more refer.\nBMI (Asian cut-offs): 18.5–22.9 normal; 23–24.9 overweight; 25 or more obese.\nSpO2: 95–100% normal; below 95% needs attention; below 90% urgent."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "How can adherence be measured?",
+      "answer": "Direct: drug or marker levels in blood or urine; directly observed therapy.\nIndirect: patient self-report and questionnaires (e.g. Morisky scale); pill count; refill records; electronic pill-bottle caps; clinical outcome such as BP or blood glucose control."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the precautions for running a health screening service in a pharmacy.",
+      "answer": "Private space; validated and calibrated devices with correct cuff sizes; written SOP and trained staff; patient consent; hand hygiene, single-use lancets, gloves and sharps container with proper biomedical waste disposal; correct technique (rest before BP); explain results simply; refer abnormal values; record and give a copy; keep results confidential; quality control solutions for glucometers."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Calculate the BMI of a man weighing 80 kg with height 1.70 m and interpret it.",
+      "answer": "BMI = weight ÷ height² = 80 ÷ (1.70 × 1.70) = 80 ÷ 2.89 = 27.7 kg/m².\nBy Asian Indian cut-offs (25 or more = obese), he is obese; advise diet, exercise and referral for assessment of BP, glucose and lipids."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define medication adherence.",
+      "answer": "The extent to which a person's behaviour in taking medicines and following lifestyle advice matches the recommendations agreed with the health care provider (WHO, 2003)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between screening and monitoring?",
+      "answer": "Screening tests apparently healthy people to detect disease early; monitoring is repeated testing of a diagnosed patient to check control of the disease."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define OTC medicines. Explain the role of the pharmacist in OTC medication dispensing.",
+      "answer": "1. Definition: medicines considered safe and effective for use without a prescription for self-recognised conditions when used as labelled.\n2. Features: wide safety margin, low misuse potential, easily recognised symptoms, clear label, few interactions.\n3. Role: (a) assess the person and symptoms with WWHAM/ASMETHOD; (b) decide – advice only, OTC product or referral; (c) select an evidence-based product suitable for age, pregnancy, diseases and medicines; (d) counsel on use, dose, maximum dose, duration, side effects; (e) give red-flag signs and safety-net advice; (f) avoid misuse – limit laxatives, codeine syrups, sleep aids; never sell prescription drugs without prescription; (g) record significant supplies; (h) promote non-drug measures; (i) report adverse reactions.\n4. Example: paracetamol for fever – dose, daily maximum, avoid duplicate products, see doctor after 3 days."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is self-medication? Discuss its advantages, disadvantages and the role of the pharmacist in promoting safe self-medication.",
+      "answer": "1. Definition: use of medicines by people to treat self-recognised illness or symptoms without consulting a doctor; responsible self-medication uses approved OTC products with correct information.\n2. Reasons: minor illness, cost and time of consultation, past experience, easy availability, advertising, advice of family.\n3. Advantages: quick relief, convenience, saves money and doctor time, encourages responsibility for health.\n4. Disadvantages: wrong diagnosis, delay in treating serious disease, wrong drug or dose, adverse effects and interactions, dependence and misuse, antibiotic misuse and resistance, use of old prescriptions and leftover medicines.\n5. Pharmacist's role: be available; structured assessment; supply only suitable OTC drugs; no prescription drugs without prescription; clear advice on dose and duration; red flags; interaction checks; discourage sharing and leftovers; promote non-drug measures; teach label reading; records and follow-up."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the general method of responding to symptoms in a community pharmacy. Add general reasons for referral.",
+      "answer": "1. Patient asks for advice or a product.\n2. Gather information using WWHAM or ASMETHOD.\n3. Check for danger (red-flag) features → refer, urgently if needed.\n4. If minor and self-limiting → advice, with or without a suitable OTC product, and counselling.\n5. Safety net: tell when to return or see a doctor.\n6. Communicate the outcome simply; give a referral note when referring.\n7. Reasons to refer: severe, unusual or worsening symptoms; long duration (cough more than 2–3 weeks, diarrhoea more than 2–3 days, fever more than 3 days); infants, frail elderly, pregnancy; blood in sputum, vomit, stool or urine; weight loss; chest pain, breathlessness, confusion, fits; dehydration; failed treatment; suspected adverse reaction; serious chronic disease."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on OTC medications in India.",
+      "answer": "Indian law has no separate legal OTC schedule. Prescription-only drugs are listed in Schedules H, H1 and X of the Drugs and Cosmetics Rules, 1945; others are in practice sold without prescription but from licensed pharmacies. Schedule K gives exemptions, including household remedies sold in villages under conditions. A formal OTC policy has been under discussion. Common OTC groups: analgesics, antacids, ORS, laxatives, cough and cold products, antiseptics, vitamins. Problem: illegal sale of antibiotics without prescription."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Give the counselling points while supplying paracetamol as an OTC medicine.",
+      "answer": "Use: fever and pain. Adult dose 500 mg–1 g every 4–6 hours as needed. Do not exceed the daily maximum on the pack (usually 4 g for adults; less with heavy alcohol use or liver disease). Avoid other paracetamol-containing products at the same time. Avoid alcohol. Do not use for fever more than about 3 days without seeing a doctor. See a doctor for rash, stiff neck, breathing difficulty or fits. Store away from children."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the need for OTC medicines and the risks of their misuse.",
+      "answer": "Need: quick relief of minor problems; saves time and money; frees doctors for serious illness; helpful in remote areas; encourages self-care.\nRisks: wrong self-diagnosis, delay of serious disease, wrong dose, interactions, masking symptoms, misuse of laxatives and codeine syrups, allergic reactions, antibiotic misuse."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Expand ASMETHOD and state its use.",
+      "answer": "Age/appearance, Self or someone else, Medication, Extra medicines, Time persisting, History, Other symptoms, Danger symptoms. It is a structured questioning method for responding to symptoms at the counter, so that no important point is missed and red flags are detected."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "low",
+      "question": "Distinguish self-care from self-medication.",
+      "answer": "Self-care: everything people do to stay healthy and manage minor illness – diet, exercise, hygiene, rest, home remedies and OTC medicines.\nSelf-medication: the part of self-care that involves using medicines without consulting a doctor."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define minor ailment with two examples.",
+      "answer": "A short, self-limiting, non-serious condition that can be managed safely without a doctor, e.g. common cold and simple diarrhoea."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "How would you respond to a patient with acute diarrhoea in a community pharmacy?",
+      "answer": "1. Assess: age, number and type of stools, duration, blood or mucus, fever, vomiting, signs of dehydration, recent travel, medicines (antibiotics).\n2. Main risk: dehydration, especially in children and elderly.\n3. Self-care: WHO low-osmolarity ORS – dissolve sachet in the stated volume of clean water, small frequent sips, discard after 24 h; continue feeding and breast-feeding; hand washing and safe water.\n4. OTC: ORS for all; zinc for children for 10–14 days with ORS; loperamide only for adults without fever or blood; probiotics may help.\n5. Do not sell antibiotics or antimicrobial combinations without prescription.\n6. Refer: blood or mucus, high fever, dehydration (little urine, sunken eyes, drowsiness), more than 2–3 days in adults or 24 h in infants, severe pain, elderly or very young, after antibiotics."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss the management and counselling of common cold and cough in a community pharmacy.",
+      "answer": "1. Common cold: viral infection of nose and throat; runny or blocked nose, sneezing, mild sore throat; lasts 7–10 days; antibiotics do not help.\n2. Self-care: rest, warm fluids, steam, saline nasal drops, hand hygiene, cover sneezes.\n3. OTC for cold: saline drops; xylometazoline/oxymetazoline drops for no more than about a week (rebound congestion); cetirizine or chlorphenamine (drowsiness); paracetamol for aches; avoid oral decongestants in hypertension and heart disease.\n4. Cough: dry – demulcent syrups, lozenges, dextromethorphan for adults at night; productive – expectorants or mucolytics (guaifenesin, bromhexine, ambroxol); do not suppress a productive cough; honey and lemon (not under 1 year); avoid smoke.\n5. Refer: cough more than 2–3 weeks (TB), blood in sputum, breathlessness, wheeze, chest pain, high fever, ear or facial pain, infants, cold lasting more than 10 days, ACE inhibitor cough."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe responding to symptoms and self-care advice for pain and fever.",
+      "answer": "1. Pain types: headache, back pain, muscle and joint pain, period pain, toothache.\n2. Self-care for pain: rest, posture, sleep, fluids; RICE for sprains; warmth for stiffness and period pain; stress control.\n3. OTC: paracetamol first; ibuprofen with food (avoid in ulcer, NSAID-sensitive asthma, kidney disease, late pregnancy, anticoagulants); topical diclofenac gel; counter-irritant balms.\n4. Refer pain: sudden worst-ever headache, fever and stiff neck, after head injury, vision loss or weakness, chest pain, back pain with leg weakness or bladder problems, pain lasting more than about a week.\n5. Fever: temperature 38 °C or more; fluids, rest, light clothing, tepid sponging.\n6. OTC for fever: paracetamol by dose and weight; ibuprofen alternative; no aspirin in children (Reye's syndrome).\n7. Refer fever: more than 3 days, infants under 3 months, fits, non-fading rash, stiff neck, confusion, breathing difficulty, travel or malaria/dengue areas."
+    },
+    {
+      "id": "u7-l04",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the self-care advice and OTC management of constipation and vomiting.",
+      "answer": "Constipation: (1) causes – low fibre and fluid, inactivity, ignoring urge, pregnancy, drugs (opioids, iron, antacids); (2) self-care – fibre, 2–3 litres fluid if allowed, exercise, regular toilet habit; (3) OTC – bulk-forming ispaghula first (with water), osmotic lactulose or macrogol, stimulant bisacodyl or senna short term, glycerin suppository; warn against laxative misuse; (4) refer – blood, weight loss, change of habit after middle age, severe pain, more than 2 weeks.\nVomiting: (1) causes – infection, food poisoning, motion sickness, pregnancy, drugs; (2) self-care – ORS sips, bland small meals, ginger for mild nausea; (3) OTC – antihistamines before travel for motion sickness (drowsiness), ORS; antiemetics like ondansetron need prescription; (4) refer – blood or coffee-ground vomit, more than 24–48 h, dehydration, severe pain, head injury, pregnancy, diabetes, suspected poisoning."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Give self-care and referral advice for a patient with a mouth ulcer and dental pain.",
+      "answer": "Mouth ulcer: avoid spicy and hot food; good oral hygiene; salt-water rinse; choline salicylate or benzocaine gel; chlorhexidine mouthwash. Refer if lasting more than 3 weeks (possible oral cancer, especially in tobacco users), very large or many ulcers, with fever or weight loss.\nDental pain: paracetamol or ibuprofen, clove oil, warm salt-water rinse for short-term relief; always refer to a dentist; urgent if facial swelling or fever."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "How will you counsel a patient with scabies?",
+      "answer": "Severe itch worse at night with burrows between fingers. Apply permethrin 5% cream to the whole body from the neck down on cool dry skin, leave for the time on the label (8–12 hours), then wash; repeat after a week as directed. Treat all household contacts at the same time. Wash clothes, towels and bedding in hot water. Itching may continue for some weeks after cure. Refer infants, pregnant women and infected sores."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the OTC management of fungal skin infection.",
+      "answer": "Ringworm, athlete's foot or jock itch: keep area clean and dry; cotton clothing; separate towel; do not share footwear; clotrimazole or miconazole cream twice daily, continued 1–2 weeks after the rash clears. Refer if scalp or nails are involved, infection is widespread, patient is diabetic or no improvement in 2 weeks."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Give advice for sore throat and gum swelling.",
+      "answer": "Sore throat: mostly viral, settles in about a week; warm salt gargles, warm drinks, honey (not under 1 year), lozenges or throat sprays, paracetamol; refer for difficulty breathing or swallowing, drooling, high fever with white patches, more than a week, hoarseness more than 3 weeks.\nGum swelling (gingivitis): brush twice daily with fluoride paste and soft brush, floss, short-term chlorhexidine mouthwash, regular dental check-ups; refer for pus, loose teeth or drug-induced gum overgrowth (phenytoin, nifedipine)."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why should aspirin not be given to children for fever?",
+      "answer": "Because of the risk of Reye's syndrome, a rare but serious condition affecting the liver and brain in children and teenagers."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is RICE?",
+      "answer": "Rest, Ice, Compression and Elevation – first aid for sprains and strains."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the legal requirements to set up a community pharmacy in India.",
+      "answer": "1. Laws: Drugs and Cosmetics Act 1940 and Rules 1945 (licensing of drug sale); Pharmacy Act 1948 (registered pharmacist).\n2. Licences from the State Licensing Authority after inspection by a Drugs Inspector: Form 20 – retail sale of drugs other than Schedules C, C1 and X; Form 21 – retail sale of Schedule C and C1 drugs; Form 20B/21B for wholesale; separate licence for Schedule X.\n3. Application with fee, premises plan and documents: ownership or rent agreement, pharmacist's registration certificate and consent, identity and address proofs, constitution of firm, declaration, refrigerator proof.\n4. Conditions: registered pharmacist in charge; premises at least 10 m² for retail (15 m² retail and wholesale); storage protecting from light, heat and moisture; refrigerator; purchase from licensed sources; records – Schedule H bills, H1 register for 3 years, Schedule X prescription copy for 2 years; licence displayed; no expired or substandard drugs; open to inspection.\n5. Licences remain valid while retention fee is paid as laid down.\n6. Other registrations: shop and establishment or trade licence, GST registration when required, PAN and bank account, NDPS permission for narcotics, biomedical waste arrangements, fire safety."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain inventory control. Discuss ABC, VED and FSN analysis, EOQ and reorder level.",
+      "answer": "1. Inventory control: keeping the right amount of stock at the lowest cost, avoiding stock-outs and overstocking.\n2. ABC analysis (by annual value): A – about 10–20% of items with about 70–80% of value – tight control; B – middle; C – many items of small value – simple control.\n3. VED (by importance): Vital – must never run out (insulin, emergency drugs); Essential; Desirable.\n4. FSN (by movement): Fast, Slow, Non-moving – identify dead stock and return before expiry.\n5. Others: SDE (availability), HML (unit price), two-bin system, perpetual and periodic inventory.\n6. Reorder level = average daily use × lead time + safety stock; e.g. 10 × 3 + 20 = 50 strips.\n7. EOQ = √(2AO/H): A annual demand, O ordering cost per order, H holding cost per unit per year – lowest total cost.\n8. Practices: FEFO, monthly expiry checks, physical verification, cold chain records, software alerts, proper disposal of expired stock."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss site selection and the design and interiors of a community pharmacy.",
+      "answer": "1. Site selection: adequate population in catchment; nearness to clinics and hospitals; competition; visibility on a main road, ground floor; easy access, parking and transport; customer profile; affordable rent and long lease; size meeting legal area; electricity backup, water, internet; legal commercial use; future development.\n2. Exterior: clear signboard and pharmacy symbol, timings, clean glass front, health displays, ramp.\n3. Interior: clean, lit, ventilated customer area with seating; OTC shelves; dispensing counter under pharmacist's control with references and computer; private counselling area; prescription drugs behind the counter, labelled shelves, LASA separated; refrigerator with temperature log; locked Schedule X cupboard; store room with racks off floor; separate area for expired and returned goods; temperature control, power backup, fire extinguisher, wash basin.\n4. Shelf arrangement: alphabetical, by category, by dosage form; fast movers near counter."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What are the criteria for selecting a vendor for a community pharmacy?",
+      "answer": "Valid wholesale licence and GST registration; genuine quality products and proper storage and cold chain; wide range and urgent supply; fair price, discounts and schemes; suitable credit period; frequent, reliable delivery; acceptance of expiry and breakage returns; good service and accurate billing. Keep two or three vendors."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Describe the ordering and receiving of stock in a pharmacy.",
+      "answer": "Prepare a want list from shelf checks and software reorder report; consider seasonal demand; prepare purchase order (item, strength, pack, quantity); send to vendor and keep a copy; on delivery check goods against invoice – name, strength, quantity, batch, expiry, price, damage, cold chain; enter invoice in software or purchase register; store immediately; report short or damaged supply; pay within credit period."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Define: lead time, safety stock, reorder level, FEFO.",
+      "answer": "Lead time: time from placing an order to receiving the goods.\nSafety stock: extra stock kept to cover unexpected demand or delay.\nReorder level: stock level at which a new order is placed (daily use × lead time + safety stock).\nFEFO: first expiry, first out – sell the batch that expires first."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Define procurement. Give the points of good procurement practice.",
+      "answer": "Procurement: getting good-quality medicines in the right quantity, at the right time and lowest total cost from reliable sources.\nGood practice: buy only from licensed vendors; avoid unknown cheap sources (spurious risk); offer quality generics; check expiry on receipt; avoid overstocking and understocking; review supplier performance and stock movement."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the licences required for retail sale of drugs in India.",
+      "answer": "Form 20 for drugs other than those in Schedules C, C1 and X, and Form 21 for drugs in Schedules C and C1; a separate licence for Schedule X drugs."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the minimum area required for a retail pharmacy?",
+      "answer": "Not less than 10 square metres for retail sale, and not less than 15 square metres for combined retail and wholesale."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain day book and cash book in community pharmacy accountancy.",
+      "answer": "1. Accountancy: recording, classifying and summarising transactions; double-entry system – every transaction debited in one account and credited in another; golden rules for personal, real and nominal accounts.\n2. Flow: transactions → day book (journal) → ledger → trial balance → trading and profit and loss account → balance sheet.\n3. Day book: book of original entry; every transaction recorded on the day, in date order, before posting to ledger; columns – date, particulars, ledger folio, debit, credit, narration; subsidiary day books – purchase, sales, purchase returns, sales returns, journal proper. Example: Purchases A/c Dr 25,000 to ABC Distributors A/c 25,000.\n4. Cash book: records all cash receipts (left, debit) and payments (right, credit); both book of original entry and ledger cash account; types – single column (cash), double column (cash and bank), triple column (cash, bank, discount), petty cash book for small expenses.\n5. Balanced daily by counting cash; cash balance can never be negative.\n6. Other records: purchase and sales registers, GST, stock, H1 and X registers, expiry and temperature logs."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on financial planning and management of a community pharmacy.",
+      "answer": "1. Financial planning: estimating money needed, its sources and use; financial management: day-to-day control of money for profit and solvency.\n2. Fixed capital: furniture, racks, refrigerator, computer and software, AC, signboard, deposits.\n3. Working capital: opening stock, rent, salaries, electricity, fees, customer credit.\n4. Sources: owner, partners, bank loans and government small-business schemes, supplier credit.\n5. Terms: cost price, MRP, gross margin, net profit, fixed and variable costs, budget, cash flow, depreciation.\n6. Break-even sales = fixed costs ÷ gross margin ratio; e.g. ₹60,000 ÷ 0.20 = ₹3,00,000 a month.\n7. Price control: DPCO 2013, NPPA ceiling prices; never sell above MRP.\n8. Good practices: yearly budget and monthly review; inventory control; limit customer credit; pay suppliers on time; separate business and personal money; accurate accounts and tax filing; sensible discounts; insurance."
+    },
+    {
+      "id": "u9-l03",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are online pharmacies? Discuss digital health and mHealth with their role in community pharmacy.",
+      "answer": "1. Digital health: use of information and communication technology for health – e-health records, e-prescriptions, telemedicine, apps, wearables. India: Ayushman Bharat Digital Mission with ABHA health ID and linked records; Telemedicine Practice Guidelines 2020; programme portals such as Ni-kshay and eSanjeevani.\n2. mHealth: use of mobile phones and wireless devices – reminder apps, SMS refill alerts, recording BP and glucose, health education, ordering medicines, connected devices; issues – internet, digital literacy, privacy.\n3. Online pharmacy: sells medicines through website or app with home delivery after prescription upload and pharmacist check.\n4. Advantages: convenience, home delivery, price comparison, records, privacy.\n5. Disadvantages: inadequate prescription checking, fake medicines from illegal sites, no face-to-face counselling, cold chain and delivery problems, data privacy, misuse of habit-forming drugs.\n6. Legal position: draft e-pharmacy rules published in 2018, not finalised; operators work under existing licence conditions.\n7. Role of community pharmacist: use software, reminders and home delivery while keeping personal counselling; guide patients to licensed sources."
+    },
+    {
+      "id": "u9-l04",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define audit. Explain the types of audits in a community pharmacy and the audit cycle.",
+      "answer": "1. Definition: systematic independent check of records, activities or practices against standards to find gaps and improve.\n2. Financial audit: accounts, cash, bills and taxes, by a chartered accountant.\n3. Stock audit: physical stock vs records, expiry, losses.\n4. Statutory/regulatory inspection by the Drugs Inspector: licence conditions, pharmacist presence, scheduled drug records, storage, prescriptions.\n5. Prescription/dispensing audit: sample prescriptions checked for errors, labelling, counselling.\n6. Clinical/service audit: quality of screening and counselling, outcomes.\n7. Self-inspection: SOP compliance, cleanliness, temperature logs using checklists.\n8. Customer satisfaction audit: feedback and complaints.\n9. Audit cycle: set standard → measure practice → compare → identify gaps → make changes → re-audit.\n10. Benefits: compliance, fewer errors and losses, better service, readiness for inspection."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is Customer Relationship Management? Give CRM activities in a pharmacy.",
+      "answer": "CRM: methods used to build and keep long-term good relations with customers so that they are satisfied and return.\nActivities: courteous service, patient records and personalised counselling, refill reminders, home delivery, loyalty cards, health camps, quick complaint handling and feedback, availability of regular medicines, follow-up calls – while protecting privacy."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the usefulness of pharmacy operation software.",
+      "answer": "Fast accurate billing with GST, batch and expiry; real-time inventory with reorder and expiry alerts and FEFO; purchase orders and supplier records; accounts and GST returns; patient medication records and refill reminders; interaction alerts; automatic H1 register; label printing; sales and stock reports; CRM and home-delivery orders. Choose on cost, ease, support, backup and security."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "List the SOPs required for pharmacy management.",
+      "answer": "Opening and closing the pharmacy; ordering and receiving stock; storage and cold chain with temperature recording; expiry management and returns; billing and cash handling; handling scheduled (H1, X) drugs; complaints and returns; data backup; cleaning and pest control; staff training."
+    },
+    {
+      "id": "u9-s04",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between fixed capital and working capital with examples.",
+      "answer": "Fixed capital: invested in long-term assets used for years – furniture, racks, refrigerator, computer, air-conditioner.\nWorking capital: money for day-to-day running – stock, rent, salaries, electricity bills, credit to customers.\nFixed capital is spent once and depreciates; working capital circulates continuously."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define day book.",
+      "answer": "The book of original entry in which every business transaction is recorded on the day it happens, in date order, before posting to the ledger."
+    },
+    {
+      "id": "u9-v02",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is mHealth?",
+      "answer": "The use of mobile phones and other wireless devices to support health, such as reminder apps, SMS alerts and recording of readings."
+    }
+  ]
+}

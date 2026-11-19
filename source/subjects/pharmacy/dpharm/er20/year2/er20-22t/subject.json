@@ -1,0 +1,158 @@
+{
+  "code": "ER20-22T",
+  "title": "Community Pharmacy and Management",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020), D.Pharm second year, Community Pharmacy and Management ER20-22T and ER20-22P (university copy of the PCI syllabus)",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-22T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-22P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "Community pharmacy practice, professional responsibilities, GPP and SOPs",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Prescription and prescription handling",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Communication skills",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Patient counselling",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Medication adherence and health screening services",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "OTC medications, self-medication and responding to symptoms",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Minor ailments and advice for self-care",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Setting up a community pharmacy, purchasing and inventory control",
+      "notes": "notes/unit-8.md"
+    },
+    {
+      "number": 9,
+      "title": "Finance, accounts, software, CRM, audits, SOPs and digital health",
+      "notes": "notes/unit-9.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "prescription-handling",
+      "title": "Handling and reviewing prescriptions for legal compliance and completeness",
+      "file": "practicals/prescription-handling.md"
+    },
+    {
+      "id": "drug-interactions",
+      "title": "Identifying drug–drug interactions in prescriptions and follow-up action",
+      "file": "practicals/drug-interactions.md"
+    },
+    {
+      "id": "dispensing-labels",
+      "title": "Preparing dispensing labels and auxiliary labels",
+      "file": "practicals/dispensing-labels.md"
+    },
+    {
+      "id": "blood-pressure-recording",
+      "title": "Blood pressure recording",
+      "file": "practicals/blood-pressure-recording.md"
+    },
+    {
+      "id": "blood-glucose-monitoring",
+      "title": "Capillary blood glucose monitoring",
+      "file": "practicals/blood-glucose-monitoring.md"
+    },
+    {
+      "id": "peak-flow-and-spirometer",
+      "title": "Lung function assessment with a peak flow meter and incentive spirometer",
+      "file": "practicals/peak-flow-and-spirometer.md"
+    },
+    {
+      "id": "pulse-oximetry",
+      "title": "Recording capillary oxygen saturation with a pulse oximeter",
+      "file": "practicals/pulse-oximetry.md"
+    },
+    {
+      "id": "bmi-measurement",
+      "title": "BMI measurement",
+      "file": "practicals/bmi-measurement.md"
+    },
+    {
+      "id": "counselling-type-2-diabetes",
+      "title": "Counselling: type 2 diabetes mellitus (insulin pen)",
+      "file": "practicals/counselling-type-2-diabetes.md"
+    },
+    {
+      "id": "counselling-hypertension",
+      "title": "Counselling: primary hypertension",
+      "file": "practicals/counselling-hypertension.md"
+    },
+    {
+      "id": "counselling-asthma",
+      "title": "Counselling: asthma (inhaler, spacer and nebulizer)",
+      "file": "practicals/counselling-asthma.md"
+    },
+    {
+      "id": "counselling-hyperlipidaemia",
+      "title": "Counselling: hyperlipidaemia",
+      "file": "practicals/counselling-hyperlipidaemia.md"
+    },
+    {
+      "id": "counselling-rheumatoid-arthritis",
+      "title": "Counselling: rheumatoid arthritis",
+      "file": "practicals/counselling-rheumatoid-arthritis.md"
+    },
+    {
+      "id": "minor-ailment-counselling",
+      "title": "Counselling for minor ailments",
+      "file": "practicals/minor-ailment-counselling.md"
+    },
+    {
+      "id": "dosage-form-handling",
+      "title": "Handling dummy dosage forms and administration techniques",
+      "file": "practicals/dosage-form-handling.md"
+    },
+    {
+      "id": "pharmacy-software-digital-tools",
+      "title": "Community pharmacy software and digital health tools",
+      "file": "practicals/pharmacy-software-digital-tools.md"
+    },
+    {
+      "id": "field-visit",
+      "title": "Field visit to a community pharmacy and a medicine distributor",
+      "file": "practicals/field-visit.md"
+    }
+  ]
+}
