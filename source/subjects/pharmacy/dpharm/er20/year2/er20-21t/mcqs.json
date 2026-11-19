@@ -1,0 +1,1796 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The route with 100% bioavailability is:",
+      "options": [
+        "Oral",
+        "Intramuscular",
+        "Intravenous",
+        "Sublingual"
+      ],
+      "correct": 2,
+      "explanation": "Drug injected IV enters the circulation directly, so bioavailability is complete.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which route avoids first-pass hepatic metabolism?",
+      "options": [
+        "Sublingual",
+        "Oral",
+        "Through a nasogastric tube",
+        "Oral sustained-release"
+      ],
+      "correct": 0,
+      "explanation": "Sublingual drug enters the systemic veins directly, bypassing the portal circulation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The most common Phase II reaction is:",
+      "options": [
+        "Oxidation",
+        "Hydrolysis",
+        "Reduction",
+        "Glucuronide conjugation"
+      ],
+      "correct": 3,
+      "explanation": "Glucuronidation is the commonest conjugation reaction.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which of the following is a microsomal enzyme inducer?",
+      "options": [
+        "Erythromycin",
+        "Rifampicin",
+        "Cimetidine",
+        "Ketoconazole"
+      ],
+      "correct": 1,
+      "explanation": "Rifampicin induces cytochrome P450; the others are inhibitors.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Acidic drugs bind mainly to which plasma protein?",
+      "options": [
+        "α1-acid glycoprotein",
+        "Albumin",
+        "Globulin",
+        "Fibrinogen"
+      ],
+      "correct": 1,
+      "explanation": "Albumin binds most acidic drugs; basic drugs bind α1-acid glycoprotein.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Excretion of aspirin in overdose is increased by:",
+      "options": [
+        "Acidifying the urine",
+        "Reducing urine flow",
+        "Giving probenecid",
+        "Alkalinising the urine"
+      ],
+      "correct": 3,
+      "explanation": "Alkaline urine ionises the weak acid and reduces its reabsorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "A drug having affinity but no intrinsic activity is called:",
+      "options": [
+        "Antagonist",
+        "Agonist",
+        "Partial agonist",
+        "Inverse agonist"
+      ],
+      "correct": 0,
+      "explanation": "An antagonist binds the receptor but does not activate it.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Levodopa is converted in the body into dopamine. Levodopa is therefore a:",
+      "options": [
+        "Antagonist",
+        "Chelator",
+        "Prodrug",
+        "Toxic metabolite"
+      ],
+      "correct": 2,
+      "explanation": "A prodrug is inactive until metabolised to the active compound.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Rapid development of tolerance after a few doses is called:",
+      "options": [
+        "Cumulation",
+        "Idiosyncrasy",
+        "Tachyphylaxis",
+        "Potentiation"
+      ],
+      "correct": 2,
+      "explanation": "Tachyphylaxis is acute tolerance, as with ephedrine.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Grey baby syndrome is caused by:",
+      "options": [
+        "Chloramphenicol",
+        "Tetracycline",
+        "Penicillin",
+        "Gentamicin"
+      ],
+      "correct": 0,
+      "explanation": "Newborns cannot conjugate chloramphenicol, which accumulates.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The drug of choice for anaphylactic shock is:",
+      "options": [
+        "Hydrocortisone",
+        "Chlorpheniramine",
+        "Salbutamol",
+        "Adrenaline"
+      ],
+      "correct": 3,
+      "explanation": "Adrenaline IM reverses bronchospasm and hypotension; others are add-ons.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Pralidoxime is used in poisoning with:",
+      "options": [
+        "Atropine",
+        "Organophosphates",
+        "Morphine",
+        "Paracetamol"
+      ],
+      "correct": 1,
+      "explanation": "Pralidoxime reactivates cholinesterase inhibited by organophosphates.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Atropine is contraindicated in:",
+      "options": [
+        "Organophosphate poisoning",
+        "Angle-closure glaucoma",
+        "Sinus bradycardia",
+        "Intestinal colic"
+      ],
+      "correct": 1,
+      "explanation": "Atropine raises intraocular pressure and can precipitate glaucoma.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Neostigmine is used in:",
+      "options": [
+        "Bronchial asthma",
+        "Atropine-induced glaucoma prevention",
+        "Peptic ulcer",
+        "Myasthenia gravis"
+      ],
+      "correct": 3,
+      "explanation": "Neostigmine increases ACh at the neuromuscular junction.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Local anaesthetics act by blocking:",
+      "options": [
+        "Voltage-gated sodium channels",
+        "Calcium channels",
+        "Potassium channels",
+        "Chloride channels"
+      ],
+      "correct": 0,
+      "explanation": "Na+ channel block prevents nerve action potentials.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The depolarising neuromuscular blocker is:",
+      "options": [
+        "Vecuronium",
+        "Atracurium",
+        "Succinylcholine",
+        "Pancuronium"
+      ],
+      "correct": 2,
+      "explanation": "Succinylcholine causes persistent depolarisation of the end plate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "First-dose postural hypotension is characteristic of:",
+      "options": [
+        "Atenolol",
+        "Amlodipine",
+        "Prazosin",
+        "Hydrochlorothiazide"
+      ],
+      "correct": 2,
+      "explanation": "Prazosin (α1 blocker) causes marked fall in BP with the first dose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Low-dose aspirin prevents thrombosis by inhibiting:",
+      "options": [
+        "Platelet thromboxane A2 synthesis",
+        "Vitamin K epoxide reductase",
+        "ADP receptors",
+        "Factor Xa"
+      ],
+      "correct": 0,
+      "explanation": "Aspirin irreversibly blocks platelet COX-1 and thromboxane A2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which β-blocker is cardioselective?",
+      "options": [
+        "Propranolol",
+        "Timolol",
+        "Sotalol",
+        "Atenolol"
+      ],
+      "correct": 3,
+      "explanation": "Atenolol blocks mainly β1 receptors.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The antidote for paracetamol poisoning is:",
+      "options": [
+        "Naloxone",
+        "N-acetylcysteine",
+        "Flumazenil",
+        "Protamine"
+      ],
+      "correct": 1,
+      "explanation": "N-acetylcysteine restores glutathione and detoxifies NAPQI.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Pilocarpine produces:",
+      "options": [
+        "Mydriasis",
+        "Miosis",
+        "Cycloplegia",
+        "Rise in intraocular pressure"
+      ],
+      "correct": 1,
+      "explanation": "Pilocarpine contracts the sphincter pupillae.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The shortest-acting mydriatic is:",
+      "options": [
+        "Atropine",
+        "Homatropine",
+        "Cyclopentolate",
+        "Tropicamide"
+      ],
+      "correct": 3,
+      "explanation": "Tropicamide acts for about 4–6 hours.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Latanoprost lowers intraocular pressure by:",
+      "options": [
+        "Increasing uveoscleral outflow",
+        "Decreasing aqueous formation",
+        "Constricting the pupil",
+        "Osmotic withdrawal of fluid"
+      ],
+      "correct": 0,
+      "explanation": "It is a PGF2α analogue that increases uveoscleral outflow.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Mydriasis without cycloplegia is produced by:",
+      "options": [
+        "Atropine",
+        "Homatropine",
+        "Phenylephrine",
+        "Cyclopentolate"
+      ],
+      "correct": 2,
+      "explanation": "Phenylephrine stimulates α1 receptors of the dilator; it does not affect the ciliary muscle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Timolol eye drops should be avoided in:",
+      "options": [
+        "Open-angle glaucoma",
+        "Hypertension",
+        "Bronchial asthma",
+        "Migraine"
+      ],
+      "correct": 2,
+      "explanation": "Systemic absorption can cause bronchospasm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Acetazolamide reduces intraocular pressure by inhibiting:",
+      "options": [
+        "Carbonic anhydrase",
+        "Cyclo-oxygenase",
+        "Cholinesterase",
+        "Na+/K+ ATPase"
+      ],
+      "correct": 0,
+      "explanation": "Carbonic anhydrase inhibition reduces aqueous humour formation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Mydriatics are contraindicated in:",
+      "options": [
+        "Iritis",
+        "Fundus examination",
+        "Refraction testing",
+        "Angle-closure glaucoma"
+      ],
+      "correct": 3,
+      "explanation": "Dilating the pupil can block the angle and raise IOP.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The osmotic agent used IV in acute glaucoma is:",
+      "options": [
+        "Glycerol",
+        "Mannitol",
+        "Acetazolamide",
+        "Pilocarpine"
+      ],
+      "correct": 1,
+      "explanation": "Mannitol IV draws fluid out of the eye rapidly.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The drug of choice for absence seizures is:",
+      "options": [
+        "Phenytoin",
+        "Ethosuximide",
+        "Carbamazepine",
+        "Phenobarbitone"
+      ],
+      "correct": 1,
+      "explanation": "Ethosuximide blocks T-type Ca2+ channels; phenytoin and carbamazepine may worsen absence.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Gum hypertrophy is a characteristic side effect of:",
+      "options": [
+        "Valproate",
+        "Ethosuximide",
+        "Diazepam",
+        "Phenytoin"
+      ],
+      "correct": 3,
+      "explanation": "Phenytoin causes gingival hyperplasia.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The specific antidote for benzodiazepine overdose is:",
+      "options": [
+        "Flumazenil",
+        "Naloxone",
+        "Atropine",
+        "Physostigmine"
+      ],
+      "correct": 0,
+      "explanation": "Flumazenil is a BZD receptor antagonist.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Pin-point pupils, coma and respiratory depression suggest poisoning with:",
+      "options": [
+        "Atropine",
+        "Amphetamine",
+        "Morphine",
+        "Diazepam"
+      ],
+      "correct": 2,
+      "explanation": "This is the classic triad of opioid poisoning.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Agranulocytosis is a serious adverse effect of:",
+      "options": [
+        "Haloperidol",
+        "Fluoxetine",
+        "Clozapine",
+        "Lithium"
+      ],
+      "correct": 2,
+      "explanation": "Clozapine needs regular blood counts.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Ketamine produces:",
+      "options": [
+        "Dissociative anaesthesia",
+        "Malignant hyperthermia only",
+        "Hypotension and bradycardia",
+        "Muscle paralysis"
+      ],
+      "correct": 0,
+      "explanation": "Ketamine produces analgesia with a dissociated, trance-like state.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The short action of thiopentone is due to:",
+      "options": [
+        "Rapid renal excretion",
+        "Rapid metabolism in plasma",
+        "Poor brain entry",
+        "Redistribution"
+      ],
+      "correct": 3,
+      "explanation": "Thiopentone moves from brain to muscle and fat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Which antidepressant group is first-line because of safety in overdose?",
+      "options": [
+        "Tricyclics",
+        "SSRIs",
+        "MAO inhibitors",
+        "Lithium salts"
+      ],
+      "correct": 1,
+      "explanation": "SSRIs have few cardiac effects and are safer in overdose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Donepezil is used in:",
+      "options": [
+        "Parkinson's disease",
+        "Alzheimer's disease",
+        "Schizophrenia",
+        "Epilepsy"
+      ],
+      "correct": 1,
+      "explanation": "It is a central cholinesterase inhibitor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Baclofen acts as an agonist at:",
+      "options": [
+        "GABA-A receptors",
+        "Dopamine receptors",
+        "Opioid receptors",
+        "GABA-B receptors"
+      ],
+      "correct": 3,
+      "explanation": "Baclofen is a GABA-B agonist used for spasticity.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Dry cough is a common side effect of:",
+      "options": [
+        "Enalapril",
+        "Losartan",
+        "Amlodipine",
+        "Atenolol"
+      ],
+      "correct": 0,
+      "explanation": "ACE inhibitors raise bradykinin, causing cough.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The drug of choice for terminating PSVT is:",
+      "options": [
+        "Digoxin",
+        "Lidocaine",
+        "Adenosine",
+        "Amiodarone"
+      ],
+      "correct": 2,
+      "explanation": "IV adenosine briefly blocks AV nodal conduction.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Sublingual glyceryl trinitrate acts mainly by:",
+      "options": [
+        "Increasing heart rate",
+        "Blocking β1 receptors",
+        "Venodilatation and reduced preload",
+        "Inhibiting ACE"
+      ],
+      "correct": 2,
+      "explanation": "Nitric oxide release dilates veins, reducing cardiac work.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Statins inhibit:",
+      "options": [
+        "HMG-CoA reductase",
+        "Lipoprotein lipase",
+        "Cholesterol absorption",
+        "Bile acid reabsorption"
+      ],
+      "correct": 0,
+      "explanation": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Digoxin acts by inhibiting:",
+      "options": [
+        "H+/K+ ATPase",
+        "Phosphodiesterase-3",
+        "β1 receptors",
+        "Na+/K+ ATPase"
+      ],
+      "correct": 3,
+      "explanation": "Na+/K+ ATPase inhibition raises intracellular calcium.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Digoxin toxicity is increased by:",
+      "options": [
+        "Hyperkalaemia",
+        "Hypokalaemia",
+        "Hypocalcaemia",
+        "Hypernatraemia"
+      ],
+      "correct": 1,
+      "explanation": "Low potassium increases digoxin binding to the pump.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Ankle oedema is a common adverse effect of:",
+      "options": [
+        "Enalapril",
+        "Amlodipine",
+        "Hydrochlorothiazide",
+        "Clonidine"
+      ],
+      "correct": 1,
+      "explanation": "Dihydropyridine CCBs dilate arterioles, causing oedema.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "An antihypertensive considered safe in pregnancy is:",
+      "options": [
+        "Enalapril",
+        "Losartan",
+        "Aliskiren",
+        "Methyldopa"
+      ],
+      "correct": 3,
+      "explanation": "Methyldopa has a long record of safety in pregnancy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Pulmonary fibrosis and thyroid dysfunction are adverse effects of:",
+      "options": [
+        "Amiodarone",
+        "Verapamil",
+        "Lidocaine",
+        "Propranolol"
+      ],
+      "correct": 0,
+      "explanation": "Amiodarone contains iodine and causes lung and thyroid toxicity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Nitrates are contraindicated with:",
+      "options": [
+        "Aspirin",
+        "Atorvastatin",
+        "Sildenafil",
+        "Metoprolol"
+      ],
+      "correct": 2,
+      "explanation": "The combination causes a severe fall in BP.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "The antidote for heparin overdose is:",
+      "options": [
+        "Vitamin K1",
+        "Desferrioxamine",
+        "Protamine sulphate",
+        "Tranexamic acid"
+      ],
+      "correct": 2,
+      "explanation": "Protamine neutralises the acidic heparin molecule.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Warfarin therapy is monitored by:",
+      "options": [
+        "Prothrombin time / INR",
+        "aPTT",
+        "Bleeding time",
+        "Platelet count"
+      ],
+      "correct": 0,
+      "explanation": "INR reflects the vitamin K-dependent factors.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Iron is best absorbed in the form of:",
+      "options": [
+        "Ferric iron in the stomach",
+        "Ferric iron in the colon",
+        "Ferrous iron in the ileum",
+        "Ferrous iron in the duodenum"
+      ],
+      "correct": 3,
+      "explanation": "Fe2+ is absorbed mainly in the duodenum and upper jejunum.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Clopidogrel acts by blocking:",
+      "options": [
+        "COX-1",
+        "Platelet ADP (P2Y12) receptors",
+        "Glycoprotein IIb/IIIa",
+        "Thrombin"
+      ],
+      "correct": 1,
+      "explanation": "It irreversibly blocks the P2Y12 receptor.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "The anticoagulant preferred in pregnancy is:",
+      "options": [
+        "Warfarin",
+        "Heparin",
+        "Acenocoumarol",
+        "Rivaroxaban"
+      ],
+      "correct": 1,
+      "explanation": "Heparin does not cross the placenta.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "Streptokinase dissolves clots by:",
+      "options": [
+        "Inhibiting thrombin",
+        "Blocking vitamin K",
+        "Inhibiting platelet COX",
+        "Activating plasminogen to plasmin"
+      ],
+      "correct": 3,
+      "explanation": "Plasmin digests fibrin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Pernicious anaemia is due to deficiency of:",
+      "options": [
+        "Intrinsic factor",
+        "Iron",
+        "Folic acid",
+        "Erythropoietin"
+      ],
+      "correct": 0,
+      "explanation": "Without intrinsic factor B12 cannot be absorbed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Desferrioxamine is used in poisoning with:",
+      "options": [
+        "Lead",
+        "Digoxin",
+        "Iron",
+        "Heparin"
+      ],
+      "correct": 2,
+      "explanation": "Desferrioxamine chelates iron.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The drug used to relieve an acute asthma attack is:",
+      "options": [
+        "Sodium cromoglycate",
+        "Montelukast",
+        "Salbutamol inhaler",
+        "Inhaled budesonide alone"
+      ],
+      "correct": 2,
+      "explanation": "Short-acting β2 agonists act within minutes.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "Theophylline acts by inhibiting:",
+      "options": [
+        "Phosphodiesterase",
+        "Cyclo-oxygenase",
+        "Lipoxygenase",
+        "Carbonic anhydrase"
+      ],
+      "correct": 0,
+      "explanation": "PDE inhibition raises cAMP.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Oral thrush is a common side effect of:",
+      "options": [
+        "Salbutamol",
+        "Ipratropium",
+        "Montelukast",
+        "Inhaled corticosteroids"
+      ],
+      "correct": 3,
+      "explanation": "Deposition of steroid in the mouth favours Candida.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "Sodium cromoglycate is useful only for:",
+      "options": [
+        "Acute asthma attack",
+        "Prophylaxis of asthma",
+        "Status asthmaticus",
+        "Productive cough"
+      ],
+      "correct": 1,
+      "explanation": "It stabilises mast cells and has no bronchodilator action.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "A non-opioid antitussive is:",
+      "options": [
+        "Codeine",
+        "Dextromethorphan",
+        "Pholcodine",
+        "Ethylmorphine"
+      ],
+      "correct": 1,
+      "explanation": "Dextromethorphan has no analgesic or significant dependence effect at normal doses.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "Acetylcysteine acts as a mucolytic by:",
+      "options": [
+        "Increasing cAMP",
+        "Blocking H1 receptors",
+        "Stimulating the cough centre",
+        "Breaking disulphide bonds in mucus"
+      ],
+      "correct": 3,
+      "explanation": "Its free SH group splits disulphide bonds.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "Tiotropium is a:",
+      "options": [
+        "Long-acting muscarinic antagonist",
+        "Long-acting β2 agonist",
+        "Leukotriene antagonist",
+        "Methylxanthine"
+      ],
+      "correct": 0,
+      "explanation": "Tiotropium blocks M3 receptors for about 24 hours.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "Iodism is an adverse effect of:",
+      "options": [
+        "Ambroxol",
+        "Guaiphenesin",
+        "Potassium iodide",
+        "Noscapine"
+      ],
+      "correct": 2,
+      "explanation": "Iodides cause metallic taste, running nose and rash.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "Omeprazole inhibits:",
+      "options": [
+        "H2 receptors",
+        "Na+/K+ ATPase",
+        "H+/K+ ATPase",
+        "Carbonic anhydrase"
+      ],
+      "correct": 2,
+      "explanation": "PPIs block the proton pump irreversibly.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Ondansetron is a:",
+      "options": [
+        "5-HT3 receptor antagonist",
+        "D2 receptor antagonist",
+        "H1 receptor antagonist",
+        "Muscarinic antagonist"
+      ],
+      "correct": 0,
+      "explanation": "It blocks 5-HT3 receptors in the gut and CTZ.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "The osmolarity of WHO low-osmolarity ORS is:",
+      "options": [
+        "311 mOsm/L",
+        "200 mOsm/L",
+        "350 mOsm/L",
+        "245 mOsm/L"
+      ],
+      "correct": 3,
+      "explanation": "The reduced-osmolarity ORS has 245 mOsm/L.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "Lactulose is used in:",
+      "options": [
+        "Peptic ulcer",
+        "Hepatic encephalopathy",
+        "Motion sickness",
+        "Bloody diarrhoea"
+      ],
+      "correct": 1,
+      "explanation": "It reduces absorption of ammonia from the colon.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "Extrapyramidal reactions are seen with:",
+      "options": [
+        "Ondansetron",
+        "Metoclopramide",
+        "Hyoscine",
+        "Aprepitant"
+      ],
+      "correct": 1,
+      "explanation": "Metoclopramide blocks central D2 receptors.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "Misoprostol is contraindicated in:",
+      "options": [
+        "NSAID users",
+        "Elderly patients",
+        "Peptic ulcer",
+        "Pregnancy"
+      ],
+      "correct": 3,
+      "explanation": "It causes uterine contractions and abortion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "Antacid that causes constipation is:",
+      "options": [
+        "Aluminium hydroxide",
+        "Magnesium hydroxide",
+        "Magnesium trisilicate",
+        "Sodium bicarbonate"
+      ],
+      "correct": 0,
+      "explanation": "Aluminium salts are constipating; magnesium salts are laxative.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "The best drug to prevent motion sickness is:",
+      "options": [
+        "Ondansetron",
+        "Domperidone",
+        "Hyoscine",
+        "Ranitidine"
+      ],
+      "correct": 2,
+      "explanation": "Hyoscine blocks vestibular muscarinic pathways.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "Sucralfate should not be given with antacids because:",
+      "options": [
+        "It causes alkalosis",
+        "It is destroyed by pepsin",
+        "It needs an acidic pH to act",
+        "It increases acid"
+      ],
+      "correct": 2,
+      "explanation": "Sucralfate polymerises into a protective gel only in acid.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m10",
+      "unit": 8,
+      "question": "Racecadotril acts by:",
+      "options": [
+        "Inhibiting enkephalinase",
+        "Blocking µ receptors",
+        "Adsorbing toxins",
+        "Blocking 5-HT3 receptors"
+      ],
+      "correct": 0,
+      "explanation": "It preserves gut enkephalins and reduces secretion.",
+      "probability": "low"
+    },
+    {
+      "id": "u9-m01",
+      "unit": 9,
+      "question": "Furosemide acts on the:",
+      "options": [
+        "Proximal tubule",
+        "Early distal tubule",
+        "Collecting duct",
+        "Thick ascending limb of the loop of Henle"
+      ],
+      "correct": 3,
+      "explanation": "It blocks the Na+-K+-2Cl− co-transporter there.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m02",
+      "unit": 9,
+      "question": "A potassium-sparing diuretic is:",
+      "options": [
+        "Furosemide",
+        "Spironolactone",
+        "Hydrochlorothiazide",
+        "Acetazolamide"
+      ],
+      "correct": 1,
+      "explanation": "Spironolactone blocks aldosterone and retains K+.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m03",
+      "unit": 9,
+      "question": "Gynaecomastia is an adverse effect of:",
+      "options": [
+        "Amiloride",
+        "Spironolactone",
+        "Furosemide",
+        "Mannitol"
+      ],
+      "correct": 1,
+      "explanation": "Spironolactone has antiandrogenic actions.",
+      "probability": "high"
+    },
+    {
+      "id": "u9-m04",
+      "unit": 9,
+      "question": "The diuretic used for raised intracranial pressure is:",
+      "options": [
+        "Hydrochlorothiazide",
+        "Spironolactone",
+        "Amiloride",
+        "Mannitol"
+      ],
+      "correct": 3,
+      "explanation": "Mannitol draws water out of the brain.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m05",
+      "unit": 9,
+      "question": "Thiazides are useful in:",
+      "options": [
+        "Nephrogenic diabetes insipidus",
+        "Hypercalcaemia",
+        "Acute pulmonary oedema",
+        "Hyperkalaemia from spironolactone"
+      ],
+      "correct": 0,
+      "explanation": "They paradoxically reduce urine volume in nephrogenic DI.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m06",
+      "unit": 9,
+      "question": "Desmopressin acts selectively on:",
+      "options": [
+        "V1 receptors",
+        "Aldosterone receptors",
+        "V2 receptors",
+        "β1 receptors"
+      ],
+      "correct": 2,
+      "explanation": "V2 stimulation inserts aquaporin-2 water channels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m07",
+      "unit": 9,
+      "question": "Acetazolamide is used to prevent:",
+      "options": [
+        "Gout",
+        "Hypokalaemia",
+        "Acute mountain sickness",
+        "Heart failure"
+      ],
+      "correct": 2,
+      "explanation": "It reduces symptoms of high-altitude sickness.",
+      "probability": "medium"
+    },
+    {
+      "id": "u9-m08",
+      "unit": 9,
+      "question": "Terlipressin is used in:",
+      "options": [
+        "Bleeding oesophageal varices",
+        "Central diabetes insipidus in children",
+        "Hypertension",
+        "Hyperkalaemia"
+      ],
+      "correct": 0,
+      "explanation": "Its V1 action constricts splanchnic vessels.",
+      "probability": "low"
+    },
+    {
+      "id": "u10-m01",
+      "unit": 10,
+      "question": "The insulin preparation given by IV infusion in diabetic ketoacidosis is:",
+      "options": [
+        "NPH insulin",
+        "Insulin glargine",
+        "Premixed 30/70 insulin",
+        "Regular (soluble) insulin"
+      ],
+      "correct": 3,
+      "explanation": "Regular insulin is a clear solution suitable for IV use in ketoacidosis.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m02",
+      "unit": 10,
+      "question": "First-line oral drug in type 2 diabetes is:",
+      "options": [
+        "Glibenclamide",
+        "Metformin",
+        "Pioglitazone",
+        "Acarbose"
+      ],
+      "correct": 1,
+      "explanation": "Metformin lowers glucose without hypoglycaemia or weight gain.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m03",
+      "unit": 10,
+      "question": "Carbimazole acts by inhibiting:",
+      "options": [
+        "Iodide trapping",
+        "Thyroid peroxidase",
+        "Release of thyroid hormone",
+        "TSH secretion"
+      ],
+      "correct": 1,
+      "explanation": "It blocks oxidation and iodination steps.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m04",
+      "unit": 10,
+      "question": "The antithyroid drug preferred in the first trimester of pregnancy is:",
+      "options": [
+        "Carbimazole",
+        "Radioactive iodine",
+        "Potassium perchlorate",
+        "Propylthiouracil"
+      ],
+      "correct": 3,
+      "explanation": "Carbimazole is linked to birth defects in early pregnancy.",
+      "probability": "high"
+    },
+    {
+      "id": "u10-m05",
+      "unit": 10,
+      "question": "Lactic acidosis is a rare adverse effect of:",
+      "options": [
+        "Metformin",
+        "Glimepiride",
+        "Sitagliptin",
+        "Insulin"
+      ],
+      "correct": 0,
+      "explanation": "Metformin can cause lactic acidosis, especially in kidney failure or hypoxia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m06",
+      "unit": 10,
+      "question": "A corticosteroid with no mineralocorticoid activity is:",
+      "options": [
+        "Hydrocortisone",
+        "Prednisolone",
+        "Dexamethasone",
+        "Fludrocortisone"
+      ],
+      "correct": 2,
+      "explanation": "Dexamethasone is a pure, potent glucocorticoid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m07",
+      "unit": 10,
+      "question": "Oxytocin is used for:",
+      "options": [
+        "Threatened abortion",
+        "Premature labour",
+        "Prevention of postpartum haemorrhage",
+        "Diabetes insipidus"
+      ],
+      "correct": 2,
+      "explanation": "Oxytocin contracts the uterus after delivery.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m08",
+      "unit": 10,
+      "question": "Calcitonin lowers plasma calcium by:",
+      "options": [
+        "Inhibiting osteoclast bone resorption",
+        "Increasing intestinal absorption",
+        "Stimulating PTH release",
+        "Activating vitamin D"
+      ],
+      "correct": 0,
+      "explanation": "Calcitonin opposes PTH on bone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u10-m09",
+      "unit": 10,
+      "question": "Genital fungal infection is an adverse effect of:",
+      "options": [
+        "Metformin",
+        "Glibenclamide",
+        "Acarbose",
+        "Dapagliflozin"
+      ],
+      "correct": 3,
+      "explanation": "SGLT2 inhibitors cause glucose in urine, favouring infection.",
+      "probability": "low"
+    },
+    {
+      "id": "u10-m10",
+      "unit": 10,
+      "question": "The emergency contraceptive dose of levonorgestrel is:",
+      "options": [
+        "0.03 mg daily",
+        "1.5 mg single dose",
+        "150 mg weekly",
+        "10 mg single dose"
+      ],
+      "correct": 1,
+      "explanation": "A single 1.5 mg tablet, best within 72 hours.",
+      "probability": "low"
+    },
+    {
+      "id": "u11-m01",
+      "unit": 11,
+      "question": "Histamine is formed from:",
+      "options": [
+        "Tryptophan",
+        "Histidine",
+        "Tyrosine",
+        "Arachidonic acid"
+      ],
+      "correct": 1,
+      "explanation": "Histidine decarboxylase converts histidine to histamine.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m02",
+      "unit": 11,
+      "question": "A non-sedating antihistamine is:",
+      "options": [
+        "Promethazine",
+        "Diphenhydramine",
+        "Hydroxyzine",
+        "Fexofenadine"
+      ],
+      "correct": 3,
+      "explanation": "Fexofenadine hardly enters the brain.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m03",
+      "unit": 11,
+      "question": "Gastric acid secretion by histamine is mediated by:",
+      "options": [
+        "H2 receptors",
+        "H1 receptors",
+        "H3 receptors",
+        "H4 receptors"
+      ],
+      "correct": 0,
+      "explanation": "H2 receptors on parietal cells stimulate acid.",
+      "probability": "high"
+    },
+    {
+      "id": "u11-m04",
+      "unit": 11,
+      "question": "5-HT is synthesised from:",
+      "options": [
+        "Histidine",
+        "Phenylalanine",
+        "Tryptophan",
+        "Glutamate"
+      ],
+      "correct": 2,
+      "explanation": "Tryptophan → 5-hydroxytryptophan → 5-HT.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m05",
+      "unit": 11,
+      "question": "Sumatriptan used in migraine is a:",
+      "options": [
+        "5-HT3 antagonist",
+        "5-HT2 antagonist",
+        "5-HT1B/1D agonist",
+        "D2 antagonist"
+      ],
+      "correct": 2,
+      "explanation": "It constricts cranial vessels via 5-HT1B/1D receptors.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m06",
+      "unit": 11,
+      "question": "Prostaglandins are synthesised from arachidonic acid by:",
+      "options": [
+        "Cyclo-oxygenase",
+        "Lipoxygenase",
+        "Phospholipase C",
+        "Monoamine oxidase"
+      ],
+      "correct": 0,
+      "explanation": "COX forms the prostaglandin endoperoxides.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m07",
+      "unit": 11,
+      "question": "Alprostadil is used in newborns to:",
+      "options": [
+        "Close the ductus arteriosus",
+        "Treat neonatal jaundice",
+        "Prevent haemorrhagic disease",
+        "Keep the ductus arteriosus open"
+      ],
+      "correct": 3,
+      "explanation": "PGE1 keeps the ductus patent until surgery.",
+      "probability": "medium"
+    },
+    {
+      "id": "u11-m08",
+      "unit": 11,
+      "question": "Most of the body's 5-HT is located in the:",
+      "options": [
+        "Brain",
+        "Enterochromaffin cells of the gut",
+        "Platelets only",
+        "Adrenal medulla"
+      ],
+      "correct": 1,
+      "explanation": "About 90% lies in gut enterochromaffin cells.",
+      "probability": "low"
+    },
+    {
+      "id": "u12-m01",
+      "unit": 12,
+      "question": "Penicillins act by inhibiting:",
+      "options": [
+        "Protein synthesis at 30S",
+        "Bacterial cell-wall synthesis",
+        "DNA gyrase",
+        "Folate synthesis"
+      ],
+      "correct": 1,
+      "explanation": "They block transpeptidation of peptidoglycan.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m02",
+      "unit": 12,
+      "question": "Optic neuritis is an adverse effect of:",
+      "options": [
+        "Isoniazid",
+        "Rifampicin",
+        "Pyrazinamide",
+        "Ethambutol"
+      ],
+      "correct": 3,
+      "explanation": "Ethambutol may cause loss of visual acuity and colour vision.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m03",
+      "unit": 12,
+      "question": "Orange-red discolouration of urine is caused by:",
+      "options": [
+        "Rifampicin",
+        "Isoniazid",
+        "Ethambutol",
+        "Streptomycin"
+      ],
+      "correct": 0,
+      "explanation": "Rifampicin colours body fluids orange-red.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m04",
+      "unit": 12,
+      "question": "Tetracyclines should be avoided in children because they cause:",
+      "options": [
+        "Gray baby syndrome",
+        "Kernicterus",
+        "Discolouration of teeth",
+        "Tendon rupture"
+      ],
+      "correct": 2,
+      "explanation": "They bind calcium in developing teeth and bones.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m05",
+      "unit": 12,
+      "question": "Fluoroquinolones act by inhibiting:",
+      "options": [
+        "Cell-wall synthesis",
+        "50S ribosome",
+        "DNA gyrase",
+        "RNA polymerase"
+      ],
+      "correct": 2,
+      "explanation": "They block bacterial topoisomerases.",
+      "probability": "high"
+    },
+    {
+      "id": "u12-m06",
+      "unit": 12,
+      "question": "Aminoglycosides are not effective against anaerobes because:",
+      "options": [
+        "Their uptake into bacteria needs oxygen",
+        "Anaerobes lack ribosomes",
+        "They are destroyed by anaerobic enzymes",
+        "Anaerobes lack cell walls"
+      ],
+      "correct": 0,
+      "explanation": "Oxygen-dependent transport is needed for entry.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m07",
+      "unit": 12,
+      "question": "Clavulanic acid is combined with amoxicillin because it:",
+      "options": [
+        "Increases absorption",
+        "Reduces allergy",
+        "Delays renal excretion",
+        "Inhibits β-lactamase"
+      ],
+      "correct": 3,
+      "explanation": "It protects amoxicillin from β-lactamase destruction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m08",
+      "unit": 12,
+      "question": "The drug of choice for scrub typhus is:",
+      "options": [
+        "Penicillin G",
+        "Doxycycline",
+        "Gentamicin",
+        "Ceftriaxone"
+      ],
+      "correct": 1,
+      "explanation": "Rickettsial infections respond best to doxycycline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m09",
+      "unit": 12,
+      "question": "Hyperuricaemia is a known adverse effect of:",
+      "options": [
+        "Rifampicin",
+        "Pyrazinamide",
+        "Ethambutol",
+        "Isoniazid"
+      ],
+      "correct": 1,
+      "explanation": "Pyrazinamide reduces uric acid excretion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u12-m10",
+      "unit": 12,
+      "question": "Trimethoprim inhibits the enzyme:",
+      "options": [
+        "Dihydropteroate synthase",
+        "DNA gyrase",
+        "Transpeptidase",
+        "Dihydrofolate reductase"
+      ],
+      "correct": 3,
+      "explanation": "This is the second step blocked in cotrimoxazole.",
+      "probability": "low"
+    },
+    {
+      "id": "u13-m01",
+      "unit": 13,
+      "question": "Amphotericin B acts by binding to:",
+      "options": [
+        "Ergosterol",
+        "Cholesterol",
+        "Chitin",
+        "β-glucan"
+      ],
+      "correct": 0,
+      "explanation": "It forms pores in ergosterol-containing fungal membranes.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m02",
+      "unit": 13,
+      "question": "The drug used for radical cure of vivax malaria is:",
+      "options": [
+        "Chloroquine",
+        "Quinine",
+        "Primaquine",
+        "Artesunate"
+      ],
+      "correct": 2,
+      "explanation": "Primaquine kills liver hypnozoites.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m03",
+      "unit": 13,
+      "question": "The drug of choice for severe falciparum malaria is:",
+      "options": [
+        "Oral chloroquine",
+        "Primaquine",
+        "Injectable artesunate",
+        "Doxycycline alone"
+      ],
+      "correct": 2,
+      "explanation": "IV/IM artesunate reduces deaths in severe malaria.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m04",
+      "unit": 13,
+      "question": "Metronidazole taken with alcohol produces:",
+      "options": [
+        "Disulfiram-like reaction",
+        "Serotonin syndrome",
+        "Cheese reaction",
+        "Grey baby syndrome"
+      ],
+      "correct": 0,
+      "explanation": "Flushing, vomiting and headache occur with alcohol.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m05",
+      "unit": 13,
+      "question": "Haemorrhagic cystitis is caused by:",
+      "options": [
+        "Vincristine",
+        "Methotrexate",
+        "Bleomycin",
+        "Cyclophosphamide"
+      ],
+      "correct": 3,
+      "explanation": "Its metabolite acrolein irritates the bladder.",
+      "probability": "high"
+    },
+    {
+      "id": "u13-m06",
+      "unit": 13,
+      "question": "Acyclovir is activated by:",
+      "options": [
+        "Host DNA polymerase",
+        "Viral thymidine kinase",
+        "Liver cytochrome P450",
+        "Plasma esterases"
+      ],
+      "correct": 1,
+      "explanation": "Selective activation in infected cells explains its safety.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m07",
+      "unit": 13,
+      "question": "Ivermectin is the drug of choice for:",
+      "options": [
+        "Tapeworm infection",
+        "Strongyloidiasis",
+        "Amoebiasis",
+        "Malaria"
+      ],
+      "correct": 1,
+      "explanation": "Ivermectin paralyses Strongyloides.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m08",
+      "unit": 13,
+      "question": "Folinic acid rescue is used with high-dose:",
+      "options": [
+        "Cisplatin",
+        "Doxorubicin",
+        "Vincristine",
+        "Methotrexate"
+      ],
+      "correct": 3,
+      "explanation": "Leucovorin bypasses the DHFR block in normal cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m09",
+      "unit": 13,
+      "question": "Pulmonary fibrosis is a characteristic toxicity of:",
+      "options": [
+        "Bleomycin",
+        "5-Fluorouracil",
+        "Cyclophosphamide",
+        "Imatinib"
+      ],
+      "correct": 0,
+      "explanation": "Bleomycin damages lung tissue.",
+      "probability": "medium"
+    },
+    {
+      "id": "u13-m10",
+      "unit": 13,
+      "question": "Griseofulvin is used mainly for:",
+      "options": [
+        "Systemic candidiasis",
+        "Cryptococcal meningitis",
+        "Dermatophyte infections of hair and nails",
+        "Aspergillosis"
+      ],
+      "correct": 2,
+      "explanation": "It concentrates in keratin.",
+      "probability": "low"
+    },
+    {
+      "id": "u14-m01",
+      "unit": 14,
+      "question": "Monoclonal antibodies ending in '-zumab' are:",
+      "options": [
+        "Chimeric",
+        "Fully human",
+        "Humanised",
+        "Fusion proteins"
+      ],
+      "correct": 2,
+      "explanation": "-zumab indicates a mostly human (humanised) antibody.",
+      "probability": "high"
+    },
+    {
+      "id": "u14-m02",
+      "unit": 14,
+      "question": "Trastuzumab is used in:",
+      "options": [
+        "HER2-positive breast cancer",
+        "Rheumatoid arthritis",
+        "Chronic myeloid leukaemia",
+        "Allergic asthma"
+      ],
+      "correct": 0,
+      "explanation": "It targets the HER2 receptor.",
+      "probability": "high"
+    },
+    {
+      "id": "u14-m03",
+      "unit": 14,
+      "question": "Most vaccines should be stored at:",
+      "options": [
+        "−20 °C or below",
+        "25–30 °C",
+        "Above 40 °C",
+        "2–8 °C"
+      ],
+      "correct": 3,
+      "explanation": "Refrigeration maintains potency; many must not be frozen.",
+      "probability": "high"
+    },
+    {
+      "id": "u14-m04",
+      "unit": 14,
+      "question": "Before starting infliximab, patients should be screened for:",
+      "options": [
+        "Diabetes mellitus",
+        "Latent tuberculosis",
+        "Hypothyroidism",
+        "Iron deficiency"
+      ],
+      "correct": 1,
+      "explanation": "Anti-TNF drugs can reactivate TB.",
+      "probability": "medium"
+    },
+    {
+      "id": "u14-m05",
+      "unit": 14,
+      "question": "Passive immunity is provided by:",
+      "options": [
+        "BCG vaccine",
+        "Anti-snake venom",
+        "Tetanus toxoid",
+        "Oral polio vaccine"
+      ],
+      "correct": 1,
+      "explanation": "ASV supplies ready-made antibodies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u14-m06",
+      "unit": 14,
+      "question": "Rituximab acts on:",
+      "options": [
+        "TNF-α",
+        "HER2",
+        "IgE",
+        "CD20 on B cells"
+      ],
+      "correct": 3,
+      "explanation": "It depletes B lymphocytes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u14-m07",
+      "unit": 14,
+      "question": "A highly similar copy of an approved biological is called:",
+      "options": [
+        "Biosimilar",
+        "Generic",
+        "Prodrug",
+        "Analogue"
+      ],
+      "correct": 0,
+      "explanation": "Biological copies are not identical, hence biosimilars.",
+      "probability": "medium"
+    },
+    {
+      "id": "u14-m08",
+      "unit": 14,
+      "question": "Filgrastim is used to treat:",
+      "options": [
+        "Anaemia of kidney disease",
+        "Haemophilia A",
+        "Neutropenia after chemotherapy",
+        "Multiple sclerosis"
+      ],
+      "correct": 2,
+      "explanation": "It is recombinant G-CSF.",
+      "probability": "low"
+    }
+  ]
+}

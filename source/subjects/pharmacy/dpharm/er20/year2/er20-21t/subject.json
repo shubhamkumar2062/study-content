@@ -1,0 +1,188 @@
+{
+  "code": "ER20-21T",
+  "title": "Pharmacology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, Education Regulations 2020 (ER-2020), D.Pharm second year, Pharmacology ER20-21T and ER20-21P (university copy of the PCI syllabus)",
+    "url": "https://syllabus.gkv.ac.in/Pharma/D.PHARMA_2021/ER20-21T.pdf"
+  },
+  "practicalCodes": [
+    "ER20-21P"
+  ],
+  "units": [
+    {
+      "number": 1,
+      "title": "General pharmacology",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Drugs acting on the peripheral nervous system",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Drugs acting on the eye",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Drugs acting on the central nervous system",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Drugs acting on the cardiovascular system",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Drugs acting on blood and blood-forming organs",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Drugs acting on the respiratory system",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Drugs acting on the gastrointestinal tract",
+      "notes": "notes/unit-8.md"
+    },
+    {
+      "number": 9,
+      "title": "Drugs acting on the kidney",
+      "notes": "notes/unit-9.md"
+    },
+    {
+      "number": 10,
+      "title": "Hormones and hormone antagonists",
+      "notes": "notes/unit-10.md"
+    },
+    {
+      "number": 11,
+      "title": "Autocoids",
+      "notes": "notes/unit-11.md"
+    },
+    {
+      "number": 12,
+      "title": "Chemotherapy I: principles and antibacterial drugs",
+      "notes": "notes/unit-12.md"
+    },
+    {
+      "number": 13,
+      "title": "Chemotherapy II: antifungal, antiviral, antiprotozoal, anthelmintic and anticancer drugs",
+      "notes": "notes/unit-13.md"
+    },
+    {
+      "number": 14,
+      "title": "Biologicals",
+      "notes": "notes/unit-14.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ],
+  "practicals": [
+    {
+      "id": "introduction-to-experimental-pharmacology",
+      "title": "Introduction to experimental pharmacology",
+      "file": "practicals/introduction-to-experimental-pharmacology.md"
+    },
+    {
+      "id": "laboratory-animals",
+      "title": "Study of laboratory animals: mice, rats, guinea pigs and rabbits",
+      "file": "practicals/laboratory-animals.md"
+    },
+    {
+      "id": "instruments-in-experimental-pharmacology",
+      "title": "Commonly used instruments in experimental pharmacology",
+      "file": "practicals/instruments-in-experimental-pharmacology.md"
+    },
+    {
+      "id": "routes-of-administration-in-animals",
+      "title": "Routes of drug administration in animals",
+      "file": "practicals/routes-of-administration-in-animals.md"
+    },
+    {
+      "id": "types-of-preclinical-experiments",
+      "title": "Types of pre-clinical experiments: in vivo, in vitro, ex vivo",
+      "file": "practicals/types-of-preclinical-experiments.md"
+    },
+    {
+      "id": "blood-collection-techniques",
+      "title": "Techniques of blood collection from animals",
+      "file": "practicals/blood-collection-techniques.md"
+    },
+    {
+      "id": "local-anaesthetic-rabbit-eye",
+      "title": "Effect of local anaesthetics on the rabbit eye",
+      "file": "practicals/local-anaesthetic-rabbit-eye.md"
+    },
+    {
+      "id": "mydriatic-effect-rabbit-eye",
+      "title": "Mydriatic effect on the rabbit eye",
+      "file": "practicals/mydriatic-effect-rabbit-eye.md"
+    },
+    {
+      "id": "miotic-effect-rabbit-eye",
+      "title": "Miotic effect on the rabbit eye",
+      "file": "practicals/miotic-effect-rabbit-eye.md"
+    },
+    {
+      "id": "analgesiometer",
+      "title": "Effect of analgesics using an analgesiometer",
+      "file": "practicals/analgesiometer.md"
+    },
+    {
+      "id": "writhing-test",
+      "title": "Analgesic activity by the acetic acid writhing test",
+      "file": "practicals/writhing-test.md"
+    },
+    {
+      "id": "electroconvulsiometer",
+      "title": "Screening of anticonvulsants using an electroconvulsiometer",
+      "file": "practicals/electroconvulsiometer.md"
+    },
+    {
+      "id": "rota-rod",
+      "title": "Screening of muscle relaxants using the rota-rod apparatus",
+      "file": "practicals/rota-rod.md"
+    },
+    {
+      "id": "actophotometer",
+      "title": "Screening of CNS stimulants and depressants using an actophotometer",
+      "file": "practicals/actophotometer.md"
+    },
+    {
+      "id": "elevated-plus-maze",
+      "title": "Anxiolytic activity using the elevated plus maze",
+      "file": "practicals/elevated-plus-maze.md"
+    },
+    {
+      "id": "isolated-frog-heart",
+      "title": "Effect of drugs on the isolated frog heart",
+      "file": "practicals/isolated-frog-heart.md"
+    },
+    {
+      "id": "ciliary-motility-frog",
+      "title": "Effect of drugs on ciliary motility of the frog buccal cavity",
+      "file": "practicals/ciliary-motility-frog.md"
+    },
+    {
+      "id": "pyrogen-test-rabbit",
+      "title": "Pyrogen testing by the rabbit method",
+      "file": "practicals/pyrogen-test-rabbit.md"
+    }
+  ]
+}

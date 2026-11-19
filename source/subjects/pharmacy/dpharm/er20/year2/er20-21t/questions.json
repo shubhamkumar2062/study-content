@@ -1,0 +1,1139 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the syllabus weight and common patterns in ER-2020 D.Pharm papers. It is not a promise. Long answers here are 5-mark and short answers 3-mark, matching the ER-2020 board pattern; very-short answers are 2-mark revision questions.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify the routes of drug administration. Write the advantages and disadvantages of the oral and intravenous routes.",
+      "answer": "1. Classification: (a) Local – topical (skin, eye, ear, nose), deeper tissues (intra-articular); (b) Systemic – enteral (oral, sublingual/buccal, rectal) and parenteral (IV, IM, SC, intradermal, inhalation, transdermal, intrathecal/epidural).\n2. Oral – advantages: safe, cheap, convenient, painless, self-administration, no sterility needed.\n3. Oral – disadvantages: slow onset; not usable in vomiting, unconscious or uncooperative patients; some drugs destroyed by acid or enzymes (penicillin G, insulin); first-pass metabolism (nitroglycerin); irritant drugs cause nausea; absorption varies with food; bad taste.\n4. IV – advantages: fastest onset, 100% bioavailability, exact control of dose and blood level; large volumes and irritant drugs (diluted) can be given; useful in emergencies and unconscious patients.\n5. IV – disadvantages: needs sterile preparation and skill; once injected cannot be recalled; risk of thrombophlebitis, infection, air embolism, fluid overload and severe reactions; costly and painful; only aqueous solutions."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define biotransformation. Describe Phase I and Phase II reactions with examples and the factors that influence drug metabolism.",
+      "answer": "1. Definition: chemical alteration of a drug in the body, mainly in the liver, usually into more polar, water-soluble and less active compounds that are easily excreted.\n2. Results: inactivation (most drugs), active metabolite (diazepam → oxazepam), activation of prodrug (levodopa → dopamine, enalapril → enalaprilat), toxic metabolite (paracetamol → NAPQI).\n3. Phase I (non-synthetic): oxidation by cytochrome P450 (commonest; phenytoin, barbiturates), reduction (chloramphenicol), hydrolysis (procaine, succinylcholine by esterases).\n4. Phase II (conjugation): glucuronidation (commonest – morphine, paracetamol), acetylation (isoniazid, sulphonamides), sulphation, glycine conjugation, methylation, glutathione conjugation – products usually inactive and water-soluble.\n5. Factors: age (newborn – grey baby syndrome with chloramphenicol; elderly – slow), genetics (slow/fast acetylators, pseudocholinesterase deficiency), enzyme induction (rifampicin, phenytoin, smoking), enzyme inhibition (erythromycin, ketoconazole, cimetidine), liver disease, diet, sex, pregnancy."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define drug absorption. Explain the mechanisms of absorption and the factors affecting it.",
+      "answer": "1. Definition: movement of a drug from the site of administration into the systemic circulation.\n2. Mechanisms: passive diffusion (most drugs; down gradient, needs lipid solubility), filtration through aqueous pores (small water-soluble molecules), facilitated diffusion (carrier, no energy), active transport (carrier + energy, against gradient, saturable – levodopa, iron), pinocytosis (vitamin B12 with intrinsic factor).\n3. Ionisation: only unionised drug crosses membranes; weak acids unionised in stomach, weak bases in intestine; but most absorption occurs in the small intestine due to its large area.\n4. Drug factors: lipid solubility, particle size, pKa, molecular size, dosage form (solution > suspension > tablet), formulation.\n5. Physiological factors: surface area, blood flow, gastric emptying and motility, pH, food, disease, first-pass metabolism.\n6. Interactions: antacids, milk and iron reduce absorption of tetracyclines and fluoroquinolones."
+    },
+    {
+      "id": "u1-l04",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the general mechanisms of drug action. Define agonist, antagonist and partial agonist with examples.",
+      "answer": "1. Receptor-mediated actions – most drugs combine with specific receptor proteins (adrenaline on adrenoceptors).\n2. Enzyme inhibition – neostigmine (cholinesterase), aspirin (COX), captopril (ACE), allopurinol (xanthine oxidase).\n3. Ion channels – lidocaine blocks Na+ channels; nifedipine blocks Ca2+ channels; minoxidil opens K+ channels.\n4. Transporters – omeprazole (H+/K+ ATPase), digoxin (Na+/K+ ATPase), furosemide (Na+-K+-2Cl−), fluoxetine (5-HT reuptake).\n5. Physical/chemical actions – antacids, osmotic diuretics, chelators (dimercaprol), activated charcoal.\n6. Agonist: affinity + intrinsic activity, activates receptor (adrenaline).\n7. Antagonist: affinity without intrinsic activity, blocks agonist (atropine at muscarinic receptors; competitive antagonism is overcome by more agonist).\n8. Partial agonist: submaximal response even at full occupancy; can block a full agonist (buprenorphine, pindolol).\n9. Receptor families: ligand-gated ion channels, G-protein-coupled, kinase-linked, nuclear receptors."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define bioavailability. Write the factors affecting it.",
+      "answer": "1. Bioavailability is the fraction of an administered dose that reaches the systemic circulation unchanged; IV = 100%; F = AUC oral ÷ AUC IV × 100.\n2. Factors: drug properties (solubility, particle size, ionisation), dosage form and formulation, first-pass metabolism (GTN, propranolol), destruction in gut (penicillin G, insulin), gastric emptying and food, disease of gut or liver, drug interactions (antacids with tetracyclines), enzyme induction/inhibition."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "What is first-pass metabolism? Give examples and how it can be avoided.",
+      "answer": "1. Metabolism of a drug in the gut wall and liver before it reaches the systemic circulation after oral use, reducing its bioavailability.\n2. Examples: glyceryl trinitrate, propranolol, morphine, lidocaine (cannot be given orally), verapamil.\n3. Avoided by sublingual (GTN), transdermal (nitroglycerin patch), inhalation, rectal (partly) and parenteral routes, or by giving larger oral doses."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the factors affecting drug distribution.",
+      "answer": "1. Lipid solubility and ionisation.\n2. Plasma protein binding – acidic drugs bind albumin; bound drug is inactive; displacement interactions (aspirin displaces warfarin).\n3. Blood flow to tissues (brain, heart, liver, kidney first).\n4. Tissue binding (tetracyclines in bone, chloroquine in liver and retina).\n5. Barriers – blood–brain barrier (only lipid-soluble drugs), placental barrier.\n6. Redistribution (thiopentone) and volume of distribution."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on factors modifying drug action.",
+      "answer": "1. Body weight and age (children, elderly).\n2. Sex, pregnancy and lactation.\n3. Genetic factors – acetylator status, G6PD deficiency.\n4. Route of administration (magnesium sulphate – purgative orally, anticonvulsant IV).\n5. Disease – liver and kidney failure.\n6. Tolerance, tachyphylaxis, cumulation.\n7. Drug interactions – synergism (sulfamethoxazole + trimethoprim), antagonism (naloxone with morphine).\n8. Placebo effect, diet and environment."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define pharmacokinetics and pharmacodynamics.",
+      "answer": "Pharmacokinetics is what the body does to the drug – absorption, distribution, metabolism and excretion. Pharmacodynamics is what the drug does to the body – its actions and mechanism of action."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the half-life of a drug?",
+      "answer": "The time taken for the plasma concentration of a drug to fall to half its value; about 4–5 half-lives are needed to reach steady state or to eliminate a drug almost completely."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define and classify cholinergic drugs. Write the pharmacological actions and uses of neostigmine.",
+      "answer": "1. Definition: drugs that produce effects like acetylcholine by stimulating cholinergic receptors directly or by inhibiting cholinesterase.\n2. Classification: A. Direct-acting – choline esters (acetylcholine, methacholine, carbachol, bethanechol); alkaloids (pilocarpine, muscarine, arecoline). B. Anticholinesterases – reversible (physostigmine, neostigmine, pyridostigmine, edrophonium, donepezil, rivastigmine); irreversible (organophosphates – malathion, parathion; carbamates – carbaryl).\n3. Neostigmine: quaternary reversible anticholinesterase; also direct NM stimulant; does not enter brain.\n4. Actions: muscarinic – bradycardia, ↑ secretions, ↑ gut and bladder motility, miosis; nicotinic – ↑ skeletal muscle contraction.\n5. Uses: myasthenia gravis; reversal of non-depolarising neuromuscular block (with atropine); postoperative urinary retention and paralytic ileus.\n6. Adverse effects: sweating, salivation, colic, diarrhoea, bradycardia, bronchospasm.\n7. Contraindications: bronchial asthma, intestinal/urinary obstruction, peptic ulcer, heart block."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anticholinergic drugs. Describe the pharmacological actions, uses and contraindications of atropine.",
+      "answer": "1. Classification: natural alkaloids – atropine, hyoscine; semisynthetic – homatropine, ipratropium, tiotropium, hyoscine butylbromide; synthetic – mydriatics (tropicamide, cyclopentolate), antisecretory/antispasmodic (glycopyrrolate, dicyclomine, propantheline), bladder (oxybutynin, tolterodine), antiparkinsonian (trihexyphenidyl, benztropine).\n2. Actions: heart – tachycardia; glands – ↓ saliva, sweat, bronchial and gastric secretions; smooth muscle – relaxes gut, bladder, bronchi; eye – mydriasis, cycloplegia, ↑ IOP; CNS – stimulation in high doses; skin – flushing, fever in children.\n3. Uses: pre-anaesthetic medication; organophosphate and mushroom poisoning; sinus bradycardia and heart block (0.6 mg IV); fundus examination, refraction, iritis; intestinal and biliary colic; motion sickness (hyoscine); asthma/COPD (ipratropium); parkinsonism.\n4. Adverse effects: dry mouth, blurred vision, photophobia, constipation, urinary retention, tachycardia, delirium; poisoning treated with physostigmine.\n5. Contraindications: angle-closure glaucoma, enlarged prostate, paralytic ileus, tachyarrhythmias."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify β-adrenergic blockers. Write their pharmacological actions, uses, adverse effects and contraindications.",
+      "answer": "1. Classification: non-selective – propranolol, timolol, sotalol, nadolol; β1-selective (cardioselective) – atenolol, metoprolol, bisoprolol, esmolol, nebivolol; with α-blocking action – labetalol, carvedilol; with partial agonist activity – pindolol.\n2. Actions: ↓ heart rate, force and cardiac output; slow AV conduction; ↓ renin release; ↓ BP; ↓ myocardial O2 demand; ↓ aqueous humour formation; bronchoconstriction (β2 block); ↓ tremor.\n3. Uses: hypertension, angina, after myocardial infarction, arrhythmias, chronic heart failure (carvedilol, metoprolol, bisoprolol), glaucoma (timolol), thyrotoxicosis, migraine prophylaxis, essential tremor, performance anxiety.\n4. Adverse effects: bradycardia, heart block, bronchospasm, cold extremities, fatigue, masking of hypoglycaemia, vivid dreams; rebound angina on sudden withdrawal.\n5. Contraindications: bronchial asthma and COPD, bradycardia and AV block, acute heart failure, peripheral vascular disease, variant angina; caution in diabetes."
+    },
+    {
+      "id": "u2-l04",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify NSAIDs. Describe the mechanism of action, uses and adverse effects of aspirin.",
+      "answer": "1. Classification: A. Non-selective COX inhibitors – salicylates (aspirin); propionic acid (ibuprofen, naproxen); acetic acid (diclofenac, indomethacin, ketorolac); fenamate (mefenamic acid); oxicams (piroxicam); pyrazolone (metamizol). B. Preferential COX-2 – nimesulide, meloxicam. C. Selective COX-2 – celecoxib, etoricoxib. D. Analgesic-antipyretics with poor anti-inflammatory action – paracetamol.\n2. Mechanism: aspirin irreversibly acetylates COX → ↓ prostaglandins and thromboxane A2.\n3. Actions: analgesic, antipyretic, anti-inflammatory (high dose), antiplatelet (low dose).\n4. Uses: pain, fever, rheumatoid arthritis and rheumatic fever; low dose 75–150 mg daily to prevent MI and stroke.\n5. Adverse effects: gastric irritation, peptic ulcer and bleeding; prolonged bleeding time; hypersensitivity and aspirin-induced asthma; Reye's syndrome in children with viral fever; salicylism (tinnitus, vertigo) at high doses.\n6. Contraindications: peptic ulcer, bleeding disorders, aspirin-sensitive asthma, children with viral fever, late pregnancy."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the treatment of organophosphate poisoning.",
+      "answer": "1. Remove contaminated clothes, wash skin; gastric lavage if swallowed.\n2. Maintain airway, give oxygen and ventilate if needed.\n3. Atropine IV in repeated doses until atropinisation (dry secretions, rising pulse) – blocks muscarinic effects.\n4. Pralidoxime (cholinesterase reactivator) early, before ageing of the enzyme – helps nicotinic effects.\n5. Diazepam for convulsions; supportive care."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Classify local anaesthetics and write their mechanism of action.",
+      "answer": "1. Esters: cocaine, procaine, chloroprocaine, tetracaine, benzocaine (metabolised by plasma pseudocholinesterase).\n2. Amides: lidocaine, bupivacaine, ropivacaine, prilocaine, dibucaine (metabolised in liver).\n3. Mechanism: block voltage-gated sodium channels from inside the nerve membrane → no action potential → loss of sensation; small pain fibres blocked first.\n4. Adrenaline (1:200,000) added to prolong action and reduce bleeding and toxicity (not in fingers, toes, penis)."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between depolarising and non-depolarising neuromuscular blockers.",
+      "answer": "1. Example: succinylcholine vs d-tubocurarine, vecuronium, atracurium.\n2. Mechanism: persistent depolarisation vs competitive block of NM receptors.\n3. Fasciculations: present vs absent.\n4. Onset/duration: very fast, short (about 5 min) vs slower, longer.\n5. Neostigmine: worsens block vs reverses block.\n6. Metabolism: pseudocholinesterase vs liver/kidney or Hofmann elimination (atracurium).\n7. Special risks: hyperkalaemia, malignant hyperthermia vs histamine release (d-tubocurarine)."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on drugs used in myasthenia gravis.",
+      "answer": "1. Myasthenia gravis: autoimmune loss of nicotinic receptors at the NMJ → fatigable weakness.\n2. Anticholinesterases (mainstay): pyridostigmine, neostigmine; atropine for muscarinic side effects.\n3. Edrophonium for diagnosis (short-acting).\n4. Immunosuppressants: prednisolone, azathioprine.\n5. Crisis: plasmapheresis, IV immunoglobulin; thymectomy.\n6. Avoid aminoglycosides, NM blockers, quinine, β-blockers."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is Dale's vasomotor reversal?",
+      "answer": "After pretreatment with an α-blocker, adrenaline lowers BP instead of raising it, because only its β2-mediated vasodilator action remains."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is paracetamol preferred over aspirin in children with fever?",
+      "answer": "Aspirin given to children with viral fever can cause Reye's syndrome (liver damage and encephalopathy); paracetamol does not, and it does not irritate the stomach."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define and classify mydriatics. Write their uses, adverse effects and contraindications.",
+      "answer": "1. Mydriatics are drugs that dilate the pupil.\n2. Anticholinergics (mydriasis + cycloplegia): atropine (7–10 days), homatropine (1–3 days), cyclopentolate (about 1 day), tropicamide (4–6 hours) – block M3 receptors in sphincter pupillae and ciliary muscle.\n3. Sympathomimetics (mydriasis without cycloplegia): phenylephrine, ephedrine – stimulate α1 receptors of dilator pupillae.\n4. Uses: fundus examination (tropicamide ± phenylephrine), refraction in children (atropine, cyclopentolate), iritis and iridocyclitis (atropine – rests eye, breaks synechiae alternating with miotics), before and after eye surgery.\n5. Adverse effects: blurred vision, photophobia, rise in IOP and angle-closure glaucoma, allergy, systemic atropine toxicity in children; phenylephrine 10% raises BP.\n6. Contraindications: angle-closure glaucoma or shallow anterior chamber; caution in elderly and infants."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is glaucoma? Classify drugs used in glaucoma with their mechanism of action.",
+      "answer": "1. Glaucoma: optic nerve damage, usually with raised intraocular pressure, causing progressive visual field loss; types – open-angle (chronic) and angle-closure (acute).\n2. Prostaglandin analogues (latanoprost, travoprost, bimatoprost) – ↑ uveoscleral outflow; once daily; iris darkening.\n3. β-blockers (timolol, betaxolol) – ↓ aqueous production; avoid in asthma.\n4. α2 agonists (brimonidine, apraclonidine) – ↓ production, ↑ outflow.\n5. Carbonic anhydrase inhibitors – topical dorzolamide, brinzolamide; oral/IV acetazolamide – ↓ aqueous formation.\n6. Miotics (pilocarpine) – ↑ trabecular outflow; acute angle-closure.\n7. Sympathomimetics (dipivefrine) – ↑ outflow.\n8. Osmotic agents (mannitol IV, glycerol oral) – draw fluid out of the eye in emergencies."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the drug treatment of acute angle-closure glaucoma.",
+      "answer": "1. It is an emergency with sudden painful red eye, haloes and vomiting due to blocked angle.\n2. Acetazolamide IV/oral to reduce aqueous formation.\n3. Mannitol 20% IV (or oral glycerol) for rapid fall of IOP.\n4. Pilocarpine 2% drops once IOP starts falling – pulls iris from the angle.\n5. Timolol and other topical drugs.\n6. Analgesics and antiemetics.\n7. Definitive treatment: laser peripheral iridotomy or surgical iridectomy; prophylactic treatment of the other eye.\n8. Avoid atropine and other mydriatics."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Define miotics. Write the uses of pilocarpine.",
+      "answer": "1. Miotics are drugs that constrict the pupil (pilocarpine, carbachol, physostigmine).\n2. Uses of pilocarpine: acute angle-closure glaucoma (and some open-angle); to reverse mydriasis after eye examination; alternately with mydriatics to break adhesions in iritis; orally for dry mouth (Sjögren's syndrome).\n3. Adverse effects: brow ache, dim vision, myopia due to accommodation spasm."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Differentiate between atropine and tropicamide as mydriatics.",
+      "answer": "1. Duration: atropine 7–10 days vs tropicamide 4–6 hours.\n2. Cycloplegia: strong and long vs weak and short.\n3. Use: refraction in young children and iritis vs fundus examination in adults.\n4. Systemic toxicity in children: more with atropine.\n5. Both are anticholinergic and contraindicated in angle-closure glaucoma."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the counselling points for using eye drops.",
+      "answer": "1. Wash hands; tilt head back and pull down the lower lid.\n2. Instil one drop into the lower lid pocket without touching the dropper to the eye.\n3. Close the eye and press the inner corner for 1–2 minutes (reduces systemic absorption).\n4. Wait at least 5 minutes between two different drops.\n5. Discard multi-dose drops as directed after opening (usually about 4 weeks).\n6. Do not drive until vision clears after mydriatics."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is cycloplegia?",
+      "answer": "Paralysis of the ciliary muscle causing loss of accommodation (inability to focus on near objects), produced by anticholinergic drugs such as atropine."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two mydriatics that do not cause cycloplegia.",
+      "answer": "Phenylephrine and ephedrine (sympathomimetics acting on α1 receptors of the dilator pupillae)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antiepileptic drugs. Write the mechanism of action, uses and adverse effects of phenytoin.",
+      "answer": "1. Classification: hydantoins (phenytoin, fosphenytoin); barbiturates (phenobarbitone, primidone); iminostilbenes (carbamazepine, oxcarbazepine); succinimide (ethosuximide); valproate; benzodiazepines (diazepam, lorazepam, clonazepam, clobazam); newer (lamotrigine, levetiracetam, topiramate, gabapentin, lacosamide).\n2. Phenytoin mechanism: prolongs inactivation of voltage-gated sodium channels → prevents repetitive firing and spread of seizure.\n3. Uses: generalised tonic–clonic and focal seizures; status epilepticus (after benzodiazepine, IV phenytoin/fosphenytoin); not effective in absence seizures.\n4. Adverse effects: gum hypertrophy, hirsutism, coarse facies, ataxia, nystagmus, diplopia, megaloblastic anaemia, osteomalacia, rashes, enzyme induction, teratogenicity (foetal hydantoin syndrome).\n5. Zero-order kinetics at higher doses – monitor blood levels; do not stop suddenly."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify opioid analgesics. Describe the pharmacological actions, uses and adverse effects of morphine.",
+      "answer": "1. Classification: natural (morphine, codeine); semisynthetic (heroin, pholcodine); synthetic (pethidine, fentanyl, methadone, tramadol); agonist-antagonists (pentazocine, buprenorphine); antagonists (naloxone, naltrexone).\n2. Actions (µ receptors): analgesia, euphoria, sedation, respiratory depression, cough suppression, miosis, nausea and vomiting (CTZ), constipation, biliary spasm, urinary retention, histamine release.\n3. Uses: severe pain (MI, cancer, post-operative, trauma), acute left ventricular failure, pre-anaesthetic medication, cough (codeine), diarrhoea, opioid dependence (methadone).\n4. Adverse effects: nausea, vomiting, constipation, respiratory depression, hypotension, urinary retention, tolerance and dependence; withdrawal syndrome.\n5. Contraindications: head injury, asthma, hypothyroidism, liver failure, infants and elderly, acute abdomen undiagnosed.\n6. Poisoning: coma, pin-point pupils, respiratory depression – naloxone IV."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antipsychotic drugs. Write their mechanism of action, uses and adverse effects.",
+      "answer": "1. Typical: phenothiazines (chlorpromazine, trifluoperazine, fluphenazine), butyrophenones (haloperidol), thioxanthenes (flupenthixol).\n2. Atypical: clozapine, risperidone, olanzapine, quetiapine, aripiprazole, ziprasidone, amisulpride.\n3. Mechanism: typicals block dopamine D2 receptors in mesolimbic pathway; atypicals block D2 and 5-HT2A.\n4. Uses: schizophrenia, mania and bipolar disorder, agitation and delirium, nausea and vomiting (prochlorperazine), intractable hiccups, Tourette's syndrome; depot injections for poor adherence.\n5. Adverse effects: extrapyramidal – acute dystonia, parkinsonism, akathisia, tardive dyskinesia; neuroleptic malignant syndrome; hyperprolactinaemia; anticholinergic effects; postural hypotension; weight gain, diabetes and dyslipidaemia (atypicals); agranulocytosis (clozapine); QT prolongation."
+    },
+    {
+      "id": "u4-l04",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify sedative-hypnotics. Write the mechanism of action, uses and adverse effects of benzodiazepines.",
+      "answer": "1. Classification: benzodiazepines (nitrazepam, temazepam, diazepam, alprazolam, lorazepam, clonazepam); barbiturates (phenobarbitone, thiopentone); Z drugs (zolpidem, zopiclone); melatonin agonists (ramelteon); others (chloral hydrate, sedating antihistamines).\n2. Mechanism: bind BZD site on GABA-A receptor → ↑ frequency of Cl− channel opening → more inhibition; need GABA, hence safer than barbiturates.\n3. Uses: anxiety, insomnia, status epilepticus (diazepam, lorazepam IV), muscle spasm, premedication and sedation for procedures (midazolam), alcohol withdrawal (chlordiazepoxide), panic disorder.\n4. Adverse effects: drowsiness, hangover, impaired driving, amnesia, falls in elderly, tolerance and dependence, withdrawal; respiratory depression with alcohol.\n5. Antidote: flumazenil."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between tricyclic antidepressants and SSRIs.",
+      "answer": "1. Examples: imipramine, amitriptyline vs fluoxetine, sertraline, escitalopram.\n2. Mechanism: block reuptake of NA and 5-HT vs selectively 5-HT.\n3. Side effects: anticholinergic, sedation, postural hypotension, arrhythmias vs nausea, insomnia, sexual dysfunction.\n4. Overdose: dangerous (cardiac) vs relatively safe.\n5. Use: second-line, neuropathic pain vs first-line for depression, anxiety, OCD.\n6. Both take 2–4 weeks for antidepressant effect."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the stages of general anaesthesia.",
+      "answer": "1. Stage I – analgesia: from start of inhalation to loss of consciousness.\n2. Stage II – delirium/excitement: unconscious, irregular breathing, struggling, vomiting risk; should be passed quickly.\n3. Stage III – surgical anaesthesia: regular breathing, muscle relaxation, loss of reflexes; four planes; surgery done here.\n4. Stage IV – medullary paralysis: respiratory and vasomotor failure → death if not reversed.\n(Seen clearly with ether; modern agents pass them rapidly.)"
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on nootropic agents.",
+      "answer": "1. Drugs claimed to improve memory and cognition, mainly in dementia.\n2. Cholinesterase inhibitors – donepezil, rivastigmine, galantamine – mild to moderate Alzheimer's disease.\n3. NMDA antagonist – memantine – moderate to severe Alzheimer's.\n4. Others – piracetam, citicoline, ginkgo (benefit uncertain).\n5. Adverse effects of cholinesterase inhibitors: nausea, diarrhoea, bradycardia, cramps."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Classify centrally acting skeletal muscle relaxants and give their uses.",
+      "answer": "1. GABA-B agonist: baclofen.\n2. Benzodiazepines: diazepam.\n3. Central α2 agonist: tizanidine.\n4. Mephenesin-type: chlorzoxazone, methocarbamol, carisoprodol.\n5. Others: thiocolchicoside, tolperisone.\n6. Uses: painful muscle spasm (with NSAIDs), spasticity in cerebral palsy, multiple sclerosis and spinal injury, tetanus.\n7. Adverse effects: drowsiness, weakness, dizziness."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the antidotes for morphine and benzodiazepine poisoning.",
+      "answer": "Naloxone for morphine (opioid) poisoning; flumazenil for benzodiazepine poisoning."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the cheese reaction?",
+      "answer": "A hypertensive crisis in patients taking MAO inhibitors who eat tyramine-rich foods such as cheese, because tyramine is not broken down and releases noradrenaline."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antihypertensive drugs. Write the mechanism of action, uses and adverse effects of ACE inhibitors.",
+      "answer": "1. Classification: diuretics (hydrochlorothiazide, chlorthalidone, furosemide, spironolactone); ACE inhibitors (captopril, enalapril, ramipril, lisinopril); ARBs (losartan, telmisartan); renin inhibitor (aliskiren); CCBs (amlodipine, nifedipine, verapamil, diltiazem); β-blockers (atenolol, metoprolol); α+β blockers (labetalol, carvedilol); α1 blockers (prazosin); central α2 agonists (clonidine, methyldopa); vasodilators (hydralazine, minoxidil, sodium nitroprusside).\n2. ACE inhibitors – mechanism: block angiotensin-converting enzyme → ↓ angiotensin II (less vasoconstriction and aldosterone) and ↑ bradykinin → fall in BP.\n3. Uses: hypertension (especially with diabetes or kidney disease), heart failure, after myocardial infarction, diabetic nephropathy.\n4. Adverse effects: dry cough, angioedema, hyperkalaemia, first-dose hypotension, taste disturbance (captopril), rise in creatinine in renal artery stenosis.\n5. Contraindications: pregnancy, bilateral renal artery stenosis, history of angioedema, hyperkalaemia."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antianginal drugs. Describe the mechanism of action, uses and adverse effects of nitrates.",
+      "answer": "1. Classification: nitrates (glyceryl trinitrate, isosorbide dinitrate, isosorbide mononitrate); β-blockers (atenolol, metoprolol); CCBs (amlodipine, diltiazem, verapamil); K+ channel opener (nicorandil); others (ranolazine, ivabradine, trimetazidine); plus antiplatelets and statins.\n2. Nitrates – mechanism: release nitric oxide → ↑ cGMP → smooth muscle relaxation; mainly venodilation → ↓ preload → ↓ cardiac work and O2 demand; also coronary dilatation and relief of spasm.\n3. Uses: GTN sublingual (0.5 mg) to abort an angina attack or before exertion; long-acting nitrates for prophylaxis; IV GTN in unstable angina, acute heart failure, hypertensive emergency.\n4. Adverse effects: throbbing headache, flushing, dizziness, postural hypotension, reflex tachycardia, tolerance (needs nitrate-free interval).\n5. Contraindications: with sildenafil/tadalafil, hypotension, raised intracranial pressure.\n6. Storage: airtight glass bottle, away from heat and light."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify drugs used in congestive heart failure. Write the mechanism of action and toxicity of digoxin.",
+      "answer": "1. Drugs that reduce mortality: ACE inhibitors/ARBs/sacubitril–valsartan, β-blockers (carvedilol, metoprolol, bisoprolol), aldosterone antagonists (spironolactone), SGLT2 inhibitors (dapagliflozin).\n2. Diuretics: furosemide, thiazides – relieve congestion.\n3. Inotropes: digoxin; dobutamine, dopamine; milrinone.\n4. Vasodilators: nitrates, hydralazine.\n5. Digoxin mechanism: inhibits Na+/K+ ATPase → ↑ intracellular Na+ → less Ca2+ extrusion via Na+/Ca2+ exchanger → more Ca2+ for contraction (positive inotropy); vagal action slows heart rate and AV conduction.\n6. Uses: heart failure with atrial fibrillation; symptom relief in severe failure.\n7. Toxicity: anorexia, nausea, vomiting, diarrhoea, arrhythmias (bigeminy, heart block), yellow vision, confusion; worsened by hypokalaemia, renal failure, amiodarone, verapamil.\n8. Treatment: stop drug, correct potassium, treat arrhythmia, digoxin-specific Fab antibodies."
+    },
+    {
+      "id": "u5-l04",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify hypolipidaemic drugs. Write the mechanism of action, uses and adverse effects of statins.",
+      "answer": "1. Classification: statins (atorvastatin, rosuvastatin, simvastatin); cholesterol absorption inhibitor (ezetimibe); fibrates (fenofibrate, gemfibrozil); bile acid sequestrants (cholestyramine, colestipol); nicotinic acid; PCSK9 inhibitors (evolocumab); omega-3 fatty acids.\n2. Statins – mechanism: inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis → liver makes more LDL receptors → ↓ LDL.\n3. Effects: large fall in LDL, small fall in TG, small rise in HDL; plaque stabilisation.\n4. Uses: hypercholesterolaemia, prevention of heart attack and stroke in high-risk patients, after MI.\n5. Adverse effects: myalgia, myopathy and rhabdomyolysis (more with fibrates), raised liver enzymes, GI upset; new-onset diabetes (small risk).\n6. Contraindications: pregnancy, active liver disease; short-acting statins given at night."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the drugs used in hypertension of pregnancy and drugs to be avoided.",
+      "answer": "1. Safe: methyldopa (central α2 agonist – long experience), labetalol, nifedipine; hydralazine for severe cases.\n2. Avoid: ACE inhibitors and ARBs (foetal kidney damage, oligohydramnios, defects), diuretics routinely, atenolol (growth restriction), sodium nitroprusside (cyanide).\n3. Severe hypertension/eclampsia: IV labetalol or hydralazine; magnesium sulphate for fits."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Classify antiarrhythmic drugs (Vaughan Williams).",
+      "answer": "1. Class I – Na+ channel blockers: IA quinidine, procainamide; IB lidocaine, mexiletine; IC flecainide, propafenone.\n2. Class II – β-blockers: propranolol, esmolol, metoprolol.\n3. Class III – K+ channel blockers: amiodarone, sotalol, dronedarone.\n4. Class IV – Ca2+ channel blockers: verapamil, diltiazem.\n5. Others: adenosine (PSVT), digoxin, atropine (bradycardia), magnesium sulphate (torsades)."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the drug therapy of shock.",
+      "answer": "1. Hypovolaemic: fluids – normal saline, Ringer lactate, blood, plasma expanders.\n2. Cardiogenic: dobutamine, dopamine, noradrenaline; treat MI.\n3. Septic: fluids, early broad-spectrum antibiotics, noradrenaline, hydrocortisone if refractory.\n4. Anaphylactic: adrenaline 0.5 mg IM (1:1000), oxygen, fluids, antihistamine, hydrocortisone, salbutamol.\n5. General: oxygen, correct acidosis and electrolytes, monitor urine output."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on calcium channel blockers.",
+      "answer": "1. Classification: dihydropyridines (amlodipine, nifedipine, felodipine), non-dihydropyridines (verapamil, diltiazem).\n2. Mechanism: block L-type Ca2+ channels → vasodilatation; verapamil/diltiazem also slow heart rate and AV conduction.\n3. Uses: hypertension, angina (drug of choice in variant angina), PSVT and AF rate control (verapamil, diltiazem).\n4. Adverse effects: ankle oedema, flushing, headache (DHPs); constipation, bradycardia, heart block (verapamil).\n5. Avoid IV verapamil with β-blockers."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why do ACE inhibitors cause dry cough?",
+      "answer": "ACE also breaks down bradykinin; ACE inhibitors allow bradykinin to accumulate in the airways, which causes a dry cough. ARBs do not do this."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two drugs used in hypertensive emergency.",
+      "answer": "Sodium nitroprusside IV infusion and labetalol IV (also IV nitroglycerin)."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anticoagulants. Compare heparin and warfarin.",
+      "answer": "1. Classification: parenteral – unfractionated heparin, LMWH (enoxaparin, dalteparin), fondaparinux, direct thrombin inhibitors (bivalirudin, argatroban); oral – vitamin K antagonists (warfarin, acenocoumarol), DOACs (rivaroxaban, apixaban, dabigatran); in vitro – sodium citrate, EDTA, oxalate.\n2. Comparison (heparin vs warfarin): route IV/SC vs oral; onset immediate vs 2–4 days; acts in vitro yes vs no; mechanism activates antithrombin III (inactivates thrombin and Xa) vs blocks vitamin K epoxide reductase (↓ factors II, VII, IX, X); monitoring aPTT vs PT/INR (2–3); antidote protamine sulphate vs vitamin K1; pregnancy safe vs contraindicated (teratogenic); adverse effects bleeding, HIT, osteoporosis vs bleeding, skin necrosis, many drug interactions.\n3. Uses: DVT and pulmonary embolism, atrial fibrillation, prosthetic valves, acute coronary syndrome (heparin), dialysis and surgery (heparin)."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are haematinics? Write the uses, preparations and adverse effects of iron.",
+      "answer": "1. Haematinics are substances needed for blood formation – iron, vitamin B12, folic acid; erythropoietin stimulates red cell production.\n2. Iron absorption: duodenum as ferrous form; increased by vitamin C, reduced by antacids, tea, phosphates, tetracyclines; transported by transferrin, stored as ferritin.\n3. Oral preparations: ferrous sulphate, fumarate, gluconate, ascorbate, carbonyl iron; dose expressed as elemental iron (about 100–200 mg/day for deficiency); continue about 3 months after Hb normalises.\n4. Parenteral: iron sucrose, ferric carboxymaltose, iron dextran – for intolerance, malabsorption, rapid repletion.\n5. Uses: iron-deficiency anaemia; prophylaxis in pregnancy, infancy, blood loss.\n6. Adverse effects: epigastric pain, nausea, constipation, black stools, metallic taste, tooth staining (liquids); parenteral – anaphylaxis, local pain.\n7. Acute poisoning in children – antidote desferrioxamine."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify antiplatelet drugs. Write their mechanisms and uses.",
+      "answer": "1. COX inhibitor: aspirin (low dose 75–150 mg) – irreversibly blocks platelet thromboxane A2.\n2. P2Y12 (ADP) receptor blockers: clopidogrel, prasugrel, ticagrelor – block ADP-induced aggregation.\n3. GP IIb/IIIa antagonists: abciximab, eptifibatide, tirofiban (IV) – block the final common pathway of aggregation.\n4. PDE inhibitors: dipyridamole, cilostazol – ↑ cAMP.\n5. Uses: prevention of MI and stroke (secondary prevention), acute coronary syndrome, after stents and bypass (dual antiplatelet therapy), TIA, peripheral arterial disease.\n6. Adverse effects: bleeding, GI irritation (aspirin).\n7. Contraindications: active bleeding, peptic ulcer, bleeding disorders."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write a note on thrombolytic drugs.",
+      "answer": "1. Dissolve formed clots by converting plasminogen to plasmin, which digests fibrin.\n2. Drugs: streptokinase, urokinase, alteplase, reteplase, tenecteplase.\n3. Uses: acute MI (as early as possible), acute ischaemic stroke (alteplase after CT), massive pulmonary embolism, blocked catheters.\n4. Adverse effects: bleeding including intracranial; streptokinase – allergy, fever, hypotension.\n5. Contraindications: recent bleeding, haemorrhagic stroke, recent surgery, severe hypertension.\n6. Antidote/antifibrinolytic: tranexamic acid."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the uses and precautions of vitamin B12 and folic acid.",
+      "answer": "1. Vitamin B12 – needs intrinsic factor, absorbed in terminal ileum; uses: pernicious anaemia (lifelong injections), megaloblastic anaemia, neuropathy.\n2. Folic acid – uses: folate-deficiency megaloblastic anaemia, prevention of neural tube defects (before and in early pregnancy), with antiepileptics; folinic acid rescue after methotrexate.\n3. Precaution: folic acid alone in B12 deficiency corrects anaemia but neurological damage progresses."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "What is the antidote for heparin and warfarin? Explain why.",
+      "answer": "1. Heparin – protamine sulphate: a strongly basic protein that combines with strongly acidic heparin to form an inactive complex.\n2. Warfarin – vitamin K1 (phytomenadione): restores synthesis of factors II, VII, IX and X; effect takes hours, so fresh frozen plasma or prothrombin complex is used for serious bleeding.\n3. Monitoring: aPTT for heparin; INR for warfarin."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why do patients on oral iron pass black stools?",
+      "answer": "Unabsorbed iron in the gut forms iron sulphide, which colours the stools black; it is harmless, but patients should be told so it is not mistaken for bleeding."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two drugs that interact with warfarin.",
+      "answer": "Aspirin/NSAIDs and metronidazole increase its effect; rifampicin and phenobarbitone (enzyme inducers) reduce its effect."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify bronchodilators. Write the mechanism of action, uses and adverse effects of salbutamol.",
+      "answer": "1. Classification: β2 agonists – short-acting (salbutamol, terbutaline, levosalbutamol), long-acting (salmeterol, formoterol, indacaterol); anticholinergics – ipratropium, tiotropium; methylxanthines – theophylline, aminophylline, doxofylline; leukotriene antagonists – montelukast, zafirlukast; (adrenaline in emergency).\n2. Salbutamol mechanism: stimulates β2 receptors in bronchial smooth muscle → ↑ cAMP → relaxation; also ↓ mediator release.\n3. Uses: relief of acute asthma attack (inhaler/nebuliser), exercise-induced bronchospasm, COPD, acute severe asthma (nebulised with ipratropium); hyperkalaemia; earlier for premature labour.\n4. Adverse effects: fine tremor, palpitation, tachycardia, hypokalaemia, muscle cramps, headache; tolerance.\n5. Cautions: ischaemic heart disease, hyperthyroidism, diabetes.\n6. Long-acting β2 agonists must always be combined with an inhaled corticosteroid in asthma."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the drug therapy of bronchial asthma including drugs for acute severe asthma.",
+      "answer": "1. Relievers: inhaled SABA (salbutamol) for symptoms.\n2. Controllers: inhaled corticosteroids (budesonide, fluticasone) – most effective; LABA + ICS combinations (formoterol + budesonide); montelukast; long-acting anticholinergic; theophylline; anti-IgE (omalizumab) for severe allergic asthma; cromoglycate for prophylaxis.\n3. Acute severe asthma: oxygen; nebulised salbutamol repeated + ipratropium; systemic steroid (IV hydrocortisone or oral prednisolone); IV magnesium sulphate if poor response; aminophylline with care; ventilation if needed; avoid sedatives.\n4. Counselling: inhaler technique, spacer use, rinse mouth after steroid, avoid triggers, carry reliever."
+    },
+    {
+      "id": "u7-l03",
+      "unit": 7,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define antitussives, expectorants and mucolytics. Classify them with examples.",
+      "answer": "1. Antitussives suppress the cough reflex – opioids (codeine, pholcodine), non-opioids (dextromethorphan, noscapine), sedating antihistamines (chlorpheniramine, diphenhydramine), demulcents (syrups, lozenges, honey).\n2. Expectorants increase the volume of bronchial secretion and make it thinner – potassium iodide, sodium/potassium citrate, ammonium chloride, guaiphenesin, vasaka; steam inhalation.\n3. Mucolytics break down mucus and reduce viscosity – bromhexine, ambroxol, acetylcysteine, carbocisteine, dornase alfa.\n4. Use: antitussives for dry cough only; expectorants and mucolytics for productive cough.\n5. Adverse effects: codeine – constipation, drowsiness, dependence; potassium iodide – iodism; acetylcysteine – bronchospasm when inhaled."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the mechanism of action, uses and toxicity of theophylline.",
+      "answer": "1. Mechanism: inhibits phosphodiesterase → ↑ cAMP; blocks adenosine receptors.\n2. Uses: asthma and COPD not controlled by inhaled drugs (sustained release), aminophylline IV in severe cases, apnoea of prematurity (caffeine).\n3. Narrow therapeutic index – monitor levels.\n4. Toxicity: nausea, vomiting, insomnia, tachycardia, arrhythmias, convulsions.\n5. Levels raised by erythromycin, ciprofloxacin, cimetidine; lowered by smoking, rifampicin."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Why are inhaled corticosteroids preferred in asthma? Mention their adverse effects.",
+      "answer": "1. They suppress airway inflammation – the basic cause of asthma – and are the most effective controllers.\n2. Inhalation gives high lung levels with little systemic absorption, so fewer systemic steroid effects.\n3. Examples: beclomethasone, budesonide, fluticasone.\n4. Adverse effects: oral candidiasis (thrush), hoarseness, sore throat – reduced by rinsing the mouth and using a spacer; growth slowing in children at high doses.\n5. Not used to relieve an acute attack."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on mucolytic agents.",
+      "answer": "1. Drugs that break down mucus and reduce its viscosity.\n2. Bromhexine – breaks mucopolysaccharide fibres.\n3. Ambroxol – metabolite of bromhexine; ↑ surfactant.\n4. Acetylcysteine – free SH group breaks disulphide bonds; also paracetamol antidote.\n5. Dornase alfa – DNase for cystic fibrosis.\n6. Uses: chronic bronchitis, COPD, productive cough with thick sputum; caution in asthma (bronchospasm)."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why should cough suppressants not be used in productive cough?",
+      "answer": "In productive cough, coughing clears sputum from the airways; suppressing it causes retention of secretions and may worsen infection or obstruction."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two leukotriene receptor antagonists.",
+      "answer": "Montelukast and zafirlukast."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anti-ulcer drugs. Write the mechanism of action, uses and adverse effects of proton pump inhibitors.",
+      "answer": "1. Classification: acid secretion reducers – PPIs (omeprazole, pantoprazole, esomeprazole, rabeprazole), H2 blockers (famotidine, cimetidine), anticholinergic (pirenzepine), PG analogue (misoprostol); antacids – systemic (sodium bicarbonate), non-systemic (magnesium hydroxide, aluminium hydroxide, calcium carbonate); ulcer protectives (sucralfate, colloidal bismuth); anti-H. pylori drugs (amoxicillin, clarithromycin, metronidazole, tetracycline).\n2. PPI mechanism: prodrugs activated in acidic parietal cell canaliculus; irreversibly block H+/K+ ATPase (final step of acid secretion) → profound acid suppression.\n3. Uses: peptic ulcer, GERD, H. pylori eradication, NSAID-ulcer prevention, stress ulcers, Zollinger–Ellison syndrome, GI bleeding (IV).\n4. Take 30–60 minutes before breakfast.\n5. Adverse effects: headache, diarrhoea; long use – B12 deficiency, hypomagnesaemia, fractures, enteric infections; omeprazole may reduce clopidogrel effect."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antiemetics. Write the uses of ondansetron and metoclopramide.",
+      "answer": "1. Classification: anticholinergics (hyoscine); H1 antihistamines (promethazine, dimenhydrinate, meclizine, doxylamine); D2 antagonists – prokinetics (metoclopramide, domperidone), neuroleptics (prochlorperazine, chlorpromazine); 5-HT3 antagonists (ondansetron, granisetron, palonosetron); NK1 antagonists (aprepitant); adjuvants (dexamethasone, lorazepam).\n2. Ondansetron blocks 5-HT3 receptors in the gut vagal afferents and CTZ – uses: chemotherapy- and radiotherapy-induced vomiting, post-operative vomiting, gastroenteritis vomiting; adverse effects: headache, constipation, QT prolongation.\n3. Metoclopramide blocks D2 receptors in CTZ and is prokinetic – uses: vomiting due to drugs and gastritis, migraine, gastroparesis, GERD; adverse effects: extrapyramidal reactions, hyperprolactinaemia, drowsiness.\n4. Motion sickness: hyoscine or H1 antihistamines before travel."
+    },
+    {
+      "id": "u8-l03",
+      "unit": 8,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify laxatives and purgatives. Write their mechanisms, uses and contraindications.",
+      "answer": "1. Bulk-forming: ispaghula, methylcellulose, bran – absorb water and swell, stimulate peristalsis; chronic constipation, IBS, pregnancy.\n2. Stool softeners/lubricants: docusate, liquid paraffin – soften stools; avoid straining.\n3. Stimulant purgatives: bisacodyl, senna, castor oil – stimulate mucosa and nerves; short-term constipation, bowel preparation.\n4. Osmotic: magnesium sulphate, magnesium hydroxide, lactulose, PEG – retain water; bowel cleansing, lactulose in hepatic encephalopathy.\n5. Others: glycerine suppository, enema.\n6. Contraindications: undiagnosed abdominal pain, appendicitis, intestinal obstruction, faecal impaction (bulk agents), magnesium salts in kidney failure; avoid long-term stimulant use."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the composition and principle of WHO low-osmolarity ORS.",
+      "answer": "1. Per litre: sodium chloride 2.6 g, glucose anhydrous 13.5 g, potassium chloride 1.5 g, trisodium citrate dihydrate 2.9 g; osmolarity 245 mOsm/L.\n2. Principle: glucose-coupled sodium transport in the small intestine works even during diarrhoea; water follows sodium.\n3. Citrate corrects acidosis; potassium replaces losses.\n4. Used to prevent and treat dehydration; zinc is added for children."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the triple therapy for Helicobacter pylori eradication.",
+      "answer": "1. PPI (omeprazole/pantoprazole) + amoxicillin + clarithromycin, usually for 14 days.\n2. Metronidazole replaces amoxicillin in penicillin allergy.\n3. Bismuth quadruple therapy (PPI + bismuth + tetracycline + metronidazole) where resistance is common.\n4. Eradication heals ulcers and prevents recurrence."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on antacids.",
+      "answer": "1. Weak bases that neutralise gastric acid and give quick relief.\n2. Sodium bicarbonate – fast, systemic; alkalosis, sodium load, rebound acid.\n3. Magnesium hydroxide – diarrhoea; aluminium hydroxide – constipation, hypophosphataemia; combined to balance.\n4. Calcium carbonate – constipation, hypercalcaemia.\n5. Reduce absorption of tetracyclines, fluoroquinolones, iron, digoxin – give 2 hours apart."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is lactulose used in hepatic encephalopathy?",
+      "answer": "Colon bacteria convert lactulose to acids that acidify the gut; ammonia is converted to non-absorbable ammonium ions and removed in the stools, so less ammonia reaches the brain."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why should loperamide not be used in bloody diarrhoea?",
+      "answer": "By slowing gut movement it holds invasive organisms and toxins in the bowel, which can prolong infection and cause toxic megacolon."
+    },
+    {
+      "id": "u9-l01",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify diuretics. Write the mechanism of action, uses and adverse effects of furosemide.",
+      "answer": "1. Classification: high-efficacy (loop) – furosemide, torsemide, bumetanide; medium-efficacy – thiazides (hydrochlorothiazide), thiazide-like (chlorthalidone, indapamide, metolazone); weak/adjunct – carbonic anhydrase inhibitor (acetazolamide), K+-sparing (spironolactone, eplerenone, amiloride, triamterene), osmotic (mannitol, glycerol).\n2. Furosemide mechanism: inhibits Na+-K+-2Cl− co-transporter in thick ascending limb of loop of Henle → large loss of Na+, Cl−, water; also K+, Ca2+, Mg2+; venodilatation.\n3. Features: high ceiling, rapid onset, short action, works in kidney failure.\n4. Uses: acute pulmonary oedema (IV), oedema of heart failure, nephrotic syndrome and cirrhosis, hypertension with kidney failure, hypercalcaemia, cerebral oedema.\n5. Adverse effects: hypokalaemia, hyponatraemia, hypomagnesaemia, dehydration and hypotension, metabolic alkalosis, hyperuricaemia, hyperglycaemia, ototoxicity, sulpha allergy."
+    },
+    {
+      "id": "u9-l02",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the mechanism of action, uses and adverse effects of thiazide and potassium-sparing diuretics.",
+      "answer": "1. Thiazides (hydrochlorothiazide, chlorthalidone): inhibit Na+-Cl− symporter in early distal tubule; medium efficacy, long action; reduce urinary calcium.\n2. Thiazide uses: hypertension (first-line), mild oedema, nephrogenic diabetes insipidus, calcium kidney stones.\n3. Thiazide adverse effects: hypokalaemia, hyponatraemia, hyperuricaemia, hyperglycaemia, hyperlipidaemia, hypercalcaemia, impotence.\n4. K+-sparing: spironolactone, eplerenone (aldosterone antagonists); amiloride, triamterene (ENaC blockers) – act on late distal tubule and collecting duct; weak natriuresis, retain K+.\n5. Uses: ascites of cirrhosis, heart failure, hyperaldosteronism, with thiazides/loop diuretics to prevent hypokalaemia, resistant hypertension.\n6. Adverse effects: hyperkalaemia (dangerous with ACE inhibitors, K+ supplements, kidney failure), gynaecomastia and menstrual problems (spironolactone)."
+    },
+    {
+      "id": "u9-l03",
+      "unit": 9,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are antidiuretics? Describe the actions and uses of desmopressin and vasopressin.",
+      "answer": "1. Antidiuretics reduce urine volume, mainly ADH (vasopressin) and its analogues; thiazides in nephrogenic DI.\n2. ADH acts on V2 receptors in the collecting duct → aquaporin-2 channels → water reabsorption; V1 receptors → vasoconstriction.\n3. Desmopressin: selective V2 agonist, long-acting; uses – central diabetes insipidus (drug of choice), nocturnal enuresis, nocturia, mild haemophilia A and von Willebrand disease (releases factor VIII).\n4. Desmopressin adverse effects: water retention, hyponatraemia (restrict fluids), nasal irritation.\n5. Vasopressin/terlipressin: V1 action – bleeding oesophageal varices (terlipressin), vasodilatory shock; adverse effects – coronary vasoconstriction, abdominal cramps, hypertension; avoid in ischaemic heart disease.\n6. Thiazides reduce urine volume in nephrogenic DI; amiloride in lithium-induced DI."
+    },
+    {
+      "id": "u9-s01",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Compare loop and thiazide diuretics.",
+      "answer": "1. Site: thick ascending limb vs early distal tubule.\n2. Transporter: Na+-K+-2Cl− vs Na+-Cl−.\n3. Efficacy: high ceiling vs medium ceiling.\n4. Onset/duration: quick, short vs slower, longer.\n5. In kidney failure: effective vs not effective.\n6. Urinary calcium: increased vs decreased.\n7. Main use: oedema, pulmonary oedema vs hypertension.\n8. Common adverse effects: hypokalaemia, hyperuricaemia, hyperglycaemia."
+    },
+    {
+      "id": "u9-s02",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the uses and contraindications of mannitol.",
+      "answer": "1. Osmotic diuretic; filtered, not reabsorbed; holds water in tubules; given IV.\n2. Uses: raised intracranial pressure (cerebral oedema), acute glaucoma, maintaining urine flow in impending acute kidney injury.\n3. Adverse effects: fluid overload, pulmonary oedema, headache, electrolyte imbalance.\n4. Contraindications: congestive heart failure, pulmonary oedema, established anuria, active intracranial bleeding."
+    },
+    {
+      "id": "u9-s03",
+      "unit": 9,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the uses and adverse effects of acetazolamide.",
+      "answer": "1. Carbonic anhydrase inhibitor; ↓ HCO3− and Na+ reabsorption in proximal tubule; weak, self-limiting diuresis.\n2. Uses: glaucoma, acute mountain sickness, some epilepsies, urine alkalinisation.\n3. Adverse effects: metabolic acidosis, hypokalaemia, kidney stones, paraesthesia, drowsiness, sulpha allergy."
+    },
+    {
+      "id": "u9-v01",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why are loop diuretics and aminoglycosides not given together?",
+      "answer": "Both are ototoxic (and the combination adds to kidney damage), so together they increase the risk of permanent hearing loss."
+    },
+    {
+      "id": "u9-v02",
+      "unit": 9,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why should diuretics be taken in the morning?",
+      "answer": "So that the increased urine flow occurs during the day and does not disturb sleep with night-time urination."
+    },
+    {
+      "id": "u10-l01",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify insulin preparations. Write the uses and adverse effects of insulin.",
+      "answer": "1. Insulin from β-cells of islets of Langerhans; lowers blood glucose by ↑ glucose uptake (GLUT4), glycogen and fat synthesis, ↓ hepatic glucose output; moves K+ into cells.\n2. Rapid-acting: lispro, aspart, glulisine (onset 10–20 min).\n3. Short-acting: regular (soluble) insulin – onset 30–60 min, 6–8 h; the standard insulin given IV (NPH and long-acting forms are never given IV).\n4. Intermediate: NPH (isophane) – 12–18 h.\n5. Long-acting: glargine, detemir, degludec – about 24 h, peakless.\n6. Premixed: 30/70.\n7. Uses: type 1 diabetes, diabetic ketoacidosis (IV regular insulin), type 2 not controlled by oral drugs, surgery and acute illness, gestational diabetes, hyperkalaemia (with glucose).\n8. Adverse effects: hypoglycaemia (treat with glucose or glucagon), weight gain, lipodystrophy (rotate sites), allergy, hypokalaemia.\n9. Storage: 2–8 °C, do not freeze."
+    },
+    {
+      "id": "u10-l02",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify oral hypoglycaemic agents. Write the mechanism of action, uses and adverse effects of metformin and sulphonylureas.",
+      "answer": "1. Classification: biguanide (metformin); sulphonylureas (glibenclamide, glipizide, gliclazide, glimepiride); meglitinides (repaglinide); thiazolidinedione (pioglitazone); α-glucosidase inhibitors (acarbose, voglibose); DPP-4 inhibitors (sitagliptin, vildagliptin); SGLT2 inhibitors (dapagliflozin, empagliflozin).\n2. Metformin: ↓ hepatic glucose production, ↑ insulin sensitivity; no insulin release, no hypoglycaemia alone, no weight gain; first-line in type 2; adverse effects – GI upset, metallic taste, B12 deficiency, rare lactic acidosis; avoid in severe kidney/liver failure, hypoxia, before contrast.\n3. Sulphonylureas: close K-ATP channels on β-cells → ↑ insulin release; need functioning β-cells; uses – type 2 diabetes; adverse effects – hypoglycaemia (glibenclamide, elderly), weight gain.\n4. Contraindicated in type 1 diabetes and ketoacidosis; insulin preferred in pregnancy."
+    },
+    {
+      "id": "u10-l03",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antithyroid drugs. Write the mechanism of action, uses and adverse effects of carbimazole.",
+      "answer": "1. Thioamides (synthesis inhibitors): carbimazole, methimazole, propylthiouracil.\n2. Ionic inhibitors (block iodide trapping): perchlorate, thiocyanate.\n3. Iodine and iodides: Lugol's iodine, potassium iodide (block release).\n4. Radioactive iodine (131I) – destroys thyroid tissue.\n5. Adjuncts: propranolol.\n6. Carbimazole: prodrug of methimazole; inhibits thyroid peroxidase (oxidation and iodination of tyrosine, coupling); effect after 3–4 weeks.\n7. Uses: Graves' disease, toxic nodular goitre, before surgery or radioiodine.\n8. Adverse effects: rashes, itching, arthralgia, agranulocytosis (report sore throat/fever), liver injury; avoid in first trimester (PTU preferred)."
+    },
+    {
+      "id": "u10-l04",
+      "unit": 10,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the physiological role, clinical uses and adverse effects of glucocorticoids.",
+      "answer": "1. Produced by adrenal cortex (zona fasciculata) under ACTH control.\n2. Physiological role: ↑ gluconeogenesis and blood glucose, protein breakdown, fat redistribution; anti-inflammatory and immunosuppressive; maintain BP; stress response; some salt retention.\n3. Preparations: hydrocortisone, prednisolone, methylprednisolone, dexamethasone, betamethasone; topical and inhaled forms.\n4. Uses: replacement (Addison's disease, adrenal crisis); allergic states (anaphylaxis add-on); asthma and COPD; rheumatoid arthritis, SLE, IBD, nephrotic syndrome; skin and eye inflammation; transplantation; leukaemias, lymphomas; cerebral oedema; foetal lung maturity.\n5. Adverse effects: Cushingoid features, hyperglycaemia, hypertension, osteoporosis, muscle weakness, infections (TB flare), peptic ulcer, cataract, glaucoma, psychosis, growth retardation, adrenal suppression – taper slowly.\n6. Contraindications: active infection, peptic ulcer, diabetes, osteoporosis, psychosis (relative)."
+    },
+    {
+      "id": "u10-s01",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the uses and adverse effects of oxytocin.",
+      "answer": "1. Posterior pituitary hormone; contracts pregnant uterus at term; milk ejection.\n2. Uses: induction and augmentation of labour (IV infusion), prevention and treatment of postpartum haemorrhage, incomplete abortion.\n3. Adverse effects: uterine hyperstimulation, foetal distress, uterine rupture, water intoxication, hypotension (bolus).\n4. Contraindications: cephalopelvic disproportion, malpresentation, foetal distress, placenta praevia."
+    },
+    {
+      "id": "u10-s02",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the clinical uses of oestrogens and progestins.",
+      "answer": "1. Oestrogens: combined oral contraception, menopausal hormone therapy, hypogonadism, atrophic vaginitis.\n2. Progestins: contraception (combined, progestin-only, injectable DMPA, implants, LNG-IUD, emergency levonorgestrel 1.5 mg), dysfunctional uterine bleeding, endometriosis, HRT (endometrial protection), luteal support.\n3. Oestrogen risks: thromboembolism, endometrial cancer (unopposed), breast tenderness; contraindicated in pregnancy, thromboembolism, oestrogen-dependent cancer."
+    },
+    {
+      "id": "u10-s03",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on the physiological role and uses of vitamin D.",
+      "answer": "1. Cholecalciferol formed in skin → calcidiol (liver) → calcitriol (kidney, stimulated by PTH).\n2. Role: ↑ intestinal absorption of Ca2+ and phosphate; bone mineralisation.\n3. Deficiency: rickets (children), osteomalacia (adults).\n4. Uses: rickets, osteomalacia, osteoporosis (with calcium), calcitriol in chronic kidney disease and hypoparathyroidism, calcipotriol in psoriasis.\n5. Excess: hypercalcaemia, kidney stones."
+    },
+    {
+      "id": "u10-s04",
+      "unit": 10,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Compare parathormone and calcitonin.",
+      "answer": "1. Source: parathyroid glands vs thyroid C-cells.\n2. Stimulus: low plasma calcium vs high plasma calcium.\n3. Effect on calcium: raises vs lowers.\n4. Bone: ↑ resorption (continuous) vs ↓ resorption.\n5. Kidney: ↑ Ca2+ reabsorption, ↑ phosphate loss, ↑ calcitriol vs ↑ Ca2+ and phosphate loss.\n6. Uses: teriparatide in osteoporosis vs Paget's disease, hypercalcaemia."
+    },
+    {
+      "id": "u10-v01",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why must corticosteroids not be stopped suddenly after long-term use?",
+      "answer": "Long-term use suppresses the hypothalamic–pituitary–adrenal axis, so the adrenal gland cannot make enough cortisol; sudden stopping can cause acute adrenal insufficiency. The dose must be tapered."
+    },
+    {
+      "id": "u10-v02",
+      "unit": 10,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "How is hypoglycaemia due to insulin treated?",
+      "answer": "Oral glucose or sugar if the patient is conscious; IV 25–50% dextrose or glucagon IM if unconscious."
+    },
+    {
+      "id": "u11-l01",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify H1 antihistamines. Write their pharmacological actions, uses and adverse effects.",
+      "answer": "1. First generation (sedating): highly sedating – diphenhydramine, promethazine, hydroxyzine, dimenhydrinate, doxylamine; moderately – pheniramine, cyproheptadine, meclizine; mildly – chlorpheniramine, triprolidine, cyclizine.\n2. Second generation (non-sedating): cetirizine, levocetirizine, loratadine, desloratadine, fexofenadine, ebastine, bilastine; azelastine and olopatadine (topical).\n3. Actions: competitive H1 block – ↓ itching, sneezing, capillary leak, vasodilatation; first generation also sedative, anticholinergic, antiemetic, local anaesthetic.\n4. Uses: allergic rhinitis, urticaria, pruritus, allergic conjunctivitis, add-on in anaphylaxis (after adrenaline), motion sickness, vomiting of pregnancy (doxylamine), insomnia, cough mixtures, vertigo.\n5. Adverse effects: sedation and impaired driving, dry mouth, urinary retention, blurred vision, paradoxical excitement in children.\n6. Contraindications: driving, glaucoma, prostate enlargement (first generation)."
+    },
+    {
+      "id": "u11-l02",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the physiological and pathological role of histamine.",
+      "answer": "1. Formation: decarboxylation of histidine; stored in mast cells and basophils, gastric ECL cells, brain neurons.\n2. Release: allergic (IgE) reactions, tissue injury, drugs (morphine, d-tubocurarine, vancomycin).\n3. H1 effects: bronchoconstriction, gut contraction, vasodilatation and ↑ capillary permeability, fall in BP, itching and pain; wakefulness.\n4. H2 effects: gastric acid secretion, ↑ heart rate and force.\n5. H3: presynaptic inhibition in brain; H4: chemotaxis.\n6. Triple response of Lewis – red spot, flare, wheal.\n7. Pathological role: urticaria, allergic rhinitis, angioedema, anaphylaxis, part of asthma; acid in peptic ulcer.\n8. Inactivated by diamine oxidase and N-methyltransferase."
+    },
+    {
+      "id": "u11-l03",
+      "unit": 11,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the physiological role of prostaglandins and the clinical uses of prostaglandin analogues.",
+      "answer": "1. Formation: arachidonic acid (from phospholipids by phospholipase A2) → COX-1/COX-2 → PGs, TXA2, PGI2; lipoxygenase → leukotrienes.\n2. Roles: stomach – ↓ acid, ↑ mucus and bicarbonate (cytoprotection); platelets – TXA2 aggregates, PGI2 prevents aggregation; kidney – renal blood flow; uterus – contraction, cervical ripening; inflammation – pain, fever, swelling; ductus arteriosus kept open; eye – aqueous outflow.\n3. Uses of analogues: misoprostol – NSAID ulcer prevention, medical abortion with mifepristone, PPH; dinoprostone – cervical ripening, labour induction; carboprost – PPH; alprostadil – patent ductus in newborn, erectile dysfunction; latanoprost – glaucoma; epoprostenol – pulmonary hypertension.\n4. Adverse effects: diarrhoea, cramps, fever, flushing; misoprostol contraindicated in pregnancy when used for ulcers."
+    },
+    {
+      "id": "u11-s01",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between first- and second-generation antihistamines.",
+      "answer": "1. Examples: chlorpheniramine, promethazine vs cetirizine, fexofenadine.\n2. Brain entry: yes vs very little.\n3. Sedation: marked vs minimal.\n4. Anticholinergic effects: present vs absent.\n5. Antiemetic/motion sickness: useful vs not useful.\n6. Duration: short vs long (once daily).\n7. Use: night-time, motion sickness vs daytime allergy."
+    },
+    {
+      "id": "u11-s02",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the physiological role of 5-HT and the uses of 5-HT antagonists.",
+      "answer": "1. 5-HT formed from tryptophan; 90% in gut enterochromaffin cells, also platelets and brain.\n2. Roles: ↑ gut motility, platelet aggregation, vasoconstriction/dilatation; mood, sleep, appetite, vomiting.\n3. Ondansetron (5-HT3): chemotherapy, radiotherapy and post-operative vomiting.\n4. Cyproheptadine (5-HT2 + H1): allergy, carcinoid diarrhoea, serotonin syndrome.\n5. Ketanserin: hypertension; pizotifen: migraine prophylaxis; atypical antipsychotics block 5-HT2A."
+    },
+    {
+      "id": "u11-s03",
+      "unit": 11,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the drug treatment of migraine.",
+      "answer": "1. Mild attack: paracetamol, aspirin, ibuprofen + antiemetic (metoclopramide/domperidone).\n2. Moderate–severe attack: triptans (sumatriptan, 5-HT1B/1D agonists); ergotamine (older).\n3. Prophylaxis: propranolol, flunarizine, amitriptyline, topiramate, valproate, pizotifen.\n4. Triptans contraindicated in ischaemic heart disease and uncontrolled hypertension."
+    },
+    {
+      "id": "u11-v01",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the triple response of Lewis?",
+      "answer": "On injecting histamine into the skin: a red spot (local capillary dilatation), a flare (spreading redness by axon reflex) and a wheal (swelling from increased capillary permeability)."
+    },
+    {
+      "id": "u11-v02",
+      "unit": 11,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define autocoids with examples.",
+      "answer": "Locally acting chemical substances (local hormones) produced by many tissues and acting near their site of formation, e.g. histamine, 5-HT, prostaglandins, leukotrienes, bradykinin."
+    },
+    {
+      "id": "u12-l01",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify penicillins. Write the mechanism of action, uses and adverse effects of penicillins.",
+      "answer": "1. Natural: penicillin G (benzylpenicillin), benzathine and procaine penicillin.\n2. Semisynthetic: acid-resistant (penicillin V); penicillinase-resistant (cloxacillin, flucloxacillin); extended-spectrum (ampicillin, amoxicillin); antipseudomonal (piperacillin, carbenicillin); with β-lactamase inhibitors (amoxicillin–clavulanate, ampicillin–sulbactam, piperacillin–tazobactam).\n3. Mechanism: bind penicillin-binding proteins and inhibit transpeptidation of peptidoglycan → defective cell wall → lysis; bactericidal.\n4. Uses: streptococcal infections, syphilis, rheumatic fever prophylaxis (benzathine), respiratory and urinary infections, otitis media (amoxicillin), H. pylori eradication, staphylococcal infections (cloxacillin), serious hospital infections (piperacillin–tazobactam).\n5. Adverse effects: hypersensitivity (rash to anaphylaxis), diarrhoea, superinfection, ampicillin rash, convulsions at high doses, Jarisch–Herxheimer reaction.\n6. Contraindication: penicillin allergy; probenecid prolongs action."
+    },
+    {
+      "id": "u12-l02",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify anti-tubercular drugs. Write the mechanism of action and adverse effects of first-line drugs.",
+      "answer": "1. First-line: isoniazid (H), rifampicin (R), pyrazinamide (Z), ethambutol (E), streptomycin (S).\n2. Second-line: levofloxacin, moxifloxacin, bedaquiline, linezolid, delamanid, pretomanid, clofazimine, cycloserine, ethionamide, PAS, amikacin.\n3. Isoniazid – inhibits mycolic acid synthesis; peripheral neuropathy (prevent with pyridoxine), hepatitis.\n4. Rifampicin – inhibits DNA-dependent RNA polymerase; hepatitis, orange-red body fluids, flu-like syndrome, enzyme induction (oral contraceptive failure).\n5. Pyrazinamide – active in acidic intracellular sites; hepatotoxicity, hyperuricaemia, arthralgia.\n6. Ethambutol – inhibits arabinosyl transferase; optic neuritis, red-green colour blindness.\n7. Streptomycin – 30S ribosome; ototoxicity, nephrotoxicity; avoid in pregnancy.\n8. Regimen (NTEP): 2HRZE + 4HRE daily fixed-dose combinations."
+    },
+    {
+      "id": "u12-l03",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the classification, mechanism, uses and adverse effects of fluoroquinolones.",
+      "answer": "1. Quinolone: nalidixic acid. Fluoroquinolones: ciprofloxacin, norfloxacin, ofloxacin, levofloxacin, moxifloxacin, gatifloxacin.\n2. Mechanism: inhibit DNA gyrase (topoisomerase II) and topoisomerase IV → bactericidal.\n3. Uses: urinary tract infections, bacterial diarrhoea (shigella, cholera), typhoid, gonorrhoea, bone and joint infections, respiratory infections (levofloxacin, moxifloxacin), MDR-TB, eye and ear infections.\n4. Adverse effects: GI upset, headache, dizziness, seizures, tendinitis and tendon rupture, cartilage damage in children, QT prolongation, photosensitivity, dysglycaemia, neuropathy.\n5. Interactions: antacids, iron, calcium reduce absorption; ciprofloxacin raises theophylline levels.\n6. Contraindications: pregnancy, lactation, children (unless essential), epilepsy."
+    },
+    {
+      "id": "u12-l04",
+      "unit": 12,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the basic principles of antimicrobial chemotherapy and the problems with the use of antimicrobials.",
+      "answer": "1. Selective toxicity – target present in microbe but not in host (cell wall, 70S ribosome, folate synthesis, DNA gyrase).\n2. Identify the organism (Gram stain, culture and sensitivity); empirical therapy in serious infection after sampling.\n3. Choose drug by spectrum, site of infection, patient factors (age, pregnancy, kidney/liver function, allergy), cost.\n4. Correct dose, route, frequency, duration; complete the course.\n5. Combinations only for resistance prevention (TB, HIV), synergy, mixed or severe infections.\n6. Prophylaxis only where proven.\n7. Problems: toxicity, hypersensitivity, superinfection (Candida, C. difficile), resistance (β-lactamases, altered targets, efflux, gene transfer), masking of infection.\n8. Pharmacist's role: dispense on prescription only, counsel completion, prevent misuse."
+    },
+    {
+      "id": "u12-s01",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the uses and adverse effects of tetracyclines.",
+      "answer": "1. Bind 30S ribosome; bacteriostatic; broad spectrum.\n2. Uses: rickettsial infections (doxycycline – scrub typhus), cholera, chlamydia, atypical pneumonia, acne, brucellosis, leptospirosis, malaria (doxycycline), SIADH (demeclocycline).\n3. Adverse effects: GI upset, oesophageal ulcers, superinfection, teeth discolouration and bone deposition, photosensitivity, liver and kidney toxicity.\n4. Avoid in pregnancy, lactation and children under 8 years; chelate with calcium, iron, antacids."
+    },
+    {
+      "id": "u12-s02",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the mechanism of action and uses of cotrimoxazole.",
+      "answer": "1. Sulfamethoxazole + trimethoprim (5:1).\n2. Sulfamethoxazole inhibits dihydropteroate synthase; trimethoprim inhibits dihydrofolate reductase → sequential blockade of folate synthesis → synergistic, bactericidal.\n3. Uses: urinary and respiratory infections, Pneumocystis pneumonia (treatment and prophylaxis in HIV), toxoplasmosis prophylaxis, shigellosis, nocardiosis.\n4. Adverse effects: rashes, Stevens–Johnson syndrome, crystalluria, haemolysis in G6PD deficiency, megaloblastic anaemia, kernicterus in newborns."
+    },
+    {
+      "id": "u12-s03",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the adverse effects and contraindications of aminoglycosides.",
+      "answer": "1. Ototoxicity – vestibular (streptomycin, gentamicin) and cochlear (amikacin, neomycin), may be permanent.\n2. Nephrotoxicity.\n3. Neuromuscular blockade and respiratory paralysis.\n4. Contraindications: pregnancy, myasthenia gravis, existing hearing loss; dose reduction in kidney failure; avoid with loop diuretics and other nephrotoxic drugs; monitor blood levels."
+    },
+    {
+      "id": "u12-s04",
+      "unit": 12,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the uses of macrolide antibiotics.",
+      "answer": "1. Erythromycin, azithromycin, clarithromycin – 50S inhibitors.\n2. Penicillin-allergic patients (streptococcal pharyngitis, rheumatic fever prophylaxis).\n3. Atypical pneumonia (Mycoplasma, Chlamydia, Legionella).\n4. Whooping cough, diphtheria carriers.\n5. Chlamydial urethritis (azithromycin single dose), trachoma.\n6. Typhoid (azithromycin), H. pylori (clarithromycin), MAC infection."
+    },
+    {
+      "id": "u12-v01",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is pyridoxine given with isoniazid?",
+      "answer": "Isoniazid increases loss of pyridoxine (vitamin B6), which causes peripheral neuropathy; giving pyridoxine prevents it."
+    },
+    {
+      "id": "u12-v02",
+      "unit": 12,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is superinfection?",
+      "answer": "A new infection by organisms resistant to the drug in use (such as Candida or Clostridioides difficile), which occurs when broad-spectrum antimicrobials suppress the normal flora."
+    },
+    {
+      "id": "u13-l01",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antimalarial drugs. Write the uses and adverse effects of chloroquine and primaquine.",
+      "answer": "1. Blood schizonticides: chloroquine, artemisinins (artesunate, artemether), quinine, mefloquine, lumefantrine, sulfadoxine–pyrimethamine, doxycycline.\n2. Tissue schizonticides: primaquine, tafenoquine (radical cure).\n3. Gametocides: primaquine, artemisinins.\n4. Causal prophylactics: primaquine, atovaquone–proguanil.\n5. Chloroquine: inhibits haem polymerase; uses – vivax malaria (drug of choice), amoebic liver abscess, rheumatoid arthritis and lupus (hydroxychloroquine); adverse effects – bitter taste, nausea, itching, headache, retinopathy on long use, cardiotoxicity in overdose.\n6. Primaquine: kills liver hypnozoites and gametocytes; uses – 14-day radical cure of vivax, single-dose gametocide in falciparum; adverse effects – haemolysis in G6PD deficiency, GI upset, methaemoglobinaemia; contraindicated in pregnancy and infants.\n7. Severe malaria: injectable artesunate; falciparum: ACT."
+    },
+    {
+      "id": "u13-l02",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify antineoplastic drugs. Write the common adverse effects of anticancer drugs.",
+      "answer": "1. Alkylating agents: cyclophosphamide, ifosfamide, chlorambucil, melphalan, busulfan; platinum – cisplatin, carboplatin.\n2. Antimetabolites: methotrexate; 6-mercaptopurine; 5-fluorouracil, cytarabine.\n3. Natural products: vincristine, vinblastine; paclitaxel; etoposide, irinotecan; doxorubicin, bleomycin, actinomycin D; L-asparaginase.\n4. Hormones: prednisolone, tamoxifen, letrozole, bicalutamide, leuprolide.\n5. Targeted: imatinib, gefitinib; monoclonal antibodies (rituximab, trastuzumab).\n6. Common adverse effects: bone-marrow suppression, nausea and vomiting, alopecia, mucositis, diarrhoea, infertility, teratogenicity, tumour lysis syndrome, delayed wound healing, second cancers.\n7. Specific: cyclophosphamide – haemorrhagic cystitis; cisplatin – nephrotoxicity; doxorubicin – cardiotoxicity; bleomycin – pulmonary fibrosis; vincristine – neuropathy."
+    },
+    {
+      "id": "u13-l03",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify antifungal drugs. Write the mechanism of action, uses and adverse effects of amphotericin B and azoles.",
+      "answer": "1. Polyenes (amphotericin B, nystatin), azoles (imidazoles – clotrimazole, miconazole, ketoconazole; triazoles – fluconazole, itraconazole, voriconazole), echinocandins (caspofungin), allylamines (terbinafine), flucytosine, griseofulvin, topical agents.\n2. Amphotericin B: binds ergosterol → membrane pores → leakage; fungicidal; uses – systemic mycoses (cryptococcal meningitis, aspergillosis, mucormycosis), kala-azar; adverse effects – infusion reactions, nephrotoxicity, hypokalaemia, anaemia.\n3. Azoles: inhibit fungal CYP450 14α-demethylase → ↓ ergosterol; uses – candidiasis (fluconazole), cryptococcosis, dermatophytes and nail infections (itraconazole), aspergillosis (voriconazole), topical skin/vaginal infections; adverse effects – GI upset, liver injury, drug interactions (enzyme inhibition); ketoconazole – antiandrogen effects."
+    },
+    {
+      "id": "u13-l04",
+      "unit": 13,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify anthelmintics. Write the uses of albendazole, ivermectin and praziquantel.",
+      "answer": "1. Benzimidazoles: albendazole, mebendazole.\n2. Pyrantel pamoate, piperazine.\n3. Ivermectin, diethylcarbamazine.\n4. Praziquantel, niclosamide.\n5. Albendazole: binds tubulin, blocks glucose uptake; roundworm, hookworm, pinworm, whipworm (400 mg single dose), neurocysticercosis, hydatid disease; National Deworming Day.\n6. Ivermectin: opens glutamate-gated Cl− channels → paralysis; strongyloidiasis, filariasis, onchocerciasis, scabies, head lice.\n7. Praziquantel: ↑ Ca2+ entry → paralysis; tapeworms, schistosomiasis, flukes, neurocysticercosis.\n8. Avoid benzimidazoles in first trimester of pregnancy."
+    },
+    {
+      "id": "u13-s01",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the uses and adverse effects of metronidazole.",
+      "answer": "1. Nitroimidazole; reduced in anaerobes to toxic radicals that damage DNA.\n2. Uses: intestinal amoebiasis and liver abscess, giardiasis, trichomoniasis, anaerobic infections, C. difficile colitis, H. pylori, bacterial vaginosis.\n3. Adverse effects: metallic taste, nausea, headache, dark urine, neuropathy on long use, disulfiram-like reaction with alcohol.\n4. Follow amoebiasis treatment with a luminal agent (diloxanide furoate)."
+    },
+    {
+      "id": "u13-s02",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Write the uses and adverse effects of acyclovir.",
+      "answer": "1. Guanosine analogue activated by viral thymidine kinase; inhibits viral DNA polymerase.\n2. Uses: herpes simplex (genital, labial, encephalitis), varicella and herpes zoster, prophylaxis in immunocompromised patients; valacyclovir is its prodrug.\n3. Adverse effects: headache, nausea; IV – crystalluria and kidney damage (keep hydrated); local irritation."
+    },
+    {
+      "id": "u13-s03",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the basic principles of cancer chemotherapy.",
+      "answer": "1. Drugs kill a fixed fraction of cells each cycle (log-kill) – repeated cycles needed.\n2. Cell-cycle specific (methotrexate, vincristine) and non-specific (alkylating agents) drugs.\n3. Combination chemotherapy with different mechanisms and toxicities.\n4. Intervals between cycles allow marrow recovery.\n5. Supportive care: antiemetics, G-CSF, hydration, allopurinol.\n6. Rapidly dividing normal tissues are affected – marrow, gut, hair, gonads."
+    },
+    {
+      "id": "u13-s04",
+      "unit": 13,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on antiretroviral drugs.",
+      "answer": "1. NRTIs: zidovudine, lamivudine, tenofovir, abacavir – reverse transcriptase chain terminators.\n2. NNRTIs: efavirenz, nevirapine.\n3. Protease inhibitors: lopinavir/ritonavir, atazanavir, darunavir.\n4. Integrase inhibitors: dolutegravir, raltegravir.\n5. Always three-drug combinations; India first-line TLD (tenofovir + lamivudine + dolutegravir).\n6. Uses: HIV treatment, prevention of mother-to-child transmission, post- and pre-exposure prophylaxis.\n7. Adverse effects: anaemia (zidovudine), kidney/bone (tenofovir), rash/liver (nevirapine)."
+    },
+    {
+      "id": "u13-v01",
+      "unit": 13,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is radical cure in vivax malaria and which drug is used?",
+      "answer": "Elimination of dormant liver hypnozoites to prevent relapse; primaquine for 14 days (after testing for G6PD deficiency where possible)."
+    },
+    {
+      "id": "u13-v02",
+      "unit": 13,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is mesna and why is it given?",
+      "answer": "Mesna is a thiol compound that binds acrolein, the toxic metabolite of cyclophosphamide and ifosfamide in the urine, preventing haemorrhagic cystitis."
+    },
+    {
+      "id": "u14-l01",
+      "unit": 14,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define biologicals. Classify them with examples and indications.",
+      "answer": "1. Definition: medicines made by or derived from living organisms (human, animal, microbial cells), usually large complex molecules produced by biotechnology or obtained from blood/tissues.\n2. Vaccines and toxoids – BCG, OPV, MR, hepatitis B, tetanus toxoid – prevention of infections.\n3. Sera, antitoxins, immunoglobulins – anti-snake venom, tetanus and rabies immunoglobulins, anti-D – passive immunity.\n4. Blood products – albumin, clotting factors (haemophilia).\n5. Recombinant proteins – insulin (diabetes), growth hormone, erythropoietin (anaemia of CKD), G-CSF (neutropenia), interferons (hepatitis, multiple sclerosis), alteplase (MI, stroke).\n6. Monoclonal antibodies – rituximab (lymphoma), trastuzumab (HER2 breast cancer), infliximab/adalimumab (rheumatoid arthritis), omalizumab (allergic asthma).\n7. Cell and gene therapies – CAR-T cells, stem cell transplantation, gene therapy.\n8. Features: injectable, need cold chain, may be immunogenic; copies are biosimilars."
+    },
+    {
+      "id": "u14-l02",
+      "unit": 14,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on monoclonal antibodies with examples and their adverse effects.",
+      "answer": "1. Identical antibodies from one cell clone, binding one specific target; made by hybridoma or recombinant technology.\n2. Naming: -ximab chimeric (rituximab, infliximab), -zumab humanised (trastuzumab, bevacizumab, omalizumab), -umab human (adalimumab, denosumab), -cept fusion protein (etanercept).\n3. Examples: rituximab (CD20) – lymphoma, CLL, rheumatoid arthritis; trastuzumab (HER2) – breast cancer; bevacizumab (VEGF) – colorectal cancer; infliximab, adalimumab (TNF-α) – rheumatoid arthritis, Crohn's disease, psoriasis; omalizumab (IgE) – severe allergic asthma; nivolumab (PD-1) – cancers; denosumab (RANKL) – osteoporosis.\n4. Adverse effects: infusion reactions, hypersensitivity, infections and TB reactivation (anti-TNF – screen for TB), cardiotoxicity (trastuzumab), anti-drug antibodies, high cost."
+    },
+    {
+      "id": "u14-l03",
+      "unit": 14,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the differences between small-molecule drugs and biologicals and the pharmacist's role in handling biologicals.",
+      "answer": "1. Source: chemical synthesis vs living cells.\n2. Size and structure: small and fully defined vs large, complex, process-dependent.\n3. Route: often oral vs mostly injection.\n4. Stability: stable vs sensitive to heat, light and shaking (cold chain 2–8 °C).\n5. Immunogenicity: rare vs possible.\n6. Copies: generics (identical) vs biosimilars (highly similar).\n7. Pharmacist's role: maintain cold chain and temperature records; do not freeze unless allowed; do not shake; check batch and expiry; counsel on self-injection and sharps disposal; record batch for traceability; report adverse events (PvPI, AEFI)."
+    },
+    {
+      "id": "u14-s01",
+      "unit": 14,
+      "type": "short",
+      "marks": 3,
+      "probability": "high",
+      "question": "Differentiate between vaccines and antisera (immune sera).",
+      "answer": "1. Vaccines give active immunity; antisera give passive immunity.\n2. Vaccines contain antigens (killed/live organisms, toxoids); antisera contain ready-made antibodies.\n3. Onset: slow (weeks) vs immediate.\n4. Duration: long (years) vs short (weeks).\n5. Use: prevention vs treatment/post-exposure (ASV, tetanus and rabies immunoglobulin).\n6. Risk with animal sera: anaphylaxis and serum sickness."
+    },
+    {
+      "id": "u14-s02",
+      "unit": 14,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write a note on biosimilars.",
+      "answer": "1. A biological product highly similar to an approved reference biological in quality, safety and efficacy, with no clinically meaningful differences.\n2. Not identical copies, because biologicals are made in living cells and depend on the process.\n3. Approved in India under the Guidelines on Similar Biologics (CDSCO and DBT).\n4. Examples: biosimilar insulin glargine, trastuzumab, adalimumab, filgrastim.\n5. Lower cost improves access; switching is a prescriber's decision."
+    },
+    {
+      "id": "u14-s03",
+      "unit": 14,
+      "type": "short",
+      "marks": 3,
+      "probability": "medium",
+      "question": "Write the indications of recombinant growth factors and cytokines.",
+      "answer": "1. Erythropoietin (epoetin, darbepoetin): anaemia of chronic kidney disease and chemotherapy.\n2. G-CSF (filgrastim, pegfilgrastim): neutropenia after chemotherapy, bone-marrow transplantation.\n3. Interferon alfa: chronic hepatitis B (some cases), certain cancers; interferon beta: multiple sclerosis.\n4. Growth hormone (somatropin): growth hormone deficiency.\n5. Adverse effects: hypertension and thrombosis (EPO), bone pain (G-CSF), flu-like illness and depression (interferons)."
+    },
+    {
+      "id": "u14-v01",
+      "unit": 14,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why are live vaccines contraindicated in pregnancy and immunocompromised patients?",
+      "answer": "Live attenuated organisms can multiply and cause disease when immunity is weak, and may harm the foetus."
+    },
+    {
+      "id": "u14-v02",
+      "unit": 14,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is serum sickness?",
+      "answer": "An immune-complex reaction occurring about 7–10 days after giving animal (equine) serum, with fever, rash, joint pain and swollen lymph nodes."
+    }
+  ]
+}
