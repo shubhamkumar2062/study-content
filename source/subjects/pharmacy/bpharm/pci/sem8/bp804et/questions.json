@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the stages of new drug discovery and the drug development process from target identification to marketing approval.",
+      "answer": "1. Drug discovery finds a molecule that may become a medicine; drug development turns it into an approved product. The whole path commonly takes 10–15 years and most molecules fail.\n2. Target identification: receptor, enzyme, ion channel, transporter or nucleic acid linked to the disease, found from disease biology, genomics and proteomics.\n3. Target validation: knock-out animals, siRNA/antisense, blocking antibodies, tool compounds show that acting on the target changes the disease.\n4. Assay development and hit identification: high-throughput screening, natural products, structure-based and computer-aided design, fragment screening, modification of known drugs.\n5. Hit to lead: confirm, rank and test selectivity.\n6. Lead optimisation: SAR for potency and selectivity; solubility and permeability (rule of five); metabolic stability; early safety (hERG, genotoxic alerts).\n7. Candidate selection, then pre-clinical studies under GLP: pharmacology including safety pharmacology core battery, ADME and toxicokinetics, toxicology (acute, repeated dose, genotoxicity, carcinogenicity, reproductive, local tolerance).\n8. Non-clinical activities in parallel: API process, pre-formulation, formulation, analytical methods, stability, clinical supplies under GMP.\n9. IND / clinical trial application to the regulator and ethics committee approval.\n10. Phase I (safety, PK), Phase II (efficacy, dose), Phase III (confirmation).\n11. NDA / marketing application in CTD format → review, inspections → approval.\n12. Phase IV and pharmacovigilance after marketing.\nFlow: Target → Hit → Lead → Candidate → Pre-clinical → IND → Phase I–III → NDA → Approval → Phase IV."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the pre-clinical (non-clinical) studies required before a new drug is given to humans.",
+      "answer": "1. Purpose: show it is reasonably safe to start human trials, find target organs of toxicity and choose a safe starting dose. Safety studies follow Good Laboratory Practice (GLP); ICH M3(R2) links studies to clinical phases; India lists requirements in the NDCT Rules 2019.\n2. Primary pharmacodynamics: effect on the target and in disease models.\n3. Secondary pharmacodynamics: effects on other targets.\n4. Safety pharmacology core battery: cardiovascular (blood pressure, heart rate, ECG, hERG assay for QT), central nervous system, respiratory system (ICH S7A, S7B).\n5. Pharmacokinetics: absorption, distribution, metabolism, excretion; metabolites; enzyme induction/inhibition; protein binding.\n6. Toxicokinetics: exposure in toxicity studies.\n7. Single-dose toxicity: effects after one dose; guides dose selection.\n8. Repeated-dose toxicity: target organs and NOAEL; duration linked to trial duration.\n9. Genotoxicity: Ames test, chromosomal aberration, micronucleus.\n10. Carcinogenicity for long-term drugs; reproductive and developmental toxicity; local tolerance; special studies (immunotoxicity, phototoxicity, dependence).\n11. Use: NOAEL of the most sensitive species → human equivalent dose → safety factor → maximum recommended starting dose for Phase I."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the concept of generic drugs. Compare innovator and generic products and describe the steps in generic drug product development.",
+      "answer": "1. Generic: same active ingredient, dosage form, strength, route and intended use as the innovator (reference) product, shown bioequivalent; marketed after patents and exclusivities end.\n2. Terms: reference listed drug, pharmaceutical equivalents, pharmaceutical alternatives, bioequivalence, therapeutic equivalence, branded generic; biosimilar for biologics.\n3. Comparison: innovator gives full non-clinical and clinical data (NDA 505(b)(1)), long and costly, protected by patent and exclusivity; generic gives quality + BE data (ANDA 505(j)), shorter, cheaper, lower price.\n4. Hatch–Waxman Act 1984: ANDA route, patent term restoration, Paragraph IV certification, 180-day exclusivity.\n5. Development steps: product selection (market, patents, technical difficulty) → characterisation of the reference product → API sourcing with DMF → pre-formulation and formulation (avoid formulation patents) → comparative dissolution (f2 50–100) → pilot BE (optional) → scale-up and exhibit batch under GMP → pivotal BE study (crossover; Cmax, AUC; 90% CI 80.00–125.00%) or biowaiver where allowed → stability → dossier in CTD → approval → life-cycle management.\n6. Challenges: patents, highly variable and narrow therapeutic index drugs, complex products, different country requirements.\n7. Significance: lower cost, wider access, savings; India is a major global supplier of generics."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the phases of clinical trials.",
+      "answer": "1. Phase 0: exploratory micro-dosing in very few volunteers; early PK and target engagement.\n2. Phase I: human pharmacology in small numbers of healthy volunteers (patients for toxic drugs); safety, tolerability, PK, dose range.\n3. Phase II: therapeutic exploratory in patients (up to a few hundred); efficacy, dose finding, short-term safety.\n4. Phase III: therapeutic confirmatory in larger patient groups, often multicentre; confirms efficacy and safety against placebo or standard; main basis for approval.\n5. Phase IV: post-marketing studies and surveillance; rare ADRs, long-term safety, new uses."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are non-clinical activities in drug development? List and explain briefly.",
+      "answer": "Non-clinical activities are development work that is not a study in humans but is needed for approval:\n1. API chemistry: route of synthesis, impurities, polymorphs, salt selection, scale-up.\n2. Pre-formulation: solubility, pKa, log P, stability, excipient compatibility.\n3. Formulation development: trial dosage form, then commercial formula.\n4. Analytical development and method validation (ICH Q2); stability studies (ICH Q1A) for shelf life.\n5. GMP manufacture, labelling and blinding of clinical supplies; packaging development; IP, regulatory planning and project management."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between innovator and generic drug products.",
+      "answer": "1. Data: innovator submits full quality, non-clinical and clinical data; generic submits quality data and bioequivalence and relies on proven safety and efficacy of the reference.\n2. US route: innovator NDA 505(b)(1); generic ANDA 505(j).\n3. Time and cost: innovator often more than a decade and very costly; generic a few years, much cheaper.\n4. Protection: innovator has patents, data and market exclusivity; generic may get 180-day exclusivity in the USA after a successful Paragraph IV challenge.\n5. Price and name: generic usually much cheaper, sold under generic or branded generic name; innovator under trade name."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the Hatch–Waxman Act.",
+      "answer": "1. Drug Price Competition and Patent Term Restoration Act, 1984, USA.\n2. Created the ANDA route under section 505(j): generics show bioequivalence instead of repeating clinical trials.\n3. Patent term restoration for innovators to compensate for time lost in regulatory review.\n4. Patents listed in the Orange Book; generic applicants file Paragraph I–IV certifications; a Paragraph IV challenge can trigger a lawsuit and generally a stay of approval of up to 30 months.\n5. 180-day exclusivity for the first successful Paragraph IV filer; result: rapid growth of generics and lower prices."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe target identification, validation and lead optimisation in drug discovery.",
+      "answer": "1. Target identification: a biological molecule (receptor, enzyme, channel, transporter, nucleic acid) linked to disease, found from genomics, proteomics and disease biology.\n2. Target validation: proving that modulating the target alters the disease (knock-out animals, siRNA, blocking antibodies, tool compounds).\n3. Hits from screening are confirmed and developed into a lead series.\n4. Lead optimisation: chemical changes guided by SAR to improve potency and selectivity, solubility and permeability (rule of five), metabolic stability and half-life, and to reduce early safety risks (hERG, CYP inhibition, genotoxic alerts).\n5. Output: a development candidate with a back-up molecule."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define a generic drug.",
+      "answer": "A product with the same active ingredient, dosage form, strength, route and intended use as an approved innovator (reference) product, shown to be bioequivalent to it, and marketed after patents and exclusivities end."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is NOAEL?",
+      "answer": "No-observed-adverse-effect level: the highest dose in an animal toxicity study at which no adverse effect is seen; used to calculate the safe starting dose for the first human study."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is an Investigational New Drug (IND) application? Describe its types, contents and the IND review process of the US FDA.",
+      "answer": "1. Definition: request to the FDA to give an unapproved drug to humans in a clinical investigation; also an exemption to ship it across state lines. Rules: 21 CFR Part 312.\n2. Types: investigator IND (physician starts and conducts the study), emergency use IND, treatment IND (access for serious diseases while trials continue), commercial IND (company intending to market).\n3. Contents: Form FDA 1571 and table of contents; introductory statement and general investigational plan; Investigator's Brochure; protocols; CMC information; pharmacology and toxicology data; previous human experience; investigator statement Form FDA 1572.\n4. Process: sponsor submits → review by medical, chemistry, pharmacology/toxicology and statistics reviewers → if unsafe, clinical hold; else the IND goes into effect 30 days after FDA receives it (FDA may allow earlier start).\n5. IRB approval of each study is also needed.\n6. Maintenance: protocol amendments, information amendments, IND safety reports (15 days; 7 days for unexpected fatal or life-threatening), annual reports.\n7. Meetings: pre-IND, end-of-Phase-II, pre-NDA.\nFlow chart: IND → 30-day review → clinical hold or proceed → Phase I–III → NDA."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the New Drug Application (NDA) and the Abbreviated New Drug Application (ANDA). Add a note on patent certifications.",
+      "answer": "1. NDA: application to the FDA to market a new drug; must show safety, efficacy, benefit over risk, adequate labelling and manufacturing control. 21 CFR 314; Form FDA 356h.\n2. NDA routes: 505(b)(1) full; 505(b)(2) relies partly on others' data (new salt, dosage form, combination); BLA for biologics.\n3. NDA content in CTD: administrative and labelling; summaries; CMC; non-clinical reports; clinical reports with statistics; patent information; financial disclosure.\n4. NDA review: filing decision within 60 days → discipline review → site inspections, advisory committee → approval letter or complete response letter; goals 10 months standard, 6 months priority.\n5. ANDA (505(j)): generic with same active ingredient, dosage form, strength, route and use as the RLD, same labelling, bioequivalence, full CMC and GMP; no clinical efficacy trials.\n6. ANDA review: filing → BE, chemistry, labelling, microbiology review → inspection → approval or tentative approval (blocked by patent/exclusivity).\n7. Patent certifications: Paragraph I no patent listed; II expired; III will expire on a date; IV invalid or not infringed → patent owner may sue → approval generally stayed up to 30 months → first successful filer gets 180-day exclusivity; section viii statement for carved-out uses.\n8. Table NDA vs ANDA: section, clinical trials, BE role, cost/time, labelling, patent certification."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Give an overview of regulatory authorities of the European Union, Australia, Japan and Canada with their organisation and types of applications.",
+      "answer": "1. EU: EMA (Amsterdam) coordinates; committees CHMP (opinion on human medicines), PRAC, CAT, COMP, PDCO, HMPC; European Commission grants the authorisation; national competent authorities in each member state.\n2. EU procedures: centralised (compulsory for biotech, advanced therapies, orphan and certain new substances; 210 active days + Commission decision within 67 days; valid in all member states; renewal after 5 years), decentralised, mutual recognition, national. Application types: full, generic, hybrid, biosimilar, well-established use, fixed combination, informed consent.\n3. Australia: TGA, Department of Health, Therapeutic Goods Act 1989; products entered on ARTG; registered medicines (AUST R) for higher risk, listed medicines (AUST L) for low risk; applications for new chemical entities, extensions, generics; clinical trials under CTN/CTA schemes.\n4. Japan: MHLW grants approval; PMDA does scientific review, GMP/GCP inspections, consultations and safety; law: PMD Act; applications: new drugs (new ingredient, combination, route, indication, dosage form), generics, OTC; Japan-specific Module 1; bridging data (ICH E5).\n5. Canada: Health Canada (Health Products and Food Branch; Therapeutic Products Directorate, Biologic and Radiopharmaceutical Drugs Directorate); Food and Drugs Act and Regulations; NDS, ANDS, supplements, CTA, DIN application; approval = Notice of Compliance + Drug Identification Number.\n6. Common points: all use the CTD, all are ICH members or observers, all run pharmacovigilance systems."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the categories of changes to an approved NDA / ANDA.",
+      "answer": "Under 21 CFR 314.70 (and 314.97 for ANDAs), changes are classed by their potential effect on identity, strength, quality, purity or potency:\n1. Major change → prior approval supplement (PAS); product may be distributed only after FDA approval. Examples: change in formulation, sterilisation method, API synthesis affecting impurities, new indication.\n2. Moderate change → Supplement–Changes Being Effected in 30 days (CBE-30); distribution 30 days after FDA receipt unless FDA objects. Example: container closure change not affecting quality.\n3. FDA-designated moderate changes → CBE-0: distribution on receipt. Example: adding a specification, strengthening a safety warning.\n4. Minor change → described in the annual report. Examples: compendial updates, equipment of the same design and principle.\n5. FDA guidances (e.g. SUPAC) give the levels and data needed."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on CDSCO: organisation and types of applications.",
+      "answer": "1. CDSCO is India's national regulatory authority under the Directorate General of Health Services, Ministry of Health and Family Welfare; headed by the DCGI, who is the Central Licensing Authority.\n2. Structure: headquarters divisions (new drugs, clinical trials, biologicals, devices, import, pharmacovigilance), zonal, sub-zonal and port offices, central laboratories, Subject Expert Committees; advisory DTAB and DCC; states license manufacture and sale.\n3. Applications: clinical trial of a new drug (CT-04 → permission CT-06); import (CT-18) or manufacture (CT-21) of a new drug for sale; BA/BE studies; ethics committee registration (CT-01 → CT-02); registration and import licences; test licences; joint approval of vaccines, blood products, LVPs, r-DNA products.\n4. Timelines: clinical trial decision in 90 working days; 30 working days for drugs developed in India, with deemed approval.\n5. Online submission through SUGAM; law: D&C Act 1940, Drugs Rules 1945, NDCT Rules 2019."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the organisation of the US FDA.",
+      "answer": "1. Agency of the Department of Health and Human Services, headed by the Commissioner of Food and Drugs.\n2. CDER: prescription, OTC and generic drugs and many therapeutic biologics; Office of New Drugs (NDAs) and Office of Generic Drugs (ANDAs).\n3. CBER: vaccines, blood products, cell and gene therapies.\n4. CDRH: medical devices; CVM: veterinary products; other centres for food and tobacco; field staff for inspections.\n5. Advisory committees of outside experts give non-binding advice. Law: FD&C Act and PHS Act; regulations in 21 CFR. Applications: IND, NDA, ANDA, BLA, supplements, DMFs."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare the centralised, decentralised, mutual recognition and national procedures of the EU.",
+      "answer": "1. Centralised: one application to EMA; CHMP opinion (up to 210 active days) → European Commission decision (within 67 days); one authorisation valid in all member states; compulsory for biotech products, advanced therapies, orphan drugs and certain new substances.\n2. Decentralised: product not yet authorised anywhere in the EU; filed in several states together with one reference member state; leads to national authorisations.\n3. Mutual recognition: product already authorised in one member state; other states recognise that assessment; national authorisations.\n4. National: authorisation in one member state only, by its national competent authority.\n5. All use the CTD; EU authorisations are valid for 5 years and then renewed."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on TGA and PMDA.",
+      "answer": "TGA (Australia):\n1. Part of the Department of Health; Therapeutic Goods Act 1989.\n2. Products must be on the ARTG: registered medicines (AUST R) evaluated fully; listed medicines (AUST L) low risk.\n3. Applications for new chemical entities, extensions of indication, generics; clinical trials via CTN/CTA.\nPMDA (Japan):\n4. Works with MHLW: PMDA reviews applications, inspects GMP/GCP, consults and manages safety; MHLW grants approval; law: PMD Act.\n5. Applications: new drugs, generics, OTC; Japan-specific Module 1 of the CTD; bridging studies (ICH E5)."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is a clinical hold?",
+      "answer": "An order from the FDA to delay a proposed clinical investigation or stop an ongoing one, usually because of safety concerns or inadequate information in the IND."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a Paragraph IV certification?",
+      "answer": "A statement in an ANDA that a patent listed for the reference drug is invalid, unenforceable or will not be infringed by the generic; it may lead to a patent suit and a stay of approval, and the first successful filer may get 180-day exclusivity."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the procedure for export of pharmaceutical products from India and registration in an overseas market.",
+      "answer": "1. Need: no country allows sale without its own registration; importing regulator wants quality, safety/efficacy (BE for generics) and local labelling.\n2. Indian requirements: Importer-Exporter Code from DGFT; RCMC from Pharmexcil; manufacturing licence from the State Licensing Authority; WHO-GMP certificate; COPP from CDSCO in the WHO certification scheme format; free sale and other certificates; export NOC from CDSCO for unapproved drugs where required; NDPS export authorisation for controlled drugs; export labelling and track-and-trace rules of DGFT.\n3. Steps: market selection (demand, patents, route) → appoint local agent/MAH → study registration rules (dossier format, reference product, stability zone, labelling, fees) → prepare dossier (CTD/ACTD/country format) + samples + certificates → submit → queries and possible GMP inspection of the Indian site → registration granted → import permit per shipment → manufacture and QA release → export documents → customs clearance → shipment → post-registration variations, renewals and pharmacovigilance.\n4. Shipping documents: invoice, packing list, shipping bill, bill of lading/airway bill, certificate of origin, certificate of analysis, insurance and payment documents.\n5. Technical dossier: administrative, quality (DMF for API, process validation, specifications, stability in the right climatic zone), non-clinical, clinical (BE); Site Master File.\n6. Tips: check patents, use the accepted reference product, plan stability early, keep one core CTD, be inspection-ready.\nNote: exact documents are set by current DGFT, CDSCO and importing-country rules."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is the Common Technical Document? Describe its modules and explain the electronic CTD (eCTD).",
+      "answer": "1. CTD: internationally agreed format (ICH M4) for organising quality, safety and efficacy data in a registration application; harmonises format, not data requirements; used by USA, EU, Japan, Canada, Australia, UK, India and others.\n2. Module 1: regional administrative and prescribing information (forms, fees, labels, certificates) — not part of the harmonised CTD.\n3. Module 2: summaries — 2.1 contents, 2.2 introduction, 2.3 quality overall summary, 2.4 non-clinical overview, 2.5 clinical overview, 2.6 non-clinical written and tabulated summaries, 2.7 clinical summary.\n4. Module 3: quality — 3.2.S drug substance, 3.2.P drug product, 3.2.A appendices, 3.2.R regional, 3.3 references (M4Q).\n5. Module 4: non-clinical study reports (M4S). Module 5: clinical study reports including BA/BE, PK/PD, efficacy and safety, post-marketing data, CRFs (M4E).\n6. Draw the CTD triangle.\n7. Advantages: one dossier for many countries, less reformatting, easier review, basis for electronic submission.\n8. eCTD: electronic form defined by ICH; fixed folders m1–m5; XML backbone indexing every file; PDF documents with bookmarks and hyperlinks; numbered sequences (0000, 0001…); life-cycle operations new, replace, append, delete; checksums; regional Module 1 specifications; technical validation; versions 3.2.2 and 4.0.\n9. eCTD advantages: faster submission and review, clear life-cycle history, searching and hyperlinks, less paper. FDA requires eCTD for NDAs, ANDAs, BLAs, commercial INDs and master files."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define Drug Master File. Explain its types, contents and how it is used in the US. Mention the equivalents in other regions.",
+      "answer": "1. Definition: confidential, detailed submission to a regulator about facilities, processes or materials used in making a drug component, allowing the holder to protect know-how while the regulator reviews it for a customer's application.\n2. Working: holder files DMF → number allotted → holder gives Letter of Authorisation to the applicant → applicant cites DMF in its ANDA/NDA → FDA reviews the DMF with the application; FDA neither approves nor disapproves DMFs; open (applicant's) and closed (regulator only) parts.\n3. Types: Type I site/facilities (no longer used); Type II drug substance, intermediates, materials, or drug product; Type III packaging; Type IV excipients, colourants, flavours; Type V FDA-accepted reference information.\n4. Type II contents: administrative information and commitment; general information; manufacture (site, synthesis, controls, critical steps, validation); characterisation and impurities; specifications, methods, validation, batch analyses; reference standards; container closure; stability — in CTD 3.2.S format, electronically.\n5. Holder duties: amendments for changes, annual reports, list of authorised customers; GDUFA fee and completeness assessment for Type II DMFs supporting ANDAs.\n6. Equivalents: EU Active Substance Master File (applicant's and restricted parts) or EDQM Certificate of Suitability (CEP); master files in Canada and Japan; WHO prequalification API master file procedure.\n7. Importance for India: large number of US Type II DMFs held by Indian API makers support exports."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the ASEAN Common Technical Dossier (ACTD).",
+      "answer": "1. Registration format agreed by ASEAN member states (e.g. Indonesia, Malaysia, Philippines, Singapore, Thailand, Vietnam); the syllabus calls it the ASEAN Common Technical Document.\n2. Used together with the ASEAN Common Technical Requirements (ACTR), which state the data needed.\n3. Part I: table of contents, administrative data and product information.\n4. Part II quality; Part III non-clinical; Part IV clinical; overviews and summaries placed within each part.\n5. For generics the non-clinical and clinical parts are often not required; quality and BE (where required) are the focus."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between CTD and ACTD.",
+      "answer": "1. Developed by: ICH vs ASEAN.\n2. Organisation: five modules vs four parts.\n3. Summaries: separate Module 2 in CTD; within each part in ACTD.\n4. Administrative data: regional Module 1 vs Part I common to ASEAN with country additions.\n5. Generics: CTD needs quality and BE per region; ACTD often omits non-clinical and clinical parts for generics; CTD has an electronic version (eCTD)."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the technical documents required for registration of an Indian product in an overseas market.",
+      "answer": "1. Administrative: application form, fees, power of attorney for local agent, manufacturing licence, GMP certificate, COPP, free sale certificate, labels and leaflet in local language.\n2. Quality: API information (often via DMF/CEP), composition, pharmaceutical development, manufacturing process and validation, excipient control, specifications and validated methods, container closure.\n3. Stability data at the climatic zone conditions of the importing country.\n4. Non-clinical overview and clinical data — for generics a BE study with the accepted reference product or a biowaiver justification.\n5. Site Master File, batch records, method validation reports, samples and reference standards."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the advantages of the eCTD over paper submissions and list its key technical features.",
+      "answer": "Features:\n1. Folders m1–m5 with an XML backbone indexing every document.\n2. Numbered sequences and life-cycle operations (new, replace, append, delete); checksums; regional Module 1.\nAdvantages:\n3. Faster submission and review; no printing or storage of paper volumes.\n4. Clear history of all versions over the product's life; easier variations and renewals.\n5. Searchable, hyperlinked documents; fewer errors and duplication; technical validation before review."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a Certificate of Pharmaceutical Product (COPP)? Why is it needed for export?",
+      "answer": "1. A certificate in the format of the WHO Certification Scheme on the quality of pharmaceutical products moving in international commerce, issued by the exporting country's competent authority.\n2. States whether the product is licensed in the exporting country (and if not, why), the licence holder and manufacturer, and that the site is regularly inspected and complies with WHO GMP.\n3. In India issued by CDSCO (zonal offices) after WHO-GMP compliance, usually after a joint inspection with the State Licensing Authority.\n4. Needed because many importing regulators cannot inspect foreign sites and rely on it for registration.\n5. Supports trust in Indian exports; current documents and validity are set by CDSCO notices."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a Letter of Authorisation in relation to a DMF?",
+      "answer": "A letter from the DMF holder to the regulator permitting it to refer to the DMF while reviewing a named applicant's application; the applicant cites the DMF number and the letter."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Expand IEC and RCMC.",
+      "answer": "IEC: Importer-Exporter Code (issued by DGFT). RCMC: Registration-cum-Membership Certificate (for pharmaceuticals, issued by Pharmexcil)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the formation and working procedures of an Institutional Review Board / Independent Ethics Committee.",
+      "answer": "1. Definition: independent body of medical, scientific and non-scientific members protecting the rights, safety and well-being of trial subjects by reviewing and approving the protocol, consent documents, investigators and facilities and keeping watch on the trial.\n2. India (NDCT Rules 2019, rule 7): minimum seven members from medical, non-medical, scientific and non-scientific areas with at least one lay person, one woman, one legal expert and one independent member (social scientist, NGO representative, philosopher, ethicist or theologian); at least 50% not affiliated with the institute; non-affiliated chairperson; affiliated member secretary; trained members.\n3. Registration with the Central Licensing Authority: application Form CT-01, registration Form CT-02.\n4. USA (21 CFR 56): at least five members of varied background including a scientist, a non-scientist and a non-affiliated member.\n5. Working: written SOPs; initial review of protocol, IB, consent form in local language, recruitment material, investigator CVs, insurance/compensation; decision in a quorate meeting (approve, modify, disapprove, suspend/terminate); members with conflict of interest withdraw.\n6. Expedited review of minor changes; continuing review (at least yearly in most systems); review of SAEs, deaths and new safety data; opinion on compensation (India); site visits.\n7. Records: membership, SOPs, minutes, correspondence kept for the required period."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the GCP obligations of investigators, sponsors and monitors.",
+      "answer": "1. GCP (ICH E6): international ethical and scientific standard for designing, conducting, recording and reporting trials.\n2. Investigator: qualified, enough time, staff, facilities and subjects; follows approved protocol and documents deviations; obtains ethics approval; obtains informed consent before procedures; gives medical care for AEs; reports SAEs (India: to CLA, sponsor and EC within 24 hours; analysed report within 14 days); drug storage, dispensing and accountability; accurate source documents and CRFs; allows monitoring, audit, inspection; follows randomisation/blinding; progress and final reports; keeps essential documents.\n3. Sponsor: quality management (risk based); selects investigators and sites; obtains regulatory permission; provides and updates IB; supplies GMP investigational product; monitoring and independent audits; data management, statistics, clinical study report; evaluates safety and reports SUSARs; insurance and compensation; registers the trial (CTRI in India); may delegate to a CRO but remains responsible.\n4. Monitor (CRA): link between sponsor and investigator; checks site suitability, consent, source data verification, drug accountability, timely AE reporting, essential documents; writes monitoring reports and follows up.\n5. Conclusion: shared responsibilities protect subjects and ensure credible data."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the informed consent process and procedures. Add a note on safety monitoring (pharmacovigilance) in clinical trials.",
+      "answer": "Informed consent:\n1. Definition: voluntary confirmation of willingness to take part after being told all relevant aspects; documented by signed and dated form; a continuing process.\n2. Elements: research purpose, duration, procedures, chance of random assignment, risks, benefits, alternatives, confidentiality, compensation and treatment for injury, contacts, voluntary participation and right to withdraw, payments, number of subjects, circumstances of termination.\n3. Procedure: approved form in local language → explanation in plain words → time for questions → no pressure → signature of subject/LAR and explaining person; impartial witness for illiterate subjects → copy to subject → re-consent with new information.\n4. Special cases: children (parent consent + assent), incapable subjects (LAR); India: audio-video recording for vulnerable subjects in NCE/NME trials, audio only for anti-HIV and anti-leprosy drugs; Third Schedule checklist.\nSafety monitoring:\n5. Definitions: AE, ADR, serious (death, life-threatening, hospitalisation, disability, congenital anomaly), unexpected, SUSAR.\n6. Process: detect and record → causality and seriousness → expedited report → sponsor assesses expectedness → reports to regulator, ECs and investigators → aggregate review (DSMB, DSUR, IB update) → actions.\n7. Timelines: ICH E2A 7 days for fatal/life-threatening unexpected, 15 days for others; India: SAE within 24 hours, analysed report within 14 days; compensation per Seventh Schedule."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the contents of a clinical trial protocol.",
+      "answer": "1. General information: title, number, version, date; sponsor, monitor, investigators, laboratories.\n2. Background and rationale; objectives (primary, secondary).\n3. Design: endpoints, control, randomisation, blinding, treatment duration, stopping rules, drug accountability, code-breaking.\n4. Subject selection and withdrawal; treatments and concomitant medicines; efficacy and safety assessment, AE reporting.\n5. Statistics (sample size, power, analysis sets, missing data); access to source documents; QC/QA; ethics; data handling and records; finance, insurance, compensation, publication."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the essential elements of an informed consent document.",
+      "answer": "1. Statement that the study is research; its purpose, duration and procedures (identifying experimental ones); chance of random assignment.\n2. Foreseeable risks and discomforts; expected benefits or that there may be none.\n3. Alternative treatments; confidentiality and who may inspect records.\n4. Compensation and medical treatment for trial-related injury; contact persons.\n5. Participation is voluntary; subject may withdraw at any time without penalty; payments, number of subjects, reasons the investigator may end participation."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on managing and monitoring clinical trials.",
+      "answer": "1. Planning: protocol, CRF design, budget, feasibility, site selection, regulator and EC approvals, CTRI registration, insurance.\n2. Start-up: investigator meeting, site initiation, drug supply, randomisation system, training.\n3. Conduct: recruitment and consent, visits, data entry, monitoring visits, safety reporting, amendments, accountability, queries.\n4. Monitoring types: on-site with source data verification, centralised/remote, risk-based; audits by sponsor QA and inspections by regulators; DSMB for large or high-risk trials.\n5. Close-out and reporting: last visit, database lock, unblinding, analysis, clinical study report (ICH E3), archiving of essential documents."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define adverse event, adverse drug reaction, serious adverse event and SUSAR. State the reporting timelines.",
+      "answer": "1. Adverse event: any untoward medical occurrence in a subject given a drug, not necessarily caused by it.\n2. ADR: noxious and unintended response where a causal relationship is at least a reasonable possibility.\n3. Serious: results in death, is life-threatening, requires or prolongs hospitalisation, causes persistent or significant disability, or a congenital anomaly (plus other medically important events).\n4. SUSAR: suspected unexpected serious adverse reaction (not consistent with the IB or label).\n5. Timelines: ICH E2A — 7 calendar days for fatal or life-threatening unexpected ADRs, 15 days for other serious unexpected ADRs; India NDCT Rules — SAE reported within 24 hours by the investigator, analysed report within 14 days."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a Data and Safety Monitoring Board? Distinguish monitoring, audit and inspection.",
+      "answer": "1. DSMB: independent group of experts set up by the sponsor that reviews accumulating safety (and sometimes efficacy) data at intervals and recommends continuing, modifying or stopping a trial.\n2. Monitoring: ongoing oversight of the trial by the sponsor's monitor (CRA), including source data verification.\n3. Audit: systematic, independent check by the sponsor's QA, separate from monitoring.\n4. Inspection: official review of documents, facilities and records by a regulatory authority at the site, sponsor or CRO.\n5. All three aim to protect subjects and ensure reliable data."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the minimum number of members of an ethics committee for clinical trials in India?",
+      "answer": "Seven members (NDCT Rules 2019), including at least a lay person, a woman member, a legal expert and an independent member, with at least half not affiliated with the institute."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is assent?",
+      "answer": "Agreement of a child (or other person not legally able to consent) who can understand, to take part in a trial; obtained in addition to the consent of the parent or legally acceptable representative."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the difference between laws/Acts, regulations, guidelines and guidance with suitable examples. Describe the Federal Register and the Code of Federal Regulations.",
+      "answer": "1. Hierarchy: Act (statute) → regulations/rules → guidelines/guidance.\n2. Act/law: passed by legislature; broad, binding; creates authorities and gives power to make rules. Examples: Drugs and Cosmetics Act 1940; US FD&C Act 1938 (amended 1962, 1984).\n3. Regulations/rules: detailed, binding, made by government/agency under the Act. Examples: Drugs Rules 1945, NDCT Rules 2019; 21 CFR 312, 314, 211. US: notice-and-comment rulemaking; India: draft and final notification in the Gazette.\n4. Guidelines/guidance: recommendations on how to comply; not binding ('should'); FDA guidance = current thinking; ICH Q, S, E, M guidelines; WHO and CDSCO guidance.\n5. Table: maker, binding, detail, ease of change, wording, examples.\n6. Federal Register: official daily journal of the US government, published each federal working day by the Office of the Federal Register with GPO; sections — rules and regulations, proposed rules, notices, presidential documents; preambles explain rules; citation e.g. 65 FR 1776; India equivalent Gazette of India.\n7. CFR: codification of final permanent rules; 50 titles; Title 21 Food and Drugs (Chapter I FDA, parts 1–1299); revised yearly (Title 21 as of 1 April), eCFR updated continuously; citation 21 CFR 312.40.\n8. Key 21 CFR parts: 11, 50, 54, 56, 58, 201, 210/211, 312, 314, 320, 600s.\n9. FR vs CFR: chronological journal with proposals and notices vs subject-wise collection of rules in force."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write a detailed note on the Orange Book and the Purple Book.",
+      "answer": "Orange Book:\n1. Official title 'Approved Drug Products with Therapeutic Equivalence Evaluations', published by FDA (orange cover); online, data files updated monthly.\n2. Contents: approved drug products (NDA, ANDA) under the FD&C Act; therapeutic equivalence evaluations; patents listed by NDA holders; exclusivities; OTC and discontinued lists.\n3. TE codes: 'A' = therapeutically equivalent (AB with BE shown; AA conventional forms without BE problems; AN, AO, AP, AT); 'B' = not considered equivalent (BC, BD, BE, BN, BP, BR, BS, BT, BX).\n4. Uses: generic substitution by pharmacists and states, choosing the RLD, patent certifications (Paragraph I–IV), launch planning.\n5. Exclusivities shown: NCE 5 years; new clinical investigation 3 years; orphan 7 years; paediatric +6 months; first Paragraph IV generic 180 days.\nPurple Book:\n6. FDA's Database of Licensed Biological Products, biologics counterpart of the Orange Book; products licensed under the Public Health Service Act by CDER and CBER.\n7. Contents: reference products (351(a)), biosimilars (351(k)) and interchangeable status, licensure dates, reference product exclusivity expiry, certain patent information.\n8. Uses: identifying biosimilars and interchangeable products for substitution where state law allows, and exclusivity periods.\n9. Comparison table: product type, law, equivalence concept, copies (generic vs biosimilar), patent/exclusivity data."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain basic regulatory terminology used in drug regulation with examples.",
+      "answer": "1. Drug and new drug (D&C Act 1940 definition; NDCT Rules 2019 new drug categories).\n2. Investigational product, API, NCE/NME.\n3. Innovator/reference product, RLD, generic, branded generic.\n4. Biologic, biosimilar, interchangeable product.\n5. Bioavailability, bioequivalence, pharmaceutical and therapeutic equivalence.\n6. Sponsor, applicant, marketing authorisation holder, dossier.\n7. Label vs labelling; SmPC and PIL.\n8. Variation/supplement, renewal; clinical hold; complete response letter; tentative approval.\n9. Orphan drug; patent vs exclusivity.\n10. GxP (GLP, GCP, GMP, GDP, GVP); pharmacovigilance, PSUR/PBRER; regulatory intelligence.\nGive a one-line definition and an example for each in the exam."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between regulations and guidance documents.",
+      "answer": "1. Regulations are made under the authority of an Act and are legally binding; guidance documents are recommendations.\n2. Regulations use 'must/shall'; guidance uses 'should/recommend'.\n3. Regulations are made by formal rulemaking (Federal Register / Gazette, public comment); guidance is issued and revised more easily, often as a draft for comment first.\n4. Alternative approaches to guidance are allowed if justified; regulations must be met.\n5. Examples: 21 CFR 211, NDCT Rules 2019 vs FDA BE guidance, ICH Q1A, CDSCO guidance documents."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the Code of Federal Regulations.",
+      "answer": "1. Codification of the general and permanent rules published in the Federal Register by US federal agencies.\n2. 50 titles; Title 21 Food and Drugs; Chapter I (parts 1–1299) is the FDA.\n3. Structure: title → chapter → subchapter → part → subpart → section; citation 21 CFR 314.70.\n4. Revised once a year (Title 21 as of 1 April); eCFR kept current.\n5. Key parts: 11 e-records, 50 consent, 56 IRB, 58 GLP, 210/211 cGMP, 312 IND, 314 NDA/ANDA, 320 BA/BE, 600s biologics."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is the Orange Book? Explain therapeutic equivalence codes.",
+      "answer": "1. 'Approved Drug Products with Therapeutic Equivalence Evaluations' published by the US FDA.\n2. Lists approved drug products, TE evaluations, patents and exclusivities.\n3. 'A' codes: products considered therapeutically equivalent; AB = BE requirements met; AA = conventional dosage forms with no BE problems; AN, AO, AP, AT for aerosols, oils, parenterals, topicals.\n4. 'B' codes: not considered equivalent (BC, BD, BE, BN, BP, BR, BS, BT, BX).\n5. Used for generic substitution, RLD selection and patent certifications."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the Federal Register.",
+      "answer": "1. Official daily journal of the US government, published every federal working day by the Office of the Federal Register (National Archives) and the Government Publishing Office.\n2. Sections: rules and regulations, proposed rules, notices, presidential documents.\n3. FDA publishes proposed rules for public comment, final rules, notices of guidance, advisory committee meetings and application actions.\n4. Preambles explain the reasons for rules; final rules are later codified in the CFR; citation by volume and page (e.g. 65 FR 1776).\n5. Indian equivalent: Gazette of India (e.g. NDCT Rules 2019 as G.S.R. 227(E))."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the Purple Book.",
+      "answer": "1. FDA's Database of Licensed Biological Products.\n2. Covers biologics licensed under the Public Health Service Act by CDER and CBER.\n3. Lists reference products (351(a)), biosimilars and interchangeable products (351(k)), licensure dates.\n4. Shows reference product exclusivity expiry and certain patent information.\n5. Used to identify biosimilars and interchangeable products for substitution; biologics counterpart of the Orange Book."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the official title of the Orange Book?",
+      "answer": "Approved Drug Products with Therapeutic Equivalence Evaluations, published by the US FDA."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which title of the CFR deals with food and drugs?",
+      "answer": "Title 21 of the Code of Federal Regulations; Chapter I of it contains the FDA's regulations."
+    }
+  ]
+}

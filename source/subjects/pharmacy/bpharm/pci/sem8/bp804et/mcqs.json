@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The correct order of drug discovery stages is:",
+      "options": [
+        "Lead → target → hit → candidate",
+        "Target identification → hit → lead → candidate",
+        "Candidate → lead → hit → target",
+        "Hit → candidate → target → lead"
+      ],
+      "correct": 1,
+      "explanation": "Discovery moves from target to hits, leads and finally a development candidate.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Safety studies in animals that support a clinical trial must follow:",
+      "options": [
+        "Good Distribution Practice",
+        "Good Clinical Practice",
+        "Good Laboratory Practice (GLP)",
+        "Good Pharmacovigilance Practice"
+      ],
+      "correct": 2,
+      "explanation": "Non-clinical safety studies are done under GLP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The safety pharmacology core battery covers:",
+      "options": [
+        "Liver, kidney and skin",
+        "Reproductive, endocrine and immune systems",
+        "Gastrointestinal, musculoskeletal and eye",
+        "Cardiovascular, central nervous and respiratory systems"
+      ],
+      "correct": 3,
+      "explanation": "ICH S7A defines these three vital systems as the core battery.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Phase I clinical trials are usually done in:",
+      "options": [
+        "Small numbers of healthy volunteers",
+        "Thousands of patients",
+        "Animals",
+        "Children only"
+      ],
+      "correct": 0,
+      "explanation": "Phase I studies safety and pharmacokinetics, usually in healthy volunteers.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The Ames test is used to detect:",
+      "options": [
+        "Carcinogenicity in rats",
+        "Gene mutations (genotoxicity)",
+        "Teratogenicity",
+        "Local irritation"
+      ],
+      "correct": 1,
+      "explanation": "It is a bacterial reverse mutation test.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A generic product must be shown to be ______ to the reference product.",
+      "options": [
+        "Identical in colour",
+        "Cheaper by law",
+        "Bioequivalent",
+        "Patented"
+      ],
+      "correct": 2,
+      "explanation": "Bioequivalence is the core requirement for generic approval.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The Hatch–Waxman Act (1984) created the:",
+      "options": [
+        "IND system",
+        "Orange Book TE codes for biologics",
+        "EU centralised procedure",
+        "ANDA route for generic drugs"
+      ],
+      "correct": 3,
+      "explanation": "It set up abbreviated applications, patent term restoration and Paragraph IV.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "A similarity factor (f2) indicating similar dissolution profiles is:",
+      "options": [
+        "50 to 100",
+        "0 to 15",
+        "15 to 50",
+        "Above 125"
+      ],
+      "correct": 0,
+      "explanation": "f2 between 50 and 100 shows the profiles are similar.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Products with the same active ingredient, dosage form, strength and route are called:",
+      "options": [
+        "Pharmaceutical alternatives",
+        "Pharmaceutical equivalents",
+        "Biosimilars",
+        "Therapeutic alternatives"
+      ],
+      "correct": 1,
+      "explanation": "Alternatives differ in salt, ester or dosage form.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "NOAEL from animal studies is mainly used to:",
+      "options": [
+        "Set the selling price",
+        "Choose the brand name",
+        "Calculate a safe starting dose for the first human study",
+        "Decide the patent term"
+      ],
+      "correct": 2,
+      "explanation": "NOAEL → human equivalent dose → safety factor.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "An IND goes into effect, unless a clinical hold is placed, after FDA receipt by:",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
+      ],
+      "correct": 0,
+      "explanation": "21 CFR 312.40.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The FDA form filed by a sponsor as the cover sheet of an IND is:",
+      "options": [
+        "Form FDA 1572",
+        "Form FDA 1571",
+        "Form FDA 356h",
+        "Form FDA 483"
+      ],
+      "correct": 1,
+      "explanation": "1572 is the investigator statement; 356h is for NDA/ANDA.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Generic drug applications in the USA are filed under section:",
+      "options": [
+        "505(b)(1)",
+        "351(a)",
+        "505(j)",
+        "510(k)"
+      ],
+      "correct": 2,
+      "explanation": "505(j) is the ANDA route.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "A Paragraph IV certification states that the listed patent is:",
+      "options": [
+        "Not filed",
+        "Already expired",
+        "Expiring on a stated date",
+        "Invalid or will not be infringed"
+      ],
+      "correct": 3,
+      "explanation": "Paragraph I, II and III are the other three options.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "A major change to an approved NDA is filed as a:",
+      "options": [
+        "Prior approval supplement",
+        "CBE-30 supplement",
+        "Annual report",
+        "Information amendment"
+      ],
+      "correct": 0,
+      "explanation": "Major changes need FDA approval before distribution.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The EMA committee that gives the opinion on human medicine applications is:",
+      "options": [
+        "PRAC",
+        "CHMP",
+        "COMP",
+        "PDCO"
+      ],
+      "correct": 1,
+      "explanation": "The European Commission then grants the authorisation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "In Australia, low-risk listed medicines carry the label number:",
+      "options": [
+        "AUST R",
+        "DIN",
+        "AUST L",
+        "NOC"
+      ],
+      "correct": 2,
+      "explanation": "Registered (higher-risk) medicines carry AUST R.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "In Japan, scientific review of drug applications is done by:",
+      "options": [
+        "TGA",
+        "MHRA",
+        "EDQM",
+        "PMDA"
+      ],
+      "correct": 3,
+      "explanation": "MHLW grants approval after PMDA review.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Health Canada approval of a new drug submission gives a:",
+      "options": [
+        "Notice of Compliance",
+        "Complete response letter",
+        "Certificate of Suitability",
+        "Tentative approval"
+      ],
+      "correct": 0,
+      "explanation": "The product also gets a Drug Identification Number.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "In India, permission to conduct a clinical trial of a new drug is granted in Form:",
+      "options": [
+        "CT-01",
+        "CT-06",
+        "CT-18",
+        "CT-21"
+      ],
+      "correct": 1,
+      "explanation": "Application is made in CT-04.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The CTD format was developed by:",
+      "options": [
+        "WHO",
+        "ASEAN",
+        "PIC/S",
+        "ICH"
+      ],
+      "correct": 3,
+      "explanation": "ICH guideline M4.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Module 3 of the CTD contains:",
+      "options": [
+        "Quality data",
+        "Clinical study reports",
+        "Regional administrative information",
+        "Non-clinical study reports"
+      ],
+      "correct": 0,
+      "explanation": "Module 3 = quality (3.2.S and 3.2.P).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Which CTD module is NOT part of the harmonised CTD?",
+      "options": [
+        "Module 2",
+        "Module 1",
+        "Module 3",
+        "Module 5"
+      ],
+      "correct": 1,
+      "explanation": "Module 1 is regional.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "A US Type II DMF covers:",
+      "options": [
+        "Packaging materials",
+        "Excipients and colourants",
+        "Drug substance, intermediates and their materials, or drug product",
+        "FDA-accepted reference information"
+      ],
+      "correct": 2,
+      "explanation": "Type III is packaging, Type IV excipients, Type V reference information.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Which statement about a DMF is correct?",
+      "options": [
+        "FDA approves it independently",
+        "It must be public",
+        "It replaces the ANDA",
+        "FDA neither approves nor disapproves it"
+      ],
+      "correct": 3,
+      "explanation": "It is reviewed only when an application refers to it.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The ACTD is organised into:",
+      "options": [
+        "Four parts",
+        "Five modules",
+        "Three sections",
+        "Six chapters"
+      ],
+      "correct": 0,
+      "explanation": "Parts I–IV: administrative, quality, non-clinical, clinical.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "In the eCTD, the file that indexes every document and its life-cycle status is the:",
+      "options": [
+        "Site Master File",
+        "XML backbone",
+        "Letter of Authorisation",
+        "Certificate of analysis"
+      ],
+      "correct": 1,
+      "explanation": "It lists location and status of each file.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The EU alternative to submitting an ASMF for a pharmacopoeial API is a:",
+      "options": [
+        "COPP",
+        "Notice of Compliance",
+        "Certificate of Suitability (CEP)",
+        "Free sale certificate"
+      ],
+      "correct": 2,
+      "explanation": "CEPs are issued by EDQM.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The Importer-Exporter Code in India is issued by:",
+      "options": [
+        "CDSCO",
+        "Pharmexcil",
+        "State Licensing Authority",
+        "DGFT"
+      ],
+      "correct": 3,
+      "explanation": "DGFT is under the Ministry of Commerce.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The COPP follows the format of the:",
+      "options": [
+        "WHO Certification Scheme",
+        "ICH M4 guideline",
+        "ASEAN ACTR",
+        "US 21 CFR 314"
+      ],
+      "correct": 0,
+      "explanation": "It is issued by the exporting country's competent authority.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Under the NDCT Rules 2019, an ethics committee for clinical trials must have at least:",
+      "options": [
+        "Three members",
+        "Five members",
+        "Seven members",
+        "Twelve members"
+      ],
+      "correct": 2,
+      "explanation": "Rule 7: minimum seven, including lay, woman, legal and independent members.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "At least what proportion of an Indian ethics committee must be non-affiliated with the institute?",
+      "options": [
+        "10%",
+        "25%",
+        "75%",
+        "50%"
+      ],
+      "correct": 3,
+      "explanation": "Rule 7(2) of the NDCT Rules.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In India, an investigator must report a serious adverse event within:",
+      "options": [
+        "24 hours",
+        "7 days",
+        "14 days",
+        "30 days"
+      ],
+      "correct": 0,
+      "explanation": "The analysed report follows within 14 days.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Under ICH E2A, fatal or life-threatening unexpected ADRs are reported within:",
+      "options": [
+        "24 hours",
+        "7 calendar days",
+        "15 calendar days",
+        "30 calendar days"
+      ],
+      "correct": 1,
+      "explanation": "Other serious unexpected ADRs: 15 days.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Comparing case report forms with hospital records is called:",
+      "options": [
+        "Randomisation",
+        "Blinding",
+        "Source data verification",
+        "Unblinding"
+      ],
+      "correct": 2,
+      "explanation": "A key task of the monitor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Agreement of a child to take part in a trial is called:",
+      "options": [
+        "Consent",
+        "Waiver",
+        "Authorisation",
+        "Assent"
+      ],
+      "correct": 3,
+      "explanation": "Given in addition to parental consent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "An independent group that reviews accumulating trial safety data is the:",
+      "options": [
+        "DSMB",
+        "CRO",
+        "SEC",
+        "DTAB"
+      ],
+      "correct": 0,
+      "explanation": "Data and Safety Monitoring Board.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Registration of an ethics committee with CDSCO is applied for in Form:",
+      "options": [
+        "CT-04",
+        "CT-01",
+        "CT-06",
+        "CT-21"
+      ],
+      "correct": 1,
+      "explanation": "Registration is granted in Form CT-02.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "In India, clinical trials must be registered before enrolment in:",
+      "options": [
+        "ARTG",
+        "Orange Book",
+        "CTRI",
+        "SUGAM only"
+      ],
+      "correct": 2,
+      "explanation": "Clinical Trials Registry – India.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A US IRB must have at least:",
+      "options": [
+        "Three members",
+        "Seven members",
+        "Nine members",
+        "Five members"
+      ],
+      "correct": 3,
+      "explanation": "21 CFR 56.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Drug regulations of the US FDA are found in which title of the CFR?",
+      "options": [
+        "Title 7",
+        "Title 21",
+        "Title 42",
+        "Title 50"
+      ],
+      "correct": 1,
+      "explanation": "Title 21 — Food and Drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The official daily journal of the US government is the:",
+      "options": [
+        "Code of Federal Regulations",
+        "Orange Book",
+        "Federal Register",
+        "Purple Book"
+      ],
+      "correct": 2,
+      "explanation": "Proposed and final rules appear there first.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The Orange Book's official title is:",
+      "options": [
+        "Database of Licensed Biological Products",
+        "United States Pharmacopeia",
+        "National Drug Code Directory",
+        "Approved Drug Products with Therapeutic Equivalence Evaluations"
+      ],
+      "correct": 3,
+      "explanation": "The Purple Book is the database of licensed biologics.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "An 'AB' code in the Orange Book means the product is:",
+      "options": [
+        "Therapeutically equivalent, with bioequivalence shown",
+        "Not therapeutically equivalent",
+        "A biological product",
+        "Discontinued"
+      ],
+      "correct": 0,
+      "explanation": "B codes mean not considered equivalent.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The Purple Book lists:",
+      "options": [
+        "Generic small-molecule drugs only",
+        "Licensed biological products, biosimilars and interchangeables",
+        "Medical devices",
+        "Dietary supplements"
+      ],
+      "correct": 1,
+      "explanation": "Biologics under the Public Health Service Act.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Which is legally binding?",
+      "options": [
+        "An FDA guidance document",
+        "An ICH guideline not adopted by law",
+        "A regulation made under an Act",
+        "A draft guidance"
+      ],
+      "correct": 2,
+      "explanation": "Guidance documents are recommendations.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "21 CFR Part 312 deals with:",
+      "options": [
+        "Good laboratory practice",
+        "Institutional review boards",
+        "Bioavailability and bioequivalence",
+        "Investigational new drug applications"
+      ],
+      "correct": 3,
+      "explanation": "Part 58 GLP, Part 56 IRB, Part 320 BA/BE.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "New chemical entity exclusivity in the USA is:",
+      "options": [
+        "5 years",
+        "3 years",
+        "7 years",
+        "6 months"
+      ],
+      "correct": 0,
+      "explanation": "3 years for new clinical investigations, 7 for orphan drugs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The Indian counterpart of the Federal Register for notifying drug rules is the:",
+      "options": [
+        "Indian Pharmacopoeia",
+        "Gazette of India",
+        "CTRI",
+        "SUGAM portal"
+      ],
+      "correct": 1,
+      "explanation": "Rules are notified there as GSR notifications.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Good manufacturing practice for finished pharmaceuticals in the USA is in:",
+      "options": [
+        "21 CFR Part 50",
+        "21 CFR Part 312",
+        "21 CFR Part 211",
+        "21 CFR Part 11"
+      ],
+      "correct": 2,
+      "explanation": "Part 11 covers electronic records.",
+      "probability": "low"
+    }
+  ]
+}

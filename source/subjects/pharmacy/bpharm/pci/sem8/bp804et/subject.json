@@ -1,0 +1,48 @@
+{
+  "code": "BP804ET",
+  "title": "Pharmaceutical Regulatory Science",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP804ET Pharmaceutical Regulatory Science (elective)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP804ET_B.Pharma-pages-41.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "New drug discovery and development",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Regulatory approval process and regulatory authorities",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Registration of Indian drug products in overseas markets",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Clinical trials",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Regulatory concepts",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
