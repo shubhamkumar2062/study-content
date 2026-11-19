@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Histamine is formed in the body by the decarboxylation of:",
+      "options": [
+        "Histidine",
+        "Tyrosine",
+        "Tryptophan",
+        "Arginine"
+      ],
+      "correct": 0,
+      "explanation": "L-Histidine decarboxylase removes carbon dioxide from histidine to give histamine.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which receptor mediates the gastric acid secretion caused by histamine?",
+      "options": [
+        "H1",
+        "H2",
+        "H3",
+        "H4"
+      ],
+      "correct": 1,
+      "explanation": "H2 receptors on the parietal cell act through Gs and cyclic AMP to drive the proton pump.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Diphenhydramine belongs to which chemical class of antihistamines?",
+      "options": [
+        "Alkylamine",
+        "Piperazine",
+        "Ethanolamine",
+        "Phenothiazine"
+      ],
+      "correct": 2,
+      "explanation": "The oxygen bridge between the benzhydryl group and the side chain makes it an ethanolamine, hence its sedative and anticholinergic action.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which group in cimetidine replaced the basic side-chain amine of histamine?",
+      "options": [
+        "Nitroethenediamine",
+        "Sulphamoylamidine",
+        "Carboxylate",
+        "Cyanoguanidine"
+      ],
+      "correct": 3,
+      "explanation": "A neutral, planar cyanoguanidine group removed the agonist activity that a charged amine retained.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Omeprazole acts by:",
+      "options": [
+        "Irreversibly inhibiting the H+/K+-ATPase",
+        "Competitively blocking H2 receptors",
+        "Neutralising gastric acid",
+        "Blocking muscarinic M1 receptors"
+      ],
+      "correct": 0,
+      "explanation": "It is a prodrug activated in acid to a sulphenamide that forms disulphide bonds with the pump.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Alkylating agents attack DNA chiefly at:",
+      "options": [
+        "The 5-position of cytosine",
+        "N7 of guanine",
+        "The ribose hydroxyl",
+        "N3 of thymine"
+      ],
+      "correct": 1,
+      "explanation": "The aziridinium ion alkylates the nucleophilic N7 of guanine and can cross-link two strands.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Mesna is given with cyclophosphamide to prevent:",
+      "options": [
+        "Cardiomyopathy",
+        "Pulmonary fibrosis",
+        "Haemorrhagic cystitis",
+        "Peripheral neuropathy"
+      ],
+      "correct": 2,
+      "explanation": "Mesna traps acrolein, the bladder-irritant by-product of cyclophosphamide activation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Methotrexate inhibits which enzyme?",
+      "options": [
+        "Thymidylate synthase",
+        "Xanthine oxidase",
+        "DNA polymerase",
+        "Dihydrofolate reductase"
+      ],
+      "correct": 3,
+      "explanation": "Its 4-amino and N10-methyl groups give near-irreversible binding to dihydrofolate reductase.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Which drug's dose must be reduced when allopurinol is given with it?",
+      "options": [
+        "Mercaptopurine",
+        "Cytarabine",
+        "Bleomycin",
+        "Vincristine"
+      ],
+      "correct": 0,
+      "explanation": "Mercaptopurine is inactivated by xanthine oxidase, which allopurinol inhibits, so levels rise sharply.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The dose-limiting toxicity of doxorubicin is:",
+      "options": [
+        "Nephrotoxicity",
+        "Cardiomyopathy",
+        "Pulmonary fibrosis",
+        "Ototoxicity"
+      ],
+      "correct": 1,
+      "explanation": "Anthracyclines generate free radicals in cardiac muscle, giving dose-related cardiomyopathy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "Cromolyn sodium acts by:",
+      "options": [
+        "Blocking H1 receptors",
+        "Blocking H2 receptors",
+        "Stabilising mast cells",
+        "Inhibiting histaminase"
+      ],
+      "correct": 2,
+      "explanation": "It prevents degranulation of mast cells and so is used prophylactically, not for an established attack.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Which antihistamine class is the least sedating among first-generation drugs?",
+      "options": [
+        "Ethanolamines",
+        "Ethylenediamines",
+        "Phenothiazines",
+        "Alkylamines"
+      ],
+      "correct": 3,
+      "explanation": "Alkylamines such as chlorpheniramine and triprolidine are the most potent and least sedating of the older drugs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Organic nitrates produce vasodilation by releasing:",
+      "options": [
+        "Nitric oxide",
+        "Hydrogen sulphide",
+        "Prostacyclin",
+        "Adenosine"
+      ],
+      "correct": 0,
+      "explanation": "Nitric oxide activates guanylate cyclase, raising cyclic GMP in smooth muscle.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Nitrate tolerance is best avoided by:",
+      "options": [
+        "Doubling the dose",
+        "Keeping a daily nitrate-free interval",
+        "Giving the drug intravenously",
+        "Adding a beta blocker"
+      ],
+      "correct": 1,
+      "explanation": "A gap of 8 to 12 hours each day allows tissue thiols and the activating enzyme to recover.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Acetazolamide produces diuresis by inhibiting:",
+      "options": [
+        "The Na+/K+/2Cl- carrier",
+        "The Na+/Cl- carrier",
+        "Carbonic anhydrase",
+        "The epithelial sodium channel"
+      ],
+      "correct": 2,
+      "explanation": "Its free sulphamoyl group binds the zinc of carbonic anhydrase, so bicarbonate and sodium are lost.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Thiazide diuretics act on which part of the nephron?",
+      "options": [
+        "Proximal tubule",
+        "Thick ascending limb",
+        "Collecting duct",
+        "Distal convoluted tubule"
+      ],
+      "correct": 3,
+      "explanation": "They block the Na+/Cl- co-transporter of the distal convoluted tubule.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "In the thiazide nucleus, which group is essential for diuretic activity?",
+      "options": [
+        "A free sulphamoyl group at position 7",
+        "A methyl group at position 3",
+        "A hydroxyl group at position 6",
+        "A nitro group at position 8"
+      ],
+      "correct": 0,
+      "explanation": "Substituting the sulphonamide nitrogen abolishes activity.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Which diuretic increases urinary calcium loss?",
+      "options": [
+        "Hydrochlorothiazide",
+        "Furosemide",
+        "Amiloride",
+        "Spironolactone"
+      ],
+      "correct": 1,
+      "explanation": "Loop diuretics lose calcium and are used in hypercalcaemia, while thiazides conserve it.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Spironolactone acts by:",
+      "options": [
+        "Blocking the epithelial sodium channel",
+        "Inhibiting carbonic anhydrase",
+        "Antagonising aldosterone at its receptor",
+        "Osmotic retention of water"
+      ],
+      "correct": 2,
+      "explanation": "It is a steroid that competes with aldosterone, so sodium channels and pumps are not induced.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The dry cough caused by ACE inhibitors is attributed to accumulation of:",
+      "options": [
+        "Angiotensin II",
+        "Renin",
+        "Aldosterone",
+        "Bradykinin"
+      ],
+      "correct": 3,
+      "explanation": "The same enzyme destroys bradykinin, so inhibition lets it accumulate in the airway.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which ACE inhibitor binds the active-site zinc through a sulphydryl group?",
+      "options": [
+        "Captopril",
+        "Enalapril",
+        "Lisinopril",
+        "Benazepril"
+      ],
+      "correct": 0,
+      "explanation": "Captopril's thiol group also explains its rash and taste disturbance.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Methyldopa lowers blood pressure through the false transmitter:",
+      "options": [
+        "Alpha-methyldopamine",
+        "Alpha-methylnoradrenaline",
+        "Normetanephrine",
+        "Octopamine"
+      ],
+      "correct": 1,
+      "explanation": "It is formed in the nerve ending and is a strong central alpha-2 agonist, so sympathetic outflow falls.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Which calcium channel blocker acts mainly on the heart rather than the vessels?",
+      "options": [
+        "Nifedipine",
+        "Amlodipine",
+        "Verapamil",
+        "Felodipine"
+      ],
+      "correct": 2,
+      "explanation": "Verapamil, a phenylalkylamine, slows the sinus and atrioventricular nodes and reduces contractility.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Mannitol is contraindicated in:",
+      "options": [
+        "Raised intracranial pressure",
+        "Acute glaucoma",
+        "Impending renal failure with oliguria",
+        "Established anuria with pulmonary oedema"
+      ],
+      "correct": 3,
+      "explanation": "It first expands plasma volume, which worsens pulmonary oedema when it cannot be excreted.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "In the Vaughan Williams classification, amiodarone is placed in:",
+      "options": [
+        "Class IA",
+        "Class IB",
+        "Class III",
+        "Class IV"
+      ],
+      "correct": 2,
+      "explanation": "Class III drugs block potassium channels and markedly lengthen the action potential and refractory period.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Which class IB drug is given only intravenously because of heavy first-pass metabolism?",
+      "options": [
+        "Lidocaine",
+        "Quinidine",
+        "Disopyramide",
+        "Sotalol"
+      ],
+      "correct": 0,
+      "explanation": "Lidocaine is almost completely removed by the liver on first pass, so an oral dose is useless.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Long-term procainamide treatment characteristically causes:",
+      "options": [
+        "Cinchonism",
+        "A lupus-like syndrome",
+        "Pulmonary fibrosis",
+        "Gynaecomastia"
+      ],
+      "correct": 1,
+      "explanation": "Slow acetylators are most affected, since acetylation is a main route of its metabolism.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Disopyramide is avoided in heart failure mainly because it:",
+      "options": [
+        "Lengthens the QT interval",
+        "Causes bradycardia",
+        "Raises potassium",
+        "Has a marked negative inotropic effect"
+      ],
+      "correct": 3,
+      "explanation": "It depresses the force of contraction more than other class IA drugs, as well as being strongly antimuscarinic.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Lovastatin inhibits which enzyme?",
+      "options": [
+        "HMG-CoA reductase",
+        "Lipoprotein lipase",
+        "Cholesterol ester transfer protein",
+        "Acyl-CoA cholesterol acyltransferase"
+      ],
+      "correct": 0,
+      "explanation": "Its open hydroxy acid form mimics HMG-CoA, the natural substrate of the rate-limiting enzyme.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Cholestyramine lowers cholesterol by:",
+      "options": [
+        "Inhibiting cholesterol synthesis",
+        "Binding bile acids in the intestine",
+        "Activating PPAR-alpha",
+        "Blocking intestinal cholesterol transport"
+      ],
+      "correct": 1,
+      "explanation": "It is a non-absorbed anion-exchange resin, so the liver uses cholesterol to replace the lost bile acids.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Warfarin exerts its anticoagulant effect by inhibiting:",
+      "options": [
+        "Thrombin directly",
+        "Antithrombin III",
+        "Vitamin K epoxide reductase",
+        "Factor Xa directly"
+      ],
+      "correct": 2,
+      "explanation": "Blocking the enzyme prevents the regeneration of reduced vitamin K needed to carboxylate factors II, VII, IX and X.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The laboratory test used to monitor oral anticoagulant therapy is:",
+      "options": [
+        "Activated partial thromboplastin time",
+        "Bleeding time",
+        "Platelet count",
+        "Prothrombin time expressed as INR"
+      ],
+      "correct": 3,
+      "explanation": "Warfarin affects the extrinsic pathway factors, which the prothrombin time measures.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Clopidogrel acts by irreversibly blocking:",
+      "options": [
+        "The platelet P2Y12 ADP receptor",
+        "Cyclo-oxygenase-1",
+        "Glycoprotein IIb/IIIa",
+        "Thromboxane synthase"
+      ],
+      "correct": 0,
+      "explanation": "It is a thienopyridine prodrug activated by cytochrome P450 enzymes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Digoxin increases the force of cardiac contraction by inhibiting:",
+      "options": [
+        "Phosphodiesterase III",
+        "The Na+/K+-ATPase",
+        "The sarcoplasmic calcium pump",
+        "Adenylate cyclase"
+      ],
+      "correct": 1,
+      "explanation": "Rising intracellular sodium reduces calcium extrusion by the sodium-calcium exchanger, so calcium accumulates.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Which electrolyte disturbance most increases the risk of digitalis toxicity?",
+      "options": [
+        "Hypernatraemia",
+        "Hypercalcaemia alone",
+        "Hypokalaemia",
+        "Hyperkalaemia"
+      ],
+      "correct": 2,
+      "explanation": "Potassium and the glycoside compete for the same site on the pump, so low potassium increases binding.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Bosentan is used mainly in:",
+      "options": [
+        "Atrial fibrillation",
+        "Hyperlipidaemia",
+        "Deep vein thrombosis",
+        "Pulmonary arterial hypertension"
+      ],
+      "correct": 3,
+      "explanation": "It blocks endothelin ETA and ETB receptors, lowering pulmonary vascular resistance; liver enzymes must be monitored.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The basic nucleus of all steroids is:",
+      "options": [
+        "Cyclopentanoperhydrophenanthrene",
+        "Dibenzazepine",
+        "Phenanthridine",
+        "Benzothiadiazine"
+      ],
+      "correct": 0,
+      "explanation": "Three six-membered rings fused as in phenanthrene with a five-membered ring D.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "In a steroid, a substituent drawn with a dashed line lies:",
+      "options": [
+        "Above the plane of the rings (beta)",
+        "Below the plane of the rings (alpha)",
+        "In the plane of the rings",
+        "On the side chain only"
+      ],
+      "correct": 1,
+      "explanation": "Alpha substituents point below the plane and are drawn broken; beta substituents point up and are drawn bold.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Which feature distinguishes oestrogens from all other natural steroids?",
+      "options": [
+        "A 17-beta hydroxyl group",
+        "A delta-4-3-ketone",
+        "An aromatic ring A without the C19 methyl",
+        "A five-membered lactone ring"
+      ],
+      "correct": 2,
+      "explanation": "Aromatisation of ring A gives the phenolic 3-hydroxyl and removes the C19 angular methyl, leaving 18 carbons.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Testosterone is converted in target tissues to the more potent androgen by:",
+      "options": [
+        "Aromatase",
+        "17-beta-hydroxysteroid dehydrogenase",
+        "Catechol-O-methyltransferase",
+        "5-alpha-reductase"
+      ],
+      "correct": 3,
+      "explanation": "5-alpha-reductase forms dihydrotestosterone, which binds the androgen receptor more tightly.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "A 17-alpha-ethinyl group is introduced into steroid hormones chiefly to:",
+      "options": [
+        "Give oral activity by resisting first-pass metabolism",
+        "Increase water solubility",
+        "Allow depot injection",
+        "Convert an androgen into an oestrogen"
+      ],
+      "correct": 0,
+      "explanation": "It blocks oxidation of the 17-hydroxyl, as in ethinyloestradiol and norethisterone.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Only the trans isomer of diethylstilbestrol is active because it:",
+      "options": [
+        "Is more lipophilic",
+        "Places the two phenolic oxygens at the distance found in oestradiol",
+        "Is more water soluble",
+        "Resists conjugation in the liver"
+      ],
+      "correct": 1,
+      "explanation": "The pharmacophore depends on the separation of the two oxygen functions, about 10.9 angstrom.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Which structural change converts hydrocortisone into prednisolone?",
+      "options": [
+        "A 9-alpha-fluorine",
+        "A 16-alpha-methyl group",
+        "Introduction of a 1,2-double bond",
+        "Loss of the 11-beta-hydroxyl"
+      ],
+      "correct": 2,
+      "explanation": "The delta-1 bond raises anti-inflammatory potency about fourfold with less salt retention.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Dexamethasone and betamethasone differ only in:",
+      "options": [
+        "The presence of fluorine",
+        "The position of the double bond",
+        "The 11-hydroxyl configuration",
+        "The configuration of the C16 methyl group"
+      ],
+      "correct": 3,
+      "explanation": "Dexamethasone carries 16-alpha-methyl and betamethasone 16-beta-methyl; they are epimers.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Cortisone is inactive when applied to the skin because it:",
+      "options": [
+        "Must be reduced at C11 in the liver to hydrocortisone",
+        "Is too water soluble",
+        "Is destroyed by skin esterases",
+        "Lacks the C21 hydroxyl"
+      ],
+      "correct": 0,
+      "explanation": "An 11-beta-hydroxyl is essential for glucocorticoid activity, and cortisone is an 11-keto prodrug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Propylthiouracil reduces thyroid hormone production by inhibiting:",
+      "options": [
+        "The iodide pump",
+        "Thyroid peroxidase",
+        "Thyroid-stimulating hormone release",
+        "Thyroglobulin proteolysis"
+      ],
+      "correct": 1,
+      "explanation": "It blocks organification and coupling, and also inhibits peripheral conversion of T4 to T3.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Sildenafil produces its effect by inhibiting:",
+      "options": [
+        "Adenylate cyclase",
+        "Guanylate cyclase",
+        "Phosphodiesterase type 5",
+        "Phosphodiesterase type 3"
+      ],
+      "correct": 2,
+      "explanation": "Cyclic GMP survives longer, so the nitric-oxide-driven relaxation is prolonged.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Mifepristone acts as an antagonist at the receptor for:",
+      "options": [
+        "Oestrogen",
+        "Testosterone",
+        "Thyroxine",
+        "Progesterone"
+      ],
+      "correct": 3,
+      "explanation": "It blocks progesterone, and also glucocorticoid, receptors, and is a regulated prescription drug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Human insulin consists of:",
+      "options": [
+        "51 amino acids in two chains linked by disulphide bridges",
+        "31 amino acids in a single chain",
+        "84 amino acids in two chains",
+        "29 amino acids in a single chain"
+      ],
+      "correct": 0,
+      "explanation": "Chain A has 21 residues and chain B has 30, joined by two interchain disulphide bridges.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Sulphonylureas release insulin by acting on the beta cell's:",
+      "options": [
+        "Sodium channel",
+        "ATP-sensitive potassium channel",
+        "GLUT2 transporter",
+        "Calcium ATPase"
+      ],
+      "correct": 1,
+      "explanation": "They bind the SUR1 subunit, the channel closes, the cell depolarises and calcium enters.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Which oral antidiabetic drug carries a risk of lactic acidosis?",
+      "options": [
+        "Glipizide",
+        "Pioglitazone",
+        "Metformin",
+        "Acarbose"
+      ],
+      "correct": 2,
+      "explanation": "Metformin is avoided in renal impairment, hypoxia and alcoholism for this reason.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Pioglitazone improves insulin sensitivity by acting on:",
+      "options": [
+        "The sulphonylurea receptor",
+        "Alpha-glucosidase",
+        "AMP-activated protein kinase",
+        "The nuclear receptor PPAR-gamma"
+      ],
+      "correct": 3,
+      "explanation": "It changes gene transcription in fat cells, so the effect takes several weeks to develop.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "A patient taking acarbose with a sulphonylurea becomes hypoglycaemic. Treatment should be with:",
+      "options": [
+        "Glucose",
+        "Sucrose",
+        "A starchy snack",
+        "A sweetened milk drink"
+      ],
+      "correct": 0,
+      "explanation": "Acarbose blocks the enzyme that splits sucrose, so only monosaccharide glucose is absorbed quickly.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Local anaesthetics block nerve conduction by binding:",
+      "options": [
+        "The outer surface of the potassium channel",
+        "The inner mouth of the voltage-gated sodium channel",
+        "The calcium channel of the nerve terminal",
+        "The acetylcholine receptor"
+      ],
+      "correct": 1,
+      "explanation": "The free base crosses the membrane and the cation binds the channel from inside, preferring open and inactivated states.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Allergy to ester-type local anaesthetics is caused by the metabolite:",
+      "options": [
+        "Diethylaminoethanol",
+        "Benzoic acid",
+        "p-Aminobenzoic acid",
+        "Xylidine"
+      ],
+      "correct": 2,
+      "explanation": "Plasma pseudocholinesterase hydrolyses the ester, releasing p-aminobenzoic acid, a known allergen.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Benzocaine cannot be given by injection because it:",
+      "options": [
+        "Is destroyed by plasma esterases instantly",
+        "Is too potent",
+        "Causes severe vasodilation",
+        "Lacks a basic amine, so no water-soluble salt can be formed"
+      ],
+      "correct": 3,
+      "explanation": "It is the ethyl ester of p-aminobenzoic acid with no aliphatic amine, so it is used only on surfaces.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A local anaesthetic works poorly in inflamed tissue because:",
+      "options": [
+        "The acidic pH keeps most of the drug ionised",
+        "Blood flow is reduced",
+        "The nerves are destroyed",
+        "Protein binding is lower"
+      ],
+      "correct": 0,
+      "explanation": "Only the unionised base can cross the nerve membrane, and acidity shifts the equilibrium to the cation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Adrenaline is added to local anaesthetic solutions to:",
+      "options": [
+        "Make the solution isotonic",
+        "Prolong the block and reduce systemic absorption",
+        "Increase the pH of the solution",
+        "Prevent hydrolysis of the ester"
+      ],
+      "correct": 1,
+      "explanation": "Vasoconstriction keeps the drug at the site; it must not be used in fingers, toes, nose, ears or penis.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Lignocaine differs chemically from procaine in having:",
+      "options": [
+        "A quaternary nitrogen",
+        "A longer aromatic ring system",
+        "An amide linkage instead of an ester",
+        "No aromatic ring"
+      ],
+      "correct": 2,
+      "explanation": "The amide link resists plasma esterases, so lignocaine acts longer and rarely causes allergy.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Which local anaesthetic is a quinoline carboxamide and the most potent of the group?",
+      "options": [
+        "Tetracaine",
+        "Prilocaine",
+        "Mepivacaine",
+        "Dibucaine"
+      ],
+      "correct": 3,
+      "explanation": "Dibucaine (cinchocaine) is also the most toxic, and is used for surface and spinal anaesthesia.",
+      "probability": "medium"
+    }
+  ]
+}

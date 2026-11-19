@@ -1,0 +1,48 @@
+{
+  "code": "BP501T",
+  "title": "Medicinal Chemistry II",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP501T Medicinal Chemistry II",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP501T_B.Pharma-pages-23.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Antihistaminic agents, anti-ulcer drugs and antineoplastic agents",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Antianginal drugs, diuretics and antihypertensive agents",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Antiarrhythmic, antihyperlipidaemic, coagulant and anticoagulant drugs, and drugs for heart failure",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Drugs acting on the endocrine system",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Antidiabetic agents and local anaesthetics",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
