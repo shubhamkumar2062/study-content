@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "A compound with confirmed, reproducible activity and a structure that can be modified further is called a:",
+      "options": [
+        "Lead",
+        "Hit",
+        "Candidate",
+        "Metabolite"
+      ],
+      "correct": 0,
+      "explanation": "A hit is only a screening signal; once confirmed and found modifiable it becomes a lead.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Isosteres were first defined on the basis of the same number and arrangement of:",
+      "options": [
+        "Protons",
+        "Valence electrons",
+        "Neutrons",
+        "Rings"
+      ],
+      "correct": 1,
+      "explanation": "Langmuir defined isosteres by the number of atoms and the number and arrangement of valence electrons.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which pair is a classical monovalent bioisosteric pair?",
+      "options": [
+        "C=O and SO2",
+        "Benzene and cyclohexane",
+        "OH and NH2",
+        "COOH and tetrazole"
+      ],
+      "correct": 2,
+      "explanation": "OH and NH2 are classical monovalent bioisosteres; COOH and tetrazole is non-classical.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Replacement of the carboxylic acid group by a tetrazole ring is an example of:",
+      "options": [
+        "Classical divalent isosterism",
+        "Homologation",
+        "Prodrug design",
+        "Non-classical bioisosterism"
+      ],
+      "correct": 3,
+      "explanation": "Tetrazole mimics the acid in pKa and charge but does not obey the electron-count rules.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Streptomycin, obtained by testing soil organisms without any prior expectation, illustrates:",
+      "options": [
+        "Random screening",
+        "Non-random screening",
+        "Analog based design",
+        "Clinical observation"
+      ],
+      "correct": 0,
+      "explanation": "Testing every available sample with no prior reason is random (blind) screening.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Discovery of penicillin from a contaminated culture plate is an example of:",
+      "options": [
+        "Rational drug design",
+        "Serendipity",
+        "QSAR",
+        "De novo design"
+      ],
+      "correct": 1,
+      "explanation": "An unexpected observation recognised and followed up is serendipitous discovery.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Phase I clinical trials are mainly conducted to assess:",
+      "options": [
+        "Efficacy in a large patient population",
+        "Long-term adverse effects after marketing",
+        "Safety and tolerability in healthy volunteers",
+        "Dose comparison against a standard drug"
+      ],
+      "correct": 2,
+      "explanation": "Phase I is the first human exposure and focuses on safety, tolerability and pharmacokinetics.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Studies conducted after a drug is marketed are known as:",
+      "options": [
+        "Phase 0",
+        "Phase II",
+        "Preclinical",
+        "Phase IV"
+      ],
+      "correct": 3,
+      "explanation": "Phase IV is post-marketing surveillance, which collects long-term safety data.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Fexofenadine, developed from the active metabolite of terfenadine, is an example of lead discovery based on:",
+      "options": [
+        "Drug metabolism",
+        "Traditional medicine",
+        "Random screening",
+        "Molecular docking"
+      ],
+      "correct": 0,
+      "explanation": "An active metabolite with a better safety profile was itself developed as a drug.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Reserpine, obtained from Rauwolfia serpentina, is an example of a lead from:",
+      "options": [
+        "Combinatorial chemistry",
+        "Traditional medicine",
+        "Serendipity",
+        "High throughput screening"
+      ],
+      "correct": 1,
+      "explanation": "Plants used in traditional systems are a classical source of leads.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In QSAR, biological activity is usually expressed as:",
+      "options": [
+        "C",
+        "log C",
+        "log(1/C)",
+        "1/log C"
+      ],
+      "correct": 2,
+      "explanation": "The logarithm of the reciprocal of the molar effective concentration is used, so a potent compound gives a larger value.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The partition coefficient used in QSAR is normally measured between:",
+      "options": [
+        "Chloroform and water",
+        "Benzene and water",
+        "Ether and water",
+        "n-Octanol and water"
+      ],
+      "correct": 3,
+      "explanation": "The n-octanol/water system is the accepted standard for log P.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The substituent constant pi is defined as:",
+      "options": [
+        "log P(RX) - log P(RH)",
+        "log P(RH) - log P(RX)",
+        "log K(X) - log K(H)",
+        "k(X)/k(H)"
+      ],
+      "correct": 0,
+      "explanation": "pi measures the lipophilicity a substituent adds compared with hydrogen in the same parent.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Hammett's sigma constant was derived from the ionisation of substituted:",
+      "options": [
+        "Aliphatic esters",
+        "Benzoic acids",
+        "Phenols",
+        "Anilines"
+      ],
+      "correct": 1,
+      "explanation": "Sigma is defined from the ionisation constants of substituted benzoic acids in water at 25 degrees C.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The value of the reaction constant rho for the ionisation of benzoic acid is:",
+      "options": [
+        "0.00",
+        "2.48",
+        "1.00",
+        "-1.00"
+      ],
+      "correct": 2,
+      "explanation": "Benzoic acid ionisation is the reference reaction, for which rho is fixed at 1.00.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Taft's steric constant Es takes which group as the reference with a value of zero?",
+      "options": [
+        "Hydrogen",
+        "t-Butyl",
+        "Phenyl",
+        "Methyl"
+      ],
+      "correct": 3,
+      "explanation": "Es is defined relative to the methyl group; bulkier groups have more negative values.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "In the parabolic Hansch equation log(1/C) = -k1(log P)^2 + k2 log P + k3, the optimum log P equals:",
+      "options": [
+        "k2 / (2 k1)",
+        "k1 / (2 k2)",
+        "2 k1 k2",
+        "k3 / k2"
+      ],
+      "correct": 0,
+      "explanation": "Differentiating and setting the derivative to zero gives log P0 = k2/(2k1).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Free-Wilson analysis assumes that each substituent contributes to activity in a manner that is:",
+      "options": [
+        "Multiplicative",
+        "Constant and additive",
+        "Parabolic",
+        "Random"
+      ],
+      "correct": 1,
+      "explanation": "The de novo model adds a constant contribution for each group at each position.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Which fields are calculated in classical CoMFA?",
+      "options": [
+        "Hydrophobic and hydrogen bond donor only",
+        "Only electrostatic",
+        "Steric and electrostatic",
+        "Topological and electronic"
+      ],
+      "correct": 2,
+      "explanation": "CoMFA uses Lennard-Jones steric and Coulomb electrostatic fields; CoMSIA adds three more.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "A cross-validated q squared value is used to assess:",
+      "options": [
+        "The number of compounds",
+        "The lipophilicity of the series",
+        "The purity of the compounds",
+        "The predictive ability of the model"
+      ],
+      "correct": 3,
+      "explanation": "q squared comes from leave-one-out cross-validation and should exceed 0.5.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "According to Lipinski's rule of five, molecular weight should not exceed:",
+      "options": [
+        "500",
+        "250",
+        "750",
+        "1000"
+      ],
+      "correct": 0,
+      "explanation": "The limits are MW 500, log P 5, donors 5 and acceptors 10.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The maximum number of hydrogen bond acceptors allowed by Lipinski's rule of five is:",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct": 1,
+      "explanation": "Acceptors (N and O atoms) are limited to 10, donors to 5.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Veber's criteria for good oral bioavailability include a polar surface area not more than:",
+      "options": [
+        "40 square angstroms",
+        "250 square angstroms",
+        "140 square angstroms",
+        "500 square angstroms"
+      ],
+      "correct": 2,
+      "explanation": "Veber proposed rotatable bonds not more than 10 and PSA not more than 140 square angstroms.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "A pharmacophore is best defined as:",
+      "options": [
+        "A functional group",
+        "A real molecule in the library",
+        "A protein binding site",
+        "The arrangement of features needed for target interaction"
+      ],
+      "correct": 3,
+      "explanation": "It is an abstract pattern of steric and electronic features with distances, not a molecule.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "In a docking study, the position, orientation and conformation of the ligand together are called the:",
+      "options": [
+        "Pose",
+        "Score",
+        "Grid",
+        "Field"
+      ],
+      "correct": 0,
+      "explanation": "A pose is one complete arrangement of the ligand within the site.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Docking in which both the protein and the ligand are treated as rigid bodies follows which model?",
+      "options": [
+        "Induced fit",
+        "Lock and key",
+        "Conformational selection",
+        "Allosteric"
+      ],
+      "correct": 1,
+      "explanation": "Rigid docking corresponds to the classical lock-and-key picture.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Re-docking is usually considered successful when the RMSD from the crystal pose is:",
+      "options": [
+        "10 angstroms or less",
+        "0.001 angstroms",
+        "2 angstroms or less",
+        "More than 5 angstroms"
+      ],
+      "correct": 2,
+      "explanation": "An RMSD of 2 angstroms or less is the accepted criterion.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Scoring functions derived from the frequency of atom pair contacts in the Protein Data Bank are called:",
+      "options": [
+        "Force-field based",
+        "Empirical",
+        "Consensus",
+        "Knowledge-based"
+      ],
+      "correct": 3,
+      "explanation": "Knowledge-based functions use statistical potentials from observed structures.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Exclusion volumes in a pharmacophore model represent:",
+      "options": [
+        "Space occupied by the protein",
+        "Hydrogen bond donors",
+        "Aromatic rings",
+        "Rotatable bonds"
+      ],
+      "correct": 0,
+      "explanation": "Ligand atoms are forbidden in exclusion volumes because the protein occupies that space.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Building a new ligand fragment by fragment inside the binding site is known as:",
+      "options": [
+        "Similarity searching",
+        "De novo design",
+        "Homology modelling",
+        "Free-Wilson analysis"
+      ],
+      "correct": 1,
+      "explanation": "De novo design grows or links fragments inside the site instead of searching a library.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Which database holds experimentally determined three-dimensional structures of proteins?",
+      "options": [
+        "ZINC",
+        "ChEMBL",
+        "Protein Data Bank",
+        "GenBank"
+      ],
+      "correct": 2,
+      "explanation": "The PDB archives structures from X-ray crystallography, NMR and cryo-electron microscopy.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Measured bioactivity values such as IC50 and Ki extracted from the medicinal chemistry literature are found in:",
+      "options": [
+        "CSD",
+        "UniProt",
+        "KEGG",
+        "ChEMBL"
+      ],
+      "correct": 3,
+      "explanation": "ChEMBL links measured activities to targets; BindingDB is a similar resource.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "ZINC is a database of:",
+      "options": [
+        "Commercially available compounds ready for virtual screening",
+        "Protein sequences",
+        "Metabolic pathways",
+        "Clinical trial records"
+      ],
+      "correct": 0,
+      "explanation": "ZINC supplies purchasable compounds already prepared in 3D.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The CCO line notation for ethanol is an example of:",
+      "options": [
+        "InChIKey",
+        "SMILES",
+        "SDF",
+        "PDB format"
+      ],
+      "correct": 1,
+      "explanation": "SMILES writes a structure as a single line of text.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The Tanimoto coefficient is calculated as:",
+      "options": [
+        "(a + b) / c",
+        "a / b",
+        "c / (a + b - c)",
+        "(a - b) / c"
+      ],
+      "correct": 2,
+      "explanation": "a and b are the bits set in each fingerprint and c the bits set in both.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "BLAST is used mainly for:",
+      "options": [
+        "Energy minimisation",
+        "Docking a ligand",
+        "Measuring log P",
+        "Searching a database for similar sequences"
+      ],
+      "correct": 3,
+      "explanation": "BLAST finds sequences similar to a query and reports scores and E-values.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "For reliable homology modelling, the sequence identity between target and template should preferably be above:",
+      "options": [
+        "30 per cent",
+        "5 per cent",
+        "80 per cent",
+        "95 per cent"
+      ],
+      "correct": 0,
+      "explanation": "Below about 30 per cent identity the alignment, and therefore the model, becomes unreliable.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Blockade of which channel is predicted as an early cardiac safety alert?",
+      "options": [
+        "Sodium-potassium ATPase",
+        "hERG potassium channel",
+        "Calcium release channel",
+        "Chloride channel"
+      ],
+      "correct": 1,
+      "explanation": "hERG blockade is linked to QT prolongation, so it is screened in silico very early.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Which resource gives drug entries combining chemistry, targets, mechanism and metabolism?",
+      "options": [
+        "Reaxys",
+        "Pfam",
+        "DrugBank",
+        "CATH"
+      ],
+      "correct": 2,
+      "explanation": "DrugBank is the standard pharmaceutical database for approved and investigational drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A fixed-length hashed identifier that is the same for one structure in every database is the:",
+      "options": [
+        "SMARTS pattern",
+        "MOL file",
+        "CAS index name",
+        "InChIKey"
+      ],
+      "correct": 3,
+      "explanation": "The InChIKey is produced by one agreed algorithm, so it is ideal for cross-database searching.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "In molecular mechanics, bonds between atoms are treated as:",
+      "options": [
+        "Springs obeying Hooke's law",
+        "Electron clouds",
+        "Rigid rods of fixed length",
+        "Quantum oscillators only"
+      ],
+      "correct": 0,
+      "explanation": "Molecular mechanics is a classical ball-and-spring model with no explicit electrons.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Van der Waals interactions in most force fields are described by the:",
+      "options": [
+        "Coulomb equation",
+        "Lennard-Jones 12-6 potential",
+        "Schrodinger equation",
+        "Morse function"
+      ],
+      "correct": 1,
+      "explanation": "The 12-6 potential gives steep repulsion on close approach and weak attraction further out.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Which of the following is a semi-empirical quantum chemical method?",
+      "options": [
+        "B3LYP",
+        "Hartree-Fock",
+        "AM1",
+        "MM3"
+      ],
+      "correct": 2,
+      "explanation": "AM1, PM3, MNDO, MINDO and CNDO are semi-empirical; B3LYP is DFT and MM3 a force field.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "CHARMM and AMBER are examples of:",
+      "options": [
+        "Basis sets",
+        "Docking programs",
+        "Sequence databases",
+        "Force fields"
+      ],
+      "correct": 3,
+      "explanation": "Both are molecular mechanics force fields widely used for proteins and nucleic acids.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Which minimisation method uses second derivatives through the Hessian matrix?",
+      "options": [
+        "Newton-Raphson",
+        "Steepest descent",
+        "Conjugate gradient",
+        "Monte Carlo"
+      ],
+      "correct": 0,
+      "explanation": "Newton-Raphson uses curvature information, so it converges quickly near a minimum but is costly.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The main drawback of the steepest descent method is that it:",
+      "options": [
+        "Cannot handle strained structures",
+        "Converges slowly near the minimum",
+        "Requires the Hessian matrix",
+        "Always finds the global minimum"
+      ],
+      "correct": 1,
+      "explanation": "Successive steepest descent directions are orthogonal, so the path zig-zags near the minimum.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Energy minimisation of a flexible molecule gives:",
+      "options": [
+        "Always the global minimum",
+        "The transition state",
+        "The nearest local minimum",
+        "The bioactive conformation"
+      ],
+      "correct": 2,
+      "explanation": "Minimisation moves only downhill, so a separate search is needed for the global minimum.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The rotational energy barrier of ethane is approximately:",
+      "options": [
+        "0.1 kcal/mol",
+        "30 kcal/mol",
+        "100 kcal/mol",
+        "3 kcal/mol"
+      ],
+      "correct": 3,
+      "explanation": "About 3 kcal/mol (roughly 12 kJ/mol), so rotation is fast at room temperature.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "In the Monte Carlo method, an uphill move is accepted with a probability given by the:",
+      "options": [
+        "Metropolis criterion",
+        "Hooke's law",
+        "Boltzmann exclusion rule",
+        "Pauli principle"
+      ],
+      "correct": 0,
+      "explanation": "Accepting some uphill moves with probability exp(-dE/kT) lets the search escape local minima.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "A Ramachandran plot displays:",
+      "options": [
+        "Energy against partition coefficient",
+        "Backbone torsion angles phi against psi",
+        "Steric field contours",
+        "Bond lengths against bond angles"
+      ],
+      "correct": 1,
+      "explanation": "It shows the sterically allowed regions of protein backbone conformation and is used for validation.",
+      "probability": "medium"
+    }
+  ]
+}
