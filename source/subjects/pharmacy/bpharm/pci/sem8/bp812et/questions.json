@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define nutraceuticals, functional foods and dietary supplements, and give their differences. Classify nutraceuticals with examples.",
+      "answer": "1. Nutraceutical: a food or part of a food that gives medical or health benefits, including prevention or treatment of disease (term coined by Stephen DeFelice, 1989); in practice an isolated or concentrated bioactive given in measured amounts (lycopene, fish-oil omega-3, EGCG).\n2. Functional food: an ordinary-looking food eaten in normal meals that gives a health benefit beyond basic nutrition (oats, probiotic curd, iodised salt, omega-3 eggs); concept from Japan (FOSHU).\n3. Dietary supplement: an oral product that adds a dietary ingredient (vitamin, mineral, herb, amino acid, enzyme, fatty acid, extract) to the diet, sold as tablets, capsules, powders or liquids (US DSHEA 1994); India uses 'health supplement'.\n4. Differences table: form (food vs concentrate vs dosage form), way of intake (meals vs measured amounts), aim (benefit beyond nutrition vs physiological benefit vs filling dietary gaps), examples.\n5. Classification by source: plant (lycopene, curcumin, isoflavones), animal (fish oil, glucosamine, chondroitin), microbial (probiotics, spirulina), minerals.\n6. By chemical nature: isoprenoids (carotenoids, tocopherols, saponins), phenolics (flavonoids, lignans, resveratrol), carbohydrates (fibre, FOS), fatty acids (EPA, DHA, ALA, GLA), amino-acid based (peptides, glutathione, isothiocyanates), microbes, minerals.\n7. By mechanism: antioxidant, anti-inflammatory, lipid lowering, gut-flora modifying, chemopreventive, bone/joint support.\n8. By product type: dietary supplements, functional foods, medicinal foods, farmaceuticals; and traditional (unchanged foods) vs non-traditional (fortified or bred foods).\n9. Note: they support health; Indian food law forbids claims to prevent, treat or cure disease."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the role of nutraceuticals in the prevention and management of diabetes, cancer, cardiovascular disease and obesity.",
+      "answer": "1. Introduction: nutraceuticals act through antioxidant, anti-inflammatory, metabolic and gut-flora effects; they support but do not replace treatment.\n2. Diabetes: soluble fibre (psyllium, guar, oat beta-glucan) slows gastric emptying and glucose absorption; fenugreek (galactomannan, 4-hydroxyisoleucine), bitter gourd, cinnamon; chromium improves insulin action; alpha-lipoic acid reduces oxidative stress and is used in neuropathy.\n3. Cancer: lycopene (prostate), sulforaphane from broccoli induces phase II enzymes via Nrf2, green tea EGCG, curcumin, resveratrol, soy isoflavones and flax lignans (hormone-related cancers), selenium, fibre (colon). Mechanisms: antioxidant, carcinogen detoxification, block proliferation, induce apoptosis, anti-inflammatory.\n4. Cardiovascular disease: omega-3 EPA/DHA lower triglycerides and platelet aggregation; plant sterols/stanols and soluble fibre lower LDL; soy protein; garlic (cholesterol, platelets, blood pressure); flavonoids of tea and cocoa improve endothelial function; coenzyme Q10.\n5. Hypertension (add): potassium-rich foods, garlic, cocoa flavanols, fermented milk ACE-inhibitory peptides, beetroot nitrate.\n6. Obesity: glucomannan, psyllium and other fibres give fullness; high-protein foods; green tea catechins with caffeine raise energy use slightly; conjugated linoleic acid; chitosan.\n7. Table summarising condition → nutraceutical → mechanism.\n8. Cautions: evidence varies, single high-dose antioxidants can harm (beta-carotene in smokers), interactions with drugs (garlic and ginkgo with anticoagulants)."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Give the source, marker compounds with their chemical nature, and health benefits of spirulina, soyabean, ginseng and garlic.",
+      "answer": "1. Spirulina: dried cyanobacterium Arthrospira platensis / A. maxima; marker C-phycocyanin (blue phycobiliprotein), gamma-linolenic acid, beta-carotene; very high protein; uses — protein and micronutrient supplement in malnutrition, antioxidant, immune support, food colour; caution — microcystins, heavy metals, B12 mostly inactive analogue.\n2. Soyabean: seeds of Glycine max (Fabaceae); markers isoflavones genistein, daidzein, glycitein (phenolic phytoestrogens, glycosides genistin and daidzin), also saponins, lecithin, phytosterols; uses — soy protein lowers LDL, isoflavones ease menopausal symptoms and bone loss, possible lower risk of hormone-related cancers, vegetarian protein.\n3. Ginseng: roots of Panax ginseng and P. quinquefolius (Araliaceae); markers ginsenosides (dammarane-type triterpenoid saponins, e.g. Rb1, Rg1); uses — adaptogen, anti-fatigue, improves alertness and performance, mild glucose lowering, immune modulation; caution — insomnia, hypertension, interaction with warfarin and antidiabetics.\n4. Garlic: bulbs of Allium sativum (Liliaceae/Amaryllidaceae); marker alliin (sulphur amino acid) converted by alliinase to allicin (thiosulphinate) → diallyl di- and trisulphides, ajoene; aged garlic: S-allyl cysteine; uses — modest cholesterol and blood pressure lowering, antiplatelet, antimicrobial, antioxidant, possible cancer risk reduction; caution — bleeding with anticoagulants.\n5. Present as a table: product | source | marker | chemical nature | benefits."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on broccoli and flaxseed as functional foods.",
+      "answer": "Broccoli: flower heads of Brassica oleracea var. italica (Brassicaceae). Marker glucoraphanin (a glucosinolate) is converted by the enzyme myrosinase on chopping or chewing to sulforaphane (an isothiocyanate); also indole-3-carbinol, vitamin C, folate, lutein, fibre. Sulforaphane induces phase II detoxifying enzymes through Nrf2 and is studied for cancer prevention; light steaming keeps more myrosinase. Flaxseed: seeds of Linum usitatissimum (Linaceae). Markers: alpha-linolenic acid (plant omega-3), the lignan secoisolariciresinol diglucoside (converted by gut bacteria to enterodiol and enterolactone, phytoestrogens), mucilage. Benefits: lowers cholesterol, heart health, laxative, studied for hormone-related cancers and menopausal symptoms. Used ground, since whole seeds pass undigested."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe ginkgo as a nutraceutical: source, marker compounds and uses.",
+      "answer": "Source: leaves of Ginkgo biloba (Ginkgoaceae); standardised leaf extracts are used. Marker compounds: flavonol glycosides (of quercetin, kaempferol and isorhamnetin) and terpene trilactones — ginkgolides A, B and C (diterpenes) and bilobalide (sesquiterpene); extracts are limited in allergenic ginkgolic acids. Uses: memory and cognitive decline, poor peripheral circulation (intermittent claudication), tinnitus and vertigo; antioxidant and neuroprotective. Ginkgolide B is a platelet-activating factor antagonist, so ginkgo can increase bleeding with warfarin, aspirin or clopidogrel and should be stopped before surgery."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is public health nutrition? Explain the main strategies used to combat malnutrition in India.",
+      "answer": "Public health nutrition applies nutrition science to whole populations to prevent malnutrition and diet-related disease through policy, programmes and education. India has a double burden: undernutrition (stunting, underweight, low birth weight) with micronutrient deficiencies (iron, iodine, vitamin A, zinc — hidden hunger), and rising obesity, diabetes and hypertension. Strategies: food fortification (iodised and double-fortified salt, fortified rice, oil and milk with the +F logo); supplementation of target groups (iron–folic acid, vitamin A); dietary diversification (pulses, millets, vegetables); food distribution (PDS, supplementary nutrition); nutrition education; safe water and hygiene. Programmes: ICDS, PM POSHAN (mid-day meal), POSHAN Abhiyaan, Anaemia Mukt Bharat, iodine deficiency control."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss maternal and child nutrition.",
+      "answer": "Pregnancy raises needs for energy, protein, iron, folic acid, calcium, iodine and DHA. Folic acid around conception prevents neural tube defects; iron prevents anaemia, which raises low birth weight and maternal death; iodine supports the baby's brain and thyroid; calcium and vitamin D for bones; DHA for brain and retina. Lactation needs extra energy, protein and fluids. Poor maternal nutrition causes low birth weight and later stunting. Infants: exclusive breastfeeding for six months (give colostrum), then complementary foods with continued breastfeeding to two years. Common child problems: marasmus (wasting), kwashiorkor (oedema, skin and hair changes, fatty liver), anaemia, vitamin A deficiency, rickets. Growth monitoring and ICDS services detect and correct malnutrition."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the nutritional problems of ageing and the role of nutrition in the elderly.",
+      "answer": "Changes: lower muscle mass and activity (less energy needed but protein needed to slow sarcopenia); poor teeth, reduced taste and smell (less intake); less stomach acid (poor vitamin B12, iron and calcium absorption); less vitamin D synthesis in skin and less sun exposure (bone loss); reduced thirst (dehydration); many medicines (drug–nutrient interactions); loneliness and low income. Priorities: adequate protein, calcium and vitamin D (osteoporosis), vitamin B12, fibre and water (constipation), fruits and vegetables rich in antioxidants, omega-3 for heart and brain, lutein for eyes, soft energy-dense foods when appetite is poor. Common supplements: calcium–vitamin D, omega-3, multivitamins, glucosamine — with the pharmacist checking for interactions."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on nutrition education in the community.",
+      "answer": "Nutrition education is the planned use of communication to help people choose healthy, affordable diets. Steps: assess local problems, set simple goals, choose messages and methods, carry out, evaluate. Methods: individual counselling (mothers in clinics and anganwadis, home visits); group talks and cooking demonstrations; mass media (radio, TV, posters, social media, campaigns such as Eat Right India); schools (mid-day meal, school gardens). Key messages: breastfeeding and complementary feeding, iodised salt, iron-rich foods with vitamin C, green leafy vegetables and seasonal fruits, less salt, sugar and fat, handwashing and safe water, growth monitoring. Pharmacists add counselling on correct supplement use and unproven claims."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who coined the term nutraceutical and what does it mean?",
+      "answer": "Stephen DeFelice coined it in 1989 by joining 'nutrition' and 'pharmaceutical'; it means a food or part of a food that gives medical or health benefits, including prevention or treatment of disease."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the marker compound of ginseng and its chemical nature?",
+      "answer": "Ginsenosides (panaxosides) — triterpenoid saponins, mostly of the dammarane type such as Rb1 and Rg1."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify carotenoids. Describe the occurrence, chemical features and health benefits of beta-carotene, lycopene and lutein.",
+      "answer": "1. Carotenoids: C40 tetraterpenoids (eight isoprene units) with a long conjugated polyene chain; yellow–orange–red; fat-soluble.\n2. Classification: carotenes — hydrocarbons (alpha-carotene, beta-carotene, lycopene); xanthophylls — oxygen-containing (lutein, zeaxanthin, beta-cryptoxanthin, astaxanthin). Also provitamin A (beta-, alpha-carotene, beta-cryptoxanthin) vs non-provitamin A (lycopene, lutein).\n3. Beta-carotene: carrots, sweet potato, pumpkin, mango, papaya, green leafy vegetables, red palm oil; beta-ionone ring at both ends; central cleavage gives two retinal molecules — the main provitamin A; antioxidant (singlet oxygen quencher); caution — high-dose supplements raised lung cancer in smokers.\n4. Lycopene: tomato and tomato products, watermelon, pink guava; acyclic carotene with 11 conjugated double bonds; no provitamin A activity; one of the strongest singlet-oxygen quenchers; heating in oil forms cis isomers and breaks cell walls, improving absorption; studied for prostate cancer and heart protection.\n5. Lutein (with zeaxanthin): marigold flowers (commercial), spinach and green leafy vegetables, egg yolk, maize; hydroxylated xanthophyll; concentrated in the macula (macular pigment); filters blue light, antioxidant; studied for age-related macular degeneration and cataract.\n6. Diagram of beta-carotene (two rings) vs lycopene (open chain).\n7. General benefits: antioxidant, immunity, skin photoprotection; absorbed better with dietary fat."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are flavonoids? Give their classification and describe rutin, naringin, quercetin, anthocyanidins and catechins as nutraceuticals.",
+      "answer": "1. Flavonoids: polyphenols with a C6–C3–C6 skeleton — rings A and B joined by a three-carbon unit forming the pyran ring C; occur as glycosides in fruits, vegetables, tea, cocoa, wine.\n2. Classes: flavones (apigenin, luteolin), flavonols (quercetin, kaempferol, rutin), flavanones (naringenin, naringin, hesperidin), flavan-3-ols (catechins, EGCG), anthocyanidins (cyanidin, delphinidin, pelargonidin), isoflavones (genistein, daidzein).\n3. Rutin: quercetin-3-O-rutinoside; buckwheat, citrus peel, Sophora buds; reduces capillary fragility and permeability (varicose veins, haemorrhoids, bruising), antioxidant.\n4. Naringin: flavanone glycoside (naringenin-7-neohesperidoside); bitter principle of grapefruit; antioxidant, lipid lowering in studies; grapefruit inhibits intestinal CYP3A4 (mainly furanocoumarins) — drug interactions.\n5. Quercetin: flavonol aglycone; onion, apple, capers, tea, berries; strong antioxidant and metal chelator, anti-inflammatory, anti-allergic (mast cell stabilising), vascular protection.\n6. Anthocyanidins: aglycones on the flavylium cation (glycosides = anthocyanins); berries, black grapes, jamun, purple cabbage, black rice; red in acid, blue/purple at higher pH, heat- and light-sensitive; antioxidant, vascular and eye benefits, natural colours.\n7. Catechins: flavan-3-ols — catechin, epicatechin, EGCG; green tea, cocoa, apples; antioxidant, LDL lowering, slight increase of fat oxidation, chemopreventive; very concentrated extracts linked to liver injury.\n8. Mention flavones apigenin (parsley, chamomile) and luteolin (celery)."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Write on prebiotics, probiotics and phytoestrogens as nutraceuticals.",
+      "answer": "1. Probiotics: live microorganisms that, in adequate amounts, give a health benefit — Lactobacillus acidophilus, L. rhamnosus GG, L. casei, Bifidobacterium, Saccharomyces boulardii.\n2. Lactobacillus: Gram-positive non-spore-forming rods, lactic acid bacteria; in curd, buttermilk, idli batter, pickles. Good probiotic: safe, acid- and bile-resistant, adheres to gut, viable till expiry, strain-proven benefit.\n3. Mechanisms: competitive exclusion, lactic acid and bacteriocins, strengthened gut barrier, immune modulation. Uses: antibiotic-associated and infective diarrhoea, lactose intolerance, IBS, vaginal health.\n4. Prebiotics: non-digestible ingredients selectively used by helpful bacteria — FOS, inulin (chicory, onion, garlic, banana), GOS, lactulose, resistant starch. FOS/inulin are β(2→1) fructans; bifidogenic; fermentation gives acetate, propionate, butyrate; better calcium absorption; constipation relief; fat and sugar replacer. Synbiotic = both.\n5. Phytoestrogens: plant compounds resembling oestradiol, binding mainly ERβ as weak oestrogens/partial anti-oestrogens.\n6. Classes: isoflavones (genistein, daidzein, glycitein — soy, red clover; daidzein → equol by some gut flora), lignans (flax secoisolariciresinol → enterodiol, enterolactone), coumestans (coumestrol — alfalfa, clover sprouts).\n7. Benefits: menopausal hot flushes, bone loss, LDL lowering, possible lower breast/prostate cancer risk. Caution in oestrogen-sensitive conditions."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the organosulphur compounds of garlic (diallyl sulphides and allyl trisulphide).",
+      "answer": "Occurrence: garlic and other Allium species (onion, leek). Intact garlic holds alliin; crushing releases alliinase, forming allicin (diallyl thiosulphinate) within seconds. Allicin is unstable and changes to oil-soluble diallyl sulphide, diallyl disulphide, diallyl trisulphide (allitridin), ajoenes and vinyldithiins. Chemically they are small, volatile, lipid-soluble molecules with two allyl groups joined by one to three sulphur atoms. Benefits: modest lowering of total and LDL cholesterol, antiplatelet action (ajoene), mild blood pressure lowering (H2S release), antimicrobial, antioxidant, and cancer prevention — they alter carcinogen-metabolising enzymes, induce phase II detoxification and, in experiments, apoptosis of cancer cells. Crushing and waiting before cooking preserves activity; bleeding risk with anticoagulants."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on resveratrol.",
+      "answer": "Resveratrol is a stilbene polyphenol — 3,5,4′-trihydroxystilbene, two phenolic rings joined by an ethylene bridge, existing as trans (more active) and cis isomers. It is a phytoalexin made by plants against fungal attack and UV stress. Occurrence: skins of red grapes, red wine, peanuts, mulberries, blueberries; commercial source Polygonum cuspidatum root. Benefits: antioxidant and anti-inflammatory; cardioprotective (proposed part of the French paradox); activates SIRT1 and AMPK in experiments, so studied for anti-ageing and metabolic effects; chemopreventive in laboratory studies. Limitation: very low oral bioavailability because of rapid conjugation in gut and liver."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe tocopherols as nutraceuticals.",
+      "answer": "Vitamin E is a family of four tocopherols (α, β, γ, δ) and four tocotrienols. Each has a chromanol ring carrying the active phenolic –OH and a 16-carbon side chain — saturated in tocopherols, with three double bonds in tocotrienols; forms differ in ring methyl groups. α-Tocopherol is the most active and is retained by the hepatic α-tocopherol transfer protein; natural RRR (d-) form is more active than synthetic all-rac (dl); acetate and succinate esters are more stable. Sources: wheat germ oil (richest), sunflower and safflower oil, almonds, seeds; palm and rice bran oils rich in tocotrienols. Action: main lipid-soluble chain-breaking antioxidant — donates H to lipid peroxyl radicals; the tocopheroxyl radical is recycled by vitamin C. Uses: protects membranes and LDL, immunity, skin; antioxidant preservative for oils. High doses add to bleeding risk with anticoagulants."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of cereals (oats, wheat bran, rice bran) as functional foods.",
+      "answer": "Oats: soluble fibre beta-glucan (β(1→3),(1→4)-glucan) forms a viscous gel that binds bile acids and lowers LDL cholesterol, blunts post-meal glucose and increases satiety; avenanthramides are antioxidant. Wheat bran: insoluble fibre (cellulose, hemicellulose, lignin) and ferulic acid — increases stool bulk and water, speeds transit, relieves constipation and is linked to lower colon cancer risk. Rice bran: gamma-oryzanol, tocotrienols and fibre; rice bran oil lowers cholesterol and is antioxidant (bran must be heat-stabilised to stop lipase rancidity). Barley also gives beta-glucan; millets (ragi, jowar, bajra) give fibre, calcium and iron with low glycaemic response. Whole grains overall lower risk of heart disease, diabetes and colon cancer."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss sea foods and beverages (tea, coffee) as functional foods.",
+      "answer": "Sea foods: fatty fish (salmon, sardine, mackerel, Indian oil sardine) and fish oil give omega-3 EPA and DHA — lower triglycerides, anti-inflammatory and antiplatelet, needed for brain and retina; shellfish give glucosamine and chitosan; seaweeds give iodine, alginates and fucoidan; also selenium, zinc, taurine; krill oil carries astaxanthin. Tea: green tea catechins (EGCG) are antioxidant and LDL-lowering; L-theanine gives calm alertness with caffeine; black tea has theaflavins and thearubigins. Coffee: caffeine (alertness), chlorogenic acid (antioxidant), trigonelline; regular coffee drinking is associated with lower type 2 diabetes risk. Cocoa flavanols improve blood vessel function; grape juice gives resveratrol and anthocyanins."
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on proteins, vitamins and minerals as functional food ingredients.",
+      "answer": "Proteins and peptides: whey protein (rich in leucine; muscle building and satiety; lactoferrin and immunoglobulins), soy protein (lowers LDL), collagen peptides (skin and joints), fermented-milk bioactive peptides that inhibit ACE and lower blood pressure, casein phosphopeptides that help calcium absorption. Vitamins and minerals: fortified foods — iodised salt, double-fortified salt (iron + iodine), fortified rice and wheat flour (iron, folic acid, B12), fortified milk and oil (vitamins A and D); antioxidant vitamins C and E and minerals selenium and zinc (enzyme cofactors); calcium with vitamin D in milk and juices for bones. Under FSSAI rules, vitamins and minerals added to supplements must not exceed the ICMR recommended dietary allowance."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why does lycopene have no provitamin A activity?",
+      "answer": "Lycopene is an open-chain (acyclic) carotene without the beta-ionone ring needed to form retinal, so it cannot be converted to vitamin A."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are fructo-oligosaccharides?",
+      "answer": "Short chains of fructose units joined by β(2→1) links (fructans), usually ending in glucose; found in chicory, onion, banana; non-digestible prebiotics that feed bifidobacteria."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define free radicals and reactive oxygen species. Describe the production of free radicals in cells.",
+      "answer": "1. Free radical: any atom or molecule with one or more unpaired electrons that can exist independently; highly reactive; starts chain reactions.\n2. Formation: homolytic cleavage, one-electron loss, one-electron gain.\n3. ROS: radicals — superoxide O2•⁻, hydroxyl •OH (most reactive), hydroperoxyl HO2•, peroxyl ROO•, alkoxyl RO•; non-radicals — H2O2, singlet oxygen, HOCl, ozone. RNS: NO•, peroxynitrite ONOO⁻.\n4. Oxidative stress: oxidant production exceeds antioxidant defence; low ROS levels are useful (microbial killing, signalling).\n5. Stepwise reduction of oxygen: O2 → O2•⁻ → H2O2 → •OH → H2O.\n6. Endogenous sources: mitochondrial electron leak at complexes I and III (largest source); NADPH oxidase respiratory burst in phagocytes with myeloperoxidase making HOCl; xanthine oxidase; cytochrome P450 in ER; peroxisomal oxidation (H2O2); nitric oxide synthase; auto-oxidation of catecholamines and haemoglobin.\n7. Metal reactions: Fenton Fe²⁺ + H2O2 → Fe³⁺ + •OH + OH⁻; Haber–Weiss O2•⁻ + H2O2 → O2 + •OH + OH⁻ (iron-catalysed); NO• + O2•⁻ → ONOO⁻.\n8. Exogenous sources: ionising and UV radiation, cigarette smoke, air pollutants, drugs (paracetamol overdose, doxorubicin, bleomycin), paraquat, carbon tetrachloride, alcohol, heavy metals, oxidised frying oils."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the damaging reactions of free radicals on lipids, proteins, carbohydrates and nucleic acids.",
+      "answer": "1. Introduction: oxidative stress damages all major biomolecules; •OH is the most damaging.\n2. Lipids — lipid peroxidation of PUFAs (bis-allylic CH2 is weak): initiation LH + •OH → L• + H2O; propagation L• + O2 → LOO•, LOO• + LH → LOOH + L•; termination radical + radical or by vitamin E. Products: hydroperoxides, MDA, 4-HNE. Effects: stiff, leaky membranes, enzyme and pump failure, oxidised LDL in atherosclerosis, food rancidity. Markers: TBARS (MDA), F2-isoprostanes.\n3. Proteins: oxidation of cysteine (disulphides) and methionine (sulphoxide), carbonyl formation (lysine, arginine, proline, threonine), tyrosine nitration (3-nitrotyrosine), cross-linking and fragmentation → loss of enzyme function, aggregation, cataract; marker protein carbonyls.\n4. Carbohydrates: glycoxidation forms advanced glycation end products (CML, pentosidine) acting via RAGE; glucose auto-oxidation; •OH depolymerises hyaluronic acid in synovial fluid; deoxyribose attack.\n5. Nucleic acids: base oxidation — 8-oxo-dG pairs with A → G:C→T:A transversions; strand breaks, abasic sites, DNA–protein cross-links; mitochondrial DNA especially vulnerable; consequences mutation, cancer, apoptosis, ageing; repair by base excision.\n6. Summary table: target, damage, marker, disease."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is dietary fibre? Classify it and explain the physiological effects and uses of dietary fibre and complex carbohydrates as functional food ingredients.",
+      "answer": "1. Definition: edible plant parts and analogous carbohydrates resistant to digestion and absorption in the human small intestine, with complete or partial fermentation in the large intestine; complex carbohydrates = starch and non-starch polysaccharides; resistant starch behaves like fibre.\n2. Classification: soluble (pectin, beta-glucan, gums such as guar, mucilages such as psyllium, inulin/FOS, alginate, glucomannan) vs insoluble (cellulose, most hemicellulose, lignin, part of resistant starch); table of sources and effects.\n3. Cholesterol lowering: soluble viscous fibres bind bile acids → liver uses cholesterol to make new bile acids → LDL falls; propionate may reduce cholesterol synthesis.\n4. Glucose control: slower gastric emptying and starch digestion → lower post-meal glucose and insulin.\n5. Weight control: bulk, chewing, satiety, low energy density.\n6. Bowel function: insoluble fibre increases stool bulk and speeds transit — constipation, haemorrhoids, diverticular disease, lower colon cancer risk.\n7. Prebiotic/fermentation: SCFAs acetate, propionate, butyrate (colon cell fuel, anti-inflammatory), lower colon pH, better calcium absorption.\n8. Ingredients: psyllium, oat/barley beta-glucan, pectin, guar gum, inulin, resistant dextrin, wheat bran, glucomannan.\n9. Problems: gas and bloating, obstruction without water, reduced mineral and drug absorption."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain lipid peroxidation with reactions.",
+      "answer": "Polyunsaturated fatty acids in membranes are attacked at the methylene group between two double bonds. Initiation: LH + •OH → L• + H2O (the double bonds rearrange to a conjugated diene). Propagation: L• + O2 → LOO•; LOO• + LH → LOOH + L• — the new lipid radical continues the chain. Termination: two radicals combine to non-radical products, or vitamin E donates a hydrogen: LOO• + TOH → LOOH + TO•. Hydroperoxides break down (iron-catalysed) to alkoxyl radicals and aldehydes — malondialdehyde and 4-hydroxynonenal, which cross-link proteins and DNA. Results: leaky stiff membranes, damaged enzymes and receptors, oxidised LDL, rancid fats. Markers: MDA as TBARS, F2-isoprostanes, conjugated dienes."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the Fenton and Haber–Weiss reactions and explain their significance.",
+      "answer": "Fenton reaction: Fe²⁺ + H2O2 → Fe³⁺ + •OH + OH⁻. Haber–Weiss reaction (iron-catalysed overall): O2•⁻ + H2O2 → O2 + •OH + OH⁻, in which superoxide reduces Fe³⁺ back to Fe²⁺ (O2•⁻ + Fe³⁺ → O2 + Fe²⁺) so that the Fenton step can repeat. Significance: they turn the less reactive superoxide and H2O2 into the hydroxyl radical, the most reactive species that damages lipids, proteins and DNA at the site where it forms. So free (loosely bound) iron and copper are dangerous; the body keeps iron bound to transferrin and ferritin and copper to ceruloplasmin (preventive antioxidants). Iron overload, haemolysis, myoglobin release and ischaemia–reperfusion increase free iron and oxidative damage; vitamin C with free iron can become pro-oxidant."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between soluble and insoluble dietary fibre.",
+      "answer": "Soluble fibre dissolves or swells in water to a viscous gel; insoluble fibre does not dissolve but holds water. Examples: soluble — pectin, oat/barley beta-glucan, guar gum, psyllium mucilage, inulin, FOS, alginate; insoluble — cellulose, most hemicelluloses, lignin. Sources: soluble — oats, barley, legumes, fruits, isabgol; insoluble — wheat bran, whole grains, vegetable skins, nuts. Fermentation: soluble highly fermented to short-chain fatty acids; insoluble poorly fermented. Effects: soluble lowers LDL cholesterol (bile acid binding), flattens post-meal glucose, increases satiety and acts as prebiotic; insoluble increases stool bulk, speeds transit, relieves constipation and may lower colon cancer risk."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain oxidative damage to DNA and its consequences.",
+      "answer": "The hydroxyl radical adds to DNA bases and attacks the deoxyribose sugar. The main oxidised base is 8-oxo-7,8-dihydro-2′-deoxyguanosine (8-oxo-dG), which can pair with adenine and so causes G:C → T:A transversion mutations; it is measured in urine as a marker. Other damage: single- and double-strand breaks, abasic sites, DNA–protein cross-links and adducts with malondialdehyde. Mitochondrial DNA is especially vulnerable (near the electron transport chain, no histones, limited repair). Consequences: mutations in oncogenes and tumour suppressor genes (cancer), cell-cycle arrest, apoptosis, ageing and mitochondrial dysfunction. Cells repair much of the damage by base excision repair."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How do free radicals damage proteins and carbohydrates?",
+      "answer": "Proteins: sulphur amino acids are oxidised first — cysteine thiols to disulphides and sulphenic acids, methionine to methionine sulphoxide; lysine, arginine, proline and threonine form carbonyls (protein carbonyls are the standard marker); peroxynitrite nitrates tyrosine to 3-nitrotyrosine; dityrosine and aldehyde cross-links and backbone fragmentation follow. Results: enzyme inactivation, unfolding and aggregation (cataract, neurodegeneration), faster proteolysis, new antigens. Carbohydrates: reducing sugars glycate proteins (Schiff base → Amadori product) and with oxidation form advanced glycation end products, which stiffen collagen and activate RAGE (diabetic complications); glucose auto-oxidation produces superoxide and dicarbonyls; •OH depolymerises hyaluronic acid, lowering synovial fluid viscosity."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on the sources of free radicals outside the body.",
+      "answer": "Exogenous sources include: ionising radiation (X-rays, gamma rays) which splits water into •OH; ultraviolet light acting on the skin and eye; cigarette smoke, rich in radicals in both tar and gas phases; air pollutants — ozone, nitrogen dioxide, particulate matter; drugs — paracetamol in overdose, doxorubicin (quinone redox cycling), bleomycin, nitrofurantoin; chemicals — paraquat, carbon tetrachloride; alcohol (via CYP2E1); heavy metals and iron overload; oxidised and repeatedly heated frying oils in the diet. Strenuous exercise and infections also raise radical production temporarily. Many act by increasing the internal sources (CYP450, mitochondria, phagocytes)."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which is the most reactive reactive oxygen species? Is H2O2 a free radical?",
+      "answer": "The hydroxyl radical (•OH) is the most reactive. H2O2 is not a free radical (no unpaired electron), but it is a reactive oxygen species that forms •OH with iron."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two markers of lipid peroxidation.",
+      "answer": "Malondialdehyde measured as thiobarbituric acid reactive substances (TBARS), and F2-isoprostanes (also 4-hydroxynonenal and conjugated dienes)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the endogenous enzymatic and non-enzymatic antioxidant defence system.",
+      "answer": "1. Antioxidant definition (Halliwell): a substance that, at low concentration compared with an oxidisable substrate, significantly delays or prevents its oxidation. Types: preventive, chain-breaking, repair, adaptive.\n2. SOD: 2 O2•⁻ + 2H⁺ → H2O2 + O2; Cu/Zn-SOD (cytosol), Mn-SOD (mitochondria), extracellular SOD; first line against superoxide.\n3. Catalase: 2 H2O2 → 2 H2O + O2; haem enzyme in peroxisomes; high in liver and red cells, low in brain and β-cells; handles high H2O2.\n4. Glutathione peroxidase: H2O2 + 2 GSH → GSSG + 2 H2O and ROOH + 2 GSH → ROH + GSSG + H2O; selenium enzyme; removes low H2O2 and lipid hydroperoxides; glutathione reductase with NADPH (pentose phosphate pathway) regenerates GSH.\n5. Scheme: O2•⁻ → (SOD) H2O2 → (catalase / GPx) H2O.\n6. Glutathione: γ-Glu-Cys-Gly; thiol scavenges radicals, substrate of GPx, regenerates vitamins C and E, conjugates toxins (GST — paracetamol metabolite; N-acetylcysteine replenishes it); GSH:GSSG = redox index.\n7. Alpha-lipoic acid: dithiolane fatty acid, PDH and α-KGDH cofactor; DHLA/lipoic acid redox couple scavenges ROS, chelates metals, regenerates vitamins C, E, GSH, CoQ10; water and fat soluble — 'antioxidant of antioxidants'; diabetic neuropathy.\n8. Melatonin: N-acetyl-5-methoxytryptamine from tryptophan in pineal; amphiphilic, crosses BBB; scavenges •OH and ONOO⁻, metabolites also antioxidant, raises SOD, catalase, GPx; no pro-oxidant cycling.\n9. Others: uric acid, bilirubin, CoQ10, albumin, transferrin, ferritin, ceruloplasmin, metallothionein."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the role of free radicals in ischaemia–reperfusion injury and atherosclerosis.",
+      "answer": "1. Ischaemia: loss of blood supply; ATP is broken down to AMP, adenosine, inosine and hypoxanthine, which accumulates; raised calcium activates proteases that convert xanthine dehydrogenase to xanthine oxidase.\n2. Reperfusion: returning oxygen lets xanthine oxidase convert hypoxanthine → xanthine → uric acid with superoxide and H2O2; Fenton reaction gives •OH; damaged mitochondria leak more superoxide; neutrophils add the respiratory burst.\n3. Damage: lipid peroxidation, protein and DNA oxidation, calcium overload, mitochondrial pore opening, cell death — myocardial stunning, arrhythmias, stroke extension, graft failure.\n4. Protection studied: allopurinol, antioxidants, iron chelators, preservation solutions with glutathione, ischaemic preconditioning. Draw the scheme.\n5. Atherosclerosis — oxidative modification hypothesis: LDL enters intima and is oxidised by ROS from endothelium, macrophages and smooth muscle (lipid peroxidation and apoB-100 modification).\n6. Ox-LDL is taken up by macrophage scavenger receptors (no down-regulation) → foam cells → fatty streak; it damages endothelium, reduces nitric oxide, attracts monocytes, causes inflammation and smooth muscle proliferation → fibrous plaque → rupture and thrombosis.\n7. Risk factors raising ROS: smoking, diabetes, hypertension (angiotensin II–NADPH oxidase), high LDL. Superoxide destroys NO.\n8. Dietary protection: polyphenols (tea, cocoa, grapes), vitamin E in LDL, omega-3, soluble fibre and plant sterols, garlic."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the involvement of free radicals in diabetes mellitus, cancer and brain disorders. Add a note on the free radical theory of ageing.",
+      "answer": "1. Diabetes: extra ROS from glucose auto-oxidation, AGE–RAGE signalling, polyol pathway (NADPH used, less GSH), PKC activation, hexosamine pathway, mitochondrial superoxide; β-cells low in catalase and GPx (alloxan and streptozotocin damage them); insulin resistance; micro- and macro-vascular complications, cataract.\n2. Cancer: initiation — oxidative DNA damage (8-oxo-dG) mutates ras, p53; promotion — ROS act as growth signals (NF-κB, AP-1, MAPK); progression — instability, angiogenesis, metastasis; chronic inflammation (H. pylori, hepatitis, colitis) drives cancer; anticancer drugs and radiation themselves act via ROS.\n3. Brain: high oxygen use, PUFA-rich, iron, low catalase, dopamine auto-oxidation and MAO-B, excitotoxicity; Parkinson's (substantia nigra iron, complex I, low GSH, MPTP), Alzheimer's (amyloid–metal H2O2), stroke, ALS (SOD1 mutations).\n4. Free radical theory of ageing: Denham Harman, 1956 — ageing from lifelong accumulation of free radical damage from normal metabolism.\n5. Support: oxidative damage and lipofuscin rise with age; high metabolic rate species live shorter; caloric restriction extends lifespan in animals; mitochondrial vicious circle.\n6. Limits: antioxidant supplements have not extended human lifespan; ageing has many causes — oxidative damage is one contributor."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on superoxide dismutase, catalase and glutathione peroxidase.",
+      "answer": "SOD converts superoxide to hydrogen peroxide: 2 O2•⁻ + 2H⁺ → H2O2 + O2. Forms: Cu/Zn-SOD (SOD1) in cytosol, Mn-SOD (SOD2) in mitochondria, extracellular Cu/Zn-SOD (SOD3); SOD1 mutations occur in some familial ALS. Catalase converts H2O2 to water and oxygen: 2 H2O2 → 2 H2O + O2; it is a haem enzyme mostly in peroxisomes, very active at high H2O2 levels, high in liver and red cells, low in brain and β-cells. Glutathione peroxidase is a selenium-containing (selenocysteine) enzyme: H2O2 + 2 GSH → GSSG + 2 H2O; it also reduces lipid hydroperoxides; GSSG is reduced back by glutathione reductase using NADPH. The three work in sequence, so SOD alone is not enough — its product H2O2 must be removed."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on BHT and BHA as synthetic antioxidants.",
+      "answer": "Butylated hydroxytoluene (2,6-di-tert-butyl-4-methylphenol) and butylated hydroxyanisole (mixture of 2- and 3-tert-butyl-4-hydroxyanisole) are hindered phenols, fat-soluble and insoluble in water. They are added within regulatory limits to fats, oils, fat-containing foods, cosmetics and pharmaceutical products (vitamin A and E preparations, oily products) to prevent rancidity. Mechanism: chain-breaking — the phenolic –OH donates a hydrogen atom to a lipid peroxyl radical (LOO• + ArOH → LOOH + ArO•); the phenoxyl radical is stabilised by resonance and by the bulky tert-butyl groups, so it does not continue the chain and can trap a second radical. They act synergistically with each other and with citric acid (metal chelator) and ascorbyl palmitate. Related: propyl gallate, TBHQ. Safety debates have led to wider use of natural tocopherols and rosemary extract."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe glutathione and alpha-lipoic acid as antioxidants.",
+      "answer": "Glutathione is the tripeptide γ-glutamyl-cysteinyl-glycine, made in all cells; its active site is the cysteine thiol and the γ-link protects it from peptidases. It is the substrate of glutathione peroxidase, scavenges radicals directly, regenerates vitamins C and E, keeps protein thiols reduced and conjugates drugs and toxins through glutathione S-transferases (e.g. the reactive paracetamol metabolite; N-acetylcysteine restores GSH). The GSH:GSSG ratio indicates cellular redox status. Alpha-lipoic acid is an eight-carbon fatty acid with a dithiolane ring, a cofactor of pyruvate and α-ketoglutarate dehydrogenases. With its reduced form dihydrolipoic acid it forms a redox couple that scavenges ROS, chelates metals and regenerates vitamin C, vitamin E (via C), glutathione and CoQ10 — a 'network antioxidant'. It acts in both water and lipid phases; used in diabetic neuropathy."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on melatonin as an antioxidant.",
+      "answer": "Melatonin (N-acetyl-5-methoxytryptamine) is an indoleamine made from tryptophan via serotonin, mainly by the pineal gland at night (also in the gut and some foods); it regulates sleep and circadian rhythm and its production falls with age. As an antioxidant it is amphiphilic, so it enters cell membranes, cytosol and nuclei and crosses the blood–brain barrier. It directly scavenges the hydroxyl radical, peroxynitrite and other ROS/RNS, and its metabolites are also antioxidants (a scavenging cascade); it increases the activity and expression of SOD, catalase and glutathione peroxidase; and unlike some antioxidants it does not undergo redox cycling to become a pro-oxidant. It is studied for neuroprotection and ischaemia–reperfusion."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of free radicals in inflammation.",
+      "answer": "At inflamed sites, activated neutrophils and macrophages switch on NADPH oxidase — the respiratory burst — making superoxide; SOD forms H2O2, myeloperoxidase converts H2O2 and chloride into hypochlorous acid, and inducible NOS makes NO•, which combines with superoxide to give peroxynitrite. These kill microbes, but in chronic inflammation they damage host tissue. ROS activate NF-κB, increasing TNF-α, IL-1, IL-6, COX-2 and adhesion molecules, so oxidative stress and inflammation sustain each other. Examples: rheumatoid arthritis (•OH breaks hyaluronic acid, cartilage loss), inflammatory bowel disease, asthma, chronic hepatitis, periodontitis. Dietary help: omega-3 fatty acids, curcumin, quercetin, vitamins C and E."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss functional foods for the prevention of chronic diseases.",
+      "answer": "Heart disease: oats and barley (beta-glucan), plant sterol-enriched foods, soy protein, nuts, fatty fish (EPA, DHA), flaxseed, tea, cocoa, garlic, olive oil. Hypertension: potassium-rich fruits and vegetables, fermented milk peptides, beetroot nitrate, low-salt DASH-type diet. Type 2 diabetes: whole grains, millets, legumes, psyllium, fenugreek, bitter gourd, nuts. Cancer: tomato (lycopene), cruciferous vegetables (sulforaphane), garlic and onion, green tea, turmeric, soy, flaxseed, berries, high-fibre and probiotic foods. Osteoporosis: calcium- and vitamin D-fortified milk, ragi, soy isoflavones, green leafy vegetables. Eye: lutein and zeaxanthin (greens, egg yolk, maize). Gut: probiotic curd, inulin, wheat bran. Message: a varied diet gives the widest range of protective compounds; functional foods support but do not replace treatment."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who proposed the free radical theory of ageing and when?",
+      "answer": "Denham Harman proposed it in 1956: ageing results from the accumulation of damage caused by free radicals formed during normal metabolism."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which trace element is part of glutathione peroxidase?",
+      "answer": "Selenium, present as selenocysteine at the active site."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the regulatory aspects of nutraceuticals and foods in India with reference to FSSAI, FPO, MPO and AGMARK.",
+      "answer": "1. FSSAI: set up under the Food Safety and Standards Act, 2006 (Ministry of Health and Family Welfare); the Act repealed and merged the PFA Act 1954, Fruit Products Order, Meat Food Products Order, Vegetable Oil Products Order, Milk and Milk Products Order and others — one integrated food law.\n2. FSSAI functions: science-based standards, licensing and registration, import control, labs and surveillance, labelling and claims rules, consumer awareness (Eat Right India, +F).\n3. Nutraceutical regulations: FSS (Health Supplements, Nutraceuticals, FSDU, FSMP, Functional Food and Novel Food) Regulations 2016 (notified 23 December 2016, enforced from 1 January 2018), later replaced by the 2022 regulations (Health Supplements, Nutraceuticals, FSDU, FSMP, and Prebiotic and Probiotic Food).\n4. Key rules: positive lists in schedules; vitamins/minerals not above ICMR RDA (Codex if none); no claims to prevent, treat or cure disease (those are drugs under the D&C Act); no hormones, steroids, psychotropics; label — category name, 'NOT FOR MEDICINAL USE', daily usage and not to exceed, warnings, side effects, contraindications, drug interactions; probiotic strain and count; central licence.\n5. FPO 1955 (Essential Commodities Act): compulsory licence and standards for fruit and vegetable products (jams, squashes, pickles, sauces); FPO mark; now in FSS Act.\n6. MPO 1973: licence and hygiene for meat food products, inspection of slaughter and processing; now in FSS Act.\n7. AGMARK: Agricultural Produce (Grading and Marking) Act 1937, DMI, Ministry of Agriculture; quality grade certification of agricultural produce (ghee, honey, spices, pulses, oils); mostly voluntary; still in force.\n8. Brief mention of US FDA (DSHEA 1994) and BIS for comparison."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is HACCP? Explain its principles with an example, and add a note on GMP in food safety.",
+      "answer": "1. HACCP: Hazard Analysis and Critical Control Point — a preventive, science-based system that identifies, evaluates and controls significant food-safety hazards at their source rather than relying on end-product testing; recommended by Codex Alimentarius; part of FSSAI food safety management systems and ISO 22000.\n2. Hazards: biological (bacteria, viruses, parasites, moulds), chemical (pesticides, metals, mycotoxins, allergens, cleaning agents), physical (glass, metal, stones).\n3. Preliminary steps: HACCP team, product description, intended use, flow diagram, on-site confirmation.\n4. Seven principles: (1) conduct hazard analysis; (2) determine CCPs; (3) set critical limits; (4) monitoring procedures; (5) corrective actions; (6) verification; (7) record keeping and documentation.\n5. Example — probiotic drink: CCP-1 heat treatment with time–temperature limit and continuous recording, corrective action re-pasteurise or discard; CCP-2 metal detection; verification by calibration and microbial testing.\n6. Benefits: prevention, fewer recalls, consumer trust, export acceptance.\n7. GMP/GHP (prerequisites; Schedule 4 of FSS Licensing and Registration Regulations 2011): premises and layout, equipment, potable water, approved raw materials, personnel hygiene and training, cleaning and sanitation, pest control, process control and allergen control, packaging and labelling, storage and transport, documentation, traceability and recall, quality control."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the effect of processing, storage and environmental factors on the potency of nutraceuticals and the methods used to protect them.",
+      "answer": "1. Heat: destroys vitamin C, thiamine, folate, anthocyanins, probiotics and enzymes (alliinase, myrosinase); speeds oxidation of omega-3.\n2. Oxygen: oxidation and rancidity of omega-3 oils, carotenoids, vitamins A, C, E, polyphenols.\n3. Light: photo-oxidation and isomerisation of riboflavin, vitamin A, carotenoids, curcumin.\n4. Moisture/water activity: hydrolysis, microbial growth, loss of probiotic viability, caking.\n5. pH: anthocyanin colour changes, thiamine breakdown in alkali, folate loss; acid kills probiotics.\n6. Metals (Fe, Cu) catalyse oxidation; enzymes in raw materials (lipase in bran); storage time and temperature; ingredient interactions (Ca–Fe, tannins–iron, fibre–minerals, Maillard browning).\n7. Beneficial processing: cooking tomato in oil increases lycopene availability; fermentation adds B vitamins and peptides; germination; heat-stabilised rice bran; crushing garlic before cooking; light steaming of broccoli.\n8. Protection: antioxidants (tocopherols, ascorbyl palmitate, rosemary, BHT/BHA within limits), chelators (citric acid), stable esters, microencapsulation, liposomes, cyclodextrins; gentle processing (freeze drying, nitrogen flushing); light- and oxygen-barrier packaging, desiccants, oxygen absorbers; cool dry storage, cold chain for probiotics; overages within FSSAI limits; stability testing to set shelf life."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on FSSAI regulations for health supplements and nutraceuticals.",
+      "answer": "Nutraceuticals and health supplements in India are regulated as foods by FSSAI under the FSS Act, 2006, not as drugs. The FSS (Health Supplements, Nutraceuticals, Food for Special Dietary Use, Food for Special Medical Purpose, Functional Food and Novel Food) Regulations, 2016 were notified on 23 December 2016 and enforced from 1 January 2018; they were later replaced by the 2022 regulations (Health Supplements, Nutraceuticals, FSDU, FSMP, and Prebiotic and Probiotic Food). Main provisions: only ingredients in the schedules (vitamins, minerals, amino acids, botanicals with parts and limits, nutraceutical ingredients, probiotic strains, prebiotics, additives); nutrients not above the ICMR RDA; no claims to prevent, treat or cure disease; no hormones, steroids or psychotropics; label shows category, 'NOT FOR MEDICINAL USE', recommended daily usage, warnings, side effects, contraindications and drug interactions; probiotics declare strain and viable count; FSMP not advertised to the public; infant foods excluded; central licence for manufacturers."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is food adulteration? Give its types with common examples and simple tests.",
+      "answer": "Adulteration is the addition or removal of any substance, or any change, that lowers the quality or safety of food or passes off a cheaper article as a better one; under the FSS Act unsafe, sub-standard and misbranded food are offences. Types: intentional (water or starch in milk, colours in spices), incidental (pesticide residues, insect fragments, stones), metallic (lead, arsenic), microbial, natural toxins (aflatoxin, argemone seeds). Tests: starch in milk — iodine gives blue; metanil yellow in turmeric — hydrochloric acid gives pink/violet; argemone oil in mustard oil — nitric acid gives red-brown; papaya seeds in black pepper float in alcohol; brick powder in chilli settles in water; malachite green on vegetables — cotton with liquid paraffin turns green. FSSAI's DART booklet lists household tests. Nutraceuticals may be spiked with sildenafil, sibutramine or steroids, or have substituted botanicals."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on pharmacopoeial specifications for dietary supplements and nutraceuticals.",
+      "answer": "Pharmacopoeias provide monographs and general tests for identity, strength, quality and purity; FSSAI requires listed ingredients to meet purity criteria, and the IP, USP–NF, BP/Ph. Eur. and food chemical standards are used. The USP–NF has a dietary supplements section (vitamins, minerals, botanicals, probiotics) and general chapters for supplements: disintegration and dissolution <2040>, weight variation <2091>, microbial enumeration, absence of specified organisms and microbial attributes <2021>–<2023>, manufacturing practices <2750>. Typical product specifications: description; identification (HPTLC fingerprint, HPLC, microscopy); assay of actives or markers against label claim; uniformity; disintegration/dissolution; moisture; microbial limits and viable count for probiotics; heavy metals, pesticide residues, aflatoxins, residual solvents; screening for undeclared drugs; physical tests; stability. Botanicals are standardised to markers (ginkgo flavonol glycosides and terpene lactones, ginsenosides, EGCG)."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on FPO and AGMARK.",
+      "answer": "The Fruit Products Order, 1955, issued under the Essential Commodities Act, made a licence compulsory for manufacturers of fruit and vegetable products — jams, jellies, squashes, juices, pickles, sauces, canned products, vinegar — and laid down minimum quality standards, hygiene of premises, water quality, permitted preservatives and colours and labelling; products carried the FPO mark. It has now been merged into the FSS Act, 2006, and products carry an FSSAI licence number. AGMARK is the quality certification mark under the Agricultural Produce (Grading and Marking) Act, 1937, run by the Directorate of Marketing and Inspection, Ministry of Agriculture. It grades produce such as pulses, cereals, spices, edible oils, ghee, honey and butter after laboratory testing; it is mostly voluntary and remains in force."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How is the dietary supplement industry regulated by the US FDA?",
+      "answer": "Under the Dietary Supplement Health and Education Act (DSHEA), 1994, dietary supplements are regulated as a category of food, not drugs. There is no pre-market approval of safety or efficacy, except that a new dietary ingredient needs a pre-market notification; manufacturers are responsible for safety and truthful labelling, and the FDA acts after marketing against unsafe or misbranded products. Labels must carry a Supplement Facts panel. Structure/function claims are allowed with a disclaimer that the FDA has not evaluated the statement and that the product is not intended to diagnose, treat, cure or prevent any disease; disease claims are not allowed. Manufacturers must follow cGMP for dietary supplements (21 CFR Part 111). In India, State FDAs enforce food and drug laws at state level."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain the special stability problems of probiotic products.",
+      "answer": "Probiotic counts fall with heat, moisture, oxygen (many bifidobacteria are anaerobic), acid and time; stomach acid and bile further reduce the number reaching the gut. The label count must be met until the end of shelf life, not just at manufacture. Protection: choose acid- and bile-resistant strains; microencapsulation (alginate, whey protein), enteric-coated capsules; low-moisture powders with desiccants; oxygen-barrier and nitrogen-flushed packs; cold chain and refrigeration where needed; adding prebiotics as protectants (synbiotics); stability studies with viable counts. Indian rules require listed strains and a minimum viable count per daily serving declared on the label."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the seven principles of HACCP.",
+      "answer": "Hazard analysis; identify critical control points; set critical limits; monitoring; corrective actions; verification; record keeping and documentation."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Under which Act is AGMARK given?",
+      "answer": "The Agricultural Produce (Grading and Marking) Act, 1937, administered by the Directorate of Marketing and Inspection, Ministry of Agriculture."
+    }
+  ]
+}

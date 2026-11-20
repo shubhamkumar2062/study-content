@@ -1,0 +1,760 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The term 'nutraceutical' was coined by:",
+      "options": [
+        "Stephen DeFelice",
+        "Casimir Funk",
+        "Denham Harman",
+        "Elie Metchnikoff"
+      ],
+      "correct": 0,
+      "explanation": "DeFelice joined 'nutrition' and 'pharmaceutical' in 1989.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The concept of functional foods (FOSHU) first developed in:",
+      "options": [
+        "USA",
+        "Japan",
+        "India",
+        "Germany"
+      ],
+      "correct": 1,
+      "explanation": "Japan pioneered functional foods and later created the FOSHU category.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The marker compound of ginseng belongs to the class:",
+      "options": [
+        "Isoflavones",
+        "Isothiocyanates",
+        "Triterpenoid saponins",
+        "Phycobiliproteins"
+      ],
+      "correct": 2,
+      "explanation": "Ginsenosides are dammarane-type triterpenoid saponins.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Sulforaphane in broccoli is formed from glucoraphanin by the enzyme:",
+      "options": [
+        "Alliinase",
+        "Lipase",
+        "Tyrosinase",
+        "Myrosinase"
+      ],
+      "correct": 3,
+      "explanation": "Myrosinase released on chopping converts the glucosinolate to the isothiocyanate sulforaphane.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "C-phycocyanin, a blue pigment–protein complex, is the marker of:",
+      "options": [
+        "Spirulina",
+        "Ginkgo",
+        "Flaxseed",
+        "Soyabean"
+      ],
+      "correct": 0,
+      "explanation": "Spirulina (Arthrospira) is rich in the phycobiliprotein C-phycocyanin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Secoisolariciresinol diglucoside is a lignan found mainly in:",
+      "options": [
+        "Garlic",
+        "Flaxseed",
+        "Broccoli",
+        "Ginseng"
+      ],
+      "correct": 1,
+      "explanation": "Flax lignan SDG is converted by gut bacteria to enterodiol and enterolactone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Ginkgolide B acts as an antagonist of:",
+      "options": [
+        "Histamine H1 receptor",
+        "Angiotensin II",
+        "Platelet-activating factor",
+        "Acetylcholine"
+      ],
+      "correct": 2,
+      "explanation": "PAF antagonism explains ginkgo's bleeding risk with anticoagulants.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Folic acid taken around conception reduces the risk of:",
+      "options": [
+        "Rickets",
+        "Goitre",
+        "Night blindness",
+        "Neural tube defects"
+      ],
+      "correct": 3,
+      "explanation": "Folate is essential for neural tube closure in early pregnancy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Oedema, skin and hair changes and fatty liver in a malnourished child suggest:",
+      "options": [
+        "Kwashiorkor",
+        "Marasmus",
+        "Scurvy",
+        "Beriberi"
+      ],
+      "correct": 0,
+      "explanation": "Kwashiorkor shows oedema; marasmus shows severe wasting without oedema.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Glucosamine and chondroitin are nutraceuticals mainly used in:",
+      "options": [
+        "Hypertension",
+        "Osteoarthritis",
+        "Anaemia",
+        "Diabetes"
+      ],
+      "correct": 1,
+      "explanation": "They supply building blocks of joint cartilage.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Which carotenoid is acyclic and has no provitamin A activity?",
+      "options": [
+        "Beta-carotene",
+        "Alpha-carotene",
+        "Lycopene",
+        "Beta-cryptoxanthin"
+      ],
+      "correct": 2,
+      "explanation": "Lycopene is an open-chain carotene without the beta-ionone ring.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Xanthophylls differ from carotenes in that they:",
+      "options": [
+        "Contain nitrogen",
+        "Are water-soluble proteins",
+        "Have no conjugated double bonds",
+        "Contain oxygen"
+      ],
+      "correct": 3,
+      "explanation": "Xanthophylls such as lutein carry hydroxyl or keto groups.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Lutein and zeaxanthin are concentrated in the:",
+      "options": [
+        "Macula of the retina",
+        "Liver",
+        "Adrenal cortex",
+        "Bone marrow"
+      ],
+      "correct": 0,
+      "explanation": "They form the macular pigment that filters blue light.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Resveratrol is chemically a:",
+      "options": [
+        "Flavanone",
+        "Stilbene",
+        "Coumarin",
+        "Carotenoid"
+      ],
+      "correct": 1,
+      "explanation": "Resveratrol is 3,5,4'-trihydroxystilbene.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Rutin is a glycoside of:",
+      "options": [
+        "Naringenin",
+        "Genistein",
+        "Quercetin",
+        "Cyanidin"
+      ],
+      "correct": 2,
+      "explanation": "Rutin is quercetin-3-O-rutinoside.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Naringin, responsible for the bitter taste of grapefruit, is a:",
+      "options": [
+        "Flavonol aglycone",
+        "Anthocyanin",
+        "Isoflavone",
+        "Flavanone glycoside"
+      ],
+      "correct": 3,
+      "explanation": "Naringin is naringenin-7-neohesperidoside.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Epigallocatechin gallate (EGCG) is the major catechin of:",
+      "options": [
+        "Green tea",
+        "Coffee",
+        "Tomato",
+        "Garlic"
+      ],
+      "correct": 0,
+      "explanation": "Green tea is the richest source of catechins, chiefly EGCG.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Fructo-oligosaccharides consist of fructose units joined by:",
+      "options": [
+        "α(1→4) links",
+        "β(2→1) links",
+        "β(1→4) links",
+        "α(1→6) links"
+      ],
+      "correct": 1,
+      "explanation": "Human enzymes cannot split the β(2→1) links of fructans.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Daidzein is converted by some people's gut bacteria to:",
+      "options": [
+        "Enterolactone",
+        "Allicin",
+        "Equol",
+        "Retinal"
+      ],
+      "correct": 2,
+      "explanation": "Equol is more oestrogenic than daidzein.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The vitamin E form with the highest biological activity is:",
+      "options": [
+        "δ-Tocopherol",
+        "γ-Tocotrienol",
+        "β-Tocopherol",
+        "α-Tocopherol"
+      ],
+      "correct": 3,
+      "explanation": "α-Tocopherol is retained by the hepatic α-tocopherol transfer protein.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Gamma-oryzanol is a functional component of:",
+      "options": [
+        "Rice bran",
+        "Wheat bran",
+        "Oats",
+        "Coffee"
+      ],
+      "correct": 0,
+      "explanation": "Rice bran contains gamma-oryzanol and tocotrienols.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Diallyl trisulphide (allitridin) is obtained from:",
+      "options": [
+        "Tomato",
+        "Garlic",
+        "Soyabean",
+        "Flaxseed"
+      ],
+      "correct": 1,
+      "explanation": "Allicin from garlic breaks down to diallyl sulphides including the trisulphide.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "A free radical is defined as a species having:",
+      "options": [
+        "A positive charge",
+        "A full outer shell",
+        "One or more unpaired electrons",
+        "An even number of protons"
+      ],
+      "correct": 2,
+      "explanation": "The unpaired electron makes radicals highly reactive.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The most reactive reactive oxygen species is:",
+      "options": [
+        "Superoxide anion",
+        "Hydrogen peroxide",
+        "Nitric oxide",
+        "Hydroxyl radical"
+      ],
+      "correct": 3,
+      "explanation": "•OH reacts with almost any molecule at the site where it forms.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Which of the following is a reactive oxygen species but NOT a free radical?",
+      "options": [
+        "Hydrogen peroxide",
+        "Superoxide",
+        "Hydroxyl radical",
+        "Peroxyl radical"
+      ],
+      "correct": 0,
+      "explanation": "H2O2 has no unpaired electron.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The Fenton reaction produces hydroxyl radical from H2O2 and:",
+      "options": [
+        "Zn2+",
+        "Fe2+",
+        "Mg2+",
+        "Na+"
+      ],
+      "correct": 1,
+      "explanation": "Fe2+ + H2O2 → Fe3+ + •OH + OH−.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The largest source of superoxide in most cells is:",
+      "options": [
+        "Lysosomes",
+        "Golgi apparatus",
+        "Mitochondrial electron transport chain",
+        "Ribosomes"
+      ],
+      "correct": 2,
+      "explanation": "Electrons leak from complexes I and III to oxygen.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The TBARS test measures:",
+      "options": [
+        "8-oxo-dG",
+        "Protein carbonyls",
+        "Nitrotyrosine",
+        "Malondialdehyde"
+      ],
+      "correct": 3,
+      "explanation": "MDA from lipid peroxidation reacts with thiobarbituric acid.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "8-oxo-7,8-dihydro-2'-deoxyguanosine is a marker of oxidative damage to:",
+      "options": [
+        "DNA",
+        "Membrane lipids",
+        "Collagen",
+        "Glycogen"
+      ],
+      "correct": 0,
+      "explanation": "8-oxo-dG is the main oxidised DNA base and mispairs with adenine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Peroxynitrite is formed by the reaction of superoxide with:",
+      "options": [
+        "Hydrogen peroxide",
+        "Nitric oxide",
+        "Chloride",
+        "Ozone"
+      ],
+      "correct": 1,
+      "explanation": "NO• + O2•− → ONOO−.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Which of the following is an insoluble dietary fibre?",
+      "options": [
+        "Pectin",
+        "Guar gum",
+        "Cellulose",
+        "Inulin"
+      ],
+      "correct": 2,
+      "explanation": "Cellulose, hemicellulose and lignin are insoluble fibres.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The short-chain fatty acid that is the main fuel of colon cells is:",
+      "options": [
+        "Acetate",
+        "Propionate",
+        "Lactate",
+        "Butyrate"
+      ],
+      "correct": 3,
+      "explanation": "Butyrate from fibre fermentation nourishes colonocytes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Superoxide dismutase converts superoxide into:",
+      "options": [
+        "Hydrogen peroxide and oxygen",
+        "Water only",
+        "Hydroxyl radical",
+        "Peroxynitrite"
+      ],
+      "correct": 0,
+      "explanation": "2 O2•− + 2H+ → H2O2 + O2.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Glutathione peroxidase contains the trace element:",
+      "options": [
+        "Copper",
+        "Selenium",
+        "Manganese",
+        "Zinc"
+      ],
+      "correct": 1,
+      "explanation": "Selenocysteine is at its active site.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Catalase is located mainly in the:",
+      "options": [
+        "Nucleus",
+        "Ribosomes",
+        "Peroxisomes",
+        "Golgi apparatus"
+      ],
+      "correct": 2,
+      "explanation": "Catalase is a haem enzyme concentrated in peroxisomes.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The free radical theory of ageing was proposed by:",
+      "options": [
+        "Stephen DeFelice",
+        "Barry Halliwell",
+        "Hans Selye",
+        "Denham Harman"
+      ],
+      "correct": 3,
+      "explanation": "Harman proposed it in 1956.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "In ischaemia–reperfusion injury the key enzyme producing superoxide is:",
+      "options": [
+        "Xanthine oxidase",
+        "Catalase",
+        "Aldose reductase",
+        "Glutathione reductase"
+      ],
+      "correct": 0,
+      "explanation": "During ischaemia xanthine dehydrogenase converts to xanthine oxidase, which forms superoxide on reperfusion.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Glutathione is a tripeptide of:",
+      "options": [
+        "Glycine, alanine and serine",
+        "Glutamate, cysteine and glycine",
+        "Lysine, cysteine and glycine",
+        "Glutamine, methionine and glycine"
+      ],
+      "correct": 1,
+      "explanation": "GSH is γ-glutamyl-cysteinyl-glycine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Oxidised LDL is taken up by macrophages through:",
+      "options": [
+        "LDL receptors",
+        "Insulin receptors",
+        "Scavenger receptors",
+        "Toll-like receptors only"
+      ],
+      "correct": 2,
+      "explanation": "Scavenger receptors are not down-regulated, so foam cells form.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "BHT and BHA act as antioxidants by:",
+      "options": [
+        "Chelating iron only",
+        "Dismutating superoxide",
+        "Reducing GSSG",
+        "Donating a hydrogen atom to peroxyl radicals"
+      ],
+      "correct": 3,
+      "explanation": "These hindered phenols are chain-breaking antioxidants.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Melatonin, an antioxidant that crosses the blood–brain barrier, is synthesised from:",
+      "options": [
+        "Tryptophan",
+        "Tyrosine",
+        "Cholesterol",
+        "Arginine"
+      ],
+      "correct": 0,
+      "explanation": "Tryptophan → serotonin → melatonin in the pineal gland.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Some familial cases of amyotrophic lateral sclerosis are due to mutation in:",
+      "options": [
+        "Catalase",
+        "Cu/Zn superoxide dismutase (SOD1)",
+        "Glutathione reductase",
+        "Xanthine oxidase"
+      ],
+      "correct": 1,
+      "explanation": "SOD1 mutations are a known cause of familial ALS.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Alpha-lipoic acid is normally a cofactor of:",
+      "options": [
+        "Hexokinase",
+        "Lactate dehydrogenase",
+        "Pyruvate dehydrogenase",
+        "Glycogen phosphorylase"
+      ],
+      "correct": 2,
+      "explanation": "It is a cofactor of pyruvate and α-ketoglutarate dehydrogenases.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The Food Safety and Standards Act was enacted in:",
+      "options": [
+        "1954",
+        "1940",
+        "1937",
+        "2006"
+      ],
+      "correct": 3,
+      "explanation": "The FSS Act 2006 replaced the PFA Act 1954 and various food orders.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "AGMARK certification is given under the:",
+      "options": [
+        "Agricultural Produce (Grading and Marking) Act, 1937",
+        "Drugs and Cosmetics Act, 1940",
+        "Essential Commodities Act, 1955",
+        "FSS Act, 2006"
+      ],
+      "correct": 0,
+      "explanation": "AGMARK is run by the Directorate of Marketing and Inspection.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The Fruit Products Order controlled the manufacture of:",
+      "options": [
+        "Meat products",
+        "Jams, squashes and pickles",
+        "Packaged drinking water",
+        "Drugs"
+      ],
+      "correct": 1,
+      "explanation": "FPO 1955 licensed fruit and vegetable products.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The number of principles in HACCP is:",
+      "options": [
+        "Five",
+        "Nine",
+        "Seven",
+        "Twelve"
+      ],
+      "correct": 2,
+      "explanation": "Hazard analysis, CCPs, limits, monitoring, corrective action, verification, records.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Under FSSAI regulations, vitamins and minerals in health supplements must not exceed the RDA set by:",
+      "options": [
+        "WHO alone",
+        "BIS",
+        "AGMARK",
+        "ICMR"
+      ],
+      "correct": 3,
+      "explanation": "The Indian Council of Medical Research RDA is the upper limit; Codex applies if ICMR has none.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Labels of nutraceuticals under FSSAI must carry the statement:",
+      "options": [
+        "NOT FOR MEDICINAL USE",
+        "Schedule H drug",
+        "For external use only",
+        "Ayurvedic proprietary medicine"
+      ],
+      "correct": 0,
+      "explanation": "Nutraceuticals are foods and may not claim to cure disease.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Metanil yellow adulteration of turmeric is detected with:",
+      "options": [
+        "Iodine (blue colour)",
+        "Hydrochloric acid (pink colour)",
+        "Nitric acid (red-brown colour)",
+        "Water (sediment)"
+      ],
+      "correct": 1,
+      "explanation": "Metanil yellow turns pink-violet with HCl.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Argemone oil in mustard oil is detected with:",
+      "options": [
+        "Iodine solution",
+        "Lactometer",
+        "Nitric acid",
+        "Liquid paraffin"
+      ],
+      "correct": 2,
+      "explanation": "A red-brown colour with nitric acid indicates argemone oil.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "In the USA, dietary supplements are regulated under:",
+      "options": [
+        "FSS Act, 2006",
+        "Drugs and Cosmetics Act, 1940",
+        "Prevention of Food Adulteration Act, 1954",
+        "DSHEA, 1994"
+      ],
+      "correct": 3,
+      "explanation": "DSHEA treats supplements as a category of food.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Adding a little more of a nutrient than the label claim to cover losses during shelf life is called:",
+      "options": [
+        "Overage",
+        "Fortification",
+        "Adulteration",
+        "Enrichment"
+      ],
+      "correct": 0,
+      "explanation": "Overages are allowed within limits and must be declared.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Cooking tomatoes with oil generally:",
+      "options": [
+        "Destroys all lycopene",
+        "Increases lycopene absorption",
+        "Converts lycopene to vitamin A",
+        "Has no effect on lycopene"
+      ],
+      "correct": 1,
+      "explanation": "Heat and oil break cell walls and form better-absorbed cis isomers.",
+      "probability": "medium"
+    }
+  ]
+}
