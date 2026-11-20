@@ -1,0 +1,48 @@
+{
+  "code": "BP106T",
+  "title": "Pharmaceutical Inorganic and Analytical Chemistry",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, B.Pharm Syllabus 2026 (as per NEP 2020), BP106T Pharmaceutical Inorganic and Analytical Chemistry (Theory), units I–V",
+    "url": "https://www.pci.gov.in/documents/1455/B.Pharm_Syllabus_2026-_NEP2020_compressed.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to pharmaceutical analysis, errors, impurities and limit tests",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Acid–base chemistry, buffers, isotonicity and electrolytes",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Titrimetric analysis: acid–base, non-aqueous, precipitation, gravimetry, complexometric and redox",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Gastrointestinal agents, topical antimicrobials and radiopharmaceuticals",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Expectorants, emetics, haematinics, and poisons and antidotes",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The normality of 0.1 M H2SO4 in a neutralisation reaction is:",
+      "options": [
+        "0.2 N",
+        "0.1 N",
+        "0.05 N",
+        "0.4 N"
+      ],
+      "correct": 0,
+      "explanation": "N = M × n; H2SO4 gives 2 H⁺, so 0.1 × 2 = 0.2 N.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which of the following is a primary standard?",
+      "options": [
+        "Sodium hydroxide",
+        "Potassium hydrogen phthalate",
+        "Potassium permanganate",
+        "Sodium thiosulphate"
+      ],
+      "correct": 1,
+      "explanation": "KHP is pure, stable and non-hygroscopic; the others must be standardised.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Systematic (determinate) errors mainly affect the:",
+      "options": [
+        "Precision only",
+        "Number of significant figures",
+        "Accuracy of results",
+        "Colour of the end point"
+      ],
+      "correct": 2,
+      "explanation": "Determinate errors shift results in one direction, lowering accuracy; random errors lower precision.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "A blank determination helps to correct errors due to:",
+      "options": [
+        "Random fluctuations",
+        "Gross mistakes in weighing",
+        "Parallax only",
+        "Reagents and indicator"
+      ],
+      "correct": 3,
+      "explanation": "The blank measures the titrant used by reagents and indicator alone, which is then subtracted.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The number of significant figures in 25.00 ml is:",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "correct": 0,
+      "explanation": "Trailing zeros after the decimal point are significant.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In the limit test for iron, thioglycollic acid acts to:",
+      "options": [
+        "Precipitate iron as hydroxide",
+        "Reduce ferric iron to ferrous and form a coloured complex",
+        "Remove sulphide interference",
+        "Seed the precipitation"
+      ],
+      "correct": 1,
+      "explanation": "It reduces Fe³⁺ to Fe²⁺ and forms purple ferrous thioglycollate in alkaline medium.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "In the Gutzeit test, arsenic is detected as a stain on paper soaked in:",
+      "options": [
+        "Lead acetate",
+        "Silver nitrate",
+        "Mercuric chloride",
+        "Potassium iodide"
+      ],
+      "correct": 2,
+      "explanation": "Arsine gives a yellow-brown stain on HgCl2 paper; lead acetate cotton traps H2S.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The limit test for heavy metals is carried out at a pH of about:",
+      "options": [
+        "1.0",
+        "7.0",
+        "10.0",
+        "3.5"
+      ],
+      "correct": 3,
+      "explanation": "Acetate buffer pH 3.5 lets heavy metal sulphides form while Fe and Zn interfere little.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Potassium sulphate is added to the barium sulphate reagent in the sulphate limit test to:",
+      "options": [
+        "Seed the precipitation and give even turbidity",
+        "Dissolve carbonates",
+        "Increase the pH",
+        "Reduce sulphite"
+      ],
+      "correct": 0,
+      "explanation": "A trace of K2SO4 provides nuclei so BaSO4 turbidity forms quickly and evenly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Dithizone forms a red complex in chloroform in the limit test for:",
+      "options": [
+        "Iron",
+        "Lead",
+        "Arsenic",
+        "Chloride"
+      ],
+      "correct": 1,
+      "explanation": "Lead dithizonate is red; dithizone itself is green.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "According to Brønsted–Lowry, a base is a:",
+      "options": [
+        "Proton donor",
+        "Electron-pair acceptor",
+        "Proton acceptor",
+        "Hydroxide donor only"
+      ],
+      "correct": 2,
+      "explanation": "Brønsted–Lowry bases accept H⁺; Lewis bases donate electron pairs.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The pH of a buffer of 0.1 M acetic acid and 0.2 M sodium acetate (pKa 4.76) is about:",
+      "options": [
+        "4.46",
+        "4.76",
+        "5.76",
+        "5.06"
+      ],
+      "correct": 3,
+      "explanation": "pH = 4.76 + log 2 = 5.06.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "A buffer has its maximum buffer capacity when:",
+      "options": [
+        "pH equals pKa",
+        "pH equals 7",
+        "Salt concentration is zero",
+        "pH equals pKa + 3"
+      ],
+      "correct": 0,
+      "explanation": "Capacity is greatest when salt and acid concentrations are equal, i.e. pH = pKa.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Blood plasma and tears freeze at about:",
+      "options": [
+        "0 °C",
+        "−0.52 °C",
+        "−0.20 °C",
+        "−1.86 °C"
+      ],
+      "correct": 1,
+      "explanation": "Isotonic solutions such as 0.9% NaCl share this freezing point.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Red blood cells placed in a hypertonic solution:",
+      "options": [
+        "Swell and burst",
+        "Remain unchanged",
+        "Shrink (crenation)",
+        "Dissolve completely"
+      ],
+      "correct": 2,
+      "explanation": "Water moves out of the cells into the more concentrated solution.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The main intracellular cation is:",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Chloride",
+        "Potassium"
+      ],
+      "correct": 3,
+      "explanation": "K⁺ dominates the ICF; Na⁺ dominates the ECF.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The osmolarity of the reduced-osmolarity ORS is about:",
+      "options": [
+        "245 mOsm/L",
+        "311 mOsm/L",
+        "154 mOsm/L",
+        "400 mOsm/L"
+      ],
+      "correct": 0,
+      "explanation": "The WHO/IP reduced-osmolarity formula gives about 245 mOsm/L.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "In ORS, trisodium citrate is included mainly to:",
+      "options": [
+        "Provide energy",
+        "Correct acidosis",
+        "Increase osmolarity",
+        "Preserve the solution"
+      ],
+      "correct": 1,
+      "explanation": "Citrate is metabolised to bicarbonate and is more stable than sodium bicarbonate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The normal ratio of bicarbonate to carbonic acid in plasma is about:",
+      "options": [
+        "1 : 1",
+        "1 : 20",
+        "20 : 1",
+        "10 : 1"
+      ],
+      "correct": 2,
+      "explanation": "6.1 + log 20 ≈ 7.4.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "1 g of sodium chloride provides about how many mEq of sodium?",
+      "options": [
+        "13.4 mEq",
+        "58.4 mEq",
+        "1.71 mEq",
+        "17.1 mEq"
+      ],
+      "correct": 3,
+      "explanation": "1000 mg ÷ 58.44 = 17.1 mmol = 17.1 mEq.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The suitable indicator for titration of acetic acid with sodium hydroxide is:",
+      "options": [
+        "Phenolphthalein",
+        "Methyl orange",
+        "Methyl red",
+        "Eriochrome Black T"
+      ],
+      "correct": 0,
+      "explanation": "The equivalence pH is about 8.7, within phenolphthalein's range.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Sodium hydroxide solution is standardised against:",
+      "options": [
+        "Sodium chloride",
+        "Potassium hydrogen phthalate",
+        "Oxalic acid in sulphuric acid",
+        "Arsenic trioxide in ceric solution"
+      ],
+      "correct": 1,
+      "explanation": "KHP reacts 1:1 with NaOH using phenolphthalein.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Acetic anhydride is added to perchloric acid titrant to:",
+      "options": [
+        "Increase acidity of water",
+        "Act as indicator",
+        "Remove water",
+        "Dissolve the sample"
+      ],
+      "correct": 2,
+      "explanation": "It converts water to acetic acid, which would otherwise weaken the titrant.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Glacial acetic acid used for titrating weak bases is classed as a:",
+      "options": [
+        "Protophilic solvent",
+        "Aprotic solvent",
+        "Inert solvent",
+        "Protogenic solvent"
+      ],
+      "correct": 3,
+      "explanation": "It donates protons and strengthens weak bases.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "In Mohr's method the indicator is:",
+      "options": [
+        "Potassium chromate",
+        "Ferric ammonium sulphate",
+        "Fluorescein",
+        "Starch"
+      ],
+      "correct": 0,
+      "explanation": "Excess Ag⁺ forms red-brown silver chromate after AgCl precipitates.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Nitrobenzene is added in the modified Volhard method because:",
+      "options": [
+        "AgCl is less soluble than AgSCN",
+        "AgCl is more soluble than AgSCN",
+        "It acts as an indicator",
+        "It increases the pH"
+      ],
+      "correct": 1,
+      "explanation": "Nitrobenzene coats AgCl so it does not react with thiocyanate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Eriochrome Black T at pH 10 changes colour at the end point from:",
+      "options": [
+        "Blue to wine red",
+        "Yellow to red",
+        "Wine red to blue",
+        "Colourless to pink"
+      ],
+      "correct": 2,
+      "explanation": "Metal–EBT complex is wine red; free indicator at pH 10 is blue.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Which agent masks Al³⁺ and Fe³⁺ in complexometric titrations?",
+      "options": [
+        "Formaldehyde",
+        "Potassium chromate",
+        "Starch",
+        "Triethanolamine"
+      ],
+      "correct": 3,
+      "explanation": "Triethanolamine masks Al, Fe and Mn; formaldehyde demasks Zn–cyanide.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "In iodometry, starch is added:",
+      "options": [
+        "Near the end point",
+        "At the beginning",
+        "Never",
+        "After the end point"
+      ],
+      "correct": 0,
+      "explanation": "Added late so that iodine is not strongly bound to starch, which would give an overshoot.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The gravimetric factor for barium from barium sulphate is about:",
+      "options": [
+        "0.4116",
+        "0.5884",
+        "1.0466",
+        "0.2500"
+      ],
+      "correct": 1,
+      "explanation": "137.33 ÷ 233.38 = 0.5884.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Sodium bicarbonate is classed as a:",
+      "options": [
+        "Non-systemic antacid",
+        "Saline laxative",
+        "Systemic antacid",
+        "Acidifier"
+      ],
+      "correct": 2,
+      "explanation": "It is absorbed and can cause systemic alkalosis.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Aluminium hydroxide is combined with magnesium hydroxide in antacids mainly to:",
+      "options": [
+        "Increase CO2 release",
+        "Increase sodium content",
+        "Make it systemic",
+        "Balance constipation and laxative effects"
+      ],
+      "correct": 3,
+      "explanation": "Al constipates, Mg loosens the bowel; together the effects cancel.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Aluminium hydroxide gel is assayed by:",
+      "options": [
+        "Complexometric back titration",
+        "Direct acidimetry",
+        "Iodometry",
+        "Gravimetry as BaSO4"
+      ],
+      "correct": 0,
+      "explanation": "Excess EDTA is added and back-titrated with zinc sulphate; result as Al2O3.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "A 3% w/v solution of hydrogen peroxide is about:",
+      "options": [
+        "3 volume",
+        "10 volume",
+        "20 volume",
+        "100 volume"
+      ],
+      "correct": 1,
+      "explanation": "68 g H2O2 gives 22.4 L O2, so 3% gives about 10 ml O2 per ml.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Hydrogen peroxide is assayed with:",
+      "options": [
+        "Silver nitrate",
+        "Disodium EDTA",
+        "Potassium permanganate",
+        "Perchloric acid"
+      ],
+      "correct": 2,
+      "explanation": "2MnO4⁻ + 5H2O2 + 6H⁺ → 2Mn²⁺ + 5O2 + 8H2O; 1 ml 0.02 M ≡ 0.001701 g.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Chlorinated lime is prepared by passing chlorine over:",
+      "options": [
+        "Quick lime",
+        "Limestone",
+        "Calcium chloride",
+        "Slaked lime"
+      ],
+      "correct": 3,
+      "explanation": "Ca(OH)2 + Cl2 → Ca(OCl)Cl + H2O.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Strong Iodine Solution (Lugol's solution) contains:",
+      "options": [
+        "5% iodine and 10% potassium iodide",
+        "2% iodine in alcohol",
+        "10% iodine and 5% potassium iodide",
+        "Iodine complexed with povidone"
+      ],
+      "correct": 0,
+      "explanation": "Lugol's is aqueous iodine 5% w/v with KI 10% w/v.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The half-life of technetium-99m is about:",
+      "options": [
+        "8 days",
+        "6 hours",
+        "14 days",
+        "5.3 years"
+      ],
+      "correct": 1,
+      "explanation": "Tc-99m about 6 h; I-131 about 8 days; P-32 about 14 days; Co-60 about 5.3 years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Cobalt-60 is used in pharmacy chiefly for:",
+      "options": [
+        "Thyroid imaging",
+        "Treatment of polycythaemia vera",
+        "Gamma sterilisation of disposables",
+        "Bone scanning"
+      ],
+      "correct": 2,
+      "explanation": "Co-60 gamma rays sterilise syringes and surgical items and treat cancer by teletherapy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Magnesium trisilicate protects an ulcer surface by forming:",
+      "options": [
+        "Magnesium hydroxide",
+        "Carbon dioxide",
+        "Aluminium phosphate",
+        "Colloidal silica"
+      ],
+      "correct": 3,
+      "explanation": "Reaction with HCl gives gelatinous silica that coats the mucosa.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Ammonium chloride is assayed by:",
+      "options": [
+        "Formol titration with sodium hydroxide",
+        "Mohr's method",
+        "Cerimetry",
+        "Iodimetry"
+      ],
+      "correct": 0,
+      "explanation": "Formaldehyde releases HCl from NH4⁺, titrated with NaOH; 1 ml 0.1 M ≡ 0.005349 g.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Potassium iodide is assayed by titration with:",
+      "options": [
+        "Sodium thiosulphate in neutral solution",
+        "Potassium iodate in strong HCl",
+        "EDTA at pH 10",
+        "Perchloric acid"
+      ],
+      "correct": 1,
+      "explanation": "Andrews' method: KIO3 + 2KI + 6HCl → 3ICl; chloroform end point.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Ammonium chloride acts as an expectorant by:",
+      "options": [
+        "Direct secretion by bronchial glands",
+        "Breaking disulphide bonds in mucus",
+        "Reflex stimulation through gastric irritation",
+        "Suppressing the cough centre"
+      ],
+      "correct": 2,
+      "explanation": "It is a sedative (reflex) expectorant.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Copper sulphate is assayed by:",
+      "options": [
+        "Permanganometry",
+        "Complexometry with EBT",
+        "Non-aqueous titration",
+        "Iodometry"
+      ],
+      "correct": 3,
+      "explanation": "Cu²⁺ liberates iodine from KI, titrated with thiosulphate; KSCN added near the end.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Which of the following is a centrally acting emetic?",
+      "options": [
+        "Apomorphine",
+        "Copper sulphate",
+        "Zinc sulphate",
+        "Strong sodium chloride solution"
+      ],
+      "correct": 0,
+      "explanation": "Apomorphine stimulates the chemoreceptor trigger zone; the salts act reflexly by irritating the stomach.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Ferrous sulphate is assayed by titration with:",
+      "options": [
+        "Silver nitrate",
+        "Ceric ammonium sulphate",
+        "Sodium hydroxide",
+        "Disodium EDTA"
+      ],
+      "correct": 1,
+      "explanation": "Fe²⁺ + Ce⁴⁺ → Fe³⁺ + Ce³⁺ with ferroin; 1 ml 0.1 M ≡ 0.02780 g.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Iron is best absorbed in the:",
+      "options": [
+        "Ferric form in the colon",
+        "Ferrous form in the stomach only",
+        "Ferrous form in the duodenum",
+        "Ferric form in the ileum"
+      ],
+      "correct": 2,
+      "explanation": "Fe²⁺ is absorbed mainly in the duodenum and upper jejunum.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Ferrous gluconate is preferred to ferrous sulphate when:",
+      "options": [
+        "More iron per gram is needed",
+        "Injection is required",
+        "The patient has iron overload",
+        "Gastric irritation from ferrous sulphate is a problem"
+      ],
+      "correct": 3,
+      "explanation": "Gluconate is less irritant, though it contains less iron (about 11.6%).",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "In cyanide poisoning, sodium thiosulphate acts as a:",
+      "options": [
+        "Sulphur donor for rhodanese",
+        "Methaemoglobin former",
+        "Chelating agent for iron",
+        "Adsorbent"
+      ],
+      "correct": 0,
+      "explanation": "Rhodanese converts CN⁻ and thiosulphate to less toxic thiocyanate.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Atropine in organophosphate poisoning is an example of a:",
+      "options": [
+        "Chemical antidote",
+        "Physiological antidote",
+        "Mechanical antidote",
+        "Universal antidote"
+      ],
+      "correct": 1,
+      "explanation": "It blocks the effects of excess acetylcholine at receptors.",
+      "probability": "medium"
+    }
+  ]
+}

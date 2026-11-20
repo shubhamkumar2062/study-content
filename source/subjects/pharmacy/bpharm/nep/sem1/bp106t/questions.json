@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the PCI B.Pharm 2026 syllabus and on how often similar questions appear in pharmaceutical analysis and inorganic chemistry papers of the older PCI course. This is a new course, so it is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define limit test. Explain the principle, reagents and procedure of the limit test for arsenic, with a labelled diagram of the Gutzeit apparatus.",
+      "answer": "1. Limit test: a semi-quantitative test showing whether a known impurity is above or below a fixed limit, by comparing test and standard treated identically.\n2. Principle: arsenic is converted to arsine (AsH3) by nascent hydrogen from arsenic-free zinc and HCl; arsine gives a yellow (turning brownish) stain on mercuric chloride paper; stain compared with that from standard arsenic solution.\n3. Reactions: As(V) → As(III) by KI and SnCl2; Zn + 2HCl → ZnCl2 + 2[H]; As(III) + nascent H → AsH3.\n4. Reagents and roles: stannated HCl (acid, even gas evolution), KI and SnCl2 (reduce arsenate to arsenite), arsenic-free zinc (nascent H), lead acetate cotton wool (absorbs H2S), HgCl2 paper (stain).\n5. Apparatus: wide-mouth bottle with rubber bung, narrow tube packed with lead acetate cotton, top end with HgCl2 paper clamped between two flat-ended tubes (draw diagram).\n6. Procedure: sample dissolved, reagents added, zinc added, bung fitted, kept at about 40 °C for about 40 minutes; standard run side by side.\n7. Observation: stain of test not more intense than standard → passes.\n8. Precautions: arsenic-free reagents, steady temperature, compare at once (stain fades in light)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What are impurities in pharmaceuticals? Discuss the types and sources of impurities and the regulatory importance of controlling them.",
+      "answer": "1. Impurity: any component of a drug substance or product that is not the intended chemical entity or an excipient.\n2. Types: organic (starting materials, intermediates, by-products, degradation products), inorganic (reagents, catalysts, heavy metals, chloride, sulphate), residual solvents, toxic elemental impurities (As, Pb, Hg), physical (dust, fibres, glass).\n3. Sources — raw materials: rock salt carries Ca and Mg salts; sulphuric acid from pyrites carries arsenic.\n4. Method of manufacture: reagents left (ammonia, chloride in NaHCO3 by Solvay process), intermediates, side reactions, solvents (water brings Ca, Mg, Cl⁻, SO4²⁻), catalysts.\n5. Plant and vessels: Fe, Cu, Pb, Zn from metal vessels; alkali from glass; fibres from filters.\n6. Atmosphere: dust, CO2 (NaOH → Na2CO3), moisture, SO2.\n7. Storage: decomposition by light, heat, air; reaction with container; efflorescence/deliquescence; microbial contamination.\n8. Cross-contamination, labelling errors, deliberate adulteration.\n9. Regulatory importance: toxicity, reduced potency, shorter shelf life, changes in colour/taste; pharmacopoeia sets limits and test methods; ICH thresholds for reporting, identification and qualification; failing batches cannot be sold."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Explain the different types of errors in pharmaceutical analysis. How are errors minimised? Define accuracy and precision with an example.",
+      "answer": "1. Error = measured value − true value.\n2. Determinate (systematic): definite cause, same direction, can be corrected — instrumental (uncalibrated glassware, weights), method (incomplete reaction, end point ≠ equivalence point, solubility of precipitate), reagent (impurities), personal (parallax, colour judgement). Constant or proportional. Affect accuracy.\n3. Indeterminate (random): no single cause, scatter both sides of the mean; affect precision; handled by repeats and statistics.\n4. Gross errors: blunders; result discarded.\n5. Minimising: calibration, blank determination, control determination with a standard, independent method, parallel (replicate) determinations, standard addition, good technique.\n6. Accuracy: closeness to true value (absolute or relative error).\n7. Precision: closeness of repeated results (SD, RSD).\n8. Example: titres 10.12, 10.15, 10.10, 10.14, 10.13 ml; mean 10.128 ml, SD 0.019, RSD 0.19% (precise); true 10.00 ml → relative error +1.28% (not accurate; systematic error suspected).\n9. Precise results can still be inaccurate."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Distinguish between primary and secondary standards with two examples each. List the properties of an ideal primary standard.",
+      "answer": "1. Primary standard: pure enough to weigh directly for a solution of exactly known strength — KHP, anhydrous Na2CO3, NaCl, K2Cr2O7, KIO3, As2O3.\n2. Secondary standard: strength found by titration against a primary standard — NaOH, HCl, KMnO4, Na2S2O3, iodine, AgNO3, EDTA.\n3. Ideal properties: high purity (~99.9%), stable in air (not hygroscopic or efflorescent, not attacked by CO2/O2), unchanged on drying, high equivalent weight, soluble, reacts quickly and stoichiometrically, cheap and available."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Explain the principle of the limit test for iron and the role of each reagent.",
+      "answer": "1. Principle: iron (Fe²⁺ or Fe³⁺) reacts with thioglycollic acid in ammoniacal solution containing citric acid to give a pink to reddish-purple ferrous thioglycollate complex; colour compared with standard iron solution.\n2. Citric acid (20% w/v): complexes iron and prevents precipitation as hydroxide in alkali.\n3. Thioglycollic acid: reduces Fe³⁺ to Fe²⁺ and forms the coloured complex, so total iron is detected.\n4. Iron-free ammonia: makes the solution alkaline; colour develops only in alkaline medium.\n5. Compare after 5 minutes, viewing down Nessler cylinders against white background."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the limit tests for chloride and sulphate. Why are modified limit tests needed? Give one example.",
+      "answer": "1. Chloride: Cl⁻ + AgNO3 → AgCl white opalescence in dilute HNO3; HNO3 removes interference of carbonate/phosphate and gives even opalescence; compare with standard NaCl, black background.\n2. Sulphate: SO4²⁻ + BaCl2 → BaSO4 white turbidity in dilute HCl; barium sulphate reagent contains a little K2SO4 (seeding) and alcohol (prevents supersaturation); compare with standard K2SO4.\n3. Modified tests: substances that interfere — effervescing carbonates (sodium bicarbonate: extra acid, wait/boil till effervescence stops), coloured substances (KMnO4: reduce with alcohol, filter MnO2, test filtrate), insoluble substances (extract prepared).\n4. Standard receives the same extra reagents."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Describe the limit test for heavy metals.",
+      "answer": "1. Heavy metals: metals giving coloured sulphides (Pb, Cu, Hg, Bi, Sb, Sn, Cd, Ag); result expressed as ppm of lead.\n2. Principle: at pH about 3.5 (acetate buffer) thioacetamide releases H2S, which forms brown-black metal sulphides: M²⁺ + H2S → MS + 2H⁺.\n3. Compared with standard lead solution treated identically, viewing down against white background.\n4. pH 3.5 lets heavy metals precipitate while Fe and Zn interfere little.\n5. Thioacetamide replaces H2S gas: safer, releases H2S evenly; different IP methods for soluble, coloured or ignited samples."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the methods of expressing the strength of solutions with one worked example of molarity and normality.",
+      "answer": "1. Molarity: moles per litre of solution. Normality: gram equivalents per litre; N = M × n. Molality: moles per kg solvent. % w/w, % w/v, % v/v. ppm (µg/g). Equivalence (g of substance per ml of titrant).\n2. Equivalent weight = molar mass ÷ n (H⁺, OH⁻ or electrons per formula unit).\n3. Example: 4.9 g H2SO4 (98.07) in 500 ml → 0.0500 mol/0.5 L = 0.100 M = 0.200 N.\n4. Example: 2.0 g NaOH in 250 ml → 0.200 M.\n5. For 1 L of 0.1 N Na2CO3 weigh 5.300 g (equivalent weight 53.00)."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are significant figures? How many are there in 0.0420?",
+      "answer": "Significant figures are the certain digits of a measurement plus the first uncertain digit. 0.0420 has three (leading zeros do not count; the trailing zero after the decimal does)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Why is lead acetate cotton wool used in the Gutzeit test?",
+      "answer": "It absorbs any hydrogen sulphide produced from sulphide impurity, which would otherwise give a black stain on the mercuric chloride paper and spoil the comparison."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define buffer. Explain the mechanism of buffer action, derive the Henderson–Hasselbalch equation and calculate the pH of a buffer containing 0.1 M acetic acid and 0.2 M sodium acetate (pKa 4.76).",
+      "answer": "1. Buffer: solution that resists change in pH on adding small amounts of acid or alkali or on dilution.\n2. Types: weak acid + salt (acetate), weak base + salt (NH3/NH4Cl), salts of polybasic acid (NaH2PO4/Na2HPO4).\n3. Mechanism: added H⁺ + CH3COO⁻ → CH3COOH; added OH⁻ + CH3COOH → CH3COO⁻ + H2O; only the ratio changes slightly.\n4. Derivation: Ka = [H⁺][A⁻]/[HA] → [H⁺] = Ka[HA]/[A⁻] → −log: pH = pKa + log([salt]/[acid]); basic buffer pOH = pKb + log([salt]/[base]).\n5. Assumptions: weak acid barely ionised, salt fully ionised; fails for very dilute/concentrated solutions.\n6. Calculation: pH = 4.76 + log(0.2/0.1) = 4.76 + 0.301 = 5.06.\n7. Adding 0.01 mol HCl to 1 L of 0.1/0.1 buffer: pH = 4.76 + log(0.09/0.11) = 4.67 only.\n8. Buffer capacity β = ΔB/ΔpH, maximum at pH = pKa; pharmaceutical buffers: acetate, phosphate, borate, citrate."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What is isotonicity? Explain the methods of adjusting tonicity with a worked example and discuss its importance in IV fluids and ophthalmic solutions.",
+      "answer": "1. Isotonic: same osmotic pressure as body fluids (0.9% w/v NaCl; freezing point −0.52 °C). Hypotonic → water enters red cells → haemolysis; hypertonic → crenation (draw cells).\n2. Iso-osmotic vs isotonic (boric acid solutions iso-osmotic but not isotonic to red cells).\n3. Freezing point depression method: W = (0.52 − a)/b; a = % drug × FPD of 1% drug; b = 0.576.\n4. Sodium chloride equivalent method: NaCl needed = 0.9 g/100 ml − (g drug × E).\n5. White–Vincent/graphical method.\n6. Example: 1.5% drug X, 1% FPD 0.10 °C: a = 0.15; W = (0.52 − 0.15)/0.576 = 0.64 g NaCl/100 ml; E method gives same (E = 0.174).\n7. IV fluids: large volumes must be isotonic (0.9% NaCl, 5% dextrose, Ringer's); hypertonic solutions given slowly into large veins; hypotonic causes haemolysis.\n8. Ophthalmic: isotonic with tears (eye tolerates ~0.6–2% NaCl equivalent), buffered, sterile, particle-free; avoids pain and lacrimation."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Describe the functions of major physiological ions. Write a note on electrolytes used in replacement therapy including oral rehydration salt.",
+      "answer": "1. ECF: Na⁺, Cl⁻, HCO3⁻; ICF: K⁺, Mg²⁺, phosphate; Na⁺/K⁺-ATPase.\n2. Sodium: ECF volume, osmotic pressure, BP, nerve impulse. Potassium: resting potential, heart rhythm, muscle. Calcium: bones, clotting, muscle contraction, nerve transmission. Chloride: osmotic balance, gastric HCl. Bicarbonate: buffer. Phosphate: bone, ATP. Magnesium: enzyme cofactor.\n3. NaCl: assay with 0.1 M AgNO3 (1 ml ≡ 0.005844 g); 0.9% injection; 1 g = 17.1 mEq Na⁺.\n4. KCl: hypokalaemia; IV only diluted and slow; 1 g = 13.4 mEq K⁺.\n5. CaCl2: hypocalcaemia/tetany; IV slowly; EDTA assay.\n6. ORS per litre: NaCl 2.6 g, glucose 13.5 g, KCl 1.5 g, trisodium citrate dihydrate 2.9 g; 245 mOsm/L; Na⁺ 75, K⁺ 20, Cl⁻ 65, citrate 10, glucose 75 mmol/L.\n7. Principle: sodium–glucose co-transport (SGLT1) works even in diarrhoea; water follows; citrate corrects acidosis; low osmolarity reduces stool output."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Explain the physiological acid–base balance of the body.",
+      "answer": "1. Blood pH 7.35–7.45.\n2. Buffers (seconds): bicarbonate/carbonic acid (CO2 + H2O ⇌ H2CO3 ⇌ H⁺ + HCO3⁻), phosphate, proteins, haemoglobin; HCO3⁻ : H2CO3 = 20 : 1 (6.1 + log 20 ≈ 7.4).\n3. Lungs (minutes): change ventilation to remove or retain CO2.\n4. Kidneys (hours–days): excrete H⁺ as NH4⁺ and H2PO4⁻, reabsorb/generate HCO3⁻.\n5. Disorders: metabolic acidosis (diabetic ketoacidosis), metabolic alkalosis (vomiting), respiratory acidosis (lung disease), respiratory alkalosis (hyperventilation); treatment with alkalinisers (NaHCO3) or acidifiers (NH4Cl)."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Define pH. Discuss the significance of pH in pharmacy.",
+      "answer": "1. pH = −log[H⁺]; pH + pOH = 14 at 25 °C; Kw = 10⁻¹⁴.\n2. Stability: hydrolysis/oxidation depend on pH; buffer at pH of best stability.\n3. Solubility: weak acids dissolve in alkali, weak bases in acid.\n4. Absorption: un-ionised form crosses membranes (pH-partition).\n5. Comfort of eye drops and injections; preservative activity (benzoic acid acts un-ionised).\n6. Blood pH 7.35–7.45; analysis needs set pH (titrations, limit tests)."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write a note on oral rehydration salt.",
+      "answer": "1. Glucose–salt mixture dissolved in clean water and drunk to treat dehydration (diarrhoea).\n2. Principle: Na⁺ and glucose absorbed together by SGLT1; water follows osmotically; mechanism intact in diarrhoea.\n3. Composition per litre: NaCl 2.6 g, anhydrous glucose 13.5 g, KCl 1.5 g, trisodium citrate dihydrate 2.9 g; 245 mOsm/L.\n4. Roles: Na and Cl replace losses; K replaces stool loss; citrate corrects acidosis and is more stable than bicarbonate.\n5. Reduced osmolarity lowers stool output and vomiting; zinc given with ORS in children."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Classify buffers and list pharmaceutical buffers with their uses. What is buffer capacity?",
+      "answer": "1. Acidic (acetic acid/sodium acetate, boric acid/borax), basic (NH3/NH4Cl), polybasic acid salts (NaH2PO4/Na2HPO4).\n2. Acetate pH 3.8–5.8 (oral, parenteral); phosphate 6–8 (injections, eye drops, dissolution); borate 7–9 (eye drops only); citrate 3–6; ammonia buffer pH 10 (complexometry).\n3. Buffer capacity β = ΔB/ΔpH: amount of strong acid/base (g eq/L) to change pH by 1 unit; greatest when salt = acid (pH = pKa) and at higher total concentration; useful range pKa ± 1.\n4. Physiological: bicarbonate, phosphate, proteins."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Give the functions of sodium, potassium and calcium ions and the effects of their deficiency.",
+      "answer": "1. Sodium (main ECF cation): ECF volume, osmotic pressure, BP, nerve conduction, nutrient absorption; deficiency: hyponatraemia — confusion, weakness.\n2. Potassium (main ICF cation): membrane potential, heart rhythm, muscle and nerve function; deficiency: weakness, cramps, arrhythmia.\n3. Calcium: bones and teeth, clotting, muscle contraction, nerve transmission, cardiac contraction; deficiency: tetany, cramps.\n4. Normal plasma: Na 135–145, K 3.5–5.0 mEq/L; Ca 8.5–10.5 mg/dL."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Calculate the pH of 0.1 M acetic acid (pKa 4.76).",
+      "answer": "pH = ½(pKa − log C) = ½(4.76 + 1) = 2.88."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Why does a hypotonic solution cause haemolysis?",
+      "answer": "Water moves by osmosis into the red cells, which have a higher solute concentration; the cells swell and burst, releasing haemoglobin."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Explain the theories of acid–base indicators. Discuss the neutralisation curves of strong acid–strong base and weak acid–strong base titrations and the choice of indicator.",
+      "answer": "1. Indicator: weak organic acid/base whose forms differ in colour; range about pKIn ± 1.\n2. Ostwald theory: HIn ⇌ H⁺ + In⁻; colours differ; pH = pKIn + log([In⁻]/[HIn]); phenolphthalein colourless HIn, pink In⁻.\n3. Quinonoid theory: benzenoid (colourless/light) and quinonoid (coloured) tautomers interconvert with pH; methyl orange quinonoid red in acid.\n4. Table: methyl orange 3.1–4.4, methyl red 4.2–6.3, bromothymol blue 6.0–7.6, phenolphthalein 8.3–10.0.\n5. Strong–strong (0.1 M HCl/NaOH): pH 1 start, jump ~3.5–10.5, equivalence pH 7; any of the indicators suits.\n6. Weak acid–strong base (acetic acid/NaOH): start pH 2.88, buffer region (pH = pKa at half neutralisation), smaller jump ~7–10.5, equivalence ~8.7 (acetate hydrolysis); phenolphthalein; methyl orange wrong.\n7. Strong acid–weak base: equivalence ~5.3; methyl orange/red.\n8. Draw both curves with jump marked; indicator range must lie within the jump."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What are non-aqueous titrations? Classify the solvents used. Describe the preparation and standardisation of 0.1 M perchloric acid and the assay of sodium benzoate.",
+      "answer": "1. Titrations in non-aqueous solvents for very weak acids/bases and water-insoluble drugs; water competes and blurs the end point.\n2. Solvents: aprotic (benzene, chloroform, dioxane), protophilic (pyridine, DMF, ethylenediamine — for weak acids), protogenic (glacial acetic acid, formic acid — for weak bases), amphiprotic (water, alcohols, acetic acid); levelling vs differentiating effect.\n3. Preparation: ~8.5 ml 72% HClO4 + ~900 ml glacial acetic acid + ~30 ml acetic anhydride, to 1000 ml, stand 24 h; anhydride removes water; excess avoided (acetylates amines).\n4. Mechanism: HClO4 + CH3COOH → CH3COOH2⁺ + ClO4⁻; CH3COOH2⁺ + B → BH⁺ + CH3COOH.\n5. Standardisation: ~0.35 g KHP in glacial acetic acid, crystal violet to blue-green; 1 ml 0.1 M ≡ 0.02042 g KHP.\n6. Sodium benzoate: ~0.25 g in anhydrous glacial acetic acid, 1-naphtholbenzein or crystal violet, titrate, blank; C6H5COONa + HClO4 → C6H5COOH + NaClO4; 1 ml ≡ 0.01441 g.\n7. Example: 0.2500 g, 17.30 − 0.10 ml, f 1.005 → 99.6%.\n8. Temperature correction; mercuric acetate for halide salts."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Discuss the principle, types and indicators of complexometric titrations. Add notes on masking and demasking agents and the assay of calcium gluconate.",
+      "answer": "1. EDTA hexadentate, 1:1 chelates: M²⁺ + H2Y²⁻ → MY²⁻ + 2H⁺; buffer needed; stability depends on pH.\n2. Types: direct (Mg, Zn), back (Al, with Zn/Mg), replacement (Ca using Mg–EDTA), indirect (sulphate, phosphate), alkalimetric.\n3. Metal ion indicators: form less stable M–In complex; at end point free indicator colour. EBT pH 10 wine red → blue; murexide pH 11–12; calcon/HNB for Ca pH 12–13; xylenol orange acid pH.\n4. Masking: KCN (Zn, Cu, Ni, Co, Cd, Hg), triethanolamine (Al, Fe, Mn), fluoride (Al), ascorbic acid (Fe), BAL; demasking: formaldehyde frees Zn from cyanide.\n5. EDTA 0.05 M: 18.6 g Na2H2Y·2H2O/L, standardised against zinc (1 ml ≡ 0.003269 g Zn).\n6. Calcium gluconate: Ca–EBT end point poor, so add 5.0 ml 0.05 M MgSO4 + ammonia buffer pH 10, EBT, titrate to blue, subtract 5.0 ml.\n7. 1 ml 0.05 M EDTA ≡ 0.02242 g C12H22CaO14·H2O.\n8. Example: 0.5000 g, 27.20 − 5.00 = 22.20 ml → 99.5%."
+    },
+    {
+      "id": "u3-l04",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Describe the precipitation titration methods: Mohr's, Volhard's, modified Volhard's and Fajans'. Give the assay of sodium chloride.",
+      "answer": "1. Argentometric: AgNO3 forms insoluble silver halides; AgNO3 0.1 M standardised against NaCl.\n2. Mohr: direct titration, K2CrO4 indicator, red-brown Ag2CrO4 after AgCl; pH 6.5–9 (acid → dichromate; alkali → Ag2O); not for iodide; indicator blank.\n3. Volhard: excess AgNO3 in HNO3, back titrated with NH4SCN, ferric ammonium sulphate gives red [Fe(SCN)]²⁺; works in acid.\n4. Modified Volhard: AgCl more soluble than AgSCN, reacts with SCN⁻ → low result; filter AgCl or coat with nitrobenzene/dibutyl phthalate.\n5. Fajans: adsorption indicators (fluorescein, dichlorofluorescein for Cl⁻, eosin for Br⁻/I⁻); colour on precipitate surface after Ag⁺ adsorbed; dextrin, avoid light.\n6. NaCl assay: 0.1 g, HNO3, 50.0 ml 0.1 M AgNO3, nitrobenzene, ferric alum, back titrate with 0.1 M NH4SCN; 1 ml ≡ 0.005844 g NaCl.\n7. Example: 50.00 − 32.95 = 17.05 ml → 99.6%."
+    },
+    {
+      "id": "u3-l05",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Distinguish iodimetry from iodometry. Describe the preparation and standardisation of 0.1 M sodium thiosulphate and the assay of copper sulphate.",
+      "answer": "1. Iodimetry: direct titration of reducing agents with standard iodine (ascorbic acid, thiosulphate, As(III)); starch, blue appears.\n2. Iodometry: oxidising agent + excess KI liberates I2, titrated with thiosulphate (CuSO4, K2Cr2O7, chlorinated lime); starch near end, blue disappears.\n3. I2 + 2e⁻ ⇌ 2I⁻; I2 + 2S2O3²⁻ → 2I⁻ + S4O6²⁻.\n4. Thiosulphate: ~25 g Na2S2O3·5H2O + 0.2 g Na2CO3 in boiled cooled water to 1 L.\n5. Standardise with K2Cr2O7 + KI + HCl; 1 Cr2O7²⁻ ≡ 3 I2 ≡ 6 S2O3²⁻; 1 ml 0.1 M ≡ 0.004903 g K2Cr2O7.\n6. Precautions: excess KI, stoppered flask, cool, avoid light and strong acid, starch late.\n7. CuSO4: 2Cu²⁺ + 4I⁻ → 2CuI + I2; acetic acid, KI, titrate, KSCN near end; 1 ml 0.1 M ≡ 0.02497 g CuSO4·5H2O.\n8. Example: 1.0000 g, 40.00 ml → 99.9%."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the preparation and standardisation of 0.1 M sodium hydroxide.",
+      "answer": "1. Dissolve ~4.2 g NaOH in CO2-free water to 1000 ml; carbonate-free (from concentrated stock); store in polythene with soda-lime tube.\n2. Standardise: ~0.4 g KHP in 50 ml CO2-free water, phenolphthalein, titrate to permanent pink.\n3. KHC8H4O4 + NaOH → KNaC8H4O4 + H2O; 1 ml 0.1 M ≡ 0.02042 g KHP.\n4. Example: 0.4050 g, 19.75 ml → 0.001983 mol/0.01975 L = 0.1004 M.\n5. Not primary: hygroscopic, absorbs CO2."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the preparation and standardisation of 0.1 M hydrochloric acid.",
+      "answer": "1. Dilute ~8.5 ml concentrated HCl to 1000 ml with water.\n2. Standardise with anhydrous Na2CO3 (dried, cooled in desiccator): ~0.13 g in 50 ml water, methyl orange, titrate to orange-red.\n3. Na2CO3 + 2HCl → 2NaCl + H2O + CO2; 1 ml 0.1 M HCl ≡ 0.005299 g Na2CO3.\n4. Example: 0.1325 g needed 24.80 ml; expected 25.00 ml; f = 1.008; M = 0.1008.\n5. HCl is secondary: volatile, concentration of stock not exact."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write the steps involved in gravimetric analysis. Explain the estimation of barium as barium sulphate.",
+      "answer": "1. Steps: weigh and dissolve → precipitate (hot, dilute, slow) → digest → filter (ashless paper/crucible) → wash → dry/ignite to constant weight → weigh → calculate with gravimetric factor.\n2. Good precipitate: insoluble, filterable, pure, definite composition.\n3. Ba²⁺ + SO4²⁻ → BaSO4 in hot dilute HCl (coarser precipitate; prevents Ba carbonate/phosphate); digest, wash until chloride-free, ignite.\n4. Factors: Ba/BaSO4 = 0.5884; SO4 = 0.4116; BaCl2·2H2O = 1.0466.\n5. Example: 0.5000 g BaCl2·2H2O → 0.4770 g BaSO4 → 99.8% purity.\n6. Co-precipitation and post-precipitation reduced by digestion and washing."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the principle and procedure for the assay of ammonium hydroxide (strong ammonia solution).",
+      "answer": "1. Ammonia is volatile, so back titration in a stoppered flask.\n2. Weigh flask with 50.0 ml 1 M HCl; add ~2 ml sample below acid surface; reweigh.\n3. Titrate unused acid with 1 M NaOH, methyl red (NH4Cl present, slightly acid end point).\n4. NH3 + HCl → NH4Cl; 1 ml 1 M HCl ≡ 0.01703 g NH3.\n5. Example: 2.000 g; 50.00 − 20.10 = 29.90 ml → 25.5% w/w NH3."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write short notes on permanganometry and cerimetry, comparing the two titrants.",
+      "answer": "1. KMnO4: MnO4⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H2O; self-indicator (pink); H2SO4 only (HCl oxidised, HNO3 oxidant); not primary standard; standardised against oxalic acid at 60–70 °C, autocatalysis by Mn²⁺; 1 ml 0.02 M ≡ 0.006303 g oxalic acid dihydrate.\n2. Ceric ammonium sulphate: Ce⁴⁺ + e⁻ → Ce³⁺; E° ~1.44 V; ferroin indicator; standardised against As2O3 (osmic acid catalyst).\n3. Ceric advantages: very stable even on boiling, single electron change, usable in HCl, Ce³⁺ colourless.\n4. Uses: KMnO4 — H2O2, ferrous salts, oxalates; Ce(IV) — ferrous sulphate/gluconate, paracetamol."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the assay of magnesium sulphate by complexometric titration.",
+      "answer": "1. Direct titration at pH 10.\n2. ~0.3 g dried sample in 50 ml water; 10 ml strong ammonia–NH4Cl buffer; Eriochrome Black T (mordant black 11).\n3. Titrate with 0.05 M disodium EDTA from wine red to blue.\n4. Mg²⁺ + H2Y²⁻ → MgY²⁻ + 2H⁺; 1 ml 0.05 M ≡ 0.006018 g MgSO4.\n5. Example: 0.3000 g, 49.60 ml, f 1.004 → 99.9%."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is acetic anhydride added to perchloric acid titrant?",
+      "answer": "To react with the water present in perchloric acid and acetic acid [(CH3CO)2O + H2O → 2CH3COOH], because water weakens the titrant and spoils the end point."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is magnesium sulphate added in the assay of calcium gluconate?",
+      "answer": "Calcium forms a weak complex with Eriochrome Black T, giving a poor end point; magnesium gives a sharp wine red → blue change after all calcium is complexed. The volume equivalent to the added Mg is subtracted."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What are antacids? Give the ideal properties and classification of antacids and the rationale of antacid combinations. Describe the preparation, assay and uses of aluminium hydroxide gel.",
+      "answer": "1. Antacids: weak bases neutralising gastric HCl, relieving hyperacidity, heartburn, ulcer pain.\n2. Ideal: high and prolonged ANC, non-systemic, no CO2, no rebound, keep pH ~4, no bowel effect, no drug interference, palatable, cheap.\n3. Classification: systemic (NaHCO3) and non-systemic (Al(OH)3, Mg(OH)2, Mg trisilicate, CaCO3); by cation.\n4. Combinations: Al (constipating, slow) + Mg (laxative, fast); lower doses; simethicone for gas.\n5. Preparation: hot alum solution added to hot Na2CO3: 2KAl(SO4)2 + 3Na2CO3 + 3H2O → 2Al(OH)3 + K2SO4 + 3Na2SO4 + 3CO2; washed and suspended (gel) or dried.\n6. Assay: dissolve in HCl, excess 0.05 M EDTA, buffer, heat; back titrate with 0.05 M ZnSO4; 1 ml 0.05 M EDTA ≡ 0.002549 g Al2O3.\n7. Example: 2.000 g; 50.00 − 22.50 = 27.50 ml → 3.5% Al2O3.\n8. Uses: non-systemic antacid, phosphate binder; side effects constipation, phosphate depletion, reduced absorption of tetracyclines; ANC test."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Describe the preparation, properties, assay and uses of hydrogen peroxide. Explain the term volume strength.",
+      "answer": "1. Lab: BaO2 + H2SO4 → BaSO4↓ + H2O2 (cold dilute acid). Industrial: anthraquinone auto-oxidation process.\n2. Properties: colourless liquid, slightly acid, decomposes 2H2O2 → 2H2O + O2 (heat, light, alkali, metals); stabilisers (acetanilide, phosphoric acid); oxidant and towards KMnO4 a reductant.\n3. Volume strength: volume of O2 at NTP from one volume of solution; 68 g gives 22.4 L; 3% w/v ≈ 10 volume, 6% ≈ 20 volume.\n4. Assay: 10 ml diluted to 100 ml; 10 ml + 20 ml dilute H2SO4; 0.02 M KMnO4 to permanent pink.\n5. 2MnO4⁻ + 5H2O2 + 6H⁺ → 2Mn²⁺ + 5O2 + 8H2O; 1 ml 0.02 M ≡ 0.001701 g H2O2.\n6. Example: 17.80 ml → 0.03028 g/ml = 3.03% w/v (~10 volume).\n7. Uses: wound cleansing (catalase foaming), mouthwash, ear wax, bleach, sterilant.\n8. Storage: cool, dark, vented, not filled completely."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "What are radiopharmaceuticals? Explain the basics of radioactivity and the applications of I-131, Tc-99m, Co-60 and P-32. Add a note on safe handling, storage and disposal.",
+      "answer": "1. Radiopharmaceutical: medicinal preparation containing a radionuclide for diagnosis or therapy.\n2. Isotopes; α (He nucleus, stopped by paper), β (electron, perspex/Al), γ (EM, lead); decay N = N0e^(−λt), t½ = 0.693/λ; Bq and Ci (3.7 × 10¹⁰ Bq); GM and scintillation counters.\n3. I-131 (~8 d, β+γ): hyperthyroidism and thyroid cancer therapy, thyroid uptake.\n4. Tc-99m (~6 h, γ 140 keV): imaging of bone, thyroid, kidney, heart; Mo-99 generator.\n5. Co-60 (~5.3 y, γ): teletherapy, gamma sterilisation of disposables.\n6. P-32 (~14 d, pure β): polycythaemia vera.\n7. Handling: time, distance, shielding (ALARA); gloves, dosimeters, syringe shields, no mouth pipetting, monitoring, spill procedure.\n8. Storage: lead pots, locked labelled area with trefoil, records. Disposal: decay-in-storage ~10 half-lives, permitted dilution, return sealed sources. Regulation: AERB under Atomic Energy Act 1962 and rules; RSO."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the preparation, assay and uses of sodium bicarbonate.",
+      "answer": "1. Solvay: NaCl + NH3 + CO2 + H2O → NaHCO3↓ + NH4Cl; or Na2CO3 + CO2 + H2O → 2NaHCO3.\n2. White powder, weakly alkaline; heat → Na2CO3 + H2O + CO2.\n3. Assay: ~1.5 g in water, 1 M HCl, methyl orange; NaHCO3 + HCl → NaCl + H2O + CO2; 1 ml ≡ 0.08401 g.\n4. Uses: systemic antacid, metabolic acidosis, urinary alkaliniser, effervescent preparations.\n5. Drawbacks: alkalosis, sodium load, CO2 belching, rebound."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the preparation, assay and uses of chlorinated lime. What is available chlorine?",
+      "answer": "1. Cl2 passed over dry slaked lime at ~40 °C: Ca(OH)2 + Cl2 → Ca(OCl)Cl + H2O.\n2. Dull white powder, smell of chlorine, loses activity in moist air.\n3. Available chlorine: chlorine liberated on treatment with acid; not less than 30%. Ca(OCl)Cl + 2HCl → CaCl2 + H2O + Cl2.\n4. Assay: sample + KI + acetic acid; liberated I2 titrated with 0.1 M thiosulphate, starch; 1 ml ≡ 0.003545 g available Cl.\n5. Uses: disinfection of water, latrines, drains; bleaching; Dakin's solution."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Classify topical antimicrobial agents and explain their mechanisms of action.",
+      "answer": "1. Antiseptic (living tissue) vs disinfectant (objects); bactericidal vs bacteriostatic.\n2. Oxidising agents: H2O2, KMnO4, sodium perborate — oxidise –SH groups and proteins.\n3. Halogens: iodine, chlorinated lime, hypochlorite — halogenate and denature proteins.\n4. Protein precipitants: silver nitrate, mercury compounds, copper and zinc salts — combine with –SH groups.\n5. Acids: boric acid (weak bacteriostatic).\n6. Ideal antiseptic: broad spectrum, fast, non-irritant, active in pus, non-staining, stable, cheap."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write a note on iodine and its preparations.",
+      "answer": "1. Sources: kelp ash, Chile saltpetre mother liquor (2NaIO3 + 5NaHSO3 → I2 + ...), purified by sublimation.\n2. Grey-black lustrous plates; violet vapour; soluble in KI (I3⁻) and alcohol.\n3. Assay: 0.1 M thiosulphate, starch; 1 ml ≡ 0.01269 g I.\n4. Action: iodination/oxidation of microbial proteins; broad spectrum.\n5. Preparations: Strong Iodine Solution (Lugol's, 5% I2 + 10% KI) — preoperative thyroid; Weak Iodine Solution/Tincture — skin antiseptic; povidone-iodine — scrubs, less irritant; Mandl's paint — throat.\n6. Stains, may sensitise."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain acidifiers with reference to dilute hydrochloric acid and sodium acid phosphate.",
+      "answer": "1. Acidifiers supply acid (gastric) or acidify urine/body fluids (systemic/urinary).\n2. Achlorhydria impairs protein digestion, iron/calcium absorption, microbial defence.\n3. Dilute HCl (~10% w/v): from concentrated HCl; assay with 1 M NaOH, 1 ml ≡ 0.03646 g HCl; given well diluted through a straw.\n4. Sodium acid phosphate (NaH2PO4·2H2O): H3PO4 partly neutralised with NaOH/Na2CO3; acidic solution; urinary acidifier, laxative/enema with Na2HPO4, buffers."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write a note on saline laxatives (agents promoting bowel movement).",
+      "answer": "1. Poorly absorbed ions hold water osmotically; distension increases peristalsis; Mg also releases cholecystokinin.\n2. Magnesium hydroxide: MgSO4 + 2NaOH → Mg(OH)2; milk of magnesia; antacid in small doses, laxative in larger; EDTA assay.\n3. Sodium orthophosphate (Na2HPO4): H3PO4 + Na2CO3; laxative, phosphate enemas.\n4. Sodium potassium tartrate: cream of tartar + Na2CO3; saline laxative.\n5. Magnesium trisilicate: slow antacid, silica gel coats ulcer, MgCl2 gives mild laxative effect.\n6. Avoid in renal failure, obstruction, dehydration; take with water."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the volume strength of a 6% w/v hydrogen peroxide solution?",
+      "answer": "About 20 volume: 1 ml gives about 20 ml of oxygen at NTP on complete decomposition."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is Tc-99m an ideal diagnostic radionuclide?",
+      "answer": "It emits only gamma rays of 140 keV (good for imaging), has a short half-life of about 6 hours (low patient dose) and is easily obtained from a Mo-99 generator."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What are expectorants? Classify them. Describe the preparation, properties, assay and uses of ammonium chloride.",
+      "answer": "1. Expectorant: increases volume and/or reduces viscosity of bronchial secretion so sputum is coughed up.\n2. Sedative (reflex) — gastric irritation → vagal reflex (NH4Cl); stimulant (direct) — act on bronchial glands (KI, volatile oils); mucolytics related.\n3. Preparation: NH3 + HCl → NH4Cl; or (NH4)2SO4 + 2NaCl → 2NH4Cl (sublimes) + Na2SO4.\n4. Properties: white crystals, cooling saline taste, soluble, sublimes, solution slightly acid.\n5. Assay (formol): sample + neutralised formaldehyde; 4NH4Cl + 6HCHO → (CH2)6N4 + 4HCl + 6H2O; titrate 0.1 M NaOH, phenolphthalein; 1 ml ≡ 0.005349 g.\n6. Example: 0.1000 g, 18.65 ml, f 1.002 → 100.0%.\n7. Uses: expectorant, systemic acidifier (2NH4Cl + CO2 → urea + 2HCl + H2O), urinary acidifier, mild diuretic.\n8. Contraindicated in liver and kidney failure."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What are haematinics? Discuss iron absorption. Describe the preparation, properties, assay and uses of ferrous sulphate and compare it with ferrous gluconate.",
+      "answer": "1. Haematinic: increases haemoglobin; treats anaemia; iron salts, B12, folic acid.\n2. Iron absorbed as Fe²⁺ in duodenum/upper jejunum; ↑ by acid, vitamin C, deficiency; ↓ by antacids, phosphates, tea, tetracyclines; stored as ferritin.\n3. Preparation: Fe + dilute H2SO4 → FeSO4 + H2; excess iron and slight acidity keep Fe²⁺; crystallise; dried form by controlled heating.\n4. Properties: pale bluish-green crystals, efflorescent, oxidise in moist air to basic ferric sulphate; ~20% Fe.\n5. Assay (cerimetry): ~0.5 g in dilute H2SO4 + boiled cooled water, ferroin, 0.1 M ceric ammonium sulphate; Fe²⁺ + Ce⁴⁺ → Fe³⁺ + Ce³⁺; 1 ml ≡ 0.02780 g FeSO4·7H2O; example 17.90 ml, f 1.002 → 99.7%.\n6. Uses: iron-deficiency anaemia; side effects GI upset, constipation, black stools; child-proof storage.\n7. Ferrous gluconate: Ca gluconate + FeSO4 → Fe gluconate + CaSO4; ~11.6% Fe; less irritant; cerimetric assay 1 ml ≡ 0.04822 g."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Define poison and antidote. Classify antidotes with examples. Describe the preparation, assay and antidotal use of sodium thiosulphate.",
+      "answer": "1. Poison: substance that damages health or causes death by chemical action in sufficient amount. Antidote: counteracts a poison.\n2. Physical/mechanical: activated charcoal (adsorbs), demulcents, gastric lavage.\n3. Chemical: sodium thiosulphate (cyanide → thiocyanate), chelators (CaNa2EDTA for lead, BAL for As/Hg, desferrioxamine for iron, penicillamine for copper).\n4. Physiological: atropine (organophosphates), naloxone (opioids), oxygen (CO), N-acetylcysteine (paracetamol).\n5. Preparation: Na2SO3 + S (boil) → Na2S2O3; crystallise pentahydrate.\n6. Properties: colourless crystals, very soluble, acids give S + SO2; reducing agent.\n7. Assay (iodimetry): 0.05 M I2, starch; 2Na2S2O3 + I2 → Na2S4O6 + 2NaI; 1 ml ≡ 0.02482 g; example 20.10 ml for 0.5000 g → 99.8%.\n8. Cyanide: sodium nitrite forms methaemoglobin binding CN⁻; thiosulphate is sulphur donor for rhodanese: CN⁻ + S2O3²⁻ → SCN⁻ + SO3²⁻, excreted in urine."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the preparation, assay and uses of potassium iodide.",
+      "answer": "1. 3I2 + 6KOH → 5KI + KIO3 + 3H2O; evaporate; heat with charcoal: KIO3 + 3C → KI + 3CO; extract and crystallise.\n2. Colourless crystals, very soluble, turns yellow in moist air/light.\n3. Assay (Andrews): HCl, chloroform, 0.05 M KIO3 until violet colour of chloroform layer disappears; KIO3 + 2KI + 6HCl → 3ICl + 3KCl + 3H2O; 1 ml ≡ 0.01660 g.\n4. Uses: expectorant, Lugol's solution, solubilises iodine, iodine source, thyroid blocking.\n5. Iodism with prolonged use."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "What are emetics? Classify them and describe the preparation and assay of copper sulphate.",
+      "answer": "1. Emetic: causes vomiting; now rarely used.\n2. Central (apomorphine, CTZ), reflex/local (CuSO4, ZnSO4, salt, mustard), mixed (ipecacuanha).\n3. Contraindicated: corrosives, kerosene, unconscious, convulsions.\n4. CuSO4: Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O, or CuO + H2SO4; blue crystals, white when anhydrous.\n5. Assay (iodometry): acetic acid + KI; 2Cu²⁺ + 4I⁻ → 2CuI + I2; thiosulphate, starch, KSCN near end; 1 ml 0.1 M ≡ 0.02497 g CuSO4·5H2O.\n6. Other uses: astringent, fungicide (Bordeaux), Fehling's/Benedict's reagent."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the mechanism of sodium thiosulphate and sodium nitrite in cyanide poisoning.",
+      "answer": "1. Cyanide binds cytochrome oxidase (Fe³⁺), blocking cell respiration.\n2. Sodium nitrite oxidises part of haemoglobin to methaemoglobin (Fe³⁺), which attracts cyanide as cyanmethaemoglobin, freeing cytochrome oxidase.\n3. Sodium thiosulphate donates sulphur to the enzyme rhodanese: CN⁻ + S2O3²⁻ → SCN⁻ + SO3²⁻.\n4. Thiocyanate is much less toxic and excreted in urine.\n5. Hydroxocobalamin is an alternative that binds cyanide directly."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Compare ferrous sulphate and ferrous gluconate as haematinics.",
+      "answer": "1. Iron content: FeSO4·7H2O ~20%; ferrous gluconate ~11.6%.\n2. Gastric irritation: more with sulphate, less with gluconate.\n3. Appearance: bluish-green crystals vs yellowish-grey/greenish-yellow powder.\n4. Preparation: Fe + dilute H2SO4 vs calcium gluconate + FeSO4 (CaSO4 removed).\n5. Assay: both cerimetry with ferroin; 1 ml 0.1 M Ce(IV) ≡ 0.02780 g vs 0.04822 g.\n6. Both oxidise in moist air; store well closed."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Classify antidotes with suitable examples.",
+      "answer": "1. Physical/mechanical: prevent absorption — activated charcoal, demulcents (milk, egg white), gastric lavage.\n2. Chemical: react with poison — sodium thiosulphate (cyanide), CaNa2EDTA (lead), dimercaprol (As, Hg), desferrioxamine (iron), penicillamine (copper).\n3. Physiological/pharmacological: opposite effect or receptor block — atropine (organophosphates), naloxone (opioids), flumazenil (benzodiazepines), oxygen (CO), N-acetylcysteine (paracetamol).\n4. Universal antidote (charcoal, MgO, tannic acid) is historical; activated charcoal alone is used."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "low",
+      "question": "Write a note on sodium potassium tartrate.",
+      "answer": "1. Rochelle salt, KNaC4H4O6·4H2O.\n2. Preparation: cream of tartar neutralised with Na2CO3: 2KHC4H4O6 + Na2CO3 → 2KNaC4H4O6 + H2O + CO2.\n3. Colourless crystals, cooling saline taste, freely soluble.\n4. Uses: saline laxative, effervescent (Seidlitz-type) powders, Fehling's solution.\n5. Listed under emetics in the syllabus; the classical tartrate emetic is antimony potassium tartrate (tartar emetic), now obsolete."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is freshly boiled and cooled water used in the assay of ferrous sulphate?",
+      "answer": "Boiling removes dissolved oxygen, which would oxidise Fe²⁺ to Fe³⁺ before titration and give a low result."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Why should emetics not be used in kerosene poisoning?",
+      "answer": "Vomiting may cause the kerosene to be aspirated into the lungs, producing severe chemical pneumonitis."
+    }
+  ]
+}
