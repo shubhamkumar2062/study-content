@@ -1,0 +1,48 @@
+{
+  "code": "MPH201T",
+  "title": "Molecular Pharmaceutics (Nano Technology and Targeted Drug Delivery Systems)",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, M.Pharm syllabus: Pharmaceutics (MPH), MPH 201T Molecular Pharmaceutics (Nano Technology and Targeted DDS) (also in the Gazette of India M.Pharm syllabus, 11 August 2026)",
+    "url": "https://www.pci.nic.in/pdf/Syllabus_M_Pharm.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Targeted drug delivery: concepts, biological events, tumour targeting and brain-specific delivery",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Targeting methods, nanoparticles and liposomes: types, preparation and evaluation",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Microcapsules and microspheres, monoclonal antibodies, niosomes, aquasomes, phytosomes and electrosomes",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Pulmonary and intranasal drug delivery systems",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Nucleic acid based therapeutic delivery systems: gene therapy, vectors, antisense molecules and aptamers",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

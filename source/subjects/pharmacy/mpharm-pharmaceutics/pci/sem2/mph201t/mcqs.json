@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Delivery of a drug to a particular cell type within an organ is called:",
+      "options": [
+        "Second order targeting",
+        "Third order targeting",
+        "Zero order targeting",
+        "First order targeting"
+      ],
+      "correct": 0,
+      "explanation": "First order is to an organ, second order to a cell type within it, and third order to an intracellular compartment.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Adsorption of plasma proteins such as IgG and complement C3b that marks a carrier for phagocytosis is called:",
+      "options": [
+        "Flocculation",
+        "Opsonisation",
+        "Coacervation",
+        "Sedimentation"
+      ],
+      "correct": 1,
+      "explanation": "Opsonins adsorb within seconds and are recognised by macrophages of the liver and spleen.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The EPR effect in tumours is due to:",
+      "options": [
+        "Active transport across endothelium",
+        "Increased renal filtration",
+        "Leaky vessels and poor lymphatic drainage",
+        "High tissue pH and dense stroma"
+      ],
+      "correct": 2,
+      "explanation": "Angiogenic vessels have wide inter-endothelial gaps and lymphatic drainage is defective, so nanocarriers leak in and stay.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The accelerated blood clearance phenomenon seen on repeated dosing of PEGylated liposomes is caused by:",
+      "options": [
+        "Oxidation of phospholipids",
+        "Increased renal filtration of PEG",
+        "Loss of cholesterol from the bilayer",
+        "Anti-PEG IgM antibodies"
+      ],
+      "correct": 3,
+      "explanation": "The first dose induces anti-PEG IgM, so a second dose given a few days later is cleared much faster.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The approximate size limit for clathrin-mediated endocytosis is:",
+      "options": [
+        "About 120 nm",
+        "About 500 nm",
+        "About 10 nm",
+        "About 60-80 nm"
+      ],
+      "correct": 0,
+      "explanation": "Clathrin-coated pits take up particles of about 120 nm; caveolae handle about 60-80 nm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which ligand is used to target the asialoglycoprotein receptor on hepatocytes?",
+      "options": [
+        "Folic acid",
+        "Galactose",
+        "RGD peptide",
+        "Mannose"
+      ],
+      "correct": 1,
+      "explanation": "Galactose and asialoglycoproteins bind the hepatocyte asialoglycoprotein receptor; mannose targets macrophages.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Blocking the reticuloendothelial system before giving a drug-loaded carrier is known as:",
+      "options": [
+        "Passive targeting",
+        "Dual targeting",
+        "Inverse targeting",
+        "Double targeting"
+      ],
+      "correct": 2,
+      "explanation": "In inverse targeting the MPS is saturated or suppressed so the next carrier escapes the liver and spleen.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The pH inside a late endosome is approximately:",
+      "options": [
+        "2.0",
+        "7.4",
+        "6.8",
+        "5.0-5.5"
+      ],
+      "correct": 3,
+      "explanation": "Early endosome is about 6.0-6.5, late endosome about 5.0-5.5 and lysosome about 4.5-5.0.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Transport of a drug into the brain by polysorbate 80-coated nanoparticles is attributed to adsorption of:",
+      "options": [
+        "Apolipoprotein E",
+        "Fibrinogen",
+        "Immunoglobulin M",
+        "Albumin"
+      ],
+      "correct": 0,
+      "explanation": "Adsorbed apolipoprotein E makes the particle mimic a lipoprotein, so it is taken up by LDL receptors on brain endothelium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Which efflux transporter at the blood-brain barrier limits the entry of many drugs?",
+      "options": [
+        "GLUT1",
+        "P-glycoprotein",
+        "LAT1",
+        "Transferrin receptor"
+      ],
+      "correct": 1,
+      "explanation": "P-glycoprotein, with BCRP and MRPs, pumps drug back into the blood from the luminal membrane.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In a liposome, a water-soluble drug is located in the:",
+      "options": [
+        "Polar head group only",
+        "External medium",
+        "Aqueous core",
+        "Hydrocarbon region of the bilayer"
+      ],
+      "correct": 2,
+      "explanation": "Hydrophilic drug occupies the aqueous compartments; lipophilic drug sits within the bilayer.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Small unilamellar vesicles are usually of what size?",
+      "options": [
+        "About 0.5-5 um",
+        "Above 1 um",
+        "About 5-10 um",
+        "About 20-100 nm"
+      ],
+      "correct": 3,
+      "explanation": "SUVs are about 20-100 nm; LUVs are above about 100 nm and MLVs about 0.5-5 um.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The main function of cholesterol in a liposomal bilayer is to:",
+      "options": [
+        "Reduce permeability and leakage",
+        "Act as an antioxidant",
+        "Increase the aqueous volume",
+        "Give a positive charge"
+      ],
+      "correct": 0,
+      "explanation": "Cholesterol fills gaps between acyl chains, raises packing order and reduces serum-induced leakage.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which method gives the highest aqueous entrapment among the passive liposome preparation methods?",
+      "options": [
+        "Probe sonication",
+        "Reverse-phase evaporation",
+        "Ethanol injection",
+        "Thin-film hydration"
+      ],
+      "correct": 1,
+      "explanation": "In reverse-phase evaporation a water-in-oil emulsion passes through a gel phase that collapses into LUVs with a high aqueous volume to lipid ratio.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Active (remote) loading of liposomes with a weakly basic drug is commonly achieved using a gradient of:",
+      "options": [
+        "Calcium chloride",
+        "Sodium chloride",
+        "Ammonium sulfate",
+        "Glucose"
+      ],
+      "correct": 2,
+      "explanation": "An ammonium sulfate gradient makes the interior acidic, so the drug is protonated and precipitated as a sulfate salt inside.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The phase transition temperature of dipalmitoyl phosphatidylcholine (DPPC) is about:",
+      "options": [
+        "80 °C",
+        "0 °C",
+        "25 °C",
+        "41 °C"
+      ],
+      "correct": 3,
+      "explanation": "DPPC melts at about 41 °C, which is why it is used in thermosensitive liposomes with mild hyperthermia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Nanoparticles prepared by adding a polymer solution in acetone to water containing a stabiliser are made by:",
+      "options": [
+        "Nanoprecipitation",
+        "Emulsion polymerisation",
+        "Ionic gelation",
+        "Salting-out"
+      ],
+      "correct": 0,
+      "explanation": "Nanoprecipitation (solvent displacement) relies on rapid diffusion of the water-miscible solvent, which precipitates the polymer.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Chitosan nanoparticles are commonly prepared by ionic gelation with:",
+      "options": [
+        "Glutaraldehyde",
+        "Sodium tripolyphosphate",
+        "Calcium chloride",
+        "Polyvinyl alcohol"
+      ],
+      "correct": 1,
+      "explanation": "Cationic chitosan is cross-linked by the polyanion tripolyphosphate under mild aqueous conditions.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "A polydispersity index below about 0.3 indicates:",
+      "options": [
+        "High drug loading",
+        "A broad size distribution",
+        "A narrow size distribution",
+        "Complete aggregation"
+      ],
+      "correct": 2,
+      "explanation": "PDI describes the width of the distribution measured by dynamic light scattering; below about 0.3 is considered narrow.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Compared with solid lipid nanoparticles, nanostructured lipid carriers contain:",
+      "options": [
+        "A polymeric shell",
+        "No surfactant",
+        "Only a liquid oil core",
+        "A blend of solid and liquid lipid"
+      ],
+      "correct": 3,
+      "explanation": "The blend creates an imperfect crystal lattice with more space for drug, so loading is higher and expulsion on storage lower.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Lamellarity of liposomes is best determined by:",
+      "options": [
+        "Phosphorus-31 NMR",
+        "Karl Fischer titration",
+        "Angle of repose",
+        "Zeta potential"
+      ],
+      "correct": 0,
+      "explanation": "31-P NMR with a shift reagent, and freeze-fracture electron microscopy, distinguish unilamellar from multilamellar vesicles.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "The preferred method of sterilising a liposomal dispersion is:",
+      "options": [
+        "Dry heat sterilisation",
+        "Filtration through a 0.22 um membrane",
+        "Gamma irradiation",
+        "Autoclaving at 121 °C"
+      ],
+      "correct": 1,
+      "explanation": "Heat and irradiation degrade phospholipids, so sterile filtration is used for vesicles small enough to pass.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "A reservoir system in which a distinct core is surrounded by a continuous polymer wall is a:",
+      "options": [
+        "Liposome",
+        "Microsphere",
+        "Microcapsule",
+        "Micelle"
+      ],
+      "correct": 2,
+      "explanation": "Microcapsule = reservoir (core plus wall); microsphere = matrix with drug dispersed through the polymer.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The classical pair of polymers used in complex coacervation is:",
+      "options": [
+        "Chitosan and tripolyphosphate",
+        "PLGA and polyvinyl alcohol",
+        "Ethyl cellulose and polyisobutylene",
+        "Gelatin and acacia"
+      ],
+      "correct": 3,
+      "explanation": "Below about pH 4 gelatin is positively charged and acacia negatively charged, so they form a coacervate around the core.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The three steps of coacervation-phase separation are, in order:",
+      "options": [
+        "Three-phase formation, deposition of coat, rigidisation",
+        "Emulsification, evaporation, filtration",
+        "Nucleation, growth, sedimentation",
+        "Mixing, drying, milling"
+      ],
+      "correct": 0,
+      "explanation": "Three immiscible phases are formed, the coating is deposited around the core, and the coat is then hardened.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Calcium alginate microspheres are prepared by:",
+      "options": [
+        "Spray congealing",
+        "Ionotropic gelation",
+        "Interfacial polymerisation",
+        "Air-suspension coating"
+      ],
+      "correct": 1,
+      "explanation": "Alginate droplets gel instantly in calcium chloride solution; the method is mild and entirely aqueous.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "In hybridoma technology, the myeloma cells used as fusion partners are deficient in:",
+      "options": [
+        "DNA polymerase",
+        "Reverse transcriptase",
+        "HGPRT",
+        "Thymidine kinase only"
+      ],
+      "correct": 2,
+      "explanation": "Being HGPRT-deficient, unfused myeloma cells cannot use the salvage pathway and die in HAT medium.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The agent commonly used to fuse spleen cells with myeloma cells is:",
+      "options": [
+        "Sodium cholate",
+        "Tripolyphosphate",
+        "Glutaraldehyde",
+        "Polyethylene glycol"
+      ],
+      "correct": 3,
+      "explanation": "Polyethylene glycol (or electrofusion) promotes membrane fusion to give hybridomas.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "A monoclonal antibody whose name ends in -zumab is:",
+      "options": [
+        "Humanised",
+        "Fully human",
+        "Fully murine",
+        "Chimeric"
+      ],
+      "correct": 0,
+      "explanation": "-omab is murine, -ximab chimeric, -zumab humanised and -umab fully human.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Niosomes are vesicles formed from:",
+      "options": [
+        "Phospholipids",
+        "Non-ionic surfactants",
+        "Cationic polymers",
+        "Ceramic cores"
+      ],
+      "correct": 1,
+      "explanation": "Non-ionic surfactants such as Spans, Tweens and Brijs, usually with cholesterol, form the bilayer.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The core of an aquasome is usually made of:",
+      "options": [
+        "Chitosan",
+        "Cellobiose",
+        "Hydroxyapatite",
+        "Phosphatidylcholine"
+      ],
+      "correct": 2,
+      "explanation": "A nanocrystalline ceramic core, most often hydroxyapatite, is coated with a polyhydroxy oligomer such as cellobiose or trehalose.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "In a phytosome, the phytoconstituent is held by:",
+      "options": [
+        "Covalent bonding to cholesterol",
+        "Adsorption on a ceramic core",
+        "Entrapment in an aqueous core",
+        "Hydrogen bonding to the polar head of phosphatidylcholine"
+      ],
+      "correct": 3,
+      "explanation": "A phytosome is a defined molecular complex, unlike a liposome in which the drug is merely dissolved or dispersed.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Proniosomes are best described as:",
+      "options": [
+        "A dry powder that forms niosomes on hydration",
+        "Niosomes coated with antibody",
+        "Niosomes containing a magnetic core",
+        "Vesicles made by electroporation"
+      ],
+      "correct": 0,
+      "explanation": "Surfactant is coated on a soluble carrier such as sorbitol or maltodextrin, which avoids the instability of an aqueous dispersion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Electroformation of vesicles uses:",
+      "options": [
+        "Supercritical carbon dioxide",
+        "A low-voltage alternating field on a lipid-coated electrode",
+        "High-pressure homogenisation",
+        "Detergent dialysis"
+      ],
+      "correct": 1,
+      "explanation": "The field makes the hydrating lipid film swell and bud off uniform, largely unilamellar vesicles without solvent or detergent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The respirable particle size range for deposition in the lower airways and alveoli is:",
+      "options": [
+        "Above 10 um",
+        "5-10 um",
+        "1-5 um",
+        "Below 0.1 um"
+      ],
+      "correct": 2,
+      "explanation": "Larger particles impact in the oropharynx and much of the sub-micron fraction is exhaled again.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Deposition of particles larger than about 5 um in the oropharynx occurs mainly by:",
+      "options": [
+        "Sedimentation",
+        "Electrostatic attraction",
+        "Brownian diffusion",
+        "Inertial impaction"
+      ],
+      "correct": 3,
+      "explanation": "Large particles have too much momentum to follow the air stream where it changes direction.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Which propellants were withdrawn from inhalers under the Montreal Protocol?",
+      "options": [
+        "Chlorofluorocarbons",
+        "Hydrocarbons",
+        "Compressed nitrogen",
+        "Hydrofluoroalkanes"
+      ],
+      "correct": 0,
+      "explanation": "CFC 11, 12 and 114 deplete stratospheric ozone and were replaced by HFA-134a and HFA-227ea.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The metering valve of a pressurised inhaler usually delivers:",
+      "options": [
+        "0.5-1 millilitre",
+        "25-100 microlitres",
+        "1-2 millilitres",
+        "5-10 microlitres"
+      ],
+      "correct": 1,
+      "explanation": "A metering chamber of 25-100 microlitres gives a reproducible dose at each actuation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The carrier most commonly used in dry powder inhaler blends is:",
+      "options": [
+        "Starch",
+        "Microcrystalline cellulose",
+        "Alpha-lactose monohydrate",
+        "Mannitol"
+      ],
+      "correct": 2,
+      "explanation": "Coarse lactose of about 50-100 um improves flow and dose uniformity; the fine drug detaches during inhalation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "A suspension aerosol is an example of a:",
+      "options": [
+        "Barrier system",
+        "Compressed-gas solution system",
+        "Two-phase system",
+        "Three-phase system"
+      ],
+      "correct": 3,
+      "explanation": "Solid drug, liquid propellant and vapour make three phases; it must be shaken before use.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Leak testing of filled aerosol containers is carried out in a water bath at about:",
+      "options": [
+        "50-55 °C",
+        "80-90 °C",
+        "0-5 °C",
+        "25-30 °C"
+      ],
+      "correct": 0,
+      "explanation": "The raised temperature increases internal pressure so that leaks show as escaping bubbles or as weight loss.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The fine particle fraction of an inhaled product is the mass of drug in particles below:",
+      "options": [
+        "1 um",
+        "5 um",
+        "10 um",
+        "50 um"
+      ],
+      "correct": 1,
+      "explanation": "It is measured with a cascade impactor and expressed as a percentage of the delivered or metered dose.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The usable volume for a nasal dose per nostril is about:",
+      "options": [
+        "5 millilitres",
+        "10 microlitres",
+        "25-200 microlitres",
+        "1-2 millilitres"
+      ],
+      "correct": 2,
+      "explanation": "Larger volumes simply drain to the throat and are swallowed.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Nasal mucociliary clearance removes a formulation in approximately:",
+      "options": [
+        "2-3 hours",
+        "12 hours",
+        "1-2 minutes",
+        "15-20 minutes"
+      ],
+      "correct": 3,
+      "explanation": "This short residence time is why mucoadhesive polymers and in-situ gelling systems are used.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "An in-situ gelling nasal formulation using poloxamer 407 gels in response to:",
+      "options": [
+        "Temperature",
+        "Ionic strength",
+        "Light",
+        "pH"
+      ],
+      "correct": 0,
+      "explanation": "Poloxamer 407 is thermosensitive; carbopol systems are pH-sensitive and gellan gum is ion-sensitive.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Which test is essential when a permeation enhancer is included in a nasal formulation?",
+      "options": [
+        "Angle of repose",
+        "Ciliotoxicity / ciliary beat frequency",
+        "Friability",
+        "Disintegration time"
+      ],
+      "correct": 1,
+      "explanation": "Many enhancers damage the cilia and mucosa, so ciliary beat frequency and histopathology must be checked.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "In ex-vivo gene therapy, the gene is transferred:",
+      "options": [
+        "Into the patient's gut flora",
+        "Directly into the patient's bloodstream",
+        "Into cells cultured outside the body, which are then returned",
+        "Into the germ cells of the patient"
+      ],
+      "correct": 2,
+      "explanation": "Cells are removed, modified, selected and expanded in the laboratory and then re-infused into the same patient.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Gene therapy that produces a heritable change and is not permitted is:",
+      "options": [
+        "In-situ gene therapy",
+        "Suicide gene therapy",
+        "Somatic gene therapy",
+        "Germline gene therapy"
+      ],
+      "correct": 3,
+      "explanation": "Only somatic therapy, which affects the patient's own body cells and is not passed on, is permitted.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The packaging capacity of an adeno-associated viral vector is about:",
+      "options": [
+        "4.7 kb",
+        "8 kb",
+        "36 kb",
+        "150 kb"
+      ],
+      "correct": 0,
+      "explanation": "Its small capacity is the main limitation of AAV, which is otherwise the leading in-vivo vector.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Which vector can transduce only dividing cells?",
+      "options": [
+        "Adenovirus",
+        "Gamma-retrovirus",
+        "Adeno-associated virus",
+        "Lentivirus"
+      ],
+      "correct": 1,
+      "explanation": "Simple retroviruses need nuclear-envelope breakdown at mitosis; lentiviruses can also enter non-dividing cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Adenoviral vectors give transient expression because the genome:",
+      "options": [
+        "Is single-stranded",
+        "Integrates into chromosome 19",
+        "Remains episomal",
+        "Is degraded by RNase H"
+      ],
+      "correct": 2,
+      "explanation": "The episomal DNA is lost as cells divide, and an immune response further shortens expression.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The helper lipid DOPE is included in lipoplexes mainly to:",
+      "options": [
+        "Prolong circulation",
+        "Act as a cryoprotectant",
+        "Give a positive charge",
+        "Promote fusion and endosomal escape"
+      ],
+      "correct": 3,
+      "explanation": "At low endosomal pH DOPE adopts an inverted hexagonal phase and fuses with the endosomal membrane.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The N/P ratio of a polyplex refers to the ratio of:",
+      "options": [
+        "Nitrogen of the polymer to phosphate of the nucleic acid",
+        "Neutral to positive lipids",
+        "Nucleus to plasma concentration",
+        "Nanoparticle to protein mass"
+      ],
+      "correct": 0,
+      "explanation": "It controls complex size, surface charge, stability and transfection efficiency.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "An ionisable lipid in a lipid nanoparticle is near-neutral at blood pH because:",
+      "options": [
+        "It has no amine group",
+        "Its pKa is chosen so that it is protonated only at acidic pH",
+        "It is covalently bound to PEG",
+        "It is fully saturated"
+      ],
+      "correct": 1,
+      "explanation": "It is charged at the acidic pH used for mixing and inside the endosome, but neutral in blood, which lowers toxicity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Binding of a nucleic acid to a cationic carrier is confirmed by:",
+      "options": [
+        "Differential scanning calorimetry",
+        "Karl Fischer titration",
+        "Gel retardation assay",
+        "Zeta potential alone"
+      ],
+      "correct": 2,
+      "explanation": "In an electrophoretic mobility shift (gel retardation) assay the bound nucleic acid no longer migrates into the gel.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "siRNA silences its target messenger RNA through:",
+      "options": [
+        "Inhibition of DNA polymerase",
+        "Blockade of the ribosomal subunit assembly",
+        "RNase H cleavage",
+        "The RNA-induced silencing complex and Argonaute-2"
+      ],
+      "correct": 3,
+      "explanation": "The guide strand directs RISC to the complementary mRNA, which Argonaute-2 then cleaves.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Aptamers are selected by a process known as:",
+      "options": [
+        "SELEX",
+        "Hybridoma technology",
+        "Phage therapy",
+        "PCR cloning"
+      ],
+      "correct": 0,
+      "explanation": "Systematic Evolution of Ligands by EXponential enrichment repeatedly selects and amplifies binding sequences from a random library.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "A phosphorothioate modification of an oligonucleotide mainly provides:",
+      "options": [
+        "Greater immunogenicity of the target protein",
+        "Nuclease resistance and plasma protein binding",
+        "Increased renal excretion",
+        "Loss of base pairing"
+      ],
+      "correct": 1,
+      "explanation": "Replacing a non-bridging oxygen with sulfur resists nucleases and increases protein binding, which prolongs residence in the body.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m13",
+      "unit": 5,
+      "question": "Which conjugate is used for efficient delivery of siRNA to hepatocytes?",
+      "options": [
+        "Biotin",
+        "Folate",
+        "GalNAc",
+        "RGD peptide"
+      ],
+      "correct": 2,
+      "explanation": "N-acetylgalactosamine binds the asialoglycoprotein receptor, which is abundant and rapidly recycling on hepatocytes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m14",
+      "unit": 5,
+      "question": "The last barrier for plasmid DNA delivery, which does not apply to siRNA or mRNA, is:",
+      "options": [
+        "Binding to the carrier",
+        "Nuclease degradation in serum",
+        "Endosomal escape",
+        "Entry through the nuclear envelope"
+      ],
+      "correct": 3,
+      "explanation": "DNA must reach the nucleus to be transcribed, whereas siRNA and mRNA act in the cytoplasm.",
+      "probability": "high"
+    }
+  ]
+}
