@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The Hatch-Waxman Act of 1984 is formally called the:",
+      "options": [
+        "Drug Price Competition and Patent Term Restoration Act",
+        "Prescription Drug User Fee Act",
+        "Food and Drug Administration Modernization Act",
+        "Orphan Drug Act"
+      ],
+      "correct": 0,
+      "explanation": "Hatch-Waxman created the ANDA route and patent term restoration.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "A generic applicant claiming that a listed patent is invalid or will not be infringed files a:",
+      "options": [
+        "Paragraph I certification",
+        "Paragraph IV certification",
+        "Paragraph II certification",
+        "Paragraph III certification"
+      ],
+      "correct": 1,
+      "explanation": "Paragraph IV challenges the patent and may trigger a 30-month stay.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "New chemical entity exclusivity in the USA lasts:",
+      "options": [
+        "3 years",
+        "7 years",
+        "5 years",
+        "12 years"
+      ],
+      "correct": 2,
+      "explanation": "NCE exclusivity is 5 years; 3 years is for new clinical investigations.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which DMF type covers packaging materials?",
+      "options": [
+        "Type II",
+        "Type IV",
+        "Type V",
+        "Type III"
+      ],
+      "correct": 3,
+      "explanation": "Type II API, III packaging, IV excipients, V reference information.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "21 CFR Part 320 deals with:",
+      "options": [
+        "Bioavailability and bioequivalence requirements",
+        "Institutional review boards",
+        "Good laboratory practice",
+        "Electronic records and signatures"
+      ],
+      "correct": 0,
+      "explanation": "Part 320 is BA/BE; 56 IRBs, 58 GLP, 11 electronic records.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Two dissolution profiles are considered similar when the f2 value is:",
+      "options": [
+        "Between 0 and 15",
+        "Between 50 and 100",
+        "Below 50",
+        "Exactly 100 only"
+      ],
+      "correct": 1,
+      "explanation": "f2 50–100 corresponds to ≤10% average difference.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Under SUPAC-IR, a change likely to have a significant impact on formulation quality and performance is a:",
+      "options": [
+        "Level 1 change",
+        "Level 2 change",
+        "Level 3 change",
+        "Level 0 change"
+      ],
+      "correct": 2,
+      "explanation": "Level 3 changes usually need a prior approval supplement and often BE.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Under 21 CFR 314.80, periodic adverse drug experience reports are submitted:",
+      "options": [
+        "Monthly for 1 year, then never",
+        "Annually from the first year",
+        "Every 6 months for 5 years",
+        "Quarterly for 3 years after approval, then annually"
+      ],
+      "correct": 3,
+      "explanation": "Quarterly reports for 3 years, then annual reports.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The first applicant with a successful Paragraph IV challenge may receive:",
+      "options": [
+        "180 days of generic marketing exclusivity",
+        "5 years of data exclusivity",
+        "A 12-year exclusivity",
+        "Automatic approval within 30 days"
+      ],
+      "correct": 0,
+      "explanation": "180-day exclusivity rewards the first Paragraph IV filer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The Generic Drug User Fee Amendments (GDUFA) were enacted through:",
+      "options": [
+        "FD&C Act, 1938",
+        "FDASIA, 2012",
+        "Kefauver–Harris Amendments, 1962",
+        "Orphan Drug Act, 1983"
+      ],
+      "correct": 1,
+      "explanation": "GDUFA was part of the FDA Safety and Innovation Act 2012.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Biosimilars are licensed in the USA under:",
+      "options": [
+        "Section 505(j) of the FD&C Act",
+        "Section 505(b)(1) of the FD&C Act",
+        "Section 351(k) of the Public Health Service Act",
+        "21 CFR Part 807"
+      ],
+      "correct": 2,
+      "explanation": "351(k) is the abbreviated biosimilar pathway created by the BPCI Act.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The approval standard for a biologic under a BLA is that it is:",
+      "options": [
+        "Bioequivalent to the RLD",
+        "Substantially equivalent to a predicate",
+        "Generally recognised as safe",
+        "Safe, pure and potent"
+      ],
+      "correct": 3,
+      "explanation": "PHS Act standard: safe, pure and potent.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The FDA list of licensed biological products with biosimilarity and interchangeability information is the:",
+      "options": [
+        "Purple Book",
+        "Orange Book",
+        "Green Book",
+        "Red Book"
+      ],
+      "correct": 0,
+      "explanation": "Orange Book is for drugs; Purple Book for biologics.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Accelerated approval in the USA is based on:",
+      "options": [
+        "Bioequivalence to a marketed drug",
+        "A surrogate endpoint reasonably likely to predict clinical benefit",
+        "Animal efficacy data only",
+        "Foreign approval alone"
+      ],
+      "correct": 1,
+      "explanation": "Confirmatory trials are required after accelerated approval.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Orphan drug designation in the USA applies to diseases affecting fewer than:",
+      "options": [
+        "2,000 people in the USA",
+        "2 million people in the USA",
+        "200,000 people in the USA",
+        "20,000 people worldwide"
+      ],
+      "correct": 2,
+      "explanation": "Orphan Drug Act threshold; orphan exclusivity is 7 years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "GMP guidance specific to active pharmaceutical ingredients is:",
+      "options": [
+        "ICH Q1A",
+        "ICH E6",
+        "ICH M4",
+        "ICH Q7"
+      ],
+      "correct": 3,
+      "explanation": "Q7 is GMP for APIs.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Foreign drug establishments registering with FDA must designate:",
+      "options": [
+        "A US agent",
+        "An Indian State Licensing Authority",
+        "A notified body",
+        "A Qualified Person in the EU"
+      ],
+      "correct": 0,
+      "explanation": "21 CFR 207 requires foreign establishments to name a US agent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The NDA application form in the USA is:",
+      "options": [
+        "Form FDA 1571",
+        "Form FDA 356h",
+        "Form FDA 1572",
+        "Form FDA 483"
+      ],
+      "correct": 1,
+      "explanation": "356h is used for NDA, ANDA and BLA; 1571 for IND.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In India, permission to manufacture a new drug for sale is applied for in:",
+      "options": [
+        "Form CT-04",
+        "Form CT-01",
+        "Form CT-21",
+        "Form CT-06"
+      ],
+      "correct": 2,
+      "explanation": "CT-21 manufacture; CT-18 import; CT-04 trial application; CT-06 trial permission.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Reference product exclusivity for a biologic in the USA is:",
+      "options": [
+        "5 years",
+        "3 years",
+        "180 days",
+        "12 years from first licensure"
+      ],
+      "correct": 3,
+      "explanation": "BPCI Act gives the reference biologic 12 years.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "In the CTD, Module 3 contains:",
+      "options": [
+        "Quality data",
+        "Regional administrative information",
+        "Non-clinical study reports",
+        "Clinical study reports"
+      ],
+      "correct": 0,
+      "explanation": "M1 regional, M2 summaries, M3 quality, M4 non-clinical, M5 clinical.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Which ICH guideline describes the CTD format?",
+      "options": [
+        "M7",
+        "M4",
+        "E6",
+        "Q10"
+      ],
+      "correct": 1,
+      "explanation": "M4 (M4Q, M4S, M4E) defines the CTD.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "A change in an approved NDA that may be implemented 30 days after FDA receives the supplement is filed as:",
+      "options": [
+        "Prior approval supplement",
+        "Annual report",
+        "CBE-30",
+        "CBE-0"
+      ],
+      "correct": 2,
+      "explanation": "CBE-30 is used for moderate changes.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The lead FDA centre for a combination product is assigned on the basis of its:",
+      "options": [
+        "Price",
+        "Patent status",
+        "Manufacturing site",
+        "Primary mode of action"
+      ],
+      "correct": 3,
+      "explanation": "PMOA (21 CFR 3.2(m)) decides the lead centre.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "A Class III medical device in the USA generally needs:",
+      "options": [
+        "Premarket approval (PMA)",
+        "Only general controls",
+        "A 510(k) in all cases",
+        "No FDA submission"
+      ],
+      "correct": 0,
+      "explanation": "Class III devices need PMA except some preamendment devices.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "In eCTD, the file that indexes all documents and their life-cycle status is the:",
+      "options": [
+        "Cover letter",
+        "XML backbone",
+        "Quality overall summary",
+        "Investigator's Brochure"
+      ],
+      "correct": 1,
+      "explanation": "The XML backbone lists every file and its operation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Under India's Medical Devices Rules 2017, manufacturing licences for Class C and D devices are granted by the:",
+      "options": [
+        "State Licensing Authority",
+        "Indian Pharmacopoeia Commission",
+        "Central Licensing Authority",
+        "Bureau of Indian Standards"
+      ],
+      "correct": 2,
+      "explanation": "SLA licenses Class A and B manufacture; CLA Class C and D and all imports.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The EU centralised procedure allows the CHMP up to how many active days for evaluation?",
+      "options": [
+        "90 days",
+        "60 days",
+        "365 days",
+        "210 days"
+      ],
+      "correct": 3,
+      "explanation": "210 active days, then Commission decision within 67 days.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "A Type IA variation in the EU is handled on the principle of:",
+      "options": [
+        "Do and tell",
+        "Prior approval",
+        "Tell, wait and do",
+        "New application"
+      ],
+      "correct": 0,
+      "explanation": "Type IA: implement then notify; IB tell-wait-do; II prior approval.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Australian low-risk listed medicines carry the label number:",
+      "options": [
+        "AUST R",
+        "AUST L",
+        "NDC",
+        "DIN"
+      ],
+      "correct": 1,
+      "explanation": "AUST L listed; AUST R registered medicines on the ARTG.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The core battery of safety pharmacology (ICH S7A) includes:",
+      "options": [
+        "Liver, kidney and skin",
+        "Reproductive, endocrine and immune systems",
+        "CNS, cardiovascular and respiratory systems",
+        "Eye, ear and bone"
+      ],
+      "correct": 2,
+      "explanation": "Vital functions are assessed before first human dosing.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "An IND goes into effect, if FDA places no clinical hold, after:",
+      "options": [
+        "60 days",
+        "90 days",
+        "10 months",
+        "30 days from FDA receipt"
+      ],
+      "correct": 3,
+      "explanation": "21 CFR 312.40: 30 days unless clinical hold.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The investigator's statement in a US IND is submitted on:",
+      "options": [
+        "Form FDA 1572",
+        "Form FDA 1571",
+        "Form FDA 356h",
+        "Form FDA 3500"
+      ],
+      "correct": 0,
+      "explanation": "1572 is the investigator statement; 1571 the sponsor cover sheet.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Good laboratory practice regulations in the USA are found in:",
+      "options": [
+        "21 CFR Part 211",
+        "21 CFR Part 58",
+        "21 CFR Part 50",
+        "21 CFR Part 314"
+      ],
+      "correct": 1,
+      "explanation": "Part 58 GLP; 211 cGMP; 50 consent; 314 NDA/ANDA.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The ICH guideline linking non-clinical studies to clinical trial phases is:",
+      "options": [
+        "Q8(R2)",
+        "E2A",
+        "M3(R2)",
+        "S10"
+      ],
+      "correct": 2,
+      "explanation": "M3(R2) sets the timing of non-clinical studies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The Investigational Medicinal Product Dossier is mainly required by:",
+      "options": [
+        "US ANDA submissions",
+        "Indian ethics committee registration",
+        "Device 510(k) submissions",
+        "EU clinical trial applications"
+      ],
+      "correct": 3,
+      "explanation": "IMPD gives IMP quality data with an EU clinical trial application.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Regulation (EU) No 536/2014 began to apply on:",
+      "options": [
+        "31 January 2022",
+        "1 January 2004",
+        "31 January 2025",
+        "26 May 2021"
+      ],
+      "correct": 0,
+      "explanation": "CTR applied from 31 January 2022 with CTIS.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "For biotechnology-derived products, non-clinical safety studies (ICH S6) should be done in:",
+      "options": [
+        "Rats only",
+        "Pharmacologically relevant species",
+        "Any two rodent species",
+        "In vitro systems only"
+      ],
+      "correct": 1,
+      "explanation": "Relevance of species depends on target binding and activity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The Investigator's Brochure should be reviewed at least:",
+      "options": [
+        "Once every five years",
+        "Only at approval",
+        "Once a year",
+        "Only when a trial ends"
+      ],
+      "correct": 2,
+      "explanation": "ICH E6: review at least annually and revise as needed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The MABEL approach for first-in-human dosing is used mainly for:",
+      "options": [
+        "Generic tablets",
+        "Topical antiseptics",
+        "Vitamins",
+        "High-risk biologics such as immune agonists"
+      ],
+      "correct": 3,
+      "explanation": "MABEL uses minimal anticipated biological effect level.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Under India's NDCT Rules 2019, an ethics committee must have at least:",
+      "options": [
+        "7 members",
+        "5 members",
+        "3 members",
+        "15 members"
+      ],
+      "correct": 0,
+      "explanation": "Including lay person, woman, legal expert and independent member.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "In India, an investigator must report a serious adverse event to the CLA, sponsor and ethics committee within:",
+      "options": [
+        "7 days",
+        "24 hours",
+        "14 days",
+        "30 days"
+      ],
+      "correct": 1,
+      "explanation": "Analysed report follows within 14 days.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Under ICH E2A, a fatal or life-threatening SUSAR must be reported within:",
+      "options": [
+        "24 hours",
+        "15 calendar days",
+        "7 calendar days",
+        "30 calendar days"
+      ],
+      "correct": 2,
+      "explanation": "Other SUSARs within 15 calendar days.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "A US IRB must have at least:",
+      "options": [
+        "7 members",
+        "3 members",
+        "10 members",
+        "5 members"
+      ],
+      "correct": 3,
+      "explanation": "21 CFR 56.107 sets a minimum of five.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "HIPAA Safe Harbor de-identification requires removal of:",
+      "options": [
+        "18 types of identifiers",
+        "5 types of identifiers",
+        "Only names",
+        "Only dates"
+      ],
+      "correct": 0,
+      "explanation": "Safe Harbor lists 18 identifiers.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The HIPAA Privacy Rule is codified in:",
+      "options": [
+        "21 CFR Part 50",
+        "45 CFR Parts 160 and 164",
+        "21 CFR Part 312",
+        "42 CFR Part 11"
+      ],
+      "correct": 1,
+      "explanation": "HHS rules in Title 45.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "A child's agreement to take part in research, given along with parental permission, is called:",
+      "options": [
+        "Waiver",
+        "Authorization",
+        "Assent",
+        "Notification"
+      ],
+      "correct": 2,
+      "explanation": "Assent is sought when the child can understand.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Audio-video recording of informed consent in India is required for:",
+      "options": [
+        "All BE studies",
+        "All Phase IV studies",
+        "Only device trials",
+        "Vulnerable subjects in trials of a new chemical or molecular entity"
+      ],
+      "correct": 3,
+      "explanation": "For anti-HIV and anti-leprosy trials only audio recording is kept.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The yearly safety report during drug development is the:",
+      "options": [
+        "DSUR (ICH E2F)",
+        "PBRER (ICH E2C)",
+        "CSR (ICH E3)",
+        "CTD (ICH M4)"
+      ],
+      "correct": 0,
+      "explanation": "DSUR during development; PBRER after approval.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The Naranjo algorithm is used for:",
+      "options": [
+        "Sample size calculation",
+        "Causality assessment of adverse drug reactions",
+        "Randomisation",
+        "Stability testing"
+      ],
+      "correct": 1,
+      "explanation": "Scores give definite, probable, possible or doubtful.",
+      "probability": "low"
+    }
+  ]
+}

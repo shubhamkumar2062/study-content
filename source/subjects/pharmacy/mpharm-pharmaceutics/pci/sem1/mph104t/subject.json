@@ -1,0 +1,48 @@
+{
+  "code": "MPH104T",
+  "title": "Regulatory Affairs",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, M.Pharm syllabus: Pharmaceutics (MPH), MPH 104T Regulatory Affairs (also in the Gazette of India M.Pharm syllabus, 11 August 2026)",
+    "url": "https://www.pci.nic.in/pdf/Syllabus_M_Pharm.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Documentation in industry and generic drug product development",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Regulatory requirements for product approval (USA as the model)",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "CMC, post-approval changes, combination products and devices, CTD/eCTD, ICH and other regulators",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Non-clinical drug development and global submissions: IND, NDA, ANDA, IMPD and Investigator's Brochure",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Clinical trials, ethics committees, informed consent, HIPAA and pharmacovigilance",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
