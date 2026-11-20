@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on syllabus weight and how often similar questions appeared in PCI-syllabus anatomy, physiology and pathophysiology papers. BP104T (NEP 2020) is a new course with no past papers yet, so it is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of a typical human cell with a labelled diagram. Give the functions of its organelles.",
+      "answer": "1. Definition: the cell is the smallest structural and functional unit of life; it has a plasma membrane, cytoplasm and nucleus.\n2. Diagram: cell with plasma membrane, nucleus with nucleolus and nuclear pores, rough and smooth ER, Golgi apparatus, mitochondria, lysosomes, ribosomes, centrosome, cytoskeleton.\n3. Plasma membrane: fluid mosaic model of a phospholipid bilayer with cholesterol, integral and peripheral proteins and glycocalyx; selective barrier, transport, receptors, cell identity.\n4. Cytosol and cytoskeleton (microfilaments, intermediate filaments, microtubules): site of glycolysis; shape and movement.\n5. Ribosomes: protein synthesis; free ribosomes for cytosolic proteins, bound ribosomes for secreted and membrane proteins.\n6. Rough ER: synthesis of secretory and membrane proteins. Smooth ER: lipid and steroid synthesis, drug detoxification (cytochrome P450), calcium store in muscle.\n7. Golgi apparatus: modifies, sorts and packages proteins into secretory vesicles and lysosomes.\n8. Lysosomes: acid hydrolases digest worn-out organelles and engulfed material. Peroxisomes: fatty acid oxidation, catalase destroys H2O2.\n9. Mitochondria: double membrane with cristae; aerobic respiration and ATP production; own DNA; release cytochrome c in apoptosis.\n10. Centrosome (spindle formation), cilia and flagella (movement).\n11. Nucleus: nuclear envelope with pores, chromatin (DNA + histones) carries genes and controls cell activity; nucleolus makes ribosomal RNA."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define cell injury. Describe the causes and the mechanisms (pathogenesis) of cell injury.",
+      "answer": "1. Definition: cell injury is the set of changes that occur when a cell is exposed to a stress beyond its ability to adapt; it may be reversible or irreversible, ending in cell death.\n2. Causes: hypoxia and ischaemia (commonest; anaemia, MI); physical agents (trauma, heat, cold, radiation, electricity); chemicals and drugs (poisons, alcohol, drug overdose); infectious agents (viruses, bacteria, toxins); immunological reactions (autoimmunity, anaphylaxis); genetic defects (sickle cell disease); nutritional imbalance (deficiency or excess); ageing.\n3. ATP depletion: mitochondrial damage → less ATP → Na+/K+ pump fails → Na+ and water enter (swelling); anaerobic glycolysis → lactic acid → low pH.\n4. Mitochondrial damage: Ca2+ overload, hypoxia and toxins open the permeability transition pore; ATP falls; cytochrome c release starts apoptosis.\n5. Influx of calcium: activates phospholipases (membrane breakdown), proteases, endonucleases and ATPases.\n6. Free radicals (reactive oxygen species): lipid peroxidation of membranes, protein oxidation, DNA damage.\n7. Membrane damage: loss of permeability, leakage of enzymes, lysosomal enzymes released and digest the cell.\n8. Ribosome damage: ribosomes detach from rough ER → less protein synthesis → lipid accumulates (fatty change).\n9. Nuclear (DNA) damage: unrepaired damage triggers apoptosis; necrotic nucleus shows pyknosis, karyorrhexis, karyolysis.\n10. Flow chart: injurious agent → biochemical change → reversible injury (swelling, fatty change) → irreversible injury → necrosis or apoptosis."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify tissues. Describe the structure, location and functions of epithelial tissue with examples.",
+      "answer": "1. Four basic tissues: epithelial, connective, muscular, nervous.\n2. General features of epithelium: closely packed cells, little matrix, free apical surface, basement membrane, avascular, high regenerative power.\n3. Simple squamous: one layer of flat cells; alveoli, endothelium, mesothelium; diffusion and filtration.\n4. Simple cuboidal: kidney tubules, thyroid follicles, ducts; secretion and absorption.\n5. Simple columnar (with microvilli and goblet cells): stomach and intestine; absorption and mucus secretion. Ciliated columnar: uterine tubes.\n6. Pseudostratified ciliated columnar: trachea and bronchi; traps and moves mucus.\n7. Stratified squamous: keratinised in epidermis, non-keratinised in mouth, oesophagus, vagina; protection against abrasion.\n8. Transitional epithelium: urinary bladder and ureter; allows stretching.\n9. Glandular epithelium: exocrine with ducts (sweat, salivary) and endocrine without ducts (thyroid).\n10. Functions: protection, absorption, secretion, excretion, filtration, sensation.\n11. Diagrams of squamous, cuboidal, columnar and stratified types."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Explain homeostasis and the components of a feedback system with an example.",
+      "answer": "1. Homeostasis: maintenance of a stable internal environment despite external change (temperature, pH 7.35–7.45, glucose, BP).\n2. Components: controlled condition, receptor (detects change), control centre (compares with set point), effector (produces response).\n3. Negative feedback reverses the change: rise in BP → baroreceptors → medulla → heart slows, vessels dilate → BP falls.\n4. Positive feedback amplifies: oxytocin and uterine contractions in labour, clotting."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Differentiate between necrosis and apoptosis.",
+      "answer": "1. Nature: necrosis is always pathological; apoptosis is programmed, physiological or pathological.\n2. Extent: necrosis affects groups of cells; apoptosis single cells.\n3. Cell size: swelling in necrosis; shrinkage in apoptosis.\n4. Membrane: ruptures in necrosis (contents leak); intact in apoptosis, apoptotic bodies formed.\n5. Nucleus: pyknosis, karyorrhexis, karyolysis vs chromatin condensation and fragmentation.\n6. Inflammation present in necrosis; absent in apoptosis.\n7. Examples: myocardial infarction vs endometrial shedding, removal of self-reactive lymphocytes."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Define atrophy, hypertrophy, hyperplasia and metaplasia with examples.",
+      "answer": "1. Atrophy: decrease in cell size; uterus after delivery; limb muscles in a plaster cast.\n2. Hypertrophy: increase in cell size; skeletal muscle of athletes, uterus in pregnancy; left ventricle in hypertension.\n3. Hyperplasia: increase in cell number; breast at puberty, liver regeneration; endometrial hyperplasia, benign prostatic hyperplasia.\n4. Metaplasia: one adult cell type replaced by another better able to stand stress; bronchial columnar to squamous epithelium in smokers, Barrett's oesophagus.\n5. Dysplasia (add): disordered growth, pre-cancerous."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Describe the types of transport across the cell membrane.",
+      "answer": "1. Simple diffusion: down a gradient through the lipid bilayer (O2, CO2, lipid-soluble drugs).\n2. Facilitated diffusion: down a gradient via carriers or channels; saturable (glucose by GLUT).\n3. Osmosis (water) and filtration (pressure-driven, glomerulus).\n4. Primary active transport: ATP-driven pump against gradient (Na+/K+-ATPase: 3 Na+ out, 2 K+ in).\n5. Secondary active transport: uses Na+ gradient; symport (Na+–glucose) and antiport (Na+/Ca2+).\n6. Vesicular: endocytosis (phagocytosis, pinocytosis, receptor-mediated) and exocytosis."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the forms of intracellular signalling with examples.",
+      "answer": "1. Cells communicate by signal molecules that bind receptors and start signal transduction.\n2. Contact-dependent: signal stays on the cell surface and binds a receptor on a touching cell (immune cell recognition).\n3. Paracrine: local mediator acts on nearby cells (histamine, prostaglandins, growth factors); autocrine acts on the same cell.\n4. Synaptic: neurotransmitter crosses a synapse (acetylcholine at the neuromuscular junction); fast and precise.\n5. Endocrine: hormone travels in blood to distant cells (insulin, thyroxine); slower, widespread."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is metaplasia? Give one example.",
+      "answer": "Metaplasia is a reversible change in which one adult cell type is replaced by another better able to withstand stress, e.g. ciliated columnar epithelium of the bronchi changing to squamous epithelium in smokers."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Define aetiology and pathogenesis.",
+      "answer": "Aetiology is the cause of a disease. Pathogenesis is the sequence of events by which the cause produces the disease."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure and functions of skin with a labelled diagram. Add a note on wound healing.",
+      "answer": "1. Skin: largest organ; epidermis, dermis, on hypodermis.\n2. Epidermis: keratinised stratified squamous, avascular; layers from deep: stratum basale (dividing cells, melanocytes), spinosum (Langerhans cells), granulosum, lucidum (thick skin), corneum (dead keratinised cells).\n3. Cells: keratinocytes, melanocytes, Langerhans cells, Merkel cells.\n4. Dermis: papillary layer (capillaries, Meissner corpuscles) and reticular layer (collagen, hair follicles, sebaceous and sweat glands, Pacinian corpuscles).\n5. Diagram of skin section with layers and appendages.\n6. Functions: protection, temperature regulation (sweating, vasomotor changes), sensation, vitamin D synthesis, excretion, immunity, absorption (transdermal drugs), blood reservoir.\n7. Wound healing phases: haemostasis → inflammation (neutrophils, macrophages) → proliferation (granulation tissue, collagen, epithelialisation, contraction) → remodelling.\n8. First intention (clean incision, thin scar) vs second intention (large gaping wound, much granulation tissue, contraction).\n9. Factors delaying healing: infection, poor blood supply, foreign body, diabetes, malnutrition, corticosteroids, old age."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of skeletal muscle and explain the mechanism of muscle contraction. Add a note on the neuromuscular junction.",
+      "answer": "1. Organisation: muscle (epimysium) → fascicles (perimysium) → fibres (endomysium) → myofibrils → myofilaments (actin, myosin).\n2. Sarcolemma, T tubules, sarcoplasmic reticulum (Ca2+ store), triad.\n3. Sarcomere: Z line to Z line; A band (myosin), I band (actin), H zone, M line; diagram.\n4. Excitation: ACh released at NMJ → end-plate potential → muscle action potential along sarcolemma and T tubules.\n5. Ca2+ released from sarcoplasmic reticulum → binds troponin C → tropomyosin shifts → binding sites on actin exposed.\n6. Cross-bridge cycle: energised myosin binds actin → power stroke pulls thin filaments → ATP binds, head detaches → ATP hydrolysed, head re-cocked.\n7. Sliding filament theory: I band and H zone shorten, A band constant.\n8. Relaxation: ACh destroyed by acetylcholinesterase; Ca2+ pumped back by Ca2+-ATPase.\n9. NMJ: axon terminal, synaptic vesicles with ACh, synaptic cleft, motor end plate with nicotinic receptors; Ca2+ entry triggers ACh release; diagram.\n10. Clinical note: myasthenia gravis, botulinum toxin, neuromuscular blockers."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the aetiology, pathogenesis and clinical features of rheumatoid arthritis and gout.",
+      "answer": "Rheumatoid arthritis\n1. Chronic autoimmune symmetrical polyarthritis of small joints.\n2. Aetiology: HLA-DR4, female sex, smoking, possible infections; rheumatoid factor and anti-CCP antibodies.\n3. Pathogenesis: loss of tolerance → CD4 T cells, B cells, autoantibodies → TNF-α, IL-1, IL-6 → synovitis → pannus erodes cartilage and bone → deformity and ankylosis.\n4. Features: morning stiffness over 1 hour, swollen MCP and PIP joints, ulnar deviation, swan-neck, nodules, anaemia, fatigue.\nGout\n5. Hyperuricaemia with urate crystal deposition.\n6. Aetiology: overproduction (purine-rich diet, alcohol, cell breakdown) or under-excretion (kidney disease, thiazides, low-dose aspirin); male sex, obesity.\n7. Pathogenesis: supersaturation → monosodium urate crystals in joints → phagocytosed → NLRP3 inflammasome → IL-1β → acute inflammation; chronic: tophi, kidney stones.\n8. Features: sudden severe pain, redness and swelling of first MTP joint (podagra), often at night; needle-shaped negatively birefringent crystals."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the pathogenesis and clinical features of psoriasis.",
+      "answer": "1. Chronic immune-mediated skin disease with silvery scaly plaques.\n2. Triggers: genetic tendency, streptococcal infection, trauma (Koebner), stress, drugs (lithium, beta blockers).\n3. Pathogenesis: dendritic cells → IL-12, IL-23 → Th1 and Th17 → TNF-α, IL-17 → keratinocyte proliferation; turnover falls to a few days; parakeratosis, dilated capillaries.\n4. Features: well-defined red plaques with silvery scales on elbows, knees, scalp; Auspitz sign; nail pitting; psoriatic arthritis."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write the pathophysiology of osteoporosis.",
+      "answer": "1. Low bone mass with weak microarchitecture; bone is normally mineralised but reduced.\n2. Causes: postmenopausal oestrogen loss, ageing, corticosteroids, hyperthyroidism, immobility, low calcium/vitamin D, smoking, alcohol.\n3. Mechanism: resorption by osteoclasts exceeds formation; oestrogen loss raises RANKL and cytokines (IL-1, IL-6, TNF) → more osteoclasts; ageing reduces osteoblast activity.\n4. Features: silent until fracture; vertebral collapse (kyphosis, height loss), neck of femur, Colles' fracture; diagnosis by DEXA (T-score ≤ −2.5)."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Give the pathophysiology of leprosy.",
+      "answer": "1. Chronic infection by Mycobacterium leprae, acid-fast, slow-growing, prefers cooler parts; droplet spread after long contact.\n2. Bacilli enter Schwann cells and macrophages; outcome depends on cell-mediated immunity.\n3. Tuberculoid: strong immunity, few bacilli, few hypopigmented anaesthetic patches, thickened nerves, lepromin positive.\n4. Lepromatous: weak immunity, many bacilli, symmetrical nodules, leonine face, glove-and-stocking anaesthesia, lepromin negative.\n5. Nerve damage → painless injuries, ulcers, deformities (claw hand, foot drop)."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Classify joints structurally and functionally with examples.",
+      "answer": "1. Functional: synarthrosis (immovable; sutures), amphiarthrosis (slightly movable; intervertebral discs, pubic symphysis), diarthrosis (freely movable; synovial joints).\n2. Structural: fibrous (sutures, syndesmosis, gomphosis), cartilaginous (synchondrosis, symphysis), synovial.\n3. Synovial types: plane (intercarpal), hinge (elbow, knee), pivot (atlantoaxial), condyloid (wrist), saddle (thumb CMC), ball and socket (shoulder, hip).\n4. Parts of a synovial joint: articular cartilage, capsule, synovial membrane and fluid, ligaments."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Describe the types of dermatitis and their causes.",
+      "answer": "1. Dermatitis: skin inflammation with itching, redness, vesicles, oozing (acute) or lichenification (chronic).\n2. Atopic: inherited allergy tendency, filaggrin barrier defect, Th2 and IgE; flexures in children.\n3. Irritant contact: direct damage by detergents, solvents, acids; no immunity needed.\n4. Allergic contact: type IV hypersensitivity to nickel, chromium, rubber, hair dye; appears 24–72 h after contact.\n5. Seborrhoeic (Malassezia, scalp and face) and photodermatitis."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are the divisions of the skeleton and the number of bones in each?",
+      "answer": "The adult skeleton has 206 bones: the axial skeleton (skull, hyoid, ear ossicles, vertebral column, thoracic cage) has 80 and the appendicular skeleton (girdles and limbs) has 126."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is the Koebner phenomenon?",
+      "answer": "In psoriasis, new skin lesions appearing at the site of injury to the skin (a scratch, cut or burn) is called the Koebner phenomenon."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the mechanism of blood coagulation with a neat flow chart. Name the clotting factors.",
+      "answer": "1. Haemostasis: vascular spasm, platelet plug, coagulation, fibrinolysis.\n2. Clotting factors: I fibrinogen, II prothrombin, III tissue factor, IV calcium, V labile factor, VII stable factor, VIII antihaemophilic factor, IX Christmas factor, X Stuart–Prower factor, XI PTA, XII Hageman factor, XIII fibrin-stabilising factor (no VI).\n3. Extrinsic pathway: tissue factor (III) + VII → VIIa → activates X; fast; tested by PT.\n4. Intrinsic pathway: contact with collagen → XII → XIIa → XI → XIa → IX → IXa + VIIIa + Ca2+ + phospholipid → activates X; tested by aPTT.\n5. Common pathway: Xa + Va + Ca2+ + phospholipid (prothrombinase) → prothrombin → thrombin.\n6. Thrombin → fibrinogen to fibrin; XIIIa cross-links fibrin; thrombin also activates V, VIII, XI, XIII and platelets.\n7. Flow chart of both pathways meeting at X.\n8. Vitamin K-dependent factors II, VII, IX, X (made in liver).\n9. Natural anticoagulants: antithrombin III, protein C and S, prostacyclin. Fibrinolysis: plasminogen → plasmin by tPA."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define inflammation. Describe the vascular and cellular events of acute inflammation and list the chemical mediators.",
+      "answer": "1. Definition: protective response of vascularised tissue to injury to remove the cause and dead tissue and start repair.\n2. Cardinal signs: rubor, tumor, calor, dolor, functio laesa.\n3. Classification: acute (neutrophils, short) vs chronic (lymphocytes, macrophages, fibrosis); granulomatous (TB, leprosy).\n4. Vascular events: transient vasoconstriction → vasodilatation (redness, heat) → increased permeability (endothelial gaps) → protein-rich exudate (swelling) → stasis.\n5. Cellular events: margination → rolling (selectins) → adhesion (integrins, ICAM-1) → diapedesis → chemotaxis (C5a, LTB4, IL-8, bacterial products) → phagocytosis (opsonins IgG, C3b; killing by oxygen radicals and lysosomal enzymes).\n6. Mediators: histamine and serotonin (permeability); prostaglandins (vasodilatation, pain, fever); leukotrienes (chemotaxis, bronchoconstriction); PAF; bradykinin (pain, permeability); complement C3a, C5a, C3b, MAC; cytokines IL-1, TNF-α, IL-6, IL-8; nitric oxide.\n7. Arachidonic acid pathway diagram: COX → prostaglandins, thromboxane; LOX → leukotrienes.\n8. Outcomes: resolution, fibrosis, abscess, chronic inflammation; systemic effects fever, leucocytosis, CRP."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify anaemias. Describe the aetiology and pathogenesis of iron deficiency anaemia and megaloblastic anaemia.",
+      "answer": "1. Anaemia: haemoglobin below normal for age and sex. Morphological classification: microcytic hypochromic (iron deficiency, thalassaemia), normocytic (blood loss, haemolysis, chronic disease), macrocytic (B12, folate).\n2. Common features: fatigue, pallor, breathlessness, palpitations, tachycardia.\nIron deficiency\n3. Causes: low intake, increased need (pregnancy, growth), poor absorption (achlorhydria, coeliac), chronic blood loss (menorrhagia, hookworm, ulcer, piles, NSAIDs).\n4. Pathogenesis: ferritin stores depleted → serum iron and transferrin saturation fall, TIBC rises → less haem → microcytic hypochromic cells.\n5. Features: koilonychia, angular stomatitis, glossitis, pica, Plummer–Vinson syndrome; low ferritin.\nMegaloblastic\n6. B12 and folate needed for DNA (thymidine) synthesis; deficiency → nuclear–cytoplasmic asynchrony → megaloblasts, ineffective erythropoiesis → macrocytes, hypersegmented neutrophils.\n7. B12 causes: pernicious anaemia (no intrinsic factor), gastrectomy, ileal disease, vegan diet; neurological damage (subacute combined degeneration).\n8. Folate causes: poor diet, alcohol, pregnancy, malabsorption, methotrexate, phenytoin; no nerve damage."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Explain the ABO and Rh blood group systems. Add a note on haemolytic disease of the newborn.",
+      "answer": "1. ABO: antigens A and B on red cells, natural antibodies in plasma against the absent antigen; groups A, B, AB (universal recipient), O (universal donor).\n2. Rh: D antigen present in most Indians; anti-D formed only after exposure.\n3. HDN: Rh-negative mother sensitised by Rh-positive fetus at delivery → anti-D IgG crosses placenta in next Rh-positive pregnancy → fetal haemolysis, jaundice, hydrops.\n4. Prevention: anti-D immunoglobulin to the mother after delivery."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe haemopoiesis with a flow chart.",
+      "answer": "1. Formation of blood cells; yolk sac → liver and spleen → bone marrow; adult red marrow of flat bones and ends of long bones.\n2. Pluripotent stem cell → myeloid and lymphoid stem cells.\n3. Myeloid → proerythroblast → normoblasts → reticulocyte → RBC; myeloblast → granulocytes; monoblast → monocyte; megakaryoblast → megakaryocyte → platelets. Lymphoid → B and T lymphocytes.\n4. Control: erythropoietin (kidney), colony-stimulating factors, thrombopoietin; needs iron, B12, folate, protein."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the pathogenesis of sickle cell anaemia.",
+      "answer": "1. Autosomal recessive; valine replaces glutamic acid at position 6 of β-globin → HbS.\n2. Deoxygenated HbS polymerises → rigid sickle cells; triggers low O2, dehydration, acidosis, infection.\n3. Haemolysis: red cell life 10–20 days → anaemia, jaundice, gallstones.\n4. Vaso-occlusion: painful crises, bone, lung (acute chest), spleen infarcts (autosplenectomy, infections), stroke.\n5. Trait (HbAS) usually symptom-free, some protection against malaria."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Describe the formation, circulation and functions of lymph.",
+      "answer": "1. About 3 L of filtered fluid not reabsorbed by capillaries enters blind lymphatic capillaries (overlapping endothelial flaps) → lymph; chyle from lacteals.\n2. Circulation: capillaries → vessels with valves → nodes → trunks → thoracic duct (to left subclavian vein) and right lymphatic duct (to right subclavian vein).\n3. Driven by muscle pump, respiratory pump, vessel smooth muscle, valves.\n4. Functions: returns fluid and protein (prevents oedema), fat absorption, immune defence."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write the aetiology and pathogenesis of haemophilia.",
+      "answer": "1. Inherited bleeding disorder: haemophilia A (factor VIII, commonest), haemophilia B (factor IX).\n2. X-linked recessive: males affected, females carriers.\n3. Lack of VIII or IX blocks intrinsic pathway (tenase) → slow thrombin and fibrin formation → unstable clot.\n4. Features: haemarthrosis, muscle bleeds, prolonged bleeding after injury or extraction; aPTT prolonged, PT and bleeding time normal."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the vitamin K-dependent clotting factors.",
+      "answer": "Factors II (prothrombin), VII, IX and X are vitamin K-dependent; they are made in the liver."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is thalassaemia?",
+      "answer": "Thalassaemia is an inherited (autosomal recessive) disorder with reduced or absent synthesis of α or β globin chains, causing microcytic hypochromic anaemia with haemolysis and ineffective erythropoiesis."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Compare the sympathetic and parasympathetic nervous systems with respect to origin, ganglia, neurotransmitters and effects on organs.",
+      "answer": "1. ANS: two-neuron efferent system to heart, smooth muscle, glands; preganglionic (myelinated) and postganglionic (unmyelinated) neurons.\n2. Origin: sympathetic thoracolumbar T1–L2 (lateral horn); parasympathetic craniosacral (III, VII, IX, X; S2–S4).\n3. Ganglia: sympathetic chain and prevertebral ganglia near cord (short pre, long post); parasympathetic near or in organs (long pre, short post).\n4. Transmitters: ACh at all ganglia (nicotinic); sympathetic postganglionic noradrenaline (α, β) except ACh at sweat glands; parasympathetic ACh (muscarinic). Adrenal medulla releases adrenaline.\n5. Divergence: sympathetic widespread, parasympathetic localised.\n6. Effects table: pupil dilation vs constriction; heart rate up vs down; bronchodilation vs bronchoconstriction; gut motility down vs up; bladder retention vs voiding; glycogenolysis vs glycogenesis; thick vs watery saliva; ejaculation vs erection.\n7. Roles: fight or flight vs rest and digest; dual innervation with opposing effects.\n8. Diagram of the two-neuron pathways."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of the eye with a labelled diagram. Explain the pathophysiology of glaucoma and cataract.",
+      "answer": "1. Diagram: cornea, sclera, choroid, ciliary body, iris, pupil, lens, aqueous and vitreous humour, retina, fovea, optic disc, optic nerve.\n2. Coats: fibrous (sclera, cornea), vascular (choroid, ciliary body, iris), nervous (retina with rods and cones).\n3. Accessory structures: eyelids, conjunctiva, lacrimal apparatus, extrinsic muscles.\n4. Aqueous humour: secreted by ciliary processes → posterior chamber → pupil → anterior chamber → trabecular meshwork → canal of Schlemm.\nGlaucoma\n5. Optic neuropathy with raised intraocular pressure (above 21 mm Hg) from blocked outflow → optic disc cupping → peripheral field loss first.\n6. Open-angle (meshwork resistance, painless, slow) vs angle-closure (iris blocks angle; acute painful red eye, haloes, vomiting; emergency); secondary (steroids) and congenital.\nCataract\n7. Lens opacity: ageing (commonest), diabetes, steroids, UV, smoking, trauma, congenital rubella.\n8. Oxidation and aggregation of crystallins; in diabetes aldose reductase → sorbitol → osmotic swelling.\n9. Features: painless blurring, glare, faded colours, white pupil."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the structure of the ear and the physiology of hearing. Write the pathophysiology of otitis media.",
+      "answer": "1. External ear: auricle, external acoustic meatus with wax glands.\n2. Middle ear: tympanic membrane, ossicles (malleus, incus, stapes), Eustachian tube to nasopharynx, oval and round windows.\n3. Inner ear: bony labyrinth (perilymph) and membranous labyrinth (endolymph): cochlea with organ of Corti, vestibule (utricle, saccule), three semicircular canals. Diagram.\n4. Hearing: sound → eardrum → ossicles amplify → oval window → fluid waves → basilar membrane moves → hair cells bend against tectorial membrane → cochlear nerve → auditory cortex (temporal lobe).\n5. Balance: utricle and saccule (static), semicircular canals (rotation).\nOtitis media\n6. Common in children (short, horizontal Eustachian tube, adenoids); follows upper respiratory infection; S. pneumoniae, H. influenzae, M. catarrhalis.\n7. Tube blocked → negative pressure → effusion → infection → pus → bulging drum → may perforate.\n8. Features: earache, fever, hearing loss, discharge; complications mastoiditis, meningitis, deafness."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "List the cranial nerves with their type and main functions.",
+      "answer": "I olfactory (S, smell); II optic (S, vision); III oculomotor (M, eye movement, eyelid, pupil constriction); IV trochlear (M, superior oblique); V trigeminal (B, face sensation, chewing); VI abducens (M, lateral rectus); VII facial (B, facial expression, taste anterior 2/3, tears and saliva); VIII vestibulocochlear (S, hearing and balance); IX glossopharyngeal (B, taste posterior 1/3, swallowing, parotid); X vagus (B, parasympathetic to heart, lungs, gut); XI accessory (M, sternocleidomastoid, trapezius); XII hypoglossal (M, tongue)."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the origin and distribution of spinal nerves.",
+      "answer": "1. 31 pairs: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal.\n2. Formed by dorsal root (sensory, with dorsal root ganglion) and ventral root (motor) joining in the intervertebral foramen → mixed nerve.\n3. Branches: dorsal ramus (back), ventral ramus (limbs, trunk), meningeal branch, rami communicantes.\n4. Plexuses: cervical C1–C4 (phrenic), brachial C5–T1 (radial, median, ulnar), lumbar L1–L4 (femoral), sacral L4–S4 (sciatic); intercostal nerves T2–T12.\n5. Dermatomes; functions: sensation, movement, reflexes."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the pathophysiology of vertigo.",
+      "answer": "1. Vertigo: false sense of spinning; symptom of vestibular dysfunction.\n2. Balance compares signals from both vestibular organs, eyes and proprioceptors; an abnormal one-sided signal is felt as movement.\n3. Peripheral causes: BPPV (loose otoconia in a semicircular canal), Ménière's disease (endolymphatic hydrops with hearing loss and tinnitus), vestibular neuritis, labyrinthitis, aminoglycoside damage.\n4. Central causes: stroke, multiple sclerosis, tumours, migraine.\n5. Features: spinning, nausea, vomiting, nystagmus, unsteadiness."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "What is myopia? Explain its cause and correction.",
+      "answer": "1. Refractive error: parallel rays focus in front of the retina; distant objects blurred, near clear.\n2. Causes: axial (eyeball too long) or refractive (too much corneal or lens power); genetics, near work, little outdoor time.\n3. Diagram of focus in front of retina.\n4. Corrected by a concave (diverging) lens; high myopia risks retinal detachment and glaucoma.\n5. Contrast: hypermetropia (convex lens), presbyopia (loss of accommodation)."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "low",
+      "question": "Describe the structure of the tongue and the physiology of taste. Add a note on anosmia.",
+      "answer": "1. Papillae: circumvallate, fungiform, foliate (have taste buds), filiform (none).\n2. Taste bud: gustatory cells with microvilli at a taste pore, supporting and basal cells.\n3. Five tastes: sweet, salty, sour, bitter, umami; nerves VII (anterior 2/3), IX (posterior 1/3), X → medulla → thalamus → gustatory cortex.\n4. Anosmia: loss of smell; conductive (cold, polyps, sinusitis) or sensorineural (viral infection including COVID-19, head injury, ageing, Parkinson's); affects flavour and safety."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the parasympathetic cranial nerves.",
+      "answer": "Cranial nerves III (oculomotor), VII (facial), IX (glossopharyngeal) and X (vagus) carry parasympathetic fibres."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is otitis externa?",
+      "answer": "Otitis externa is inflammation of the external ear canal, usually by Pseudomonas aeruginosa, Staphylococcus aureus or fungi, favoured by moisture (swimmer's ear) and injury to the canal skin; pain increases on pulling the pinna."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the anatomy of the heart with a labelled diagram. Explain the conduction system of the heart and its regulation by the autonomic nervous system.",
+      "answer": "1. Position in mediastinum; apex at left fifth intercostal space; pericardium (fibrous and serous); wall: epicardium, myocardium, endocardium.\n2. Chambers: two atria, two ventricles; septa; left ventricle thickest.\n3. Valves: tricuspid, mitral, pulmonary, aortic; chordae tendineae and papillary muscles.\n4. Coronary arteries (right, left anterior descending, circumflex); coronary sinus. Diagram with chambers, valves and great vessels.\n5. Conduction: SA node (pacemaker 60–100/min) → atria → AV node (0.1 s delay) → bundle of His → bundle branches → Purkinje fibres.\n6. Pacemaker potential: funny current, Ca2+ upstroke; ventricular action potential with Ca2+ plateau and long refractory period.\n7. Sympathetic (noradrenaline on β1): increases rate, force and conduction velocity.\n8. Parasympathetic (vagus, ACh on M2): slows SA rate and AV conduction; vagal tone dominates at rest.\n9. Cardiovascular centre in medulla, baroreceptor input; hormones and ions also affect the heart."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define blood pressure. Describe the factors and mechanisms that regulate blood pressure. Add a note on the pathophysiology of hypertension.",
+      "answer": "1. BP: pressure of blood on arterial walls; systolic about 120, diastolic about 80 mm Hg; pulse pressure, mean arterial pressure.\n2. BP = cardiac output × total peripheral resistance; CO = SV × HR; resistance depends on radius (fourth power), length, viscosity.\n3. Short-term: baroreceptor reflex (carotid sinus IX, aortic arch X → medulla → vagal and sympathetic changes); chemoreceptor reflex.\n4. Hormonal: renin–angiotensin–aldosterone system; ADH; ANP; adrenaline.\n5. Long-term: renal pressure natriuresis and blood volume.\n6. Hypertension: ≥140/90 mm Hg; essential (90–95%) and secondary (renal, endocrine, coarctation, drugs).\n7. Pathogenesis: renal Na+ retention, sympathetic overactivity, RAAS, endothelial dysfunction (less NO, more endothelin), insulin resistance → raised CO and resistance → arteriolar thickening.\n8. Complications: LVH and heart failure, stroke, nephrosclerosis, retinopathy, atherosclerosis; malignant hypertension."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the pathophysiology of ischaemic heart disease with reference to atherosclerosis, angina pectoris and myocardial infarction.",
+      "answer": "1. IHD: myocardial oxygen supply less than demand, mostly due to coronary atherosclerosis.\n2. Risk factors: age, male sex, family history; high LDL, low HDL, hypertension, smoking, diabetes, obesity, inactivity.\n3. Atherosclerosis: endothelial injury → LDL enters and is oxidised → monocytes become macrophages → foam cells → fatty streak → smooth muscle migration and collagen → fibrous cap over lipid core → plaque; complications: rupture, thrombosis, calcification, aneurysm.\n4. Angina: transient ischaemia when demand exceeds supply; stable (exertion, relieved by rest), unstable (plaque rupture with partial thrombus, at rest), variant (spasm).\n5. Pain: central chest tightness radiating to left arm, jaw; a few minutes.\n6. MI: plaque rupture → platelet aggregation → occlusive thrombus → necrosis after 20–30 min, spreading from subendocardium outward.\n7. Features: crushing pain over 30 min not relieved by rest or nitrates, sweating, vomiting, breathlessness.\n8. Diagnosis: ST elevation, Q waves; raised troponin, CK-MB.\n9. Complications: arrhythmias (VF), heart failure, cardiogenic shock, rupture, aneurysm, thromboembolism, pericarditis.\n10. Table: angina vs MI."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the cardiac cycle.",
+      "answer": "1. Events of one heartbeat; 0.8 s at 72/min (atrial systole 0.1 s, ventricular systole 0.3 s, ventricular diastole 0.5 s).\n2. Atrial systole: completes ventricular filling.\n3. Isovolumetric contraction: AV valves close (first sound), all valves closed.\n4. Ejection: semilunar valves open, blood ejected.\n5. Isovolumetric relaxation: semilunar valves close (second sound).\n6. Ventricular filling: rapid and slow filling. EDV about 120 mL, ESV about 50 mL, SV about 70 mL."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Draw a normal ECG and explain its waves and intervals.",
+      "answer": "1. ECG records electrical activity of the heart from skin electrodes (12 leads).\n2. P wave: atrial depolarisation.\n3. PR interval 0.12–0.20 s: AV nodal delay.\n4. QRS complex (under 0.12 s): ventricular depolarisation; atrial repolarisation hidden.\n5. ST segment: ventricles depolarised; T wave: ventricular repolarisation; QT about 0.4 s.\n6. Uses: rate, rhythm, arrhythmias, blocks, ischaemia and infarction, electrolyte changes."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the pathogenesis and features of congestive heart failure.",
+      "answer": "1. Heart cannot pump enough blood for body needs; causes: IHD, hypertension, valve disease, cardiomyopathy, arrhythmias.\n2. Compensation: Frank–Starling, sympathetic activation, RAAS (salt and water retention), ADH, remodelling → short-term help, long-term worsening.\n3. Left failure: pulmonary congestion, dyspnoea, orthopnoea, paroxysmal nocturnal dyspnoea, crackles.\n4. Right failure: raised JVP, pedal oedema, enlarged liver, ascites; commonest cause left failure; cor pulmonale from lung disease."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Define cardiac output and describe the factors affecting it.",
+      "answer": "1. Volume pumped by each ventricle per minute; CO = SV × HR ≈ 70 mL × 72 = about 5 L/min.\n2. Preload (end-diastolic volume, venous return; Frank–Starling law).\n3. Contractility (increased by sympathetic stimulation and adrenaline; reduced by hypoxia, acidosis).\n4. Afterload (aortic pressure; raised in hypertension).\n5. Heart rate (autonomic nerves, hormones, temperature, exercise)."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the mechanisms of cardiac arrhythmias.",
+      "answer": "1. Arrhythmia: abnormal rate, rhythm or conduction.\n2. Abnormal automaticity: SA node too fast or slow, ectopic foci (ischaemia, low K+, sympathetic drive).\n3. Triggered activity: early after-depolarisations (long QT) and delayed after-depolarisations (Ca2+ overload, digoxin toxicity).\n4. Re-entry: impulse circles a loop with one-way block and slow conduction (most tachycardias).\n5. Conduction block (AV block).\n6. Examples: atrial fibrillation (stroke risk), ventricular fibrillation (cardiac arrest)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the normal cardiac output? Give its formula.",
+      "answer": "Cardiac output = stroke volume × heart rate; at rest about 70 mL × 72 beats/min, which is about 5 L/min."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What does the QRS complex of the ECG represent?",
+      "answer": "The QRS complex represents depolarisation of the ventricles (atrial repolarisation is hidden within it); it normally lasts less than 0.12 s."
+    }
+  ]
+}

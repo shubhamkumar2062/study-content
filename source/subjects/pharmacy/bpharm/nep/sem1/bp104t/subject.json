@@ -1,0 +1,48 @@
+{
+  "code": "BP104T",
+  "title": "Human Anatomy, Physiology and Pathophysiology I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, B.Pharm Syllabus 2026 (as per NEP 2020), BP104T Human Anatomy, Physiology and Pathophysiology I (Theory), units I–V",
+    "url": "https://www.pci.gov.in/documents/1455/B.Pharm_Syllabus_2026-_NEP2020_compressed.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to the human body, cells, tissues, and cell injury and adaptation",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Skin and wound healing, skeletal system, muscle, joints and their diseases",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Blood, lymphatic system, inflammation and repair, and haematological diseases",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Peripheral nervous system and special senses with their disorders",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Cardiovascular system and cardiovascular diseases",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

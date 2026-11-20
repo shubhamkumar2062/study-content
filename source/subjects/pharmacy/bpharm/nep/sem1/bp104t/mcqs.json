@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The 'powerhouse' of the cell that produces most ATP is the:",
+      "options": [
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Lysosome",
+        "Ribosome"
+      ],
+      "correct": 0,
+      "explanation": "Mitochondria carry out aerobic respiration and make most of the cell's ATP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The Na+/K+-ATPase pump moves:",
+      "options": [
+        "2 Na+ out and 3 K+ in",
+        "3 Na+ out and 2 K+ in",
+        "3 K+ out and 2 Na+ in",
+        "Equal Na+ and K+ in both directions"
+      ],
+      "correct": 1,
+      "explanation": "Each cycle uses one ATP to move 3 Na+ out and 2 K+ into the cell.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Uterine contraction during labour is an example of:",
+      "options": [
+        "Negative feedback",
+        "Feed-forward inhibition",
+        "Positive feedback",
+        "Homeostatic resistance"
+      ],
+      "correct": 2,
+      "explanation": "Oxytocin increases contractions, which cause more oxytocin release: the change is amplified.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Replacement of ciliated columnar epithelium of the bronchi by squamous epithelium in smokers is:",
+      "options": [
+        "Hyperplasia",
+        "Atrophy",
+        "Hypertrophy",
+        "Metaplasia"
+      ],
+      "correct": 3,
+      "explanation": "Metaplasia is replacement of one adult cell type by another more resistant type.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Detoxification of drugs by cytochrome P450 enzymes mainly occurs in the:",
+      "options": [
+        "Smooth endoplasmic reticulum",
+        "Rough endoplasmic reticulum",
+        "Nucleolus",
+        "Peroxisome"
+      ],
+      "correct": 0,
+      "explanation": "Smooth ER of liver cells holds the cytochrome P450 drug-metabolising enzymes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which of the following is a feature of apoptosis rather than necrosis?",
+      "options": [
+        "Cell swelling with membrane rupture",
+        "Cell shrinkage without inflammation",
+        "Inflammation around dead cells",
+        "Death of large groups of cells"
+      ],
+      "correct": 1,
+      "explanation": "Apoptosis is programmed death of single cells that shrink and are removed without inflammation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The urinary bladder is lined by:",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple columnar epithelium",
+        "Transitional epithelium",
+        "Pseudostratified ciliated epithelium"
+      ],
+      "correct": 2,
+      "explanation": "Transitional epithelium changes shape to allow stretching of the bladder.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Histamine released by mast cells acting on nearby blood vessels is an example of:",
+      "options": [
+        "Endocrine signalling",
+        "Synaptic signalling",
+        "Contact-dependent signalling",
+        "Paracrine signalling"
+      ],
+      "correct": 3,
+      "explanation": "A local mediator acting on neighbouring cells is paracrine signalling.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Electrical coupling between cardiac muscle cells is provided by:",
+      "options": [
+        "Gap junctions",
+        "Tight junctions",
+        "Hemidesmosomes",
+        "Adherens junctions"
+      ],
+      "correct": 0,
+      "explanation": "Gap junctions (connexons) let ions pass directly between cells.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The earliest change seen in reversible cell injury is:",
+      "options": [
+        "Pyknosis of the nucleus",
+        "Cell swelling",
+        "Karyolysis",
+        "Caseous necrosis"
+      ],
+      "correct": 1,
+      "explanation": "Failure of the Na+/K+ pump lets Na+ and water enter, causing cell swelling.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Melanocytes are found mainly in the:",
+      "options": [
+        "Stratum corneum",
+        "Stratum lucidum",
+        "Stratum basale",
+        "Reticular dermis"
+      ],
+      "correct": 2,
+      "explanation": "Melanocytes lie in the deepest epidermal layer, the stratum basale.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "During skeletal muscle contraction, calcium binds to:",
+      "options": [
+        "Myosin head",
+        "Tropomyosin",
+        "Actin directly",
+        "Troponin C"
+      ],
+      "correct": 3,
+      "explanation": "Ca2+ binding to troponin C moves tropomyosin off the binding sites on actin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Which band of the sarcomere does NOT change in length during contraction?",
+      "options": [
+        "A band",
+        "I band",
+        "H zone",
+        "Distance between Z lines"
+      ],
+      "correct": 0,
+      "explanation": "The A band equals the length of the thick filaments, which do not shorten.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The receptor at the motor end plate of the neuromuscular junction is:",
+      "options": [
+        "Muscarinic acetylcholine receptor",
+        "Nicotinic acetylcholine receptor",
+        "Alpha adrenergic receptor",
+        "Beta adrenergic receptor"
+      ],
+      "correct": 1,
+      "explanation": "Acetylcholine acts on nicotinic (muscle type) receptors at the end plate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The joint between the atlas and the axis is a:",
+      "options": [
+        "Hinge joint",
+        "Saddle joint",
+        "Pivot joint",
+        "Ball and socket joint"
+      ],
+      "correct": 2,
+      "explanation": "The atlas rotates around the dens of the axis, a pivot joint.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Pannus formation is characteristic of:",
+      "options": [
+        "Gout",
+        "Osteoporosis",
+        "Osteoarthritis only",
+        "Rheumatoid arthritis"
+      ],
+      "correct": 3,
+      "explanation": "Inflamed synovial granulation tissue (pannus) erodes cartilage and bone in rheumatoid arthritis.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Gout is caused by deposition of:",
+      "options": [
+        "Monosodium urate crystals",
+        "Calcium pyrophosphate crystals",
+        "Cholesterol crystals",
+        "Calcium oxalate crystals"
+      ],
+      "correct": 0,
+      "explanation": "Hyperuricaemia leads to monosodium urate crystal deposition in joints.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The main hormonal cause of postmenopausal osteoporosis is loss of:",
+      "options": [
+        "Calcitonin excess",
+        "Oestrogen",
+        "Parathyroid hormone excess",
+        "Growth hormone excess"
+      ],
+      "correct": 1,
+      "explanation": "Oestrogen restrains osteoclasts; its loss speeds bone resorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Lepromatous leprosy is associated with:",
+      "options": [
+        "Strong cell-mediated immunity and few bacilli",
+        "Positive lepromin test",
+        "Weak cell-mediated immunity and many bacilli",
+        "A single well-defined patch"
+      ],
+      "correct": 2,
+      "explanation": "In lepromatous leprosy cell-mediated immunity is poor, so bacilli multiply freely.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Allergic contact dermatitis to nickel is which type of hypersensitivity?",
+      "options": [
+        "Type I (IgE mediated)",
+        "Type II (cytotoxic)",
+        "Type III (immune complex)",
+        "Type IV (delayed, T-cell mediated)"
+      ],
+      "correct": 3,
+      "explanation": "Allergic contact dermatitis is a delayed T-cell mediated reaction appearing 24–72 hours after contact.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "The normal life span of a red blood cell is about:",
+      "options": [
+        "120 days",
+        "10 days",
+        "30 days",
+        "365 days"
+      ],
+      "correct": 0,
+      "explanation": "Red cells circulate for about 120 days before removal by macrophages.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Erythropoietin is produced mainly by the:",
+      "options": [
+        "Liver",
+        "Kidneys",
+        "Bone marrow",
+        "Spleen"
+      ],
+      "correct": 1,
+      "explanation": "The kidneys release erythropoietin when oxygen delivery falls.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Which clotting factor is deficient in haemophilia A?",
+      "options": [
+        "Factor IX",
+        "Factor VII",
+        "Factor VIII",
+        "Factor XIII"
+      ],
+      "correct": 2,
+      "explanation": "Haemophilia A is factor VIII deficiency; haemophilia B is factor IX deficiency.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Prothrombin time (PT) mainly tests the:",
+      "options": [
+        "Intrinsic pathway only",
+        "Platelet function",
+        "Fibrinolytic system",
+        "Extrinsic and common pathways"
+      ],
+      "correct": 3,
+      "explanation": "PT measures the tissue factor (VII) pathway and the common pathway.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "A person with blood group AB has:",
+      "options": [
+        "A and B antigens and no anti-A or anti-B antibodies",
+        "No antigens and both antibodies",
+        "A antigen and anti-B antibody",
+        "B antigen and anti-A antibody"
+      ],
+      "correct": 0,
+      "explanation": "AB has both antigens and neither antibody, so it is the universal recipient.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The thoracic duct drains lymph into the:",
+      "options": [
+        "Right subclavian vein",
+        "Left subclavian vein",
+        "Inferior vena cava",
+        "Hepatic portal vein"
+      ],
+      "correct": 1,
+      "explanation": "The thoracic duct empties at the junction of the left subclavian and internal jugular veins.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Koilonychia (spoon-shaped nails) is a feature of:",
+      "options": [
+        "Vitamin B12 deficiency",
+        "Haemophilia",
+        "Iron deficiency anaemia",
+        "Sickle cell trait"
+      ],
+      "correct": 2,
+      "explanation": "Iron deficiency affects epithelial tissues, causing koilonychia.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "In sickle cell anaemia, glutamic acid at position 6 of the beta chain is replaced by:",
+      "options": [
+        "Lysine",
+        "Glycine",
+        "Alanine",
+        "Valine"
+      ],
+      "correct": 3,
+      "explanation": "A point mutation substitutes valine for glutamic acid, forming HbS.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The main chemotactic mediator among the following is:",
+      "options": [
+        "Leukotriene B4",
+        "Histamine",
+        "Bradykinin",
+        "Prostacyclin"
+      ],
+      "correct": 0,
+      "explanation": "Leukotriene B4 (with C5a and IL-8) attracts white cells to the site of inflammation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Neurological damage (subacute combined degeneration) is seen in deficiency of:",
+      "options": [
+        "Folic acid",
+        "Vitamin B12",
+        "Iron",
+        "Vitamin K"
+      ],
+      "correct": 1,
+      "explanation": "Vitamin B12 is needed for myelin; folate deficiency does not cause this nerve damage.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The sympathetic outflow arises from spinal segments:",
+      "options": [
+        "C1 to C8",
+        "S2 to S4",
+        "T1 to L2",
+        "L3 to S1"
+      ],
+      "correct": 2,
+      "explanation": "Sympathetic preganglionic neurons lie in the lateral horn of T1–L2.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Postganglionic sympathetic fibres to most organs release:",
+      "options": [
+        "Acetylcholine",
+        "Dopamine",
+        "Serotonin",
+        "Noradrenaline"
+      ],
+      "correct": 3,
+      "explanation": "Most sympathetic postganglionic fibres are adrenergic; sweat glands are an exception (cholinergic).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Taste from the anterior two-thirds of the tongue is carried by the:",
+      "options": [
+        "Facial nerve (VII)",
+        "Glossopharyngeal nerve (IX)",
+        "Hypoglossal nerve (XII)",
+        "Trigeminal nerve (V)"
+      ],
+      "correct": 0,
+      "explanation": "The facial nerve carries taste from the anterior two-thirds; IX carries the posterior one-third.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The number of pairs of spinal nerves is:",
+      "options": [
+        "12",
+        "31",
+        "33",
+        "26"
+      ],
+      "correct": 1,
+      "explanation": "There are 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal pairs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Lateral rectus muscle of the eye is supplied by the:",
+      "options": [
+        "Oculomotor nerve (III)",
+        "Trochlear nerve (IV)",
+        "Abducens nerve (VI)",
+        "Optic nerve (II)"
+      ],
+      "correct": 2,
+      "explanation": "The abducens nerve moves the eye outward via the lateral rectus.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Aqueous humour drains from the anterior chamber mainly through the:",
+      "options": [
+        "Optic disc",
+        "Vitreous body",
+        "Nasolacrimal duct",
+        "Trabecular meshwork and canal of Schlemm"
+      ],
+      "correct": 3,
+      "explanation": "Blocked drainage through the trabecular meshwork raises intraocular pressure in glaucoma.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Myopia is corrected with a:",
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Cylindrical lens only",
+        "Prism"
+      ],
+      "correct": 0,
+      "explanation": "A diverging (concave) lens moves the focus back onto the retina.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Otitis media is more common in children mainly because their Eustachian tube is:",
+      "options": [
+        "Long and narrow",
+        "Short, wide and horizontal",
+        "Absent at birth",
+        "Blocked by wax"
+      ],
+      "correct": 1,
+      "explanation": "A short horizontal tube lets nasopharyngeal infection reach the middle ear easily.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Ménière's disease, causing vertigo with hearing loss and tinnitus, is due to:",
+      "options": [
+        "Loose otoconia in a semicircular canal",
+        "Perforated eardrum",
+        "Excess endolymph (endolymphatic hydrops)",
+        "Wax in the ear canal"
+      ],
+      "correct": 2,
+      "explanation": "Endolymphatic hydrops distends the membranous labyrinth in Ménière's disease.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "In diabetic cataract, lens swelling is caused by accumulation of:",
+      "options": [
+        "Glycogen",
+        "Melanin",
+        "Cholesterol",
+        "Sorbitol"
+      ],
+      "correct": 3,
+      "explanation": "Aldose reductase converts excess glucose to sorbitol, which draws water into lens fibres.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The normal pacemaker of the heart is the:",
+      "options": [
+        "Sinoatrial node",
+        "Atrioventricular node",
+        "Bundle of His",
+        "Purkinje fibres"
+      ],
+      "correct": 0,
+      "explanation": "The SA node fires fastest (60–100/min) and sets the heart rate.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The P wave of the ECG represents:",
+      "options": [
+        "Ventricular depolarisation",
+        "Atrial depolarisation",
+        "Ventricular repolarisation",
+        "AV nodal delay"
+      ],
+      "correct": 1,
+      "explanation": "The P wave is produced as the atria depolarise.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Cardiac output at rest in an adult is about:",
+      "options": [
+        "1 L/min",
+        "10 L/min",
+        "5 L/min",
+        "15 L/min"
+      ],
+      "correct": 2,
+      "explanation": "About 70 mL stroke volume × 72 beats/min gives about 5 L/min.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The plateau phase of the ventricular action potential is mainly due to:",
+      "options": [
+        "Fast Na+ entry",
+        "K+ entry",
+        "Cl- exit",
+        "Ca2+ entry through L-type channels"
+      ],
+      "correct": 3,
+      "explanation": "Calcium influx balancing potassium efflux maintains the plateau.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The first heart sound is produced by closure of the:",
+      "options": [
+        "Atrioventricular valves",
+        "Semilunar valves",
+        "Foramen ovale",
+        "Coronary sinus"
+      ],
+      "correct": 0,
+      "explanation": "Closure of the mitral and tricuspid valves at the start of ventricular systole gives 'lub'.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Angiotensin II raises blood pressure by:",
+      "options": [
+        "Vasodilatation",
+        "Vasoconstriction and stimulating aldosterone release",
+        "Increasing sodium excretion",
+        "Slowing the heart"
+      ],
+      "correct": 1,
+      "explanation": "Angiotensin II constricts arterioles and promotes salt and water retention via aldosterone.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The most sensitive and specific blood marker of myocardial infarction is:",
+      "options": [
+        "Serum amylase",
+        "Alkaline phosphatase",
+        "Cardiac troponin",
+        "Serum uric acid"
+      ],
+      "correct": 2,
+      "explanation": "Troponins I and T leak from damaged heart muscle and are the preferred marker.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Orthopnoea and paroxysmal nocturnal dyspnoea are features of:",
+      "options": [
+        "Right ventricular failure only",
+        "Stable angina",
+        "Varicose veins",
+        "Left ventricular failure"
+      ],
+      "correct": 3,
+      "explanation": "Left heart failure causes pulmonary congestion, worse on lying flat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The earliest visible lesion of atherosclerosis is the:",
+      "options": [
+        "Fatty streak",
+        "Calcified plaque",
+        "Aneurysm",
+        "Ruptured fibrous cap"
+      ],
+      "correct": 0,
+      "explanation": "Fatty streaks of foam cells are the earliest visible lesions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Atrial fibrillation increases the risk of stroke because:",
+      "options": [
+        "Heart rate falls below 40/min",
+        "Blood stagnates in the atria and forms clots",
+        "Ventricles stop contracting",
+        "Coronary arteries go into spasm"
+      ],
+      "correct": 1,
+      "explanation": "Ineffective atrial contraction lets clots form, which can travel to the brain.",
+      "probability": "low"
+    }
+  ]
+}

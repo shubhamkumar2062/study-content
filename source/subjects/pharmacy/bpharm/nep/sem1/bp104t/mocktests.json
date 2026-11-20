@@ -1,0 +1,53 @@
+{
+  "tests": [
+    {
+      "id": "university-paper",
+      "title": "Full mock paper (60 marks, 3 hours)",
+      "patternSource": "PCI B.Pharm Syllabus 2026 (NEP 2020), Table XV end-semester question paper pattern. Confirm with your university.",
+      "durationMinutes": 180,
+      "totalMarks": 60,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Section A: Multiple-choice questions (all compulsory)",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        },
+        {
+          "id": "b",
+          "title": "Section B: Short answers (answer any 5)",
+          "source": "short",
+          "marksEach": 4,
+          "count": 7,
+          "attempt": 5
+        },
+        {
+          "id": "c",
+          "title": "Section C: Long answers (answer any 2)",
+          "source": "long",
+          "marksEach": 10,
+          "count": 3,
+          "attempt": 2
+        }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        {
+          "id": "a",
+          "title": "Multiple-choice questions",
+          "source": "mcq",
+          "marksEach": 1,
+          "count": 20,
+          "attempt": 20
+        }
+      ]
+    }
+  ]
+}
