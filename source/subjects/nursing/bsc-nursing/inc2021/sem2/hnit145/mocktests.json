@@ -1,0 +1,26 @@
+{
+  "tests": [
+    {
+      "id": "college-paper",
+      "title": "College exam paper (50 marks, 2 hours)",
+      "patternSource": "Health/Nursing Informatics and Technology is an end-semester college exam, not a university exam: INC B.Sc Nursing Regulations 2020 (page 239) gives 25 internal marks and 25 college exam marks, 2 hours, and page 242 lists it among the college exams whose result is sent to the university, with a minimum pass of 50%. This mock follows the 50-mark college exam pattern of INC B.Sc Nursing Regulations 2020, Appendix 3 (university theory question paper pattern), item 6, with no internal choice; the college sets 50 marks and counts them as 25. Confirm with your university.",
+      "durationMinutes": 120,
+      "totalMarks": 50,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 8, "attempt": 8 },
+        { "id": "essay", "title": "Essay (long answer)", "source": "long", "marksEach": 10, "count": 1, "attempt": 1 },
+        { "id": "short", "title": "Short answers", "source": "short", "marksEach": 5, "count": 4, "attempt": 4 },
+        { "id": "very-short", "title": "Very short answers", "source": "very-short", "marksEach": 2, "count": 6, "attempt": 6 }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 20, "attempt": 20 }
+      ]
+    }
+  ]
+}

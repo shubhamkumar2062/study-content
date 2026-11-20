@@ -1,0 +1,22 @@
+{
+  "code": "HNIT145",
+  "title": "Health/Nursing Informatics and Technology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Health/Nursing Informatics and Technology, pages 288–291; exam pattern in Appendix 3, pages 416–417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Computer applications in patient care and nursing practice", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Principles of health informatics and information systems in healthcare", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Shared care and electronic health records", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Patient safety and clinical risk", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Clinical knowledge, decision making and standardised terminologies", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "eHealth, public health informatics and using information in healthcare management", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Information law and governance, healthcare quality and evidence-based practice", "notes": "notes/unit-7.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}

@@ -1,0 +1,984 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Raw, unorganised facts are called:",
+      "options": [
+        "Data",
+        "Information",
+        "Knowledge",
+        "Wisdom"
+      ],
+      "correct": 0,
+      "explanation": "Data become information only when organised and given meaning.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The part of the CPU that performs calculations and comparisons is the:",
+      "options": [
+        "Control unit",
+        "Arithmetic logic unit",
+        "Hard disk",
+        "Monitor"
+      ],
+      "correct": 1,
+      "explanation": "The ALU does arithmetic and logical operations; the control unit directs them.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which memory is lost when the computer is switched off?",
+      "options": [
+        "ROM",
+        "Hard disk",
+        "RAM",
+        "Pen drive"
+      ],
+      "correct": 2,
+      "explanation": "RAM is temporary working memory.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Microsoft Windows is an example of:",
+      "options": [
+        "Application software",
+        "Utility hardware",
+        "A web browser",
+        "System software (operating system)"
+      ],
+      "correct": 3,
+      "explanation": "An operating system manages hardware and runs programs.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "In MS Excel, a formula always begins with:",
+      "options": [
+        "=",
+        "#",
+        "@",
+        "$"
+      ],
+      "correct": 0,
+      "explanation": "Excel treats an entry starting with = as a formula.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In a literature search, the Boolean operator that narrows the search is:",
+      "options": [
+        "OR",
+        "AND",
+        "Adding more synonyms",
+        "Removing date limits"
+      ],
+      "correct": 1,
+      "explanation": "AND requires both terms, so fewer results are found.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The database most specific to nursing and allied health literature is:",
+      "options": [
+        "DICOM",
+        "LOINC",
+        "CINAHL",
+        "PACS"
+      ],
+      "correct": 2,
+      "explanation": "CINAHL indexes nursing and allied health journals.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Epi Info is:",
+      "options": [
+        "A hospital billing system",
+        "An operating system",
+        "An imaging standard",
+        "A free statistical package"
+      ],
+      "correct": 3,
+      "explanation": "Epi Info is free software used for surveys and outbreak data.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "A UHID in a hospital management information system is:",
+      "options": [
+        "A unique hospital identification number for a patient",
+        "A type of printer",
+        "A disease code",
+        "A nursing diagnosis"
+      ],
+      "correct": 0,
+      "explanation": "Registration gives each patient a UHID within the hospital.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "e-Hospital, used in many government hospitals in India, was developed by:",
+      "options": [
+        "WHO",
+        "NIC",
+        "SNOMED International",
+        "HL7 International"
+      ],
+      "correct": 1,
+      "explanation": "e-Hospital is a hospital management system developed by the National Informatics Centre.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In the DIKW pyramid, the highest level is:",
+      "options": [
+        "Knowledge",
+        "Information",
+        "Wisdom",
+        "Data"
+      ],
+      "correct": 2,
+      "explanation": "Data → information → knowledge → wisdom.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The system that manages clinical, administrative and financial work of the whole hospital is the:",
+      "options": [
+        "Clinical information system",
+        "Laboratory information system",
+        "Picture archiving system",
+        "Hospital information system"
+      ],
+      "correct": 3,
+      "explanation": "HIS is the umbrella system; CIS covers clinical care.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "CPOE stands for:",
+      "options": [
+        "Computerised provider order entry",
+        "Clinical patient outcome evaluation",
+        "Central processing of electronic records",
+        "Computer patient online education"
+      ],
+      "correct": 0,
+      "explanation": "Doctors enter orders electronically, which are checked by the system.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "PACS is used to store and distribute:",
+      "options": [
+        "Nursing rosters",
+        "Medical images",
+        "Payroll data",
+        "Diet orders"
+      ],
+      "correct": 1,
+      "explanation": "Picture archiving and communication system holds X-ray, CT and MRI images.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "'Garbage in, garbage out' refers to the limitation of:",
+      "options": [
+        "High cost",
+        "Poor internet",
+        "Poor data quality",
+        "Patient privacy"
+      ],
+      "correct": 2,
+      "explanation": "Wrong or incomplete entries produce wrong outputs and decisions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "An architecture in which records stay with each facility but are linked when needed is called:",
+      "options": [
+        "Centralised mainframe",
+        "Stand-alone",
+        "Monolithic",
+        "Federated (distributed)"
+      ],
+      "correct": 3,
+      "explanation": "ABDM follows a federated model with consent-based sharing.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which is NOT a component of an information system?",
+      "options": [
+        "Patient's blood group",
+        "People",
+        "Procedures",
+        "Network"
+      ],
+      "correct": 0,
+      "explanation": "Components are people, procedures, data, software, hardware and network.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "BCMA in a clinical information system means:",
+      "options": [
+        "Basic clinical management of admissions",
+        "Barcode medication administration",
+        "Bedside cardiac monitoring alarm",
+        "Billing and cost management application"
+      ],
+      "correct": 1,
+      "explanation": "Scanning the wristband and medicine checks the five rights.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The 'super-user' during introduction of a new system is a staff member who:",
+      "options": [
+        "Repairs hardware",
+        "Writes the software code",
+        "Is specially trained and helps colleagues use it",
+        "Approves the budget"
+      ],
+      "correct": 2,
+      "explanation": "Super-users support peers on the ward.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Which step of the system life cycle comes immediately before go-live?",
+      "options": [
+        "Planning",
+        "Maintenance",
+        "Evaluation",
+        "Testing and training"
+      ],
+      "correct": 3,
+      "explanation": "Systems are tested and users trained before implementation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "An electronic record controlled and maintained by the person themselves is a:",
+      "options": [
+        "Personal health record",
+        "Electronic medical record",
+        "Electronic health record",
+        "Clinical information system"
+      ],
+      "correct": 0,
+      "explanation": "A PHR is person-controlled; an EMR belongs to one facility.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The ABHA number has:",
+      "options": [
+        "10 digits",
+        "14 digits",
+        "12 digits",
+        "16 digits"
+      ],
+      "correct": 1,
+      "explanation": "ABHA is a 14-digit unique health identifier.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "ABDM was launched nationwide on:",
+      "options": [
+        "15 August 2020",
+        "1 January 2022",
+        "27 September 2021",
+        "11 August 2023"
+      ],
+      "correct": 2,
+      "explanation": "The pilot was announced on 15 August 2020; the national launch was on 27 September 2021.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "ABDM is implemented by the:",
+      "options": [
+        "Indian Nursing Council",
+        "National Medical Commission",
+        "WHO",
+        "National Health Authority"
+      ],
+      "correct": 3,
+      "explanation": "NHA implements ABDM.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The standard used for storing and sending medical images is:",
+      "options": [
+        "DICOM",
+        "LOINC",
+        "ICD",
+        "NANDA"
+      ],
+      "correct": 0,
+      "explanation": "DICOM covers imaging; LOINC covers lab tests.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The HL7 standard built on web 'resources' and APIs is:",
+      "options": [
+        "CDA",
+        "FHIR",
+        "DICOM",
+        "SNOMED CT"
+      ],
+      "correct": 1,
+      "explanation": "FHIR = Fast Healthcare Interoperability Resources.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Shared understanding of the meaning of exchanged data through common codes is:",
+      "options": [
+        "Foundational interoperability",
+        "Structural interoperability",
+        "Semantic interoperability",
+        "Physical interoperability"
+      ],
+      "correct": 2,
+      "explanation": "Semantic interoperability uses terminologies such as SNOMED CT.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The revised EHR Standards for India were released by MoHFW in:",
+      "options": [
+        "2010",
+        "2019",
+        "2023",
+        "2016"
+      ],
+      "correct": 3,
+      "explanation": "First notified in 2013, revised in December 2016.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The National Resource Centre for EHR Standards is located at:",
+      "options": [
+        "C-DAC, Pune",
+        "AIIMS, New Delhi",
+        "NIC, Hyderabad",
+        "NIMHANS, Bengaluru"
+      ],
+      "correct": 0,
+      "explanation": "NRCeS was set up at C-DAC Pune.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Codes for laboratory tests and clinical observations are provided by:",
+      "options": [
+        "DICOM",
+        "LOINC",
+        "HFR",
+        "UHI"
+      ],
+      "correct": 1,
+      "explanation": "LOINC = Logical Observation Identifiers Names and Codes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "An error that is caught before it reaches the patient is a:",
+      "options": [
+        "Sentinel event",
+        "Adverse event",
+        "Near miss",
+        "Malpractice"
+      ],
+      "correct": 2,
+      "explanation": "A near miss causes no harm because it was caught or did not reach the patient.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The Swiss cheese model of error was described by:",
+      "options": [
+        "Avedis Donabedian",
+        "David Sackett",
+        "Florence Nightingale",
+        "James Reason"
+      ],
+      "correct": 3,
+      "explanation": "Reason described layers of defence with holes that line up.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Root cause analysis is done:",
+      "options": [
+        "After an adverse event",
+        "Only before a new process starts",
+        "Only for billing errors",
+        "By the patient"
+      ],
+      "correct": 0,
+      "explanation": "RCA is retrospective; FMEA is prospective.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "FMEA is mainly a tool that:",
+      "options": [
+        "Investigates a death after it occurs",
+        "Looks ahead to find how a process could fail",
+        "Measures patient satisfaction",
+        "Calculates bed occupancy"
+      ],
+      "correct": 1,
+      "explanation": "Failure mode and effects analysis is proactive.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Overriding many computer warnings without reading them is called:",
+      "options": [
+        "Interoperability",
+        "Downtime",
+        "Alert fatigue",
+        "Encryption"
+      ],
+      "correct": 2,
+      "explanation": "Too many unimportant alerts lead to desensitisation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "In a risk matrix, risk is rated by combining:",
+      "options": [
+        "Cost and time",
+        "Age and sex",
+        "Staff and beds",
+        "Likelihood and severity"
+      ],
+      "correct": 3,
+      "explanation": "Risk = how likely × how severe.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Buying insurance to cover a risk is an example of:",
+      "options": [
+        "Transferring the risk",
+        "Avoiding the risk",
+        "Accepting the risk",
+        "Monitoring the risk"
+      ],
+      "correct": 0,
+      "explanation": "Treatment options: avoid, reduce, transfer, accept.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "World Patient Safety Day is observed on:",
+      "options": [
+        "7 April",
+        "17 September",
+        "12 May",
+        "10 October"
+      ],
+      "correct": 1,
+      "explanation": "WHO marks World Patient Safety Day on 17 September.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Scanning a barcode stuck on the bed rail instead of the patient's wristband is an example of:",
+      "options": [
+        "Good practice",
+        "Root cause analysis",
+        "A workaround",
+        "Semantic coding"
+      ],
+      "correct": 2,
+      "explanation": "Workarounds defeat the safety purpose of barcode scanning.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The correct way to identify a patient is to use:",
+      "options": [
+        "Only the bed number",
+        "Only the diagnosis",
+        "The ward name",
+        "At least two identifiers, never the bed number"
+      ],
+      "correct": 3,
+      "explanation": "Two identifiers such as name and UHID or date of birth.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "SNOMED CT is maintained by:",
+      "options": [
+        "SNOMED International",
+        "WHO",
+        "NANDA International",
+        "US NCHS"
+      ],
+      "correct": 0,
+      "explanation": "SNOMED International owns and maintains SNOMED CT.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "NANDA-I Taxonomy II has:",
+      "options": [
+        "4 domains",
+        "13 domains",
+        "7 domains",
+        "22 domains"
+      ],
+      "correct": 1,
+      "explanation": "Nursing diagnoses are grouped into 13 domains.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "NOC outcomes are measured on a:",
+      "options": [
+        "10-point visual scale",
+        "3-point yes/no scale",
+        "5-point Likert scale",
+        "100-point percentage scale"
+      ],
+      "correct": 2,
+      "explanation": "Each indicator is rated 1 (worst) to 5 (best).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The Omaha System was developed mainly for:",
+      "options": [
+        "Operating theatre nursing",
+        "Hospital billing",
+        "Radiology",
+        "Community and home health nursing"
+      ],
+      "correct": 3,
+      "explanation": "It came from the Visiting Nurse Association of Omaha.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In the Omaha System Problem Rating Scale, outcomes are rated for knowledge, behaviour and:",
+      "options": [
+        "Status",
+        "Cost",
+        "Time",
+        "Staffing"
+      ],
+      "correct": 0,
+      "explanation": "Knowledge, behaviour and status are each rated 1–5.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Converting an expert nurse's experience into a written protocol is, in the SECI model:",
+      "options": [
+        "Socialisation",
+        "Externalisation",
+        "Combination",
+        "Internalisation"
+      ],
+      "correct": 1,
+      "explanation": "Externalisation turns tacit knowledge into explicit knowledge.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "In a knowledge-based CDSS, the part that applies rules to patient data is the:",
+      "options": [
+        "Knowledge base",
+        "Keyboard",
+        "Inference engine",
+        "Printer"
+      ],
+      "correct": 2,
+      "explanation": "Knowledge base holds rules; the inference engine applies them.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "ICD-10-CM is the clinical modification of ICD-10 used in:",
+      "options": [
+        "India's ABDM only",
+        "The United Kingdom only",
+        "WHO mortality tables only",
+        "The United States"
+      ],
+      "correct": 3,
+      "explanation": "ICD-10-CM is the US version for coding diagnoses.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The 'is a' relationship in SNOMED CT is used to:",
+      "options": [
+        "Build the concept hierarchy",
+        "Record billing amounts",
+        "Store images",
+        "Encrypt data"
+      ],
+      "correct": 0,
+      "explanation": "Example: myocardial infarction is a ischaemic heart disease.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "ICD-11 came into effect from:",
+      "options": [
+        "1 January 2016",
+        "1 January 2022",
+        "1 April 2020",
+        "1 July 2024"
+      ],
+      "correct": 1,
+      "explanation": "WHO's ICD-11 came into effect on 1 January 2022.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "Sending photos or ECG tracings to a specialist for review later is called:",
+      "options": [
+        "Synchronous telemedicine",
+        "Remote surgery",
+        "Store-and-forward telemedicine",
+        "Tele-education"
+      ],
+      "correct": 2,
+      "explanation": "Asynchronous: data stored and reviewed later.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "eSanjeevani is India's national:",
+      "options": [
+        "Immunisation register",
+        "TB notification portal",
+        "Hospital billing software",
+        "Telemedicine service"
+      ],
+      "correct": 3,
+      "explanation": "eSanjeevani provides teleconsultation through MoHFW.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "The toll-free number of Tele-MANAS is:",
+      "options": [
+        "14416",
+        "108",
+        "1098",
+        "104"
+      ],
+      "correct": 0,
+      "explanation": "Tele-MANAS tele-mental health helpline: 14416.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "The tablet application used by ANMs to track mothers and children is:",
+      "options": [
+        "PACS",
+        "ANMOL",
+        "DICOM",
+        "SPSS"
+      ],
+      "correct": 1,
+      "explanation": "ANMOL = ANM Online, linked to the RCH portal.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "IHIP is a platform for:",
+      "options": [
+        "Hospital payroll",
+        "Nursing education",
+        "Disease surveillance",
+        "Insurance claims"
+      ],
+      "correct": 2,
+      "explanation": "The Integrated Health Information Platform supports IDSP surveillance.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "A 20-bed ward has 540 inpatient days in a 30-day month. The bed occupancy rate is:",
+      "options": [
+        "54%",
+        "75%",
+        "27%",
+        "90%"
+      ],
+      "correct": 3,
+      "explanation": "540 ÷ (20 × 30) × 100 = 90%.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Average length of stay is calculated as:",
+      "options": [
+        "Inpatient days ÷ number of discharges",
+        "Number of beds ÷ discharges",
+        "Discharges ÷ admissions",
+        "Deaths ÷ admissions × 100"
+      ],
+      "correct": 0,
+      "explanation": "ALOS = inpatient days ÷ discharges (including deaths).",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Fall rate is usually expressed per:",
+      "options": [
+        "100 beds",
+        "1000 patient days",
+        "10 nurses",
+        "1 year only"
+      ],
+      "correct": 1,
+      "explanation": "Falls ÷ patient days × 1000.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "Staffing, patient acuity and bed management belong to which NIS component?",
+      "options": [
+        "Clinical",
+        "Research",
+        "Administrative",
+        "Education"
+      ],
+      "correct": 2,
+      "explanation": "The administrative component supports nursing management.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "The gap between people who can and cannot use digital technology is called the:",
+      "options": [
+        "Data warehouse",
+        "Firewall",
+        "Bandwidth",
+        "Digital divide"
+      ],
+      "correct": 3,
+      "explanation": "The digital divide limits equitable eHealth.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The professional's duty not to disclose information shared in trust is:",
+      "options": [
+        "Confidentiality",
+        "Privacy",
+        "Security",
+        "Availability"
+      ],
+      "correct": 0,
+      "explanation": "Privacy is the patient's right; confidentiality is the professional's duty.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The DPDP Act received Presidential assent on:",
+      "options": [
+        "25 March 2020",
+        "11 August 2023",
+        "27 September 2021",
+        "17 October 2000"
+      ],
+      "correct": 1,
+      "explanation": "The Digital Personal Data Protection Act, 2023 was assented to on 11 August 2023.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Under the DPDP Act, a hospital that decides why and how patient data are processed is a:",
+      "options": [
+        "Data principal",
+        "Consent manager",
+        "Data fiduciary",
+        "Data processor"
+      ],
+      "correct": 2,
+      "explanation": "The patient is the data principal; the hospital is the data fiduciary.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "The maximum penalty mentioned in the DPDP Act schedule is up to:",
+      "options": [
+        "₹5 lakh",
+        "₹10 crore",
+        "₹1000 crore",
+        "₹250 crore"
+      ],
+      "correct": 3,
+      "explanation": "Up to ₹250 crore, for failing to take reasonable security safeguards.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "The Telemedicine Practice Guidelines were issued on:",
+      "options": [
+        "25 March 2020",
+        "11 August 2023",
+        "1 January 2022",
+        "27 September 2021"
+      ],
+      "correct": 0,
+      "explanation": "Issued by the Board of Governors in supersession of MCI on 25 March 2020.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "Under the Telemedicine Practice Guidelines, explicit consent is needed when the teleconsultation is started by:",
+      "options": [
+        "The patient",
+        "A health worker or the doctor",
+        "Nobody; consent is never needed",
+        "The pharmacist only"
+      ],
+      "correct": 1,
+      "explanation": "Consent is implied when the patient starts the consultation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "In data security, CIA stands for:",
+      "options": [
+        "Consent, identity, access",
+        "Control, inspection, audit",
+        "Confidentiality, integrity, availability",
+        "Coding, indexing, archiving"
+      ],
+      "correct": 2,
+      "explanation": "These are the three goals of information security.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "The highest level of evidence is:",
+      "options": [
+        "Expert opinion",
+        "Single case report",
+        "Descriptive survey",
+        "Systematic review and meta-analysis of RCTs"
+      ],
+      "correct": 3,
+      "explanation": "Systematic reviews of RCTs top the evidence hierarchy.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "Donabedian's model of quality includes structure, process and:",
+      "options": [
+        "Outcome",
+        "Output",
+        "Objective",
+        "Order"
+      ],
+      "correct": 0,
+      "explanation": "Structure → process → outcome.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m10",
+      "unit": 7,
+      "question": "Identity theft by misusing another person's password is covered under IT Act section:",
+      "options": [
+        "43A",
+        "66C",
+        "72A",
+        "66E"
+      ],
+      "correct": 1,
+      "explanation": "Section 66C deals with identity theft.",
+      "probability": "medium"
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the INC syllabus and the usual style of B.Sc Nursing college papers in informatics. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the uses of computers in nursing practice, nursing education, nursing administration and nursing research. Add a note on the advantages and limitations of computers in patient care.",
+      "answer": "1. Computer: an electronic machine that accepts data, processes it under a program, stores it and gives output (input → processing → output).\n2. Nursing practice: electronic health records and nursing notes; vital-sign charting and trend graphs; electronic medication administration record with barcode checking; care plans; alerts for allergy, interactions, falls and early warning scores; monitors, ventilators and infusion pumps; lab and radiology results; telehealth.\n3. Nursing education: computer-assisted instruction, e-learning and online classes, simulation manikins run by software, e-books and e-journals, online tests, video demonstrations of procedures.\n4. Nursing administration: duty rosters, patient classification and workload, bed management, inventory and stores, budgets, attendance, incident reporting, quality indicators, e-mail communication.\n5. Nursing research: literature search in PubMed/CINAHL, online questionnaires, data entry, statistical analysis (SPSS, Epi Info, Excel), reference management, report writing and presentation.\n6. Advantages: legible, complete, easily found records; time saved; fewer transcription and medication errors; alerts; sharing between departments; data for audit and research.\n7. Limitations: cost and training; breakdowns, power and network failure; risk to confidentiality; staff resistance; screen time away from the patient; copy-paste and wrong-patient entries.\n8. Nurse's role: accurate timely entry, own login, lock screen, report problems, keep downtime forms ready."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is a hospital management information system (HMIS)? Describe its modules, benefits and problems, and the role of the nurse in using it.",
+      "answer": "1. Definition: software that connects all departments of a hospital so that data are entered once and shared; supports clinical, administrative and financial work.\n2. Registration module: patient demographics, UHID (unique hospital identification number), ABHA linking, appointments.\n3. ADT: admission, discharge, transfer; bed status.\n4. Clinical modules: OPD/IPD records, doctors' orders (CPOE), nursing notes, vital signs, medication administration, OT and ICU, discharge summary.\n5. Support modules: laboratory (LIS), radiology (RIS/PACS), pharmacy, blood bank, diet, CSSD.\n6. Administrative modules: billing and insurance, stores and inventory, HR and payroll, duty rosters, MIS reports for managers.\n7. Simple diagram: central database with modules around it.\n8. Benefits: less paperwork, faster results, fewer errors, accurate billing, real-time bed status, data for audits and NABH accreditation.\n9. Problems: cost, training needs, downtime, poor design that slows nurses, privacy risks.\n10. Example: e-Hospital (NIC) in government hospitals.\n11. Nurse's role: accurate, timely entry; correct patient check; own login; report errors; give feedback; use downtime procedures when the system fails."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the uses of MS Excel in nursing with examples.",
+      "answer": "1. Excel is a spreadsheet: rows, columns and cells (e.g. B4); a file is a workbook with worksheets.\n2. Data entry: vital signs, intake–output, stock registers, research data.\n3. Formulas starting with = : SUM, AVERAGE, MAX, MIN, COUNT, IF (e.g. =AVERAGE(C2:C31) for mean temperature).\n4. Sort and filter: list patients above 65 years or by ward.\n5. Charts: line chart for temperature trend, bar chart for patients per ward, pie chart for diagnoses.\n6. Conditional formatting to highlight abnormal values.\n7. Administration: duty rosters, monthly census, bed occupancy worked out by formula, budgets."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a literature search? Describe the steps of a literature search with Boolean operators.",
+      "answer": "1. Definition: a planned search of published material to find the best evidence on a topic; first step of research and EBP.\n2. Frame the question in PICO form (Population, Intervention, Comparison, Outcome).\n3. List keywords and synonyms (pressure ulcer, bedsore, pressure injury).\n4. Choose databases: PubMed (MeSH), CINAHL (nursing), Cochrane Library (systematic reviews), Google Scholar, Shodhganga (Indian theses).\n5. Combine terms: AND narrows, OR widens, NOT excludes; quotation marks for phrases; nurs* for word endings.\n6. Apply limits: years, language, age group, study type.\n7. Screen titles and abstracts, read full texts, appraise quality, record references (Zotero, Mendeley)."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about the use of MS PowerPoint for health education and the features of a good presentation.",
+      "answer": "1. PowerPoint creates presentations made of slides; used for health talks, seminars, case presentations and teaching.\n2. Features: slide layouts, themes and slide master; text, pictures, tables, charts, audio and video; transitions and animations; speaker notes; views (normal, slide sorter, slide show).\n3. Good slide design: one idea per slide, about six lines, large clear font, high contrast, simple pictures, few animations.\n4. Do not read paragraphs from the slide; face the audience.\n5. For patients: local language, pictures, simple words, short session, check understanding."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a statistical package? Name common packages and describe the steps of analysing research data.",
+      "answer": "1. Software that organises, analyses and presents data.\n2. Examples: MS Excel, SPSS (menu-driven, common in nursing research), Epi Info (free, from the US CDC), R (free, command-based), STATA and SAS.\n3. Steps: prepare a codebook (variables and codes, e.g. male = 1, female = 2) → enter data → clean data (missing and impossible values) → descriptive statistics (frequency, percentage, mean, median, SD) → inferential tests (chi-square, t-test, correlation) → tables and graphs → interpret with a statistician."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate between data and information.",
+      "answer": "Data are raw, unorganised facts (e.g. \"38.6\"). Information is data organised and given meaning in context (e.g. \"patient in bed 12 has a temperature of 38.6 °C\")."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate RAM and ROM.",
+      "answer": "RAM (random access memory) is temporary working memory whose contents are lost when power goes off. ROM (read-only memory) is permanent memory holding start-up instructions; it is not lost when power is off."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an operating system? Give two examples.",
+      "answer": "System software that manages the computer's hardware and lets users run programs, e.g. Microsoft Windows, Linux, Android."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define health informatics. Explain its need, objectives and limitations.",
+      "answer": "1. Definition: the use of information science and information and communication technology to improve health care, health education, research and health policy. Nursing informatics combines nursing, computer and information science to manage data, information, knowledge and wisdom in nursing.\n2. Need: huge volume of data; patient safety (illegible handwriting, lost files); continuity of care across facilities; evidence-based practice; rising costs and duplicate tests; public health surveillance; accountability and accreditation; patient expectations.\n3. Objectives: right information to the right person at the right time; better quality, safety and efficiency; decision support; interoperability; reduced cost; support for education, research and planning; patient empowerment; protection of privacy.\n4. Limitations: cost; poor infrastructure (power, internet); lack of interoperability; resistance and low computer literacy; poor data quality (garbage in, garbage out); privacy and security threats; alert fatigue and over-reliance; loss of human touch; legal and ethical issues.\n5. DIKW pyramid diagram: data → information → knowledge → wisdom.\n6. Nurse's role: accurate documentation, involvement in system design, use of data to improve care."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is an information system? Describe its components and the architecture of information systems in modern health care. Differentiate HIS and CIS.",
+      "answer": "1. Information system: an organised combination of people, procedures, data, hardware, software and networks that collects, processes, stores and distributes information to support decisions.\n2. Components: people (users), procedures (policies, workflows, downtime plans), data, software (applications, database), hardware (computers, servers, scanners), network (LAN, Wi-Fi, internet, cloud).\n3. Functions: input → processing → storage → output → feedback.\n4. Architecture: centralised (mainframe with terminals); client–server (central server, user computers); web-based/cloud (through a browser); distributed/federated (data stay in many places, linked when needed, e.g. ABDM).\n5. Layers: presentation (screens), application (rules, alerts), data (database).\n6. Integration: single vendor (one database) vs best-of-breed linked by interface engines using HL7.\n7. HIS: comprehensive system for clinical, administrative and financial work of the whole hospital; users all staff.\n8. CIS: part of HIS for patient care only; EHR, CPOE, results, nursing documentation, eMAR; users doctors and nurses.\n9. Nurse's role: involvement from planning to evaluation, super-user, accurate data."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the data–information–knowledge–wisdom (DIKW) pyramid with a nursing example.",
+      "answer": "1. Data: raw facts — BP 90/60, pulse 120.\n2. Information: data with context — BP 90/60 and pulse 120 at 10 am, day 1 after surgery.\n3. Knowledge: relationships and patterns — falling BP with rising pulse suggests shock.\n4. Wisdom: applying knowledge appropriately — suspect bleeding, inform the surgeon, prepare fluids, monitor closely.\n5. Diagram: pyramid with data at the base and wisdom at the top.\n6. Nursing informatics aims to move nurses from collecting data to using knowledge and wisdom."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between hospital information system (HIS) and clinical information system (CIS).",
+      "answer": "1. HIS: comprehensive, integrated system managing clinical, administrative and financial aspects of the whole hospital.\n2. CIS: the part of HIS that directly supports patient care.\n3. Users: HIS — all staff, management, accounts; CIS — doctors, nurses, therapists.\n4. Modules: HIS — registration, billing, stores, HR plus clinical modules; CIS — EHR, CPOE, results, nursing documentation, eMAR, ICU charting.\n5. Both share data and should be integrated; CIS subsystems include LIS, RIS/PACS, pharmacy system, CDSS."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the characteristics of good-quality health data and explain why nurses are important for data quality.",
+      "answer": "1. Accurate, complete, timely, consistent, relevant, clear/legible, secure.\n2. Nurses are the largest group entering data (vital signs, intake–output, assessments, medication administration).\n3. Poor nursing documentation spreads errors into decisions, audits, research and national statistics.\n4. Good practice: enter at the bedside, correct patient, no copy-paste, correct units, late entries marked."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the steps of the system life cycle for introducing a new information system in a hospital and the nurse's role.",
+      "answer": "1. Planning: identify the need, form a team including nurses.\n2. Analysis: study current workflow and requirements.\n3. Design: screens, forms, reports.\n4. Selection or development of software.\n5. Testing with real users.\n6. Training and implementation (pilot, phased or big bang go-live).\n7. Evaluation and maintenance: feedback, updates.\n8. Nurse's role: describe nursing workflow, test, act as super-user, train peers, report problems."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define nursing informatics.",
+      "answer": "A speciality that combines nursing science, computer science and information science to manage and communicate data, information, knowledge and wisdom in nursing practice."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is CPOE?",
+      "answer": "Computerised provider order entry: doctors enter orders electronically, removing illegible handwriting and checking dose, allergy and duplicate orders."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is PACS?",
+      "answer": "Picture archiving and communication system: stores and distributes medical images (X-ray, CT, MRI) electronically so they can be viewed anywhere in the hospital."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define electronic health record (EHR). Differentiate EMR, EHR and PHR. Describe the contents, advantages and disadvantages of an EHR.",
+      "answer": "1. EHR: a longitudinal electronic record of a person's health information that can be shared across facilities over the person's lifetime.\n2. EMR: digital chart of one facility, controlled by that facility.\n3. PHR: record kept and controlled by the person, who collects and shares their own data.\n4. Table comparing control and scope; diagram EMRs → EHR → PHR app.\n5. Contents: demographics, problem list, history, allergies, medications, immunisations, vital signs, progress and nursing notes, investigations, imaging, discharge summaries, advance directives, billing and insurance.\n6. Advantages: legible complete information at the point of care; fewer duplicate tests and medication errors; continuity and shared care; decision support; data for public health and research; patient access.\n7. Disadvantages: cost; privacy risk; downtime; documentation burden; alert fatigue; copy-paste errors; wrong entries spread.\n8. Nurse's role: accurate entry, consent and confidentiality, helping patients link ABHA."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is interoperability? Describe the latest global standards that allow lifelong electronic health records to be built from different systems, and the EHR standards and digital health mission of India.",
+      "answer": "1. Interoperability: ability of systems to exchange data and use the exchanged data. Levels: foundational, structural, semantic, organisational.\n2. Messaging: HL7 v2 (hospital messages), HL7 CDA (clinical documents), HL7 FHIR (web resources such as Patient and Observation through APIs), DICOM (images), IHE profiles.\n3. Terminology: SNOMED CT (clinical terms), LOINC (lab tests and observations), ICD-10/ICD-11 (classification; ICD-11 from 1 January 2022), nursing terminologies.\n4. Architecture: openEHR archetypes, ISO 13606; security standards.\n5. India: MoHFW EHR Standards notified 2013, revised December 2016 (HL7, DICOM, SNOMED CT primary terminology, LOINC, ICD-10, privacy and audit); NRCeS at C-DAC Pune; SNOMED CT free for use in India.\n6. ABDM: launched 27 September 2021, implemented by NHA; ABHA 14-digit number and ABHA address (name@abdm); HPR, HFR; consent manager; PHR apps; UHI; federated records shared only with consent; FHIR records.\n7. Diagram of consent-based exchange.\n8. Nurse's role: create and link ABHA, explain consent, view shared records only for care."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the challenges of capturing rich patient histories in computable form.",
+      "answer": "1. Computable = structured and coded so a computer can use the data.\n2. Free text is understood by people but not reliably by computers.\n3. Nuance of social history and the patient's words is lost in tick boxes.\n4. Abbreviations and local terms are ambiguous (MS).\n5. Many terms for one concept (heart attack, MI).\n6. Time and change: onset, resolution, stopped medicines.\n7. Negation and uncertainty (\"no history of TB\", \"suspected dengue\").\n8. Data from many sources in different formats; old paper records; clinician time; sensitive data needing extra protection.\n9. Solutions: structured templates, pick-lists, SNOMED CT/LOINC/ICD coding, openEHR archetypes, text-processing software."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on the Ayushman Bharat Digital Mission (ABDM).",
+      "answer": "1. Launched nationwide on 27 September 2021 by the Prime Minister; implemented by the National Health Authority.\n2. Aim: national digital health ecosystem with records that stay with facilities and are shared with consent.\n3. ABHA number: 14-digit unique health identifier; ABHA address: self-chosen username like name@abdm.\n4. HPR: registry of health professionals including nurses; HFR: registry of facilities.\n5. Health Information Exchange and Consent Manager: shares records after digital consent stating purpose and duration.\n6. PHR apps and Unified Health Interface for services.\n7. Nurse's role: help create and link ABHA, explain consent, protect data."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the levels of interoperability with examples.",
+      "answer": "1. Foundational/technical: data can be sent between systems (network connection).\n2. Structural/syntactic: standard message format so fields land correctly (HL7 v2 message, FHIR resource).\n3. Semantic: both systems understand the meaning through shared codes (SNOMED CT, LOINC), so 'myocardial infarction' from hospital A is recognised by hospital B.\n4. Organisational: policies, consent, trust and workflows that allow exchange (ABDM consent framework).\n5. All four are needed for a lifelong EHR."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe HL7 and FHIR.",
+      "answer": "1. HL7 = Health Level Seven International, a standards body; 'Level Seven' refers to the application layer of the OSI model.\n2. HL7 v2: most widely used messaging standard in hospitals (admission, orders, results).\n3. HL7 CDA: XML clinical documents such as discharge summaries.\n4. FHIR (Fast Healthcare Interoperability Resources): modern web-based standard; data in small resources (Patient, Observation, MedicationRequest) exchanged through web APIs; easy for apps.\n5. India's ABDM exchanges records as FHIR documents using India-specific profiles."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is ABHA?",
+      "answer": "Ayushman Bharat Health Account: a 14-digit unique health identifier under ABDM, with an optional easy-to-remember ABHA address (name@abdm), used to link and share a person's health records with consent."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a personal health record (PHR)?",
+      "answer": "A health record kept and controlled by the person, who collects data from providers and devices and decides with whom to share it, e.g. an ABHA-linked PHR app."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is DICOM?",
+      "answer": "Digital Imaging and Communications in Medicine: the international standard for storing and sending medical images such as X-ray, CT and MRI."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the relationship between patient safety and informatics. How can information technology both prevent and cause harm to patients?",
+      "answer": "1. Patient safety: preventing errors and adverse effects associated with health care.\n2. Systems view: Swiss cheese model; most errors arise from system weaknesses.\n3. IT that prevents harm: CPOE (no illegible orders; dose, allergy, interaction checks); barcode medication administration with eMAR (five rights); clinical decision support (alerts, reminders, early-warning scores); smart infusion pumps with drug libraries; EHR with visible allergy and problem lists; barcode wristbands; electronic incident reporting; critical lab alerts; structured electronic handover (SBAR); telemonitoring; data on falls and infections.\n4. IT that causes harm (technology-induced errors): wrong-patient selection; alert fatigue and overrides; copy-paste notes; poor screen design (mg vs mcg); workarounds (scanning a barcode on the bed rail); downtime; interface errors; over-reliance; ransomware.\n5. Safety lessons: involve nurses in design and testing; few meaningful alerts; two identifiers on every screen; downtime plans; report IT incidents; technology supports, not replaces, judgement.\n6. Link to patient safety goals: correct identification, communication, high-alert medicines, correct site, infection, falls."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the function and application of the risk management process in a hospital, with the tools used in clinical risk management.",
+      "answer": "1. Risk: chance of harm combined with its severity; clinical risk management identifies, assesses and reduces risks.\n2. Steps (cycle): establish context → identify risks (incident reports, near misses, complaints, audits, data) → analyse likelihood and severity → rate with a risk matrix → evaluate and prioritise → treat (avoid, reduce, transfer, accept) → monitor and review in a risk register; communicate and consult throughout.\n3. Draw the risk management cycle and a simple risk matrix.\n4. Tools: incident reporting system; root cause analysis with 5 Whys and fishbone diagram; FMEA with risk priority number; risk register; clinical audit; trigger tools; morbidity and mortality reviews.\n5. Example: repeated falls at night → identify, analyse, reduce by fall-risk score, bed alarms, hourly rounds, monitor fall rate.\n6. Health IT risk management: pre-go-live risk assessment, testing, training, downtime plans, access control, monitoring IT incidents.\n7. Nurse's role: report incidents, take part in RCA/FMEA, follow safe practices."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between root cause analysis (RCA) and failure mode and effects analysis (FMEA).",
+      "answer": "1. RCA: retrospective — done after an adverse or sentinel event.\n2. FMEA: prospective — done before harm, on a process.\n3. RCA asks what happened, why, and what system change will prevent recurrence; tools 5 Whys and fishbone.\n4. FMEA lists each step, possible failure modes, effects, and gives a risk priority number (severity × occurrence × detection) to fix the worst first.\n5. Both aim at system improvement, not blame."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the Swiss cheese model of error.",
+      "answer": "1. Proposed by James Reason.\n2. An organisation has layers of defence (policies, training, equipment, IT alerts, double checks); each has holes (weaknesses).\n3. Harm occurs when holes in all layers line up and a hazard passes through.\n4. Active failures: unsafe acts at the bedside; latent conditions: hidden system weaknesses (understaffing, poor software).\n5. Lesson: fix systems and add strong defences; just culture encourages reporting.\n6. Diagram of slices with aligned holes."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are technology-induced errors? Give examples and preventive measures.",
+      "answer": "1. Errors arising from the design, implementation or use of health IT.\n2. Examples: wrong-patient selection; alert fatigue; copy-paste notes; confusing drop-down lists and units; workarounds; downtime; interface data loss.\n3. Prevention: user-centred design and testing with nurses; few, meaningful alerts; two identifiers on screen; training; downtime procedures; reporting and fixing IT incidents; never bypass barcode scanning."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the international patient safety goals and how informatics supports each.",
+      "answer": "1. Identify patients correctly — barcode wristbands, photos, two identifiers.\n2. Improve communication — read-back, electronic critical-result alerts, structured handover.\n3. Safety of high-alert medications — drug libraries, tall-man lettering, alerts.\n4. Correct site, procedure and patient surgery — electronic checklists and time-out.\n5. Reduce health care-associated infections — surveillance software, hand-hygiene audits.\n6. Reduce harm from falls — fall-risk scores with alerts."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define near miss.",
+      "answer": "An incident that did not reach the patient, or reached the patient without causing harm, e.g. a wrong medicine picked but noticed before it was given."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a sentinel event?",
+      "answer": "An unexpected event causing death or serious physical or psychological injury, needing immediate investigation, e.g. wrong-site surgery."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is alert fatigue?",
+      "answer": "Desensitisation caused by too many, often unimportant, computer alerts, so staff override them without reading and may miss an important one."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the role of knowledge management in improving decision making in clinical and policy contexts. Add a note on clinical decision support systems.",
+      "answer": "1. Knowledge: understood, connected, tested information; tacit (personal, experiential) vs explicit (written).\n2. Knowledge management: creating, capturing, organising, storing, sharing and applying knowledge; cycle diagram.\n3. SECI model: socialisation, externalisation, combination, internalisation.\n4. Tools: guidelines, care pathways, intranet policy library, e-learning, databases, communities of practice, case discussions, lessons learned, CDSS.\n5. Clinical context: best evidence at the bedside, less variation, fewer errors, sharing expert experience, support for nursing process.\n6. Policy context: dashboards and surveillance data guide allocation of staff, beds, medicines and money; evaluation evidence shapes programmes; spread of best practices.\n7. CDSS: software giving patient-specific recommendations; knowledge-based (IF–THEN rules: knowledge base, inference engine, communication) or machine-learning based; forms: alerts, reminders, order sets, guidelines, calculators, early-warning scores.\n8. Benefits and cautions: alert fatigue, outdated rules, bias in machine learning; clinician stays accountable."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Why are standardised terminologies needed in health informatics? Describe SNOMED CT, the SNOMED CT to ICD-10-CM map and the standardised nursing terminologies NANDA-I, NOC and the Omaha System.",
+      "answer": "1. Need: one concept, one code; semantic interoperability; counting and comparing care; decision support; making nursing visible.\n2. Terminology vs classification: SNOMED CT records detail; ICD groups for statistics and billing.\n3. SNOMED CT: comprehensive multilingual clinical terminology by SNOMED International; concepts with numeric IDs, descriptions (fully specified name, preferred term, synonyms), relationships ('is a' hierarchy and attributes); top-level hierarchies such as clinical finding, procedure, body structure; India's primary terminology, free in India.\n4. ICD: WHO classification; ICD-11 from 1 January 2022; ICD-10-CM is the US clinical modification.\n5. SNOMED CT to ICD-10-CM map (US NLM with SNOMED International): record once in SNOMED CT, derive ICD-10-CM codes semi-automatically using map rules.\n6. NANDA-I: nursing diagnoses with label, definition, defining characteristics, related/risk factors; types problem-focused, risk, health-promotion, syndrome; 13 domains; PES format.\n7. NOC: University of Iowa; outcomes with indicators rated on a 5-point Likert scale.\n8. Omaha System: community health; problem classification (4 domains), intervention scheme (4 categories), problem rating scale (knowledge, behaviour, status 1–5).\n9. Linkage NANDA–NIC–NOC with example."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on NANDA-I nursing diagnoses.",
+      "answer": "1. Nursing diagnosis: clinical judgement about a human response to health conditions or life processes, for which the nurse is accountable.\n2. Components: label, definition, defining characteristics, related factors, risk factors.\n3. Types: problem-focused, risk, health-promotion, syndrome.\n4. Taxonomy II: 13 domains with classes.\n5. PES format, e.g. Impaired skin integrity related to prolonged immobility as evidenced by a stage 2 sacral pressure injury.\n6. Use in EHR care plans gives standard, comparable nursing data."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the Omaha System.",
+      "answer": "1. Developed by the Visiting Nurse Association of Omaha, Nebraska (USA), for community, home and public health nursing.\n2. Problem Classification Scheme: client problems in 4 domains — environmental, psychosocial, physiological, health-related behaviours.\n3. Intervention Scheme: 4 categories — teaching, guidance and counselling; treatments and procedures; case management; surveillance.\n4. Problem Rating Scale for Outcomes: knowledge, behaviour and status each rated 1–5 at intervals.\n5. Example: rating a mother's breastfeeding knowledge at first and later home visits."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a clinical decision support system? Describe its components and types.",
+      "answer": "1. Software giving patient-specific assessments or recommendations at the right time.\n2. Components: knowledge base (rules), inference engine (applies rules to patient data), communication mechanism (alert, message).\n3. Knowledge-based: IF–THEN rules from guidelines.\n4. Non-knowledge-based: machine learning from past data (e.g. sepsis risk score).\n5. Forms: alerts, reminders, order sets, templates, dose calculators, early-warning scores, reference links.\n6. Cautions: alert fatigue, outdated rules, bias; clinician remains accountable."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the Nursing Outcomes Classification (NOC).",
+      "answer": "1. Developed at the University of Iowa; standard list of nursing-sensitive patient outcomes.\n2. Each outcome: label, definition, indicators, 5-point Likert scale (1 = worst, 5 = best).\n3. Allows measurement before and after care.\n4. Example: Tissue integrity: skin and mucous membranes — skin intactness rated 2 on admission, 4 at discharge.\n5. Linked with NANDA-I diagnoses and NIC interventions (NNN)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Expand SNOMED CT.",
+      "answer": "Systematized Nomenclature of Medicine – Clinical Terms; the comprehensive clinical terminology maintained by SNOMED International and the primary terminology in India's EHR standards."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate tacit and explicit knowledge.",
+      "answer": "Tacit knowledge is personal and experiential, hard to write down (an expert nurse's intuition). Explicit knowledge is written and easily shared (protocols, guidelines)."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is ICD-10-CM?",
+      "answer": "The United States clinical modification of WHO's ICD-10, used for coding diagnoses with more detailed codes of 3–7 characters."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define eHealth and telemedicine. Explain the use of information and communication technology to improve personal and public health care. Describe the role of nurses in public health informatics.",
+      "answer": "1. eHealth: use of ICT for health; telehealth: health services and education at a distance; telemedicine: clinical care at a distance; mHealth: mobile devices; telenursing.\n2. Telemedicine modes: synchronous (video/audio), store-and-forward, remote monitoring.\n3. Personal care: teleconsultation, remote monitoring of BP/glucose/SpO2, mobile apps, wearables, patient portals and PHR apps, SMS reminders, online information, support groups.\n4. Public health: surveillance and outbreak detection, health campaigns, programme monitoring, supply chain, e-learning for health workers, GIS mapping.\n5. Indian examples: eSanjeevani, Tele-MANAS (14416), ABDM, U-WIN, Kilkari, RCH portal/ANMOL, Ni-kshay, IHIP, HMIS portal.\n6. Benefits: access, saved travel and cost, continuity, empowerment. Challenges: digital divide, e-health literacy, privacy, network problems, limited examination.\n7. Public health informatics: informatics applied to populations.\n8. Nurses' role: collect and enter accurate community data, report notifiable diseases, use data to trace drop-outs and high-risk mothers, support teleconsultation at health and wellness centres, teach safe use of apps, protect confidentiality."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the components of a nursing information system. Explain how healthcare data are evaluated, analysed and presented to inform decisions in the management of health care organisations.",
+      "answer": "1. NIS: part of HIS supporting nursing practice, administration, education and research.\n2. Clinical component: assessment, care plans, nursing notes, vital signs, eMAR, intake–output, risk scores, patient education, handover, discharge planning.\n3. Administrative component: staffing and scheduling, patient classification and acuity, bed management, quality indicators, incident reports, inventory, budget.\n4. Education and research components: training records, competencies, policies; data retrieval for audits and studies.\n5. Data cycle: collect → validate → analyse → present → interpret → decide → act → evaluate.\n6. Evaluation: accuracy, completeness, timeliness, consistency, validity.\n7. Analysis: indicators — bed occupancy rate = inpatient days ÷ (beds × days) × 100; ALOS = inpatient days ÷ discharges; bed turnover; nurse–patient ratio; nursing hours per patient day; fall rate per 1000 patient days; HAI and medication error rates; satisfaction. Trends, comparisons, run and control charts.\n8. Worked example: 30 beds, 810 inpatient days in 30 days → 90% occupancy; 162 discharges → ALOS 5 days.\n9. Presentation: tables, bar, line, pie charts, dashboards (green/amber/red), balanced scorecard.\n10. Decisions: staffing, beds, supplies, quality improvement, budgeting, accreditation reporting."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on telenursing.",
+      "answer": "1. Nursing care delivered at a distance using ICT.\n2. Activities: telephone triage, post-discharge follow-up calls, remote monitoring of chronic illness, counselling, health education, medication reminders.\n3. Benefits: access for remote patients, early detection of problems, fewer readmissions, saved travel.\n4. Requirements: identity verification, consent, documentation of every contact, protocols, referral when assessment is unsafe.\n5. Issues: privacy, limited physical assessment, scope of practice and licensure."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the components of a nursing information system.",
+      "answer": "1. Clinical: assessment, nursing diagnoses and care plans, notes, vital signs, eMAR, intake–output, risk scores, handover, discharge.\n2. Administrative: staffing/rostering, acuity and workload, bed management, quality indicators, incidents, inventory, budget.\n3. Education: training records, competencies, e-learning, policies.\n4. Research: data retrieval for audits and nursing-sensitive outcomes.\n5. Good NIS: easy, follows nursing process, standard terms, bedside access, integrated, secure."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on eSanjeevani and other Indian eHealth initiatives.",
+      "answer": "1. eSanjeevani: MoHFW's national telemedicine service; doctor-to-doctor hub-and-spoke model linking Ayushman Arogya Mandirs with specialists, and a patient-to-doctor OPD service.\n2. Tele-MANAS: tele-mental health helpline 14416.\n3. ABDM/ABHA: digital health IDs and consent-based records.\n4. U-WIN: immunisation registration and tracking; Kilkari: voice messages on pregnancy and child care; RCH portal/ANMOL: tracking mothers and children by ANMs.\n5. Ni-kshay: TB case notification; IHIP: disease surveillance; HMIS portal: facility reporting."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is the digital divide? How does it affect eHealth and what can nurses do?",
+      "answer": "1. The gap between people who have access to and skills in digital technology and those who do not (elderly, poor, rural, less literate).\n2. Effects: unequal access to teleconsultation, apps and online records; widened health inequity.\n3. Low e-health literacy leads to misinformation.\n4. Nurses: assist patients at facilities, use simple language and local languages, use voice/SMS services, involve family and ASHA, keep non-digital options available."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the formula for bed occupancy rate.",
+      "answer": "Bed occupancy rate = (inpatient days in a period ÷ (available beds × days in the period)) × 100."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is mHealth?",
+      "answer": "Health services and information delivered through mobile phones and other wireless devices, e.g. SMS reminders, health apps, voice messages to mothers."
+    },
+    {
+      "id": "u6-v03",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define public health informatics.",
+      "answer": "The systematic application of information science and technology to public health practice, research and learning, focusing on populations, e.g. disease surveillance."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the ethical and legal issues pertaining to healthcare information in contemporary clinical practice. Mention the Indian laws and guidelines that apply.",
+      "answer": "1. Definitions: privacy (patient's right), confidentiality (professional duty), security (protective measures); CIA: confidentiality, integrity, availability.\n2. Ethical principles: autonomy, beneficence, non-maleficence, justice, veracity, fidelity, accountability applied to information.\n3. Issues: confidentiality breaches (snooping, gossip, WhatsApp); password sharing; alteration and back-dating of records; copy-paste; consent for treatment, telehealth, sharing and research; ownership and access; retention and destruction; special categories (HIV, mental health); cyber-security incidents; social media; electronic records as legal evidence.\n4. IT Act 2000 (amended 2008): sections 43, 43A, 66, 66C, 66E, 72, 72A; SPDI Rules 2011 treat medical records as sensitive data.\n5. DPDP Act 2023 (assent 11 August 2023; Rules notified November 2025): data principal, fiduciary, processor, consent manager; free, specific, informed consent; medical emergency as legitimate use; children need parental consent; breach reporting to Data Protection Board; penalties up to ₹250 crore.\n6. Telemedicine Practice Guidelines 2020; HIV and AIDS Act 2017; Mental Healthcare Act 2017; Bharatiya Sakshya Adhiniyam 2023; INC Code of Ethics; EHR Standards 2016.\n7. Information governance: policies, role-based access, audit trails, training, backups, breach management.\n8. Nurse's role: protect privacy, own login, accurate records, report breaches."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define evidence-based practice. Describe its steps, the levels of evidence and how informatics supports the use of scientific evidence to improve the quality of health care.",
+      "answer": "1. EBP: integration of best research evidence with clinical expertise and patient values and preferences (Sackett); triad diagram.\n2. Quality: degree to which services increase likelihood of desired outcomes; dimensions safe, effective, patient-centred, timely, efficient, equitable; Donabedian structure–process–outcome; PDSA cycle.\n3. Steps (5 A's): Ask (PICO question), Acquire (search PubMed, CINAHL, Cochrane), Appraise (validity, results, relevance), Apply (with expertise and preferences), Assess (evaluate outcome).\n4. Levels of evidence: systematic reviews/meta-analyses of RCTs → RCTs → non-randomised trials → cohort and case-control studies → reviews of descriptive/qualitative studies → single descriptive/qualitative studies → expert opinion.\n5. Informatics support: online databases and journals, point-of-care references, evidence in order sets and CDSS, EHR data for audit and research, e-learning.\n6. Technical informatics standards (HL7, FHIR, DICOM, SNOMED CT, LOINC, ICD, India EHR standards) and professional standards (nursing informatics scope and standards, TIGER competencies, NABH information management).\n7. Barriers: time, access, skills, resistance, support; facilitators: library access, journal clubs, mentors.\n8. Nursing examples: chlorhexidine skin preparation, repositioning for pressure injury prevention, kangaroo mother care."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the Digital Personal Data Protection Act, 2023.",
+      "answer": "1. Presidential assent 11 August 2023; DPDP Rules 2025 notified November 2025, with phased commencement.\n2. Applies to digital personal data.\n3. Terms: data principal (person), data fiduciary (e.g. hospital), data processor (e.g. software company), consent manager.\n4. Consent: free, specific, informed, unconditional, unambiguous, by clear affirmative action, after notice; withdrawable.\n5. Legitimate uses include medical emergency threatening life and epidemics; children under 18 need verifiable parental consent.\n6. Duties: accuracy, reasonable security safeguards, erasure after purpose, breach notice to the Data Protection Board and affected persons.\n7. Rights: information, correction and erasure, grievance redressal, nomination; penalties up to ₹250 crore."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the main points of the Telemedicine Practice Guidelines, 2020.",
+      "answer": "1. Issued 25 March 2020 by the Board of Governors in supersession of MCI with NITI Aayog; apply to registered medical practitioners.\n2. Modes: video, audio, text.\n3. Consultations: patient–RMP, caregiver–RMP, health worker–RMP (nurse/ANM connects and helps; RMP responsible), RMP–RMP.\n4. Identification of patient and RMP (registration number).\n5. Consent implied when patient starts; explicit when health worker or RMP starts.\n6. RMP decides if in-person visit is needed; emergencies referred.\n7. Prescribing limited by medicine lists; prohibited drugs cannot be prescribed.\n8. Records kept; privacy maintained."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate privacy, confidentiality and security of health information.",
+      "answer": "1. Privacy: the patient's right to control who collects and sees their information.\n2. Confidentiality: the professional's duty not to disclose information shared in trust, except when permitted.\n3. Security: technical, physical and administrative measures protecting data (passwords, encryption, access control, locked rooms, backups).\n4. Security protects confidentiality, integrity and availability (CIA).\n5. Example: a nurse protects privacy by asking consent, confidentiality by not discussing the case, security by locking the screen."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the ethical-legal issues in digital health applied to nursing?",
+      "answer": "1. Telenursing: identity verification, documentation, scope, referral.\n2. Licensure and scope within State Nursing Council registration and hospital policy.\n3. Electronic documentation is a legal record; own login, timely and accurate.\n4. Consent for telehealth, recording and sharing.\n5. No patient photos or data on personal phones or messaging apps.\n6. Accountability remains with the nurse when using decision-support software.\n7. Equity for patients who cannot use technology; professional boundaries on social media."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define evidence-based practice.",
+      "answer": "The integration of the best available research evidence with clinical expertise and the patient's values and preferences in making decisions about care."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is information governance?",
+      "answer": "The framework of policies, roles and controls that ensures health information is handled legally, securely, efficiently and ethically, e.g. access control, audit trails and breach management."
+    },
+    {
+      "id": "u7-v03",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Who is a data fiduciary under the DPDP Act, 2023?",
+      "answer": "A person or organisation that alone or with others decides the purpose and means of processing personal data, e.g. a hospital processing patient data."
+    }
+  ]
+}
