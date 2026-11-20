@@ -1,0 +1,26 @@
+{
+  "tests": [
+    {
+      "id": "practice-paper",
+      "title": "Practice paper (no university exam this semester)",
+      "patternSource": "INC B.Sc Nursing Regulations 2020, Appendix 3 (university theory question paper pattern), 75-mark paper. Nursing Foundation I has no end-semester university exam; its internal marks are added to Nursing Foundation II, and the university paper 'Nursing Foundations (I & II)' (3 hours, 75 marks) is taken at the end of the second semester. This practice paper uses that pattern with Part I topics only. No internal choice. Confirm with your university.",
+      "durationMinutes": 180,
+      "totalMarks": 75,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 12, "attempt": 12 },
+        { "id": "essay", "title": "Essay / situation type (long answer)", "source": "long", "marksEach": 15, "count": 2, "attempt": 2 },
+        { "id": "short", "title": "Short answers", "source": "short", "marksEach": 5, "count": 5, "attempt": 5 },
+        { "id": "very-short", "title": "Very short answers", "source": "very-short", "marksEach": 2, "count": 4, "attempt": 4 }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 20, "attempt": 20 }
+      ]
+    }
+  ]
+}

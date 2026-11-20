@@ -1,0 +1,23 @@
+{
+  "code": "N-NF(I)125",
+  "title": "Nursing Foundation I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Nursing Foundation I (including First Aid module), pages 259–268; examination scheme pages 238–239 and 412; exam pattern in Appendix 3, pages 416–417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Health, illness and health care delivery", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "History of nursing and nursing as a profession", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Communication, nurse–patient relationship, documentation and reporting", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Vital signs", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Equipment and linen, infection control and a safe environment", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Comfort, rest and sleep, and pain", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Admission and discharge, mobility and immobility, patient education", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "First aid (including basic CPR)", "notes": "notes/unit-8.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}
