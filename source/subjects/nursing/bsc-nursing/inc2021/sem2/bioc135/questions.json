@@ -1,0 +1,644 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the INC syllabus and the usual style of B.Sc Nursing biochemistry papers. It is not a promise. Long (10-mark) questions are for practice and internal tests; the university Section A paper has short and very short answers only.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the regulation of blood glucose. Add a note on the normal values of blood glucose and the renal threshold.",
+      "answer": "1. Normal values (venous plasma, about): fasting 70–100 mg/dL; 2 h after a meal below 140 mg/dL. Blood glucose is kept steady because the brain depends on glucose.\n2. Renal threshold about 180 mg/dL: above it, filtered glucose is not fully reabsorbed and appears in urine (glycosuria).\n3. Insulin (β cells of islets) — the only hormone that lowers blood glucose: increases glucose entry into muscle and fat (GLUT-4), glycogenesis, fat synthesis; decreases gluconeogenesis and glycogenolysis.\n4. Glucagon (α cells) raises glucose: liver glycogenolysis and gluconeogenesis.\n5. Adrenaline: rapid rise in stress through glycogenolysis in liver and muscle.\n6. Cortisol: raises glucose by gluconeogenesis and by reducing tissue uptake.\n7. Growth hormone and thyroxine: anti-insulin effects; thyroxine increases absorption and glycogenolysis.\n8. Role of liver: stores glucose as glycogen after meals and releases it in fasting (glycogenolysis first, gluconeogenesis later) — the glucose buffer.\n9. Role of muscle and adipose tissue: take up glucose under insulin. Role of kidney: excretes glucose above threshold; gluconeogenesis in prolonged fasting.\n10. Flow chart: after a meal glucose ↑ → insulin ↑ → glucose into cells → glucose ↓; in fasting glucose ↓ → glucagon, cortisol, adrenaline ↑ → liver releases glucose → glucose ↑.\n11. Nursing: check glucose in fluoride tubes or by glucometer; watch for hypoglycaemia and hyperglycaemia in patients on insulin or steroids."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is the oral glucose tolerance test? Write its indications, procedure and interpretation, with the types of GTT curve.",
+      "answer": "1. Definition: a test of the body's ability to handle a standard glucose load; glucose measured fasting and at fixed times after drinking glucose.\n2. Indications: borderline fasting/random glucose, glycosuria without symptoms (to rule out renal glycosuria), gestational diabetes screening, high-risk persons (family history, obesity, large baby), unexplained neuropathy or retinopathy.\n3. Preparation: normal diet with adequate carbohydrate for 3 days; overnight fast of 8–14 h (water allowed); no smoking, tea or exercise on the test morning; note drugs that affect glucose.\n4. Fasting blood (fluoride tube) and urine samples taken.\n5. 75 g anhydrous glucose in about 250–300 mL water drunk within 5 minutes (children 1.75 g/kg, maximum 75 g); time noted.\n6. Blood and urine samples every 30 minutes for 2 hours (or at least at 2 h); samples labelled with time; vomiting spoils the test.\n7. Interpretation (about): normal — fasting below 100, 2 h below 140 mg/dL; impaired glucose tolerance — 2 h 140–199; diabetes — fasting ≥126 or 2 h ≥200 mg/dL.\n8. Normal curve: peak within 30–60 min below renal threshold, back to fasting level by 2 h, no glycosuria.\n9. Diabetic curve: high fasting, high peak, high at 2 h, glycosuria.\n10. Lag (alimentary) curve: sharp early peak above 180 with brief glycosuria, normal by 2 h — after gastrectomy, hyperthyroidism.\n11. Flat curve: very small rise — malabsorption, hypothyroidism, Addison's disease. Renal glycosuria: normal blood curve with glucose in urine.\n12. Draw the curves (time on x-axis, glucose on y-axis, dotted line at 180 mg/dL)."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare type 1 and type 2 diabetes mellitus.",
+      "answer": "Table points: (1) Cause — type 1 autoimmune destruction of β cells (absolute insulin deficiency); type 2 insulin resistance with relative deficiency. (2) Age — type 1 children/young adults; type 2 adults. (3) Build — type 1 thin; type 2 often obese. (4) Onset — sudden vs gradual. (5) Ketoacidosis — common in type 1, uncommon in type 2 (hyperosmolar state more typical). (6) Family history stronger in type 2. (7) Treatment — type 1 always insulin; type 2 diet, exercise, oral drugs, insulin later in some. (8) Both cause long-term micro- and macrovascular complications."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the complications of diabetes mellitus and the biochemical basis of its symptoms.",
+      "answer": "1. Symptoms: polyuria — glucose above renal threshold causes osmotic diuresis; polydipsia — water loss; polyphagia — cells starved of glucose; weight loss — fat and protein breakdown; infections and slow healing.\n2. Acute complications: diabetic ketoacidosis (ketone bodies, metabolic acidosis, dehydration, Kussmaul breathing, fruity breath); hyperosmolar hyperglycaemic state; hypoglycaemia from treatment.\n3. Chronic microvascular: retinopathy, nephropathy (microalbuminuria → kidney failure), neuropathy.\n4. Chronic macrovascular: coronary artery disease, stroke, peripheral vascular disease, diabetic foot and gangrene.\n5. Nursing: foot care, glucose monitoring, yearly eye and urine albumin checks."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write short notes on the variants of the glucose tolerance test: mini GTT, extended GTT, GCT and IV GTT.",
+      "answer": "1. Mini GTT: only fasting and 2-hour blood (and urine) samples after 75 g glucose; quick, cheap, widely used for screening.\n2. Extended GTT: samples continued every 30–60 min up to 4–6 hours; used for suspected reactive hypoglycaemia, where glucose falls 3–5 h after the load.\n3. Glucose challenge test (GCT): 50 g glucose at any time without fasting, one sample at 1 h; screening for gestational diabetes; a raised value (commonly ≥140 mg/dL) is followed by full OGTT.\n4. Intravenous GTT: glucose given into a vein and blood sampled at intervals; used when oral absorption is unreliable — malabsorption, after gastric surgery, vomiting.\n5. India's national guideline for gestational diabetes uses a single-step 75 g oral test; check the current guideline."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define hypoglycaemia. List its causes and clinical features.",
+      "answer": "1. Definition: blood glucose low enough to cause symptoms; plasma glucose below about 70 mg/dL is treated as hypoglycaemia; Whipple's triad — symptoms, low measured glucose, relief when glucose is raised.\n2. Causes: excess insulin or sulphonylurea, missed meal, unusual exercise (commonest); alcohol; insulinoma; liver failure; adrenal insufficiency, hypopituitarism; starvation; inborn errors (glycogen storage disease, galactosaemia, fructose intolerance); newborns of diabetic mothers, preterm babies; reactive hypoglycaemia after gastric surgery.\n3. Features: sweating, tremor, palpitation, hunger, anxiety; then confusion, abnormal behaviour, fits, coma.\n4. Nursing: check glucose, give quick-acting sugar to a conscious patient as per protocol, recheck, find the cause."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the digestion and absorption of carbohydrates.",
+      "answer": "1. Mouth: salivary amylase (ptyalin) breaks starch to dextrins and maltose; stopped by stomach acid.\n2. Stomach: no carbohydrate enzyme of its own.\n3. Duodenum: pancreatic amylase converts starch and dextrins to maltose, isomaltose and limit dextrins.\n4. Brush border: maltase, isomaltase, sucrase and lactase give glucose, fructose and galactose.\n5. Cellulose is not digested — acts as dietary fibre.\n6. Absorption: glucose and galactose by sodium-linked active transport (SGLT-1); fructose by facilitated diffusion (GLUT-5); all leave by GLUT-2 into portal blood to the liver.\n7. Disorder: lactase deficiency → lactose intolerance (bloating, diarrhoea). Nursing: glucose–sodium co-transport is the basis of ORS."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define HbA1c and state its significance.",
+      "answer": "HbA1c (glycated haemoglobin) is haemoglobin A with glucose attached non-enzymatically. Because RBCs live about 120 days, it reflects the average blood glucose of the previous 2–3 months; about 6.5% or above supports diabetes."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the renal threshold for glucose?",
+      "answer": "The blood glucose level above which the kidney tubules cannot reabsorb all filtered glucose, so glucose appears in urine — about 180 mg/dL."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a lag curve in the GTT?",
+      "answer": "A GTT curve with a sharp early peak above the renal threshold (with brief glycosuria) at 30–60 minutes that returns to normal by 2 hours; seen after gastrectomy and in hyperthyroidism."
+    },
+    {
+      "id": "u1-v04",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name the hormones that raise blood glucose.",
+      "answer": "Glucagon, adrenaline, cortisol, growth hormone and thyroxine (insulin is the only hormone that lowers it)."
+    },
+    {
+      "id": "u1-v05",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is glycolysis? Give its net ATP yield.",
+      "answer": "Glycolysis is the breakdown of glucose to pyruvate (or lactate without oxygen) in the cytoplasm of all cells; it gives a net 2 ATP per glucose."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define fatty acids and classify them with examples. Explain the clinical significance of MUFA, PUFA, essential fatty acids and trans fatty acids.",
+      "answer": "1. Definition: hydrocarbon chains with a carboxyl group at one end; usually an even number of carbons; found mostly as esters in fats.\n2. By chain length: short (up to 6 C, butyric), medium (8–12 C, caprylic), long (14 C and more, palmitic, stearic).\n3. By saturation: saturated (palmitic, stearic), MUFA (oleic, ω-9), PUFA (linoleic ω-6, α-linolenic ω-3, arachidonic ω-6, EPA, DHA).\n4. By need: essential (linoleic, α-linolenic; arachidonic if linoleic is lacking), non-essential (palmitic, oleic).\n5. By shape: cis (natural) and trans (from partial hydrogenation).\n6. MUFA (olive, groundnut, mustard, rice-bran oil): lower LDL, keep HDL — heart-protective.\n7. PUFA: ω-6 lowers LDL; ω-3 (fish, flaxseed) lowers triglycerides, reduces clotting and inflammation; DHA for foetal brain and retina.\n8. Essential fatty acids: needed for membranes, skin and eicosanoids (prostaglandins, leukotrienes); deficiency → phrynoderma, poor growth, fatty liver.\n9. Trans fatty acids (vanaspati, bakery, re-used frying oil): raise LDL and lower HDL — increase heart disease; India's food regulator limits them.\n10. Saturated fats raise LDL when eaten in excess.\n11. Nursing: diet teaching — mix of oils, avoid vanaspati and re-used oil, include ω-3 sources."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are lipoproteins? Give the types and functions of lipoproteins. Add a note on the lipid profile and its normal values.",
+      "answer": "1. Lipoproteins carry insoluble lipids in plasma: core of triacylglycerol and cholesterol esters, shell of phospholipid, free cholesterol and apolipoproteins.\n2. Chylomicrons: made in intestine; carry dietary fat to tissues; lowest density, largest.\n3. VLDL: made in liver; carry endogenous triacylglycerol to tissues.\n4. IDL: formed from VLDL; becomes LDL.\n5. LDL: richest in cholesterol; carries cholesterol to tissues; excess enters artery walls — 'bad cholesterol'.\n6. HDL: reverse cholesterol transport from tissues to liver — 'good cholesterol'; highest density.\n7. Electrophoresis: HDL = α, LDL = β, VLDL = pre-β; chylomicrons at origin. Lp(a) — inherited risk factor.\n8. Lipid profile preparation: 10–12 h fast if the lab asks; no alcohol or fatty meal the day before.\n9. Desirable (about): total cholesterol below 200 mg/dL; LDL below 100; HDL above 40 (men) / 50 (women); TG below 150; VLDL about TG ÷ 5.\n10. Friedewald formula: LDL = TC − HDL − TG/5 (valid if TG below about 400).\n11. Significance: high LDL and low HDL predict atherosclerosis and coronary disease."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are ketone bodies? Write their types and significance.",
+      "answer": "1. Ketone bodies are compounds made in liver mitochondria from excess acetyl-CoA.\n2. Types: acetoacetate (primary), β-hydroxybutyrate (formed by reduction of acetoacetate), acetone (volatile, breathed out — fruity breath).\n3. Normal fuel for heart, skeletal muscle and kidney; brain uses them in prolonged starvation; liver cannot use them.\n4. Ketosis: starvation, prolonged vomiting, uncontrolled diabetes, very low-carbohydrate diet, alcohol excess.\n5. Ketoacidosis: acids use up bicarbonate → high anion gap metabolic acidosis; Kussmaul breathing, dehydration, coma (DKA).\n6. Detection: Rothera's test/dipstick detects acetoacetate and acetone, not β-hydroxybutyrate."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the digestion and absorption of lipids.",
+      "answer": "1. Mouth/stomach: lingual and gastric lipase — minor role (more in infants).\n2. Duodenum: bile salts emulsify fat into fine droplets.\n3. Pancreatic lipase with colipase: triacylglycerol → 2-monoacylglycerol + 2 fatty acids; cholesterol esterase and phospholipase A2 act on cholesterol esters and phospholipids.\n4. Products with bile salts form micelles that reach the brush border.\n5. In mucosal cells long-chain fatty acids are re-esterified and packed with apo B-48 into chylomicrons → lacteals → thoracic duct → blood.\n6. Short- and medium-chain fatty acids go directly into portal blood.\n7. Bile salts reabsorbed in ileum (enterohepatic circulation).\n8. Disorder: lack of bile or lipase → steatorrhoea and deficiency of vitamins A, D, E, K."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write short notes on atherosclerosis.",
+      "answer": "1. Definition: disease of large and medium arteries with lipid-rich plaques in the intima, narrowing the lumen.\n2. Risk factors: high LDL, low HDL, smoking, hypertension, diabetes, obesity, inactivity, family history, age, male sex.\n3. Process: endothelial injury → LDL enters intima and is oxidised → macrophages take it up → foam cells → fatty streak → smooth muscle and collagen → fibrous plaque → calcification; rupture → thrombus.\n4. Results: angina, myocardial infarction, stroke, peripheral vascular disease, aneurysm.\n5. Prevention: diet low in saturated and trans fat, exercise, weight control, stop smoking, control BP, sugar and lipids."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Name the compounds formed from cholesterol and give their functions.",
+      "answer": "1. Bile acids/bile salts (cholic, chenodeoxycholic) — emulsify fats; main route of cholesterol removal.\n2. Glucocorticoids (cortisol) — glucose metabolism, stress response.\n3. Mineralocorticoids (aldosterone) — sodium and water retention.\n4. Sex hormones: progesterone, testosterone, oestrogens — reproduction.\n5. Vitamin D3 (cholecalciferol) — formed from 7-dehydrocholesterol in skin by sunlight; calcium absorption.\n6. Cholesterol itself is a part of cell membranes and myelin."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "List the disorders of lipid metabolism. Explain fatty liver.",
+      "answer": "1. Disorders: obesity, fatty liver, dyslipidaemias (hyperlipoproteinaemias types I–V, familial hypercholesterolaemia), ketosis/ketoacidosis, lipid storage diseases (Tay-Sachs, Gaucher's, Niemann-Pick), steatorrhoea, atherosclerosis, surfactant deficiency in preterm babies.\n2. Fatty liver: excess fat in liver cells when fat is made or brought in faster than it is exported as VLDL.\n3. Causes: alcohol, obesity, diabetes, protein deficiency (kwashiorkor), lack of lipotropic factors (choline, methionine), some toxins.\n4. Effects: enlarged liver, raised liver enzymes; may progress to fibrosis and cirrhosis.\n5. Prevention: avoid alcohol, weight control, adequate protein."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the essential fatty acids.",
+      "answer": "Linoleic acid (ω-6) and α-linolenic acid (ω-3); arachidonic acid becomes essential when linoleic acid is lacking."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are trans fatty acids? Why are they harmful?",
+      "answer": "Unsaturated fatty acids with a trans double bond, formed mainly by partial hydrogenation (vanaspati, bakery foods). They raise LDL and lower HDL, increasing the risk of coronary heart disease."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is HDL called 'good cholesterol'?",
+      "answer": "HDL carries excess cholesterol from tissues and artery walls back to the liver for removal (reverse cholesterol transport), so high HDL protects against atherosclerosis."
+    },
+    {
+      "id": "u2-v04",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the Friedewald formula.",
+      "answer": "LDL cholesterol = Total cholesterol − HDL cholesterol − (Triglycerides ÷ 5), all in mg/dL; valid when triglycerides are below about 400 mg/dL."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify amino acids on the basis of nutritional requirement and metabolic fate with examples. Write the biologically important compounds formed from amino acids.",
+      "answer": "1. Amino acids are building blocks of proteins with an amino group, a carboxyl group and a side chain; 20 are used in human proteins.\n2. Essential (from diet): valine, leucine, isoleucine, threonine, methionine, phenylalanine, tryptophan, lysine.\n3. Semi-essential: arginine and histidine (needed during growth). Memory: PVT TIM HALL.\n4. Non-essential: glycine, alanine, serine, aspartate, glutamate, asparagine, glutamine, proline, tyrosine, cysteine.\n5. Purely ketogenic: leucine, lysine.\n6. Ketogenic and glucogenic: isoleucine, phenylalanine, tyrosine, tryptophan.\n7. Purely glucogenic: the rest — alanine, glycine, serine, glutamate, aspartate, methionine, valine, histidine, arginine.\n8. Compounds: glycine → haem, creatine, glutathione, purines, glycocholic acid; tyrosine → dopamine, noradrenaline, adrenaline, thyroxine, melanin; tryptophan → serotonin, melatonin, niacin; histidine → histamine; arginine → nitric oxide, creatine, urea; methionine → S-adenosylmethionine, cysteine; cysteine → taurine; glutamate → GABA.\n9. Nutrition point: cereal (low lysine) + pulse (low methionine) together improve protein quality."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are plasma proteins? Write their types, functions and normal values. Add the causes of hypoproteinaemia.",
+      "answer": "1. Plasma proteins: albumin, globulins (α1, α2, β, γ) and fibrinogen; most made in the liver, γ-globulins by plasma cells.\n2. Normal (about): total protein 6–8 g/dL; albumin 3.5–5.0; globulin 2–3.5 g/dL; A:G ratio above 1 (about 1.5–2 : 1); fibrinogen 200–400 mg/dL.\n3. Albumin: maintains oncotic pressure (about 80%); transports bilirubin, fatty acids, calcium, hormones, drugs; buffer; nutrition.\n4. α1: α1-antitrypsin (protects lungs). α2: haptoglobin (binds free Hb), ceruloplasmin (copper). β: transferrin (iron), LDL, complement. γ: immunoglobulins (defence).\n5. Fibrinogen and prothrombin: clotting. Acute phase proteins such as CRP rise in inflammation.\n6. Low albumin → oedema and ascites.\n7. Hypoproteinaemia causes: low intake (malnutrition, kwashiorkor); malabsorption; low synthesis (liver disease); increased loss (nephrotic syndrome, burns, protein-losing enteropathy, haemorrhage); increased breakdown (fever, sepsis, cancer); dilution (over-hydration, pregnancy).\n8. Nursing: daily weight, oedema check, protein-rich diet as advised."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on inborn errors of aromatic amino acid metabolism.",
+      "answer": "1. Phenylketonuria: phenylalanine hydroxylase deficiency; phenylalanine accumulates → intellectual disability, fits, mousy odour, fair skin; newborn screening (Guthrie test); lifelong low-phenylalanine diet.\n2. Alkaptonuria: homogentisate oxidase deficiency; urine turns black on standing; ochronosis; arthritis later.\n3. Albinism: tyrosinase deficiency; no melanin — white hair, pale skin, photophobia, poor vision, skin cancer risk; sun protection.\n4. Tyrosinaemia type I: fumarylacetoacetate hydrolase deficiency; liver and kidney damage.\n5. Hartnup disease (tryptophan transport): pellagra-like rash."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the digestion and absorption of proteins.",
+      "answer": "1. Stomach: HCl denatures protein and converts pepsinogen to pepsin; pepsin gives large peptides; rennin clots milk in infants.\n2. Pancreas: trypsinogen activated to trypsin by enteropeptidase; trypsin activates chymotrypsinogen, proelastase and procarboxypeptidase; endopeptidases cut inside the chain, carboxypeptidase from the end.\n3. Brush border: aminopeptidases, dipeptidases, tripeptidases release free amino acids.\n4. Enzymes released as inactive zymogens to protect the gland.\n5. Absorption: sodium-dependent active transport of amino acids; di- and tripeptides also absorbed; γ-glutamyl cycle minor route; to liver by portal vein.\n6. Newborns absorb some intact antibodies from colostrum."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the causes of proteinuria.",
+      "answer": "1. Normal urine protein is below about 150 mg/day; microalbuminuria 30–300 mg/day is early kidney damage.\n2. Physiological/functional: exercise, fever, cold, stress, orthostatic proteinuria, pregnancy.\n3. Glomerular: nephrotic syndrome, glomerulonephritis, diabetic nephropathy, hypertension, pre-eclampsia, SLE.\n4. Tubular: tubular damage by heavy metals, drugs, pyelonephritis.\n5. Overflow: Bence Jones protein in multiple myeloma, haemoglobinuria, myoglobinuria.\n6. Post-renal: urinary tract infection, stones, tumours.\n7. Tests: dipstick, heat and acetic acid, sulphosalicylic acid, 24-hour urine protein."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the principle of electrophoresis. Describe the normal and abnormal electrophoretic patterns of serum proteins.",
+      "answer": "1. Principle: charged particles move in an electric field; at pH 8.6 serum proteins are negatively charged and move towards the anode at speeds depending on charge, size and shape.\n2. Method: serum applied on cellulose acetate or agarose, current passed, strip stained, bands read by densitometer.\n3. Normal: albumin (fastest, tall), α1, α2, β, γ (broad, near origin).\n4. Nephrotic syndrome: albumin ↓↓, α2 ↑.\n5. Cirrhosis: albumin ↓, polyclonal γ ↑ with β–γ bridging.\n6. Multiple myeloma: narrow M band in γ region.\n7. Chronic infection: broad γ ↑. Acute inflammation: α1, α2 ↑. α1-antitrypsin deficiency: α1 band absent."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about the urea cycle and its clinical importance.",
+      "answer": "1. Removes toxic ammonia as urea; occurs only in the liver, partly in mitochondria and partly in cytoplasm.\n2. Steps: NH3 + CO2 → carbamoyl phosphate (CPS-I) → with ornithine forms citrulline (OTC) → with aspartate forms argininosuccinate → arginine + fumarate → arginase splits arginine into urea and ornithine.\n3. Uses 3 ATP per urea; urea goes by blood to kidney.\n4. Ammonia reaches liver as glutamine and alanine.\n5. Clinical: liver failure or urea cycle enzyme defects → hyperammonaemia (vomiting, flapping tremor, coma — hepatic encephalopathy); blood urea rises in kidney failure."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the essential amino acids.",
+      "answer": "Valine, leucine, isoleucine, threonine, methionine, phenylalanine, tryptophan and lysine; arginine and histidine are semi-essential (memory: PVT TIM HALL)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is phenylketonuria?",
+      "answer": "An inborn error due to deficiency of phenylalanine hydroxylase; phenylalanine and phenylketones accumulate, causing intellectual disability and a mousy body odour. It is detected by newborn screening and treated with a low-phenylalanine diet."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is Bence Jones protein?",
+      "answer": "Free immunoglobulin light chains in urine, seen in multiple myeloma; they precipitate at about 40–60 °C, redissolve near boiling and reappear on cooling."
+    },
+    {
+      "id": "u3-v04",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two purely ketogenic amino acids.",
+      "answer": "Leucine and lysine."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Define isoenzymes and write their properties. Describe the enzymes of diagnostic importance in myocardial infarction.",
+      "answer": "1. Isoenzymes: different molecular forms of the same enzyme that catalyse the same reaction but differ in structure and physical, chemical and immunological properties.\n2. Properties: different amino acid composition/sub-units; electrophoretic mobility; tissue distribution (organ specificity); kinetic properties (Km); heat stability; response to inhibitors; immunological properties; sub-cellular location.\n3. CK isoenzymes: BB (brain), MB (heart), MM (skeletal muscle).\n4. LDH isoenzymes: LDH-1 to LDH-5; LDH-1 heart and RBC, LDH-5 liver and muscle.\n5. Cardiac troponins I and T: rise about 3–6 h, peak 12–24 h, remain 7–14 days; most specific — marker of choice.\n6. CK-MB: rises 3–6 h, peaks 12–24 h, normal in 2–3 days; useful for re-infarction.\n7. AST: rises 6–8 h, peaks 24–48 h, normal in 4–6 days; not specific.\n8. LDH: rises 12–24 h, peaks 2–3 days, normal by 8–14 days; LDH-1 > LDH-2 (flipped pattern).\n9. Draw a time-course graph of the markers.\n10. Nursing: record time of chest pain and of sampling; avoid haemolysis; report rising troponin."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the enzymes of diagnostic importance in liver diseases.",
+      "answer": "1. ALT: mainly liver — most liver-specific; very high in acute viral hepatitis.\n2. AST: liver, heart, muscle, RBC — less specific; AST : ALT more than 2 in alcoholic liver disease.\n3. ALP: from bile canaliculi; marked rise in obstructive jaundice (gallstone, carcinoma head of pancreas); also bone disease.\n4. GGT: rises in alcohol use, cholestasis, enzyme-inducing drugs; confirms that a raised ALP is from liver.\n5. Patterns: hepatocellular — ALT/AST ↑↑; cholestatic — ALP/GGT ↑↑."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define isoenzymes. Write a note on the isoenzymes of CK and LDH.",
+      "answer": "1. Definition: different forms of the same enzyme catalysing the same reaction, differing in structure, electrophoretic mobility, tissue distribution and other properties.\n2. CK is a dimer of M and B sub-units: CK-BB (brain), CK-MB (heart — raised in MI), CK-MM (skeletal muscle — raised in muscle injury, dystrophy, IM injections).\n3. LDH is a tetramer of H and M sub-units: LDH-1 (H4, heart, RBC), LDH-2 (heart, RBC; normally the largest), LDH-3 (lungs, spleen), LDH-4, LDH-5 (M4, liver, muscle).\n4. MI: LDH-1 > LDH-2 (flipped). Liver disease: LDH-5 ↑. Haemolysis raises LDH falsely."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about the enzymes of diagnostic importance in bone diseases, muscle diseases and prostate cancer.",
+      "answer": "1. Bone — ALP (from osteoblasts): raised in rickets, osteomalacia, Paget's disease (very high), osteoblastic bone secondaries, healing fractures, hyperparathyroidism; normally high in children and pregnancy.\n2. Muscle — CK (MM): very high in Duchenne muscular dystrophy (also in carriers), polymyositis, crush injury, rhabdomyolysis; aldolase also raised.\n3. Prostate — PSA: main marker for screening and follow-up; above about 4 ng/mL needs work-up; also raised in BPH, prostatitis, after rectal examination or catheterisation.\n4. Prostatic ACP (tartrate-labile): raised when cancer spreads beyond the capsule, especially to bone."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are functional and non-functional plasma enzymes? Why are plasma enzymes useful in diagnosis?",
+      "answer": "1. Functional plasma enzymes act in plasma and are normally present in high amounts — clotting factors, lipoprotein lipase.\n2. Non-functional enzymes work inside cells; only small amounts leak into plasma — ALT, AST, CK, LDH, ALP, GGT, amylase.\n3. Cell damage or increased production raises their plasma level.\n4. The enzyme (and isoenzyme) points to the organ damaged; the time pattern shows when damage occurred and how much.\n5. Examples: troponin/CK-MB in MI, ALT in hepatitis, amylase/lipase in pancreatitis, ALP in bone and biliary disease."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the 'flipped LDH pattern'?",
+      "answer": "Normally LDH-2 is higher than LDH-1 in serum; after myocardial infarction LDH-1 (from heart muscle) rises above LDH-2 — the flipped pattern."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which cardiac marker is the most specific for myocardial infarction? Why?",
+      "answer": "Cardiac troponin (I or T), because cardiac troponins differ in structure from skeletal muscle troponins and are released only when heart muscle is damaged; they stay raised for 7–14 days."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is PSA? When is it raised?",
+      "answer": "Prostate-specific antigen, a protease made by prostate gland cells. It is raised in prostate cancer, and also in benign prostatic hyperplasia, prostatitis and after rectal examination or catheterisation."
+    },
+    {
+      "id": "u4-v04",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why should haemolysis be avoided in samples for enzyme tests?",
+      "answer": "RBCs contain LDH, AST, acid phosphatase and potassium; haemolysis releases them and gives falsely high values."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "low",
+      "question": "Define pH and give its normal value in blood. Explain the regulation of blood pH by blood buffers, the lungs and the kidneys.",
+      "answer": "1. pH = negative logarithm of hydrogen ion concentration; normal blood pH about 7.35–7.45.\n2. Three lines of defence: buffers (seconds), lungs (minutes), kidneys (hours to days).\n3. Bicarbonate buffer: H2CO3/HCO3⁻, main buffer of blood; acid added → H2CO3 → CO2 breathed out.\n4. Phosphate buffer (cells, urine), protein buffer, haemoglobin buffer (H⁺ from CO2 transport).\n5. Henderson–Hasselbalch: pH = 6.1 + log [HCO3⁻]/(0.03 × pCO2); ratio 20 : 1 gives pH 7.4.\n6. Lungs: acidosis stimulates respiratory centre → deep fast breathing → CO2 blown off; alkalosis → slow breathing → CO2 retained.\n7. Kidneys: reabsorption of filtered bicarbonate; excretion of H⁺ as titratable acid with phosphate; excretion of NH4⁺ (ammonia from glutamine) — main response in chronic acidosis; each H⁺ excreted adds a new HCO3⁻ to blood.\n8. Urine pH ranges about 4.5–8.\n9. Nursing: count respiratory rate and depth; ABG sampling care."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the types, definitions and causes of acid–base disorders.",
+      "answer": "1. Metabolic acidosis: primary fall in HCO3⁻ with low pH — DKA, lactic acidosis, renal failure, diarrhoea, poisoning.\n2. Metabolic alkalosis: primary rise in HCO3⁻ with high pH — vomiting, nasogastric aspiration, diuretics, hypokalaemia, excess alkali.\n3. Respiratory acidosis: primary rise in PaCO2 with low pH — COPD, severe asthma, respiratory depression by drugs, neuromuscular weakness.\n4. Respiratory alkalosis: primary fall in PaCO2 with high pH — hyperventilation (anxiety, pain, fever), high altitude, early salicylate poisoning.\n5. Compensation: lungs for metabolic, kidneys for respiratory disorders. ROME — Respiratory Opposite, Metabolic Equal."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are blood buffers? Explain the bicarbonate buffer system.",
+      "answer": "1. A buffer is a mixture of a weak acid and its salt that resists change in pH.\n2. Blood buffers: bicarbonate, phosphate, protein and haemoglobin.\n3. Bicarbonate buffer: CO2 + H2O ⇌ H2CO3 ⇌ H⁺ + HCO3⁻ (carbonic anhydrase).\n4. Strong acid added: HCl + NaHCO3 → NaCl + H2CO3 → CO2 + H2O, CO2 breathed out.\n5. Strong base added: NaOH + H2CO3 → NaHCO3 + H2O; extra bicarbonate excreted by kidney.\n6. pH = 6.1 + log [HCO3⁻]/[H2CO3]; ratio 20 : 1 gives 7.4; it is the most important blood buffer because both parts are regulated (lungs and kidneys)."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the renal regulation of acid–base balance.",
+      "answer": "1. Tubular cells use carbonic anhydrase to make H⁺ and HCO3⁻ from CO2 and water.\n2. Reabsorption of filtered bicarbonate (proximal tubule) — bicarbonate saved.\n3. Excretion of titratable acid: H⁺ buffered by phosphate in tubular fluid; new HCO3⁻ returned to blood.\n4. Excretion of ammonium: ammonia made from glutamine traps H⁺ as NH4⁺ — main adaptation in chronic acidosis.\n5. Urine pH can fall to about 4.5 or rise to about 8.\n6. Slow (hours to days) but the only route to remove fixed acids."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the normal ABG values and the steps to interpret an ABG report.",
+      "answer": "1. Normal (about): pH 7.35–7.45; PaCO2 35–45 mmHg; HCO3⁻ 22–26 mmol/L; PaO2 80–100 mmHg; SaO2 95–100%; base excess −2 to +2.\n2. Step 1: pH — acidaemia or alkalaemia.\n3. Step 2: PaCO2 — respiratory cause if it moves opposite to pH.\n4. Step 3: HCO3⁻ — metabolic cause if it moves with pH.\n5. Step 4: compensation — partial if pH still abnormal, full if pH normal.\n6. Step 5: oxygenation; step 6: anion gap in metabolic acidosis.\n7. Example: pH 7.25, PaCO2 30, HCO3⁻ 14 = partly compensated metabolic acidosis."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define pH and give the normal blood pH.",
+      "answer": "pH is the negative logarithm (base 10) of the hydrogen ion concentration; normal blood pH is about 7.35–7.45."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the anion gap?",
+      "answer": "Anion gap = Na⁺ − (Cl⁻ + HCO3⁻); normal about 8–16 mmol/L. It is raised in metabolic acidosis due to added acids such as ketones or lactate."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two causes of metabolic alkalosis.",
+      "answer": "Prolonged vomiting and continuous nasogastric aspiration (loss of stomach acid); also diuretics and hypokalaemia."
+    },
+    {
+      "id": "u5-v04",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is Kussmaul breathing?",
+      "answer": "Deep, rapid breathing seen in metabolic acidosis (e.g. diabetic ketoacidosis); the lungs blow off CO2 to compensate for the acidosis."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the haem degradation pathway. Classify jaundice and give the laboratory findings in each type.",
+      "answer": "1. Old RBCs (about 120 days) broken down in reticuloendothelial cells (spleen); haemoglobin → globin + haem.\n2. Haem oxygenase: haem → biliverdin + iron + CO; biliverdin reductase: biliverdin → bilirubin (unconjugated).\n3. Unconjugated bilirubin carried on albumin to liver; conjugated with glucuronic acid by UDP-glucuronyl transferase → bilirubin diglucuronide.\n4. Secreted into bile → intestine → bacteria form urobilinogen → stercobilin (stool); some reabsorbed, small part excreted as urine urobilinogen/urobilin.\n5. Normal serum bilirubin about 0.2–1.2 mg/dL; direct up to 0.3; jaundice visible above about 2–3 mg/dL.\n6. Pre-hepatic (haemolytic): unconjugated ↑, indirect van den Bergh, urine bilirubin absent, urobilinogen ↑, dark stool.\n7. Hepatic: both ↑, biphasic, urine bilirubin present, urobilinogen variable, ALT/AST ↑↑.\n8. Post-hepatic (obstructive): conjugated ↑, direct reaction, urine bilirubin present, urobilinogen absent, bile salts present, clay-coloured stool, ALP/GGT ↑↑, itching.\n9. Nursing: observe sclera, urine and stool; phototherapy care in newborns."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between the types of jaundice based on blood and urine findings.",
+      "answer": "Table: (1) Serum unconjugated bilirubin — haemolytic ↑↑, hepatic ↑, obstructive normal/slight ↑. (2) Conjugated — normal, ↑, ↑↑. (3) van den Bergh — indirect, biphasic, direct. (4) Urine bilirubin — absent, present, present. (5) Urine urobilinogen — ↑↑, variable, absent. (6) Bile salts in urine — absent, may be present, present. (7) Stool — dark, normal/pale, clay-coloured. (8) Enzymes — normal; ALT/AST ↑↑; ALP/GGT ↑↑."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the van den Bergh test.",
+      "answer": "1. Principle: bilirubin reacts with diazotised sulphanilic acid (diazo reagent) to form purple azobilirubin.\n2. Direct reaction: colour appears at once in watery solution — conjugated (water-soluble) bilirubin — obstructive jaundice.\n3. Indirect reaction: colour appears only after adding alcohol (methanol), which dissolves unconjugated bilirubin — haemolytic jaundice.\n4. Biphasic: some colour at once, more after alcohol — hepatic jaundice.\n5. Modern analysers report total and direct bilirubin by the same principle; indirect = total − direct."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the biochemical parameters and normal values of renal function tests.",
+      "answer": "1. Blood urea about 15–40 mg/dL (BUN 7–20).\n2. Serum creatinine about 0.6–1.2 mg/dL — better index of GFR.\n3. Serum uric acid about 3.5–7 mg/dL (men), 2.5–6 (women).\n4. Electrolytes: Na⁺ 135–145, K⁺ 3.5–5.0, Cl⁻ about 96–106, HCO3⁻ 22–26 mmol/L.\n5. GFR about 120 mL/min; creatinine clearance about 90–130 mL/min (U × V / P); eGFR above 90 normal.\n6. Urine: volume 1–2 L/day, specific gravity 1.003–1.030, pH about 4.5–8, protein below 150 mg/day, no glucose or ketones.\n7. Values are approximate; follow the lab's range."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the parameters and normal values of liver function tests.",
+      "answer": "1. Serum bilirubin total about 0.2–1.2 mg/dL; direct up to 0.3.\n2. ALT about 7–40 U/L and AST about 8–40 U/L (ranges vary widely between labs).\n3. ALP about 40–130 U/L in adults (higher in children and pregnancy); GGT about 10–50 U/L.\n4. Total protein 6–8 g/dL; albumin 3.5–5 g/dL; globulin 2–3.5 g/dL; A:G above 1.\n5. Prothrombin time about 11–14 s; INR about 1 — prolonged in liver failure.\n6. Urine bilirubin absent, urobilinogen in trace amounts.\n7. Patterns: hepatocellular (ALT/AST ↑↑), cholestatic (ALP/GGT ↑↑), chronic (albumin ↓, PT ↑)."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the thyroid function tests with normal values and interpretation.",
+      "answer": "1. TSH about 0.4–4.5 mIU/L — best single screening test.\n2. Total T4 about 5–12 µg/dL; free T4 about 0.8–1.8 ng/dL; total T3 about 80–200 ng/dL; free T3 about 2.3–4.2 pg/mL.\n3. Anti-TPO antibodies raised in autoimmune thyroiditis.\n4. Primary hypothyroidism: TSH ↑, T4 ↓. Subclinical: TSH ↑, T4 normal.\n5. Primary hyperthyroidism: TSH ↓, T4/T3 ↑. Secondary hypothyroidism: TSH low or normal, T4 ↓.\n6. Newborn screening prevents cretinism; pregnancy has its own ranges."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is physiological jaundice of the newborn?",
+      "answer": "Mild unconjugated jaundice appearing after 24 hours (days 2–3) and fading within 1–2 weeks, due to high RBC breakdown and an immature liver conjugating enzyme."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the urine tests for bile pigments, bile salts and urobilinogen.",
+      "answer": "Bile pigments — Fouchet's test; bile salts — Hay's sulphur test; urobilinogen — Ehrlich's test."
+    },
+    {
+      "id": "u6-v03",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is unconjugated bilirubin not found in urine?",
+      "answer": "It is insoluble in water and is carried tightly bound to albumin, so it is not filtered by the glomerulus."
+    },
+    {
+      "id": "u6-v04",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the normal values of blood urea and serum creatinine.",
+      "answer": "Blood urea about 15–40 mg/dL; serum creatinine about 0.6–1.2 mg/dL (values vary with the lab)."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 10,
+      "probability": "low",
+      "question": "Describe the structure of an immunoglobulin with a diagram. Write the classes of immunoglobulins and their functions.",
+      "answer": "1. Immunoglobulins are glycoproteins (γ-globulins) made by plasma cells.\n2. Y-shaped monomer: 2 identical heavy chains and 2 identical light chains (κ or λ), joined by disulphide bonds.\n3. Variable region at the tips of the arms forms the antigen-binding site (hypervariable regions); constant region decides effector function.\n4. Hinge region gives flexibility; Fab binds antigen (2 sites); Fc binds complement, phagocytes, mast cells, placenta.\n5. Papain gives 2 Fab + 1 Fc; pepsin gives F(ab')2.\n6. IgG: monomer, 75–80%, crosses placenta, secondary response, longest half-life.\n7. IgA: dimer in secretions, colostrum, milk — mucosal immunity.\n8. IgM: pentamer, largest, first in primary response, best complement activator, anti-A/anti-B.\n9. IgD: B-cell surface receptor. IgE: allergy and worm infections; binds mast cells.\n10. Draw the labelled Y diagram."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the structure of immunoglobulin.",
+      "answer": "1. Glycoprotein, Y-shaped, made by plasma cells.\n2. Two heavy chains (class-specific: γ, α, μ, δ, ε) and two light chains (κ or λ).\n3. Chains linked by inter- and intra-chain disulphide bonds.\n4. Variable region (N-terminal ends) — antigen-binding site with hypervariable regions; constant region — effector functions.\n5. Hinge region between the arms and stem gives flexibility.\n6. Fab (antigen binding, 2 per monomer) and Fc (complement activation, binding to cells, placental transfer).\n7. Papain → 2 Fab + Fc; pepsin → F(ab')2. Diagram expected."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the classes of immunoglobulins with their functions.",
+      "answer": "1. IgG: most abundant (75–80%), monomer, crosses placenta, secondary response, neutralises toxins, opsonises.\n2. IgA: secretory dimer in colostrum, milk, saliva, tears and mucosa — local immunity.\n3. IgM: pentamer, largest, first antibody in the primary response, activates complement; IgM in a newborn means intrauterine infection.\n4. IgD: on B-cell surface, acts as antigen receptor.\n5. IgE: lowest level; binds mast cells and basophils; allergy and defence against worms."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle, types and interpretation of ELISA.",
+      "answer": "1. ELISA = enzyme-linked immunosorbent assay.\n2. Principle: antigen–antibody reaction on a solid surface; one reactant linked to an enzyme (peroxidase or alkaline phosphatase); substrate gives a coloured product; colour (optical density) proportional to the amount present.\n3. Types: direct; indirect (detects antibody — HIV, HCV antibody); sandwich (detects antigen — HBsAg, dengue NS1, hCG); competitive (less colour = more antigen).\n4. Steps (indirect): coat antigen → add serum → wash → add enzyme-labelled anti-human Ig → wash → substrate → stop → read OD.\n5. Interpretation: OD above cut-off = reactive; below = non-reactive; near cut-off = equivocal, repeat.\n6. Screening test — confirm positives as per national strategy; window period gives false negatives."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the clinical significance of immunoglobulins.",
+      "answer": "1. IgG crossing the placenta gives the newborn passive immunity.\n2. IgM in cord/newborn blood indicates congenital infection (rubella, toxoplasma, CMV).\n3. IgM antibody indicates recent infection; IgG past infection or immunity.\n4. Secretory IgA in breast milk protects the baby's gut.\n5. Raised IgE in allergy and worm infection.\n6. Monoclonal Ig (M band) and Bence Jones protein in multiple myeloma; low Ig → repeated infections.\n7. Immunoglobulin preparations give passive immunisation (rabies, tetanus, hepatitis B, anti-D)."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Which immunoglobulin crosses the placenta?",
+      "answer": "IgG — the only immunoglobulin that crosses the placenta, giving the foetus and newborn passive immunity."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What does ELISA stand for? Give two uses.",
+      "answer": "Enzyme-linked immunosorbent assay; used to screen for HIV antibodies and hepatitis B surface antigen (also dengue NS1, hCG, TSH)."
+    },
+    {
+      "id": "u7-v03",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the window period?",
+      "answer": "The period after infection when the infection is present but antibodies have not yet reached a detectable level, so an antibody test such as ELISA can be falsely negative."
+    },
+    {
+      "id": "u7-v04",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the immunoglobulin present in colostrum and its function.",
+      "answer": "Secretory IgA; it protects the baby's gut and respiratory mucosa against infection."
+    }
+  ]
+}

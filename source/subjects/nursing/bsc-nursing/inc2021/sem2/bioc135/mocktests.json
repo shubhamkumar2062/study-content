@@ -1,0 +1,25 @@
+{
+  "tests": [
+    {
+      "id": "section-paper",
+      "title": "Section A: Applied Biochemistry (25 marks)",
+      "patternSource": "INC B.Sc Nursing Regulations 2020, Appendix 3 (university theory question paper pattern): Applied Biochemistry is Section A (25 marks) of a combined 3-hour, 75-mark paper shared with Applied Nutrition and Dietetics (Section B, 50 marks). Section A has no essay and no internal choice. This mock covers Section A only, timed at about one third of the paper. Confirm with your university.",
+      "durationMinutes": 60,
+      "totalMarks": 25,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 4, "attempt": 4 },
+        { "id": "short", "title": "Short answers", "source": "short", "marksEach": 5, "count": 3, "attempt": 3 },
+        { "id": "very-short", "title": "Very short answers", "source": "very-short", "marksEach": 2, "count": 3, "attempt": 3 }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 20, "attempt": 20 }
+      ]
+    }
+  ]
+}

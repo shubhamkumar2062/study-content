@@ -1,0 +1,886 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The only hormone that lowers blood glucose is:",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Cortisol",
+        "Adrenaline"
+      ],
+      "correct": 0,
+      "explanation": "All the other glucose-regulating hormones raise blood glucose.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The renal threshold for glucose is about:",
+      "options": [
+        "100 mg/dL",
+        "180 mg/dL",
+        "126 mg/dL",
+        "300 mg/dL"
+      ],
+      "correct": 1,
+      "explanation": "Above about 180 mg/dL glucose spills into urine.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The amount of glucose given to an adult in a standard OGTT is:",
+      "options": [
+        "25 g",
+        "50 g",
+        "75 g",
+        "100 g"
+      ],
+      "correct": 2,
+      "explanation": "WHO standard OGTT uses 75 g anhydrous glucose in water.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "A fasting plasma glucose diagnostic of diabetes mellitus is (about):",
+      "options": [
+        "100 mg/dL or more",
+        "110 mg/dL or more",
+        "140 mg/dL or more",
+        "126 mg/dL or more"
+      ],
+      "correct": 3,
+      "explanation": "FPG ≥126 mg/dL on repeat testing indicates diabetes.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "HbA1c reflects the average blood glucose over the previous:",
+      "options": [
+        "2–3 months",
+        "2–3 days",
+        "2–3 weeks",
+        "6–12 months"
+      ],
+      "correct": 0,
+      "explanation": "Red cells live about 120 days, so glycation reflects about 2–3 months.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "A lag (alimentary) GTT curve is typically seen after:",
+      "options": [
+        "Hypothyroidism",
+        "Gastrectomy",
+        "Addison's disease",
+        "Malabsorption"
+      ],
+      "correct": 1,
+      "explanation": "Rapid gastric emptying gives a sharp early peak; the others give a flat curve.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Glucose and galactose are absorbed from the intestine by:",
+      "options": [
+        "Simple diffusion",
+        "Pinocytosis",
+        "Sodium-linked active transport (SGLT-1)",
+        "Facilitated diffusion by GLUT-5"
+      ],
+      "correct": 2,
+      "explanation": "SGLT-1 co-transports glucose/galactose with sodium; fructose uses GLUT-5.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Net ATP gained per glucose in anaerobic glycolysis is:",
+      "options": [
+        "4",
+        "8",
+        "32",
+        "2"
+      ],
+      "correct": 3,
+      "explanation": "Glycolysis yields 4 ATP but uses 2, a net of 2.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The glucose challenge test for gestational diabetes uses:",
+      "options": [
+        "50 g glucose without fasting, sample at 1 hour",
+        "75 g glucose after fasting, samples for 5 hours",
+        "100 g glucose after fasting, sample at 30 minutes",
+        "No glucose, a single fasting sample"
+      ],
+      "correct": 0,
+      "explanation": "GCT is a non-fasting 50 g screen with a 1-hour value.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Which of the following is an essential fatty acid?",
+      "options": [
+        "Palmitic acid",
+        "Linoleic acid",
+        "Stearic acid",
+        "Oleic acid"
+      ],
+      "correct": 1,
+      "explanation": "Linoleic and α-linolenic acids cannot be made in the body.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Oleic acid is an example of a:",
+      "options": [
+        "Saturated fatty acid",
+        "Polyunsaturated fatty acid",
+        "Monounsaturated fatty acid",
+        "Trans fatty acid"
+      ],
+      "correct": 2,
+      "explanation": "Oleic acid (18 C) has one double bond.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The lipoprotein known as 'good cholesterol' is:",
+      "options": [
+        "LDL",
+        "VLDL",
+        "Chylomicron",
+        "HDL"
+      ],
+      "correct": 3,
+      "explanation": "HDL carries cholesterol back from tissues to the liver.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Trans fatty acids are harmful because they:",
+      "options": [
+        "Raise LDL and lower HDL",
+        "Lower LDL and raise HDL",
+        "Lower both LDL and HDL",
+        "Have no effect on lipids"
+      ],
+      "correct": 0,
+      "explanation": "This combination increases coronary heart disease risk.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Which ketone body is NOT detected by Rothera's test?",
+      "options": [
+        "Acetoacetate",
+        "β-hydroxybutyrate",
+        "Acetone",
+        "None — all are detected"
+      ],
+      "correct": 1,
+      "explanation": "Nitroprusside reacts with acetoacetate and acetone only.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Dietary triacylglycerols are carried from the intestine in:",
+      "options": [
+        "VLDL",
+        "LDL",
+        "Chylomicrons",
+        "HDL"
+      ],
+      "correct": 2,
+      "explanation": "Chylomicrons are made in intestinal cells and enter lymph.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Vitamin D3 is formed in the skin from:",
+      "options": [
+        "Bile acids",
+        "Cortisol",
+        "Linoleic acid",
+        "7-dehydrocholesterol"
+      ],
+      "correct": 3,
+      "explanation": "Sunlight (UV) converts 7-dehydrocholesterol to cholecalciferol.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Desirable serum total cholesterol in adults is below about:",
+      "options": [
+        "200 mg/dL",
+        "100 mg/dL",
+        "150 mg/dL",
+        "300 mg/dL"
+      ],
+      "correct": 0,
+      "explanation": "Below 200 mg/dL is the commonly used desirable level.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Long-chain fatty acids enter the mitochondria for β-oxidation with the help of:",
+      "options": [
+        "Biotin",
+        "Carnitine",
+        "Bile salts",
+        "Insulin"
+      ],
+      "correct": 1,
+      "explanation": "The carnitine shuttle carries long-chain fatty acyl groups into mitochondria.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Which amino acid is purely ketogenic?",
+      "options": [
+        "Alanine",
+        "Glycine",
+        "Leucine",
+        "Glutamate"
+      ],
+      "correct": 2,
+      "explanation": "Leucine and lysine are the purely ketogenic amino acids.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Phenylketonuria is due to deficiency of:",
+      "options": [
+        "Tyrosinase",
+        "Homogentisate oxidase",
+        "Arginase",
+        "Phenylalanine hydroxylase"
+      ],
+      "correct": 3,
+      "explanation": "Phenylalanine cannot be converted to tyrosine.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Urine that turns black on standing is typical of:",
+      "options": [
+        "Alkaptonuria",
+        "Albinism",
+        "Phenylketonuria",
+        "Cystinuria"
+      ],
+      "correct": 0,
+      "explanation": "Homogentisic acid oxidises to a dark pigment.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The normal serum albumin level is about:",
+      "options": [
+        "1.0–2.0 g/dL",
+        "3.5–5.0 g/dL",
+        "6.0–8.0 g/dL",
+        "8.0–10.0 g/dL"
+      ],
+      "correct": 1,
+      "explanation": "6–8 g/dL is total protein; albumin is about 3.5–5 g/dL.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Urea is synthesised in the:",
+      "options": [
+        "Kidney",
+        "Muscle",
+        "Liver",
+        "Intestine"
+      ],
+      "correct": 2,
+      "explanation": "The urea cycle occurs only in the liver; the kidney excretes urea.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Serotonin and melatonin are formed from:",
+      "options": [
+        "Tyrosine",
+        "Histidine",
+        "Glycine",
+        "Tryptophan"
+      ],
+      "correct": 3,
+      "explanation": "Tryptophan also gives niacin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "A narrow M band in the gamma region on serum electrophoresis suggests:",
+      "options": [
+        "Multiple myeloma",
+        "Nephrotic syndrome",
+        "Acute inflammation",
+        "Iron deficiency"
+      ],
+      "correct": 0,
+      "explanation": "A monoclonal immunoglobulin forms a sharp spike.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The main function of albumin is to:",
+      "options": [
+        "Carry oxygen",
+        "Maintain colloid osmotic pressure",
+        "Form blood clots",
+        "Act as antibodies"
+      ],
+      "correct": 1,
+      "explanation": "Albumin provides about 80% of plasma oncotic pressure.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Pepsinogen is converted to pepsin by:",
+      "options": [
+        "Enteropeptidase",
+        "Bile salts",
+        "Hydrochloric acid",
+        "Trypsin"
+      ],
+      "correct": 2,
+      "explanation": "Stomach HCl activates pepsinogen; enteropeptidase activates trypsinogen.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The most liver-specific enzyme among the following is:",
+      "options": [
+        "AST",
+        "LDH",
+        "CK",
+        "ALT"
+      ],
+      "correct": 3,
+      "explanation": "ALT is found mainly in liver cytoplasm.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The preferred biochemical marker of myocardial infarction is:",
+      "options": [
+        "Cardiac troponin",
+        "LDH",
+        "ALP",
+        "Amylase"
+      ],
+      "correct": 0,
+      "explanation": "Troponins are the most sensitive and specific heart markers.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The CK isoenzyme mainly found in heart muscle is:",
+      "options": [
+        "CK-BB",
+        "CK-MB",
+        "CK-MM",
+        "CK-LD"
+      ],
+      "correct": 1,
+      "explanation": "CK-MB rises after myocardial infarction.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Isoenzymes are best defined as:",
+      "options": [
+        "Enzymes that catalyse opposite reactions",
+        "Inactive precursors of enzymes",
+        "Different forms of an enzyme that catalyse the same reaction",
+        "Enzymes acting only in plasma"
+      ],
+      "correct": 2,
+      "explanation": "They differ in structure and properties but share the same reaction.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "A marked rise of ALP with raised GGT suggests:",
+      "options": [
+        "Haemolytic anaemia",
+        "Myocardial infarction",
+        "Muscular dystrophy",
+        "Obstructive jaundice"
+      ],
+      "correct": 3,
+      "explanation": "ALP and GGT come from bile canaliculi; GGT confirms a liver source.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The enzyme raised very highly in Duchenne muscular dystrophy is:",
+      "options": [
+        "Creatine kinase",
+        "Acid phosphatase",
+        "Amylase",
+        "GGT"
+      ],
+      "correct": 0,
+      "explanation": "CK (MM) leaks from damaged skeletal muscle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The marker used for screening and follow-up of prostate cancer is:",
+      "options": [
+        "CK-MB",
+        "PSA",
+        "ALT",
+        "Lipase"
+      ],
+      "correct": 1,
+      "explanation": "Prostate-specific antigen; prostatic ACP is an older marker.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Among the classic cardiac enzymes, the one that rises last and stays longest after MI is:",
+      "options": [
+        "CK-MB",
+        "AST",
+        "LDH",
+        "Myoglobin"
+      ],
+      "correct": 2,
+      "explanation": "LDH rises at 12–24 h and stays raised for 8–14 days.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Prostatic acid phosphatase is inhibited by:",
+      "options": [
+        "Fluoride",
+        "Heparin",
+        "Citrate",
+        "Tartrate"
+      ],
+      "correct": 3,
+      "explanation": "It is called tartrate-labile acid phosphatase.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The normal pH of arterial blood is about:",
+      "options": [
+        "7.35–7.45",
+        "6.8–7.0",
+        "7.0–7.2",
+        "7.6–7.8"
+      ],
+      "correct": 0,
+      "explanation": "Blood is slightly alkaline, mean 7.4.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The most important buffer system of blood plasma is:",
+      "options": [
+        "Phosphate buffer",
+        "Bicarbonate buffer",
+        "Ammonia buffer",
+        "Acetate buffer"
+      ],
+      "correct": 1,
+      "explanation": "Both its parts are regulated by lungs and kidneys.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Normal arterial PaCO2 is about:",
+      "options": [
+        "20–30 mmHg",
+        "50–60 mmHg",
+        "35–45 mmHg",
+        "80–100 mmHg"
+      ],
+      "correct": 2,
+      "explanation": "80–100 mmHg is the normal PaO2.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Prolonged vomiting usually causes:",
+      "options": [
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis"
+      ],
+      "correct": 3,
+      "explanation": "Loss of stomach HCl leaves excess bicarbonate.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Diabetic ketoacidosis produces:",
+      "options": [
+        "High anion gap metabolic acidosis",
+        "Normal anion gap metabolic acidosis",
+        "Metabolic alkalosis",
+        "Respiratory alkalosis"
+      ],
+      "correct": 0,
+      "explanation": "Ketone acids consume bicarbonate and add unmeasured anions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "In blood at pH 7.4, the ratio of bicarbonate to carbonic acid is:",
+      "options": [
+        "1 : 20",
+        "20 : 1",
+        "10 : 1",
+        "1 : 1"
+      ],
+      "correct": 1,
+      "explanation": "pH = 6.1 + log 20 = 7.4.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Hyperventilation due to anxiety causes:",
+      "options": [
+        "Respiratory acidosis",
+        "Metabolic acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis"
+      ],
+      "correct": 2,
+      "explanation": "Excess CO2 is blown off.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The main way the kidney increases acid excretion in chronic acidosis is by excreting:",
+      "options": [
+        "Glucose",
+        "Bilirubin",
+        "Albumin",
+        "Ammonium (NH4⁺)"
+      ],
+      "correct": 3,
+      "explanation": "Ammonia made from glutamine traps H⁺ as NH4⁺.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Chronic obstructive pulmonary disease with CO2 retention causes:",
+      "options": [
+        "Respiratory acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis",
+        "No acid–base change"
+      ],
+      "correct": 0,
+      "explanation": "Retained CO2 forms carbonic acid.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "The enzyme that conjugates bilirubin in the liver is:",
+      "options": [
+        "Haem oxygenase",
+        "UDP-glucuronyl transferase",
+        "Biliverdin reductase",
+        "β-glucuronidase"
+      ],
+      "correct": 1,
+      "explanation": "It adds glucuronic acid to form bilirubin diglucuronide.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "In haemolytic jaundice the urine shows:",
+      "options": [
+        "Bilirubin present, urobilinogen absent",
+        "Bile salts present",
+        "No bilirubin but increased urobilinogen",
+        "Bilirubin and bile salts present"
+      ],
+      "correct": 2,
+      "explanation": "Unconjugated bilirubin is albumin-bound and not filtered; more urobilinogen is formed.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Clay-coloured stools with absent urine urobilinogen suggest:",
+      "options": [
+        "Haemolytic jaundice",
+        "Physiological jaundice",
+        "Gilbert's syndrome",
+        "Obstructive jaundice"
+      ],
+      "correct": 3,
+      "explanation": "No bile reaches the gut.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Hay's test is used to detect:",
+      "options": [
+        "Bile salts in urine",
+        "Bile pigments in urine",
+        "Urobilinogen",
+        "Ketone bodies"
+      ],
+      "correct": 0,
+      "explanation": "Sulphur powder sinks when bile salts lower surface tension.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "In the van den Bergh test, an indirect reaction indicates:",
+      "options": [
+        "Conjugated bilirubin",
+        "Unconjugated bilirubin",
+        "Bile salts",
+        "Urobilinogen"
+      ],
+      "correct": 1,
+      "explanation": "Colour appears only after adding alcohol.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "The normal life span of a red blood cell is about:",
+      "options": [
+        "30 days",
+        "60 days",
+        "120 days",
+        "365 days"
+      ],
+      "correct": 2,
+      "explanation": "Old RBCs are removed by reticuloendothelial cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "The single best screening test for thyroid function is:",
+      "options": [
+        "Total T3",
+        "Serum cholesterol",
+        "Serum calcium",
+        "Serum TSH"
+      ],
+      "correct": 3,
+      "explanation": "The pituitary responds to small changes in thyroid hormone.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Normal serum creatinine in adults is about:",
+      "options": [
+        "0.6–1.2 mg/dL",
+        "5–10 mg/dL",
+        "15–40 mg/dL",
+        "3.5–5.0 mg/dL"
+      ],
+      "correct": 0,
+      "explanation": "15–40 mg/dL is blood urea.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "Stercobilin is responsible for the colour of:",
+      "options": [
+        "Urine",
+        "Stool",
+        "Bile",
+        "Plasma"
+      ],
+      "correct": 1,
+      "explanation": "Gut bacteria convert urobilinogen to stercobilinogen and stercobilin.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The immunoglobulin that crosses the placenta is:",
+      "options": [
+        "IgM",
+        "IgA",
+        "IgG",
+        "IgE"
+      ],
+      "correct": 2,
+      "explanation": "IgG gives passive immunity to the foetus.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The immunoglobulin that exists as a pentamer is:",
+      "options": [
+        "IgG",
+        "IgD",
+        "IgE",
+        "IgM"
+      ],
+      "correct": 3,
+      "explanation": "IgM has five units joined by a J chain.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "The immunoglobulin involved in allergy is:",
+      "options": [
+        "IgE",
+        "IgA",
+        "IgD",
+        "IgM"
+      ],
+      "correct": 0,
+      "explanation": "IgE binds mast cells and basophils.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "The main immunoglobulin in colostrum is:",
+      "options": [
+        "IgG",
+        "Secretory IgA",
+        "IgE",
+        "IgD"
+      ],
+      "correct": 1,
+      "explanation": "It protects the baby's gut mucosa.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "Each basic immunoglobulin unit has:",
+      "options": [
+        "One heavy and one light chain",
+        "Four heavy chains",
+        "Two heavy and two light chains",
+        "Two heavy chains only"
+      ],
+      "correct": 2,
+      "explanation": "Four chains joined by disulphide bonds form the Y.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "The antigen-binding site of an antibody is formed by the:",
+      "options": [
+        "Fc fragment",
+        "Hinge region",
+        "Constant region of heavy chains",
+        "Variable regions of heavy and light chains"
+      ],
+      "correct": 3,
+      "explanation": "Hypervariable regions at the arm tips give specificity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "Detection of HBsAg is usually done by:",
+      "options": [
+        "Sandwich ELISA",
+        "Indirect ELISA",
+        "Van den Bergh test",
+        "Electrophoresis"
+      ],
+      "correct": 0,
+      "explanation": "A capture antibody traps the antigen between two antibodies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "In ELISA the colour developed is measured as:",
+      "options": [
+        "Specific gravity",
+        "Optical density",
+        "pH",
+        "Osmolality"
+      ],
+      "correct": 1,
+      "explanation": "An ELISA reader measures optical density against a cut-off.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "Papain digestion of IgG produces:",
+      "options": [
+        "One F(ab')2 fragment",
+        "Four light chains",
+        "Two Fab and one Fc fragment",
+        "Two heavy chains only"
+      ],
+      "correct": 2,
+      "explanation": "Pepsin gives F(ab')2; papain gives 2 Fab + Fc.",
+      "probability": "low"
+    }
+  ]
+}
