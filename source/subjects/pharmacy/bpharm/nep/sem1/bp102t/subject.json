@@ -1,0 +1,48 @@
+{
+  "code": "BP102T",
+  "title": "General Pharmacy",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, B.Pharm Syllabus 2026 (as per NEP 2020), BP102T General Pharmacy (Theory), units I–V",
+    "url": "https://www.pci.gov.in/documents/1455/B.Pharm_Syllabus_2026-_NEP2020_compressed.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to the profession of pharmacy: history, scope, pharmacopoeias and prescription",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Pharmaceutical calculations, posology, dosage forms, APIs and excipients",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Solid dosage forms: powders, tablets and capsules",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Monophasic and biphasic liquids",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Semisolid dosage forms and suppositories",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the PCI B.Pharm 2026 (NEP 2020) syllabus and on how often similar questions appear in pharmaceutics papers. This course is new, so there are no past papers of it yet. It is not a promise. Long answers are marked out of 8 in the app and written for the 7.5 marks of the real paper.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define prescription. Draw a model prescription and explain its parts. Describe how a pharmacist should handle a prescription.",
+      "answer": "1. Definition: a written or electronic order from a registered medical practitioner (or dentist or veterinarian) to a pharmacist to prepare and/or dispense a medicine for a named patient, with directions for use; it is a legal document.\n2. Model layout (draw a box): prescriber's name, qualification, registration number and address; date; patient's name, age, sex, weight and address; Rx; drug names and quantities; directions to pharmacist; Sig. directions to patient; refill instruction; prescriber's signature.\n3. Parts: superscription = Rx (Latin recipe, take thou); inscription = names and quantities of ingredients (main part); subscription = directions to the pharmacist on the dosage form and quantity to supply; signatura = directions to the patient, copied on the label; renewal instructions; signature and registration number make it legal.\n4. Handling – receive: personally and politely.\n5. Read and check: legality, completeness, legibility, dose, frequency, interactions and incompatibilities; clear doubts with the prescriber, never with the patient.\n6. Collect and compound: check each label three times, weigh and measure accurately, one prescription at a time.\n7. Pack and label: suitable container; label with patient name, drug, strength, directions, date, pharmacy name and auxiliary labels.\n8. Record and deliver: enter in the prescription register; hand over with counselling on dose, timing, storage and side effects."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What is a pharmacopoeia? Give an account of the IP, BP, USP and International Pharmacopoeia. Describe the structure of the Indian Pharmacopoeia.",
+      "answer": "1. Definition: an official book, published under government authority, giving standards of identity, purity and strength of drugs and preparations with test methods; a monograph is the entry for one substance.\n2. IP: first edition 1955 (after the Chopra Committee); later editions 1966, 1985, 1996, 2007, 2010, 2014, 2018, 2022; published by the Indian Pharmacopoeia Commission, Ghaziabad; legal standard under the Drugs and Cosmetics Act.\n3. BP: first published 1864; prepared by the British Pharmacopoeia Commission and revised every year; official in the UK; includes European Pharmacopoeia texts.\n4. USP: first published 1820 by the US Pharmacopeial Convention; issued as USP–NF (NF covers excipients); official in the USA.\n5. International Pharmacopoeia: published by WHO; model standards, especially for essential medicines, which countries may adopt.\n6. Others: BPC (1907, formulae and information), European, Japanese and Chinese pharmacopoeias; NFI is a formulary for rational use.\n7. Structure of IP: front matter (preface, introduction, list of additions and omissions) → General Notices (rules for interpreting the book: percentages, temperatures, storage and solubility terms) → General Chapters/appendices (test methods, reagents, volumetric solutions) → general monographs on dosage forms → individual monographs (drug substances, excipients, dosage forms, vaccines, blood products, herbal, veterinary).\n8. Monograph order: title, formula, definition and content limit, category, description, solubility, identification, tests, assay, storage, labelling."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Trace the history of the pharmacy profession in India with reference to education, industry and organisations. Add a note on the scope of the profession.",
+      "answer": "1. Early period: Ayurveda (Charaka, Sushruta Samhitas), Unani and Siddha; the healer prepared medicines; British period compounders trained on the job; no law on drug quality.\n2. Education: Prof. M. L. Schroff began university pharmacy teaching at BHU (degree course 1937), father of pharmacy education; Pharmacy Act 1948; PCI 1949 sets education standards; growth of D.Pharm, B.Pharm, M.Pharm; Pharm.D 2008; credit-based syllabus 2014; NEP 2020 syllabus 2026.\n3. Industry: Bengal Chemical and Pharmaceutical Works by P. C. Ray (1901); Chopra Committee 1930–31 → Drugs Act 1940; public sector units (HAL, IDPL); Patents Act 1970 allowed process patents → generic boom, 'pharmacy of the world'; product patents from 2005 push research.\n4. Organisations: PCI and State Pharmacy Councils, CDSCO under DCGI, IP Commission, IPA, APTI, Indian Pharmaceutical Congress Association, IDMA.\n5. Scope – community: dispensing, counselling, OTC advice, health screening.\n6. Hospital: procurement, storage, distribution, P&T committee and formulary, drug information.\n7. Clinical: ward rounds, prescription review, ADR monitoring, discharge counselling.\n8. Industry including R&D: formulation development, production, QC, QA, regulatory affairs, marketing; also government (Drug Inspector), teaching, clinical research."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Explain the parts of a prescription.",
+      "answer": "1. Date and patient details (name, age, sex, weight, address) identify the patient and the time of writing.\n2. Superscription: the symbol Rx (recipe, take thou).\n3. Inscription: names and quantities of ingredients – the main part.\n4. Subscription: directions to the pharmacist: dosage form and quantity to supply.\n5. Signatura (Sig.): directions to the patient, copied on the label.\n6. Renewal instructions and the prescriber's signature, address and registration number make it complete and legal."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write the meaning of any eight Latin terms or abbreviations used in prescriptions.",
+      "answer": "a.c. (ante cibum) – before meals; p.c. (post cibum) – after meals; b.d. (bis in die) – twice a day; t.d.s. (ter die sumendum) – three times a day; q.i.d. (quater in die) – four times a day; h.s. (hora somni) – at bedtime; stat. (statim) – immediately; s.o.s. (si opus sit) – if necessary; p.r.n. (pro re nata) – when required; q.s. (quantum sufficit) – sufficient quantity; M. (misce) – mix; gtt. (guttae) – drops; o.d. (omni die) – once a day; Sig. (signa) – label."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Describe the role of a pharmacist in community and hospital pharmacy.",
+      "answer": "1. Community: dispense prescriptions as a registered pharmacist; check prescriptions for errors and interactions.\n2. Counsel patients on dose, timing, storage and side effects; supply OTC medicines responsibly and refer when needed.\n3. Keep legal records; maintain storage and cold chain; health promotion and screening.\n4. Hospital: procurement, storage, inventory control and distribution to wards and outpatients.\n5. Member of the Pharmacy and Therapeutics Committee; prepares the hospital formulary; drug information service; prepares IV admixtures and special preparations."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Give the layout of a model monograph in the Indian Pharmacopoeia.",
+      "answer": "1. Title (official name) with chemical formula and molecular weight.\n2. Definition: chemical name and permitted content range (per cent, often on dried basis).\n3. Category and dose; description (appearance, odour); solubility in pharmacopoeial terms.\n4. Identification: tests proving identity (IR spectrum, melting point, colour reactions).\n5. Tests: purity limits – related substances, heavy metals, sulphated ash, loss on drying.\n6. Assay: quantitative method; storage conditions; labelling requirements. Example: paracetamol monograph follows this order."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "What is the National Formulary of India? How does it differ from the Indian Pharmacopoeia?",
+      "answer": "1. NFI: a book of information on medicines for prescribers and pharmacists, first edition 1960, now published by the IP Commission.\n2. Gives drugs in therapeutic groups with indications, contraindications, cautions, side effects, interactions and preparations.\n3. Aim: rational use of medicines.\n4. IP gives legal standards of identity, purity and strength with test methods; NFI is a guide to use, not a legal quality standard."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Who is called the father of pharmacy education in India?",
+      "answer": "Prof. M. L. Schroff, who started university-level pharmacy education at Banaras Hindu University."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What was the Chopra Committee and what did it lead to?",
+      "answer": "The Drugs Enquiry Committee (1930–31) under Col. R. N. Chopra; its report led to the Drugs Act, 1940 and to an Indian Pharmacopoeia."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define isotonic solution. Why must some preparations be isotonic? Describe the freezing point depression and sodium chloride equivalent methods of adjusting tonicity with one example of each.",
+      "answer": "1. Isotonic: a solution with the same osmotic pressure as a body fluid (blood, tears); it freezes at −0.52 °C. Hypotonic → cells swell (haemolysis); hypertonic → cells shrink (crenation).\n2. Need: injections (especially large volume, intrathecal), eye drops, nasal drops and wound washes – to avoid pain, irritation and tissue damage. 0.9% w/v NaCl and 5% w/v dextrose are isotonic.\n3. FPD method: W = (0.52 − a)/b, where W = g of adjusting substance per 100 ml, a = FPD of the unadjusted drug solution, b = FPD of 1% adjusting substance (NaCl 0.576 °C). Check: W = 0.52/0.576 = 0.90 g for plain NaCl.\n4. Example: a 1% solution of drug X has FPD 0.10 °C → W = (0.52 − 0.10)/0.576 = 0.73 g NaCl per 100 ml.\n5. NaCl equivalent (E): grams of NaCl osmotically equal to 1 g of drug.\n6. Example: 60 ml of 2% drug Y (E 0.20): drug = 1.2 g → equivalent 0.24 g NaCl; NaCl needed for 60 ml = 0.54 g; add 0.54 − 0.24 = 0.30 g NaCl.\n7. Other methods: White–Vincent (V = W × E × 111.1 ml of water), molar concentration method.\n8. Note: use the unit of answer (g NaCl per stated volume) and check that W is positive; a negative W means the drug solution is already hypertonic."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define posology. Discuss the factors affecting dose. Give the formulas used to calculate a child's dose based on age, body weight and body surface area.",
+      "answer": "1. Posology: the branch of pharmacy dealing with doses (Greek posos = how much); dose = amount of drug given at one time to produce the desired effect.\n2. Factors: age, body weight, body surface area, sex (pregnancy, lactation), route and time of administration, disease of liver or kidney, tolerance, idiosyncrasy and allergy, cumulation, drug interactions (synergism, antagonism), emotional and environmental factors, genetic factors.\n3. Young's rule: child dose = Age (years)/(Age + 12) × adult dose (1–12 years). Example fraction: 6 years → 6/18 = 1/3 of adult dose.\n4. Dilling's rule: Age/20 × adult dose; Cowling's rule: age at next birthday/24 × adult dose.\n5. Fried's rule (infants): Age (months)/150 × adult dose; 18 months → 0.12 of the adult dose.\n6. Clark's rule (weight): Weight (lb)/150 × adult dose; 44 lb → 0.29 of the adult dose. Per-kg dosing: dose per kg × weight.\n7. BSA method (most accurate): child dose = BSA (m²)/1.73 × adult dose; BSA from nomogram or Mosteller √[height (cm) × weight (kg)/3600]; e.g. 120 cm and 25 kg → 0.91 m² → 0.53 of adult dose.\n8. These are approximations; official references and the prescriber's order decide the actual dose."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Explain alligation and proof spirit. Solve: (a) quantities of 10% and 2% w/w ointments to make 400 g of 5% w/w; (b) express 90% v/v and 40% v/v alcohol in degrees proof.",
+      "answer": "1. Alligation: arithmetic method for mixing two strengths to get an intermediate strength. Alligation medial finds the strength of a mixture; alligation alternate finds the proportion to mix. A diluent counts as 0%.\n2. Alligation alternate cross: higher strength gets (wanted − lower) parts; lower gets (higher − wanted) parts.\n3. (a) 10% → 5 − 2 = 3 parts; 2% → 10 − 5 = 5 parts; total 8. 10% ointment = 400 × 3/8 = 150 g; 2% ointment = 400 × 5/8 = 250 g. Check: (150 × 10 + 250 × 2)/400 = 5%.\n4. Proof spirit: ethanol–water mixture with 57.1% v/v ethanol at 51 °F (about 10.6 °C) = 100° proof; stronger = over proof (OP), weaker = under proof (UP).\n5. Formulae: degree proof = % v/v × 1.753; OP = proof − 100; UP = 100 − proof; volume of proof spirit = volume × proof/100.\n6. (b) 90% v/v × 1.753 = 157.8° proof = 57.8 OP; 40% v/v × 1.753 = 70.1° proof = 29.9 UP.\n7. Use: excise duty and labelling of alcohol in medicines.\n8. When diluting alcohol, make up to final volume because alcohol and water contract on mixing."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "What is geometric dilution? Explain with an example.",
+      "answer": "1. Method for mixing a small amount of a potent drug uniformly with a large amount of diluent.\n2. Triturate the drug with an equal amount of diluent.\n3. Add diluent equal to the amount already in the mortar and triturate; repeat, doubling each time, until all diluent is added.\n4. Example: 50 mg drug + 50 mg lactose → 100 mg; + 100 mg → 200 mg; continue to 5 g, giving a 1% w/w trituration. A trace of inert colour can show uniform mixing."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Classify dosage forms with examples and list the routes of administration.",
+      "answer": "1. Solid: powders, granules, tablets, capsules, pills, lozenges, suppositories.\n2. Liquid – monophasic: solutions, syrups, elixirs, linctuses, aromatic waters, drops; biphasic: suspensions, emulsions.\n3. Semisolid: ointments, creams, pastes, gels, jellies. Gaseous: aerosols, inhalations, sprays.\n4. Routes: oral, sublingual/buccal, parenteral (IV, IM, SC, intradermal), rectal, vaginal, topical, transdermal, inhalation, ophthalmic, otic, nasal."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Define excipient. Give the ideal characteristics of excipients and their importance in dosage forms.",
+      "answer": "1. Excipient: a substance other than the API intentionally added to a dosage form to help manufacture, protect, aid administration or control release; inactive at the amount used.\n2. Ideal: inert, non-toxic, non-irritant, compatible with API, stable, does not harm bioavailability, acceptable taste and colour, cheap, available, of pharmacopoeial quality.\n3. Importance: allow processing (flow, compression), protect drug (antioxidants, preservatives), mask taste, aid identification, control release, ensure uniform dose.\n4. Examples: diluent lactose, binder starch paste, disintegrant sodium starch glycolate, lubricant magnesium stearate, preservative parabens."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "How much water must be added to 200 ml of a 25% w/v solution to make a 10% w/v solution? Also find the volume of a 1 in 200 stock needed for 500 ml of a 1 in 1000 solution.",
+      "answer": "1. Use C1V1 = C2V2 (drug amount does not change).\n2. 25 × 200 = 10 × V2 → V2 = 500 ml; make up to 500 ml, i.e. add about 300 ml of water.\n3. Stock volume = 500 × (1/1000) ÷ (1/200) = 100 ml.\n4. Take 100 ml of the 1 in 200 stock and make up to 500 ml with vehicle."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Define API. Give its ideal characteristics.",
+      "answer": "1. Active pharmaceutical ingredient (drug substance): the component of a dosage form that produces the pharmacological or therapeutic effect.\n2. Ideal: pure, of known identity and strength.\n3. Stable to light, heat, moisture and air; suitable particle size, solubility and permeability for absorption.\n4. Compatible with excipients; reproducible manufacture; safe and effective at the intended dose."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is proof spirit?",
+      "answer": "A mixture of ethanol and water containing 57.1% v/v ethanol at 51 °F, taken as 100° proof."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write Young's rule.",
+      "answer": "Child dose = Age (years) ÷ (Age + 12) × adult dose, for children of 1–12 years."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Classify powders. Give their advantages and disadvantages. Write notes on effervescent powders and eutectic mixtures.",
+      "answer": "1. Definition: mixtures of finely divided dry drugs/chemicals for internal or external use.\n2. Classification: bulk powders – internal (antacids, laxatives, ORS) and external (dusting powders, insufflations, dentifrices, douche powders, snuffs); divided powders (chartulae) – simple or compound, packed in papers or sachets.\n3. Advantages: more stable than liquids; fast dissolution; flexible dose; easy for those who cannot swallow tablets; large doses possible; cheap.\n4. Disadvantages: taste not masked; bulk doses inaccurate; unsuitable for corrosive, deliquescent or volatile drugs; slow to divide.\n5. Effervescent powders: acid (citric + tartaric) with sodium bicarbonate; in water release CO2, masking taste and aiding dissolution; ratio 1 : 2 : 3.44.\n6. Preparation: fusion method (water of crystallisation of citric acid monohydrate acts as binder on warming; sieve and dry) or wet method (ethanol as moistening agent); store airtight.\n7. Eutectic mixtures: solids that liquefy when mixed because the mixture melts below room temperature (camphor + menthol, camphor + phenol, menthol + thymol).\n8. Handling: mix each separately with an adsorbent (light magnesium oxide, kaolin, starch) and combine lightly, or let liquefy and absorb; pack in waxed paper or capsules; store cool."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define tablets. Describe the various types of tablets with examples. Write the steps of the wet granulation method.",
+      "answer": "1. Tablets: solid unit dosage forms of one or more drugs with or without excipients, made by compression or moulding.\n2. Oral swallowed: plain compressed; multiple compressed (layered, compression-coated); sugar-coated; film-coated; enteric-coated (dissolve in intestine); chewable (antacids); sustained/controlled release.\n3. Dissolved or dispersed first: effervescent, dispersible, soluble tablets.\n4. Oral cavity: buccal and sublingual (absorbed directly, avoid first pass), lozenges/troches (local action in mouth and throat).\n5. Other: vaginal tablets, implants; moulded tablets (tablet triturates: drug + lactose moistened and pressed into moulds, then dried); pills are rolled spherical masses (now rare).\n6. Wet granulation: weigh and sift → dry mix drug, diluent, disintegrant → add binder solution to form a wet mass → pass through a sieve → dry granules → dry screening (sizing) → add lubricant, glidant and extragranular disintegrant → compress.\n7. Why granulate: better flow, density and compressibility; prevents segregation; uniform dose.\n8. Excipients named: lactose, starch paste/PVP, starch or sodium starch glycolate, magnesium stearate, talc/colloidal silica."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Define capsules. Differentiate hard and soft gelatin capsules. Give capsule sizes and describe the methods of filling hard capsules.",
+      "answer": "1. Capsules: solid dosage forms in which drug and excipients are enclosed in a soluble shell, usually gelatin (type A from acid-treated pig skin, type B from alkali-treated bones and hides).\n2. Hard capsules: two pieces (body and cap); shell of gelatin, water, colour, titanium dioxide; filled with powders, granules or pellets.\n3. Soft capsules: one piece, sealed; thicker shell with plasticiser (glycerin or sorbitol); filled with oils, solutions or suspensions; made and filled in one step.\n4. Others: HPMC (vegetarian) capsules; enteric and modified-release capsules.\n5. Sizes: 000 (largest, about 1.37 ml), 00 (0.95), 0 (0.68), 1 (0.50), 2 (0.37), 3 (0.30), 4 (0.21), 5 (smallest, 0.13 ml); choose the smallest that holds dose plus diluent.\n6. Hand (punch) method: spread powder on a slab to one-third body length; press the body into it repeatedly until full; fit the cap; weigh each capsule.\n7. Capsule-filling boards fill many at once; automatic machines separate, fill (auger, dosator, tamping), rejoin and eject.\n8. Advantages: tasteless, easy to swallow, fewer excipients; limitations: not for efflorescent or deliquescent drugs, animal origin, humidity-sensitive."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write a note on efflorescent and hygroscopic powders.",
+      "answer": "1. Efflorescent: crystalline substances that lose water of crystallisation in air, making a powder damp (alum, citric acid monohydrate, sodium carbonate decahydrate).\n2. Handling: use an equivalent amount of the anhydrous form; pack in well-closed containers.\n3. Hygroscopic: absorb moisture from air (ammonium chloride, potassium citrate); deliquescent absorb so much they dissolve (calcium chloride, zinc chloride).\n4. Handling: work fast in a dry place, avoid very fine trituration, add adsorbent, wrap in waxed or double paper, pack airtight with desiccant."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "What are dusting powders? Give their requirements and an example.",
+      "answer": "1. Fine powders applied to skin for lubricant, absorbent, protective, antiseptic or antipruritic action.\n2. Medicated (intact skin) and surgical (wounds, body cavities – must be sterile).\n3. Requirements: very fine, free from grit, free-flowing, uniform, non-irritant; talc and kaolin sterilised by dry heat because they may carry spores.\n4. Bases: talc, starch, zinc oxide, kaolin; packed in sifter-top containers, labelled 'For external use only'. Example: zinc, starch and talc dusting powder."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Give the advantages and disadvantages of tablets.",
+      "answer": "1. Advantages: accurate, uniform dose; most stable dosage form; easy to carry and take; cheap to make.\n2. Taste masking and identification by coating, colour, shape, embossing; controlled or enteric release possible.\n3. Disadvantages: difficult for children, elderly, unconscious patients to swallow; some drugs hard to compress.\n4. Bitter drugs need coating; bioavailability problems for poorly soluble drugs; coating adds cost."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Differentiate moulded tablets and pills.",
+      "answer": "1. Moulded tablets (tablet triturates): drug with lactose (and sucrose) moistened with alcohol–water, pressed into a mould, pushed out and dried; small, flat, soft and quickly soluble; suit small doses of potent drugs.\n2. Pills: small spherical masses made by rolling a plastic pill mass of drug and excipients (liquid glucose, syrup, acacia, liquorice) on a pill machine; may be coated.\n3. Tablet triturates are made with moulds; pills by rolling and cutting.\n4. Pills are now rarely made; both largely replaced by compressed tablets."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "List the excipients used in tablets with one example of each.",
+      "answer": "1. Diluent – lactose, microcrystalline cellulose; binder – starch paste, PVP.\n2. Disintegrant – starch, sodium starch glycolate, croscarmellose sodium.\n3. Lubricant – magnesium stearate; glidant – colloidal silica; anti-adherent – talc.\n4. Colours, flavours and sweeteners for appearance and taste; wetting agent – sodium lauryl sulphate."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the ratio of acids to sodium bicarbonate in effervescent granules.",
+      "answer": "Citric acid : tartaric acid : sodium bicarbonate = 1 : 2 : 3.44 by weight."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which is the largest and which the smallest hard gelatin capsule size?",
+      "answer": "Size 000 is the largest and size 5 the smallest."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define suspension. Differentiate flocculated and deflocculated suspensions. Describe the formulation excipients and general methods of preparation of suspensions.",
+      "answer": "1. Suspension: biphasic liquid in which finely divided insoluble solid particles are dispersed uniformly in a liquid vehicle with the help of suspending agents.\n2. Flocculated: particles form loose flocs; settle fast; clear supernatant; loose, bulky sediment; easily redispersed; no cake; less elegant.\n3. Deflocculated: separate particles; settle slowly; cloudy supernatant; compact sediment that may cake; hard to redisperse; more elegant.\n4. Stokes' law: v = 2r²(ρs − ρl)g/9η; settling slowed by small particles, high viscosity, small density difference.\n5. Excipients: wetting agents (polysorbate 80, glycerin, alcohol); suspending agents – natural (acacia, tragacanth, alginate, xanthan), semisynthetic (methylcellulose, sodium CMC), clays (bentonite), synthetic (carbomer); flocculating agents (electrolytes, surfactants, polymers); buffers, preservatives, flavours, colours, sweeteners.\n6. Dispersion method: wet the powder with a little wetting agent to a smooth paste; add the suspending agent dispersed in vehicle gradually; make up to volume (e.g. calamine lotion).\n7. Precipitation method: solid formed in situ by change of solvent, change of pH or double decomposition (white lotion).\n8. Label 'Shake well before use'; sedimentation volume F = Vu/Vo, near 1 is good."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define emulsion. Classify emulsifying agents. Describe the tests used to identify the type of emulsion and the dry gum method of preparation.",
+      "answer": "1. Emulsion: biphasic liquid in which one liquid is dispersed as globules in another immiscible liquid, stabilised by an emulsifying agent; types O/W, W/O, multiple (W/O/W, O/W/O), microemulsions.\n2. Natural emulsifiers: carbohydrates (acacia, tragacanth, pectin – O/W); proteins (gelatin, egg yolk); sterol-containing (wool fat, wool alcohols, cholesterol – W/O).\n3. Finely divided solids: bentonite, aluminium and magnesium hydroxide.\n4. Synthetic surfactants: anionic (sodium lauryl sulphate, soaps), cationic (cetrimide), non-ionic (polysorbates O/W, sorbitan esters W/O); HLB 3–6 W/O, 8–18 O/W.\n5. Identification: dilution test (O/W mixes with water); dye test (amaranth colours the continuous phase of O/W, Sudan III colours globules of O/W); conductivity (O/W conducts, bulb glows); fluorescence (O/W spotty, W/O whole field); CoCl2 paper (O/W turns blue paper pink).\n6. Dry gum (continental) method: triturate oil with powdered acacia in a dry mortar; add all the water of the primary emulsion at once; triturate briskly until a clicking, creamy primary emulsion forms; dilute with remaining vehicle.\n7. Ratios oil : water : gum: fixed oil 4:2:1, mineral oil 3:2:1, volatile oil 2:2:1.\n8. Other methods: wet gum (mucilage first, oil added slowly), bottle (Forbes) method for volatile oils, mechanical homogenisers; label 'Shake well before use'."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Define and give the methods of preparation of aromatic waters, syrups and elixirs. Mention their problems or limitations.",
+      "answer": "1. Aromatic waters: clear saturated aqueous solutions of volatile oils or volatile substances; used as flavoured vehicles.\n2. Methods: distillation; solution method (shake oil with water, with talc as distributing agent, filter); dilution of concentrated water (1 part + 39 parts water). Problem: loss and oxidation of volatile oil – store airtight, light-resistant.\n3. Syrups: concentrated aqueous sucrose solutions; Simple Syrup IP 66.7% w/w; self-preserving by high osmotic pressure; flavoured or medicated.\n4. Methods: solution with heat, agitation without heat, percolation, addition of medicated liquid to syrup.\n5. Problems: crystallisation (cap-locking), fermentation if dilute, inversion and caramelisation with heat; preservatives for diluted syrups.\n6. Elixirs: clear, sweetened hydroalcoholic solutions for oral use; non-medicated (vehicles) or medicated.\n7. Method: dissolve alcohol-soluble ingredients in alcohol and water-soluble ones in water; add aqueous to alcoholic part slowly with stirring; make up and filter with talc.\n8. Limitations: alcohol unsuitable for children and some patients; poor masking of salty tastes."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Differentiate liniments and lotions with examples.",
+      "answer": "1. Liniments: liquid or semi-liquid preparations applied to skin with friction (rubbing).\n2. Lotions: liquid preparations applied without friction, dabbed with cotton or gauze.\n3. Liniments use alcoholic or oily vehicles and act as counter-irritants or rubefacients; not for broken skin. Lotions are cooling, soothing, protective or antiseptic; may be solutions or suspensions.\n4. Examples: turpentine liniment, methyl salicylate liniment; calamine lotion, salicylic acid lotion. Both labelled 'For external use only'."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write notes on gargles and mouthwashes.",
+      "answer": "1. Gargles: aqueous solutions used to treat or rinse the throat; held in the throat and spat out, not swallowed.\n2. Usually supplied concentrated and diluted with warm water before use; e.g. povidone-iodine gargle, phenol gargle.\n3. Mouthwashes: aqueous solutions for cleansing, deodorant and antiseptic action on mouth and gums.\n4. Examples: compound sodium chloride mouthwash, chlorhexidine mouthwash; label with dilution directions and 'not to be swallowed'."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Give the requirements of eye drops.",
+      "answer": "1. Sterile (prepared aseptically or sterilised); free from particles.\n2. Isotonic with tears and buffered to a comfortable, stable pH.\n3. Multidose containers contain a preservative (benzalkonium chloride, chlorbutol); discard a set period after opening (usually four weeks).\n4. Packed in sterile dropper containers; examples: sodium chloride eye drops, chloramphenicol eye drops."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "What are enemas? Classify them with examples.",
+      "answer": "1. Enemas are liquid preparations given rectally.\n2. Evacuant enemas empty the bowel: soap enema, oil enema, phosphate enema.\n3. Retention enemas are held in the rectum for medicated, nutritive or sedative effect, e.g. arachis oil retention enema.\n4. Warm to body temperature before use; packed in single-use disposable containers with a nozzle."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain maceration and percolation used for tinctures.",
+      "answer": "1. Tinctures: alcoholic or hydroalcoholic solutions from vegetable drugs or chemicals (compound benzoin tincture, orange tincture).\n2. Maceration: coarsely powdered drug soaked in menstruum in a closed vessel with frequent shaking (classically 7 days); strain, press the marc, mix and filter; for unorganised drugs.\n3. Percolation: moistened drug packed in a percolator; menstruum flows slowly through and exhausts the drug; for organised and potent drugs.\n4. Percolation extracts completely by fresh solvent; maceration is simpler but may leave drug unextracted."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the concentration of sucrose in Simple Syrup IP?",
+      "answer": "66.7% w/w sucrose."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why are oily nasal drops avoided?",
+      "answer": "Oil reaching the lungs can cause lipid pneumonia, and oily drops impair ciliary movement."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define ointment. Give the ideal properties and classification of ointment bases with examples. Describe the general methods of preparation of ointments.",
+      "answer": "1. Ointment: soft semisolid for external application to skin or mucous membranes, with drug dissolved or dispersed in a base.\n2. Ideal base: inert, non-irritant, non-sensitising, stable, compatible, easy to apply and remove, releases drug, smooth, odourless, does not support microbial growth.\n3. Oleaginous (hydrocarbon): soft, hard and liquid paraffin, plastibase – greasy, occlusive, not washable.\n4. Absorption bases: anhydrous (wool fat, wool alcohols, beeswax, hydrophilic petrolatum) and W/O emulsions (hydrous wool fat, cold cream) – take up water.\n5. Water-removable: emulsifying ointment, cetrimide and cetomacrogol emulsifying ointments – form O/W, washable. Water-soluble: polyethylene glycols (macrogols).\n6. Trituration (incorporation): finely powdered drug levigated on a slab with a little base or liquid paraffin, then rest of base added by geometric dilution.\n7. Fusion: melt ingredients on a water bath in decreasing order of melting point, add drug, stir until cold; volatile ingredients added at low temperature.\n8. Chemical reaction (non-staining iodine ointment) and emulsification (creams); pack in collapsible tubes or jars, label 'For external use only'."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define suppositories. Give the properties of an ideal suppository base, types of bases and the fusion method of preparation.",
+      "answer": "1. Suppositories: solid dosage forms of various shapes inserted into a body orifice (rectum) where they melt, soften or dissolve; pessaries (vaginal), bougies (urethral).\n2. Ideal base: melts at body temperature or dissolves in body fluids; solid at room temperature; non-toxic, non-irritant; compatible and releases drug; contracts on cooling; stable, no polymorphism problems; narrow melting–setting range; enough viscosity to keep powders suspended.\n3. Fatty bases: theobroma oil (melts about 30–35 °C, polymorphic – melt gently), synthetic hard fats (hydrogenated oils).\n4. Water-soluble/miscible: glycero-gelatin (hygroscopic, laxative, needs preservative, mould lubricated with liquid paraffin); polyethylene glycols (dissolve, heat-stable).\n5. Emulsifying bases: fats with emulsifiers.\n6. Fusion method: calibrate mould; calculate base with displacement value; melt base gently on a water bath.\n7. Disperse finely powdered drug in part of the melted base, add rest, stir; pour into lubricated mould near setting point, slightly overfilling; cool, trim, remove.\n8. Wrap in foil, store cool, label 'For rectal use only'; other methods: hand rolling, cold compression."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "medium",
+      "question": "Define displacement value. How is it used in suppository preparation? Calculate the base needed for 10 suppositories each containing 200 mg of a drug (DV 1.5) in a 1 g mould.",
+      "answer": "1. Displacement value: the number of parts by weight of drug that displace 1 part by weight of base (usually theobroma oil).\n2. Need: drug and base have different densities, so the weight of base replaced is not equal to the weight of drug; ignoring this gives wrong dose and size.\n3. Formula: base needed = N × E − (total drug/DV), N = number of suppositories, E = mould capacity with base.\n4. Calculation: N × E = 10 × 1.0 = 10.0 g; drug = 10 × 0.2 = 2.0 g; base displaced = 2.0/1.5 = 1.33 g.\n5. Base needed = 10.0 − 1.33 = 8.67 g; in practice calculate for a few extra suppositories to allow loss.\n6. Finding DV: make blank and medicated batches; DV = weight of drug in medicated batch ÷ (weight of blank batch − weight of base in medicated batch).\n7. Example: 6 blanks 6.0 g; 6 medicated with 40% drug weigh 7.2 g → drug 2.88 g, base 4.32 g, displaced 1.68 g, DV = 1.71.\n8. For glycero-gelatin in a theobroma-oil-calibrated mould, multiply base weight by about 1.2."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Differentiate ointments, creams, pastes and gels.",
+      "answer": "1. Ointment: soft greasy (or non-greasy) semisolid of drug in a base; e.g. sulphur ointment.\n2. Cream: semisolid emulsion, O/W (vanishing, washable) or W/O (cold cream, emollient).\n3. Paste: stiff semisolid with a large proportion of fine powder; less greasy, protective, absorbs exudate; e.g. compound zinc paste.\n4. Gel: liquid held in a three-dimensional polymer network; clear, non-greasy; e.g. carbomer gel."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Give the advantages and disadvantages of suppositories.",
+      "answer": "1. Advantages: useful when patient is vomiting, unconscious or cannot swallow; for children.\n2. Drugs irritant to or destroyed in the stomach can be given; partly avoid first-pass metabolism; local action in rectum or vagina.\n3. Disadvantages: patient dislike; slow and irregular absorption; local irritation; leakage.\n4. May melt in hot weather, so need cool storage."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Describe the preparation of creams and gels.",
+      "answer": "1. Creams: heat oil phase (oils, waxes, emulsifier) and aqueous phase (water, water-soluble ingredients, preservative) separately to about 70–75 °C.\n2. Add internal phase to external phase with continuous stirring; stir until the cream sets on cooling; add perfume and volatile drugs below about 40 °C.\n3. Gels: sprinkle gelling agent on vehicle with stirring, let it hydrate; add drug, preservative and humectant.\n4. For carbomer, add triethanolamine to neutralise and thicken; remove air bubbles; fill into tubes."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Compare theobroma oil and glycero-gelatin as suppository bases.",
+      "answer": "1. Theobroma oil: fatty base; melts at about 30–35 °C; glycero-gelatin: water-miscible; dissolves in body fluids.\n2. Theobroma oil shows polymorphism and must be melted gently; may go rancid. Glycero-gelatin is hygroscopic, may irritate and has a laxative effect; needs a preservative.\n3. Theobroma oil contracts on cooling and seldom needs a lubricant (soap spirit if needed); glycero-gelatin needs an oily lubricant such as liquid paraffin.\n4. Glycero-gelatin suits vaginal pessaries; it is denser, so about 1.2 × the theobroma-oil weight is used."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "List the excipients used in semisolid dosage forms with their functions.",
+      "answer": "1. Bases: carry the drug (soft paraffin, wool fat, emulsifying ointment, PEG).\n2. Emulsifiers and gelling agents: emulsifying wax, polysorbates; carbomer, HPMC, sodium CMC.\n3. Humectants (glycerin, propylene glycol), preservatives (parabens, chlorocresol), antioxidants (BHA, tocopherol).\n4. Penetration enhancers (propylene glycol, surfactants), neutralisers (triethanolamine), buffers and perfumes."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define displacement value.",
+      "answer": "The number of parts by weight of a drug that displaces one part by weight of the suppository base."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a pessary?",
+      "answer": "A suppository meant for insertion into the vagina."
+    }
+  ]
+}
