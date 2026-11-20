@@ -1,0 +1,1054 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The relation A = 2 − log %T connects absorbance with:",
+      "options": [
+        "Percentage transmittance",
+        "Molar absorptivity",
+        "Path length",
+        "Wavelength"
+      ],
+      "correct": 0,
+      "explanation": "A = −log T = log 100 − log %T = 2 − log %T.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which transition is weak and shows a blue shift in polar protic solvents?",
+      "options": [
+        "π → π*",
+        "σ → σ*",
+        "d → d",
+        "n → π*"
+      ],
+      "correct": 3,
+      "explanation": "Hydrogen bonding stabilises the lone pair, widening the n → π* gap.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Quartz cells are needed below about:",
+      "options": [
+        "600 nm",
+        "800 nm",
+        "350 nm",
+        "1000 nm"
+      ],
+      "correct": 2,
+      "explanation": "Glass and plastic absorb UV; quartz is transparent down to about 190 nm.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Stray light in a spectrophotometer causes:",
+      "options": [
+        "Positive deviation at low absorbance",
+        "Negative deviation from Beer's law at high absorbance",
+        "No effect on absorbance",
+        "A shift of λmax"
+      ],
+      "correct": 1,
+      "explanation": "Unabsorbed stray light reaching the detector makes measured absorbance too low at high A.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The number of fundamental vibrations of CO2 is:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "Linear molecule: 3N − 5 = 3 × 3 − 5 = 4.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Conjugation of a carbonyl group with a C=C bond shifts the C=O stretching band to:",
+      "options": [
+        "Lower wavenumber",
+        "Higher wavenumber",
+        "No change",
+        "The fingerprint region below 1000 cm⁻¹"
+      ],
+      "correct": 0,
+      "explanation": "Resonance lowers C=O bond order and force constant.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The multiplex advantage of FTIR is also called the:",
+      "options": [
+        "Jacquinot advantage",
+        "Connes advantage",
+        "Doppler advantage",
+        "Fellgett advantage"
+      ],
+      "correct": 3,
+      "explanation": "All wavelengths are measured simultaneously, improving signal-to-noise.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "A detector commonly used in FTIR at room temperature is:",
+      "options": [
+        "Photomultiplier tube",
+        "Hollow cathode lamp",
+        "Deuterated triglycine sulphate (DTGS)",
+        "Flame ionisation detector"
+      ],
+      "correct": 2,
+      "explanation": "DTGS is a fast pyroelectric detector; MCT is faster but needs cooling.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "In the Jablonski diagram, fluorescence is emission from:",
+      "options": [
+        "T1 to S0",
+        "S2 to S1 only",
+        "S1 to S0",
+        "S0 to S1"
+      ],
+      "correct": 2,
+      "explanation": "Phosphorescence is T1 → S0; fluorescence is singlet-to-singlet.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Which increases fluorescence intensity?",
+      "options": [
+        "Raising temperature",
+        "Increasing solvent viscosity",
+        "Adding iodide ions",
+        "Introducing a nitro group"
+      ],
+      "correct": 1,
+      "explanation": "Higher viscosity reduces collisional loss of energy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The Stern–Volmer equation describes:",
+      "options": [
+        "Fluorescence quenching",
+        "Beer's law deviation",
+        "Nuclear relaxation",
+        "Chromatographic band broadening"
+      ],
+      "correct": 0,
+      "explanation": "F0/F = 1 + K_SV[Q].",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "The radiation source in atomic absorption spectroscopy is the:",
+      "options": [
+        "Deuterium lamp alone",
+        "Nernst glower",
+        "Globar",
+        "Hollow cathode lamp"
+      ],
+      "correct": 3,
+      "explanation": "It emits sharp lines of the element being measured.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m13",
+      "unit": 1,
+      "question": "Lanthanum chloride is added in the AAS determination of calcium to:",
+      "options": [
+        "Suppress ionisation of calcium",
+        "Increase flame temperature",
+        "Correct background absorption",
+        "Release calcium from phosphate interference"
+      ],
+      "correct": 3,
+      "explanation": "La binds phosphate preferentially, releasing Ca atoms.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m14",
+      "unit": 1,
+      "question": "The sodium emission line used in flame photometry is at about:",
+      "options": [
+        "766 nm",
+        "671 nm",
+        "589 nm",
+        "422 nm"
+      ],
+      "correct": 2,
+      "explanation": "K is 766.5 nm and Li 670.8 nm.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m15",
+      "unit": 1,
+      "question": "Potassium dichromate solution in dilute sulphuric acid is used to check a UV spectrophotometer's:",
+      "options": [
+        "Wavelength accuracy",
+        "Absorbance accuracy",
+        "Resolution",
+        "Stray light"
+      ],
+      "correct": 1,
+      "explanation": "Holmium oxide checks wavelength, KCl stray light, toluene in hexane resolution.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Which nucleus has spin quantum number I = 0?",
+      "options": [
+        "¹²C",
+        "¹H",
+        "¹³C",
+        "¹⁹F"
+      ],
+      "correct": 0,
+      "explanation": "Even mass number and even atomic number give I = 0.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "For a nucleus of spin I, the number of possible orientations in a magnetic field is:",
+      "options": [
+        "2I + 1",
+        "I + 1",
+        "2I",
+        "I²"
+      ],
+      "correct": 0,
+      "explanation": "For ¹H (I = 1/2) there are two states.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "At 9.4 T, protons resonate at about:",
+      "options": [
+        "60 MHz",
+        "100 MHz",
+        "900 MHz",
+        "400 MHz"
+      ],
+      "correct": 3,
+      "explanation": "ν0 = γB0/2π; ¹³C resonates near 100 MHz at the same field.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Line width in NMR is mainly governed by:",
+      "options": [
+        "Spin–lattice relaxation time T1 only",
+        "Sample spinning rate",
+        "Spin–spin relaxation time T2",
+        "Reference compound"
+      ],
+      "correct": 2,
+      "explanation": "Line width ≈ 1/πT2; short T2 gives broad lines.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "A signal 600 Hz downfield of TMS on a 300 MHz instrument has δ:",
+      "options": [
+        "0.5 ppm",
+        "2.0 ppm",
+        "6.0 ppm",
+        "1.8 ppm"
+      ],
+      "correct": 1,
+      "explanation": "δ = 600/300 = 2.0 ppm.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The acetylenic proton appears at only 2–3 ppm because of:",
+      "options": [
+        "Hydrogen bonding",
+        "Shielding by the cylindrical π-electron cloud (anisotropy)",
+        "Strong inductive deshielding",
+        "Fast chemical exchange"
+      ],
+      "correct": 1,
+      "explanation": "Induced current around the triple bond shields protons along its axis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The CH3 signal of an ethyl group (–CH2CH3) appears as a:",
+      "options": [
+        "Triplet",
+        "Quartet",
+        "Doublet",
+        "Singlet"
+      ],
+      "correct": 0,
+      "explanation": "Two neighbouring CH2 protons give n + 1 = 3 lines.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A coupling constant of about 15 Hz between two vinylic protons suggests a:",
+      "options": [
+        "Cis double bond",
+        "Geminal relationship",
+        "Para aromatic relationship",
+        "Trans double bond"
+      ],
+      "correct": 3,
+      "explanation": "Trans 12–18 Hz; cis 6–12 Hz.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The deuterium signal of the solvent is used for the:",
+      "options": [
+        "Chemical shift reference",
+        "Spin decoupling",
+        "Field-frequency lock",
+        "Integration"
+      ],
+      "correct": 2,
+      "explanation": "The lock corrects field drift continuously.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "In a DEPT-135 spectrum, CH2 carbons appear:",
+      "options": [
+        "As positive peaks",
+        "Not at all",
+        "As negative (inverted) peaks",
+        "Only as doublets"
+      ],
+      "correct": 2,
+      "explanation": "CH and CH3 are positive; quaternary carbons are absent.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "The nuclear Overhauser effect gives information about:",
+      "options": [
+        "Number of bonds only",
+        "Nuclei close in space",
+        "Molecular mass",
+        "Crystal lattice spacing"
+      ],
+      "correct": 1,
+      "explanation": "NOE depends on through-space distance, roughly r⁻⁶.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Signal-to-noise in FT-NMR increases with the number of scans n as:",
+      "options": [
+        "√n",
+        "n",
+        "n²",
+        "log n"
+      ],
+      "correct": 0,
+      "explanation": "Noise averages randomly, signal adds coherently.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Standard electron impact ionisation uses electrons of:",
+      "options": [
+        "7 eV",
+        "700 eV",
+        "7 keV",
+        "70 eV"
+      ],
+      "correct": 3,
+      "explanation": "Gives reproducible, library-searchable spectra.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "A compound with molecular ion at m/z 93 most likely contains:",
+      "options": [
+        "No nitrogen",
+        "Two nitrogen atoms",
+        "A chlorine atom",
+        "An odd number of nitrogen atoms"
+      ],
+      "correct": 3,
+      "explanation": "Nitrogen rule: odd mass → odd N (aniline, M = 93).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "An M : M+2 ratio of about 3 : 1 indicates the presence of:",
+      "options": [
+        "One bromine atom",
+        "Two bromine atoms",
+        "One chlorine atom",
+        "One sulphur atom"
+      ],
+      "correct": 2,
+      "explanation": "³⁵Cl : ³⁷Cl ≈ 3 : 1; Br gives 1 : 1.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The peak at m/z 91 in alkylbenzenes is due to the:",
+      "options": [
+        "Phenyl ion",
+        "Tropylium ion",
+        "Benzoyl ion",
+        "Allyl ion"
+      ],
+      "correct": 1,
+      "explanation": "Benzyl cation rearranges to the stable C7H7⁺ tropylium ion.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "A metastable peak for the transition m/z 105 → 77 appears at about:",
+      "options": [
+        "56.5",
+        "28",
+        "77",
+        "182"
+      ],
+      "correct": 0,
+      "explanation": "m* = 77²/105 = 56.5.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Multiply charged ions of proteins are typical of:",
+      "options": [
+        "Electrospray ionisation",
+        "Electron impact",
+        "Field ionisation",
+        "Chemical ionisation"
+      ],
+      "correct": 0,
+      "explanation": "ESI produces [M+nH]ⁿ⁺ ions.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The ionisation method that uses a corona discharge needle is:",
+      "options": [
+        "ESI",
+        "MALDI",
+        "FAB",
+        "APCI"
+      ],
+      "correct": 3,
+      "explanation": "APCI ionises vaporised solvent with a corona discharge.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Sinapinic acid and α-cyano-4-hydroxycinnamic acid are used as matrices in:",
+      "options": [
+        "FAB",
+        "APPI",
+        "MALDI",
+        "Electron impact"
+      ],
+      "correct": 2,
+      "explanation": "They absorb the UV laser energy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "In a time-of-flight analyser, flight time is proportional to:",
+      "options": [
+        "m/z",
+        "√(m/z)",
+        "(m/z)²",
+        "1/(m/z)"
+      ],
+      "correct": 1,
+      "explanation": "t = L√(m/2zeV).",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Multiple reaction monitoring is performed on a:",
+      "options": [
+        "Single magnetic sector",
+        "Triple quadrupole",
+        "Faraday cup",
+        "Photodiode array"
+      ],
+      "correct": 1,
+      "explanation": "Q1 selects precursor, q2 fragments, Q3 selects product.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "A McLafferty rearrangement requires:",
+      "options": [
+        "A γ-hydrogen relative to the carbonyl group",
+        "An aromatic ring",
+        "A halogen atom",
+        "An even number of nitrogen atoms"
+      ],
+      "correct": 0,
+      "explanation": "The γ-H transfers through a six-membered transition state.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "A dopant such as toluene is used in:",
+      "options": [
+        "ESI",
+        "EI",
+        "FAB",
+        "APPI"
+      ],
+      "correct": 3,
+      "explanation": "The dopant is photoionised and then ionises the analyte.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Resolution of 1.5 between two peaks means:",
+      "options": [
+        "Complete co-elution",
+        "Half overlap",
+        "Baseline separation",
+        "Peak tailing"
+      ],
+      "correct": 2,
+      "explanation": "Rs ≥ 1.5 gives essentially baseline separation.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The capacity (retention) factor k is calculated as:",
+      "options": [
+        "tR/W",
+        "16(tR/W)²",
+        "(tR − t0)/t0",
+        "k2/k1"
+      ],
+      "correct": 2,
+      "explanation": "k is the time in the stationary phase relative to the mobile phase.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In the van Deemter equation, the B term represents:",
+      "options": [
+        "Eddy diffusion",
+        "Longitudinal diffusion",
+        "Mass transfer resistance",
+        "Extra-column volume"
+      ],
+      "correct": 1,
+      "explanation": "B/u dominates at low flow rates.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The most commonly used HPLC mode in pharmaceutical analysis is:",
+      "options": [
+        "Reversed phase with a C18 column",
+        "Normal phase on silica",
+        "Size exclusion",
+        "Affinity"
+      ],
+      "correct": 0,
+      "explanation": "About 80% of methods use RP-HPLC.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "A universal HPLC detector that cannot be used with gradient elution is the:",
+      "options": [
+        "Photodiode array detector",
+        "Fluorescence detector",
+        "Mass spectrometer",
+        "Refractive index detector"
+      ],
+      "correct": 3,
+      "explanation": "RI baseline changes with mobile phase composition.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The detector of choice for residual solvent analysis by GC is the:",
+      "options": [
+        "Electron capture detector",
+        "UV detector",
+        "Refractive index detector",
+        "Flame ionisation detector"
+      ],
+      "correct": 3,
+      "explanation": "FID responds to almost all organic solvents (headspace GC-FID).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The electron capture detector is most sensitive to:",
+      "options": [
+        "Hydrocarbons",
+        "Water",
+        "Halogenated compounds",
+        "Carbon dioxide"
+      ],
+      "correct": 2,
+      "explanation": "Electronegative atoms capture electrons from the ⁶³Ni source.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Silylation with BSTFA before GC is done to:",
+      "options": [
+        "Increase polarity",
+        "Increase volatility and thermal stability",
+        "Add a chromophore for UV",
+        "Ionise the analyte"
+      ],
+      "correct": 1,
+      "explanation": "Replaces active hydrogens of –OH, –NH, –COOH.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "A sulphonic acid resin is a:",
+      "options": [
+        "Strong acid cation exchanger",
+        "Weak acid cation exchanger",
+        "Strong base anion exchanger",
+        "Weak base anion exchanger"
+      ],
+      "correct": 0,
+      "explanation": "–SO3H is ionised at almost all pH values.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Protein A is used as an affinity ligand for:",
+      "options": [
+        "IgG antibodies",
+        "Histidine-tagged proteins",
+        "Glycoproteins",
+        "mRNA"
+      ],
+      "correct": 0,
+      "explanation": "Protein A binds the Fc region of IgG.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "His-tagged recombinant proteins are purified using:",
+      "options": [
+        "Concanavalin A",
+        "Oligo(dT) cellulose",
+        "Cibacron blue",
+        "Immobilised metal affinity chromatography with Ni²⁺"
+      ],
+      "correct": 3,
+      "explanation": "Histidine binds Ni²⁺; elution with imidazole.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Paper chromatography separates mainly by:",
+      "options": [
+        "Adsorption",
+        "Ion exchange",
+        "Partition",
+        "Size exclusion"
+      ],
+      "correct": 2,
+      "explanation": "Water bound to cellulose is the stationary phase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m13",
+      "unit": 4,
+      "question": "The fluorescent indicator in silica gel GF254 makes UV-absorbing spots appear:",
+      "options": [
+        "Bright on a dark background",
+        "Dark on a green fluorescent background",
+        "Red under daylight",
+        "Invisible"
+      ],
+      "correct": 1,
+      "explanation": "The spots quench the indicator's fluorescence at 254 nm.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Electrophoretic mobility is:",
+      "options": [
+        "Directly proportional to size",
+        "Directly proportional to charge and inversely to size",
+        "Independent of viscosity",
+        "Independent of charge"
+      ],
+      "correct": 1,
+      "explanation": "µ = q/6πηr.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "In SDS-PAGE proteins are separated mainly by:",
+      "options": [
+        "Molecular weight",
+        "Isoelectric point",
+        "Native charge",
+        "Hydrophobicity"
+      ],
+      "correct": 0,
+      "explanation": "SDS gives uniform charge-to-mass ratio.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The catalyst used with ammonium persulphate for polymerising polyacrylamide gels is:",
+      "options": [
+        "SDS",
+        "Glycine",
+        "EDTA",
+        "TEMED"
+      ],
+      "correct": 3,
+      "explanation": "TEMED accelerates free-radical formation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "In isoelectric focusing a protein stops where:",
+      "options": [
+        "pH equals 7",
+        "Its molecular weight is lowest",
+        "pH equals its pI",
+        "Field strength is zero"
+      ],
+      "correct": 2,
+      "explanation": "At pI the net charge is zero.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The moving boundary method was developed by:",
+      "options": [
+        "Bragg",
+        "Laue",
+        "Tiselius",
+        "Yalow"
+      ],
+      "correct": 2,
+      "explanation": "Tiselius apparatus uses free solution in a U-tube.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Neutral molecules can be separated by capillary electrophoresis using:",
+      "options": [
+        "Capillary zone electrophoresis alone",
+        "Micellar electrokinetic chromatography",
+        "Moving boundary electrophoresis",
+        "Paper electrophoresis"
+      ],
+      "correct": 1,
+      "explanation": "SDS micelles act as a pseudo-stationary phase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Bragg's law is:",
+      "options": [
+        "nλ = 2d sin θ",
+        "nλ = d sin θ",
+        "λ = 2d cos θ",
+        "nλ = 2d tan θ"
+      ],
+      "correct": 0,
+      "explanation": "Constructive interference from planes of spacing d.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The wavelength of Cu Kα radiation is about:",
+      "options": [
+        "0.71 Å",
+        "15.4 Å",
+        "154 nm",
+        "1.54 Å"
+      ],
+      "correct": 3,
+      "explanation": "Mo Kα is about 0.71 Å.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The Kβ line of copper radiation is removed by a filter of:",
+      "options": [
+        "Copper",
+        "Lead",
+        "Aluminium oxide",
+        "Nickel"
+      ],
+      "correct": 3,
+      "explanation": "Ni absorption edge lies between Cu Kα and Kβ.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "An amorphous solid dispersion in PXRD shows:",
+      "options": [
+        "Sharp intense peaks",
+        "A single line at 2θ = 0",
+        "A broad halo without sharp peaks",
+        "Peaks identical to the crystalline drug"
+      ],
+      "correct": 2,
+      "explanation": "No long-range order, so no Bragg peaks.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "The Laue method uses:",
+      "options": [
+        "Monochromatic radiation and powder",
+        "White X-radiation and a stationary crystal",
+        "Monochromatic radiation and a rotating crystal",
+        "Neutrons"
+      ],
+      "correct": 1,
+      "explanation": "Different wavelengths satisfy Bragg's law for different planes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Paracetamol form I belongs to the crystal system:",
+      "options": [
+        "Monoclinic",
+        "Cubic",
+        "Hexagonal",
+        "Triclinic"
+      ],
+      "correct": 0,
+      "explanation": "Form II is orthorhombic.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "In competitive RIA, as the concentration of analyte increases the bound radioactivity:",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Remains constant",
+        "First increases then decreases"
+      ],
+      "correct": 0,
+      "explanation": "Unlabelled antigen displaces labelled antigen from limited antibody.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "The isotope most commonly used to label antigens in RIA is:",
+      "options": [
+        "³²P",
+        "⁹⁹ᵐTc",
+        "⁶⁰Co",
+        "¹²⁵I"
+      ],
+      "correct": 3,
+      "explanation": "Gamma emitter, easily attached to tyrosine.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "RIA was first developed for measuring:",
+      "options": [
+        "Digoxin",
+        "Cortisol",
+        "Insulin",
+        "hCG"
+      ],
+      "correct": 2,
+      "explanation": "Yalow and Berson's work on insulin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "In sandwich ELISA the signal is:",
+      "options": [
+        "Inversely proportional to antigen concentration",
+        "Directly proportional to antigen concentration",
+        "Independent of antigen",
+        "Proportional to the square of antigen"
+      ],
+      "correct": 1,
+      "explanation": "More antigen captures more labelled detection antibody.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "TMB substrate with HRP is read after acid stop at:",
+      "options": [
+        "405 nm",
+        "450 nm",
+        "340 nm",
+        "560 nm"
+      ],
+      "correct": 1,
+      "explanation": "The acid turns the blue product yellow.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "Indirect ELISA is mainly used to detect:",
+      "options": [
+        "Antibodies in serum",
+        "Small drug molecules",
+        "ATP",
+        "Nucleic acids"
+      ],
+      "correct": 0,
+      "explanation": "A labelled anti-species secondary antibody detects bound primary antibodies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Small molecules such as drugs are measured by competitive immunoassay because they:",
+      "options": [
+        "Are always radioactive",
+        "Cannot be labelled",
+        "Are too large",
+        "Have only one epitope"
+      ],
+      "correct": 3,
+      "explanation": "Two antibodies cannot bind a hapten simultaneously.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "EMIT is an example of:",
+      "options": [
+        "Heterogeneous sandwich ELISA",
+        "Radioimmunoassay",
+        "Homogeneous enzyme immunoassay",
+        "Bioluminescence assay"
+      ],
+      "correct": 2,
+      "explanation": "No separation step; enzyme activity changes on antibody binding.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "Firefly luciferase requires which cofactor to produce light from luciferin?",
+      "options": [
+        "NADH",
+        "FAD",
+        "ATP",
+        "GTP"
+      ],
+      "correct": 2,
+      "explanation": "Light output is proportional to ATP.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "Bioluminescence assays have low background mainly because:",
+      "options": [
+        "They use radioactivity",
+        "No excitation light is needed",
+        "They are read at 90°",
+        "They need no enzyme"
+      ],
+      "correct": 1,
+      "explanation": "Light comes only from the reaction itself.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m11",
+      "unit": 6,
+      "question": "A molecule raised as a hapten must be coupled to:",
+      "options": [
+        "A carrier protein",
+        "A radioisotope",
+        "Luciferin",
+        "A metal ion"
+      ],
+      "correct": 0,
+      "explanation": "BSA or KLH make the hapten immunogenic.",
+      "probability": "low"
+    }
+  ]
+}

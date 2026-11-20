@@ -1,0 +1,653 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the M.Pharm syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Derive the Beer–Lambert law. Discuss the deviations from Beer's law and explain how each can be minimised in pharmaceutical analysis.",
+      "answer": "1. Lambert's law: each thin layer absorbs the same fraction of incident light: −dI/db = k1 I → ln(I0/I) = k1 b.\n2. Beer's law: absorption proportional to number of absorbing molecules: −dI/dc = k2 I → ln(I0/I) = k2 c.\n3. Combined: log(I0/I) = A = εbc; T = I/I0; A = −log T = 2 − log %T; ε in L mol⁻¹ cm⁻¹; A(1%, 1 cm) for c in g/100 mL; ε = A(1%,1 cm) × M/10.\n4. Real deviations: above about 0.01 M solute–solute interactions and refractive index changes alter ε → dilute samples.\n5. Chemical deviations: association, dissociation, complexation, polymerisation, acid–base equilibria (dichromate/chromate, indicators) → buffer the solution, measure at isosbestic point.\n6. Instrumental deviations: polychromatic radiation (measure at λmax where the band is flat, narrow slit), stray light (negative deviation at high A), mismatched cells, detector non-linearity, high noise at very low/high A → keep A about 0.2–0.8.\n7. Additivity of absorbance allows multicomponent analysis.\n8. Example: paracetamol A(1%,1 cm) 715 at 257 nm; A = 0.572 → 0.0008 g/100 mL = 8 µg/mL.\n9. Applications: assay, dissolution, content uniformity, complexation studies."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the modes of molecular vibration and the factors affecting vibrational frequencies in IR spectroscopy. Compare dispersive and FTIR instruments.",
+      "answer": "1. Hooke's law: ν̄ = (1/2πc)√(k/µ); stronger bonds and lighter atoms vibrate at higher wavenumber. IR active only if dipole moment changes.\n2. Number of fundamentals: 3N − 6 (non-linear), 3N − 5 (linear); H2O 3, CO2 4.\n3. Stretching: symmetric and asymmetric (higher energy). Bending: in-plane (scissoring, rocking) and out-of-plane (wagging, twisting).\n4. Factors: bond order and atomic mass; coupled vibrations (CH2, anhydride doublet); inductive effect raises C=O (acid chloride ~1800 cm⁻¹); conjugation/resonance lowers C=O (aryl ketone ~1690, amide ~1650); hydrogen bonding lowers and broadens O–H (intermolecular changes with dilution, intramolecular does not); ring strain raises C=O (cyclobutanone ~1780); Fermi resonance (aldehyde C–H doublet); physical state and solvent.\n5. Dispersive: Nernst glower/globar source, double beam with chopper, grating monochromator, thermocouple/Golay detector, optical null, slow scanning, slits limit energy.\n6. FTIR: Michelson interferometer (beam splitter, fixed and moving mirror, He–Ne laser reference), interferogram → Fourier transform, DTGS/MCT detector.\n7. FTIR advantages: Fellgett (multiplex) – all wavelengths at once, better S/N by co-adding; Jacquinot (throughput) – no slits; Connes – precise wavenumbers; fast, suits ATR and hyphenation.\n8. Applications: identification (fingerprint), polymorphs, drug–excipient compatibility."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the theory of fluorescence with a Jablonski diagram. Discuss the factors affecting fluorescence, quenching and the instrumentation of a spectrofluorimeter.",
+      "answer": "1. Absorption S0 → S1/S2, vibrational relaxation and internal conversion to lowest S1 level.\n2. Fluorescence: S1 → S0 emission in 10⁻⁹–10⁻⁷ s; phosphorescence: intersystem crossing to T1, slow T1 → S0 emission.\n3. Stokes shift (emission at longer λ); quantum yield Φ = photons emitted/absorbed.\n4. F = KΦI0(1 − 10^−εbc) ≈ 2.303KΦI0εbc for A < 0.05: linear at low concentration.\n5. Factors: rigid planar conjugated structure; electron-donating groups enhance, –NO2, –COOH reduce; heavy atoms reduce (intersystem crossing); temperature (higher lowers); viscosity (higher raises); pH (ionised forms differ; quinine in H2SO4); dissolved oxygen; concentration (self-quenching, inner-filter effect); photodecomposition; Raman/Rayleigh scatter.\n6. Quenching: dynamic/collisional (halides, O2; lifetime falls), static (ground-state complex), self-quenching, energy transfer (FRET). Stern–Volmer F0/F = 1 + K_SV[Q].\n7. Instrument: xenon arc lamp → excitation monochromator → quartz cell (4 clear faces) → emission monochromator at 90° → PMT → readout; filter fluorimeter uses filters.\n8. Applications: quinine, riboflavin, thiamine (thiochrome), derivatised amines (dansyl chloride, OPA), HPLC detectors, protein binding, CMC with pyrene, liposome release."
+    },
+    {
+      "id": "u1-l04",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Compare flame emission spectroscopy and atomic absorption spectroscopy with respect to principle, instrumentation, interferences and applications.",
+      "answer": "1. Common steps: nebulisation → desolvation → vaporisation → atomisation in flame.\n2. FES principle: thermally excited atoms emit characteristic lines on returning to ground state; intensity ∝ concentration; depends strongly on flame temperature (Boltzmann: only a tiny fraction excited).\n3. AAS principle: ground-state atoms absorb resonance line from a hollow cathode lamp; A ∝ concentration; less temperature-dependent; about 70 elements.\n4. FES instrument: burner (air–propane), filter/monochromator, photocell/PMT. Na 589 nm, K 766.5 nm, Li 670.8 nm.\n5. AAS instrument: hollow cathode lamp of the analyte element (Ne/Ar filled, sputtering), chopper and lock-in amplifier to reject flame emission, slot burner (air–acetylene ~2300 °C, N2O–acetylene for refractory elements), grating monochromator, PMT; graphite furnace for µg/L levels; hydride generation (As, Se) and cold vapour (Hg); D2 lamp or Zeeman background correction.\n6. Interferences: spectral (overlap, background – correction), chemical (Ca–phosphate – La/Sr releasing agents, EDTA protective agents, hotter flame), ionisation (add Cs/K suppressor), physical/matrix (matrix-matched standards, standard addition, internal standard Li), self-absorption in FES.\n7. Applications: FES – Na, K in IV fluids, ORS, dialysis solutions, serum; AAS – Pb, Cd, As, Hg in raw materials and herbals, Zn in insulin, Ca, Mg, Fe in formulations, Pd/Pt catalyst residues, elemental impurities (ICH Q3D)."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the effect of solvent on UV absorption spectra. List the requirements of a solvent for UV spectroscopy.",
+      "answer": "1. π→π*: excited state more polar, stabilised more by polar solvent → bathochromic (red) shift.\n2. n→π*: lone pair hydrogen-bonded in polar protic solvent, ground state stabilised → hypsochromic (blue) shift; used to identify transition type.\n3. Polar solvents blur vibrational fine structure (benzene B band).\n4. pH alters spectra of ionisable drugs (phenol → phenoxide red shift; aniline → anilinium blue shift).\n5. Requirements: transparent at working λ (cut-off: water/acetonitrile ~190, methanol ~205, chloroform ~245, acetone ~330 nm), dissolves drug, inert, spectroscopic grade, non-volatile enough, cheap."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on multicomponent analysis by UV spectrophotometry.",
+      "answer": "1. Based on additivity of absorbance: A(λ) = Σ εᵢbcᵢ.\n2. Simultaneous equations (Vierordt): measure A at λmax of each drug; A1 = ax1 b cx + ay1 b cy; A2 = ax2 b cx + ay2 b cy; solve for cx and cy.\n3. Absorbance ratio (Q-value) method using an isoabsorptive point and λmax of one drug.\n4. Derivative spectrophotometry: zero-crossing technique resolves overlapping bands, removes background.\n5. Difference spectrophotometry: ΔA between two pH values removes excipient interference.\n6. Area under curve and chemometric (PLS, PCR) methods.\n7. Example: paracetamol + ibuprofen tablets; dissolution of combination products."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the sample handling techniques used in IR spectroscopy.",
+      "answer": "1. Solids: KBr pellet (1 mg drug + 100–200 mg dry KBr pressed into disc; watch for moisture bands and polymorph change on grinding); Nujol mull between salt plates (hides C–H bands, use hexachlorobutadiene); cast film.\n2. Liquids: neat thin film between NaCl/KBr plates (keep dry).\n3. Solutions: sealed cells 0.1–1 mm with CCl4, CS2, CHCl3; subtract solvent bands.\n4. Gases: long-path (10 cm or multipass) cells.\n5. ATR: sample pressed on diamond/ZnSe crystal; evanescent wave penetrates a few µm; no preparation; tablets, films, polymers.\n6. Diffuse reflectance (DRIFTS) for powders."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the hollow cathode lamp and the role of the chopper in AAS.",
+      "answer": "1. HCL: glass envelope with quartz window, anode and cup-shaped cathode made of (or lined with) the analyte element, filled with Ne or Ar at low pressure.\n2. Voltage ionises the gas; ions sputter metal atoms from the cathode; atoms are excited and emit the element's own narrow lines.\n3. Lamp lines are narrower than the absorption line of atoms in the flame, so Beer's law applies to atomic absorption.\n4. One lamp per element (multi-element lamps exist); electrodeless discharge lamps for As, Se.\n5. Chopper: rotating sector modulates the lamp beam; the detector amplifier is tuned to this frequency, so continuous emission from the flame itself is rejected and only absorption is measured."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are quenchers? Explain dynamic and static quenching and the Stern–Volmer equation.",
+      "answer": "1. Quenchers reduce fluorescence intensity of a fluorophore.\n2. Dynamic (collisional): quencher collides with excited molecule during its lifetime; lifetime decreases; increases with temperature; e.g. iodide, bromide, chloride on quinine, dissolved O2.\n3. Static: non-fluorescent ground-state complex formed; lifetime of free fluorophore unchanged; decreases at higher temperature.\n4. Self-quenching and inner-filter effect at high concentration; FRET energy transfer.\n5. Stern–Volmer: F0/F = 1 + K_SV[Q] = 1 + kqτ0[Q]; plot F0/F vs [Q] is linear.\n6. Example: F0 100, F 60 at 0.02 M → K_SV = 33.3 L/mol.\n7. Uses: protein–drug binding (tryptophan quenching), halide determination."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about the instrumentation of a double-beam UV-visible spectrophotometer.",
+      "answer": "1. Sources: deuterium lamp (160–380 nm), tungsten–halogen (350–2500 nm), switched at about 340–360 nm.\n2. Monochromator: entrance slit, holographic grating (nλ = d(sin i ± sin r)), exit slit; slit controls bandwidth.\n3. Beam splitter/chopper sends light alternately through reference and sample cells (matched quartz cells, 1 cm).\n4. Detector: photomultiplier tube (or photodiode); ratio I/I0 computed continuously.\n5. Readout: A or %T vs λ.\n6. Advantages: compensates source drift and solvent absorbance; stable baseline for scanning.\n7. Qualification: holmium oxide (wavelength), potassium dichromate (absorbance), KCl (stray light), toluene in hexane (resolution)."
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the interferences in flame photometry and AAS and methods to overcome them.",
+      "answer": "1. Spectral: line overlap, molecular bands, scattering → narrow bandpass, alternative line, background correction (D2, Zeeman, Smith–Hieftje).\n2. Chemical: refractory compounds (Ca with phosphate/sulphate, Al oxides) → releasing agents (La, Sr), protective agents (EDTA, 8-hydroxyquinoline), hotter N2O–acetylene flame.\n3. Ionisation: easily ionised elements in hot flames → ionisation suppressor (Cs, K salts), cooler flame.\n4. Physical/matrix: viscosity, surface tension, solids alter nebulisation → matrix-matched standards, dilution, internal standard (Li), standard addition.\n5. Self-absorption (FES) at high concentration → work in linear range."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the Woodward–Fieser rules in one or two lines.",
+      "answer": "Empirical rules that predict λmax of conjugated dienes and α,β-unsaturated carbonyl compounds by adding fixed increments (extra conjugation, exocyclic double bond, ring residue, substituents) to a base value."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is the detector placed at 90° to the incident beam in a fluorimeter?",
+      "answer": "To avoid transmitted and scattered excitation light reaching the detector, so the weak emission is measured against a dark background, giving high sensitivity."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "How many fundamental vibrations do CO2 and H2O have?",
+      "answer": "CO2 (linear, 3N − 5) has 4; H2O (non-linear, 3N − 6) has 3."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle of NMR spectroscopy with reference to nuclear spin, quantum numbers and the Larmor equation. Describe the instrumentation of an NMR spectrometer and the solvent requirements.",
+      "answer": "1. Nuclei with I ≠ 0 have magnetic moment; I = 0 when mass and atomic numbers are both even (¹²C, ¹⁶O); I = 1/2 for ¹H, ¹³C, ¹⁹F, ³¹P; integer spin for ²H, ¹⁴N (quadrupolar).\n2. In field B0, 2I + 1 orientations (magnetic quantum number m); for ¹H m = +1/2 (lower) and −1/2 (higher).\n3. Nucleus precesses at Larmor frequency ν0 = γB0/2π; ΔE = hγB0/2π; resonance when RF of ν0 is applied (9.4 T → 400 MHz).\n4. Small Boltzmann excess → low sensitivity; saturation if populations equalise.\n5. Instrument: superconducting magnet (liquid He/N2), shim coils, ²H field-frequency lock, probe with RF coil and spinning sample tube, RF transmitter (pulses), receiver, ADC, computer (Fourier transform).\n6. Sample: 2–20 mg in 0.5–0.7 mL deuterated solvent, 5 mm tube, filtered.\n7. Solvent: no protons (deuterated), provides lock, dissolves sample, inert, non-viscous, residual peak not overlapping (CDCl3 7.26, DMSO-d6 2.50, D2O ~4.8).\n8. Reference TMS (0 ppm): 12 equivalent protons, highly shielded, inert, volatile; DSS for aqueous samples."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is chemical shift? Discuss the factors influencing chemical shift with suitable examples.",
+      "answer": "1. Electrons circulating around a nucleus generate an opposing field; B_eff = B0(1 − σ); differently shielded nuclei resonate at different frequencies.\n2. δ (ppm) = [ν(sample) − ν(TMS)]/spectrometer frequency (MHz); field-independent; e.g. 300 Hz at 400 MHz = 0.75 ppm.\n3. Inductive effect: electronegative groups deshield; CH3F 4.26 > CH3Cl 3.05 > CH3Br 2.68 > CH3I 2.16; additive (CHCl3 7.26).\n4. Magnetic anisotropy: aromatic ring current deshields ring protons (7–8 ppm); C=O deshields aldehyde H (9–10); C≡C shields acetylenic H (2–3 ppm).\n5. Hybridisation (sp2 vs sp3).\n6. Hydrogen bonding: deshields OH/NH; intermolecular varies with concentration and temperature, intramolecular does not.\n7. Van der Waals deshielding in crowded molecules.\n8. Exchange of labile protons; D2O exchange removes OH/NH signals.\n9. Solvent effects (ASIS in C6D6), pH.\n10. Lanthanide shift reagents spread overlapping peaks; chiral shift reagents separate enantiomer signals."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain spin–spin coupling and coupling constant. Add notes on nuclear magnetic double resonance and the principles of FT-NMR.",
+      "answer": "1. Spin–spin coupling: neighbouring nuclear spins alter the local field through bonding electrons; signal splits.\n2. n + 1 rule (I = 1/2): n equivalent neighbours give n + 1 lines with Pascal's triangle intensities (doublet 1:1, triplet 1:2:1, quartet 1:3:3:1); general 2nI + 1.\n3. Equivalent protons do not split each other; first-order when Δν/J > ~10, else second-order (roofing, AB patterns).\n4. Coupling constant J (Hz): spacing of lines, independent of field; geminal 10–15, vicinal ~7, trans 12–18, cis 6–12, ortho 6–9, meta 1–3; Karplus relation with dihedral angle.\n5. Double resonance: irradiating one nucleus while observing another; spin decoupling collapses multiplets (identifies neighbours); heteronuclear broadband decoupling in ¹³C; NOE gives through-space proximity (< 5 Å) and enhances ¹³C signals.\n6. FT-NMR: short intense RF pulse excites all nuclei, magnetisation tipped to xy plane, FID recorded, Fourier transform gives spectrum; repeat with relaxation delay; S/N ∝ √scans; enables ¹³C NMR, DEPT and 2D NMR (COSY, HSQC, HMBC, NOESY)."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on relaxation processes in NMR.",
+      "answer": "1. Excited nuclei must return to the lower state for absorption to continue; spontaneous emission negligible at RF.\n2. Spin–lattice (longitudinal, T1): energy transferred to surroundings, restores population difference along z; sets the repetition delay (5 × T1 for quantitative work).\n3. Spin–spin (transverse, T2): exchange of energy between spins, loss of phase coherence in xy plane; T2 ≤ T1; line width ≈ 1/πT2.\n4. Mechanisms: dipole–dipole interaction modulated by tumbling, paramagnetic species, quadrupolar nuclei, chemical exchange.\n5. Solids and viscous solutions: short T2 → broad lines.\n6. Too much RF power or slow relaxation → saturation."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss ¹³C NMR spectroscopy and how it differs from ¹H NMR.",
+      "answer": "1. ¹³C natural abundance 1.1%, γ about 1/4 of ¹H → sensitivity about 1/5700; FT and many scans needed.\n2. Range 0–220 ppm (vs 0–12) → little overlap.\n3. ¹³C–¹³C coupling negligible; broadband proton decoupling gives one singlet per unique carbon; NOE enhances signals.\n4. Intensities not quantitative (NOE, long T1 of quaternary C); inverse-gated decoupling for quantitation.\n5. Multiplicity by off-resonance decoupling or DEPT (DEPT-135: CH, CH3 up, CH2 down; quaternary absent; DEPT-90: only CH).\n6. Typical shifts: alkyl 10–50, C–O 50–90, aromatic/alkene 100–160, ester/acid/amide C=O 160–185, ketone/aldehyde 190–220."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Why is TMS used as a reference in NMR? Name the reference used in D2O.",
+      "answer": "1. 12 chemically equivalent protons → single sharp intense singlet.\n2. Si less electronegative than C → protons highly shielded; signal upfield of almost all organic protons (set as 0 ppm).\n3. Chemically inert, does not associate with the sample.\n4. Volatile (bp about 27 °C), easily removed to recover sample.\n5. Soluble in most organic solvents; ¹³C also used as 0 ppm.\n6. In D2O, water-soluble DSS (sodium 2,2-dimethyl-2-silapentane-5-sulphonate) or TSP is used."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the pharmaceutical applications of NMR spectroscopy.",
+      "answer": "1. Structure elucidation of drugs, intermediates, natural products, metabolites.\n2. Identification of impurities and degradation products (LC–NMR).\n3. Quantitative NMR: purity against an internal standard without drug reference standard.\n4. Stereochemistry: cis/trans by J, NOE for relative configuration, chiral shift reagents for enantiomeric purity.\n5. Formulation: drug–cyclodextrin inclusion (H-3/H-5 shifts, ROESY), drug–excipient and drug–polymer interactions, polymer composition (lactide:glycolide in PLGA), salt stoichiometry, micelles (DOSY).\n6. Solid-state NMR for polymorphs and amorphous dispersions; ¹⁹F and ³¹P NMR; MRI."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the Nuclear Overhauser Effect (NOE) and its uses.",
+      "answer": "1. When one nucleus is saturated by a second RF field, the signal intensity of nuclei close in space (within about 5 Å) changes through dipolar cross-relaxation.\n2. It depends on distance (approx. r⁻⁶), not on bonds.\n3. In ¹³C NMR with proton decoupling, NOE enhances carbon signals (up to about 3×).\n4. NOE difference, NOESY and ROESY give spatial proximity.\n5. Uses: stereochemistry and conformation, cis/trans assignment in rings, proving drug inclusion in cyclodextrin cavity, peptide conformation."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Calculate the chemical shift of a signal appearing 900 Hz downfield from TMS on a 300 MHz spectrometer.",
+      "answer": "δ = 900 Hz / 300 MHz = 3.0 ppm."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the n + 1 rule.",
+      "answer": "A proton with n equivalent neighbouring protons (I = 1/2) gives a signal split into n + 1 lines whose intensities follow Pascal's triangle."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which nuclei are NMR inactive? Give two examples.",
+      "answer": "Nuclei with spin quantum number I = 0, i.e. even mass number and even atomic number, such as ¹²C and ¹⁶O (also ³²S)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the different ionisation techniques used in mass spectrometry. Compare hard and soft ionisation methods.",
+      "answer": "1. EI: electrons from heated filament accelerated to 70 eV hit vapour → M⁺• + fragments; reproducible, library-searchable; molecular ion may be absent; volatile, thermally stable samples; GC–MS.\n2. CI: reagent gas (CH4, isobutane, NH3) ionised, transfers proton → [M+H]⁺, adducts; little fragmentation; confirms molecular mass; negative CI for electronegative compounds.\n3. FI/FD: very high field (10⁷–10⁸ V/cm) at emitter tips; electron removed by tunnelling; mainly M⁺•; FD for non-volatile, labile samples.\n4. FAB: sample in glycerol/3-NBA matrix bombarded by fast Ar/Xe atoms → [M+H]⁺, [M+Na]⁺; peptides, antibiotics; matrix background.\n5. MALDI: analyte in UV-absorbing matrix (sinapinic acid, CHCA, DHB) + pulsed 337 nm laser → singly charged ions; proteins, polymers, imaging; paired with TOF.\n6. ESI: high voltage capillary, Taylor cone, charged droplets, Coulomb explosion → [M+H]⁺, multiply charged proteins; polar drugs; LC–MS; ion suppression.\n7. APCI: heated vaporiser + corona discharge → gas-phase proton transfer; less polar, thermally stable small molecules.\n8. APPI: Kr lamp photons (~10 eV), dopant (toluene); non-polar compounds.\n9. Hard (EI): high internal energy, many fragments, structure information. Soft (CI, FI, FAB, MALDI, ESI, APCI, APPI): little fragmentation, molecular mass; MS/MS supplies fragments."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the rules of mass fragmentation with examples. Write notes on McLafferty rearrangement, metastable ions and isotope peaks.",
+      "answer": "1. Nitrogen rule: odd number of N → odd molecular mass.\n2. Stability of cation governs cleavage: tertiary, allylic, benzylic, acylium, iminium, oxonium ions favoured; Stevenson's rule (charge stays on fragment with lower ionisation energy); even-electron rule.\n3. Loss of small neutrals: 15 (CH3), 18 (H2O), 28 (CO/C2H4), 29, 31, 43, 44 (CO2), 45.\n4. α-cleavage next to heteroatom/carbonyl: acetophenone → m/z 105 (C6H5CO⁺) → 77; amines m/z 30, alcohols m/z 31.\n5. Benzylic cleavage → tropylium m/z 91.\n6. McLafferty: carbonyl with γ-H, six-membered transition state, γ-H to O, β-bond cleaves, alkene lost; butanal m/z 44, methyl esters m/z 74.\n7. Retro-Diels–Alder in cyclohexenes.\n8. Metastable ions: decompose in field-free region after acceleration; broad weak peak at m* = m2²/m1; 105 → 77 gives 56.5; proves one-step pathway.\n9. Isotope peaks: M+1 ≈ 1.1% per C (count carbons); Cl M:M+2 3:1; Br 1:1; Cl2 9:6:1; Br2 1:2:1; S M+2 ~4.4%; molecular formula support."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the instrumentation of a mass spectrometer with special reference to quadrupole and time-of-flight analysers.",
+      "answer": "1. Inlet: batch inlet, direct insertion probe, GC or LC interface.\n2. Ion source: EI, CI, ESI, APCI, MALDI etc.\n3. Analyser under high vacuum (10⁻⁵–10⁻⁷ torr; rotary + turbomolecular pumps) to avoid collisions.\n4. Magnetic sector theory: m/z = B²r²e/2V.\n5. Quadrupole: four parallel rods, DC + RF voltages; only one m/z has stable trajectory; scan U and V at constant ratio; unit resolution, compact, fast; SIM; triple quadrupole (Q1 select, q2 collision cell with Ar/N2 for CID, Q3 select) for MRM quantitation in bioanalysis.\n6. TOF: pulse of ions given same kinetic energy zeV; drift tube; t = L√(m/2zeV) ∝ √(m/z); light ions arrive first; reflectron corrects energy spread → high resolution; unlimited mass range; MALDI-TOF, Q-TOF accurate mass.\n7. Detectors: electron multiplier, Faraday cup, photomultiplier, microchannel plate.\n8. Data system: calibration (PFTBA), libraries, extracted-ion chromatograms."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain electrospray ionisation and its advantages for biomolecules.",
+      "answer": "1. Eluent passes through a metal capillary held at 3–5 kV; Taylor cone forms; charged droplets sprayed.\n2. Nebulising and drying gas (N2) evaporates solvent; droplets shrink to Rayleigh limit and undergo Coulomb fission.\n3. Gas-phase ions formed (ion evaporation / charged residue) → enter vacuum through sampling cone.\n4. Gives [M+H]⁺, [M+Na]⁺, [M−H]⁻; very soft.\n5. Proteins carry many charges [M+nH]ⁿ⁺, so large masses appear at low m/z; deconvolution gives mass.\n6. Coupled directly with LC; needs volatile buffers; ion suppression by matrix.\n7. Uses: drugs, metabolites, peptides, antibodies (intact mass), oligonucleotides."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on MALDI.",
+      "answer": "1. Analyte mixed with excess UV-absorbing matrix (sinapinic acid, CHCA, DHB) and dried on a target plate.\n2. Pulsed UV laser (N2 337 nm) irradiates; matrix absorbs energy, sublimes explosively, carries analyte into gas phase and protonates it.\n3. Mainly singly charged [M+H]⁺; little fragmentation.\n4. Pulsed source → coupled with TOF analyser.\n5. Mass range > 100 kDa; tolerant of salts; fast.\n6. Uses: proteins, peptide mass fingerprinting, polymers (PEG, PLGA MW distribution), microbial identification, imaging MS."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain metastable ions and their significance.",
+      "answer": "1. Ions formed with energy just enough to fragment after leaving the source and acceleration, in a field-free region, before the analyser.\n2. Daughter ion has less kinetic energy → appears as a broad, weak, often non-integral peak.\n3. Position m* = m2²/m1 (m1 parent, m2 daughter).\n4. Example: C6H5CO⁺ (105) → C6H5⁺ (77) + CO; m* = 77²/105 = 56.5.\n5. Significance: confirms a direct one-step decomposition, helps map fragmentation pathways; modern MS/MS gives the same information deliberately."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss isotope peaks and their use in mass spectral interpretation.",
+      "answer": "1. Natural heavier isotopes give M+1, M+2 peaks.\n2. ¹³C 1.1%: number of C ≈ (M+1/M × 100)/1.1.\n3. ¹⁵N adds 0.37% per N; ¹⁸O small M+2; ³⁴S gives M+2 about 4.4% per S.\n4. Cl (³⁵Cl:³⁷Cl ≈ 3:1) → M:M+2 3:1; Br (⁷⁹Br:⁸¹Br ≈ 1:1) → 1:1; Cl2 9:6:1; Br2 1:2:1; ClBr about 3:4:1.\n5. Uses: recognise halogens and sulphur, count carbons, confirm molecular formula with exact mass, stable isotope-labelled internal standards."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare ESI, APCI and APPI.",
+      "answer": "1. ESI: ionisation in charged droplets in liquid phase; best for polar, ionic, large molecules; multiply charged ions; prone to ion suppression; lower flow rates.\n2. APCI: eluent vaporised in heated tube (350–500 °C); corona discharge ionises solvent which protonates analyte in gas phase; moderately polar to non-polar, thermally stable small molecules; singly charged; less suppression; higher flows.\n3. APPI: Kr lamp photons ionise analyte directly or via dopant (toluene/acetone); non-polar compounds (PAHs, steroids, fat-soluble vitamins).\n4. All are atmospheric-pressure sources used for LC–MS."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the applications of mass spectrometry in pharmaceutical sciences.",
+      "answer": "1. Molecular mass and formula (high-resolution exact mass).\n2. Structure elucidation from fragmentation (with NMR, IR).\n3. LC–MS/MS bioanalysis for PK, BA/BE studies, TDM.\n4. Impurity and degradation product identification; nitrosamine and genotoxic impurities at ppb levels.\n5. Metabolite identification (neutral-loss, precursor scans).\n6. Biologics: intact mass, peptide mapping, glycosylation.\n7. Residual solvents, leachables/extractables (GC–MS).\n8. Polymer MW distribution (MALDI-TOF), imaging of drug distribution, doping and forensic analysis."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the nitrogen rule.",
+      "answer": "A compound with an odd number of nitrogen atoms has an odd nominal molecular mass; zero or an even number of nitrogens gives an even molecular mass."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the base peak in a mass spectrum?",
+      "answer": "The most intense peak in the spectrum, assigned 100% relative abundance; it represents the most stable (most abundant) ion and need not be the molecular ion."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is electron impact ionisation carried out at 70 eV?",
+      "answer": "At about 70 eV ionisation efficiency is high and nearly constant, so fragmentation patterns are reproducible between instruments and can be matched with spectral libraries."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the instrumentation of HPLC. Add notes on the detectors used and on normal-phase versus reversed-phase chromatography.",
+      "answer": "1. Principle: LC on small particles (sub-2–5 µm) at high pressure; mostly reversed-phase partition.\n2. Solvent reservoirs, filtration (0.45/0.22 µm), degassing (vacuum, He sparging, sonication).\n3. Pump: reciprocating dual-piston, pulse-free, up to ~400 bar (UHPLC ~1000–1300 bar); isocratic or gradient (high/low-pressure mixing).\n4. Injector: six-port valve with loop or autosampler.\n5. Guard column + analytical column (250 × 4.6 mm, 5 µm C18; end-capped; core–shell; chiral phases) in column oven.\n6. Detectors: UV/visible, PDA (peak purity), fluorescence, RI (universal, isocratic), ELSD/CAD (non-chromophoric), electrochemical, conductivity, MS.\n7. Data system: integration, system suitability.\n8. Normal phase: polar stationary (silica), non-polar mobile (hexane/IPA), non-polar elute first. Reversed phase: C18/C8 with water/buffer + MeOH/ACN, polar elute first; more organic = stronger; ~80% of methods.\n9. pH set about 2 units from pKa; ion-pair reagents for ions.\n10. Applications: assay, related substances, stability-indicating methods, dissolution, bioanalysis, encapsulation efficiency."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define the chromatographic parameters. Discuss the factors affecting resolution with reference to the resolution and van Deemter equations.",
+      "answer": "1. tR, t0 (unretained marker), t′R = tR − t0.\n2. k = (tR − t0)/t0 (ideal 2–10); α = k2/k1.\n3. N = 16(tR/W)² = 5.54(tR/W½)²; H = L/N.\n4. Rs = 2(tR2 − tR1)/(W1 + W2); 1.5 = baseline; tailing factor ≤ 2; RSD of replicate injections.\n5. Worked: tR 6.0 and 6.6 min, t0 1.0, W 0.40 each, 250 mm → N 3600, H 69 µm, k 5.0 and 5.6, α 1.12, Rs 1.5.\n6. Purnell: Rs = (√N/4)((α − 1)/α)(k/(1 + k)).\n7. Efficiency: longer column, smaller particles, good packing, low extra-column volume; Rs ∝ √N.\n8. Selectivity: stationary phase, organic modifier, pH, ion pair, temperature — most powerful.\n9. Retention: solvent strength, temperature programming.\n10. van Deemter H = A + B/u + Cu: A eddy diffusion (particle size, packing), B longitudinal diffusion (low flow, large in GC), C mass transfer (high flow); optimum velocity at minimum H; small particles flatten curve (UHPLC); Golay equation for open tubular columns (A = 0).\n11. Other factors: overloading, injection solvent, temperature."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle, instrumentation and applications of gas chromatography. Write about the detectors and derivatisation used in GC.",
+      "answer": "1. Principle: partition (GLC) or adsorption (GSC) of volatile, thermally stable analytes between a carrier gas and stationary phase.\n2. Carrier gas: He, N2, H2 with regulators and traps.\n3. Injector: split, splitless, on-column, PTV; static headspace for residual solvents.\n4. Columns: packed (2–3 m) or capillary WCOT (15–60 m, 0.1–0.53 mm, fused silica); phases: polydimethylsiloxane, phenyl-methyl, cyanopropyl, PEG.\n5. Oven: isothermal or temperature programmed.\n6. Detectors: FID (universal for organics, H2–air flame ions), TCD (universal, non-destructive), ECD (⁶³Ni, halogens), NPD (N, P), FPD (S, P), MS.\n7. Derivatisation: silylation (BSTFA/TMCS), acylation, esterification (fatty acid methyl esters) to increase volatility and stability.\n8. Kovats retention index for identification.\n9. Applications: residual solvents (ICH Q3C, headspace GC-FID), volatile drugs and essential oils, fatty acid composition, alcohol in tinctures, ethylene oxide, nitrosamines and alkyl halides (GC–MS), forensic toxicology."
+    },
+    {
+      "id": "u4-l04",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the principle, types of resins, method and applications of ion exchange chromatography.",
+      "answer": "1. Principle: reversible exchange of ions in solution with like-charged ions on an insoluble resin: R–SO3⁻H⁺ + Na⁺ ⇌ R–SO3⁻Na⁺ + H⁺.\n2. Matrix: polystyrene–divinylbenzene (2–16% cross-linking), cellulose, dextran, agarose.\n3. Strong acid cation (–SO3H), weak acid cation (–COOH), strong base anion (–N⁺(CH3)3), weak base anion (amines, DEAE).\n4. Properties: exchange capacity, swelling, cross-linking, particle size, selectivity (higher charge, smaller hydrated radius bind more).\n5. Method: swell and convert resin, pack column, load at binding pH/ionic strength, wash, elute with salt or pH gradient, regenerate (acid/alkali).\n6. Factors: pH, ionic strength, cross-linking, temperature, flow rate, counter-ion.\n7. Ion chromatography with suppressed conductivity for inorganic ions.\n8. Applications: purified water, amino acids, proteins and charge variants, nucleotides, removal of interfering ions, antibiotic recovery, drug–resin complexes for taste masking and sustained release."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle and steps of affinity chromatography with examples of ligands.",
+      "answer": "1. Specific, reversible biological binding between target and ligand immobilised on a matrix.\n2. Matrix: agarose, dextran, polyacrylamide; activated (CNBr, epoxy, NHS); spacer arm reduces steric hindrance.\n3. Steps: equilibrate → load → wash unbound → elute (pH change, salt, competing ligand such as imidazole or glucose, chaotropes) → regenerate.\n4. Ligands: protein A/G (IgG), antibody/antigen, substrate analogues and cofactors (enzymes), lectins (glycoproteins), Ni²⁺/Co²⁺ (His-tag, IMAC), heparin, oligo(dT), dyes.\n5. Applications: mAb capture, recombinant proteins, enzyme purification, removal of contaminants, drug–protein binding studies."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on HPTLC.",
+      "answer": "1. Improved TLC with smaller, uniform particles (~5 µm) and thinner layers on precoated plates.\n2. Automated band-wise sample application (spray-on) with precise volumes.\n3. Development in twin-trough or automated chambers with controlled saturation.\n4. Densitometric scanning (absorbance/fluorescence) for quantitation; validated methods.\n5. Advantages over TLC: sharper bands, better resolution, many samples per plate, low solvent use, quantitative.\n6. Uses: herbal fingerprinting and marker assay, impurity profiling, stability, cleaning validation."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write about detectors used in gas chromatography.",
+      "answer": "1. FID: organic compounds burnt in H2–air flame produce ions; current measured; universal for organics, no response to water/CO2; wide linear range.\n2. TCD: change in thermal conductivity of carrier changes filament resistance; universal, non-destructive, less sensitive.\n3. ECD: ⁶³Ni β-emitter; electronegative compounds capture electrons and reduce current; halogens, nitro, pesticides.\n4. NPD: alkali bead; nitrogen and phosphorus compounds.\n5. FPD: S and P emission in flame.\n6. MS: identification and trace analysis."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare paper chromatography and thin layer chromatography.",
+      "answer": "1. Mechanism: paper – partition (water in cellulose); TLC – mainly adsorption (silica, alumina).\n2. Stationary phase: Whatman paper vs coated layer on glass/aluminium/plastic.\n3. Speed: TLC faster.\n4. Spots: TLC compact, better resolution, higher sensitivity.\n5. Detection: TLC tolerates corrosive reagents (H2SO4 charring); paper cannot.\n6. Variety: many TLC phases (GF254, RP-18, cellulose); paper limited.\n7. Development: paper ascending, descending, radial, 2D; TLC ascending, 2D.\n8. Uses: paper – amino acids, sugars; TLC – identity and related substance tests, reaction monitoring."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the method of classical column chromatography.",
+      "answer": "1. Glass column with stopcock and cotton/sintered plug.\n2. Adsorbent: silica gel or alumina (Brockmann activity), 60–200 µm; flash 40–63 µm.\n3. Packing: wet slurry method avoids air bubbles and cracks; sand layer on top.\n4. Sample loaded as a narrow band or adsorbed on silica.\n5. Elution: isocratic, stepwise or gradient using eluotropic series (hexane → ethyl acetate → methanol); frontal, displacement or elution development.\n6. Fractions collected and monitored by TLC; pooled and evaporated.\n7. Factors: particle size, length:diameter ratio, adsorbent activity, solvent polarity, flow rate, load.\n8. Uses: purification, isolation of natural products, plant pigments."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the van Deemter equation.",
+      "answer": "1. H = A + B/u + Cu relates plate height to mobile phase linear velocity u.\n2. A (eddy diffusion, 2λdp): different path lengths through packing; depends on particle size and packing uniformity; zero in open tubular columns.\n3. B/u (longitudinal diffusion, 2γDm): analyte diffuses along column; dominant at low flow; large in GC.\n4. Cu (resistance to mass transfer in stationary and mobile phases): dominant at high flow.\n5. Plot of H vs u has a minimum at optimum velocity.\n6. Smaller particles reduce A and C, giving flatter curves → faster runs (UHPLC)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Calculate the number of theoretical plates if tR = 6.0 min and base width = 0.40 min.",
+      "answer": "N = 16(tR/W)² = 16 × (6.0/0.40)² = 16 × 225 = 3600 plates."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What value of resolution indicates baseline separation?",
+      "answer": "Rs of 1.5 or more indicates baseline (about 99.7%) separation of two neighbouring peaks."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a spacer arm in affinity chromatography?",
+      "answer": "A short hydrocarbon chain (about 6–10 carbons) linking the ligand to the matrix so that the binding site is accessible and not sterically hindered."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle of electrophoresis and the factors affecting electrophoretic mobility. Describe gel electrophoresis including SDS-PAGE.",
+      "answer": "1. Charged molecules migrate in an electric field; force qE balanced by friction 6πηrv → v = qE/6πηr; mobility µ = v/E.\n2. Example: 4 cm in 2 h at 10 V/cm → µ = 5.6 × 10⁻⁵ cm² V⁻¹ s⁻¹.\n3. Factors: charge, size and shape, pH (relative to pI), ionic strength, voltage, temperature (Joule heating), viscosity, pore size, electro-osmosis, adsorption, time.\n4. Agarose gels (0.5–2%): large pores, horizontal submerged, DNA/RNA by size; ladder for size; ethidium bromide/SYBR.\n5. PAGE: acrylamide + bisacrylamide, APS initiator, TEMED catalyst; %T and %C control pores; native PAGE separates by charge, size, shape.\n6. SDS-PAGE: SDS binds ~1.4 g/g protein giving uniform negative charge; reducing agent (β-ME/DTT) breaks disulphides; separation by MW; log MW vs relative mobility linear.\n7. Discontinuous (Laemmli) stacking gel pH 6.8 + resolving gel pH 8.8; gradient gels.\n8. Staining: Coomassie, silver; Western blotting.\n9. Applications: protein purity and MW, biologics identity, aggregation/fragmentation in protein formulations."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State Bragg's law. Explain the production of X-rays and the different X-ray diffraction methods. Give pharmaceutical applications of XRD.",
+      "answer": "1. Coolidge tube: heated W filament, electrons accelerated by 30–50 kV hit water-cooled target (Cu, Mo); ~1% becomes X-rays; Be window.\n2. Continuous (Bremsstrahlung) with λmin ≈ 1.24/kV nm; characteristic Kα (L→K), Kβ (M→K) lines; Cu Kα 1.5406 Å; Ni filter removes Kβ.\n3. Bragg's law: nλ = 2d sin θ — constructive interference from planes of spacing d; worked: 2θ 20° with Cu Kα → d = 4.44 Å.\n4. Laue method: white radiation, stationary single crystal; symmetry and orientation.\n5. Rotating crystal: monochromatic beam, single crystal rotated, spots on layer lines; unit cell and full structure (SCXRD, area detectors).\n6. Powder method: Debye–Scherrer camera or Bragg–Brentano diffractometer; random crystallites; intensity vs 2θ pattern.\n7. Applications: crystal structure and absolute configuration, polymorph/solvate identification, changes during milling/compression/storage, amorphous solid dispersions (halo), co-crystal/salt formation, percent crystallinity, Scherrer crystallite size, excipient identification, patents, quality control."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe capillary electrophoresis and isoelectric focusing with their pharmaceutical applications.",
+      "answer": "1. CE: fused-silica capillary (25–100 µm id) between buffer vials; up to 30 kV; injection by pressure or voltage; on-capillary UV/PDA, LIF or MS detection.\n2. Efficient heat dissipation allows high fields → fast, very high efficiency, tiny volumes.\n3. Electro-osmotic flow from negatively charged silica wall carries all species to cathode: cations, then neutrals, then anions.\n4. Modes: CZE (charge/size), MEKC (SDS micelles separate neutrals), CGE (sieving; CE-SDS), cIEF, isotachophoresis, CEC, chiral CE with cyclodextrins.\n5. IEF: pH gradient formed by carrier ampholytes or immobilised pH gradient strips; anode acidic, cathode basic; protein migrates until pH = pI (net charge zero) and focuses into sharp band; resolves ~0.01 pH unit.\n6. 2D electrophoresis: IEF then SDS-PAGE (proteomics).\n7. Applications: chiral purity, small ionic drugs and counter-ions, mAb purity (CE-SDS) and charge variants (cIEF), insulin analogues, DNA analysis, identity of biologicals."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between zone electrophoresis and moving boundary electrophoresis.",
+      "answer": "1. Medium: zone uses a stabilising support (paper, cellulose acetate, gel, capillary); moving boundary uses free solution in a U-tube (Tiselius).\n2. Sample: zone applied as a narrow band; moving boundary fills the cell forming boundaries with buffer.\n3. Separation: zone gives complete, discrete bands; moving boundary only the fastest component pure at leading edge.\n4. Detection: zone – staining/densitometry; moving boundary – refractive index (schlieren optics).\n5. Sample size: zone small; moving boundary large.\n6. Conditions: moving boundary at ~4 °C to minimise convection.\n7. Use: zone – serum proteins, isoenzymes, haemoglobin variants; moving boundary – mobility and pI measurements (historical)."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the X-ray powder diffraction technique.",
+      "answer": "1. Finely powdered sample (~10 µm) so crystallites are randomly oriented; each plane set diffracts into a cone.\n2. Debye–Scherrer camera (capillary sample, cylindrical film) or Bragg–Brentano diffractometer (θ–2θ, detector).\n3. Output: intensity vs 2θ; d from nλ = 2d sin θ.\n4. Pattern is a fingerprint of the crystal form.\n5. Avoid preferred orientation (needles, plates).\n6. Crystallite size by Scherrer equation τ = Kλ/β cos θ; % crystallinity from crystalline vs amorphous halo areas; Rietveld for quantitation.\n7. Uses: polymorphs, hydrates, amorphous dispersions, co-crystals, excipients, stability, patents."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on paper electrophoresis.",
+      "answer": "1. Filter paper strip soaked in buffer, ends dipping in electrode tanks.\n2. Sample applied as a narrow line; low voltage (100–500 V) or high voltage (kV with cooling).\n3. Buffer e.g. barbitone pH 8.6 for serum proteins.\n4. After run, dried and stained (ninhydrin for amino acids, bromophenol blue for proteins).\n5. Simple and cheap; limitations: adsorption, electro-osmosis, poor resolution, slow.\n6. Uses: amino acids, peptides, nucleotides, serum proteins (replaced by cellulose acetate)."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the seven crystal systems and their importance in pharmacy.",
+      "answer": "1. Cubic (a = b = c, all 90°), tetragonal (a = b ≠ c, 90°), orthorhombic (a ≠ b ≠ c, 90°), hexagonal (a = b ≠ c, 90/90/120°), trigonal (a = b = c, equal non-90°), monoclinic (one angle ≠ 90°), triclinic (no 90°).\n2. With centring → 14 Bravais lattices; with symmetry → 230 space groups.\n3. Paracetamol form I monoclinic, form II orthorhombic.\n4. Polymorphs differ in solubility, dissolution, stability, compressibility (chloramphenicol palmitate form B better absorbed).\n5. Solvates/hydrates, co-crystals, salts and amorphous forms change performance; identified by XRD."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of SDS and the reducing agent in SDS-PAGE.",
+      "answer": "1. SDS (anionic detergent) unfolds proteins and binds about 1.4 g per g of protein.\n2. Gives all proteins a similar negative charge-to-mass ratio and rod-like shape, so native charge and shape no longer matter.\n3. Reducing agent (β-mercaptoethanol, DTT) breaks disulphide bonds, separating subunits.\n4. Proteins then separate only by molecular weight through the gel's sieve.\n5. log MW of markers vs relative mobility is linear → MW of unknown."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State Bragg's law.",
+      "answer": "nλ = 2d sin θ, where n is the order of reflection, λ the X-ray wavelength, d the interplanar spacing and θ the glancing angle."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the isoelectric point?",
+      "answer": "The pH at which an amphoteric molecule such as a protein carries zero net charge and does not move in an electric field."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is electro-osmotic flow?",
+      "answer": "Bulk flow of buffer towards an electrode caused by the field acting on the mobile counter-ions near a charged surface (silica capillary wall, paper); in CE it carries all species to the cathode."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle, procedure, advantages, limitations and applications of radioimmunoassay.",
+      "answer": "1. Competitive binding: fixed limited antibody + fixed radiolabelled antigen (Ag*) + sample antigen (Ag) compete for sites.\n2. More analyte → less Ag* bound; bound radioactivity inversely related to concentration.\n3. Labels: ¹²⁵I (gamma, ~60 days, chloramine-T iodination of tyrosine), ³H/¹⁴C (beta, scintillation).\n4. Antibody: haptens conjugated to carrier protein (BSA) for immunisation; titre giving 30–50% tracer binding.\n5. Steps: incubate standards and samples with antibody and tracer → separate bound and free (second antibody + PEG, solid-phase antibody, dextran-coated charcoal, ammonium sulphate) → count → standard curve of B/B0 vs log conc (logit–log) → read unknowns.\n6. IRMA: labelled antibody in excess, sandwich, signal rises with analyte.\n7. Advantages: pg/mL sensitivity, specificity, small sample, not affected by colour/turbidity.\n8. Limitations: radiation hazard, licensing (AERB), waste disposal, short tracer shelf-life, costly counters, slow, hard to automate.\n9. Applications: insulin, thyroid hormones, cortisol, steroids, TDM (digoxin), drugs of abuse, tumour markers, vitamin B12, radioligand receptor binding."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is ELISA? Describe the different types of ELISA with diagrams and give their pharmaceutical applications.",
+      "answer": "1. Solid-phase immunoassay on 96-well plates; enzyme-labelled antibody (HRP, ALP) converts substrate to coloured product read in a plate reader; washing separates bound and free.\n2. Steps: coat → wash → block (BSA, casein) → sample → wash → conjugate → wash → substrate (TMB, pNPP) → stop (H2SO4/NaOH) → read (450 nm for TMB, 405 nm for pNPP).\n3. Direct: antigen coated, labelled primary antibody; quick, less sensitive.\n4. Indirect: antigen coated, sample antibody, labelled anti-species secondary antibody; amplification; detects antibodies (HIV screening, anti-drug antibodies, vaccine titres).\n5. Sandwich: capture antibody, antigen, labelled detection antibody on a second epitope; signal ∝ concentration; most specific; cytokines, hCG, HBsAg, mAb PK, host-cell proteins; hook effect.\n6. Competitive: sample and labelled antigen compete for limited antibody; signal inversely related; haptens, drugs, mycotoxins.\n7. Homogeneous EMIT for TDM (G6PD–drug conjugate).\n8. Data: 4-parameter logistic curve, QCs; validation per ICH M10.\n9. Advantages: no radioactivity, stable reagents, cheap, high throughput; limitations: many steps, matrix interference.\n10. Applications: diagnostics, biologic PK and immunogenicity, vaccine potency, TDM, food/drug safety."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe bioluminescence assays, the firefly luciferase reaction and their applications in pharmaceutical research.",
+      "answer": "1. Bioluminescence: enzyme-catalysed chemical reaction emitting light without excitation light → very low background, very high sensitivity.\n2. Firefly luciferase: D-luciferin + ATP + O2 (Mg²⁺) → oxyluciferin + AMP + PPi + CO2 + light (~560 nm); light ∝ ATP when reagents in excess.\n3. Bacterial luciferase: FMNH2 + long-chain aldehyde + O2 → light ~490 nm; couples to NADH.\n4. Aequorin: calcium-triggered blue light; Renilla and NanoLuc luciferases for reporters.\n5. Luminometer: injector, light-tight chamber, PMT photon counting, RLU; flash vs glow kits.\n6. Applications: ATP-based cell viability/cytotoxicity, rapid microbial counts and hygiene monitoring, antibiotic susceptibility, reporter gene assays (receptor activation, transfection efficiency of gene delivery systems), in vivo imaging of tumours and infections, enzyme assays, toxicity tests with luminous bacteria, bioluminescent immunoassays.\n7. Advantages: fmol sensitivity, wide linear range, speed; limitations: luciferase inhibitors, temperature/pH sensitivity, cost, signal decay, ATP contamination."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between RIA and ELISA.",
+      "answer": "1. Label: RIA radioisotope (¹²⁵I, ³H); ELISA enzyme (HRP, ALP).\n2. Detection: gamma/scintillation counter vs plate spectrophotometer.\n3. Safety: RIA radiation hazard, licence, waste; ELISA none.\n4. Shelf-life: RIA short (isotope decay); ELISA long.\n5. Separation: RIA second antibody/charcoal/solid phase; ELISA washing of solid phase.\n6. Throughput and automation: ELISA higher.\n7. Sensitivity: both high; RIA classically pg/mL.\n8. Signal: competitive RIA inverse; ELISA direct (sandwich) or inverse (competitive).\n9. Cost: ELISA cheaper."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain sandwich ELISA with a diagram.",
+      "answer": "1. Diagram: well surface → capture antibody (Y) → antigen → enzyme-labelled detection antibody (Y–E) → substrate → coloured product.\n2. Capture antibody coated and well blocked.\n3. Sample antigen binds capture antibody; wash.\n4. Detection antibody binds a different epitope (or biotinylated antibody + streptavidin–HRP); wash.\n5. Substrate (TMB) added, reaction stopped with acid, read at 450 nm.\n6. Signal directly proportional to antigen; requires ≥ 2 epitopes.\n7. Very specific and sensitive; hook effect at very high antigen.\n8. Uses: cytokines, hormones (hCG), HBsAg, mAb levels in serum."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are haptens? How are antibodies raised against drugs for immunoassays?",
+      "answer": "1. Haptens are small molecules (drugs, steroids) that bind antibodies but cannot themselves induce an immune response.\n2. Hapten is chemically coupled (via a linker at a position away from key epitopes) to a carrier protein (BSA, KLH).\n3. Conjugate injected into animals with adjuvant → polyclonal antibodies; or hybridoma technique → monoclonal antibodies.\n4. Antibodies screened for affinity and cross-reactivity with metabolites and related drugs.\n5. Used in competitive RIA/ELISA, EMIT, FPIA for TDM and drugs of abuse."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the applications of ATP bioluminescence.",
+      "answer": "1. Cell viability and cytotoxicity (ATP ∝ viable cells) in drug screening.\n2. Rapid microbial detection in water, raw materials, surfaces (hygiene swabs) within minutes.\n3. Preservative efficacy and antibiotic susceptibility screening.\n4. Enzyme assays (creatine kinase, ADP) coupled to ATP.\n5. Biomass estimation in fermentation.\n6. Advantage: fmol sensitivity, speed; limitation: luciferase inhibitors, background ATP."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain competitive ELISA and state why it is used for small molecules.",
+      "answer": "1. Limited antibody coated (or antigen coated); sample analyte and enzyme-labelled analyte (or free antibody) compete for binding.\n2. After washing, substrate added; colour inversely proportional to analyte concentration.\n3. Small molecules (haptens) have only one epitope, so two antibodies cannot bind together — sandwich format impossible.\n4. Uses: drugs (TDM), steroids, drugs of abuse, mycotoxins (aflatoxins), antibiotic residues.\n5. Standard curve: B/B0 vs log concentration (4PL fit)."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the enzyme–substrate pair and wavelength commonly used in ELISA.",
+      "answer": "Horseradish peroxidase with TMB and H2O2; after stopping with sulphuric acid the yellow product is read at 450 nm."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the firefly luciferase reaction.",
+      "answer": "D-luciferin + ATP + O2 → oxyluciferin + AMP + PPi + CO2 + light (about 560 nm), catalysed by firefly luciferase with Mg²⁺."
+    },
+    {
+      "id": "u6-v03",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is IRMA?",
+      "answer": "Immunoradiometric assay: a non-competitive (sandwich) immunoassay in which the antibody, used in excess, is radiolabelled; signal increases with analyte concentration."
+    }
+  ]
+}

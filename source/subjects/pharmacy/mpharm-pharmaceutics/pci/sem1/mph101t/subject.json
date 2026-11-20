@@ -1,0 +1,53 @@
+{
+  "code": "MPH101T",
+  "title": "Modern Pharmaceutical Analytical Techniques",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, M.Pharm syllabus: Pharmaceutics (MPH), MPH 101T Modern Pharmaceutical Analytical Techniques (also in the Gazette of India M.Pharm syllabus, 11 August 2026)",
+    "url": "https://www.pci.nic.in/pdf/Syllabus_M_Pharm.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "UV-visible, IR, spectrofluorimetry, flame emission and atomic absorption spectroscopy",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "NMR spectroscopy",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Mass spectrometry",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Chromatography",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Electrophoresis and X-ray crystallography",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Immunological assays: RIA, ELISA and bioluminescence",
+      "notes": "notes/unit-6.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
