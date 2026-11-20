@@ -1,0 +1,725 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each unit in the INC syllabus and common patterns in B.Sc Nursing physiology papers. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the various mechanisms of transport across the cell membrane. Add a note on the nursing significance of the tonicity of intravenous fluids.",
+      "answer": "1. Cell membrane: lipid bilayer with proteins (fluid mosaic model); lipid-soluble substances cross easily, ions and glucose need protein channels or carriers.\n2. Passive transport (no ATP, down the gradient):\n   a. Simple diffusion — high to low concentration; e.g. O2 and CO2 in lungs; rate rises with gradient, area, temperature and thin membrane.\n   b. Facilitated diffusion — carrier protein helps (glucose via GLUT); shows saturation.\n   c. Osmosis — water moves across a selectively permeable membrane from dilute to concentrated solution; osmotic pressure.\n   d. Filtration — hydrostatic pressure pushes water and small solutes (glomerulus, arterial end of capillaries).\n3. Active transport (uses ATP, against the gradient):\n   a. Primary — Na+–K+ ATPase pumps 3 Na+ out and 2 K+ in per ATP; keeps resting potential and cell volume; also Ca2+ pump, H+–K+ pump of stomach.\n   b. Secondary — uses the Na+ gradient: cotransport (Na+–glucose in gut and kidney) and countertransport (Na+–H+ exchange).\n4. Vesicular transport: endocytosis — phagocytosis (bacteria by neutrophils), pinocytosis (fluid), receptor-mediated (LDL); exocytosis — release of hormones, neurotransmitters, enzymes.\n5. Diagram/flow chart of the types.\n6. Tonicity and nursing: isotonic (0.9% NaCl) — no change in cell size, expands ECF; hypotonic — water enters cells, cells swell (risk of brain swelling, haemolysis); hypertonic — water leaves cells, cells shrink; given slowly under close watch.\n7. Nurse's role: give only prescribed fluid at prescribed rate, maintain intake–output chart, watch for fluid overload (breathlessness, oedema) and electrolyte imbalance."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the body fluid compartments and the distribution of total body water. Explain how water and electrolyte balance is maintained.",
+      "answer": "1. Total body water ≈ 60% of body weight in adult men (≈ 42 L in 70 kg); 50–55% in women; ≈ 75% in newborn; less in elderly.\n2. Compartments: ICF two-thirds (40% of weight, ≈ 28 L); ECF one-third (20%, ≈ 14 L) = interstitial fluid ≈ 3/4 (10.5 L) + plasma ≈ 1/4 (3.5 L) + small transcellular fluid (CSF, synovial, pleural, aqueous, GI secretions).\n3. Electrolytes: ECF rich in Na+ (135–145 mmol/L), Cl− (98–106), HCO3− (22–28); ICF rich in K+ (≈ 140), phosphate, proteins, Mg2+.\n4. Functions: osmotic balance (Na+ decides ECF volume), nerve and muscle excitability, acid–base buffering, enzyme action, clotting (Ca2+).\n5. Water intake: drinking (thirst centre in hypothalamus), food, metabolic water (~300 mL/day).\n6. Water output: urine (main regulated route), insensible loss from skin and lungs (~700–900 mL), sweat, faeces (~100–200 mL).\n7. Hormonal control: ADH (water reabsorption), aldosterone (Na+ retention, K+ loss), renin–angiotensin system, ANP (Na+ and water loss).\n8. Between compartments: osmosis across cell membranes; Starling forces (capillary hydrostatic vs plasma oncotic pressure) between plasma and interstitial fluid; lymph returns excess.\n9. Homeostasis by negative feedback, e.g. dehydration → ↑ osmolality → ADH + thirst → water retained and taken in.\n10. Nursing: intake–output chart, daily weight, signs of dehydration and oedema, electrolyte monitoring."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain homeostasis with examples of negative and positive feedback.",
+      "answer": "1. Homeostasis: maintenance of a nearly constant internal environment (ECF) despite external change — temperature, glucose, pH, BP, water.\n2. Components: receptor → control centre → effector.\n3. Negative feedback: response opposes the change — rise in blood glucose → insulin → glucose falls; fall in BP → baroreceptor reflex → BP rises; rise in temperature → sweating.\n4. Positive feedback: response increases the change until an event ends it — oxytocin in labour, blood clotting, LH surge before ovulation.\n5. Most body control is negative feedback; failure of homeostasis = disease."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on the sodium–potassium pump.",
+      "answer": "1. Na+–K+ ATPase is a membrane protein that carries out primary active transport.\n2. For each ATP split it pumps 3 Na+ out of the cell and 2 K+ into it, against their gradients.\n3. Keeps Na+ high in ECF and K+ high in ICF.\n4. Functions: maintains resting membrane potential (inside negative); controls cell volume (prevents swelling); its Na+ gradient drives secondary active transport (glucose, amino acids) and Na+–H+ exchange; restores ion distribution after action potentials.\n5. Uses a large share of the body's resting energy; inhibited when ATP falls (hypoxia) → cells swell."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the phases of the cell cycle.",
+      "answer": "1. Cell cycle: sequence of events by which a cell grows and divides into two.\n2. Interphase: G1 — growth, normal work, checkpoint; S — DNA replicated; G2 — preparation and DNA check.\n3. M phase (mitosis): prophase (chromosomes condense, spindle forms, nuclear membrane breaks), metaphase (chromosomes at equator), anaphase (chromatids separate to poles), telophase (nuclei re-form), followed by cytokinesis.\n4. G0 — resting state outside the cycle (neurons, cardiac muscle).\n5. Checkpoints prevent division of damaged cells; failure → cancer; anticancer drugs affect rapidly dividing cells (hair, gut, marrow)."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the phases of wound healing and the factors that affect it.",
+      "answer": "1. Haemostasis (minutes): vessel spasm, platelet plug, clot.\n2. Inflammation (1–4 days): vasodilation, leakage, neutrophils then macrophages clear debris; redness, heat, swelling, pain.\n3. Proliferation (day 3 to ~3 weeks): fibroblasts make collagen, new capillaries (granulation tissue), epithelium covers, wound contracts.\n4. Maturation/remodelling (weeks to a year): collagen reorganised and strengthened, scar pales.\n5. First intention (clean, edges together) vs second intention (gaping/infected, granulation from base).\n6. Delaying factors: infection, poor blood supply, diabetes, malnutrition (protein, vitamin C, zinc), anaemia, old age, steroids, smoking, tension on wound."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the types and functions of membranes and glands in the body.",
+      "answer": "1. Mucous membrane — lines tracts open to the exterior (digestive, respiratory, urinary, reproductive); secretes mucus, protects, lubricates, traps microbes, absorbs in gut.\n2. Serous membrane — parietal and visceral layers (pleura, pericardium, peritoneum); serous fluid reduces friction.\n3. Synovial membrane — lines joint cavities, bursae; synovial fluid lubricates and nourishes cartilage.\n4. Cutaneous membrane — skin; protection, temperature control.\n5. Glands: exocrine (ducts — sweat, salivary, gastric), endocrine (hormones into blood — thyroid, pituitary), mixed (pancreas, gonads).\n6. Modes of secretion: merocrine (salivary), apocrine (axillary sweat, mammary), holocrine (sebaceous)."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define osmosis.",
+      "answer": "Osmosis is the movement of water across a selectively permeable membrane from a solution of lower solute concentration to one of higher solute concentration. The pressure needed to stop it is the osmotic pressure."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What percentage of body weight is total body water in an adult man, and how is it divided?",
+      "answer": "About 60% of body weight: intracellular fluid about 40% and extracellular fluid about 20% (interstitial about 15%, plasma about 5%)."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an isotonic solution? Give one example.",
+      "answer": "A solution with the same effective osmotic pressure as plasma, so red cells neither swell nor shrink in it. Example: 0.9% sodium chloride (normal saline)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the transport of oxygen and carbon dioxide in the blood. Add a note on the oxygen–haemoglobin dissociation curve.",
+      "answer": "1. O2 transport: about 97–98% bound to haemoglobin as oxyhaemoglobin; 2–3% dissolved in plasma. 1 g Hb binds about 1.34 mL O2; arterial blood about 97% saturated (SpO2 95–100%), venous about 75%.\n2. Loading in lungs (PO2 104 mmHg) and unloading in tissues (PO2 40 mmHg or less).\n3. Dissociation curve: % saturation vs PO2; S-shaped (sigmoid). Flat upper part keeps blood saturated even if PO2 falls; steep part releases much O2 for a small fall in tissue PO2. P50 ≈ 26–27 mmHg.\n4. Shift to right (O2 released more easily): ↑PCO2, ↑H+, ↑temperature, ↑2,3-BPG — Bohr effect; occurs in active tissues.\n5. Shift to left: opposite changes, fetal Hb, carbon monoxide (binds ~200× more strongly).\n6. CO2 transport: as bicarbonate ~70%; carbamino compounds with Hb and proteins ~20–23%; dissolved ~7%.\n7. In RBC: CO2 + H2O → H2CO3 (carbonic anhydrase) → H+ + HCO3−; H+ buffered by Hb; HCO3− moves to plasma in exchange for Cl− (chloride shift); reversed in lungs.\n8. Haldane effect: deoxygenated Hb carries more CO2; oxygenation in lungs releases CO2.\n9. Diagram of the curve and of the chloride shift.\n10. Nursing: pulse oximetry, recognising hypoxia, oxygen therapy as prescribed, CO poisoning."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the regulation of respiration. Describe hypoxia and cyanosis.",
+      "answer": "1. Respiratory centres: medulla — dorsal respiratory group (basic rhythm, inspiratory) and ventral group (forced breathing); pons — pneumotaxic centre (limits inspiration, sets rate) and apneustic centre (prolongs inspiration).\n2. Chemical control: central chemoreceptors in medulla respond to H+ in CSF formed from CO2 — rising PCO2 is the strongest drive; peripheral chemoreceptors — carotid bodies (IX) and aortic bodies (X) respond mainly to low PO2 (< 60 mmHg), also to CO2 and H+.\n3. Reflex control: Hering–Breuer inflation reflex via vagus; irritant receptors (cough, sneeze); J receptors; proprioceptors in exercise.\n4. Higher control: voluntary (speech, breath-holding), emotions, pain, temperature.\n5. Hypoxia = O2 lack at tissue level. Types: hypoxic (low arterial PO2 — altitude, airway obstruction, pneumonia), anaemic (low Hb, CO poisoning), stagnant (slow flow — heart failure, shock), histotoxic (cells cannot use O2 — cyanide). Signs: restlessness, confusion, tachycardia, tachypnoea, later drowsiness, cyanosis, arrhythmia.\n6. Cyanosis: bluish colour when reduced Hb in capillaries exceeds about 5 g/dL. Central (lips, tongue — lung disease, shunts) vs peripheral (nail beds, cold, low flow). Absent in severe anaemia and CO poisoning; marked in polycythaemia.\n7. Nursing: count respiration for a full minute, positioning, SpO2 monitoring, oxygen as prescribed with care in CO2-retaining patients, airway care."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the mechanism of normal inspiration and expiration.",
+      "answer": "1. Air flows from high to low pressure; volume change alters pressure (Boyle's law).\n2. Inspiration (active): diaphragm contracts and descends (≈ 75% of quiet breathing); external intercostals raise ribs and sternum (pump- and bucket-handle); thoracic volume ↑ → intrapleural pressure more negative (−2.5 to −6 mmHg) → lungs expand → alveolar pressure ≈ −1 mmHg → air enters.\n3. Accessory muscles in deep breathing: sternocleidomastoid, scalenes, pectoralis minor.\n4. Expiration (passive): muscles relax; elastic recoil and surface tension reduce volume → alveolar pressure ≈ +1 mmHg → air leaves.\n5. Forced expiration: internal intercostals and abdominal muscles."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define lung volumes and capacities with their normal values.",
+      "answer": "1. Tidal volume — 500 mL (one quiet breath).\n2. Inspiratory reserve volume — 3000 mL.\n3. Expiratory reserve volume — 1100 mL.\n4. Residual volume — 1200 mL (left after maximal expiration).\n5. Inspiratory capacity (TV + IRV) — 3500 mL.\n6. Functional residual capacity (ERV + RV) — 2300 mL.\n7. Vital capacity (IRV + TV + ERV) — 4600 mL.\n8. Total lung capacity (VC + RV) — 5800 mL.\n9. Minute ventilation = TV × rate ≈ 6 L/min; dead space 150 mL; alveolar ventilation ≈ 4.2 L/min. Women about 20–25% lower."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on surfactant and its importance.",
+      "answer": "1. Lipoprotein (mainly dipalmitoyl lecithin) secreted by type II alveolar cells.\n2. Lowers surface tension of the fluid lining alveoli.\n3. Prevents collapse of small alveoli at end of expiration; makes lungs easier to inflate (raises compliance); helps keep alveoli dry.\n4. Formed mainly late in fetal life; deficiency in premature babies → respiratory distress syndrome (grunting, retractions, cyanosis).\n5. Nursing: watch preterm babies closely; deep breathing after surgery keeps alveoli open."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the functional features of the pulmonary circulation.",
+      "answer": "1. Receives the whole right ventricular output.\n2. Low pressure (≈ 25/8 mmHg) and low resistance; short, thin, distensible vessels.\n3. Hypoxic vasoconstriction diverts blood to well-ventilated alveoli (opposite of systemic vessels).\n4. Low capillary pressure (≈ 7–10 mmHg) keeps alveoli dry; raised left atrial pressure → pulmonary oedema.\n5. Acts as blood reservoir (~450–500 mL) and filter for small clots and air bubbles.\n6. Gravity gives more flow to bases when standing.\n7. Converts angiotensin I to II (ACE)."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the respiratory changes during exercise.",
+      "answer": "1. Ventilation rises abruptly at the start (signals from motor cortex and joint proprioceptors), then steadily with rising CO2, H+ and temperature.\n2. Tidal volume and rate both increase; minute ventilation can rise from ~6 L/min to 100 L/min or more.\n3. O2 consumption rises; more O2 extracted in muscles due to right shift of dissociation curve.\n4. Pulmonary blood flow and diffusing capacity increase as more capillaries open.\n5. After exercise breathing stays raised to repay the oxygen debt (remove lactate, restore ATP and creatine phosphate).\n6. Training improves efficiency."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define cyanosis.",
+      "answer": "Bluish discolouration of skin and mucous membranes that appears when reduced (deoxygenated) haemoglobin in capillary blood exceeds about 5 g/dL."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is Cheyne–Stokes breathing?",
+      "answer": "Periodic breathing in which breaths gradually increase then decrease in depth, followed by a period of apnoea, in repeating cycles; seen in severe heart failure, brain damage and near death."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the chloride shift?",
+      "answer": "When CO2 enters red cells in the tissues, bicarbonate formed by carbonic anhydrase moves out into plasma and chloride ions move into the cell to keep electrical balance; it reverses in the lungs (Hamburger phenomenon)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the composition and functions of gastric juice. Explain the mechanism and regulation of gastric secretion.",
+      "answer": "1. Volume 1.5–2 L/day; pH 1–3.5.\n2. Composition and functions: HCl (parietal cells) — kills microbes, activates pepsinogen, acid medium, helps iron and calcium absorption; intrinsic factor (parietal) — B12 absorption; pepsinogen (chief cells) → pepsin — protein digestion; gastric lipase; mucus and bicarbonate — protective barrier; gastrin (G cells) — stimulates acid and motility.\n3. Mechanism of HCl secretion: CO2 + H2O → H2CO3 (carbonic anhydrase) → H+ + HCO3−; H+ pumped into lumen by H+–K+ ATPase; Cl− follows through channels; HCO3− exchanged for Cl− into blood → alkaline tide. Stimulants: acetylcholine, gastrin, histamine.\n4. Regulation: cephalic phase (~30%) — sight, smell, thought of food via vagus; gastric phase (~60%) — distension and protein in stomach → local/vagal reflexes and gastrin; intestinal phase (~10%) — slight stimulation then mainly inhibition.\n5. Inhibition: acid in antrum (pH < 2) stops gastrin; enterogastric reflex; secretin, CCK, GIP, somatostatin when acid, fat, hypertonic chyme reach duodenum.\n6. Flow chart of phases.\n7. Nursing: vomiting → loss of HCl → metabolic alkalosis; gastrectomy → B12 deficiency; stress and NSAIDs → ulcers; aspirate test for NG tube placement as per protocol."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the digestion and absorption of carbohydrates, proteins and fats.",
+      "answer": "1. Carbohydrates: mouth — salivary amylase: starch → maltose, dextrins; stomach — amylase acts inside bolus until acid stops it; small intestine — pancreatic amylase → disaccharides; brush-border maltase, sucrase, lactase → glucose, fructose, galactose.\n2. Absorption: glucose and galactose by Na+ cotransport (SGLT1) — secondary active; fructose by facilitated diffusion (GLUT5); into portal blood.\n3. Proteins: stomach — pepsin → proteoses, peptones; small intestine — trypsin (activated by enterokinase), chymotrypsin, carboxypeptidase → small peptides; brush-border peptidases → amino acids, di- and tripeptides; absorbed by Na+/H+-coupled transport into portal blood.\n4. Fats: small amounts by lingual and gastric lipase; bile salts emulsify; pancreatic lipase + colipase → monoglycerides + fatty acids; micelles carry them to the cell; re-formed into triglycerides, packed as chylomicrons → lacteals → thoracic duct; short-chain fatty acids directly to blood; fat-soluble vitamins with fats.\n5. Adaptations: folds, villi, microvilli, lacteals, rich blood supply.\n6. Water and minerals: water by osmosis; iron and calcium in duodenum; B12 with intrinsic factor in terminal ileum; bile salts reabsorbed in ileum.\n7. Table summarising enzymes, substrates and products.\n8. Nursing: ORS uses glucose–sodium cotransport; fat malabsorption in obstructive jaundice; lactose intolerance; enteral feeding."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the composition, regulation and functions of saliva.",
+      "answer": "1. 1–1.5 L/day, pH 6–7.4; 99.5% water; amylase (ptyalin), lingual lipase, mucin, lysozyme, IgA, electrolytes.\n2. Regulation purely nervous: parasympathetic via facial (submandibular, sublingual) and glossopharyngeal (parotid) → copious watery saliva; sympathetic → scanty thick saliva; unconditioned and conditioned reflexes.\n3. Functions: lubrication and bolus formation, starch digestion, taste, cleansing and protection of mouth and teeth, buffering, speech, thirst signal, excretion of some substances."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the composition, functions and regulation of pancreatic juice.",
+      "answer": "1. 1.2–1.5 L/day; pH ≈ 8; rich in bicarbonate.\n2. Enzymes: trypsinogen, chymotrypsinogen, procarboxypeptidase (activated via enterokinase → trypsin), amylase, lipase with colipase, phospholipase, cholesterol esterase, nucleases.\n3. Functions: neutralises acid chyme; digests proteins, carbohydrates, fats, nucleic acids.\n4. Regulation: vagus (cephalic/gastric) — enzymes; secretin (acid in duodenum) — bicarbonate-rich watery juice; CCK (fat, protein in duodenum) — enzyme-rich juice.\n5. Premature activation of trypsin → acute pancreatitis."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the composition and functions of bile.",
+      "answer": "1. 500–1000 mL/day from liver; stored and concentrated 5–10× in gall bladder.\n2. Composition: water, bile salts (glycocholate, taurocholate), bile pigments (bilirubin), cholesterol, lecithin, electrolytes, bicarbonate.\n3. Functions: emulsification of fat; micelle formation for absorption of fats and vitamins A, D, E, K; excretion of bilirubin, cholesterol, drugs; neutralises acid; mild laxative.\n4. Enterohepatic circulation: 90–95% bile salts reabsorbed in terminal ileum.\n5. Gall bladder contracts under CCK.\n6. Obstruction → steatorrhoea, vitamin K deficiency, obstructive jaundice."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the functions of the liver.",
+      "answer": "1. Carbohydrate metabolism — glycogenesis, glycogenolysis, gluconeogenesis.\n2. Fat metabolism — lipoproteins, cholesterol, ketone bodies.\n3. Protein metabolism — deamination, urea formation, plasma proteins (albumin, fibrinogen, prothrombin, clotting factors).\n4. Bile formation and excretion of bilirubin.\n5. Storage — glycogen, vitamins A, D, B12, iron, copper.\n6. Detoxification and drug metabolism; breakdown of hormones.\n7. Kupffer cells — defence.\n8. Heat production; fetal haemopoiesis; activation of vitamin D (first step)."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the movements of the small and large intestine and the defaecation reflex.",
+      "answer": "1. Small intestine: segmentation (mixing, contact with mucosa); peristalsis (propulsion); migrating motor complex between meals.\n2. Large intestine: haustral churning (slow mixing, water absorption); mass movements 2–3 times a day, often after meals (gastrocolic reflex).\n3. Defaecation reflex: faeces stretch rectum → afferents to sacral cord S2–S4 → parasympathetic contraction of rectum and relaxation of internal sphincter; external sphincter voluntary (pudendal nerve); straining raises abdominal pressure.\n4. Nursing: fibre, fluids, activity, regular time after meals to prevent constipation."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is intrinsic factor? What happens in its deficiency?",
+      "answer": "A glycoprotein secreted by parietal cells of the stomach that binds vitamin B12 and allows its absorption in the terminal ileum. Deficiency causes B12 deficiency — pernicious (megaloblastic) anaemia."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the hormones that stimulate pancreatic secretion and state their effects.",
+      "answer": "Secretin — watery, bicarbonate-rich juice; cholecystokinin (CCK) — enzyme-rich juice and gall bladder contraction."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is enterohepatic circulation?",
+      "answer": "Recycling of bile salts: about 90–95% are reabsorbed in the terminal ileum, carried back to the liver in portal blood and secreted again in bile."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define blood pressure. Describe the factors influencing blood pressure and explain its regulation.",
+      "answer": "1. Definition: lateral pressure exerted by blood on the walls of arteries; normal ≈ 120/80 mmHg; pulse pressure ≈ 40; MAP = DP + 1/3 PP ≈ 93 mmHg. BP = cardiac output × peripheral resistance.\n2. Factors: cardiac output (heart rate, stroke volume), peripheral resistance (arteriolar diameter), blood volume, viscosity, elasticity of arteries, age, sex, posture, exercise, emotion, sleep, meals, body build.\n3. Short-term nervous regulation: baroreceptor reflex — carotid sinus (IX) and aortic arch (X); ↑BP → ↑vagal, ↓sympathetic → ↓HR, vasodilation → BP falls; reverse for low BP. Chemoreceptor reflex; CNS ischaemic response (Cushing's reflex).\n4. Hormonal: renin–angiotensin–aldosterone system (angiotensin II vasoconstriction, aldosterone salt retention, ADH, thirst); ADH; adrenaline and noradrenaline; ANP (lowers BP).\n5. Long-term renal control: pressure natriuresis — kidneys adjust salt and water excretion and blood volume.\n6. Capillary fluid shift.\n7. Flow chart of the baroreceptor reflex.\n8. Hypertension ≥ 140/90 on repeated readings; hypotension; postural hypotension.\n9. Nursing: correct BP technique (cuff size, rest 5 min, arm at heart level), lying and standing readings, dangling before standing, report changes."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the mechanism of blood coagulation. Add a note on bleeding time, clotting time and the role of vitamin K.",
+      "answer": "1. Haemostasis: vascular spasm → platelet plug → coagulation → clot retraction → fibrinolysis.\n2. Platelet plug: adhesion to collagen via von Willebrand factor; activation and release of ADP, thromboxane A2, serotonin; aggregation.\n3. Clotting factors I–XIII (no VI); mostly made in liver.\n4. Intrinsic pathway: contact with collagen → XII → XI → IX (+VIII, Ca2+, platelet phospholipid) → activates X.\n5. Extrinsic pathway: tissue factor (III) + VII → activates X (faster).\n6. Common pathway: Xa + Va + Ca2+ + phospholipid = prothrombin activator → prothrombin (II) → thrombin → fibrinogen (I) → fibrin; XIII cross-links fibrin → stable clot; thrombin's positive feedback.\n7. Clot retraction (platelets) and fibrinolysis (plasminogen → plasmin by tPA).\n8. Diagram of the cascade.\n9. Tests: bleeding time 1–5 min (platelets, vessels); clotting time 4–10 min; PT ~11–16 s (extrinsic, INR); aPTT ~25–40 s (intrinsic) — lab values vary.\n10. Vitamin K needed for II, VII, IX, X; deficiency in newborns, obstructive jaundice, prolonged antibiotics → bleeding; warfarin-type drugs act against it.\n11. Nursing: bleeding precautions, pressure after venepuncture, watch for petechiae, haemophilia (VIII, IX)."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the cardiac cycle.",
+      "answer": "1. Events of one heartbeat; 0.8 s at 75/min: atrial systole 0.1, ventricular systole 0.3, ventricular diastole 0.5 s.\n2. Atrial systole tops up ventricles.\n3. Isovolumetric contraction — AV valves close (S1); all valves closed.\n4. Ejection — semilunar valves open.\n5. Isovolumetric relaxation — semilunar valves close (S2).\n6. Rapid filling — AV valves open; slow filling (diastasis).\n7. Tachycardia shortens diastole more than systole → less filling and coronary flow."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the conduction system of the heart.",
+      "answer": "1. Specialised muscle that starts and spreads impulses.\n2. SA node (right atrium near SVC) — pacemaker, 70–80/min.\n3. Impulse spreads over atria → AV node — delay ~0.1 s so atria empty first.\n4. Bundle of His → right and left bundle branches → Purkinje fibres → ventricles from apex upward.\n5. Intrinsic rates: AV node 40–60, Purkinje 15–40/min (take over if SA fails).\n6. ECG: P (atrial depolarisation), QRS (ventricular depolarisation), T (ventricular repolarisation).\n7. Vagus slows, sympathetic speeds."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define cardiac output. What are the factors affecting it?",
+      "answer": "1. Cardiac output = volume pumped by each ventricle per minute = stroke volume × heart rate ≈ 70 × 72 ≈ 5 L/min; cardiac index ≈ 3.2 L/min/m².\n2. Preload/venous return — Frank–Starling law: greater stretch → stronger contraction.\n3. Contractility — ↑ by sympathetic, adrenaline, thyroxine, calcium; ↓ by hypoxia, acidosis, damage.\n4. Afterload — high BP, aortic stenosis reduce SV.\n5. Heart rate — ↑ output up to a limit; very fast rates reduce filling.\n6. Physiological variations: exercise, posture, emotion, pregnancy, age."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the stages and factors of erythropoiesis.",
+      "answer": "1. Formation of RBCs in red marrow (adult: flat bones, vertebrae, ends of long bones).\n2. Stages: stem cell → proerythroblast → early, intermediate, late normoblast (nucleus lost) → reticulocyte → RBC (~7 days).\n3. Factors: erythropoietin from kidney (in hypoxia); iron; vitamin B12 and folic acid (DNA synthesis); intrinsic factor; proteins; vitamin C, copper, cobalt, B6; thyroxine, androgens.\n4. Deficiencies: iron → microcytic anaemia; B12/folate → megaloblastic anaemia; kidney failure → anaemia.\n5. RBC life 120 days; destroyed in spleen."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on the ABO and Rh blood group systems.",
+      "answer": "1. ABO depends on A and B antigens on RBCs; plasma has antibodies against absent antigens.\n2. A — anti-B; B — anti-A; AB — no antibodies (universal recipient); O — anti-A and anti-B (universal donor of red cells).\n3. Rh: D antigen present = Rh+; anti-D forms only after exposure.\n4. Haemolytic disease of the newborn: Rh− mother sensitised by Rh+ fetus; later pregnancy antibodies destroy fetal RBCs; prevented by anti-D immunoglobulin as per protocol.\n5. Importance: transfusion (grouping and cross-matching), pregnancy, transplants; mismatched transfusion → haemolysis, fever, back pain, shock, renal failure."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the normal life span of red blood cells and where they are destroyed.",
+      "answer": "About 120 days; old red cells are destroyed mainly in the spleen (also liver and marrow) by macrophages of the reticuloendothelial system."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the vitamin K-dependent clotting factors.",
+      "answer": "Factors II (prothrombin), VII, IX and X (also proteins C and S)."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is pulse deficit?",
+      "answer": "The difference between the apical heart rate and the radial pulse rate counted at the same time; seen in atrial fibrillation when some beats are too weak to reach the wrist."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the hormones of the pituitary gland, their functions and disorders.",
+      "answer": "1. Pituitary controlled by hypothalamus: anterior lobe via releasing hormones in hypophyseal portal veins; posterior lobe via nerve fibres.\n2. Growth hormone: growth of bone and muscle, protein synthesis, fat breakdown, raises blood glucose; excess → gigantism (child), acromegaly (adult); deficiency → dwarfism.\n3. TSH — thyroid growth and T3/T4 secretion.\n4. ACTH — cortisol secretion.\n5. FSH — follicle growth and oestrogen; spermatogenesis.\n6. LH — ovulation, corpus luteum; testosterone.\n7. Prolactin — milk production.\n8. Posterior pituitary (made in hypothalamus): ADH — water reabsorption in collecting ducts; lack → diabetes insipidus (polyuria, thirst); excess → SIADH (low sodium). Oxytocin — uterine contraction in labour, milk ejection.\n9. Feedback control diagram.\n10. Nursing: intake–output and urine specific gravity in DI; growth monitoring in children; oxytocin effects in labour."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the hormones of the adrenal gland and their functions. Mention the disorders.",
+      "answer": "1. Cortex — zona glomerulosa: aldosterone — Na+ and water retention, K+ and H+ excretion, maintains BP; controlled by angiotensin II and K+.\n2. Zona fasciculata: cortisol — gluconeogenesis, raises blood glucose; protein breakdown, fat mobilisation; anti-inflammatory, immunosuppressive; stress response; needed for vascular response; controlled by ACTH; diurnal (morning peak).\n3. Zona reticularis: androgens — pubic and axillary hair.\n4. Medulla: adrenaline and noradrenaline under sympathetic stimulation — fight or flight: ↑ HR and BP, bronchodilation, pupil dilation, glycogenolysis, blood to muscles.\n5. Disorders: Cushing's syndrome (moon face, buffalo hump, striae, high sugar and BP); Addison's disease (weakness, low BP, low Na+, high K+, pigmentation); Conn's syndrome (hypertension, low K+); phaeochromocytoma (episodic hypertension, sweating, palpitations).\n6. Nursing: do not stop long-term steroids suddenly; monitor glucose, BP, infection; fluid and electrolyte watch."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of thyroid hormones.",
+      "answer": "1. Increase BMR, O2 consumption and heat production.\n2. Essential for growth and brain development (lack in infancy → cretinism).\n3. Carbohydrate absorption and use ↑; fat breakdown ↑, cholesterol ↓; protein synthesis.\n4. Heart rate and output ↑.\n5. Alertness, reflexes.\n6. Normal menstruation and fertility.\n7. Calcitonin lowers blood calcium.\n8. Hypothyroidism → myxoedema; hyperthyroidism → Graves' disease; iodine lack → goitre."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the functions of insulin and glucagon.",
+      "answer": "1. Insulin (β cells), released when glucose rises: ↑ glucose uptake in muscle and fat (GLUT4), ↑ glycogenesis, ↓ gluconeogenesis; ↑ fat storage, ↓ ketone formation; ↑ protein synthesis; K+ into cells. Only hormone that lowers blood glucose.\n2. Glucagon (α cells), released in fasting: glycogenolysis and gluconeogenesis in liver → ↑ glucose; ↑ lipolysis and ketones.\n3. Somatostatin (δ cells) inhibits both.\n4. Lack of insulin → diabetes mellitus: polyuria, polydipsia, polyphagia, weight loss, ketoacidosis.\n5. Hypoglycaemia signs: sweating, tremor, confusion, fits."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the regulation of body temperature.",
+      "answer": "1. Normal oral temperature ≈ 36.5–37.5 °C; hypothalamus is the thermostat.\n2. Heat production: metabolism, muscle activity, shivering, thyroxine, adrenaline.\n3. Heat loss: radiation, conduction, convection, evaporation (sweat), breath, urine and faeces.\n4. In heat: skin vasodilation, sweating, reduced activity.\n5. In cold: vasoconstriction, shivering, piloerection, raised metabolism, behaviour.\n6. Fever: pyrogens raise set point.\n7. Nursing: tepid sponging, environment, protect neonates and elderly."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain accommodation of the eye and errors of refraction.",
+      "answer": "1. Accommodation for near vision: ciliary muscle contracts → suspensory ligaments relax → lens more convex; pupil constricts; eyes converge (oculomotor nerve).\n2. Myopia: image in front of retina; far vision blurred; concave lens.\n3. Hypermetropia: image behind retina; near blurred; convex lens.\n4. Astigmatism: uneven curvature; cylindrical lens.\n5. Presbyopia: loss of lens elasticity after ~40; convex lens for reading."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the mechanism of hearing.",
+      "answer": "1. Sound → pinna → external canal → tympanic membrane vibrates.\n2. Ossicles (malleus, incus, stapes) amplify and transmit to oval window.\n3. Pressure waves in cochlear fluids → basilar membrane vibrates → hair cells of organ of Corti bend against tectorial membrane → impulses.\n4. Cochlear nerve (VIII) → brainstem → medial geniculate body → auditory cortex (temporal lobe, areas 41, 42).\n5. High frequencies at base, low at apex; range 20–20,000 Hz; Eustachian tube equalises pressure.\n6. Conductive vs sensorineural deafness; presbycusis."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is tetany? Name two signs.",
+      "answer": "Increased neuromuscular excitability due to low blood calcium (e.g. hypoparathyroidism) causing spasms; signs — Trousseau's sign (carpal spasm with BP cuff) and Chvostek's sign (facial twitch on tapping facial nerve)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the function of melatonin?",
+      "answer": "Melatonin from the pineal gland, secreted mainly in darkness, regulates the circadian rhythm and the sleep–wake cycle."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate rods and cones in two points.",
+      "answer": "Rods work in dim light and give black-and-white vision using rhodopsin (vitamin A); cones work in bright light, give colour and sharp vision and are concentrated in the fovea."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the mechanism of skeletal muscle contraction. Add a note on the sources of energy for contraction.",
+      "answer": "1. Structure: myofibrils with sarcomeres (Z to Z); thick myosin with ATPase heads; thin actin with tropomyosin and troponin.\n2. Neuromuscular transmission: nerve impulse → ACh released → binds nicotinic receptors at motor end plate → end-plate potential → muscle action potential; ACh destroyed by acetylcholinesterase.\n3. Excitation–contraction coupling: AP spreads along sarcolemma and T tubules → Ca2+ released from sarcoplasmic reticulum.\n4. Ca2+ binds troponin C → tropomyosin shifts → actin binding sites exposed.\n5. Energised myosin heads bind actin → cross-bridges → power stroke pulls actin to centre → ADP and Pi released.\n6. New ATP binds → head detaches → ATP split → re-cocked; cycle repeats → filaments slide (sliding filament theory); sarcomere, I band shorten; A band unchanged.\n7. Relaxation: Ca2+ pumped back into SR by Ca2+-ATPase; actin covered; ATP needed — lack → rigor mortis.\n8. Energy: stored ATP (seconds); creatine phosphate (10–15 s); anaerobic glycolysis (lactic acid, fatigue); aerobic oxidation (endurance); oxygen debt after exercise.\n9. Diagram of sarcomere relaxed and contracted.\n10. Nursing: low K+ → weakness; low Ca2+ → tetany; exercise and mobility to prevent wasting."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the stages of fracture (bone) healing and the factors affecting it. Write the nursing implications.",
+      "answer": "1. Fracture = break in continuity of bone.\n2. Haematoma formation (hours): bleeding forms clot; bone cells at edges die.\n3. Inflammation and proliferation (days): debris cleared; capillaries grow in; osteogenic cells multiply.\n4. Soft (fibrocartilaginous) callus (1–3 weeks): collagen and cartilage bridge the gap.\n5. Hard (bony) callus (3–12 weeks): osteoblasts form woven bone → clinical union.\n6. Remodelling (months–years): osteoclasts remove excess callus; compact bone restored along stress lines.\n7. Favourable factors: good blood supply, alignment and immobilisation, nutrition (protein, calcium, vitamins D and C), youth.\n8. Delaying factors: infection, poor blood supply (neck of femur, scaphoid), movement, gap or soft tissue between ends, age, diabetes, smoking, steroids → delayed union, non-union, malunion.\n9. Nursing: neurovascular checks (pain, pallor, pulse, paraesthesia, paralysis, swelling), cast care, positioning, exercises of free joints, diet, prevention of pressure ulcers and DVT, report pain on passive stretch."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the properties of skeletal muscle.",
+      "answer": "1. Excitability.\n2. Contractility.\n3. Extensibility.\n4. Elasticity.\n5. Conductivity.\n6. All-or-none law for a single fibre; grading by recruitment of motor units.\n7. Summation and tetanus.\n8. Muscle tone.\n9. Fatigue.\n10. Isotonic vs isometric contraction; length–tension relationship."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Classify joints and describe a synovial joint.",
+      "answer": "1. Fibrous (immovable — sutures), cartilaginous (slightly movable — intervertebral discs, pubic symphysis), synovial (freely movable).\n2. Synovial joint: articular hyaline cartilage, joint cavity, fibrous capsule lined by synovial membrane, synovial fluid, ligaments, sometimes menisci and bursae.\n3. Synovial fluid: lubrication, nourishment of cartilage, shock absorption, removal of debris.\n4. Types: hinge (elbow, knee), pivot (atlanto-axial), ball and socket (shoulder, hip), condyloid (wrist), saddle (thumb CMC), plane (intercarpal)."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare skeletal, cardiac and smooth muscle.",
+      "answer": "1. Shape: long cylindrical / branched / spindle.\n2. Striations: present / present / absent.\n3. Nuclei: many peripheral / one central / one central.\n4. Intercalated discs only in cardiac.\n5. Control: voluntary / involuntary / involuntary.\n6. Ca2+ binds: troponin / troponin / calmodulin.\n7. Speed: fast / intermediate / slow sustained.\n8. Tetanus: possible / not possible (long refractory period) / sustained tone.\n9. Fatigue: yes / no / resistant."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the functions of bones and the role of hormones in bone metabolism.",
+      "answer": "1. Functions: support, protection, movement (levers), mineral storage (99% calcium), haemopoiesis, fat storage, buffer.\n2. Cells: osteoblasts build, osteoclasts resorb, osteocytes maintain.\n3. Hormones: PTH — resorption, ↑ calcium; calcitonin — inhibits resorption; vitamin D (calcitriol) — calcium absorption; GH and thyroxine — growth; sex hormones — growth spurt, closure of epiphyses, oestrogen protects bone; excess cortisol weakens bone.\n4. Deficiency of vitamin D → rickets/osteomalacia; post-menopause → osteoporosis."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the alterations in common joint diseases.",
+      "answer": "1. Osteoarthritis: degeneration of cartilage, osteophytes; pain on use, short morning stiffness, crepitus; knees, hips; elderly and obese.\n2. Rheumatoid arthritis: autoimmune synovitis, pannus; symmetric small joints, long morning stiffness, deformities.\n3. Gout: urate crystals; sudden painful red big toe; tophi.\n4. Septic arthritis: infected hot joint with fever.\n5. Sprain (ligament tear), dislocation (bone ends displaced), ankylosis/contracture (fusion or shortening).\n6. Nursing: rest in acute phase, ROM exercises, heat for stiffness, weight control."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is rigor mortis?",
+      "answer": "Stiffness of muscles after death because ATP is not available to detach myosin heads from actin, so cross-bridges remain locked."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define motor unit.",
+      "answer": "A single motor neuron together with all the skeletal muscle fibres it supplies; it is the functional unit of muscle contraction."
+    },
+    {
+      "id": "u6-v03",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between isotonic and isometric contraction?",
+      "answer": "In isotonic contraction the muscle shortens and moves a load (lifting a cup); in isometric contraction tension rises but muscle length stays the same (pushing a wall)."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the mechanism of urine formation. Add a note on glomerular filtration rate and the factors affecting it.",
+      "answer": "1. Nephron: glomerulus, Bowman's capsule, PCT, loop of Henle, DCT, collecting duct; ~1 million per kidney; renal blood flow 1200–1300 mL/min (20–25% CO).\n2. Glomerular filtration: plasma minus proteins and cells passes through the filtration membrane (endothelium, basement membrane, podocytes).\n3. Net filtration pressure = glomerular hydrostatic 60 − (capsular 18 + oncotic 32) ≈ 10 mmHg.\n4. GFR ≈ 125 mL/min (180 L/day); filtration fraction ≈ 20%; ~99% reabsorbed; urine 1–1.5 L/day.\n5. Factors: glomerular capillary pressure (BP, afferent/efferent tone), sympathetic stimulation, urinary obstruction, plasma protein level, number of nephrons, age. Autoregulation 80–180 mmHg (myogenic, tubuloglomerular feedback). Measured by inulin or creatinine clearance.\n6. Tubular reabsorption: PCT ~65% Na+ and water, all glucose (threshold ~180 mg/dL) and amino acids, bicarbonate; loop — countercurrent multiplier; DCT and collecting duct — aldosterone (Na+), ADH (water).\n7. Tubular secretion: H+, K+, ammonia, creatinine, drugs.\n8. Concentration and dilution of urine by ADH.\n9. Diagram of nephron with forces.\n10. Nursing: urine output monitoring (≥ about 0.5 mL/kg/h), intake–output, catheter care, specimens."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the menstrual cycle with its hormonal regulation.",
+      "answer": "1. Cyclic changes in ovary and uterus preparing for pregnancy; average 28 days (21–35); menarche ~11–14 years, menopause ~45–55.\n2. Hypothalamus (GnRH) → anterior pituitary (FSH, LH) → ovary (oestrogen, progesterone) → endometrium.\n3. Menstrual phase (days 1–5): fall of progesterone and oestrogen → shedding of functional endometrium with bleeding.\n4. Proliferative/follicular phase (6–14): FSH → follicles grow → oestrogen rises → endometrium regenerates and thickens; thin cervical mucus.\n5. Ovulation (~day 14): high oestrogen → LH surge (positive feedback) → Graafian follicle ruptures, releases secondary oocyte.\n6. Secretory/luteal phase (15–28): corpus luteum secretes progesterone (and oestrogen) → secretory endometrium, glycogen, coiled spiral arteries; basal temperature rises; luteal phase constant ~14 days.\n7. No fertilisation: corpus luteum degenerates → hormones fall → menstruation. Pregnancy: hCG maintains corpus luteum.\n8. Hormone graph.\n9. Nursing: menstrual history and LMP, menstrual hygiene, fertile period counselling, anaemia prevention."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the micturition reflex.",
+      "answer": "1. Bladder fills; urge felt at ~300–400 mL.\n2. Stretch receptors → pelvic nerves → sacral cord S2–S4.\n3. Parasympathetic efferents → detrusor contracts, internal sphincter relaxes; positive feedback.\n4. External sphincter (skeletal, pudendal nerve) relaxes voluntarily; pons coordinates; cortex can inhibit.\n5. Infants — reflex only; control by 2–3 years.\n6. Abnormalities: retention, incontinence, automatic bladder (cord transection), atonic bladder."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the functions of the kidney.",
+      "answer": "1. Excretion of urea, creatinine, uric acid, drugs.\n2. Water balance.\n3. Electrolyte balance.\n4. Acid–base balance (H+ excretion, HCO3− reabsorption).\n5. BP regulation (blood volume, renin).\n6. Erythropoietin.\n7. Activation of vitamin D (calcitriol).\n8. Gluconeogenesis in fasting; breakdown of some hormones."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe oogenesis and spermatogenesis.",
+      "answer": "1. Oogenesis: oogonia → primary oocytes before birth, arrested in prophase I; each cycle one completes meiosis I → secondary oocyte + first polar body; arrested at metaphase II at ovulation; completes at fertilisation → ovum + second polar body. One ovum per primary oocyte.\n2. Spermatogenesis in seminiferous tubules from puberty: spermatogonia → primary spermatocyte → (meiosis I) 2 secondary → (meiosis II) 4 spermatids → spermiogenesis → spermatozoa; ~64–74 days; matures in epididymis.\n3. Sertoli cells (FSH) nourish; Leydig cells (LH) → testosterone; needs 2–3 °C lower temperature."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain fertilisation and implantation.",
+      "answer": "1. Fertilisation in ampulla of uterine tube within ~24 h of ovulation; sperm survive ~3–5 days.\n2. Capacitation → acrosome reaction → penetration of corona and zona → fusion → zona reaction blocks polyspermy → meiosis II completed → zygote (46 chromosomes); sex decided by sperm.\n3. Cleavage → morula → blastocyst (inner cell mass + trophoblast) reaches uterus.\n4. Implantation ~6–7 days after fertilisation into secretory endometrium (decidua).\n5. hCG from trophoblast maintains corpus luteum — basis of pregnancy test. Ectopic implantation in tube."
+    },
+    {
+      "id": "u7-s05",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the functions of the breast and the physiology of lactation.",
+      "answer": "1. Breast produces milk to nourish the baby and passes antibodies.\n2. Mammogenesis: oestrogen (ducts), progesterone (alveoli), prolactin in pregnancy.\n3. Lactogenesis: fall of placental hormones after delivery lets prolactin start milk; colostrum first (protein, IgA).\n4. Milk ejection: suckling → hypothalamus → oxytocin → myoepithelial cells contract (let-down); inhibited by anxiety and pain.\n5. Galactopoiesis: prolactin with each feed; frequent emptying.\n6. Nursing: early initiation, positioning and attachment, calm environment."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the normal glomerular filtration rate?",
+      "answer": "About 125 mL per minute, that is about 180 litres per day for both kidneys."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is meant by renal threshold for glucose?",
+      "answer": "The blood glucose level (about 180 mg/dL) above which the tubules cannot reabsorb all filtered glucose, so glucose appears in urine (glycosuria)."
+    },
+    {
+      "id": "u7-v03",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the hormones secreted by the ovary.",
+      "answer": "Oestrogens, progesterone, inhibin and relaxin."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define reflex. Describe the reflex arc with examples and classify reflexes. Write the clinical importance of reflexes.",
+      "answer": "1. Reflex: automatic, rapid, involuntary response to a stimulus.\n2. Reflex arc: receptor → afferent neuron → centre (spinal cord/brainstem, synapse ± interneuron) → efferent neuron → effector.\n3. Monosynaptic stretch reflex: knee jerk — tap patellar tendon → muscle spindle → afferent → L2–L4 → motor neuron → quadriceps contracts.\n4. Polysynaptic: withdrawal reflex with crossed extensor reflex.\n5. Classification: superficial (corneal, abdominal, plantar), deep tendon (biceps C5–6, triceps C6–7, knee L2–4, ankle S1–2), visceral (pupillary light, baroreceptor, micturition, vomiting), conditioned (learned).\n6. Properties: one-way conduction, synaptic delay, summation, fatigue.\n7. Diagram of the reflex arc.\n8. Clinical importance: tests integrity of nerves and spinal segments; exaggerated reflexes + Babinski → UMN lesion; absent → LMN or sensory lesion; corneal and pupillary reflexes in unconscious patients; grading 0–4+.\n9. Nursing: neurological observation, GCS, pupil checks."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the formation, composition and circulation of cerebrospinal fluid. Add a note on the blood–brain barrier.",
+      "answer": "1. Formation: choroid plexuses of ventricles (mainly lateral), partly ependyma; ~500 mL/day; volume ~150 mL; renewed several times a day.\n2. Composition: clear, colourless; pressure 70–180 mm H2O lying; protein 15–45 mg/dL; glucose 50–80 mg/dL (~60% of blood); chloride slightly higher than plasma; 0–5 lymphocytes/µL.\n3. Circulation: lateral ventricles → foramina of Monro → third ventricle → aqueduct of Sylvius → fourth ventricle → foramina of Magendie and Luschka → subarachnoid space → arachnoid villi → dural venous sinuses.\n4. Functions: cushion, buoyancy, chemical stability (central chemoreceptors), nutrition and waste removal, adjusts intracranial pressure.\n5. Applied: hydrocephalus; lumbar puncture at L3–L4/L4–L5; CSF changes in meningitis.\n6. Blood–brain barrier: tight junctions of brain capillary endothelium, basement membrane, astrocyte foot processes; permits water, O2, CO2, glucose (carrier), lipid-soluble drugs; blocks proteins, many drugs and toxins; absent at area postrema, posterior pituitary; immature in newborn (kernicterus).\n7. Blood–CSF barrier at choroid plexus epithelium.\n8. Diagram of CSF pathway.\n9. Nursing: care after lumbar puncture, watch for raised ICP signs."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the physiology of pain and referred pain.",
+      "answer": "1. Nociceptors (free nerve endings) stimulated by mechanical, thermal, chemical damage (bradykinin, prostaglandins, histamine).\n2. Fast pain — Aδ fibres, sharp, localised; slow pain — C fibres, burning, poorly localised.\n3. Pathway: dorsal horn → crosses → lateral spinothalamic tract → thalamus → somatosensory cortex and limbic system.\n4. Gate control theory; endorphins and enkephalins.\n5. Referred pain: visceral and skin afferents converge on the same spinal segment — heart → left arm; diaphragm → shoulder tip; appendix → umbilicus; kidney → loin to groin."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare sympathetic and parasympathetic nervous systems.",
+      "answer": "1. Origin: thoracolumbar (T1–L2) vs craniosacral (III, VII, IX, X; S2–S4).\n2. Ganglia near cord vs near organ; preganglionic short vs long.\n3. Postganglionic transmitter: noradrenaline (ACh at sweat glands) vs acetylcholine.\n4. Role: fight or flight vs rest and digest.\n5. Effects: pupil dilates/constricts; HR ↑/↓; bronchi dilate/constrict; gut ↓/↑; bladder storage/voiding; glycogenolysis/glycogen formation; saliva thick scanty/watery copious."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the functions of the hypothalamus.",
+      "answer": "1. Temperature regulation.\n2. Hunger and satiety.\n3. Thirst; ADH and oxytocin production.\n4. Control of anterior pituitary (releasing/inhibiting hormones).\n5. Highest autonomic centre (HR, BP, gut).\n6. Emotions and behaviour (rage, pleasure, sexual behaviour).\n7. Circadian rhythm and sleep–wake (suprachiasmatic nucleus)."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the functions of the cerebellum and the effects of its lesion.",
+      "answer": "1. Coordinates voluntary movements (smooth, accurate).\n2. Maintains balance and posture with vestibular system.\n3. Maintains muscle tone.\n4. Motor learning.\n5. Lesion (same side): ataxia (wide-based staggering gait), intention tremor, dysdiadochokinesia, dysmetria (past-pointing), nystagmus, scanning speech, hypotonia."
+    },
+    {
+      "id": "u8-s05",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the nerve impulse (action potential).",
+      "answer": "1. Resting membrane potential ≈ −70 mV (Na+–K+ pump, K+ leak, intracellular anions).\n2. Stimulus reaches threshold (≈ −55 mV).\n3. Depolarisation: voltage-gated Na+ channels open, Na+ in → +30 mV.\n4. Repolarisation: Na+ channels close, K+ channels open, K+ out.\n5. Hyperpolarisation, then pump restores ions.\n6. All-or-none; absolute and relative refractory periods.\n7. Saltatory conduction in myelinated fibres — faster."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the normal resting membrane potential of a neuron?",
+      "answer": "About −70 mV (inside negative relative to outside)."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State two differences between upper and lower motor neuron lesions.",
+      "answer": "UMN lesion: spastic paralysis with exaggerated reflexes and positive Babinski sign; LMN lesion: flaccid paralysis with absent reflexes and marked muscle wasting."
+    },
+    {
+      "id": "u8-v03",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are the functions of the semicircular canals?",
+      "answer": "They detect rotational (angular) acceleration of the head through hair cells in the crista ampullaris, helping maintain balance and steady eye position during head movement."
+    }
+  ]
+}

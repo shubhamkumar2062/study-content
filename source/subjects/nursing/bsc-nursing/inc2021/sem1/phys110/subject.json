@@ -1,0 +1,23 @@
+{
+  "code": "PHYS110",
+  "title": "Applied Physiology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Applied Physiology, pages 250–254; exam pattern in section 5 (page 242) and Appendix 3, page 416",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "General physiology: cell, body fluids, tissues, membranes and glands", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "The respiratory system", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "The digestive system", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "The circulatory system and blood", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "The endocrine system and the sensory organs", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "The musculoskeletal system", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "The renal and reproductive systems", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "The nervous system", "notes": "notes/unit-8.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}

@@ -1,0 +1,1180 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The sodium–potassium pump moves, for each ATP used:",
+      "options": [
+        "2 Na+ out and 3 K+ in",
+        "3 K+ out and 2 Na+ in",
+        "1 Na+ out and 1 K+ in",
+        "3 Na+ out and 2 K+ in"
+      ],
+      "correct": 3,
+      "explanation": "Na+–K+ ATPase pumps 3 Na+ out and 2 K+ into the cell per ATP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The main cation of the intracellular fluid is:",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correct": 1,
+      "explanation": "K+ is about 140 mmol/L inside cells; Na+ is the main ECF cation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "In an adult man, total body water is about what percentage of body weight?",
+      "options": [
+        "40%",
+        "75%",
+        "60%",
+        "20%"
+      ],
+      "correct": 2,
+      "explanation": "About 60%: two-thirds intracellular and one-third extracellular.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Glucose entry into most cells by a carrier, down its gradient and without ATP, is called:",
+      "options": [
+        "Simple diffusion",
+        "Primary active transport",
+        "Pinocytosis",
+        "Facilitated diffusion"
+      ],
+      "correct": 3,
+      "explanation": "GLUT carriers move glucose down its gradient; the process shows saturation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Red cells placed in a hypotonic solution will:",
+      "options": [
+        "Shrink and crenate",
+        "Stay unchanged",
+        "Swell and may burst",
+        "Clump together"
+      ],
+      "correct": 2,
+      "explanation": "Water enters the cells by osmosis, causing swelling and haemolysis.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which is an example of positive feedback?",
+      "options": [
+        "Baroreceptor reflex",
+        "Insulin release after a meal",
+        "Sweating in heat",
+        "Oxytocin and uterine contractions in labour"
+      ],
+      "correct": 3,
+      "explanation": "In labour each contraction releases more oxytocin until delivery ends the loop.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "DNA is replicated during which phase of the cell cycle?",
+      "options": [
+        "G1 phase",
+        "G2 phase",
+        "S phase",
+        "M phase"
+      ],
+      "correct": 2,
+      "explanation": "S (synthesis) phase copies DNA; G1 and G2 are growth phases.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Sebaceous glands release their secretion by which mode?",
+      "options": [
+        "Holocrine",
+        "Merocrine",
+        "Apocrine",
+        "Endocrine"
+      ],
+      "correct": 0,
+      "explanation": "The whole sebaceous cell disintegrates to become the secretion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Plasma makes up about what fraction of the extracellular fluid?",
+      "options": [
+        "Three-quarters",
+        "One-quarter",
+        "One-half",
+        "One-tenth"
+      ],
+      "correct": 1,
+      "explanation": "Plasma is about 1/4 of ECF; interstitial fluid about 3/4.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Granulation tissue is characteristic of which phase of wound healing?",
+      "options": [
+        "Haemostasis",
+        "Inflammation",
+        "Maturation",
+        "Proliferation"
+      ],
+      "correct": 3,
+      "explanation": "Fibroblasts and new capillaries form granulation tissue in the proliferative phase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Normal tidal volume in an adult is about:",
+      "options": [
+        "150 mL",
+        "1200 mL",
+        "3000 mL",
+        "500 mL"
+      ],
+      "correct": 3,
+      "explanation": "Tidal volume is about 500 mL; 150 mL is dead space.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Surfactant is secreted by:",
+      "options": [
+        "Type I alveolar cells",
+        "Alveolar macrophages",
+        "Goblet cells",
+        "Type II alveolar cells"
+      ],
+      "correct": 3,
+      "explanation": "Type II pneumocytes secrete surfactant, which lowers surface tension.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The major part of carbon dioxide is carried in blood as:",
+      "options": [
+        "Dissolved CO2",
+        "Carbaminohaemoglobin",
+        "Bicarbonate ions",
+        "Carbonic acid"
+      ],
+      "correct": 2,
+      "explanation": "About 70% of CO2 is carried as bicarbonate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "A shift of the oxygen–haemoglobin dissociation curve to the right is caused by:",
+      "options": [
+        "Decreased temperature",
+        "Fetal haemoglobin",
+        "Decreased 2,3-BPG",
+        "Increased PCO2 and acidity"
+      ],
+      "correct": 3,
+      "explanation": "Bohr effect: CO2, H+, heat and 2,3-BPG shift the curve right.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "The strongest normal stimulus to breathing is:",
+      "options": [
+        "Fall in arterial PO2",
+        "Rise in arterial PCO2",
+        "Rise in blood pH",
+        "Lung inflation"
+      ],
+      "correct": 1,
+      "explanation": "CO2 forms H+ in CSF, stimulating the central chemoreceptors.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Vital capacity equals:",
+      "options": [
+        "IRV + TV + ERV",
+        "TV + RV",
+        "ERV + RV",
+        "IRV + TV"
+      ],
+      "correct": 0,
+      "explanation": "VC = inspiratory reserve + tidal + expiratory reserve volume (about 4600 mL).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Cyanosis appears when reduced haemoglobin in capillary blood exceeds about:",
+      "options": [
+        "1 g/dL",
+        "10 g/dL",
+        "5 g/dL",
+        "15 g/dL"
+      ],
+      "correct": 2,
+      "explanation": "More than about 5 g/dL of deoxygenated Hb gives a bluish colour.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Hypoxia due to cyanide poisoning is of which type?",
+      "options": [
+        "Histotoxic",
+        "Anaemic",
+        "Stagnant",
+        "Hypoxic"
+      ],
+      "correct": 0,
+      "explanation": "Cyanide blocks cellular use of oxygen.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The pneumotaxic centre is located in the:",
+      "options": [
+        "Pons",
+        "Medulla",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "correct": 0,
+      "explanation": "The pneumotaxic centre in the upper pons limits inspiration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Normal partial pressure of oxygen in alveolar air is about:",
+      "options": [
+        "104 mmHg",
+        "40 mmHg",
+        "159 mmHg",
+        "45 mmHg"
+      ],
+      "correct": 0,
+      "explanation": "Alveolar PO2 is about 104 mmHg; mixed venous blood is about 40.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Hydrochloric acid in the stomach is secreted by:",
+      "options": [
+        "Chief cells",
+        "Parietal cells",
+        "G cells",
+        "Mucous neck cells"
+      ],
+      "correct": 1,
+      "explanation": "Parietal (oxyntic) cells secrete HCl and intrinsic factor.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Intrinsic factor is required for the absorption of:",
+      "options": [
+        "Iron",
+        "Folic acid",
+        "Vitamin B12",
+        "Vitamin K"
+      ],
+      "correct": 2,
+      "explanation": "B12 bound to intrinsic factor is absorbed in the terminal ileum.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Trypsinogen is converted to trypsin by:",
+      "options": [
+        "Pepsin",
+        "Enterokinase",
+        "Secretin",
+        "Bile salts"
+      ],
+      "correct": 1,
+      "explanation": "Enterokinase from the duodenal mucosa activates trypsinogen.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Secretin stimulates the pancreas to secrete juice rich in:",
+      "options": [
+        "Lipase",
+        "Bicarbonate",
+        "Trypsinogen",
+        "Amylase"
+      ],
+      "correct": 1,
+      "explanation": "Secretin gives watery bicarbonate-rich juice; CCK gives enzyme-rich juice.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The largest share of gastric secretion occurs in which phase?",
+      "options": [
+        "Cephalic phase",
+        "Intestinal phase",
+        "Gastric phase",
+        "Interdigestive phase"
+      ],
+      "correct": 2,
+      "explanation": "The gastric phase gives about 60% of secretion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Products of fat digestion leave intestinal cells mainly as:",
+      "options": [
+        "Free fatty acids into portal blood",
+        "Micelles into capillaries",
+        "Chylomicrons into lacteals",
+        "Bile salts into lymph"
+      ],
+      "correct": 2,
+      "explanation": "Triglycerides are re-formed and packed as chylomicrons that enter lymph.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Salivary secretion is controlled by:",
+      "options": [
+        "Nerves only",
+        "Hormones only",
+        "Both gastrin and secretin",
+        "Insulin"
+      ],
+      "correct": 0,
+      "explanation": "Salivation is purely reflex, mainly parasympathetic.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Gall bladder contraction is stimulated by:",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Somatostatin",
+        "Cholecystokinin"
+      ],
+      "correct": 3,
+      "explanation": "CCK released by fat in the duodenum contracts the gall bladder.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Glucose is absorbed from the intestine mainly by:",
+      "options": [
+        "Simple diffusion",
+        "Pinocytosis",
+        "Sodium-coupled secondary active transport",
+        "Filtration"
+      ],
+      "correct": 2,
+      "explanation": "SGLT1 carries glucose with Na+; this is the basis of ORS.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Mass movements of the colon after meals are due to the:",
+      "options": [
+        "Enterogastric reflex",
+        "Hering–Breuer reflex",
+        "Bainbridge reflex",
+        "Gastrocolic reflex"
+      ],
+      "correct": 3,
+      "explanation": "Food entering the stomach triggers mass movements in the colon.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The pacemaker of the heart is the:",
+      "options": [
+        "SA node",
+        "AV node",
+        "Bundle of His",
+        "Purkinje fibres"
+      ],
+      "correct": 0,
+      "explanation": "The SA node fires fastest (about 70–80/min) and sets the rate.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The first heart sound is due to closure of:",
+      "options": [
+        "Mitral and tricuspid valves",
+        "Aortic and pulmonary valves",
+        "Mitral and aortic valves",
+        "Tricuspid and pulmonary valves"
+      ],
+      "correct": 0,
+      "explanation": "S1 marks AV valve closure at the start of ventricular systole.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Normal cardiac output in an adult at rest is about:",
+      "options": [
+        "5 L/min",
+        "1 L/min",
+        "10 L/min",
+        "20 L/min"
+      ],
+      "correct": 0,
+      "explanation": "CO = 70 mL × 72 beats ≈ 5 L/min.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Baroreceptors that regulate blood pressure are located in the:",
+      "options": [
+        "Carotid body and aortic body",
+        "Carotid sinus and aortic arch",
+        "Medulla oblongata",
+        "Right atrium only"
+      ],
+      "correct": 1,
+      "explanation": "Stretch receptors in the carotid sinus and aortic arch sense pressure.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Pulse pressure is:",
+      "options": [
+        "Diastolic plus one-third pulse pressure",
+        "Systolic plus diastolic pressure",
+        "Systolic minus diastolic pressure",
+        "Mean arterial pressure"
+      ],
+      "correct": 2,
+      "explanation": "Pulse pressure is about 120 − 80 = 40 mmHg.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The normal life span of red blood cells is about:",
+      "options": [
+        "30 days",
+        "60 days",
+        "10 days",
+        "120 days"
+      ],
+      "correct": 3,
+      "explanation": "RBCs live about 120 days and are removed mainly in the spleen.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Erythropoietin is produced mainly by the:",
+      "options": [
+        "Kidneys",
+        "Liver",
+        "Bone marrow",
+        "Spleen"
+      ],
+      "correct": 0,
+      "explanation": "The kidneys release erythropoietin in response to hypoxia.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Haemophilia A is due to deficiency of factor:",
+      "options": [
+        "IX",
+        "VII",
+        "XII",
+        "VIII"
+      ],
+      "correct": 3,
+      "explanation": "Factor VIII lack causes haemophilia A; factor IX lack causes haemophilia B.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "A person with blood group AB has in the plasma:",
+      "options": [
+        "Anti-A antibodies",
+        "Anti-B antibodies",
+        "Both anti-A and anti-B",
+        "No anti-A or anti-B antibodies"
+      ],
+      "correct": 3,
+      "explanation": "AB has both antigens, so no ABO antibodies — the universal recipient.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The immunoglobulin that crosses the placenta is:",
+      "options": [
+        "IgA",
+        "IgG",
+        "IgM",
+        "IgE"
+      ],
+      "correct": 1,
+      "explanation": "IgG gives the newborn passive immunity; IgA is in breast milk.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "The most numerous white blood cells in normal blood are:",
+      "options": [
+        "Lymphocytes",
+        "Neutrophils",
+        "Monocytes",
+        "Eosinophils"
+      ],
+      "correct": 1,
+      "explanation": "Neutrophils make up about 50–70% of the differential count.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Coronary blood flow to the left ventricle occurs mainly during:",
+      "options": [
+        "Systole",
+        "Isovolumetric contraction",
+        "Atrial systole",
+        "Diastole"
+      ],
+      "correct": 3,
+      "explanation": "Contracting muscle compresses coronary vessels in systole.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Antidiuretic hormone is synthesised in the:",
+      "options": [
+        "Anterior pituitary",
+        "Hypothalamus",
+        "Posterior pituitary",
+        "Adrenal cortex"
+      ],
+      "correct": 1,
+      "explanation": "ADH is made in the hypothalamus and stored in the posterior pituitary.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Deficiency of thyroid hormone in infancy causes:",
+      "options": [
+        "Cretinism",
+        "Myxoedema",
+        "Acromegaly",
+        "Graves' disease"
+      ],
+      "correct": 0,
+      "explanation": "Congenital hypothyroidism (cretinism) causes mental and physical retardation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Parathyroid hormone:",
+      "options": [
+        "Lowers blood calcium",
+        "Lowers blood glucose",
+        "Raises blood sodium",
+        "Raises blood calcium"
+      ],
+      "correct": 3,
+      "explanation": "PTH increases bone resorption, renal calcium reabsorption and vitamin D activation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The only hormone that lowers blood glucose is:",
+      "options": [
+        "Glucagon",
+        "Cortisol",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "correct": 2,
+      "explanation": "Insulin from β cells lowers blood glucose; the others raise it.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Aldosterone is secreted by the:",
+      "options": [
+        "Zona fasciculata",
+        "Zona reticularis",
+        "Zona glomerulosa",
+        "Adrenal medulla"
+      ],
+      "correct": 2,
+      "explanation": "The outer zona glomerulosa secretes mineralocorticoids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Melatonin is secreted by the:",
+      "options": [
+        "Thymus",
+        "Pituitary gland",
+        "Pineal gland",
+        "Thyroid gland"
+      ],
+      "correct": 2,
+      "explanation": "Melatonin from the pineal, secreted in darkness, sets circadian rhythm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Myopia is corrected by a:",
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Cylindrical lens",
+        "Bifocal lens only"
+      ],
+      "correct": 0,
+      "explanation": "In myopia the image forms in front of the retina; a diverging lens corrects it.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Night blindness is caused by deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin B12"
+      ],
+      "correct": 0,
+      "explanation": "Rhodopsin in rods is made from vitamin A.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Taste sensation from the anterior two-thirds of the tongue is carried by the:",
+      "options": [
+        "Facial nerve",
+        "Glossopharyngeal nerve",
+        "Vagus nerve",
+        "Hypoglossal nerve"
+      ],
+      "correct": 0,
+      "explanation": "The chorda tympani branch of the facial nerve carries it.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The primary auditory area is located in the:",
+      "options": [
+        "Occipital lobe",
+        "Frontal lobe",
+        "Parietal lobe",
+        "Temporal lobe"
+      ],
+      "correct": 3,
+      "explanation": "Areas 41 and 42 of the temporal lobe receive hearing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "During skeletal muscle contraction, calcium binds to:",
+      "options": [
+        "Tropomyosin",
+        "Myosin",
+        "Troponin",
+        "Actin"
+      ],
+      "correct": 2,
+      "explanation": "Ca2+ binding to troponin C moves tropomyosin and exposes actin sites.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Calcium for skeletal muscle contraction is released from the:",
+      "options": [
+        "Mitochondria",
+        "Golgi apparatus",
+        "Nucleus",
+        "Sarcoplasmic reticulum"
+      ],
+      "correct": 3,
+      "explanation": "The action potential in T tubules triggers Ca2+ release from the SR.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Rigor mortis is due to:",
+      "options": [
+        "Excess calcium uptake",
+        "Excess acetylcholine",
+        "Lack of myosin",
+        "Lack of ATP"
+      ],
+      "correct": 3,
+      "explanation": "Without ATP, myosin heads cannot detach from actin.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Cells that resorb bone are:",
+      "options": [
+        "Osteoblasts",
+        "Osteocytes",
+        "Osteoclasts",
+        "Chondrocytes"
+      ],
+      "correct": 2,
+      "explanation": "Osteoclasts break down bone and release calcium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "The shoulder joint is an example of:",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Ball-and-socket joint",
+        "Saddle joint"
+      ],
+      "correct": 2,
+      "explanation": "The rounded head of the humerus fits the glenoid cavity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "Cardiac muscle cannot be tetanised because it has a:",
+      "options": [
+        "Short refractory period",
+        "Lack of calcium",
+        "Long refractory period",
+        "No striations"
+      ],
+      "correct": 2,
+      "explanation": "The refractory period lasts nearly as long as contraction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Intercalated discs are found in:",
+      "options": [
+        "Cardiac muscle",
+        "Skeletal muscle",
+        "Smooth muscle",
+        "All three types"
+      ],
+      "correct": 0,
+      "explanation": "They contain gap junctions that make cardiac muscle a syncytium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "In smooth muscle, calcium binds to:",
+      "options": [
+        "Calmodulin",
+        "Troponin",
+        "Tropomyosin",
+        "Myoglobin"
+      ],
+      "correct": 0,
+      "explanation": "Ca2+–calmodulin activates myosin light-chain kinase.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "The neurotransmitter at the neuromuscular junction is:",
+      "options": [
+        "Noradrenaline",
+        "Dopamine",
+        "GABA",
+        "Acetylcholine"
+      ],
+      "correct": 3,
+      "explanation": "ACh acts on nicotinic receptors of the motor end plate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "The first stage of fracture healing is:",
+      "options": [
+        "Hard callus",
+        "Remodelling",
+        "Haematoma formation",
+        "Soft callus"
+      ],
+      "correct": 2,
+      "explanation": "Bleeding forms a clot between the bone ends first.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "Normal glomerular filtration rate is about:",
+      "options": [
+        "25 mL/min",
+        "125 mL/min",
+        "500 mL/min",
+        "1200 mL/min"
+      ],
+      "correct": 1,
+      "explanation": "GFR is about 125 mL/min, about 180 L/day.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "Most of the filtered sodium and water is reabsorbed in the:",
+      "options": [
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "correct": 1,
+      "explanation": "The PCT reabsorbs about 65% of filtered Na+ and water.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "The renal threshold for glucose is about:",
+      "options": [
+        "80 mg/dL",
+        "100 mg/dL",
+        "180 mg/dL",
+        "300 mg/dL"
+      ],
+      "correct": 2,
+      "explanation": "Above about 180 mg/dL glucose spills into urine.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "Water reabsorption in the collecting duct is controlled by:",
+      "options": [
+        "Aldosterone",
+        "ADH",
+        "Renin",
+        "ANP"
+      ],
+      "correct": 1,
+      "explanation": "ADH inserts aquaporins into collecting duct cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "The spinal centre for micturition is at:",
+      "options": [
+        "S2–S4",
+        "T1–L2",
+        "C3–C5",
+        "L2–L4"
+      ],
+      "correct": 0,
+      "explanation": "Pelvic parasympathetic nerves from S2–S4 contract the detrusor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "Ovulation is triggered by a surge of:",
+      "options": [
+        "FSH",
+        "Progesterone",
+        "Prolactin",
+        "LH"
+      ],
+      "correct": 3,
+      "explanation": "High oestrogen triggers the LH surge about day 14.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "The secretory phase of the endometrium is due mainly to:",
+      "options": [
+        "Oestrogen from growing follicles",
+        "FSH",
+        "Progesterone from the corpus luteum",
+        "Oxytocin"
+      ],
+      "correct": 2,
+      "explanation": "Progesterone makes the endometrium secretory for implantation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "Fertilisation normally occurs in the:",
+      "options": [
+        "Uterine cavity",
+        "Ampulla of the uterine tube",
+        "Ovary",
+        "Cervix"
+      ],
+      "correct": 1,
+      "explanation": "The ampulla is the usual site; the zygote then moves to the uterus.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "Testosterone is secreted by:",
+      "options": [
+        "Sertoli cells",
+        "Spermatogonia",
+        "Leydig cells",
+        "Seminal vesicles"
+      ],
+      "correct": 2,
+      "explanation": "Leydig (interstitial) cells secrete testosterone under LH.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m10",
+      "unit": 7,
+      "question": "Milk ejection (let-down) is caused by:",
+      "options": [
+        "Prolactin",
+        "Oxytocin",
+        "Oestrogen",
+        "Progesterone"
+      ],
+      "correct": 1,
+      "explanation": "Suckling releases oxytocin, which contracts myoepithelial cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "The resting membrane potential of a neuron is about:",
+      "options": [
+        "−70 mV",
+        "+30 mV",
+        "−20 mV",
+        "−120 mV"
+      ],
+      "correct": 0,
+      "explanation": "Inside the neuron is about 70 mV negative at rest.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Depolarisation during an action potential is due to:",
+      "options": [
+        "Influx of sodium ions",
+        "Efflux of potassium ions",
+        "Influx of chloride ions",
+        "Efflux of sodium ions"
+      ],
+      "correct": 0,
+      "explanation": "Voltage-gated Na+ channels open and Na+ rushes in.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "The vital centres for heart rate, blood pressure and respiration are located in the:",
+      "options": [
+        "Cerebellum",
+        "Medulla oblongata",
+        "Thalamus",
+        "Cerebral cortex"
+      ],
+      "correct": 1,
+      "explanation": "The medulla holds the cardiac, vasomotor and respiratory centres.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "Intention tremor is a sign of a lesion of the:",
+      "options": [
+        "Basal ganglia",
+        "Cerebellum",
+        "Spinal cord",
+        "Thalamus"
+      ],
+      "correct": 1,
+      "explanation": "Cerebellar damage causes tremor on purposeful movement.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "A positive Babinski sign in an adult indicates a lesion of the:",
+      "options": [
+        "Lower motor neuron",
+        "Upper motor neuron",
+        "Cerebellum",
+        "Peripheral sensory nerve"
+      ],
+      "correct": 1,
+      "explanation": "Extensor plantar response indicates corticospinal (UMN) damage.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "Pain and temperature are carried by the:",
+      "options": [
+        "Dorsal column",
+        "Lateral spinothalamic tract",
+        "Corticospinal tract",
+        "Spinocerebellar tract"
+      ],
+      "correct": 1,
+      "explanation": "The lateral spinothalamic tract crosses in the cord and carries pain and temperature.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "CSF is formed mainly by the:",
+      "options": [
+        "Arachnoid villi",
+        "Dural sinuses",
+        "Ependyma of the spinal canal",
+        "Choroid plexuses"
+      ],
+      "correct": 3,
+      "explanation": "Choroid plexuses of the ventricles produce most CSF.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "The postganglionic neurotransmitter of most sympathetic fibres is:",
+      "options": [
+        "Acetylcholine",
+        "Noradrenaline",
+        "Dopamine",
+        "Serotonin"
+      ],
+      "correct": 1,
+      "explanation": "Most sympathetic postganglionic fibres release noradrenaline; sweat glands use ACh.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "Cardiac pain referred to the inner side of the left arm is explained by:",
+      "options": [
+        "Convergence of afferents on the same spinal segment",
+        "Direct nerve supply of the arm by the heart",
+        "Spread of inflammation",
+        "Vagal stimulation"
+      ],
+      "correct": 0,
+      "explanation": "Visceral and skin afferents share spinal neurons, so the brain misplaces the pain.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m10",
+      "unit": 8,
+      "question": "Rotational movements of the head are detected by the:",
+      "options": [
+        "Utricle",
+        "Saccule",
+        "Cochlea",
+        "Semicircular canals"
+      ],
+      "correct": 3,
+      "explanation": "The crista ampullaris in the semicircular canals senses angular acceleration.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m11",
+      "unit": 8,
+      "question": "The knee jerk reflex is mediated by spinal segments:",
+      "options": [
+        "L2–L4",
+        "S1–S2",
+        "C5–C6",
+        "T10–T12"
+      ],
+      "correct": 0,
+      "explanation": "The patellar reflex uses the femoral nerve, L2–L4.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m12",
+      "unit": 8,
+      "question": "Total volume of CSF at any time in an adult is about:",
+      "options": [
+        "50 mL",
+        "150 mL",
+        "500 mL",
+        "1000 mL"
+      ],
+      "correct": 1,
+      "explanation": "About 150 mL; about 500 mL is formed each day.",
+      "probability": "low"
+    }
+  ]
+}
