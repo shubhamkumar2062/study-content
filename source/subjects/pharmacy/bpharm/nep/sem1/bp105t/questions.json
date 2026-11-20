@@ -1,0 +1,374 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on syllabus weight and common patterns in pharmacognosy papers. BP105T is a new course of the 2026 (NEP 2020) syllabus, so there are few past papers yet. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define pharmacognosy. Describe the different systems of classification of crude drugs with suitable examples, giving the merits and limitations of each.",
+      "answer": "1. Definition: pharmacognosy (pharmakon = drug, gnosis = knowledge) is the study of drugs of natural origin — their sources, identification, cultivation, constituents, evaluation and uses.\n2. Alphabetical: drugs listed A to Z by Latin/English name (acacia, agar, aloe…), as in IP and BP. Merit: quick to locate. Limitation: no relationship between drugs.\n3. Morphological: by part used — organised drugs (leaves: senna; barks: cinchona; roots: rauwolfia; flowers: clove; fruits: fennel; seeds: nux vomica) and unorganised drugs (gums, resins, latex, oils, extracts). Merit: helps identification and practical study. Limitation: ignores chemistry and action.\n4. Taxonomical: by natural plant classification — family, genus, species (Solanaceae: belladonna, datura; Apiaceae: fennel, coriander). Merit: shows natural relationship; related plants often share constituents. Limitation: no link to therapeutic use; changes with revision of families.\n5. Chemical: by main constituent — alkaloids (cinchona), glycosides (senna), tannins (catechu), volatile oils (clove), resins (benzoin), carbohydrates (acacia). Merit: suits phytochemical study and assays. Limitation: drugs with several constituent groups; some constituents unknown.\n6. Pharmacological: by action — laxatives (senna, ispaghula), cardiotonics (digitalis, arjuna), expectorants (vasaka), hepatoprotectives (milk thistle). Merit: useful for clinical use and substitutes. Limitation: one drug with several actions; unrelated plants together.\n7. Chemotaxonomic: by botanical relationship plus chemistry (tropane alkaloids in Solanaceae, isoquinolines in Papaveraceae). Merit: modern, finds new sources and corrects taxonomy. Limitation: needs complete chemical data; compounds can occur in unrelated families.\n8. Conclusion: no single system is perfect; morphological suits identification, chemical and pharmacological suit study of action."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Write a note on the history, present status and scope of pharmacognosy. Add an account of any four historical milestones in drug discovery from natural sources.",
+      "answer": "1. History: ancient Indian texts (Charaka, Sushruta Samhita), Chinese herbal tradition, Egyptian Ebers Papyrus; Dioscorides' De Materia Medica (1st century AD); Galen (galenicals); Avicenna's Canon; term pharmacognosy credited to Seydler (1815); 19th-century isolation of pure principles.\n2. Present status: many modern drugs are natural or nature-derived (anticancer, antibiotics); large population uses traditional medicine; AYUSH herbal industry; herbal products need regulation and quality control.\n3. Scope: authentication, standardisation and QC; cultivation and conservation (GACP); phytochemistry; drug discovery; biotechnology and tissue culture; herbal formulations; pharmacovigilance; nutraceuticals and cosmetics; pharmacopoeial and regulatory work.\n4. Morphine: from opium poppy latex, isolated by Sertürner in the early 1800s — first alkaloid; still a standard analgesic.\n5. Quinine: from cinchona bark, isolated by Pelletier and Caventou (1820) — first effective antimalarial, led to chloroquine.\n6. Penicillin: Fleming (1928) observed Penicillium notatum killing staphylococci; Florey and Chain purified it — start of the antibiotic era.\n7. Artemisinin: Tu Youyou isolated it from Artemisia annua (qinghao) guided by an old Chinese text; sesquiterpene lactone endoperoxide; artemisinin combinations treat falciparum malaria (Nobel 2015).\n8. (Alternatives: aspirin from salicin of willow, warfarin from dicoumarol of spoiled sweet clover, cephalosporin from Brotzu's fungus, taxol from Taxus brevifolia.)"
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the various sources of drugs of natural origin with two examples of each.",
+      "answer": "1. Plants — largest source: morphine (opium poppy), digoxin (Digitalis lanata), quinine (cinchona).\n2. Animals: honey, beeswax, lanolin, gelatin, cod-liver oil.\n3. Microbes (fermentation): penicillin (Penicillium), streptomycin (Streptomyces griseus), lovastatin (Aspergillus terreus).\n4. Marine: agar and alginates (seaweeds), trabectedin (sea squirt), ziconotide (cone snail).\n5. Minerals: kaolin, talc, calcium carbonate, bhasmas.\n6. Plant tissue culture: shikonin from Lithospermum cell culture; paclitaxel by plant cell fermentation."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write a short note on the discovery of taxol (paclitaxel).",
+      "answer": "1. Source: bark of the Pacific yew, Taxus brevifolia (Taxaceae).\n2. Found in a US National Cancer Institute plant-screening programme; isolated by Wall and Wani; a diterpenoid.\n3. Unique action: binds tubulin and stabilises microtubules, stopping cell division (mitotic arrest).\n4. Supply problem: bark of slow-growing trees gave tiny yields and killed the tree.\n5. Solution: semisynthesis from 10-deacetylbaccatin III obtained from renewable needles of Taxus baccata; also plant cell fermentation.\n6. Use: ovarian, breast and lung cancers. Lesson: natural lead + conservation through semisynthesis."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write a note on herbal and traditional pharmacopoeias.",
+      "answer": "1. Pharmacopoeia = official book of standards giving monographs for identity, purity and strength.\n2. Indian Pharmacopoeia — Indian Pharmacopoeia Commission (first edition 1955); legal standard under the Drugs and Cosmetics Act; has herbal monographs (macroscopy, microscopy, TLC, ash, extractives, marker assay).\n3. British Herbal Pharmacopoeia — British Herbal Medicine Association; monographs for herbal practitioners.\n4. USP Herbal Medicines and Dietary Supplements — monographs for botanicals and their extracts.\n5. Ayurvedic Pharmacopoeia of India and Unani Pharmacopoeia of India — PCIM&H, Ministry of AYUSH; single drugs and formulations with traditional properties.\n6. American Herbal Pharmacopoeia — independent US body; detailed botanical, analytical and therapeutic monographs, not legally binding."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Differentiate between official and non-official drugs, and between codified and non-codified drugs, with examples.",
+      "answer": "1. Official drug: has a monograph in the official pharmacopoeia and must meet its standards (ispaghula husk, senna in IP).\n2. Non-official drug: not in the pharmacopoeia, though it may be widely used (many folk herbs).\n3. Codified drug: use recorded in authoritative classical texts of a traditional system — Ayurveda, Unani, Siddha (Triphala churna, Ashwagandharishta).\n4. Non-codified drug: folk, tribal or household remedies passed on orally, not in classical texts; need documentation (Traditional Knowledge Digital Library) and are leads for ethnopharmacology."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define crude drug and biological source.",
+      "answer": "Crude drug: a natural product only collected and dried or simply processed, not purified (senna leaf). Biological source: the plant or animal giving the drug, stated with part used, botanical name and family (clove = dried flower buds of Syzygium aromaticum, Myrtaceae)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are organised and unorganised drugs? Give one example of each.",
+      "answer": "Organised drugs have a cellular structure and are plant or animal parts (senna leaf, cinchona bark). Unorganised drugs have no cells: gums, resins, latex, dried juices, oils and extracts (acacia gum, aloe)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Describe the methods of propagation of medicinal plants. Discuss the factors influencing the cultivation of medicinal plants.",
+      "answer": "1. Sexual (seed) propagation: fennel, coriander, isabgol, datura; cheap and easy, hardy plants, but offspring vary; seed treatments — soaking, scarification, stratification, gibberellic acid.\n2. Vegetative — natural: rhizomes (ginger, turmeric), bulbs (garlic), tubers, runners and suckers (mint).\n3. Vegetative — artificial: cuttings (stem, root — rauwolfia), layering (simple, air layering/gootee), grafting (scion on rootstock), budding.\n4. Micropropagation: explants on sterile medium with auxin and cytokinin give many identical plantlets (rare plants, kutki).\n5. Merits of vegetative methods: true-to-type plants with uniform chemistry, early maturity; demerits: costly, disease carried over.\n6. Factors: altitude (tea, cinchona, Himalayan kutki), temperature, rainfall and irrigation, day length and light, soil (texture, pH, drainage).\n7. Fertilisers and manures (nitrogen raises alkaloid content in belladonna), pests and diseases, genetic make-up (chemotypes).\n8. Conclusion: cultivation of authenticated material under GACP gives uniform quality and protects wild stocks."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "What is conservation of medicinal plants? Compare in-situ and ex-situ conservation. Explain the role of eco-pharmacognosy in conserving kutki and chirata.",
+      "answer": "1. Conservation: protection and sustainable use of medicinal plant resources so that they remain for future use; needed because most raw material is collected from the wild and many species are threatened (IUCN Red List, CITES, NMPB, Biological Diversity Act 2002).\n2. In-situ: in natural habitat — national parks, sanctuaries, biosphere reserves, sacred groves, Medicinal Plants Conservation Areas; keeps whole ecosystem; needs protection from people.\n3. Ex-situ: outside habitat — botanical/herbal gardens, field gene banks, seed banks, tissue culture, cryopreservation (−196 °C), farm cultivation; rescues rare species, but limited genetic diversity and costly.\n4. Value addition: processing, standardised extracts, certification, producer groups — gives farmers reason to cultivate.\n5. Eco-pharmacognosy: sustainable use of natural resources for medicines — cultivation instead of wild collection, limits on harvesting, use of renewable parts, biotechnology, benefit sharing.\n6. Kutki (Picrorhiza kurroa, Plantaginaceae): alpine Himalayan; rhizome with picrosides (kutkin); threatened by uprooting; conserved by cultivation, micropropagation, nurseries and harvest limits.\n7. Chirata (Swertia chirayita, Gentianaceae): whole plant; amarogentin, swertiamarin, mangiferin; uprooted before seed set and widely substituted; conserved by seed cultivation, tissue culture and harvesting after seed fall."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write the WHO guidelines on Good Agricultural and Collection Practices (GACP) for medicinal plants.",
+      "answer": "1. Correct botanical identification; voucher specimens; authentic, disease-free seed and planting material.\n2. Site free from heavy metals, pesticides and pollution; suitable climate.\n3. Composted manure only, clean irrigation water, minimum approved pesticides with records.\n4. Harvest at the right stage in dry weather with clean equipment; wild collection with permits and sustainable quantities.\n5. Prompt primary processing (cleaning, drying); clean packaging, labelled storage and transport.\n6. Trained, healthy personnel with hygiene; full documentation and traceability; quality assurance and audits."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write a note on the collection, drying and storage of crude drugs.",
+      "answer": "1. Collection time: leaves at flowering; flowers before full opening (clove buds); barks in spring when cambium is active; roots and rhizomes after aerial parts die; seeds when ripe; gums in the dry season.\n2. Processing: garbling to remove foreign matter, washing, slicing, special treatments (peeling, curing of vanilla, boiling of turmeric).\n3. Drying stops enzyme and microbial action: sun drying (seeds, roots), shade drying (aromatic and coloured drugs), artificial driers at controlled temperature, freeze-drying.\n4. Storage: cool, dry, dark, ventilated store; airtight containers; desiccant for hygroscopic drugs (squill, digitalis); amber containers for light-sensitive drugs; protection from insects (fumigation) and rodents; first-in-first-out and labelling."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write the applications of plant hormones in the cultivation of medicinal plants.",
+      "answer": "1. Auxins (IAA, IBA, NAA): rooting of stem cuttings; callus formation in tissue culture; 2,4-D as weedicide.\n2. Gibberellins (GA3): break seed dormancy, improve germination, stem elongation and biomass.\n3. Cytokinins (kinetin, BAP, zeatin): cell division and shoot multiplication in micropropagation (high cytokinin → shoots, high auxin → roots).\n4. Abscisic acid: dormancy and stress response; ethylene/ethephon: ripening, increased latex flow (rubber).\n5. Elicitors such as methyl jasmonate and salicylic acid raise secondary metabolite yield in cell cultures."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain the application of polyploidy, mutation and hybridisation in improving the yield of secondary metabolites.",
+      "answer": "1. Polyploidy: more than two chromosome sets, induced by colchicine (blocks spindle formation); larger organs, often more constituent; tetraploid Datura with more alkaloid; Acorus calamus ploidy decides β-asarone content.\n2. Mutation: heritable change induced by X-rays, gamma rays, UV or chemicals (EMS); high-yield mutants selected — Penicillium chrysogenum strains raised penicillin yield many-fold; thebaine-rich poppy lines.\n3. Hybridisation: crossing varieties or species to combine characters; Cinchona ledgeriana × C. succirubra; peppermint is a natural hybrid of water mint and spearmint; hybrid vigour.\n4. All three need screening and stabilisation of the improved plants."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is eco-pharmacognosy?",
+      "answer": "Eco-pharmacognosy is the study and practice of sourcing medicines from nature in a sustainable, environment-friendly way — cultivation, controlled harvesting, renewable parts, biotechnology and benefit sharing — so medicinal species survive for future generations."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the biological source and one constituent of chirata.",
+      "answer": "Chirata is the dried whole plant of Swertia chirayita, family Gentianaceae; constituents include the bitter secoiridoid glycosides amarogentin and swertiamarin, and the xanthone mangiferin."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Define adulteration. Describe the different types of adulteration of crude drugs with suitable examples.",
+      "answer": "1. Definition: substitution of the genuine drug, fully or partly, with other material, or addition of material that lowers its quality, purity or strength; may be intentional or unintentional.\n2. Reasons: scarcity and high price, confusion of vernacular names, similar appearance, careless collection, profit.\n3. Inferior commercial varieties: Arabian senna for Indian senna; Strychnos nux-blanda for nux vomica.\n4. Superficially similar inferior drugs: Ailanthus or Phytolacca leaves in belladonna; papaya seeds in black pepper.\n5. Exhausted drugs: clove and ginger after oil extraction; saffron re-dyed after extraction.\n6. Artificially made substitutes: moulded artificial coffee beans or nutmeg.\n7. Worthless heavy materials: sand in saffron, stones in liquorice, brick powder in powders; synthetic principles: citral in lemon oil, benzyl benzoate in balsam of Peru.\n8. Other parts of the same plant: clove stalks and mother cloves; saffron stamens; stems with senna leaves; foreign florets (safflower in saffron). Detection: organoleptic, microscopic, physical, chemical and DNA methods."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Describe the methods of evaluation of crude drugs. Explain ash values and extractive values.",
+      "answer": "1. Evaluation = confirming identity and judging quality and purity of a drug; five methods.\n2. Organoleptic: colour, odour, taste, size, shape, fracture, special features (quills of cinnamon, bitter taste of chirata).\n3. Microscopic: qualitative (trichomes, stomata, calcium oxalate crystals, starch, fibres; stains such as phloroglucinol-HCl, iodine, Sudan III) and quantitative (stomatal index, vein-islet number, palisade ratio, lycopodium spore method).\n4. Physical: moisture, ash, extractive values, viscosity, swelling index, optical rotation, refractive index, melting point.\n5. Chemical: identity tests (Dragendorff's, Borntrager's, Keller–Killiani), constants (acid and saponification values), assays (titration, UV, HPLC), fingerprints (TLC, HPTLC).\n6. Biological: bioassay against a standard (digitalis in pigeon or guinea pig), microbial assay of antibiotics, microbial limit tests; also heavy metals, pesticides, aflatoxins.\n7. Ash values: total ash (incineration ≤ 450 °C, all inorganic matter), acid-insoluble ash (residue insoluble in dilute HCl — sand and silica), water-soluble ash (detects water-exhausted drug), sulphated ash.\n8. Extractive values: alcohol-soluble (5 g macerated in 100 ml ethanol 24 h, 20 ml filtrate evaporated, dried at 105 °C), water-soluble, ether-soluble; low values indicate exhausted or adulterated drug and are used when no assay exists."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Define stomatal index. How is it determined? Calculate the stomatal index if 18 stomata and 82 epidermal cells are counted in a field.",
+      "answer": "1. Stomatal index = percentage proportion of stomata to the total number of epidermal cells (each stoma counted as one cell) in a given area.\n2. SI = S × 100 / (E + S), where S = number of stomata and E = number of epidermal cells.\n3. Method: peel or clear a leaf piece with chloral hydrate, mount, use a camera lucida/eyepiece grid, count stomata and epidermal cells in several fields and average.\n4. Calculation: SI = 18 × 100 / (82 + 18) = 1800/100 = 18.\n5. Significance: fairly constant for a species, used to distinguish related leaves (Indian and Alexandrian senna)."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Explain foaming index and swelling index with their significance.",
+      "answer": "1. Foaming index: measures saponin content by persistent foam; a decoction is put in tubes in increasing volumes made up to 10 ml, each shaken 15 s, left 15 min, foam height read.\n2. Foaming index = 1000/a, where a = ml of decoction in the tube with 1 cm foam (below 1 cm in all tubes → reported as less than 100). Used for liquorice, shatavari, quillaia.\n3. Swelling index: volume in ml occupied by 1 g of drug with its adhering mucilage after swelling in water for a stated time in a measuring cylinder.\n4. Used for mucilage drugs — ispaghula, linseed, fenugreek; a low value shows adulteration or old material."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write a note on DNA barcoding of herbal drugs.",
+      "answer": "1. DNA barcoding identifies a species from a short standard DNA region.\n2. Steps: DNA extraction → PCR amplification of barcode → sequencing → comparison with a reference library.\n3. Plant barcodes: rbcL and matK (core), ITS/ITS2, trnH–psbA.\n4. Uses: identify powdered/cut drugs, detect substitution in herbal products, check trade in endangered species; independent of season and plant part.\n5. Limitations: gives identity not potency; DNA degraded in processed extracts; needs reference data and laboratory."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Define acid value and saponification value. What is their significance in evaluation of oils?",
+      "answer": "1. Acid value: mg of KOH needed to neutralise the free fatty acids in 1 g of fat or oil.\n2. Significance: high acid value means hydrolysis and rancidity on storage.\n3. Saponification value: mg of KOH needed to saponify the esters (and neutralise free acids) in 1 g of fat or oil.\n4. Significance: inversely related to mean molecular weight of fatty acids; falls when unsaponifiable mineral oil is added — detects adulteration.\n5. Ester value = saponification value − acid value."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is acid-insoluble ash? What does a high value indicate?",
+      "answer": "Acid-insoluble ash is the part of total ash that does not dissolve on boiling with dilute hydrochloric acid. It is mostly silica, so a high value shows contamination with sand, soil or earthy matter."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State the principle of the lycopodium spore method.",
+      "answer": "Lycopodium spores are uniform, about 94,000 per mg. A known weight is mixed with a known weight of powdered drug; counting characteristic drug particles and spores in the same fields allows calculation of the percentage of genuine drug."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Differentiate between primary and secondary metabolites. Give the definition, general properties and tests of alkaloids and glycosides.",
+      "answer": "1. Primary metabolites: essential for life, found in all plants, large amounts, made by photosynthesis and central metabolism — carbohydrates, proteins, lipids; used as excipients and nutrients.\n2. Secondary metabolites: not essential, limited distribution, small amounts, defence and attraction roles, made via shikimic acid, acetate–malonate and mevalonate/MEP pathways — alkaloids, glycosides, tannins, flavonoids, terpenoids; mostly the active drugs.\n3. Alkaloids: basic nitrogenous compounds, nitrogen usually in a heterocyclic ring, of plant origin, with marked physiological action.\n4. Properties: mostly crystalline, bitter, bases soluble in organic solvents and salts in water, form salts with acids, optically active; nicotine and coniine are liquids.\n5. Tests: Mayer's (cream ppt), Dragendorff's (orange-red), Wagner's (reddish-brown), Hager's (yellow); examples morphine, quinine, atropine, reserpine, vasicine.\n6. Glycosides: give a sugar (glycone) and a non-sugar aglycone on hydrolysis; O-, C-, S- and N-glycosides; water-soluble, bitter, hydrolysed by acids and enzymes.\n7. Classes and tests: anthraquinone (senna — Borntrager's, pink ammonia layer), cardiac (digitalis — Keller–Killiani), saponin (froth test, haemolysis), cyanogenetic (picrate paper brick red), flavonoid (Shinoda)."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Explain the basic principles of treatment in Ayurveda, Unani, Siddha, Homoeopathy and Traditional Chinese Medicine. Add a note on the role of pharmacognosy in traditional systems of medicine.",
+      "answer": "1. Ayurveda: panchamahabhuta (five elements), tridosha — vata, pitta, kapha; saptadhatu, agni, prakriti; treatment by shodhana (panchakarma: vamana, virechana, basti, nasya, raktamokshana), shamana (drugs, diet), rasayana.\n2. Unani: four humours (dam, balgham, safra, sauda); mizaj (temperament); tabiyat (healing power); ilaj-bil-tadbeer, ilaj-bil-ghiza, ilaj-bil-dawa, jarahat.\n3. Siddha: Tamil system of the Siddhars; vatham, pitham, kabam; envagai thervu (eight-fold diagnosis); herbs plus purified metals and minerals.\n4. Homoeopathy: Hahnemann; similia similibus curentur; drug proving, single remedy, minimum dose, potentisation, individualisation.\n5. TCM: yin–yang balance, qi in meridians, five phases; herbal formulas, acupuncture, moxibustion, cupping, qigong.\n6. Role of pharmacognosy: authentication of herbs with confusing names; standardisation and monographs (API, UPI); detection of adulteration (microscopy, HPTLC, DNA barcoding).\n7. Safety testing (heavy metals, pesticides, microbes, aflatoxins); scientific validation and reverse pharmacology; cultivation and conservation; modern dosage forms."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Classify tannins. Give their tests and uses.",
+      "answer": "1. Tannins: polyphenols that precipitate proteins and tan hide; astringent.\n2. Hydrolysable: esters of gallic or ellagic acid with sugar, hydrolysed by acids/enzymes; blue-black with FeCl3 (myrobalan, amla, nutgall).\n3. Condensed (proanthocyanidins): polymers of flavan-3-ols, not hydrolysed, form red phlobaphenes with acid; green-black with FeCl3 (catechu, tea, arjuna).\n4. Pseudotannins: small phenolics (gallic acid, chlorogenic acid).\n5. Tests: gelatin precipitate, goldbeater's skin test, ferric chloride.\n6. Uses: astringent in diarrhoea and bleeding gums, wound healing, antioxidant, leather tanning."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write the classification of resins with examples.",
+      "answer": "1. Resins: amorphous, water-insoluble, alcohol-soluble plant products, mostly from oxidised terpenes; soften on heating, burn with smoky flame.\n2. Hard resins: colophony.\n3. Oleoresins (resin + volatile oil): turpentine, ginger oleoresin, capsicum.\n4. Gum-resins (resin + gum): myrrh.\n5. Oleo-gum-resins: asafoetida, boswellia, guggul.\n6. Balsams (contain benzoic and/or cinnamic acid): benzoin, tolu, Peru balsam.\n7. Glycoresins: jalap."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Describe the types of dosage forms used in Ayurveda.",
+      "answer": "1. Panchavidha kashaya kalpana: swarasa (expressed juice), kalka (paste), kwatha (decoction), hima (cold infusion), phanta (hot infusion).\n2. Churna (powder — Triphala churna); vati/gutika (pills); avaleha (semisolid confection — Chyawanprash).\n3. Asava and arishta: self-fermented liquids whose alcohol forms during fermentation; asava from juice/cold infusion, arishta from decoction.\n4. Ghrita (medicated ghee), taila (medicated oil).\n5. Bhasma (calcined metals/minerals), guggulu preparations, arka (distillate), lepa (external paste)."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Define volatile oils. Write their general properties and two examples.",
+      "answer": "1. Volatile oils: odorous oily liquids of plant origin that evaporate at room temperature; mixtures of terpenes and phenylpropanoids.\n2. Properties: volatile, spot on paper disappears; mostly lighter than water (clove oil heavier); high refractive index; optically active; soluble in alcohol, slightly in water; resinify and darken in air and light.\n3. Occur in glandular hairs, oil cells, ducts and glands; extracted by steam distillation, expression or enfleurage.\n4. Examples: clove oil (eugenol), peppermint oil (menthol), eucalyptus (cineole).\n5. Uses: carminative, flavour, perfume, antiseptic."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are flavonoids? Name the test for flavonoids.",
+      "answer": "Flavonoids are polyphenolic plant pigments with a C6–C3–C6 skeleton (quercetin, rutin, silybin). Shinoda test: magnesium turnings and concentrated HCl give a pink to red colour."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is AYUSH?",
+      "answer": "AYUSH stands for Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy (Sowa-Rigpa is also recognised); the Ministry of AYUSH governs these systems in India."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Write the biological source, chemical constituents and uses of ashwagandha, tulsi and amla.",
+      "answer": "1. Ashwagandha: dried roots of Withania somnifera (L.) Dunal, family Solanaceae.\n2. Constituents: withanolides (withaferin A, withanolide D), sitoindosides, alkaloids (withanine, somniferine), starch.\n3. Uses: adaptogen, anti-stress, rasayana, immunomodulator, general and nervine tonic, weakness, insomnia; Ashwagandharishta.\n4. Tulsi: leaves of Ocimum tenuiflorum L. (O. sanctum), family Lamiaceae.\n5. Constituents: volatile oil with eugenol, methyl eugenol, caryophyllene; ursolic acid; rosmarinic acid; flavonoids. Uses: adaptogen, immunomodulator, cough, cold, fever, antimicrobial.\n6. Amla: fruits of Emblica officinalis Gaertn. (Phyllanthus emblica), family Phyllanthaceae.\n7. Constituents: vitamin C, hydrolysable tannins (emblicanin A and B), gallic and ellagic acids, pectin. Uses: antioxidant, rasayana, immunity, scurvy, hair tonic; in Triphala and Chyawanprash."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 8,
+      "probability": "high",
+      "question": "Give the biological source, constituents and uses of hepatoprotective drugs milk thistle and kutki, and of the cardiovascular drug garlic.",
+      "answer": "1. Milk thistle: dried ripe fruits of Silybum marianum (L.) Gaertn., family Asteraceae.\n2. Constituents: silymarin — flavonolignans silybin (silibinin), isosilybin, silychristin, silydianin; fixed oil. Uses: alcoholic and drug-induced liver damage, fatty liver, cirrhosis; antioxidant, membrane stabiliser; silibinin as adjunct in Amanita mushroom poisoning.\n3. Kutki: rhizomes and roots of Picrorhiza kurroa Royle ex Benth., family Plantaginaceae.\n4. Constituents: iridoid glycosides picroside I, picroside II, kutkoside (kutkin), apocynin, cucurbitacins. Uses: hepatoprotective in jaundice, choleretic, bitter stomachic, antipyretic, immunomodulator.\n5. Garlic: bulbs of Allium sativum L., family Amaryllidaceae.\n6. Constituents: alliin converted by alliinase on crushing to allicin, which forms ajoene and diallyl di-/trisulfides.\n7. Uses: lowers cholesterol and triglycerides, antiplatelet, mild antihypertensive, antimicrobial, expectorant, carminative; may add to bleeding risk with anticoagulants."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write the biological source, constituents and uses of turmeric.",
+      "answer": "1. Biological source: dried, boiled rhizomes of Curcuma longa L., family Zingiberaceae.\n2. Constituents: curcuminoids — curcumin, demethoxycurcumin, bisdemethoxycurcumin; volatile oil (turmerone, ar-turmerone, zingiberene); starch.\n3. Uses: anti-inflammatory, antioxidant, antiseptic, wound healing, skin care, hepatoprotective, carminative; colour and spice.\n4. Note: poor absorption of curcumin, improved with piperine; test — conc. H2SO4 gives crimson colour."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write the biological source, constituents and uses of psyllium (isabgol).",
+      "answer": "1. Biological source: dried ripe seeds and seed husk of Plantago ovata Forssk., family Plantaginaceae.\n2. Constituents: mucilage (arabinoxylan) in the epidermis of the seed coat; fixed oil and proteins in the kernel.\n3. Uses: bulk laxative in constipation; diarrhoea and IBS (forms gel); lowers cholesterol; piles and fissure.\n4. Must be taken with plenty of water; quality checked by swelling index."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "high",
+      "question": "Write a note on vasaka.",
+      "answer": "1. Biological source: leaves of Justicia adhatoda L. (Adhatoda vasica Nees), family Acanthaceae.\n2. Constituents: quinazoline alkaloids vasicine and vasicinone, vasicol, volatile oil, betaine.\n3. Uses: expectorant and bronchodilator in cough, bronchitis and asthma; vasaka syrup, Vasavaleha.\n4. Vasicine served as the model for bromhexine and its metabolite ambroxol."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write the biological source, constituents and uses of aloe.",
+      "answer": "1. Source: leaves of Aloe vera (L.) Burm.f. (A. barbadensis), family Asphodelaceae; gel from inner leaf tissue and dried latex (aloe) from cut leaves.\n2. Gel constituents: acemannan (acetylated glucomannan), glycoproteins, enzymes, vitamins.\n3. Latex constituents: anthrone C-glycoside aloin (barbaloin), aloe-emodin, resins.\n4. Uses: gel for burns, sunburn, wounds, moisturiser; latex as stimulant purgative; borax test gives green fluorescence."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 4,
+      "probability": "medium",
+      "question": "Write the biological source, constituents and uses of boswellia and brahmi.",
+      "answer": "1. Boswellia: oleo-gum-resin from the bark of Boswellia serrata, family Burseraceae; boswellic acids including AKBA, gum, volatile oil.\n2. Uses: anti-inflammatory in osteoarthritis, rheumatoid arthritis, inflammatory bowel disease; inhibits 5-lipoxygenase.\n3. Brahmi: whole herb of Bacopa monnieri, family Plantaginaceae; bacosides A and B (dammarane saponins), brahmine.\n4. Uses: memory enhancer (medhya rasayana), anxiolytic, nervine tonic; not to be confused with Centella asiatica (also called brahmi)."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the active constituent of gymnema and state its special effect.",
+      "answer": "Gymnemic acids (triterpenoid saponins) and the polypeptide gurmarin; chewing the leaves suppresses the sweet taste, and the drug lowers blood sugar."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the biological source and one use of chasteberry.",
+      "answer": "Dried ripe fruits of Vitex agnus-castus L., family Lamiaceae; used in premenstrual syndrome and cyclical breast pain (it lowers raised prolactin)."
+    }
+  ]
+}

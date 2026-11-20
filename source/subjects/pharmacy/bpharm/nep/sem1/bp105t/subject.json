@@ -1,0 +1,48 @@
+{
+  "code": "BP105T",
+  "title": "Introduction to Pharmacognosy",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, B.Pharm Syllabus 2026 (as per NEP 2020), BP105T Introduction to Pharmacognosy (Theory), units I–V",
+    "url": "https://www.pci.gov.in/documents/1455/B.Pharm_Syllabus_2026-_NEP2020_compressed.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Fundamentals of pharmacognosy: history, sources, drug discovery milestones, pharmacopoeias and classification",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Cultivation, collection, processing, storage and conservation of medicinal plants",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Quality control of drugs of natural origin (WHO guidelines)",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Plant metabolites and traditional systems of medicine",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Phyto-therapeutic agents",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

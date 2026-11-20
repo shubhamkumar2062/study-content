@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The word 'pharmacognosy' comes from Greek words meaning:",
+      "options": [
+        "Knowledge of drugs",
+        "Study of plants",
+        "Drug therapy",
+        "Chemistry of drugs"
+      ],
+      "correct": 0,
+      "explanation": "Pharmakon = drug, gnosis = knowledge.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The term pharmacognosy is usually credited to:",
+      "options": [
+        "Dioscorides",
+        "C. A. Seydler",
+        "Hippocrates",
+        "Galen"
+      ],
+      "correct": 1,
+      "explanation": "Seydler used it in Analectica Pharmacognostica (1815).",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "The first alkaloid to be isolated in pure form was:",
+      "options": [
+        "Quinine",
+        "Atropine",
+        "Morphine",
+        "Caffeine"
+      ],
+      "correct": 2,
+      "explanation": "Sertürner isolated morphine from opium in the early 1800s.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Artemisinin was discovered from:",
+      "options": [
+        "Cinchona officinalis",
+        "Taxus brevifolia",
+        "Andrographis paniculata",
+        "Artemisia annua"
+      ],
+      "correct": 3,
+      "explanation": "Tu Youyou isolated it from qinghao (Artemisia annua); Nobel Prize 2015.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Warfarin was developed from the anticoagulant found in spoiled:",
+      "options": [
+        "Sweet clover",
+        "Willow bark",
+        "Rye grain",
+        "Wheat straw"
+      ],
+      "correct": 0,
+      "explanation": "Dicoumarol from mouldy sweet clover (Melilotus) caused bleeding in cattle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Cephalosporins were first obtained from the fungus:",
+      "options": [
+        "Penicillium notatum",
+        "Cephalosporium acremonium",
+        "Streptomyces griseus",
+        "Aspergillus terreus"
+      ],
+      "correct": 1,
+      "explanation": "Brotzu isolated it from sea water near a sewage outlet in Sardinia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "The Ayurvedic Pharmacopoeia of India is published by:",
+      "options": [
+        "Indian Pharmacopoeia Commission",
+        "Central Drugs Standard Control Organisation",
+        "PCIM&H, Ministry of AYUSH",
+        "Pharmacy Council of India"
+      ],
+      "correct": 2,
+      "explanation": "API and UPI are prepared by the Pharmacopoeia Commission for Indian Medicine & Homoeopathy.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Gums, resins and dried latex are examples of:",
+      "options": [
+        "Organised drugs",
+        "Codified drugs",
+        "Marine drugs",
+        "Unorganised drugs"
+      ],
+      "correct": 3,
+      "explanation": "Unorganised drugs have no cellular structure.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Classification that groups drugs by both plant relationship and chemical constituents is:",
+      "options": [
+        "Chemotaxonomic",
+        "Morphological",
+        "Alphabetical",
+        "Pharmacological"
+      ],
+      "correct": 0,
+      "explanation": "Chemotaxonomy combines taxonomy with chemistry.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Remedies passed on orally in tribal and folk practice, not written in classical texts, are called:",
+      "options": [
+        "Codified drugs",
+        "Non-codified drugs",
+        "Official drugs",
+        "Unorganised drugs"
+      ],
+      "correct": 1,
+      "explanation": "Codified drugs are those recorded in classical texts of a traditional system.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Barks are best collected:",
+      "options": [
+        "After the aerial parts die",
+        "Only at night",
+        "In spring, when the cambium is active",
+        "When fruits are ripe"
+      ],
+      "correct": 2,
+      "explanation": "Active cambium lets the bark peel off easily.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Colchicine is used in plant breeding to induce:",
+      "options": [
+        "Mutation by radiation",
+        "Hybridisation",
+        "Dormancy",
+        "Polyploidy"
+      ],
+      "correct": 3,
+      "explanation": "It blocks spindle formation, so chromosome number doubles.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The plant hormone mainly used to promote rooting of stem cuttings is:",
+      "options": [
+        "Indole-3-butyric acid",
+        "Abscisic acid",
+        "Ethylene",
+        "Kinetin"
+      ],
+      "correct": 0,
+      "explanation": "Auxins such as IBA and NAA promote root formation.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "In tissue culture, a high cytokinin to auxin ratio favours:",
+      "options": [
+        "Root formation",
+        "Shoot formation",
+        "Callus death",
+        "Seed dormancy"
+      ],
+      "correct": 1,
+      "explanation": "High cytokinin gives shoots; high auxin gives roots.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "WHO guidelines on Good Agricultural and Collection Practices for medicinal plants were issued in:",
+      "options": [
+        "1978",
+        "1955",
+        "2003",
+        "2015"
+      ],
+      "correct": 2,
+      "explanation": "WHO GACP guidelines were published in 2003.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Storage of germplasm in liquid nitrogen at −196 °C is an example of:",
+      "options": [
+        "In-situ conservation",
+        "Wild collection",
+        "Hybridisation",
+        "Ex-situ conservation"
+      ],
+      "correct": 3,
+      "explanation": "Cryopreservation is done outside the natural habitat.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Sacred groves are a method of:",
+      "options": [
+        "In-situ conservation",
+        "Ex-situ conservation",
+        "Micropropagation",
+        "Value addition"
+      ],
+      "correct": 0,
+      "explanation": "They protect plants in their natural habitat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The main bitter constituents of kutki are:",
+      "options": [
+        "Amarogentin and swertiamarin",
+        "Picrosides",
+        "Bacosides",
+        "Gymnemic acids"
+      ],
+      "correct": 1,
+      "explanation": "Picroside I, picroside II and kutkoside make up kutkin.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Chirata (Swertia chirayita) belongs to the family:",
+      "options": [
+        "Plantaginaceae",
+        "Solanaceae",
+        "Gentianaceae",
+        "Lamiaceae"
+      ],
+      "correct": 2,
+      "explanation": "Swertia is a genus of Gentianaceae.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Aromatic leaf drugs containing volatile oil are preferably dried:",
+      "options": [
+        "In direct sun at high heat",
+        "By boiling",
+        "After fermentation",
+        "In shade or at low temperature"
+      ],
+      "correct": 3,
+      "explanation": "Shade drying protects volatile and light-sensitive constituents.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Stomatal index is calculated as:",
+      "options": [
+        "S × 100 / (E + S)",
+        "E × 100 / S",
+        "S / E",
+        "(E + S) / S × 100"
+      ],
+      "correct": 0,
+      "explanation": "S = stomata, E = epidermal cells in the same area.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Acid-insoluble ash mainly indicates contamination with:",
+      "options": [
+        "Moisture",
+        "Sand and earthy matter",
+        "Volatile oil",
+        "Starch"
+      ],
+      "correct": 1,
+      "explanation": "It is largely silica that does not dissolve in dilute HCl.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Foaming index is calculated as:",
+      "options": [
+        "a / 1000",
+        "100 × a",
+        "1000 / a",
+        "1000 × a"
+      ],
+      "correct": 2,
+      "explanation": "a = ml of decoction giving 1 cm of foam.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Bitterness value of a drug is determined by comparison with:",
+      "options": [
+        "Sucrose",
+        "Strychnine",
+        "Caffeine",
+        "Quinine hydrochloride"
+      ],
+      "correct": 3,
+      "explanation": "Quinine hydrochloride is set at 200,000 units per g.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Phloroglucinol with concentrated HCl stains lignified tissue:",
+      "options": [
+        "Pink to red",
+        "Blue",
+        "Black",
+        "Yellow-green"
+      ],
+      "correct": 0,
+      "explanation": "It is the standard stain for lignin.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The number of lycopodium spores per mg used in quantitative microscopy is about:",
+      "options": [
+        "9,400",
+        "94,000",
+        "940,000",
+        "1,000"
+      ],
+      "correct": 1,
+      "explanation": "Lycopodium spores are uniform, about 94,000 per mg.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Acid value of an oil is expressed as:",
+      "options": [
+        "g iodine per 100 g of oil",
+        "ml of NaOH per litre",
+        "mg KOH per g of oil",
+        "g KOH per kg"
+      ],
+      "correct": 2,
+      "explanation": "It is mg KOH needed to neutralise free fatty acids in 1 g.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Safflower florets are a common adulterant of:",
+      "options": [
+        "Clove",
+        "Senna",
+        "Turmeric",
+        "Saffron"
+      ],
+      "correct": 3,
+      "explanation": "Carthamus tinctorius florets resemble saffron stigmas.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Which pair are core plant DNA barcode regions?",
+      "options": [
+        "rbcL and matK",
+        "16S rRNA and COI",
+        "ITS and cytochrome b",
+        "psbA and 18S"
+      ],
+      "correct": 0,
+      "explanation": "rbcL and matK form the core plant barcode.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Moisture in drugs containing volatile oil is best found by:",
+      "options": [
+        "Loss on drying at 105 °C",
+        "Azeotropic distillation with toluene",
+        "Ash value",
+        "Refractive index"
+      ],
+      "correct": 1,
+      "explanation": "Toluene distillation separates water without counting the lost oil.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Dragendorff's reagent gives an orange-red precipitate with:",
+      "options": [
+        "Tannins",
+        "Flavonoids",
+        "Alkaloids",
+        "Carbohydrates"
+      ],
+      "correct": 2,
+      "explanation": "It is a general precipitating reagent for alkaloids.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Borntrager's test is used to detect:",
+      "options": [
+        "Cardiac glycosides",
+        "Saponins",
+        "Alkaloids",
+        "Anthraquinone glycosides"
+      ],
+      "correct": 3,
+      "explanation": "A pink-red colour in the ammonia layer shows anthraquinones.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The Shinoda test (Mg + HCl) is given by:",
+      "options": [
+        "Flavonoids",
+        "Alkaloids",
+        "Tannins",
+        "Fixed oils"
+      ],
+      "correct": 0,
+      "explanation": "Flavonoids give pink to red colour.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Artemisinin is chemically a:",
+      "options": [
+        "Diterpene",
+        "Sesquiterpene lactone",
+        "Triterpene saponin",
+        "Isoquinoline alkaloid"
+      ],
+      "correct": 1,
+      "explanation": "It has 15 carbons with an endoperoxide bridge.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Condensed tannins give which colour with ferric chloride?",
+      "options": [
+        "Blue-black",
+        "Violet",
+        "Green-black",
+        "Yellow"
+      ],
+      "correct": 2,
+      "explanation": "Hydrolysable tannins give blue-black.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Asafoetida is an example of:",
+      "options": [
+        "Balsam",
+        "Glycoresin",
+        "Hard resin",
+        "Oleo-gum-resin"
+      ],
+      "correct": 3,
+      "explanation": "It contains resin, gum and volatile oil.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The three doshas of Ayurveda are:",
+      "options": [
+        "Vata, pitta and kapha",
+        "Dam, balgham and safra",
+        "Yin, yang and qi",
+        "Vatham, pitham and sauda"
+      ],
+      "correct": 0,
+      "explanation": "Tridosha theory is the base of Ayurveda.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "'Similia similibus curentur' is the principle of:",
+      "options": [
+        "Unani",
+        "Homoeopathy",
+        "Siddha",
+        "Ayurveda"
+      ],
+      "correct": 1,
+      "explanation": "Like cures like — Hahnemann's principle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Ayurvedic liquid preparations whose alcohol forms by natural fermentation are:",
+      "options": [
+        "Kwatha and phanta",
+        "Ghrita and taila",
+        "Asava and arishta",
+        "Churna and vati"
+      ],
+      "correct": 2,
+      "explanation": "They are made by natural fermentation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Mizaj (temperament) is a concept of:",
+      "options": [
+        "Traditional Chinese Medicine",
+        "Homoeopathy",
+        "Naturopathy",
+        "Unani medicine"
+      ],
+      "correct": 3,
+      "explanation": "Unani classifies people and drugs by temperament.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Withaferin A is a constituent of:",
+      "options": [
+        "Ashwagandha",
+        "Tulsi",
+        "Brahmi",
+        "Shatavari"
+      ],
+      "correct": 0,
+      "explanation": "It is a withanolide of Withania somnifera roots.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Silymarin is obtained from:",
+      "options": [
+        "Rhizomes of Picrorhiza kurroa",
+        "Fruits of Silybum marianum",
+        "Bark of Terminalia arjuna",
+        "Leaves of Andrographis paniculata"
+      ],
+      "correct": 1,
+      "explanation": "Milk thistle fruits contain the flavonolignan mixture silymarin.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Allicin in garlic is formed from alliin by the enzyme:",
+      "options": [
+        "Myrosinase",
+        "Emulsin",
+        "Alliinase",
+        "Diastase"
+      ],
+      "correct": 2,
+      "explanation": "Alliinase acts when the bulb is crushed.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Boswellic acids act mainly by inhibiting:",
+      "options": [
+        "Cyclooxygenase-2 only",
+        "Acetylcholinesterase",
+        "Alpha-glucosidase",
+        "5-Lipoxygenase"
+      ],
+      "correct": 3,
+      "explanation": "They reduce leukotriene formation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Gymnema sylvestre is popularly called 'gurmar' because it:",
+      "options": [
+        "Suppresses the taste of sugar",
+        "Has a bitter taste",
+        "Destroys bacteria",
+        "Grows near sugarcane"
+      ],
+      "correct": 0,
+      "explanation": "Gymnemic acids and gurmarin block sweet taste.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Vasicine, the alkaloid of vasaka, is the model for:",
+      "options": [
+        "Salbutamol",
+        "Bromhexine",
+        "Ephedrine",
+        "Codeine"
+      ],
+      "correct": 1,
+      "explanation": "Bromhexine and ambroxol were developed from vasicine.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The mucilage of psyllium husk is chemically mainly:",
+      "options": [
+        "Galactomannan",
+        "Alginic acid",
+        "Arabinoxylan",
+        "Pectin"
+      ],
+      "correct": 2,
+      "explanation": "Plantago ovata seed coat mucilage is an arabinoxylan.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Andrographolide is the bitter principle of:",
+      "options": [
+        "Chirata",
+        "Kutki",
+        "Neem",
+        "Kalmegh"
+      ],
+      "correct": 3,
+      "explanation": "Andrographis paniculata is called king of bitters.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Shatavari belongs to the family:",
+      "options": [
+        "Asparagaceae",
+        "Solanaceae",
+        "Acanthaceae",
+        "Menispermaceae"
+      ],
+      "correct": 0,
+      "explanation": "Asparagus racemosus is now placed in Asparagaceae.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Acemannan is found in:",
+      "options": [
+        "Turmeric rhizome",
+        "Aloe vera gel",
+        "Neem seed",
+        "Garlic bulb"
+      ],
+      "correct": 1,
+      "explanation": "It is the acetylated glucomannan of aloe gel.",
+      "probability": "medium"
+    }
+  ]
+}
