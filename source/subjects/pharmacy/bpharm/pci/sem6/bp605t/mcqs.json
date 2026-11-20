@@ -1,0 +1,1404 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which type of restriction endonuclease is used in routine gene cloning?",
+      "options": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV"
+      ],
+      "correct": 1,
+      "explanation": "Type II restriction enzymes cut at a specific palindromic recognition sequence and require only Mg2+, making them predictable and suitable for cloning.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The enzyme used to join insert DNA with a vector in gene cloning is:",
+      "options": [
+        "DNA polymerase I",
+        "Reverse transcriptase",
+        "T4 DNA ligase",
+        "Taq polymerase"
+      ],
+      "correct": 2,
+      "explanation": "T4 DNA ligase catalyses the formation of a phosphodiester bond between the annealed sticky ends of insert and vector, using ATP as energy source.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which vector has the largest insert capacity?",
+      "options": [
+        "Plasmid (up to 10 kb)",
+        "Bacteriophage lambda (10-20 kb)",
+        "Cosmid (35-45 kb)",
+        "Yeast artificial chromosome (up to 1000 kb)"
+      ],
+      "correct": 3,
+      "explanation": "YACs carry yeast centromere, telomeres and ARS, allowing inserts of up to 1 Mb; they were key to the Human Genome Project.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "In PCR, the temperature used for extension by Taq polymerase is:",
+      "options": [
+        "55°C",
+        "65°C",
+        "72°C",
+        "95°C"
+      ],
+      "correct": 2,
+      "explanation": "72°C is the optimal temperature for Taq polymerase to extend the new DNA strand from the 3' end of the primer.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Taq polymerase is used in PCR because it is:",
+      "options": [
+        "More accurate than E. coli polymerase",
+        "Heat-stable and functional after 95°C denaturation",
+        "Able to extend without primers",
+        "Obtained from bacteriophage T7"
+      ],
+      "correct": 1,
+      "explanation": "Taq polymerase from Thermus aquaticus survives repeated denaturation at 95°C, allowing PCR cycling without adding fresh enzyme each cycle.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In the Sanger dideoxy sequencing method, chain termination is caused by:",
+      "options": [
+        "High temperature",
+        "Incorporation of a dideoxynucleoside triphosphate (ddNTP)",
+        "Depletion of dNTPs",
+        "Action of an exonuclease"
+      ],
+      "correct": 1,
+      "explanation": "ddNTPs lack the 3'-OH group necessary for the next phosphodiester bond; their incorporation terminates chain extension.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Southern blotting is used to detect:",
+      "options": [
+        "Proteins",
+        "RNA",
+        "DNA",
+        "Lipids"
+      ],
+      "correct": 2,
+      "explanation": "Southern blotting (Edwin Southern, 1975) separates DNA by gel electrophoresis and detects specific sequences with a labelled DNA probe. Mnemonic: SNoW DRoP.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "In blue-white screening of recombinant E. coli colonies, insert-containing colonies appear:",
+      "options": [
+        "Blue",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 1,
+      "explanation": "Insertion of a foreign gene into the lacZ gene disrupts its reading frame; no functional beta-galactosidase is made, so X-gal is not cleaved to blue product — colonies remain white.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Which molecule is used to induce expression from the lac promoter in E. coli?",
+      "options": [
+        "cAMP",
+        "Lactose only",
+        "IPTG",
+        "X-gal"
+      ],
+      "correct": 2,
+      "explanation": "IPTG (isopropyl-β-D-thiogalactopyranoside) is a non-metabolisable lactose analogue that displaces the lac repressor and turns on transcription without being consumed.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The recognition sequence GAATTC is cut by which restriction enzyme?",
+      "options": [
+        "HindIII",
+        "BamHI",
+        "EcoRI",
+        "SmaI"
+      ],
+      "correct": 2,
+      "explanation": "EcoRI recognises 5'-GAATTC-3' and cuts between G and A on each strand, producing 4-nt 5' sticky ends.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "RT-PCR is used when the template is:",
+      "options": [
+        "Double-stranded DNA",
+        "Single-stranded DNA",
+        "RNA",
+        "A protein"
+      ],
+      "correct": 2,
+      "explanation": "RT-PCR uses reverse transcriptase to first convert RNA into cDNA, which is then amplified by PCR. Used to detect RNA viruses (HIV, SARS-CoV-2).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Which of the following is a feature that all cloning vectors must possess?",
+      "options": [
+        "A T7 promoter",
+        "An origin of replication",
+        "Green fluorescent protein gene",
+        "An inducible tac promoter"
+      ],
+      "correct": 1,
+      "explanation": "Without an origin of replication, the vector cannot replicate autonomously in the host cell.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m13",
+      "unit": 1,
+      "question": "Bacterial artificial chromosomes (BACs) are based on which element?",
+      "options": [
+        "The lambda phage genome",
+        "The pBR322 plasmid",
+        "The E. coli F plasmid",
+        "A yeast centromere"
+      ],
+      "correct": 2,
+      "explanation": "BACs are derived from the E. coli F (fertility) plasmid; they can hold inserts of 100–300 kb.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m14",
+      "unit": 1,
+      "question": "Which blotting technique detects specific mRNA species?",
+      "options": [
+        "Southern blot",
+        "Northern blot",
+        "Western blot",
+        "Far-Western blot"
+      ],
+      "correct": 1,
+      "explanation": "Northern blotting separates RNA by denaturing gel electrophoresis and detects specific mRNA with a labelled DNA probe; used to study gene expression.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m15",
+      "unit": 1,
+      "question": "After 30 PCR cycles starting from one template molecule, the theoretical number of copies is approximately:",
+      "options": [
+        "30",
+        "10^3",
+        "10^6",
+        "10^9"
+      ],
+      "correct": 3,
+      "explanation": "2^30 = approximately 1.07 × 10^9; each cycle doubles the number of target copies.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m16",
+      "unit": 1,
+      "question": "Cosmids are used for cloning inserts of approximately:",
+      "options": [
+        "1-5 kb",
+        "10-20 kb",
+        "35-45 kb",
+        "200-500 kb"
+      ],
+      "correct": 2,
+      "explanation": "Cosmids are plasmids containing the lambda cos site, packaged into phage heads; they accept inserts of 35–45 kb.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m17",
+      "unit": 1,
+      "question": "The denaturation step in PCR is carried out at:",
+      "options": [
+        "55°C",
+        "72°C",
+        "80°C",
+        "95°C"
+      ],
+      "correct": 3,
+      "explanation": "95°C (or sometimes 94°C) breaks the hydrogen bonds between the two strands of dsDNA, separating them into single strands.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m18",
+      "unit": 1,
+      "question": "Which technique was developed by Kary Mullis and earned him the Nobel Prize in Chemistry 1993?",
+      "options": [
+        "Sanger sequencing",
+        "Southern blotting",
+        "Polymerase chain reaction (PCR)",
+        "DNA ligation"
+      ],
+      "correct": 2,
+      "explanation": "PCR was invented by Kary Mullis in 1983; the Nobel Prize was awarded in 1993 for this invention.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m19",
+      "unit": 1,
+      "question": "Type I restriction enzymes differ from Type II in that they:",
+      "options": [
+        "Cut at the recognition site",
+        "Cut randomly at a site distant from the recognition site",
+        "Require no cofactors",
+        "Produce blunt ends"
+      ],
+      "correct": 1,
+      "explanation": "Type I enzymes recognise a specific sequence but cut randomly 1000+ bp away; this unpredictability makes them useless for routine cloning.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m20",
+      "unit": 1,
+      "question": "Western blotting is used to detect:",
+      "options": [
+        "Specific DNA sequences",
+        "Specific RNA species",
+        "Specific proteins",
+        "Restriction fragment length polymorphisms"
+      ],
+      "correct": 2,
+      "explanation": "Western blotting separates proteins by SDS-PAGE, transfers them to nitrocellulose, and probes with a specific antibody.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The first approved recombinant therapeutic protein was:",
+      "options": [
+        "Erythropoietin",
+        "Human growth hormone",
+        "Recombinant human insulin",
+        "Interferon-alpha"
+      ],
+      "correct": 2,
+      "explanation": "Recombinant human insulin (Humulin) was approved by the FDA in 1982, the first recombinant drug product.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Recombinant EPO must be produced in CHO cells rather than E. coli because EPO requires:",
+      "options": [
+        "Disulphide bond formation",
+        "Glycosylation for in vivo activity and half-life",
+        "Inclusion body formation",
+        "IPTG induction"
+      ],
+      "correct": 1,
+      "explanation": "EPO is 40% carbohydrate; glycosylation prevents renal filtration and determines in vivo half-life. E. coli cannot glycosylate proteins.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Inclusion bodies in E. coli expression are described as:",
+      "options": [
+        "Correctly folded, active protein in solution",
+        "Insoluble aggregates of misfolded recombinant protein",
+        "Plasmid DNA aggregates",
+        "Membrane-enclosed vesicles"
+      ],
+      "correct": 1,
+      "explanation": "Inclusion bodies are dense insoluble aggregates of overexpressed protein; they require solubilisation with urea/guanidinium and refolding.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Recombinant human growth hormone (somatropin) is produced in which host?",
+      "options": [
+        "CHO cells",
+        "Saccharomyces cerevisiae",
+        "E. coli",
+        "Baculovirus/insect cells"
+      ],
+      "correct": 2,
+      "explanation": "Somatropin is a 191-amino acid non-glycosylated protein produced in E. coli; the original met-hGH product was later replaced with the exact human sequence.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Which haemophilia is caused by Factor VIII deficiency?",
+      "options": [
+        "Haemophilia A",
+        "Haemophilia B",
+        "Haemophilia C",
+        "von Willebrand disease"
+      ],
+      "correct": 0,
+      "explanation": "Haemophilia A is Factor VIII deficiency; haemophilia B is Factor IX deficiency.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Interferon-beta 1b (Betaseron) differs from natural IFN-β in having:",
+      "options": [
+        "An additional glycan chain",
+        "A serine in place of cysteine at position 17",
+        "An N-terminal methionine only",
+        "A PEG chain attached"
+      ],
+      "correct": 1,
+      "explanation": "IFN-β1b has Cys17 replaced with Ser for stability; it is expressed in E. coli (unglycosylated), unlike IFN-β1a which is glycosylated and produced in CHO cells.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "PEGylation of a therapeutic protein primarily extends its half-life by:",
+      "options": [
+        "Increasing receptor affinity",
+        "Increasing the hydrodynamic radius and reducing renal filtration",
+        "Improving oral bioavailability",
+        "Enhancing glycosylation"
+      ],
+      "correct": 1,
+      "explanation": "PEG chains create a large water shell, increasing hydrodynamic radius beyond the glomerular filtration threshold and shielding antigenic epitopes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "G-CSF (filgrastim) is used clinically mainly for:",
+      "options": [
+        "Anaemia of chronic kidney disease",
+        "Chemotherapy-induced neutropenia",
+        "Multiple sclerosis",
+        "Hepatitis B"
+      ],
+      "correct": 1,
+      "explanation": "G-CSF stimulates neutrophil production from bone marrow; it reduces the duration of neutropenia and the risk of febrile neutropenia after myelosuppressive chemotherapy.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Recombinant tissue plasminogen activator (tPA) is used in the treatment of:",
+      "options": [
+        "Deep vein thrombosis only",
+        "Acute ischaemic stroke and myocardial infarction",
+        "Haemophilia",
+        "Anaemia"
+      ],
+      "correct": 1,
+      "explanation": "tPA activates plasminogen to plasmin and dissolves fibrin clots; it is used in acute MI and ischaemic stroke within defined time windows.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Which system is preferred for producing recombinant IgG monoclonal antibodies requiring Fc glycosylation?",
+      "options": [
+        "E. coli",
+        "Saccharomyces cerevisiae",
+        "CHO cells",
+        "Cell-free transcription-translation system"
+      ],
+      "correct": 2,
+      "explanation": "CHO cells produce complex N-glycans on the Fc region of IgG that are needed for ADCC and complement activation; E. coli cannot glycosylate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "Darbepoetin alfa has a longer half-life than epoetin alfa because it has:",
+      "options": [
+        "A larger molecular weight due to protein engineering",
+        "Two additional N-glycosylation sites",
+        "A PEG chain attached",
+        "Reduced receptor binding affinity"
+      ],
+      "correct": 1,
+      "explanation": "Darbepoetin alfa was engineered with two extra N-glycosylation sites, increasing carbohydrate content and extending serum half-life threefold, allowing once-weekly dosing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "Interferon-alpha is used in the treatment of which of the following?",
+      "options": [
+        "Multiple sclerosis",
+        "Haemophilia A",
+        "Chronic hepatitis B and C",
+        "Anaemia of CKD"
+      ],
+      "correct": 2,
+      "explanation": "IFN-α (recombinant IFN-α2a and IFN-α2b) has antiviral and antiproliferative activity; it was the standard treatment for chronic hepatitis B and C before direct-acting antivirals.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m13",
+      "unit": 2,
+      "question": "The Pichia pastoris expression system is induced by which compound?",
+      "options": [
+        "IPTG",
+        "Methanol",
+        "Galactose",
+        "Sorbitol"
+      ],
+      "correct": 1,
+      "explanation": "The AOX1 (alcohol oxidase) promoter in Pichia pastoris is strongly induced by methanol; the organism grows to very high cell densities on methanol as the sole carbon source.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m14",
+      "unit": 2,
+      "question": "The first recombinant hepatitis B vaccine antigen is expressed in which host?",
+      "options": [
+        "E. coli",
+        "CHO cells",
+        "Saccharomyces cerevisiae",
+        "Baculovirus/Sf9 cells"
+      ],
+      "correct": 2,
+      "explanation": "HBsAg expressed in Saccharomyces cerevisiae self-assembles into 22-nm VLPs that are immunogenic but non-infectious.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m15",
+      "unit": 2,
+      "question": "Refolding of proteins from inclusion bodies requires removal of which denaturant?",
+      "options": [
+        "Ammonium sulphate",
+        "Urea or guanidinium hydrochloride",
+        "NaCl",
+        "Imidazole"
+      ],
+      "correct": 1,
+      "explanation": "Inclusion bodies are solubilised in 6-8 M urea or 6 M guanidinium hydrochloride; slow removal of the denaturant by dilution or dialysis allows the protein to refold.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m16",
+      "unit": 2,
+      "question": "The flu-like syndrome (fever, myalgia, chills) is a common adverse effect of:",
+      "options": [
+        "Recombinant insulin",
+        "Erythropoietin",
+        "Interferons",
+        "Coagulation factors"
+      ],
+      "correct": 2,
+      "explanation": "All interferons cause a flu-like syndrome in most patients due to cytokine release; it can be reduced by injecting at bedtime and using analgesics/antipyretics.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m17",
+      "unit": 2,
+      "question": "Which recombinant protein is used for chronic granulomatous disease?",
+      "options": [
+        "IFN-alpha",
+        "IFN-beta",
+        "IFN-gamma",
+        "G-CSF"
+      ],
+      "correct": 2,
+      "explanation": "IFN-gamma activates macrophage killing of pathogens; IFN-gamma1b (Actimmune) is approved for chronic granulomatous disease (CGD) and malignant osteopetrosis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m18",
+      "unit": 2,
+      "question": "Which insulin differs from pig insulin at only one amino acid (position B30)?",
+      "options": [
+        "Insulin lispro",
+        "Insulin glargine",
+        "Recombinant human insulin",
+        "Insulin detemir"
+      ],
+      "correct": 2,
+      "explanation": "Human insulin has threonine at B30; pig insulin has alanine at B30 — they differ in one amino acid. Bovine insulin differs in three amino acids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m19",
+      "unit": 2,
+      "question": "The baculovirus/insect cell expression system is best suited for:",
+      "options": [
+        "Large-scale production of insulin",
+        "Virus-like particles and multiprotein complexes",
+        "Production of antibodies with human glycosylation",
+        "Production of non-glycosylated proteins at lowest cost"
+      ],
+      "correct": 1,
+      "explanation": "The baculovirus system can assemble complex multiprotein structures and VLPs; it supports post-translational modifications but scale-up is more difficult than bacterial or mammalian systems.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m20",
+      "unit": 2,
+      "question": "Erythropoietin misuse in sport causes polycythaemia, leading to risk of:",
+      "options": [
+        "Hypoglycaemia",
+        "Immunosuppression",
+        "Thromboembolism and stroke",
+        "Bone marrow suppression"
+      ],
+      "correct": 2,
+      "explanation": "Excessive red cell production raises blood viscosity; this increases the risk of blood clots, stroke, myocardial infarction and pulmonary embolism.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Hybridoma technology was developed by:",
+      "options": [
+        "Paul Ehrlich and Robert Koch",
+        "Georges Kohler and Cesar Milstein",
+        "Frederick Sanger and Kary Mullis",
+        "Linus Pauling and Francis Crick"
+      ],
+      "correct": 1,
+      "explanation": "Kohler and Milstein developed hybridoma technology in 1975 and shared the Nobel Prize in Physiology or Medicine 1984.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "HAT medium selects hybridomas because unfused myeloma cells lack:",
+      "options": [
+        "Thymidine kinase",
+        "HGPRT (hypoxanthine-guanine phosphoribosyltransferase)",
+        "Dihydrofolate reductase",
+        "Adenylate kinase"
+      ],
+      "correct": 1,
+      "explanation": "The myeloma cells used in hybridoma technology are HGPRT-negative. With aminopterin blocking de novo synthesis and no salvage pathway, they die in HAT medium.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "A humanised monoclonal antibody (-zumab) contains:",
+      "options": [
+        "Entirely murine sequence",
+        "Mouse variable regions + human constant regions",
+        "Mouse CDR loops grafted onto a human antibody framework",
+        "Entirely human sequence"
+      ],
+      "correct": 2,
+      "explanation": "CDR grafting transfers only the six CDR loops from the mouse antibody onto a human framework (~95% human), retaining specificity while reducing immunogenicity.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Rituximab is used in B-cell non-Hodgkin lymphoma because it targets:",
+      "options": [
+        "HER2",
+        "CD20",
+        "VEGF",
+        "TNF-alpha"
+      ],
+      "correct": 1,
+      "explanation": "CD20 is expressed on most B cells and B-cell lymphomas; rituximab (anti-CD20 chimeric IgG1) triggers ADCC, CDC and direct apoptosis of B cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Trastuzumab (Herceptin) targets:",
+      "options": [
+        "VEGF",
+        "EGF receptor (EGFR/HER1)",
+        "HER2/neu receptor",
+        "CD20"
+      ],
+      "correct": 2,
+      "explanation": "HER2/neu (ErbB2) is overexpressed in ~25% of breast cancers; trastuzumab blocks HER2 signalling and recruits immune effectors; cardiotoxicity must be monitored.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The first approved recombinant subunit vaccine was against:",
+      "options": [
+        "Polio",
+        "Measles",
+        "Hepatitis B",
+        "HPV"
+      ],
+      "correct": 2,
+      "explanation": "The recombinant hepatitis B surface antigen (HBsAg) vaccine expressed in yeast was approved in 1986; it was the first recombinant subunit vaccine.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "In a sandwich ELISA, the signal (colour intensity) is proportional to:",
+      "options": [
+        "The amount of capture antibody on the plate",
+        "The amount of antigen in the sample",
+        "The concentration of blocking agent",
+        "The wavelength of light used"
+      ],
+      "correct": 1,
+      "explanation": "More antigen captured by the first antibody means more detection antibody-enzyme conjugate is bound, generating more colour product.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Lateral flow immunoassays (rapid diagnostic tests) use which label?",
+      "options": [
+        "Radioactive iodine-125",
+        "Horseradish peroxidase",
+        "Gold nanoparticles or coloured latex beads",
+        "Acridinium ester"
+      ],
+      "correct": 2,
+      "explanation": "Coloured latex or gold nanoparticle-labelled antibodies are visible to the naked eye when concentrated at the test line; no instrumentation is needed.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Bevacizumab (Avastin) works by blocking:",
+      "options": [
+        "HER2",
+        "PD-1",
+        "VEGF (vascular endothelial growth factor)",
+        "TNF-alpha"
+      ],
+      "correct": 2,
+      "explanation": "Bevacizumab is a humanised anti-VEGF antibody; by blocking VEGF-A, it prevents new blood vessel formation (angiogenesis) in tumours.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Fully human monoclonal antibodies are produced by:",
+      "options": [
+        "Immunising mice and using hybridoma technology",
+        "Phage display of human antibody libraries or transgenic mice with human Ig loci",
+        "CDR grafting of mouse CDRs onto human framework",
+        "Chemical synthesis"
+      ],
+      "correct": 1,
+      "explanation": "Phage display (panning human VH/VL gene libraries against antigen) or UltiMAb transgenic mice with human immunoglobulin loci generate 100% human sequences.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "The Fab fragment of an IgG antibody contains:",
+      "options": [
+        "Only the constant regions",
+        "The VH, CH1, VL and CL domains",
+        "Only the Fc receptor-binding domain",
+        "The CH2 and CH3 domains only"
+      ],
+      "correct": 1,
+      "explanation": "The Fab (antigen-binding fragment) includes the variable domain and first constant domain of each chain (VH+CH1 from heavy; VL+CL from light); it carries the antigen-binding site.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Which monoclonal antibody can cause reactivation of latent tuberculosis?",
+      "options": [
+        "Rituximab",
+        "Trastuzumab",
+        "Adalimumab",
+        "Bevacizumab"
+      ],
+      "correct": 2,
+      "explanation": "Anti-TNF antibodies (adalimumab, infliximab) suppress the TNF-dependent granuloma that contains latent TB; all patients must be screened with TB test before starting.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m13",
+      "unit": 3,
+      "question": "The indirect ELISA is primarily used to detect:",
+      "options": [
+        "Antigens in tissue",
+        "Antibodies in patient serum",
+        "DNA sequences",
+        "Enzyme activity"
+      ],
+      "correct": 1,
+      "explanation": "In indirect ELISA, the antigen is coated on the plate; patient serum is added; a secondary anti-human antibody conjugated to enzyme detects bound patient antibodies. Used in HIV serology.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m14",
+      "unit": 3,
+      "question": "The HPV vaccine (Gardasil) consists of:",
+      "options": [
+        "Live attenuated HPV",
+        "Inactivated whole HPV",
+        "Virus-like particles assembled from L1 protein",
+        "Recombinant HPV E6 and E7 proteins"
+      ],
+      "correct": 2,
+      "explanation": "The L1 major capsid protein self-assembles into VLPs that mimic HPV's surface and are highly immunogenic but contain no DNA.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m15",
+      "unit": 3,
+      "question": "Radioimmunoassay (RIA) was developed by which scientists and earned them the Nobel Prize?",
+      "options": [
+        "Kohler and Milstein",
+        "Berson and Yalow",
+        "Sanger and Gilbert",
+        "Mullis and Smith"
+      ],
+      "correct": 1,
+      "explanation": "Solomon Berson and Rosalyn Yalow developed RIA for insulin in 1960. Yalow received the Nobel Prize in Physiology or Medicine 1977.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m16",
+      "unit": 3,
+      "question": "Blinatumomab is an example of a:",
+      "options": [
+        "Chimeric anti-CD20 antibody",
+        "Bispecific T-cell engager (BiTE)",
+        "Antibody-drug conjugate",
+        "PEGylated antibody fragment"
+      ],
+      "correct": 1,
+      "explanation": "Blinatumomab links CD3 on T cells to CD19 on B-cell leukaemia cells, recruiting T cells to kill the tumour; approved for ALL.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m17",
+      "unit": 3,
+      "question": "The key advantage of viral vector vaccines over protein subunit vaccines is:",
+      "options": [
+        "No cold chain required",
+        "Induction of both humoral and cellular (T-cell) immunity",
+        "No need for adjuvant",
+        "They contain live virus"
+      ],
+      "correct": 1,
+      "explanation": "Because the antigen is expressed intracellularly after vector infection, it is presented on MHC class I, activating cytotoxic T cells — an advantage for infections requiring cellular immunity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m18",
+      "unit": 3,
+      "question": "Which antibody class is the most abundant in serum and the standard format for therapeutic mAbs?",
+      "options": [
+        "IgA",
+        "IgM",
+        "IgG",
+        "IgE"
+      ],
+      "correct": 2,
+      "explanation": "IgG is the most abundant serum antibody (~80% of total immunoglobulin); its ~21-day half-life (via FcRn recycling) makes it ideal for therapeutic use.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m19",
+      "unit": 3,
+      "question": "The toxic payload in T-DM1 (ado-trastuzumab emtansine) is:",
+      "options": [
+        "Doxorubicin",
+        "Methotrexate",
+        "Emtansine (DM1) — a maytansinoid",
+        "Vinblastine"
+      ],
+      "correct": 2,
+      "explanation": "DM1 is a maytansinoid that inhibits tubulin polymerisation; it is 100-200 times more cytotoxic than conventional chemotherapy but tolerable when targeted by trastuzumab.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m20",
+      "unit": 3,
+      "question": "In a competitive ELISA, the signal is inversely proportional to the antigen concentration because:",
+      "options": [
+        "More antigen in the sample displaces the labelled detection antibody",
+        "More sample antigen competes with labelled antigen for the limited antibody",
+        "More antigen blocks non-specific binding sites",
+        "The enzyme is inhibited by excess antigen"
+      ],
+      "correct": 1,
+      "explanation": "Unlabelled sample antigen and labelled antigen compete for the same antibody binding sites; more unlabelled antigen means less labelled antigen bound, giving less signal.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "In fed-batch fermentation, compared with batch fermentation:",
+      "options": [
+        "Nothing is added after inoculation",
+        "Nutrients are added during the run while nothing is removed",
+        "The medium is continuously refreshed by removing spent medium",
+        "Only oxygen is added"
+      ],
+      "correct": 1,
+      "explanation": "Fed-batch adds nutrients (glucose, nitrogen, precursors) continuously or intermittently, extending the productive phase and achieving higher cell density and product titre.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "In a stirred-tank bioreactor, baffles are used to:",
+      "options": [
+        "Reduce oxygen transfer",
+        "Break circular vortex flow and improve axial mixing",
+        "Measure dissolved oxygen",
+        "Control pH automatically"
+      ],
+      "correct": 1,
+      "explanation": "Baffles are four vertical plates that convert rotational flow into axial flow, improving mixing without increasing the energy input from the impeller.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Penicillin is produced by which organism?",
+      "options": [
+        "Streptomyces griseus",
+        "Penicillium chrysogenum",
+        "Aspergillus niger",
+        "Saccharopolyspora erythraea"
+      ],
+      "correct": 1,
+      "explanation": "Penicillium chrysogenum (also classified as P. rubens) is the industrial producer of penicillin G and V. High-producing strains were selected by mutagenesis.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Penicillin is a secondary metabolite, meaning it is produced mainly during the:",
+      "options": [
+        "Lag phase",
+        "Early exponential phase",
+        "Stationary (idiophase) or late exponential phase",
+        "Decline/death phase only"
+      ],
+      "correct": 2,
+      "explanation": "Secondary metabolites are produced in the idiophase when growth slows; Luedeking-Piret model classifies penicillin as non-growth-associated (beta coefficient dominant).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Precursor feeding of phenylacetic acid (or its derivatives) during penicillin fermentation is done to:",
+      "options": [
+        "Increase biomass",
+        "Provide pH control",
+        "Direct biosynthesis towards penicillin G by supplying the side chain",
+        "Increase dissolved oxygen"
+      ],
+      "correct": 2,
+      "explanation": "The phenylacetyl-CoA side chain of penicillin G comes from phenylacetic acid; without precursor feeding, the organism produces a mixture of natural penicillins.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The dissolved oxygen (DO) in an aerobic fermentation is maintained above the critical minimum by:",
+      "options": [
+        "Adding more glucose",
+        "Increasing agitation speed, airflow rate or oxygen concentration in the sparge gas",
+        "Increasing the pH",
+        "Reducing the temperature"
+      ],
+      "correct": 1,
+      "explanation": "These three process variables increase oxygen transfer rate (kLa) to maintain DO above the critical level (usually 20-30% air saturation).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Which sterilisation method is used for heat-sensitive media components?",
+      "options": [
+        "Autoclave at 121°C",
+        "HTST at 140°C",
+        "Membrane filtration through a 0.2 µm filter",
+        "UV irradiation"
+      ],
+      "correct": 2,
+      "explanation": "Heat-sensitive vitamins, amino acids and enzymes are sterilised by filtration through a 0.2 µm membrane that physically removes microorganisms without heat.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Which industrial enzyme is produced by Bacillus licheniformis and used in starch hydrolysis?",
+      "options": [
+        "Protease",
+        "Lipase",
+        "Alpha-amylase",
+        "Glucose isomerase"
+      ],
+      "correct": 2,
+      "explanation": "Thermostable alpha-amylase from Bacillus licheniformis hydrolyses starch to dextrins and maltose; it is used in the food, starch and detergent industries.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "In continuous fermentation (chemostat), the dilution rate D is defined as:",
+      "options": [
+        "Volume × flow rate",
+        "Flow rate / vessel volume (F/V)",
+        "Specific growth rate × biomass",
+        "Product concentration / time"
+      ],
+      "correct": 1,
+      "explanation": "D = F/V where F is the volumetric flow rate and V is the culture volume; at steady state D equals the specific growth rate µ.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Scale-up from laboratory to industrial bioreactor is most critically governed by maintaining constant:",
+      "options": [
+        "Temperature",
+        "pH",
+        "Oxygen mass transfer coefficient (kLa)",
+        "Vessel shape"
+      ],
+      "correct": 2,
+      "explanation": "Oxygen availability limits most aerobic fermentations; kLa depends on stirrer power, airflow and bubble size, and must be maintained at large scale.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "The Luedeking-Piret model classifies penicillin as which type of product?",
+      "options": [
+        "Growth-associated (alpha >> 0)",
+        "Non-growth-associated (beta >> 0)",
+        "Mixed type",
+        "Not applicable to microbial products"
+      ],
+      "correct": 1,
+      "explanation": "Penicillin is a classic non-growth-associated secondary metabolite; its production rate is proportional to biomass concentration (beta term) and not growth rate (alpha ≈ 0).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Solid-state fermentation differs from submerged fermentation in having:",
+      "options": [
+        "Higher dissolved oxygen control",
+        "Defined liquid medium",
+        "Low moisture content (20-70%) on a solid substrate",
+        "Easier scale-up"
+      ],
+      "correct": 2,
+      "explanation": "SSF uses a moistened solid substrate (agricultural residues) with no free water; conditions are harder to control but it uses cheap raw materials.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m13",
+      "unit": 4,
+      "question": "Foam in a fermentation vessel is controlled by adding:",
+      "options": [
+        "Ethanol",
+        "Antifoam agents (silicone oil or polypropylene glycol)",
+        "Increasing the agitation rate",
+        "Reducing aeration"
+      ],
+      "correct": 1,
+      "explanation": "Antifoam agents reduce surface tension and break the foam bubbles; a foam probe triggers automatic addition when foam reaches a set level.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m14",
+      "unit": 4,
+      "question": "In GMP fermentation, a Master Cell Bank (MCB) is used to ensure:",
+      "options": [
+        "High dissolved oxygen levels",
+        "Genetic consistency and stability of the production cell line across batches",
+        "Sterility of the air supply",
+        "Adequate nutrient levels"
+      ],
+      "correct": 1,
+      "explanation": "The MCB is a cryopreserved stock of characterised cells at a defined passage; every production batch is derived from the MCB via a Working Cell Bank, ensuring consistent genetics.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m15",
+      "unit": 4,
+      "question": "Which antibiotic is produced by Saccharopolyspora erythraea?",
+      "options": [
+        "Penicillin G",
+        "Streptomycin",
+        "Erythromycin",
+        "Vancomycin"
+      ],
+      "correct": 2,
+      "explanation": "Saccharopolyspora erythraea (previously Streptomyces erythraeus) produces the macrolide antibiotic erythromycin in a submerged fed-batch fermentation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m16",
+      "unit": 4,
+      "question": "Autoclave sterilisation uses which conditions?",
+      "options": [
+        "160°C dry heat for 1 hour",
+        "121°C, 15 psi steam for 15 minutes",
+        "140°C for 20 seconds (HTST)",
+        "UV for 30 minutes"
+      ],
+      "correct": 1,
+      "explanation": "Standard autoclave conditions (saturated steam, 121°C, 15 psi gauge, 15 minutes) kill all organisms including heat-resistant endospores.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m17",
+      "unit": 4,
+      "question": "The Rushton turbine is used in bioreactors for which purpose?",
+      "options": [
+        "Temperature control",
+        "pH control",
+        "Agitation and dispersion of air bubbles; mixing",
+        "Cell separation"
+      ],
+      "correct": 2,
+      "explanation": "The Rushton flat-blade disc turbine creates radial flow and high shear, efficiently dispersing gas bubbles and maintaining homogeneous conditions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m18",
+      "unit": 4,
+      "question": "Streptomycin is produced by which organism?",
+      "options": [
+        "Penicillium notatum",
+        "Streptomyces griseus",
+        "Aspergillus terreus",
+        "Bacillus subtilis"
+      ],
+      "correct": 1,
+      "explanation": "Streptomyces griseus produces streptomycin, the first aminoglycoside antibiotic, by submerged fermentation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m19",
+      "unit": 4,
+      "question": "During penicillin extraction, the broth is acidified to pH 2-3 to:",
+      "options": [
+        "Kill the fungus",
+        "Convert penicillin to its un-ionised acid form for organic solvent extraction",
+        "Precipitate cell debris",
+        "Inactivate proteases"
+      ],
+      "correct": 1,
+      "explanation": "Penicillin (pKa ~2.7) is un-ionised and lipophilic at low pH; it partitions into organic solvent (e.g. amyl acetate) with a partition coefficient of ~50 at pH 2–3.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m20",
+      "unit": 4,
+      "question": "Which traditional fermented food uses Aspergillus oryzae in solid-state fermentation?",
+      "options": [
+        "Yoghurt",
+        "Vinegar",
+        "Soy sauce (via koji mould on rice/soybean)",
+        "Cheese"
+      ],
+      "correct": 2,
+      "explanation": "Aspergillus oryzae grows on steamed rice or soybean (koji SSF), producing amylases and proteases that break down the substrate; the koji is then used in soy sauce and miso production.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Protein A affinity chromatography is used as the first capture step in mAb purification because Protein A binds:",
+      "options": [
+        "The antigen-binding site (Fab)",
+        "The Fc region of IgG",
+        "The light chain constant domain",
+        "The glycans on the antibody"
+      ],
+      "correct": 1,
+      "explanation": "Protein A from Staphylococcus aureus has high affinity (Kd ~10 nM) for the Fc region of IgG1, IgG2 and IgG4, enabling one-step capture with >99% purity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The LAL test is used in biopharmaceutical QC to detect:",
+      "options": [
+        "Viral contamination",
+        "Host cell protein impurities",
+        "Bacterial endotoxin (lipopolysaccharide)",
+        "Residual solvent"
+      ],
+      "correct": 2,
+      "explanation": "The Limulus amebocyte lysate (LAL) test detects bacterial endotoxin (LPS), which causes fever and septic shock; limit for IV products is typically 5 EU/kg per dose.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "During lyophilisation, the primary drying step removes water by:",
+      "options": [
+        "Evaporation above the boiling point",
+        "Sublimation of ice under vacuum",
+        "Reverse osmosis",
+        "Spray drying"
+      ],
+      "correct": 1,
+      "explanation": "Primary drying occurs below the product's glass transition temperature; ice sublimes directly to vapour under reduced pressure, bypassing the liquid phase.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Which excipient acts as a lyoprotectant in freeze-dried protein formulations?",
+      "options": [
+        "NaCl",
+        "Polysorbate 80",
+        "Trehalose or sucrose",
+        "Mannitol (when crystalline)"
+      ],
+      "correct": 2,
+      "explanation": "Trehalose and sucrose are amorphous lyoprotectants that form hydrogen bonds with protein polar groups, substituting for water and protecting tertiary structure during drying.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Viral clearance in biopharmaceutical manufacture requires orthogonal steps. Low-pH hold at pH 3.5 inactivates:",
+      "options": [
+        "All viruses including parvovirus",
+        "Only enveloped viruses",
+        "Only DNA viruses",
+        "Non-enveloped viruses only"
+      ],
+      "correct": 1,
+      "explanation": "Low pH disrupts the lipid envelope of enveloped viruses (HIV, hepatitis C, retroviruses); non-enveloped viruses (parvovirus, adenovirus) are resistant and require other clearance steps.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "A biosimilar differs from a small-molecule generic in that:",
+      "options": [
+        "The biosimilar is chemically identical to the reference product",
+        "Only a bioequivalence study is required",
+        "The biosimilar is highly similar but not identical, requiring a comparability data package",
+        "Biosimilars are cheaper and always interchangeable"
+      ],
+      "correct": 2,
+      "explanation": "Because living cells produce biologics, a biosimilar from a different cell line and process cannot be identical; comparability must be demonstrated analytically, non-clinically and clinically.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The FDA pathway for approving a new biologic (not a small molecule) is:",
+      "options": [
+        "NDA (New Drug Application) under the Food, Drug and Cosmetic Act",
+        "BLA (Biologics License Application) under the PHS Act",
+        "ANDA (Abbreviated New Drug Application)",
+        "510(k) clearance"
+      ],
+      "correct": 1,
+      "explanation": "Biologics are approved through the Biologics License Application (BLA) under Section 351 of the Public Health Service (PHS) Act.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Which chromatography method separates proteins based on molecular size?",
+      "options": [
+        "Ion exchange chromatography",
+        "Affinity chromatography",
+        "Size exclusion chromatography (gel filtration)",
+        "Hydrophobic interaction chromatography"
+      ],
+      "correct": 2,
+      "explanation": "In SEC, porous beads retard smaller molecules (which enter pores) while larger molecules are excluded; large molecules elute first. Used for aggregate removal and analytical characterisation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Viral nanofiltration (using a 15-20 nm pore membrane) works by:",
+      "options": [
+        "Chemical inactivation of viruses",
+        "Physical size-exclusion removal of virus particles",
+        "Adsorption of viral antigens",
+        "Raising the pH to inactivate viruses"
+      ],
+      "correct": 1,
+      "explanation": "Viruses larger than the membrane pore size are physically retained; enveloped viruses (20-300 nm) are removed; this is a removal step, not an inactivation step.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Ammonium sulphate precipitation in protein purification works by:",
+      "options": [
+        "Denaturing the protein",
+        "Salting-out — reducing water activity and precipitating proteins by hydrophobicity",
+        "Chelating metal ions that the protein requires",
+        "Ion exchange"
+      ],
+      "correct": 1,
+      "explanation": "High ammonium sulphate concentrations compete with proteins for hydration water (salting-out); proteins precipitate at different concentrations based on their hydrophobicity.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "ICH Q5A guideline covers:",
+      "options": [
+        "Stability testing of biotechnological products",
+        "Viral safety evaluation of biologics derived from animal or human cell lines",
+        "Specifications for biotechnology products",
+        "Process validation for biopharmaceuticals"
+      ],
+      "correct": 1,
+      "explanation": "ICH Q5A defines requirements for demonstrating viral safety, including characterisation of the cell line, testing starting materials, and validation of viral clearance steps.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Which buffer is most commonly used in lyophilised monoclonal antibody formulations?",
+      "options": [
+        "Phosphate buffer (pH 7.4)",
+        "Histidine buffer (pH 5.5-6.5)",
+        "Citrate buffer (pH 4)",
+        "Carbonate buffer (pH 9)"
+      ],
+      "correct": 1,
+      "explanation": "Histidine buffer (20 mM, pH 5.5-6.5) is the most popular for mAbs; it provides buffering capacity, is stable to lyophilisation, and is tolerated at injection.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m13",
+      "unit": 5,
+      "question": "High-pressure homogenisation is used for which purpose in downstream processing?",
+      "options": [
+        "Viral clearance",
+        "Cell disruption on an industrial scale",
+        "Protein precipitation",
+        "Sterile filtration"
+      ],
+      "correct": 1,
+      "explanation": "The APV-type high-pressure homogeniser forces cell suspension through a narrow valve under very high pressure; the sudden pressure drop lyses cells — the main industrial cell disruption method.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m14",
+      "unit": 5,
+      "question": "The first step in the four-stage DSP process is:",
+      "options": [
+        "Chromatography purification",
+        "Formulation into drug substance",
+        "Recovery (harvest) — separation of cells from the medium",
+        "Viral inactivation"
+      ],
+      "correct": 2,
+      "explanation": "Recovery comes first; it separates cells from the conditioned medium (for secreted products) or provides disrupted cells (for intracellular products) for all subsequent steps.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m15",
+      "unit": 5,
+      "question": "Indian regulatory authority for approving biopharmaceuticals is:",
+      "options": [
+        "FDA",
+        "EMA",
+        "CDSCO",
+        "WHO"
+      ],
+      "correct": 2,
+      "explanation": "The Central Drugs Standard Control Organisation (CDSCO) under India's Ministry of Health regulates biologics under the New Drugs and Clinical Trial Rules 2019.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m16",
+      "unit": 5,
+      "question": "Peptide mapping by LC-MS is used in biopharmaceutical QC for:",
+      "options": [
+        "Measuring endotoxin levels",
+        "Detecting residual solvents",
+        "Confirming primary amino acid sequence and detecting post-translational modifications",
+        "Measuring protein aggregation"
+      ],
+      "correct": 2,
+      "explanation": "Tryptic digest of the protein followed by LC-MS identifies each peptide by mass; it confirms primary sequence, detects deamidation, oxidation, glycation and glycosylation sites.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m17",
+      "unit": 5,
+      "question": "Polysorbate 20 or 80 is added to biopharmaceutical formulations to:",
+      "options": [
+        "Increase viscosity",
+        "Prevent protein aggregation at the ice-liquid interface and during agitation",
+        "Chelate metal ions",
+        "Improve glycosylation"
+      ],
+      "correct": 1,
+      "explanation": "Non-ionic surfactants (polysorbate 20/80) preferentially adsorb to hydrophobic surfaces and air-liquid interfaces, competing with the protein and reducing surface-induced denaturation and aggregation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m18",
+      "unit": 5,
+      "question": "IMAC (Immobilised Metal Affinity Chromatography) is used to purify proteins containing:",
+      "options": [
+        "A Protein A binding domain",
+        "A 6× histidine tag",
+        "A glutathione S-transferase tag",
+        "An albumin fusion"
+      ],
+      "correct": 1,
+      "explanation": "Nickel or cobalt resin on the IMAC column binds to the hexahistidine tag; elution is achieved with imidazole or low pH.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m19",
+      "unit": 5,
+      "question": "Protein aggregation in biopharmaceuticals is detected and measured by:",
+      "options": [
+        "SDS-PAGE under reducing conditions",
+        "LAL assay",
+        "Size exclusion chromatography (SEC-HPLC) and dynamic light scattering",
+        "Gas chromatography"
+      ],
+      "correct": 2,
+      "explanation": "SEC-HPLC separates monomers from dimers and high-molecular-weight aggregates; DLS measures particle size distribution in solution; both are standard aggregate tests.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m20",
+      "unit": 5,
+      "question": "Deamidation in a biopharmaceutical typically occurs at which amino acid residues?",
+      "options": [
+        "Lysine and arginine",
+        "Methionine and cysteine",
+        "Asparagine and glutamine",
+        "Proline and glycine"
+      ],
+      "correct": 2,
+      "explanation": "The amide side chains of asparagine (Asn) and glutamine (Gln) are chemically labile; hydrolysis produces aspartate/glutamate, changing the charge and potentially the function of the protein.",
+      "probability": "medium"
+    }
+  ]
+}

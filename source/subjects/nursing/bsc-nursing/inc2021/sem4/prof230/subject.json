@@ -1,0 +1,19 @@
+{
+  "code": "PROF230",
+  "title": "Professionalism, Professional Values and Ethics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Professionalism, Professional Values & Ethics including Bioethics, pages 331-335; exam pattern in Appendix 3, pages 416-417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Professionalism, professional conduct and regulatory bodies", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Professional values in nursing", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Ethics, bioethics and ethical principles", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Ethical issues, decision making, codes of ethics and patients' rights", "notes": "notes/unit-4.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}

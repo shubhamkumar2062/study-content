@@ -1,0 +1,48 @@
+{
+  "code": "BP605T",
+  "title": "Pharmaceutical Biotechnology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "PCI B.Pharm Syllabus 2014 (amended)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP605T_B.Pharma-pages-32.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Recombinant DNA Technology",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Expression Systems and Recombinant Proteins",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Monoclonal Antibodies, Vaccines and Diagnostics",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Fermentation Technology",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Downstream Processing and Regulatory Affairs",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

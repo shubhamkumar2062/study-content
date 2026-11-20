@@ -1,0 +1,48 @@
+{
+  "code": "BP503T",
+  "title": "Pharmacology II",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "PCI B.Pharm Syllabus 2014 (amended)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP503T_B.Pharma-pages-25.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "General Pharmacology of ANS and Autacoids",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "CNS Drugs",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "CVS Drugs",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Drugs for Respiratory, GI, Renal and Autacoids",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Chemotherapy",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

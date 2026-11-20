@@ -1,0 +1,24 @@
+{
+  "code": "N-AHN(I)215",
+  "title": "Adult Health Nursing I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Adult Health Nursing I with Integrated Pathophysiology (including BCLS module), pages 303–309; exam pattern in Appendix 3, pages 416–417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Introduction, asepsis, wound care, peri-operative care, fluid and electrolytes, shock and pain", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Intraoperative care and anaesthesia", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Patients with respiratory problems", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Patients with disorders of the digestive system", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Patients with cardiovascular problems (with BLS/BCLS)", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Patients with disorders of blood and of the endocrine system", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Patients with disorders of the integumentary system", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "Patients with musculoskeletal problems", "notes": "notes/unit-8.md" },
+    { "number": 9, "title": "Patients with communicable diseases", "notes": "notes/unit-9.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}

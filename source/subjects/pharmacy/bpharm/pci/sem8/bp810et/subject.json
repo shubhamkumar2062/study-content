@@ -1,0 +1,48 @@
+{
+  "code": "BP810ET",
+  "title": "Experimental Pharmacology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "PCI B.Pharm Elective Syllabus 2014 (amended)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP810ET_B.Pharma-pages-47.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Principles and Ethics of Bioassay",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Isolated Tissue Bioassays",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Bioassays of Classical Autacoids",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Screening Models for CNS, Anti-inflammatory and Analgesic Drugs",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "In-vivo Models, Toxicity Studies and Pharmacokinetics",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

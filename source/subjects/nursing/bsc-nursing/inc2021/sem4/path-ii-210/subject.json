@@ -1,0 +1,23 @@
+{
+  "code": "PATH(II)210",
+  "title": "Pathology II and Genetics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Pathology II and Genetics, pages 316–319; exam pattern in Appendix 3, pages 416–417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Special pathology: kidneys and urinary tract", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Special pathology: male and female genital systems", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Special pathology: breast and central nervous system", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Clinical pathology: body cavity fluids, semen, urine and faeces", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Genetics: introduction, chromosomes and patterns of inheritance", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Genetics: maternal, prenatal and genetic influences on defects and diseases", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Genetics: testing in neonates and children, and genetic conditions of adolescents and adults", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "Genetics: genetic services, counselling, legal and ethical issues and the nurse's role", "notes": "notes/unit-8.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "code": "N-COMH(I)310",
+  "title": "Community Health Nursing I",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Community Health Nursing I including Environmental Science & Epidemiology, pages 346–360; exam pattern in Appendix 3, pages 416–417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Concepts of community health, levels of prevention, health care planning and the delivery system in India", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Environmental science, environmental health and sanitation", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Nutrition assessment and education, food borne diseases and food safety", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Behaviour change communication, health education, and community health nursing approaches", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Family health care, primary care in the community, records and school health services", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Introduction to epidemiology: approaches, processes and investigation of an epidemic", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Communicable diseases and national health programmes", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "Non-communicable diseases and national health programmes", "notes": "notes/unit-8.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}
