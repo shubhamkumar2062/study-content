@@ -1,0 +1,20 @@
+{
+  "code": "BP101T",
+  "title": "Basics of Python Programming for Pharmaceutical Sciences",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, B.Pharm Syllabus 2026 (as per NEP 2020), Semester I, BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)",
+    "url": "https://www.pci.gov.in/documents/1455/B.Pharm_Syllabus_2026-_NEP2020_compressed.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Introduction to Python programming", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Control structures and functions", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Data structures and file handling", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Data handling with Pandas", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Data visualization with Matplotlib", "notes": "notes/unit-5.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the PCI B.Pharm 2026 (NEP 2020) syllabus and the kind of questions usually set in introductory programming papers. This course is new from 2026-27, so there are no past papers yet. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is an Integrated Development Environment (IDE)? Describe any three IDEs used for Python and list the advantages of an IDE over a plain text editor.",
+      "answer": "1. Definition: an IDE is one application that combines a code editor, a way to run the program, error messages, a debugger and file/project management.\n2. Jupyter Notebook / JupyterLab: runs in a browser; code is written in cells run one at a time; output, tables and graphs appear under each cell; Markdown notes between cells; files .ipynb; ideal for data analysis.\n3. PyCharm: full IDE for larger projects; smart auto-completion, error underlining, refactoring, built-in debugger; free Community edition.\n4. VS Code: light, free editor that becomes a Python IDE with the Python extension; integrated terminal; can open notebooks.\n(Others: Spyder with a variable explorer, IDLE that comes with Python, Google Colab in the browser.)\n5. Advantages over a text editor (Notepad): syntax highlighting; auto-completion; automatic indentation; errors marked while typing; run with one click; debugger to step through code and watch variables; variable explorer and terminal in one window; package and environment management.\n6. Result: fewer mistakes, faster coding, easier debugging and better organisation of projects."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the basic data types of Python and type casting with suitable examples.",
+      "answer": "1. int: whole numbers (10, -3) — number of tablets. float: decimals (0.25, 7.4, 1e-7) — weight, pH. str: text in quotes (\"NaCl\") — drug name, batch number. bool: True/False — test passed or not.\n2. type(x) tells the type of a value; Python decides the type from the value (dynamic typing).\n3. Type casting = converting a value from one type to another.\n4. Implicit conversion: done by Python, e.g. 3 + 2.5 gives 5.5 (int promoted to float).\n5. Explicit conversion: int(), float(), str(), bool().\n6. Cautions: int() truncates (does not round); int(\"2.5\") gives ValueError; \"5\" + 2 gives TypeError; input() returns a string, so cast before arithmetic.\nCode:\nprint(type(250), type(0.25), type(\"B-101\"), type(True))\nprint(int(\"25\") + 5, float(\"2.5\") * 2)\nprint(str(500) + \" mg\", int(3.99), round(3.99))\nprint(bool(0), bool(\"\"), bool(\"NaCl\"))\nprint(3 + 2.5)\nOutput:\n<class 'int'> <class 'float'> <class 'str'> <class 'bool'>\n30 5.0\n500 mg 3 4\nFalse False True\n5.5"
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the arithmetic, comparison and logical operators of Python with examples. What is operator precedence?",
+      "answer": "1. Arithmetic: + addition, - subtraction, * multiplication, / division (always float), // floor division, % remainder (modulus), ** power.\n2. Comparison (relational): ==, !=, >, <, >=, <= — always give True or False. = assigns, == compares.\n3. Logical: and (both true), or (at least one true), not (reverses).\n4. Precedence: brackets → ** → *, /, //, % → +, - → comparisons → not → and → or. Use brackets when in doubt.\n5. Pharmacy use: 17 tablets in strips of 5 → 17 // 5 = 3 full strips, 17 % 5 = 2 left; storage check 15 <= t <= 25.\nCode:\na, b = 17, 5\nprint(a / b, a // b, a % b, a ** 2)\nprint(2 + 3 * 4, (2 + 3) * 4)\ntemp = 30\nprint(temp >= 15 and temp <= 25, temp < 15 or temp > 25, not (temp > 25))\nOutput:\n3.4 3 2 289\n14 20\nFalse True False"
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "List any four features of Python.",
+      "answer": "1. High-level, English-like syntax.\n2. Interpreted — runs line by line, errors show at once.\n3. Dynamically typed — no type declarations.\n4. Free, open source and cross-platform, with a huge library collection (NumPy, Pandas, Matplotlib); blocks are marked by indentation."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why must the value returned by input() be type cast before calculation? Give an example.",
+      "answer": "input() always returns a string, even if the user types a number. Adding or multiplying strings does not do arithmetic (\"60\" * 2 gives \"6060\"). Convert first: weight = float(input(\"Weight in kg: \")); then weight / 1.65 ** 2 works."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the output of: print(17 / 5, 17 // 5, 17 % 5, 2 ** 3).",
+      "answer": "/ is true division, // floor division, % remainder, ** power.\nCode:\nprint(17 / 5, 17 // 5, 17 % 5, 2 ** 3)\nOutput:\n3.4 3 2 8"
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is string slicing? Give the output of s[0:4] and s[-2:] for s = \"Aspirin\".",
+      "answer": "Slicing s[start:stop] returns characters from index start up to, but not including, stop; negative indexes count from the end.\nCode:\ns = \"Aspirin\"\nprint(s[0:4], s[-2:])\nOutput:\nAspi in"
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate between standard and third-party libraries in Python.",
+      "answer": "Standard library: comes with Python, no installation, just import (math, statistics, csv, random, datetime). Third-party library: written by others, installed separately from PyPI with pip (pip install numpy; pip uninstall numpy) or conda — e.g. NumPy, Pandas, Matplotlib."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the commands to install, uninstall and list Python packages using pip.",
+      "answer": "Install: pip install pandas (a set version: pip install pandas==2.2.2).\nUninstall: pip uninstall pandas.\nList installed packages: pip list; details of one: pip show pandas.\n(Type them in the terminal / Command Prompt; in Jupyter use %pip install pandas.)"
+    },
+    {
+      "id": "u1-s07",
+      "unit": 1,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "State the rules for naming variables (identifiers) in Python.",
+      "answer": "May contain letters, digits and underscore; must not start with a digit; no spaces or symbols (-, %, @); cannot be a keyword (if, for, True…); case-sensitive (Dose and dose differ). Convention: lower_case_with_underscores, e.g. tablet_weight_mg."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the conditional statements in Python (if, if-else, if-elif-else and nested if) with syntax. Write a program to classify BMI.",
+      "answer": "1. Conditional statements run a block only when a condition is True; the header ends with a colon and the block is indented.\n2. if: runs the block only when the condition is true.\n3. if-else: two paths — one for True, one for False.\n4. if-elif-else: several conditions tested in order; only the first true block runs; else catches the rest.\n5. Nested if: an if inside another if/else, used when the second decision depends on the first.\n6. Program: BMI = weight / height²; WHO adult classes: < 18.5 underweight, 18.5–24.9 normal, 25–29.9 overweight, ≥ 30 obese.\nCode:\ndef bmi_category(bmi):\n    if bmi < 18.5:\n        return \"Underweight\"\n    elif bmi < 25:\n        return \"Normal\"\n    elif bmi < 30:\n        return \"Overweight\"\n    else:\n        return \"Obese\"\n\nweight, height = 70, 1.75\nbmi = weight / height ** 2\nprint(round(bmi, 1), bmi_category(bmi))\nprint(bmi_category(31.4))\nOutput:\n22.9 Normal\nObese"
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between for and while loops. Explain break and continue statements with a program.",
+      "answer": "1. for loop: repeats once for each item of a sequence (list, string, range); number of iterations known; loop variable updated automatically.\n2. while loop: repeats while a condition is True; number of iterations not known in advance; the variable must be updated inside the loop or it becomes infinite.\n3. range(start, stop, step) gives whole numbers with stop excluded.\n4. break: ends the loop immediately (stop at the first out-of-limit result).\n5. continue: skips the rest of the current iteration and moves to the next (skip missing readings).\n6. A loop's else block runs only if the loop finished without break.\nCode:\nresults = [99.1, None, 101.4, 108.2, 100.3]\nfor r in results:\n    if r is None:\n        continue\n    if r > 105:\n        print(\"Out of limit:\", r)\n        break\n    print(\"OK:\", r)\n\nconc, n = 100.0, 0\nwhile conc >= 10:\n    conc = conc / 2\n    n += 1\nprint(\"Half-lives to fall below 10%:\", n)\nOutput:\nOK: 99.1\nOK: 101.4\nOut of limit: 108.2\nHalf-lives to fall below 10%: 4"
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a function? Explain defining and calling functions, passing arguments and returning values. Write a modular program for a simple dosage calculation.",
+      "answer": "1. Function: a named, reusable block of code that does one task; reduces repetition, makes programs modular, readable and easy to test.\n2. Defining: def name(parameters): followed by an indented body; optional docstring; return sends a value back (None if no return).\n3. Calling: name(arguments) — arguments are the actual values given to the parameters.\n4. Positional arguments match by order; keyword arguments by name; default parameters have a value used when none is given.\n5. Several values can be returned and unpacked: a, b = f().\n6. Modular program: one function per formula and a short main part. Numbers below are practice values, not real doses.\nCode:\ndef weight_based_dose(dose_per_kg, weight_kg):\n    return dose_per_kg * weight_kg\n\ndef clark_rule(adult_dose, weight_kg):\n    return weight_kg / 70 * adult_dose\n\ndef volume_to_give(dose, conc_per_ml):\n    return dose / conc_per_ml\n\nd = weight_based_dose(2, 20)\nprint(\"Dose:\", d, \"units\")\nprint(\"Clark's rule:\", clark_rule(100, 14), \"units\")\nprint(\"Volume:\", volume_to_give(d, 8), \"mL\")\nOutput:\nDose: 40 units\nClark's rule: 20.0 units\nVolume: 5.0 mL"
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the syntax of the if-elif-else statement.",
+      "answer": "if condition1:\n    block1\nelif condition2:\n    block2\nelse:\n    block3\nOnly the first block whose condition is True runs; each header ends with a colon and blocks are indented."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the output of: print(list(range(2, 11, 3))).",
+      "answer": "range(start, stop, step) starts at 2, adds 3 each time and stops before 11.\nCode:\nprint(list(range(2, 11, 3)))\nOutput:\n[2, 5, 8]"
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate between break and continue.",
+      "answer": "break ends the whole loop at once; the remaining items are not processed. continue skips only the rest of the current iteration and goes on with the next item. Example: break at the first failing sample; continue past a missing reading."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between print and return in a function?",
+      "answer": "print only shows a value on the screen; the caller cannot use it. return sends the value back to the caller so it can be stored or used in further calculation, and ends the function. A function without return gives None."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a default argument? Give an example.",
+      "answer": "A parameter given a value in the def line, used when the caller does not pass one.\nCode:\ndef amount(conc, volume, unit=\"mg\"):\n    return f\"{conc * volume} {unit}\"\nprint(amount(2, 50), amount(2, 50, unit=\"g\"))\nOutput:\n100 mg 100 g"
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is an infinite loop? How can it be avoided?",
+      "answer": "A loop whose condition never becomes False, so it never ends (e.g. while x < 10 without changing x). Avoid it by updating the loop variable inside the loop, or using break; stop a running one with Ctrl + C or the Jupyter stop button."
+    },
+    {
+      "id": "u2-s07",
+      "unit": 2,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Give the output of the nested loop: for i in range(1, 3): for j in range(1, 3): print(i * j).",
+      "answer": "The inner loop runs fully for each turn of the outer loop: 2 × 2 = 4 iterations.\nCode:\nfor i in range(1, 3):\n    for j in range(1, 3):\n        print(i * j)\nOutput:\n1\n2\n2\n4"
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare lists, tuples and dictionaries in Python. Explain the basic operations on lists and dictionaries with examples.",
+      "answer": "1. List [ ]: ordered, mutable, duplicates allowed, accessed by index. Tuple ( ): ordered, immutable, accessed by index, used for fixed records. Dictionary {key: value}: values looked up by unique keys, mutable.\n2. List operations: append, insert, remove, pop, sort, reverse, index, count, len, min, max, sum, in, slicing.\n3. Dictionary operations: d[key], d.get(key, default), add/change d[key] = v, del d[key], keys(), values(), items(), update(), len, in (checks keys).\n4. Tuple: only count() and index(); trying to change an item gives TypeError; unpacking a, b = t.\nCode:\nweights = [251, 248, 255]\nweights.append(249)\nweights.sort()\nprint(weights, weights[0], weights[-1], weights[1:3])\nbatch = {\"batch_no\": \"B-101\", \"tablets\": 1000}\nbatch[\"tablets\"] = 950\nbatch[\"expiry\"] = \"2028-06\"\nprint(batch.get(\"passed\", \"not recorded\"), list(batch.keys()))\nsample = (\"S-01\", 0.421)\nsid, absb = sample\nprint(sid, absb)\nOutput:\n[248, 249, 251, 255] 248 255 [249, 251]\nnot recorded ['batch_no', 'tablets', 'expiry']\nS-01 0.421"
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is NumPy? How are NumPy arrays different from Python lists? Explain array creation and arithmetic operations with examples.",
+      "answer": "1. NumPy (Numerical Python) is the base library for scientific computing; its main object is the ndarray, a grid of values all of one data type; import numpy as np.\n2. Differences: arrays hold one dtype; operations are vectorised (act on every element without a loop); faster and use less memory; built-in statistics. [1, 2] * 2 repeats a list, np.array([1, 2]) * 2 multiplies.\n3. Creation: np.array(list), np.arange(start, stop, step), np.linspace(start, stop, n), np.zeros(n), np.ones(n), reshape(rows, cols).\n4. Attributes: ndim, shape, dtype, size.\n5. Arithmetic: element by element (+ - * / **); statistics mean(), std(), min(), max(); boolean indexing a[a > 250].\nCode:\nimport numpy as np\nconc = np.array([2, 4, 6, 8, 10])\nabsb = np.array([0.105, 0.212, 0.318, 0.421, 0.530])\nprint(conc.shape, conc.dtype)\nprint(conc * 1000)\nprint(np.round(absb / conc, 4))\nprint(np.linspace(0, 1, 5), round(absb.mean(), 3))\nprint([1, 2] * 2, np.array([1, 2]) * 2)\nOutput:\n(5,) int64\n[ 2000  4000  6000  8000 10000]\n[0.0525 0.053  0.053  0.0526 0.053 ]\n[0.   0.25 0.5  0.75 1.  ] 0.317\n[1, 2, 1, 2] [2 4]"
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain how to read and write CSV files in Python using the csv module. What is a structured healthcare dataset?",
+      "answer": "1. CSV: plain-text table; each line a record, values separated by commas; first line usually the header.\n2. Open with with open(name, mode, newline=\"\") — modes r (read), w (write, overwrites), a (append); with closes the file automatically.\n3. Writing: csv.writer(f).writerows(rows) or csv.DictWriter with fieldnames and writeheader().\n4. Reading: csv.reader gives each row as a list of strings; csv.DictReader gives each row as a dictionary keyed by column names. Convert numbers with int()/float().\n5. Structured dataset: fixed rows and columns — rows are records (patients, samples), columns are variables (age, drug, concentration), with IDs, units in column names, missing values marked, data dictionary; patient data de-identified.\nCode:\nimport csv\nwith open(\"cal.csv\", \"w\", newline=\"\") as f:\n    w = csv.writer(f)\n    w.writerows([[\"conc\", \"abs\"], [2, 0.105], [4, 0.212]])\nwith open(\"cal.csv\", newline=\"\") as f:\n    for row in csv.DictReader(f):\n        print(row[\"conc\"], float(row[\"abs\"]) * 2)\nOutput:\n2 0.21\n4 0.424"
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Give the output of: x = [10, 20, 30, 40, 50]; print(x[1:4], x[-1]).",
+      "answer": "Slicing [1:4] takes indexes 1, 2 and 3; index -1 is the last item.\nCode:\nx = [10, 20, 30, 40, 50]\nprint(x[1:4], x[-1])\nOutput:\n[20, 30, 40] 50"
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate between a list and a tuple.",
+      "answer": "List: square brackets, mutable (items can be added, removed, changed), many methods (append, sort). Tuple: round brackets, immutable, only count() and index(), used for fixed records and as dictionary keys; slightly faster."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "How do you add and safely read a key in a dictionary? Give an example.",
+      "answer": "Add or change: d[key] = value. Safe read: d.get(key, default) returns the default instead of a KeyError when the key is missing.\nCode:\nd = {\"drug\": \"Drug A\"}\nd[\"reports\"] = 3\nprint(d.get(\"reports\"), d.get(\"serious\", 0))\nOutput:\n3 0"
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the difference between file modes \"w\" and \"a\"?",
+      "answer": "\"w\" (write) creates the file or erases its old content before writing; \"a\" (append) keeps the old content and adds new lines at the end."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate between csv.reader and csv.DictReader.",
+      "answer": "csv.reader returns each row as a list (access by position, row[1]); the header is just the first row. csv.DictReader returns each row as a dictionary using the header as keys (access by name, row[\"absorbance\"]). Both return values as strings."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is a list comprehension? Give an example.",
+      "answer": "A short way to build a new list from another: [expression for item in list if condition].\nCode:\nconc = [2, 4, 6, 8]\nprint([c * 1000 for c in conc if c > 3])\nOutput:\n[4000, 6000, 8000]"
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain Pandas Series and DataFrame with examples. How are CSV and Excel files read into Pandas?",
+      "answer": "1. Pandas: library for tables of data, built on NumPy; import pandas as pd.\n2. Series: one-dimensional labelled array (values + index); one data type; like one column.\n3. DataFrame: two-dimensional table with row index and column labels; each column a Series with its own type; made from a dict of lists, list of dicts, or files.\n4. Attributes: shape, columns, index, dtypes.\n5. Reading: pd.read_csv(\"pk.csv\") (options sep, usecols, na_values, skiprows); pd.read_excel(\"adr.xlsx\", sheet_name=0) (needs openpyxl). Writing: to_csv / to_excel with index=False.\n6. Empty cells are read as NaN.\nCode:\nimport pandas as pd\ns = pd.Series([4.1, 7.9, 9.6], index=[\"0.5 h\", \"1 h\", \"2 h\"])\nprint(s.max(), s.idxmax())\ndf = pd.DataFrame({\"batch\": [\"B1\", \"B2\"], \"hardness\": [5.2, 4.8]})\nprint(df)\nprint(df.shape)\ndf.to_csv(\"batches.csv\", index=False)\nprint(pd.read_csv(\"batches.csv\")[\"hardness\"].mean())\nOutput:\n9.6 2 h\n  batch  hardness\n0    B1       5.2\n1    B2       4.8\n(2, 2)\n5.0"
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "What are missing values? Describe the data cleaning techniques available in Pandas.",
+      "answer": "1. Missing values: cells with no data, shown as NaN; caused by samples not taken, entry errors, lost records.\n2. Detect: df.isna() / isnull(); df.isna().sum() counts per column; info() shows non-null counts.\n3. Remove: dropna() (rows with any NaN), dropna(subset=[\"col\"]) (only if a key column is missing), drop(columns=[...]).\n4. Fill: fillna(0 / \"Unknown\"), fillna(df[\"col\"].mean() or median()), ffill/bfill, interpolate() for ordered data.\n5. Other cleaning: drop_duplicates(); str.strip(), str.lower()/title() for consistent spellings; astype() and pd.to_numeric(errors=\"coerce\") for types; pd.to_datetime(); rename(); replace(); reset_index(drop=True).\n6. In clinical/PK data state how missing values were handled; do not invent values casually.\nCode:\nimport pandas as pd\nadr = pd.DataFrame({\"drug\": [\"Drug A\", \"drug a \", \"Drug B\", \"Drug B\"],\n                    \"age\": [34, None, 62, 62]})\nprint(adr.isna().sum().to_dict())\nadr = adr.drop_duplicates()\nadr[\"drug\"] = adr[\"drug\"].str.strip().str.title()\nadr[\"age\"] = adr[\"age\"].fillna(adr[\"age\"].median())\nprint(adr)\nOutput:\n{'drug': 0, 'age': 1}\n     drug   age\n0  Drug A  34.0\n1  Drug A  48.0\n2  Drug B  62.0"
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain filtering rows on conditions and grouping with aggregation in Pandas, using an ADR report dataset as example.",
+      "answer": "1. Filtering (boolean indexing): df[df[\"col\"] > value] keeps rows where the condition is True.\n2. Combine with & (and), | (or), ~ (not); each condition in brackets; isin([...]) for several values; loc[condition, columns] to choose columns too.\n3. Grouping: groupby splits rows into groups, applies an aggregate (count, sum, mean, min, max), and combines results — split–apply–combine.\n4. value_counts() counts each category quickly; agg([\"mean\", \"count\"]) gives several summaries; grouping by two columns gives counts per combination.\nCode:\nimport pandas as pd\nadr = pd.DataFrame({\"drug\": [\"A\", \"B\", \"A\", \"C\", \"B\", \"A\"],\n                    \"serious\": [\"No\", \"Yes\", \"No\", \"No\", \"Yes\", \"Yes\"],\n                    \"age\": [34, 62, 45, 29, 58, 70]})\nprint(adr[(adr[\"serious\"] == \"Yes\") & (adr[\"age\"] > 60)])\nprint(adr[\"drug\"].value_counts().to_dict())\nprint(adr.groupby(\"drug\")[\"age\"].mean())\nOutput:\n  drug serious  age\n1    B     Yes   62\n5    A     Yes   70\n{'A': 3, 'B': 2, 'C': 1}\ndrug\nA    49.666667\nB    60.000000\nC    29.000000\nName: age, dtype: float64"
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What do head(), tail(), info() and describe() show?",
+      "answer": "head(n)/tail(n): first/last n rows (default 5). info(): number of rows, columns, non-null count and data type of each column, memory. describe(): count, mean, std, min, 25%, 50%, 75%, max of numeric columns."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate between a Pandas Series and a DataFrame.",
+      "answer": "Series: one-dimensional, one data type, one index (like one column). DataFrame: two-dimensional table with row index and column labels; each column is a Series and may have its own type. df[\"col\"] gives a Series; df[[\"a\", \"b\"]] gives a DataFrame."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "How do you count missing values in each column of a DataFrame df?",
+      "answer": "df.isna().sum() — isna() marks missing cells True and sum() counts the True values per column (df.isnull().sum() is the same)."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate between loc and iloc.",
+      "answer": "loc selects by labels (row index labels and column names); its slices include the end label. iloc selects by integer positions (0, 1, 2…); its slices exclude the end, like Python lists. Example: df.loc[2, \"conc\"]; df.iloc[0:2, 0:2]."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the Pandas code to select rows of a PK DataFrame pk where conc_ug_ml is greater than 8.",
+      "answer": "pk[pk[\"conc_ug_ml\"] > 8] — the condition gives True/False for each row and only True rows are kept."
+    },
+    {
+      "id": "u4-s06",
+      "unit": 4,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Differentiate between dropna() and fillna().",
+      "answer": "dropna() removes rows (or columns with axis=1) that contain missing values, so data is lost. fillna(value) keeps the rows and replaces NaN with a value such as 0, \"Unknown\" or the column median."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a Python program using Matplotlib to plot concentration–time curves for oral and IV administration. Label the axes, title and legend, and interpret the curves.",
+      "answer": "1. Import numpy and matplotlib.pyplot as plt; create time points with np.linspace.\n2. IV bolus: C = C0 × e^(−k·t) — highest at t = 0, falls exponentially.\n3. Oral: C = A(e^(−k·t) − e^(−ka·t)) — rises during absorption, peaks (Cmax at Tmax) when absorption = elimination, then falls.\n4. plt.plot for each line with label=, then xlabel/ylabel with units, title, legend, grid, savefig/show.\n5. Interpretation: IV has no absorption phase; oral peak is lower and later; on a semi-log plot IV elimination is a straight line (first order). Numbers are practice values.\nCode:\nimport numpy as np\nimport matplotlib.pyplot as plt\nt = np.linspace(0, 24, 97)\niv = 10 * np.exp(-0.2 * t)\noral = 12 * (np.exp(-0.2 * t) - np.exp(-1.2 * t))\nplt.plot(t, iv, label=\"IV bolus\")\nplt.plot(t, oral, \"--\", label=\"Oral\")\nplt.xlabel(\"Time (h)\")\nplt.ylabel(\"Concentration (ug/mL)\")\nplt.title(\"Concentration-time curves\")\nplt.legend()\nplt.savefig(\"ct.png\")\ni = oral.argmax()\nprint(\"Oral Cmax\", round(oral[i], 2), \"at\", t[i], \"h; IV max\", iv[0], \"at 0 h\")\nOutput:\nOral Cmax 6.99 at 1.75 h; IV max 10.0 at 0 h"
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe line plots, histograms, scatter plots and box plots in Matplotlib with their functions and one pharmaceutical use of each.",
+      "answer": "1. Line plot — plt.plot(x, y): points joined in order; time courses such as concentration–time curves, dissolution profiles, stability over time.\n2. Histogram — plt.hist(data, bins): bars of counts in continuous intervals (bars touch); distribution of tablet weights or particle sizes; shows centre, spread, skew, outliers.\n3. Scatter plot — plt.scatter(x, y): separate points showing the relationship of two variables; calibration curve of absorbance vs concentration with a fitted line (np.polyfit) and r².\n4. Box plot — plt.boxplot([a, b]): median, Q1, Q3 (box = IQR), whiskers and outliers; compares batches (hardness, assay, dissolution).\n5. All need xlabel, ylabel with units, title and legend where there is more than one series.\nCode:\nimport numpy as np\nconc = np.array([2, 4, 6, 8, 10])\nabsb = np.array([0.105, 0.212, 0.318, 0.421, 0.530])\nm, c = np.polyfit(conc, absb, 1)\nr = np.corrcoef(conc, absb)[0, 1]\nprint(f\"Calibration line: y = {m:.4f}x {c:+.4f}, r^2 = {r**2:.4f}\")\nprint(\"Hardness quartiles:\", np.percentile([5.1, 5.3, 5.0, 5.2, 5.4], [25, 50, 75]))\nOutput:\nCalibration line: y = 0.0529x -0.0005, r^2 = 0.9999\nHardness quartiles: [5.1 5.2 5.3]"
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is a dissolution profile? How would you plot and compare the dissolution profiles of a test and a reference product in Python? How are plots interpreted scientifically?",
+      "answer": "1. Dissolution profile: cumulative % of drug released plotted against time for a solid dosage form.\n2. Plot both with plt.plot(time, %released, marker, label), axis labels with units, ylim(0, 105), legend, grid.\n3. Compare with the similarity factor f2 = 50 log10{[1 + (1/n)Σ(Rt − Tt)²]^(−0.5) × 100}; 50–100 = similar.\n4. Interpretation steps: read axes and units (linear or log); describe pattern (rise, plateau, peak); note key values (Cmax, Tmax, slope, r², median); compare groups; spot outliers and give reasons; relate to science; state limitations (sample size, practice data, correlation not causation).\nCode:\nimport numpy as np\ntime_min = [5, 10, 15, 30, 45, 60]\nref = np.array([22, 41, 58, 79, 90, 95])\ntest = np.array([18, 36, 55, 77, 89, 96])\nf2 = 50 * np.log10(100 / np.sqrt(1 + np.mean((ref - test) ** 2)))\nprint(\"f2 =\", round(f2, 1))\nOutput:\nf2 = 74.6"
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the Matplotlib functions used to label the x-axis, y-axis, add a title and a legend.",
+      "answer": "plt.xlabel(\"Time (h)\"), plt.ylabel(\"Concentration (ug/mL)\"), plt.title(\"...\"), plt.legend() — the legend shows the label= given to each plotted line."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate between a histogram and a bar chart.",
+      "answer": "Histogram: distribution of one continuous variable; bars are counts in continuous bins and touch each other (plt.hist) — tablet weights. Bar chart: compares a value across separate categories; bars are separate (plt.bar) — ADR reporting rate per drug."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What does a box plot show?",
+      "answer": "Median (line in the box), first and third quartiles (box edges; box height = IQR), whiskers to the most extreme values within 1.5 × IQR, and outliers as separate points. Used to compare groups such as batches."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why is a semi-log plot used for IV concentration–time data?",
+      "answer": "After an IV bolus, first-order elimination gives an exponential fall; on a logarithmic y-axis (plt.yscale(\"log\") or plt.semilogy) it becomes a straight line whose slope (−k/2.303 for log10) gives the elimination rate constant."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the code to save a Matplotlib figure as a high-resolution image.",
+      "answer": "plt.savefig(\"calibration.png\", dpi=300) — PNG for reports and slides; use .pdf or .svg for sharp printing. Call it before plt.show()."
+    },
+    {
+      "id": "u5-s06",
+      "unit": 5,
+      "type": "short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is the use of plt.subplots(1, 2)?",
+      "answer": "It creates one figure with two Axes side by side (1 row, 2 columns), returned as fig, (ax1, ax2), so two related plots (e.g. linear and semi-log) can be shown together; fig.tight_layout() prevents overlap."
+    }
+  ]
+}

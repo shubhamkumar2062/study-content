@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which statement about Python is correct?",
+      "options": [
+        "It is an interpreted, dynamically typed language",
+        "It must be compiled before every run like C",
+        "Variables must be declared with a type",
+        "Blocks are marked with curly brackets"
+      ],
+      "correct": 0,
+      "explanation": "Python runs through an interpreter and decides types from values; blocks use indentation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "What is the output of print(17 // 5)?",
+      "options": [
+        "3.4",
+        "3",
+        "2",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "// is floor division: the whole-number part of 17/5.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "What is the output of print(17 % 5)?",
+      "options": [
+        "3",
+        "3.4",
+        "2",
+        "0"
+      ],
+      "correct": 2,
+      "explanation": "% gives the remainder.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The input() function returns its value as:",
+      "options": [
+        "An integer",
+        "A float",
+        "The type the user types",
+        "A string"
+      ],
+      "correct": 3,
+      "explanation": "Always a string; cast with int() or float().",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "What does int(3.99) give?",
+      "options": [
+        "3",
+        "4",
+        "3.99",
+        "Error"
+      ],
+      "correct": 0,
+      "explanation": "int() truncates the decimal part; round() rounds.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which file extension is used for Jupyter notebooks?",
+      "options": [
+        ".py",
+        ".ipynb",
+        ".jnb",
+        ".nbk"
+      ],
+      "correct": 1,
+      "explanation": "Jupyter notebooks are saved as .ipynb.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "For s = \"Aspirin\", s[-1] is:",
+      "options": [
+        "A",
+        "i",
+        "n",
+        "Error"
+      ],
+      "correct": 2,
+      "explanation": "Index -1 is the last character.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Which command removes an installed package?",
+      "options": [
+        "pip remove pandas",
+        "pip delete pandas",
+        "import -r pandas",
+        "pip uninstall pandas"
+      ],
+      "correct": 3,
+      "explanation": "pip uninstall removes a package; conda uses conda remove.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Which of these is a valid variable name?",
+      "options": [
+        "dose_2",
+        "2dose",
+        "dose-2",
+        "for"
+      ],
+      "correct": 0,
+      "explanation": "Names cannot start with a digit, contain -, or be keywords.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Which module belongs to the Python standard library?",
+      "options": [
+        "numpy",
+        "math",
+        "pandas",
+        "matplotlib"
+      ],
+      "correct": 1,
+      "explanation": "math comes with Python; the others are installed with pip.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "In an if-elif-else ladder, how many blocks run?",
+      "options": [
+        "Every block whose condition is True",
+        "Always the else block",
+        "Only the first block whose condition is True",
+        "All blocks in order"
+      ],
+      "correct": 2,
+      "explanation": "Testing stops at the first true condition.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "list(range(2, 11, 3)) gives:",
+      "options": [
+        "[2, 5, 8, 11]",
+        "[3, 6, 9]",
+        "[2, 4, 6, 8, 10]",
+        "[2, 5, 8]"
+      ],
+      "correct": 3,
+      "explanation": "Start 2, step 3, stop 11 excluded.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Which statement leaves a loop immediately?",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "return False"
+      ],
+      "correct": 0,
+      "explanation": "break ends the loop; continue skips to the next iteration.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "continue in a loop:",
+      "options": [
+        "Ends the loop",
+        "Skips the rest of the current iteration",
+        "Restarts the program",
+        "Does nothing at all"
+      ],
+      "correct": 1,
+      "explanation": "It moves straight to the next item.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "A function without a return statement returns:",
+      "options": [
+        "0",
+        "False",
+        "None",
+        "An empty string"
+      ],
+      "correct": 2,
+      "explanation": "Python returns None by default.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The loop best suited when the number of repetitions is not known in advance is:",
+      "options": [
+        "for loop over range",
+        "nested for loop",
+        "list comprehension",
+        "while loop"
+      ],
+      "correct": 3,
+      "explanation": "while repeats as long as a condition stays true.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "In def amount(conc, volume, unit=\"mg\"):, unit is a:",
+      "options": [
+        "Default parameter",
+        "Keyword-only error",
+        "Global variable",
+        "Return value"
+      ],
+      "correct": 0,
+      "explanation": "It takes \"mg\" when no value is passed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Young's rule for a child's dose uses:",
+      "options": [
+        "weight / 70 × adult dose",
+        "age / (age + 12) × adult dose",
+        "age / 20 × adult dose",
+        "BSA / 1.73 × adult dose"
+      ],
+      "correct": 1,
+      "explanation": "Clark's rule uses weight/70; Young's uses age/(age + 12).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "How many times does print run in: for i in range(3): for j in range(2): print(i)?",
+      "options": [
+        "5",
+        "3",
+        "6",
+        "2"
+      ],
+      "correct": 2,
+      "explanation": "Inner loop 2 times for each of 3 outer turns.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "A variable created inside a function is:",
+      "options": [
+        "Global",
+        "Available everywhere after the call",
+        "A constant",
+        "Local to that function"
+      ],
+      "correct": 3,
+      "explanation": "It exists only while the function runs.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Which data structure is immutable?",
+      "options": [
+        "Tuple",
+        "List",
+        "Dictionary",
+        "Set"
+      ],
+      "correct": 0,
+      "explanation": "Tuples cannot be changed after creation.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "For x = [10, 20, 30, 40, 50], x[1:4] is:",
+      "options": [
+        "[10, 20, 30, 40]",
+        "[20, 30, 40]",
+        "[20, 30, 40, 50]",
+        "[10, 20, 30]"
+      ],
+      "correct": 1,
+      "explanation": "Stop index 4 is excluded.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Which method adds an item at the end of a list?",
+      "options": [
+        "insert()",
+        "add()",
+        "append()",
+        "extend_end()"
+      ],
+      "correct": 2,
+      "explanation": "insert() adds at a chosen index; add() is for sets.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "d.get(\"expiry\", \"NA\") when \"expiry\" is not a key returns:",
+      "options": [
+        "KeyError",
+        "None always",
+        "False",
+        "NA"
+      ],
+      "correct": 3,
+      "explanation": "get() returns the default instead of raising KeyError.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "np.array([1, 2]) * 2 gives:",
+      "options": [
+        "[2 4]",
+        "[1, 2, 1, 2]",
+        "[1 2 1 2]",
+        "Error"
+      ],
+      "correct": 0,
+      "explanation": "NumPy multiplies element by element; a list would repeat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "np.linspace(0, 1, 5) produces:",
+      "options": [
+        "Values 0 to 1 in steps of 5",
+        "5 evenly spaced values from 0 to 1 including both ends",
+        "5 random values",
+        "Values 0 to 5 in steps of 1"
+      ],
+      "correct": 1,
+      "explanation": "linspace(start, stop, n) includes the stop value.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Opening a file in mode \"w\":",
+      "options": [
+        "Adds to the end of the file",
+        "Only reads the file",
+        "Erases any existing content before writing",
+        "Fails if the file exists"
+      ],
+      "correct": 2,
+      "explanation": "Use \"a\" to append.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "csv.DictReader returns each row as a:",
+      "options": [
+        "List of numbers",
+        "Tuple",
+        "NumPy array",
+        "Dictionary keyed by column names"
+      ],
+      "correct": 3,
+      "explanation": "csv.reader gives lists; values are strings in both.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The attribute that gives the size of each dimension of a NumPy array is:",
+      "options": [
+        "shape",
+        "ndim",
+        "dtype",
+        "length"
+      ],
+      "correct": 0,
+      "explanation": "ndim = number of dimensions; dtype = data type.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "In a structured dataset, each row usually represents:",
+      "options": [
+        "One variable",
+        "One record, such as one patient or sample",
+        "One file",
+        "The units of measurement"
+      ],
+      "correct": 1,
+      "explanation": "Columns are variables; rows are records.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "A two-dimensional labelled table in Pandas is a:",
+      "options": [
+        "Series",
+        "ndarray",
+        "DataFrame",
+        "Tuple"
+      ],
+      "correct": 2,
+      "explanation": "A Series is one-dimensional.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Which function shows non-null counts and data types of each column?",
+      "options": [
+        "describe()",
+        "head()",
+        "shape",
+        "info()"
+      ],
+      "correct": 3,
+      "explanation": "describe() gives summary statistics.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Which function counts missing values per column?",
+      "options": [
+        "df.isna().sum()",
+        "df.count_nan()",
+        "df.dropna().sum()",
+        "df.missing()"
+      ],
+      "correct": 0,
+      "explanation": "isna() marks NaN as True; sum() counts them.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "In describe(), the 50% row is the:",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Half of the maximum"
+      ],
+      "correct": 1,
+      "explanation": "25% and 75% are the quartiles.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Reading .xlsx files with pd.read_excel needs which extra package?",
+      "options": [
+        "xlrd only for csv",
+        "matplotlib",
+        "openpyxl",
+        "csvkit"
+      ],
+      "correct": 2,
+      "explanation": "openpyxl reads and writes .xlsx files.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "To combine two conditions in a Pandas filter you use:",
+      "options": [
+        "the word and",
+        "+ between conditions",
+        "a comma",
+        "& with each condition in brackets"
+      ],
+      "correct": 3,
+      "explanation": "Python's and/or do not work element-wise.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "iloc selects data by:",
+      "options": [
+        "Integer positions",
+        "Column names only",
+        "Index labels",
+        "Conditions only"
+      ],
+      "correct": 0,
+      "explanation": "loc uses labels; iloc uses positions.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The quickest way to count reports for each drug in column \"drug\" is:",
+      "options": [
+        "df[\"drug\"].sum()",
+        "df[\"drug\"].value_counts()",
+        "df.count(\"drug\")",
+        "df[\"drug\"].mean()"
+      ],
+      "correct": 1,
+      "explanation": "value_counts() counts each category.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "For pd.Series([4.1, 9.6, 7.2], index=[\"0.5h\", \"2h\", \"4h\"]).idxmax(), the result is:",
+      "options": [
+        "9.6",
+        "1",
+        "2h",
+        "4h"
+      ],
+      "correct": 2,
+      "explanation": "idxmax returns the label of the largest value.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "groupby followed by an aggregate function follows the idea of:",
+      "options": [
+        "Merge-sort-print",
+        "Read-write-close",
+        "Fill-drop-plot",
+        "Split-apply-combine"
+      ],
+      "correct": 3,
+      "explanation": "Rows are split into groups, aggregated and combined.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The standard way to import Matplotlib's plotting interface is:",
+      "options": [
+        "import matplotlib.pyplot as plt",
+        "import matplotlib as np",
+        "from pyplot import matplotlib",
+        "import plot as plt"
+      ],
+      "correct": 0,
+      "explanation": "pyplot is imported with the alias plt.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Which plot best shows the distribution of 20 tablet weights?",
+      "options": [
+        "Pie chart",
+        "Histogram",
+        "Line plot",
+        "Bar chart of drug names"
+      ],
+      "correct": 1,
+      "explanation": "A histogram shows counts in continuous bins.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "A calibration curve of absorbance against concentration is drawn as a:",
+      "options": [
+        "Box plot",
+        "Histogram",
+        "Scatter plot with a fitted straight line",
+        "Pie chart"
+      ],
+      "correct": 2,
+      "explanation": "Scatter shows the x-y relationship; np.polyfit gives the line.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "After an IV bolus, the plasma concentration-time curve:",
+      "options": [
+        "Rises to a peak at Tmax and then falls",
+        "Stays constant",
+        "Rises continuously",
+        "Is highest at time zero and then falls"
+      ],
+      "correct": 3,
+      "explanation": "There is no absorption phase after IV injection.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In a box plot, the height of the box represents the:",
+      "options": [
+        "Interquartile range (Q3 - Q1)",
+        "Range (max - min)",
+        "Mean ± SD",
+        "Total count"
+      ],
+      "correct": 0,
+      "explanation": "The line inside the box is the median.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Which function labels the y-axis?",
+      "options": [
+        "plt.yaxis()",
+        "plt.ylabel()",
+        "plt.title()",
+        "plt.legend()"
+      ],
+      "correct": 1,
+      "explanation": "plt.xlabel() labels the x-axis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "plt.legend() displays:",
+      "options": [
+        "Axis tick values",
+        "The figure title",
+        "The label= text given to each plotted series",
+        "Grid lines"
+      ],
+      "correct": 2,
+      "explanation": "Lines need label= for the legend to name them.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "On a semi-log plot, first-order elimination after IV dosing appears as:",
+      "options": [
+        "A bell-shaped curve",
+        "A horizontal line",
+        "A circle",
+        "A straight line"
+      ],
+      "correct": 3,
+      "explanation": "log C falls linearly with time; slope = -k/2.303.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Two dissolution profiles are considered similar when f2 is:",
+      "options": [
+        "Between 50 and 100",
+        "Below 50",
+        "Exactly 0",
+        "Above 150"
+      ],
+      "correct": 0,
+      "explanation": "f2 = 100 means identical profiles.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "plt.savefig(\"plot.png\", dpi=300) is used to:",
+      "options": [
+        "Display the plot in a new window",
+        "Save the figure as a high-resolution image file",
+        "Set the plot title",
+        "Change the figure size"
+      ],
+      "correct": 1,
+      "explanation": "dpi sets dots per inch.",
+      "probability": "low"
+    }
+  ]
+}
