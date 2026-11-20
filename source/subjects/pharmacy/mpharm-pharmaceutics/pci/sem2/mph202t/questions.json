@@ -1,0 +1,545 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the PCI M.Pharm syllabus and common patterns in pharmacokinetics papers. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the pH-partition theory of drug absorption. Derive the expressions for the fraction un-ionised of weak acids and bases and explain the limitations of the theory with examples.",
+      "answer": "1. Statement: only the un-ionised, lipid-soluble form of a weak electrolyte crosses the GI membrane by passive diffusion; absorption depends on pKa, GI pH and lipophilicity (Brodie, Shore, Schanker).\n2. Henderson–Hasselbalch: weak acid pH − pKa = log([A⁻]/[HA]) → % un-ionised = 100/(1 + 10^(pH − pKa)); weak base pKa − pH = log([BH⁺]/[B]) → % un-ionised = 100/(1 + 10^(pKa − pH)).\n3. Example: acid pKa 4.4 is 99.9% un-ionised at pH 1.2 but 0.4% at pH 6.8; base pKa 9.0 is 0.6% un-ionised at pH 6.8.\n4. Ion trapping: at equilibrium total-drug ratio for an acid = (1 + 10^(pH2 − pKa))/(1 + 10^(pH1 − pKa)); acid pKa 3.5 between pH 1.4 and 7.4 gives about 7,900 : 1 in favour of plasma.\n5. Limitation 1: small intestine absorbs most weak acids despite ionisation because of its huge surface and long residence.\n6. Limitation 2: microclimate pH (about 5.5–6.5) next to the mucosa differs from bulk pH.\n7. Limitation 3: unstirred water layer limits very lipophilic drugs.\n8. Limitation 4: ionised species cross by paracellular route, ion pairs and carriers; efflux and gut-wall metabolism ignored.\n9. Limitation 5: dissolution and solubility not considered; log P/log D also matters.\n10. Uses: explains direction of pH effects, ion trapping, urinary pH effects on excretion, choice of salt forms."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the Noyes–Whitney equation and other theories of drug dissolution. Discuss the physicochemical, formulation and processing factors affecting the dissolution rate.",
+      "answer": "1. Dissolution steps: wetting, detachment of molecules, diffusion through the stagnant layer to bulk.\n2. Noyes–Whitney (Nernst–Brunner film theory): dM/dt = DA(Cs − C)/h; under sink conditions rate ≈ DACs/h. Define each symbol.\n3. Interfacial barrier model: interfacial transport is slow; rate = Ki(Cs − C).\n4. Danckwerts surface-renewal model: eddies renew the surface; rate = A(Cs − C)√(γD).\n5. Hixson–Crowell cube-root law for shrinking particles: W0^(1/3) − W^(1/3) = κt.\n6. Drug factors: solubility, particle size and surface area (micronisation; 5-fold smaller diameter gives 5-fold area), polymorphism, amorphous state, hydrates/solvates, salt form (diffusion-layer pH), wettability, complexation.\n7. Formulation factors: diluents, disintegrants (superdisintegrants), binders, lubricants (magnesium stearate film), surfactants, coatings.\n8. Processing factors: granulation method, compression force (porosity), drying, ageing on storage.\n9. Test/medium factors: agitation (h), temperature, viscosity, pH, volume (sink).\n10. Conclude: control of these factors is essential for BCS II drugs where dissolution limits absorption."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe in vitro, in situ and in vivo methods to determine drug permeability. Add a note on the transport model (permeability–solubility–charge state).",
+      "answer": "1. In vitro: PAMPA (artificial lipid membrane; passive only); Caco-2 monolayers (21-day culture, TEER check, Papp = (dQ/dt)/(A C0), bidirectional efflux ratio ≥ 2 suggests efflux); MDCK and MDCK-MDR1; Ussing chamber; everted sac.\n2. In situ: single-pass intestinal perfusion in rat with water-flux marker, Peff = −Q ln(Cout/Cin)/(2πrL); closed-loop (Doluisio); intestinal–vascular perfusion.\n3. In vivo: human jejunal perfusion (Loc-I-Gut, double-balloon 10 cm segment); mass balance and absolute bioavailability to find fa (≥ 85% = high permeability, ICH M9); deconvolution.\n4. Advantages/limits: in vitro fast but laboratory-specific, validated with reference drugs; in situ keeps blood supply; in vivo most relevant but costly.\n5. Transport model: flux J = Peff × C; 1/Peff = 1/PABL + 1/(Pm + Ppara).\n6. Pm = P0 × fneutral: permeability falls ten-fold per pH unit of ionisation until a paracellular floor.\n7. Unstirred layer limits highly lipophilic drugs; the apparent pKa shifts.\n8. Maximum flux = Peff × Cs; ionisation raises solubility but lowers permeability (trade-off behind BCS).\n9. GIT properties: mucus, bile micelles, microclimate pH 5.5–6.5, intracellular pH 7.0–7.2, tight junctions (claudins, occludin, ZO) favour small cations."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the role of the dosage form (solution, suspension, capsule, tablet) in gastrointestinal absorption.",
+      "answer": "1. Rate order: solution > suspension > capsule > tablet > coated tablet.\n2. Solution: no dissolution step; risks of precipitation on dilution (salts, cosolvents), viscosity slows emptying, complexation.\n3. Suspension: fine wetted particles dissolve quickly; particle size, wetting agent, viscosity, crystal growth and polymorph matter.\n4. Capsule: shell dissolves fast; powder plug must deaggregate; diluent, lubricant, packing density, gelatin cross-linking on ageing.\n5. Tablet: disintegration → granules → particles (Wagner scheme); compression force, binder, disintegrant, lubricant, coating add delays."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is pH microclimate? How does it influence the absorption of weak acids and weak bases?",
+      "answer": "1. Thin acidic layer (about pH 5.5–6.5) at the enterocyte surface, created by the apical Na⁺/H⁺ exchanger and held by mucus; bulk lumen pH is higher (6.5–7.5).\n2. Weak acids: more un-ionised at the membrane than bulk pH predicts → better absorption than pH-partition calculation suggests.\n3. Weak bases: more ionised at the surface → lower passive permeability.\n4. Explains part of the failure of the classical pH-partition hypothesis.\n5. Intracellular pH (7.0–7.2) and blood pH 7.4 then pull weak acids across (ionisation inside the cell)."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the tight-junction complex and its role in paracellular drug transport.",
+      "answer": "1. Seal between adjacent epithelial cells at the apical side; proteins claudins, occludin, junctional adhesion molecules linked to actin via ZO-1/2/3.\n2. Below it lie adherens junctions and desmosomes.\n3. Paracellular pores are a few ångströms; favour small (MW below about 200–300 Da) hydrophilic molecules.\n4. Negative charges make them cation-selective; leakier in upper small intestine than colon.\n5. Paracellular area is a tiny fraction of total surface; route minor for most drugs.\n6. Permeation enhancers (sodium caprate, chitosan, EDTA, bile salts) open them transiently, used in some oral peptide products."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the mechanisms of drug absorption across the gastrointestinal epithelium.",
+      "answer": "1. Passive transcellular diffusion: Fick's law dQ/dt = (DKA/h)ΔC; non-saturable, most lipophilic drugs.\n2. Paracellular diffusion through tight junctions: small hydrophilic molecules.\n3. Carrier-mediated: facilitated diffusion (no energy) and active transport (energy, against gradient, saturable, competitive; PEPT1 substrates).\n4. Efflux by P-gp, BCRP, MRP2 reduces net absorption.\n5. Endocytosis (pinocytosis, receptor-mediated), ion-pair transport, lymphatic uptake of very lipophilic drugs via chylomicrons."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Describe the experimental methods used to determine drug solubility.",
+      "answer": "1. Shake-flask equilibrium solubility: excess solid, 37 °C, 24–72 h, separate, assay; check final pH and solid form.\n2. pH–solubility profile across pH 1.2–6.8 for BCS; intrinsic solubility S0.\n3. Kinetic solubility from DMSO stock by nephelometry/turbidity: fast screening, overestimates.\n4. Potentiometric titration (CheqSol) for ionisable drugs.\n5. Biorelevant media (FaSSGF, FaSSIF, FeSSIF) and phase-solubility (Higuchi–Connors) for complexes."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the Noyes–Whitney equation and define its terms.",
+      "answer": "dM/dt = DA(Cs − C)/h, where D = diffusion coefficient, A = surface area, Cs = saturation solubility, C = bulk concentration, h = diffusion-layer thickness."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Calculate the apparent permeability of a drug across a Caco-2 monolayer if 0.12 µg/min appears in the receiver; area 1.12 cm², donor concentration 100 µg/mL.",
+      "answer": "Papp = (dQ/dt)/(A × C0) = (0.12/60 µg/s)/(1.12 cm² × 100 µg/cm³) = 1.8 × 10⁻⁵ cm/s."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define in vitro–in vivo correlation. Describe the levels of IVIVC, the steps in developing and validating a Level A correlation, and its regulatory applications.",
+      "answer": "1. Definition: predictive mathematical model relating an in vitro property (rate/extent of dissolution) to an in vivo response (plasma level, amount absorbed) (US FDA 1997 extended-release guidance).\n2. Level A: point-to-point fraction dissolved vs fraction absorbed; best; predicts full profile.\n3. Level B: MDT in vitro vs MRT or MAT in vivo; not point-to-point.\n4. Level C: single dissolution value vs one PK parameter; multiple Level C: several points; Level D: rank order only.\n5. Development: 2–3 formulations with different release rates, discriminating dissolution method, crossover PK study with IV/IR reference.\n6. Deconvolution: Wagner–Nelson, Loo–Riegelman or numerical deconvolution to get fraction absorbed.\n7. Plot FA vs FD; fit (ideally slope near 1, intercept near 0; time scaling if needed). Example: slope 1.013, intercept −0.029, r 0.9998.\n8. Validation: convolution to predict Cmax and AUC; internal %PE ≤ 10% mean, ≤ 15% each; external with a new formulation.\n9. Applications: biowaivers for scale-up and post-approval changes, clinically relevant dissolution specifications, fewer human studies.\n10. Likely when dissolution is rate-limiting (BCS II, ER products); unlikely for permeability-limited drugs."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the compendial methods of dissolution testing. Discuss alternative methods, acceptance criteria and the problems of variable control in dissolution testing.",
+      "answer": "1. Purpose: QC, development, stability, biowaiver, IVIVC.\n2. USP apparatus 1 basket, 2 paddle, 3 reciprocating cylinder, 4 flow-through cell, 5 paddle over disc, 6 rotating cylinder, 7 reciprocating holder; uses of each.\n3. Conditions: 900 mL, 37 ± 0.5 °C, deaerated, pH 1.2/4.5/6.8, sink conditions (≥ 3 × saturation volume), surfactant if justified.\n4. Alternatives: rotating disc (IDR), rotating bottle, dialysis for nanocarriers, biphasic, transfer models, biorelevant media, dynamic GI models, dissolution–permeation systems.\n5. IR acceptance: S1 6 units each ≥ Q + 5%; S2 mean of 12 ≥ Q, none < Q − 15%; S3 mean of 24 ≥ Q, ≤ 2 < Q − 15%, none < Q − 25%; ER L1–L3; DR acid A1–A3 and buffer B1–B3.\n6. Apparatus variables: vessel geometry, wobble, centring, height, vibration → mechanical calibration and performance verification.\n7. Medium: pH, dissolved gases, evaporation.\n8. Hydrodynamics: coning, sticking, floating → sinkers, speed change.\n9. Sampling/analysis: position, filter adsorption, delayed filtration, degradation.\n10. Product: gelatin cross-linking (enzymes), hardening; human error. A discriminating method detects meaningful changes."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss biopharmaceutic considerations in the design of a drug product, including rate-limiting steps, physicochemical nature of the drug and formulation factors.",
+      "answer": "1. Goal: adequate, reproducible bioavailability with the intended release profile and a predictive QC test.\n2. Rate-limiting steps: disintegration, dissolution (BCS II), permeation (BCS III), gastric emptying; ER product makes release the slowest step.\n3. Drug properties: solubility and dose number D0, pKa/pH-solubility, log P, particle size, polymorph/amorphous, salt, hydrate, stability, complexation.\n4. Formulation: diluent, binder, disintegrant, lubricant, surfactant, release polymer, solubility enhancers.\n5. Process: granulation, compression, drying, coating.\n6. Patient/physiology: GI pH, food, emptying, first pass, transporters.\n7. PK/PD considerations: therapeutic window, half-life, onset needed.\n8. Route and dosage-form choice for patient groups.\n9. Stability of performance (ICH Q1A; India zone IVb 30 °C/75% RH).\n10. QbD: QTPP → CQAs → risk assessment → DoE → design space → control strategy."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Calculate the difference factor f1 and similarity factor f2 for a test and reference product: reference 42, 58, 71, 86% and test 36, 51, 65, 82% dissolved at 10, 15, 20 and 30 min. Comment.",
+      "answer": "1. Differences R − T: 6, 7, 6, 4; Σ|R − T| = 23; ΣR = 257.\n2. f1 = 23/257 × 100 = 8.9 (limit 0–15).\n3. Σ(R − T)² = 36 + 49 + 36 + 16 = 137; n = 4.\n4. f2 = 50 log[100/√(1 + 137/4)] = 50 log(100/5.937) = 61.3 (limit 50–100).\n5. Profiles are similar; conditions: 12 units, ≥ 3 points, only one point after 85%, CV ≤ 20% early and ≤ 10% later."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on dissolution profile comparison methods.",
+      "answer": "1. Model-independent: f1 (0–15 similar) and f2 (50–100 similar); f2 = 50 means about 10% average difference.\n2. Conditions for f2; not needed if both release ≥ 85% in 15 min.\n3. Multivariate statistical distance or bootstrap f2 for high variability.\n4. Model-dependent: fit Weibull, first order, Korsmeyer–Peppas and compare parameters with confidence regions.\n5. Single-value summaries: MDT = Σ tmid ΔM/ΣΔM, dissolution efficiency, t50, t90; ANOVA-based comparisons."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the drug release kinetic models used to describe dissolution profiles.",
+      "answer": "1. Zero order Q = k0 t: osmotic and reservoir systems.\n2. First order ln(100 − Q) = ln 100 − k1 t: many IR products.\n3. Higuchi Q = kH √t: diffusion from insoluble matrices.\n4. Hixson–Crowell cube-root law: shrinking particles/erosion.\n5. Korsmeyer–Peppas Mt/M∞ = k tⁿ (first 60%): slab n 0.5 Fickian, 0.5–1 anomalous, 1 Case II; Weibull empirical."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the rate-limiting steps in drug absorption and their significance in product design.",
+      "answer": "1. Steps in series: disintegration → dissolution → permeation → (first pass).\n2. The slowest step controls the overall rate.\n3. Dissolution-limited (BCS II): reduce particle size, salts, solid dispersions; IVIVC likely.\n4. Permeation-limited (BCS III): formulation changes in dissolution matter little; enhancers or prodrugs.\n5. Gastric emptying limits fast-dissolving drugs; ER products deliberately make release the slowest step (flip-flop)."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "How does drug product stability affect product performance? Mention ICH storage conditions.",
+      "answer": "1. Physical changes: polymorphic conversion, recrystallisation of amorphous drug, moisture uptake, hardening, gelatin cross-linking, coat curing in ER products.\n2. Chemical degradation lowers potency and forms impurities.\n3. Dissolution is a stability-indicating test for solid orals.\n4. ICH Q1A(R2): accelerated 40 °C/75% RH for 6 months; long-term per climatic zone; India zone IVb 30 °C/75% RH.\n5. Packaging (blister material, desiccant) protects performance; photostability per ICH Q1B."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "List the USP dissolution apparatus.",
+      "answer": "1 basket, 2 paddle, 3 reciprocating cylinder, 4 flow-through cell, 5 paddle over disc, 6 rotating cylinder, 7 reciprocating holder."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is meant by sink condition in dissolution testing?",
+      "answer": "Bulk concentration stays far below saturation so dissolution is not slowed; in practice medium volume at least about three times the volume needed to saturate the dose."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the two-compartment open model for an IV bolus. Explain how A, α, B and β are obtained by the method of residuals and derive the microconstants and volumes. Illustrate with data.",
+      "answer": "1. Model: central (1) and peripheral (2) compartments, k12, k21, elimination k10 from central; diagram.\n2. Equation: C = A e^(−αt) + B e^(−βt); α + β = k12 + k21 + k10; αβ = k21 k10.\n3. Biphasic semilog plot: distribution (α) phase then elimination (β) phase.\n4. Residuals: fit terminal line → β, B; subtract extrapolated from observed early values; ln(residual) vs t → α, A.\n5. k21 = (Aβ + Bα)/(A + B); k10 = αβ/k21; k12 = α + β − k21 − k10.\n6. V1 = Dose/(A + B); AUC = A/α + B/β; CL = Dose/AUC = k10 V1.\n7. Vss = V1(1 + k12/k21) = CL × MRT; Vβ = CL/β; V1 < Vss < Vβ.\n8. Example (Drug Y, 100 mg): A 8, α 2.0, B 2, β 0.2 → k21 0.56, k10 0.714, k12 0.926 h⁻¹; V1 10 L, AUC 14 mg·h/L, CL 7.14 L/h, Vss 26.5 L, Vβ 35.7 L, t½β 3.47 h.\n9. Clinical relevance: loading dose choice, sampling after distribution for TDM (digoxin)."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain non-compartmental analysis based on statistical moment theory. Describe how AUC, AUMC, MRT, MAT, clearance and Vss are calculated, with advantages and limitations.",
+      "answer": "1. Concept: concentration–time curve treated as a distribution of residence times; no compartment assumed.\n2. Zero moment AUC = ∫C dt; first moment AUMC = ∫tC dt; MRT = AUMC/AUC.\n3. Areas: linear trapezoidal (rising limb), log-trapezoidal (C1 − C2)Δt/ln(C1/C2) on falling limb; linear-up/log-down.\n4. Extrapolation: AUC tail = Clast/λz; AUMC tail = Clast tlast/λz + Clast/λz²; extrapolated part < 20% in BE.\n5. CL = Dose/AUC (IV), CL/F (oral); Vz = Dose/(λz AUC); Vss = CL × MRT (IV).\n6. MAT = MRToral − MRTiv = 1/Ka for first-order absorption; MDT in vivo = MRTsolid − MRTsolution; MRTinf correction −T/2.\n7. Example (Drug X oral): AUC0–∞ 93.67, AUMC0–∞ 613.4 → MRT 6.55 h; MAT 0.78 h (Ka ≈ 1.28 h⁻¹); CL/F 5.34 L/h; F 0.81.\n8. Advantages: model-free, simple, standard for BA/BE.\n9. Limitations: needs good terminal sampling, assumes linearity, less detail about distribution, higher moments unreliable.\n10. Compare with compartmental modelling and population PK."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the one-compartment open model for extravascular administration. Explain the Wagner–Nelson method of estimating the absorption rate constant and the fraction absorbed, with a worked example.",
+      "answer": "1. Model and assumptions; C = [F X0 Ka/(V(Ka − K))](e^(−Kt) − e^(−Ka t)).\n2. tmax = ln(Ka/K)/(Ka − K); Cmax = (F X0/V)e^(−K tmax); AUC = F X0/CL.\n3. Drug X: 500 mg, F 0.8, Ka 1.2, K 0.1733 → tmax 1.88 h, Cmax 11.54 mg/L, AUC 92.3 mg·h/L.\n4. Method of residuals for Ka; flip-flop when Ka < K; lag time.\n5. Wagner–Nelson: amount absorbed = amount in body + amount eliminated → FA = (C + K·AUC0–t)/(K·AUC0–∞).\n6. Worked: AUC0–∞ 93.67, K·AUC0–∞ 16.23; at 1 h FA = (10.09 + 1.03)/16.23 = 0.685; at 2 h 0.892.\n7. ln(1 − FA) vs t: slope −1.10 h⁻¹ → Ka ≈ 1.1 (true 1.2; trapezoidal bias).\n8. Advantages: no assumption of absorption order; gives absorption profile for IVIVC.\n9. Limits: only one-compartment drugs; needs accurate K and terminal sampling; Loo–Riegelman for two-compartment."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare compartmental, physiological and non-compartmental approaches to pharmacokinetic analysis.",
+      "answer": "1. Compartmental: well-mixed hypothetical compartments with rate constants; predicts regimens; compartments not anatomical.\n2. Physiological (PBPK): real organs, blood flows, partition coefficients; mechanistic, scales to special populations and DDIs; many parameters.\n3. Non-compartmental: statistical moments; few assumptions; standard for BA/BE; less mechanistic.\n4. Population PK: mixed-effects models of sparse data; covariates and variability.\n5. Choice depends on data richness and purpose."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "A drug (Vd 25 L, KE 0.1733 h⁻¹) is infused at 20 mg/h. Calculate Css, the concentration at 8 h, time to 90% of Css and the loading dose.",
+      "answer": "1. CL = 0.1733 × 25 = 4.33 L/h.\n2. Css = R0/CL = 20/4.33 = 4.62 mg/L.\n3. C8 = 4.62 × (1 − e^(−0.1733 × 8)) = 4.62 × 0.75 = 3.46 mg/L.\n4. t90 = 3.32 × t½ = 3.32 × 4 = 13.3 h.\n5. Loading dose = Css × Vd = 4.62 × 25 = 115 mg."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is flip-flop kinetics? How is it recognised?",
+      "answer": "1. Occurs when absorption (Ka) is slower than elimination (K), usually with slow-release products.\n2. The terminal slope then reflects Ka, not K.\n3. Example: release Ka 0.05 h⁻¹ with true t½ 4 h gives apparent terminal t½ 13.9 h.\n4. Recognised by comparing with IV or immediate-release data (true K), or a longer terminal t½ than the IV value.\n5. Misinterpretation leads to wrong dosing-interval calculations."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the different volumes of distribution in the two-compartment model and their significance.",
+      "answer": "1. V1 (central) = Dose/(A + B): initial dilution volume; used to predict early peak levels.\n2. Vss = V1(1 + k12/k21) = CL × MRT: relates amount in body to C at steady state; independent of elimination.\n3. Vβ (Varea) = CL/β: relates amount to C in the terminal phase; depends on elimination.\n4. Order V1 < Vss < Vβ (example 10, 26.5, 35.7 L).\n5. Loading doses on V1 risk underdosing tissue; on Vβ overshoot early levels; Vss often preferred."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the urinary excretion methods for estimating elimination rate constant.",
+      "answer": "1. Conditions: drug excreted partly unchanged, first-order kinetics, complete bladder emptying.\n2. Rate method: ln(ΔXu/Δt) vs t_mid has slope −K; intercept ln(ke X0); fewer samples, more scatter.\n3. Sigma-minus: ln(Xu∞ − Xu) vs t, slope −K; needs collection for about 7 t½.\n4. Renal clearance = (ΔXu/Δt)/C at midpoint = fe × CL.\n5. Useful when blood sampling is difficult; Xu∞ also measures bioavailability."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define mean residence time and mean absorption time.",
+      "answer": "MRT = AUMC/AUC, the average time drug molecules stay in the body. MAT = MRToral − MRTiv; for first-order absorption MAT = 1/Ka."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the expression for k21 and k10 in the two-compartment model.",
+      "answer": "k21 = (Aβ + Bα)/(A + B); k10 = αβ/k21 (and k12 = α + β − k21 − k10)."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is nonlinear pharmacokinetics? Discuss its causes at each ADME step and explain how it is detected.",
+      "answer": "1. Definition: dose-dependent kinetics where a capacity-limited process saturates; CL, Vd or t½ change with dose.\n2. Absorption: saturable carriers (riboflavin, PEPT1 substrates) → AUC rises less than proportionally; solubility-limited absorption; saturable first pass or efflux → AUC more than proportional.\n3. Distribution: saturable plasma protein binding (valproate, disopyramide) → total levels less than proportional; saturable tissue binding.\n4. Metabolism: Michaelis–Menten enzymes (phenytoin, ethanol, high-dose salicylate) → AUC more than proportional; cofactor depletion (paracetamol overdose); autoinduction (carbamazepine); product inhibition.\n5. Excretion: saturable tubular secretion (renal CL falls) or reabsorption (ascorbic acid, renal CL rises); urine pH changes.\n6. Target-mediated drug disposition for biologics.\n7. Detection: dose-normalised AUC not constant across ≥ 3 doses; AUC–dose plot non-linear; t½ changes with dose; steady-state AUCτ ≠ single-dose AUC0–∞; metabolite pattern changes.\n8. Consequences: superposition fails, small dose changes cause big level changes, TDM needed.\n9. Diagram of AUC vs dose curves (above, on, below proportional line)."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Derive the Michaelis–Menten equation for capacity-limited elimination. Describe methods to estimate Km and Vmax and solve: steady-state levels of 6 mg/L and 16 mg/L at 300 and 400 mg/day respectively; find Km, Vmax and the dosing rate for 10 mg/L.",
+      "answer": "1. Rate = Vmax C/(Km + C); Km = C at half Vmax.\n2. C ≪ Km: first order (K = Vmax/Km); C ≫ Km: zero order (rate = Vmax).\n3. Integrated: t = (C0 − C)/Vmax + (Km/Vmax) ln(C0/C); t½ increases with C0.\n4. Steady state: R = Vmax Css/(Km + Css) → Css = Km R/(Vmax − R); CL = Vmax/(Km + C).\n5. Methods: two-point calculation; R vs R/Css (slope −Km, intercept Vmax); Lineweaver–Burk 1/R vs 1/Css; direct linear plot; nonlinear regression of IV data; in vitro microsomal v vs S.\n6. Km = (R2 − R1)/(R1/C1 − R2/C2) = 100/(50 − 25) = 4 mg/L.\n7. Vmax = R1 + Km R1/C1 = 300 + 200 = 500 mg/day.\n8. R for 10 mg/L = 500 × 10/(4 + 10) = 357 mg/day.\n9. Note: 33% dose rise gave 167% Css rise; t90 = [Km Vd/(Vmax − R)²](2.3Vmax − 0.9R) = 8.1 days at 357 mg/day (Vd 50 L).\n10. Clinical: small increments, monitoring."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss cytochrome P450-based and transporter-mediated drug interactions with mechanisms, prediction and examples.",
+      "answer": "1. CYP enzymes: CYP3A4/5 (about half of metabolised drugs), 2D6, 2C9, 2C19, 1A2; polymorphism.\n2. Reversible inhibition (competitive, non-competitive): rapid onset/offset, depends on [I]/Ki.\n3. Mechanism-based (time-dependent) inhibition: reactive intermediate inactivates enzyme; recovery needs new enzyme (macrolides, grapefruit furanocoumarins on gut CYP3A4).\n4. Prediction: AUCR = 1/[fm/(1 + [I]/Ki) + (1 − fm)]; example Ki 0.5 µM, [I] 1.5 µM: fm 0.9 → 3.08; maximum 1/(1 − fm). Strong ≥ 5, moderate 2–5, weak 1.25–2.\n5. Induction via PXR/CAR/AhR (rifampicin, carbamazepine, St John's wort): onset 1–2 weeks; therapeutic failure or toxicity on stopping.\n6. Transporters: ABC efflux (P-gp, BCRP, MRP2, BSEP) and SLC uptake (OATP1B1/1B3, OAT1/3, OCT2, MATE1/2-K, PEPT1).\n7. Examples: P-gp inhibitors raise digoxin; OATP1B1 inhibition (cyclosporine, single-dose rifampicin) raises statins; probenecid inhibits OAT → penicillin, methotrexate; OCT2/MATE inhibitors raise metformin and serum creatinine; fruit juices inhibit intestinal OATP2B1.\n8. Interplay of CYP3A4 and P-gp in gut wall; extended clearance concept.\n9. Evaluation per ICH M12: in vitro, static/PBPK models, clinical DDI studies with index substrates.\n10. Management: avoid, alternative, dose adjustment, monitoring."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the clinical significance of protein-binding displacement interactions using the well-stirred liver model.",
+      "answer": "1. CLH = Q fu CLint/(Q + fu CLint).\n2. Low-extraction drug: CLH ≈ fu CLint; displacement raises CL, total C falls, unbound C returns to baseline (transient effect).\n3. High-extraction IV drug: CLH ≈ Q; unbound AUC rises in proportion to fu (example: fu 0.1 → 0.2, unbound AUC 0.122 → 0.233).\n4. Oral high-extraction: AUCu = Dose/CLint, unchanged.\n5. Important for highly bound, small Vd, narrow-index drugs; total levels mislead, measure unbound."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain tissue-binding interactions with the equation for apparent volume of distribution.",
+      "answer": "1. Vd = Vp + VT × fu/fuT.\n2. Displacement from tissue sites raises fuT → Vd falls.\n3. Same loading dose then gives higher plasma levels; t½ (0.693 Vd/CL) shortens.\n4. Example: Vp 3 L, VT 38 L, fu 0.5: fuT 0.01 → Vd 1,903 L; fuT 0.02 → 953 L.\n5. Quinidine–digoxin: lower tissue binding plus reduced renal/biliary (P-gp) clearance raises digoxin levels."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate the steady-state concentrations of a drug with Vmax 500 mg/day and Km 4 mg/L at dosing rates of 300, 350, 400 and 450 mg/day, and comment.",
+      "answer": "1. Css = Km R/(Vmax − R).\n2. 300 → 4 × 300/200 = 6.0 mg/L.\n3. 350 → 9.3 mg/L; 400 → 16.0 mg/L.\n4. 450 → 36.0 mg/L.\n5. Disproportionate rise as R approaches Vmax; no steady state if R ≥ Vmax; increase doses in small steps with monitoring."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on enzyme induction as a cause of drug interactions.",
+      "answer": "1. Inducer activates nuclear receptors (PXR, CAR, AhR) → more CYP (and P-gp) synthesis.\n2. Examples: rifampicin, carbamazepine, phenytoin, St John's wort.\n3. Slow onset and offset (about 1–2 weeks) because new protein is needed.\n4. Effect: CLint ↑, AUC ↓ (fm 0.9, 3-fold CLint → AUCR 0.36); oral first pass ↑.\n5. Risks: therapeutic failure, toxicity when inducer stopped, more reactive metabolites; autoinduction (carbamazepine)."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Name the transporters recommended for evaluation in drug interaction studies and give their location and role.",
+      "answer": "1. P-gp (intestine, liver, kidney, BBB): efflux.\n2. BCRP (intestine, liver): efflux.\n3. OATP1B1, OATP1B3 (hepatocyte sinusoidal membrane): hepatic uptake.\n4. OAT1, OAT3, OCT2 (renal proximal tubule basolateral): uptake from blood.\n5. MATE1, MATE2-K (renal apical, MATE1 also biliary): efflux into urine/bile (ICH M12 list)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the Michaelis–Menten equation for drug elimination.",
+      "answer": "Rate of elimination = Vmax × C/(Km + C); Vmax = maximum rate, Km = concentration giving half Vmax."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why does the half-life of a drug with capacity-limited elimination increase with dose?",
+      "answer": "Clearance = Vmax/(Km + C) falls as concentration rises, so the time to halve the level lengthens; at high C elimination is near zero order."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the design and conduct of a bioequivalence study for an immediate-release oral product. Explain the statistical evaluation of the data.",
+      "answer": "1. Definitions: BA, BE, pharmaceutical and therapeutic equivalents; test and reference.\n2. Design: randomised, two-period, two-sequence, two-treatment crossover (TR/RT); single dose of highest strength; fasting (and fed if required).\n3. Subjects: healthy adult volunteers, screening, informed consent, ethics approval; number from sample-size calculation (≥ 12 under most guidelines) plus dropouts.\n4. Washout ≥ 5 half-lives; pre-dose level < 5% of Cmax.\n5. Sampling: 12–18 samples, dense around tmax, ≥ 3 terminal half-lives, AUC0–t ≥ 80% of AUC0–∞; standardised meals, water, posture.\n6. Validated bioanalysis (ICH M10); parent drug normally.\n7. Parameters: AUC0–t, AUC0–∞, Cmax (tmax non-parametric).\n8. Log-transform; ANOVA with sequence, subject(sequence), period, treatment; MSE gives intra-subject CV = √(e^MSE − 1).\n9. 90% CI of GMR within 80.00–125.00% = TOST at α 0.05 each; NTI 90.00–111.11%; HVD replicate design with scaled limits.\n10. Example: GMR 95.36%, 90% CI 88.81–102.40% → BE."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the Biopharmaceutics Classification System. Give the criteria for solubility, permeability and dissolution, and discuss BCS-based biowaivers and formulation strategies for each class.",
+      "answer": "1. Amidon et al. 1995; harmonised in ICH M9 (2019).\n2. Class I high S/high P; II low S/high P; III high S/low P; IV low S/low P; limiting factors: emptying, dissolution, permeability, both.\n3. High solubility: highest single therapeutic dose dissolves in ≤ 250 mL over pH 1.2–6.8 at 37 ± 1 °C.\n4. High permeability: fa ≥ 85% (mass balance, absolute BA; validated Caco-2 supportive).\n5. Dissolution: very rapid ≥ 85% in 15 min; rapid ≥ 85% in 30 min; pH 1.2, 4.5, 6.8; paddle 50 rpm or basket 100 rpm.\n6. Biowaiver: Class I (rapid or very rapid; f2 if only rapid); Class III (very rapid, excipients qualitatively same and quantitatively very similar).\n7. Exclusions: NTI drugs, buccal/sublingual products, excipients affecting absorption.\n8. Dimensionless numbers: dose number D0 = (M0/250)/Cs, dissolution number, absorption number.\n9. Strategies: II solubility/dissolution enhancement; III permeation enhancers/prodrugs; IV major reformulation or parenteral.\n10. BDDCS (Wu and Benet) uses extent of metabolism."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What are biosimilars (generic biologics)? Explain why their approval differs from small-molecule generics and describe the stepwise comparability exercise.",
+      "answer": "1. Definition: biological product highly similar to an approved reference biologic with no clinically meaningful differences.\n2. Large complex molecules made in living cells; glycosylation, folding, charge variants, aggregates depend on process.\n3. Identity cannot be shown; immunogenicity unpredictable; PK often nonlinear.\n4. Step 1: extensive analytical characterisation (structure, function, impurities) — foundation.\n5. Step 2: non-clinical in vitro bioassays and binding; animal studies only if needed.\n6. Step 3: comparative PK (90% CI, often 80–125%) and PD studies.\n7. Step 4: confirmatory comparative efficacy/safety trial with equivalence margins when needed.\n8. Step 5: immunogenicity (ADA, neutralising) and post-marketing pharmacovigilance.\n9. Extrapolation of indications with justification; interchangeability needs extra evidence.\n10. India: Guidelines on Similar Biologics (CDSCO and DBT, 2012, revised 2016); RCGM for preclinical."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate absolute and relative bioavailability. Calculate F if 500 mg orally gives AUC 93.67 mg·h/L and 250 mg IV gives 57.70 mg·h/L.",
+      "answer": "1. Absolute: extravascular vs IV (F of IV = 1).\n2. Relative: two extravascular products (test vs reference).\n3. F = (AUCoral × DoseIV)/(AUCIV × Doseoral).\n4. F = (93.67 × 250)/(57.70 × 500) = 0.81.\n5. Dose correction assumes linear kinetics; use equal doses if nonlinear."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods for assessing bioavailability.",
+      "answer": "1. Plasma level–time studies: AUC, Cmax, tmax (preferred).\n2. Urinary excretion: Xu∞, maximum excretion rate and its time; complete collection.\n3. Acute pharmacological effect: effect–time curve when drug cannot be assayed.\n4. Comparative clinical endpoint trials: locally acting products; least sensitive.\n5. In vitro dissolution: only under biowaiver conditions."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the special concerns in bioavailability and bioequivalence studies.",
+      "answer": "1. Highly variable drugs (CV ≥ 30%): replicate design, reference-scaled limits.\n2. Narrow therapeutic index drugs: tighter limits 90–111%.\n3. Long half-life: parallel design, AUC0–72h; endogenous compounds: baseline correction.\n4. Modified release: fasted and fed, dose dumping, multiple dose; nonlinear PK; metabolites and enantiomers.\n5. Locally acting products, drugs unsafe in volunteers (patients), fixed-dose combinations."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the study submission and drug review process for a BE study in India.",
+      "answer": "1. Regulator: CDSCO (DCG(I)) under the Drugs and Cosmetics Act 1940 and New Drugs and Clinical Trials Rules 2019.\n2. Protocol approval by a registered ethics committee and regulatory permission; registration in CTRI before enrolment; BA/BE centre registered.\n3. Conduct per GCP (Indian GCP, ICH E6), bioanalysis per GLP/ICH M10; CDSCO BA/BE guideline 2005.\n4. Clinical study report and comparative dissolution submitted in CTD format (Modules 2, 3, 5).\n5. Review, queries and possible inspection of clinical and bioanalytical sites before approval."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss generic substitution and its clinical significance.",
+      "answer": "1. Dispensing a therapeutically equivalent generic in place of the prescribed brand.\n2. Requires pharmaceutical equivalence, BE and GMP.\n3. Benefits: cost, access, health-system savings.\n4. Concerns: NTI drugs, switching between generics, appearance/excipient differences, trust; biosimilars not automatically substitutable.\n5. India: branded generics; policy promotes generic-name prescribing and schemes such as Pradhan Mantri Bhartiya Janaushadhi Pariyojana."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the bioequivalence acceptance range for AUC and Cmax.",
+      "answer": "The 90% confidence interval of the test/reference geometric mean ratio of log-transformed AUC and Cmax must lie within 80.00–125.00%."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define a BCS high-solubility drug as per ICH M9.",
+      "answer": "The highest single therapeutic dose dissolves completely in 250 mL or less of aqueous media over pH 1.2–6.8 at 37 ± 1 °C."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss pharmacokinetic–pharmacodynamic modelling. Explain the Emax and sigmoid Emax models, hysteresis, the effect-compartment model and indirect response models.",
+      "answer": "1. PK gives C(t); PD gives E(C); link model connects them.\n2. Linear and log-linear models for limited ranges.\n3. Emax: E = E0 + Emax C/(EC50 + C); Emax = efficacy, EC50 = potency.\n4. Sigmoid Emax (Hill): Cⁿ/(EC50ⁿ + Cⁿ); n sets steepness; example EC50 2 mg/L: at 6 mg/L 75% (n = 1), 90% (n = 2).\n5. Hysteresis: anticlockwise (effect lags: distribution, active metabolite, indirect action); clockwise (tolerance).\n6. Sheiner effect compartment: dCe/dt = ke0(Cp − Ce); ke0 collapses the loop; t½ke0 = 0.693/ke0.\n7. PK/PD equation: Ce(t) inserted into Emax model.\n8. Indirect response: dR/dt = kin − kout R with drug stimulating or inhibiting kin or kout (4 types); delay governed by kout.\n9. Applications: dose selection, regimen design (time vs concentration-dependent antibiotics), exposure–response.\n10. Interactions: PK vs PD, isobologram for synergy."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the pharmacokinetics and pharmacodynamics of monoclonal antibodies and therapeutic proteins.",
+      "answer": "1. Proteins: poor oral availability; SC/IM absorption via lymph for molecules above about 16–20 kDa; slow, incomplete.\n2. Distribution limited; Vd near plasma plus part of interstitial fluid; convection and transcytosis.\n3. Elimination: proteolysis, renal filtration below about 60 kDa, receptor-mediated endocytosis, hepatic uptake.\n4. Half-life extension: PEGylation, Fc or albumin fusion, lipidation, glyco-engineering, depots.\n5. mAbs (IgG about 150 kDa): IV or SC (tmax days, F often 50–80%), small Vd.\n6. FcRn recycling in acidic endosomes protects IgG → half-life about 2–3 weeks; Fc engineering prolongs it.\n7. Target-mediated drug disposition → nonlinear PK, faster clearance at low levels.\n8. Anti-drug antibodies, body weight, disease and albumin alter clearance.\n9. PD: target engagement, biomarkers, effects outlasting exposure; ADC analytes.\n10. Bioanalysis by ligand-binding assays or LC–MS/MS signature peptides; few CYP interactions but cytokine effects on CYPs."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the pharmacokinetic principles in the design and evaluation of modified-release and targeted drug delivery systems, with calculations.",
+      "answer": "1. MR types: extended, delayed, pulsatile, site-specific; rationale (adherence, less fluctuation).\n2. Candidate drug: t½ about 2–8 h, uniform absorption, moderate dose and index, no saturable first pass.\n3. Zero-order release rate k0r = Css × CL/F; loading DL = Css Vd/F; Di = DL − k0r tmax.\n4. Drug X (Css 4 mg/L, CL 4.33 L/h, F 0.8, Vd 25 L, 12 h): k0r 21.7 mg/h, maintenance 260 mg, loading 84 mg.\n5. Evaluation: %PTF, swing, flip-flop, MR BE fasted/fed, dose dumping (alcohol), Level A IVIVC.\n6. Targeting strategies: passive (EPR, MPS), active (ligands), triggered, prodrugs.\n7. Carrier PK: follow encapsulated and free drug; MPS clearance; PEGylation extends circulation; accelerated blood clearance; nonlinearity.\n8. Targeting index DTI = (T/NT carrier)/(T/NT free); example (120/20)/(30/40) = 8.\n9. Targeting efficiency and therapeutic availability; Hunt's analysis.\n10. Conclude with clinical benefits and limitations."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the pharmacokinetics of oligonucleotide drugs.",
+      "answer": "1. ASOs, siRNA; chemical modifications (phosphorothioate, 2′-O-methyl, 2′-MOE, LNA) resist nucleases and increase protein binding.\n2. SC, IV or intrathecal; SC tmax of hours.\n3. Short plasma half-life (hours) from rapid distribution to liver and kidney; long tissue half-life (weeks).\n4. GalNAc conjugates target hepatocytes via asialoglycoprotein receptor; LNP formulations use ApoE–LDLR uptake.\n5. Nuclease metabolism, renal excretion of fragments, no CYP metabolism; PD lasts weeks to months."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on the kinetics of vaccines and gene therapies.",
+      "answer": "1. Vaccines: antigen cleared in days; immune response (titre) rises over 1–3 weeks, peaks, declines; boosters give memory response.\n2. Adjuvants prolong antigen presence and stimulate innate immunity; mRNA–LNP translated for days.\n3. Gene therapy PK = biodistribution (qPCR), vector shedding, transgene expression onset and duration.\n4. AAV gives long expression in non-dividing cells; lentivirus integrates; CAR-T cells expand, contract and persist.\n5. Immunogenicity to capsid/transgene and vector-dose toxicity limit re-dosing."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate the release rate and loading dose for a 12-hour extended-release product of a drug with CL 4.33 L/h, Vd 25 L, F 0.8 to maintain 4 mg/L (tmax of IR portion 1.88 h).",
+      "answer": "1. Absorption rate needed = Css × CL = 4 × 4.33 = 17.3 mg/h.\n2. k0r = 17.3/0.8 = 21.7 mg/h.\n3. Maintenance = 21.7 × 12 = 260 mg.\n4. Loading DL = Css Vd/F = 4 × 25/0.8 = 125 mg; corrected Di = 125 − 21.7 × 1.88 = 84 mg.\n5. Total ≈ 344 mg (example numbers)."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is hysteresis in PK/PD relationships? Explain clockwise and anticlockwise loops.",
+      "answer": "1. Effect vs plasma concentration plotted in time order forms a loop instead of a single curve.\n2. Anticlockwise: effect lags concentration (distribution to effect site, active metabolite, indirect mechanism).\n3. Clockwise (proteresis): effect falls while C high (tolerance, antagonist metabolite).\n4. Effect-compartment model with ke0 collapses anticlockwise loops.\n5. Shows that plasma levels alone may not predict effect timing."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain target-mediated drug disposition.",
+      "answer": "1. Drug binds its pharmacological target with high affinity and the complex is internalised and degraded.\n2. Target acts as a saturable elimination route.\n3. At low doses clearance high, half-life short; at high doses target saturated, clearance falls to linear value.\n4. Gives nonlinear, dose-dependent PK, common with mAbs against membrane targets.\n5. Loading doses saturate the target; model-based dosing used."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the role of FcRn in antibody pharmacokinetics?",
+      "answer": "FcRn binds IgG in acidic endosomes and recycles it to the cell surface, protecting it from lysosomal degradation and giving IgG a long half-life (about 2–3 weeks)."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define drug targeting index.",
+      "answer": "DTI = (AUCtarget/AUCnon-target with carrier) ÷ (AUCtarget/AUCnon-target with free drug); values above 1 show improved targeting."
+    }
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "According to the pH-partition hypothesis, which form of a weak acid is absorbed by passive diffusion?",
+      "options": [
+        "The un-ionised, lipid-soluble form",
+        "The ionised form",
+        "Both forms equally",
+        "The form bound to mucus"
+      ],
+      "correct": 0,
+      "explanation": "Only the neutral species partitions well into the lipid membrane.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "A weak acid of pKa 4.4 at pH 6.8 is about what percent un-ionised?",
+      "options": [
+        "50%",
+        "0.4%",
+        "99.6%",
+        "4%"
+      ],
+      "correct": 1,
+      "explanation": "100/(1 + 10^(6.8 − 4.4)) = 100/252 ≈ 0.4%.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "In the Noyes–Whitney equation, the term h represents:",
+      "options": [
+        "Height of the dissolution vessel",
+        "Hydration number of the drug",
+        "Thickness of the stagnant diffusion layer",
+        "Half-life of dissolution"
+      ],
+      "correct": 2,
+      "explanation": "dM/dt = DA(Cs − C)/h; h is the diffusion-layer thickness.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which dissolution model states that turbulent eddies continuously renew the solid–liquid interface?",
+      "options": [
+        "Nernst–Brunner film model",
+        "Interfacial barrier model",
+        "Higuchi model",
+        "Danckwerts surface-renewal model"
+      ],
+      "correct": 3,
+      "explanation": "Danckwerts proposed surface renewal; rate = A(Cs − C)√(γD).",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The acidic microclimate pH at the intestinal surface is mainly produced by:",
+      "options": [
+        "The apical Na⁺/H⁺ exchanger",
+        "Gastric acid reflux",
+        "Bile salts",
+        "Bacterial fermentation"
+      ],
+      "correct": 0,
+      "explanation": "Proton secretion held by mucus gives pH about 5.5–6.5 near the membrane.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In Caco-2 bidirectional studies, an efflux ratio of 2 or more suggests:",
+      "options": [
+        "High paracellular permeability",
+        "Active efflux, for example by P-gp",
+        "Poor monolayer integrity",
+        "Saturable uptake by PEPT1"
+      ],
+      "correct": 1,
+      "explanation": "Papp(B→A)/Papp(A→B) ≥ 2 indicates efflux; confirm with an inhibitor.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Tight junctions are most permeable to:",
+      "options": [
+        "Large lipophilic anions",
+        "Proteins above 10 kDa",
+        "Small hydrophilic cations",
+        "Neutral lipophilic drugs"
+      ],
+      "correct": 2,
+      "explanation": "Negatively charged, narrow pores favour small cations.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Which method measures human jejunal effective permeability directly?",
+      "options": [
+        "PAMPA",
+        "Everted gut sac",
+        "Shake-flask method",
+        "Loc-I-Gut regional perfusion"
+      ],
+      "correct": 3,
+      "explanation": "A double-balloon tube isolates a jejunal segment in volunteers.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "In the transport model, the permeability of an ionisable drug across the membrane is approximately:",
+      "options": [
+        "P0 × fraction neutral",
+        "P0 × fraction ionised",
+        "PABL only",
+        "Independent of pH"
+      ],
+      "correct": 0,
+      "explanation": "Only the neutral species crosses well, so Pm = P0 × fneutral.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The general order of rate of drug availability from oral dosage forms is:",
+      "options": [
+        "Tablet > capsule > suspension > solution",
+        "Solution > suspension > capsule > tablet",
+        "Capsule > solution > tablet > suspension",
+        "Suspension > solution > tablet > capsule"
+      ],
+      "correct": 1,
+      "explanation": "Each extra step (dissolution, disintegration) slows availability.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "USP Apparatus 4 is the:",
+      "options": [
+        "Paddle",
+        "Reciprocating cylinder",
+        "Flow-through cell",
+        "Basket"
+      ],
+      "correct": 2,
+      "explanation": "Apparatus 4 pumps fresh medium through a cell; useful for poorly soluble drugs.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Two dissolution profiles are considered similar when f2 is:",
+      "options": [
+        "Between 0 and 15",
+        "Below 50",
+        "Exactly 100 only",
+        "Between 50 and 100"
+      ],
+      "correct": 3,
+      "explanation": "f2 50–100 = similar; 100 means identical.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "A Level A IVIVC is a:",
+      "options": [
+        "Point-to-point relationship between in vitro dissolution and in vivo absorption",
+        "Correlation of MDT with MRT",
+        "Single-point correlation of t50 with AUC",
+        "Rank-order relationship"
+      ],
+      "correct": 0,
+      "explanation": "Level A is the highest level and predicts the full plasma profile.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "At stage S2 of the USP immediate-release dissolution test, the requirement is:",
+      "options": [
+        "Each of 6 units ≥ Q + 5%",
+        "Average of 12 units ≥ Q and no unit below Q − 15%",
+        "Average of 24 units ≥ Q",
+        "No unit below Q − 25%"
+      ],
+      "correct": 1,
+      "explanation": "S1: each ≥ Q + 5%; S2: mean of 12 ≥ Q, none < Q − 15%.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "For internal validation of a Level A IVIVC, the average absolute prediction error should not exceed:",
+      "options": [
+        "5%",
+        "20%",
+        "10%",
+        "25%"
+      ],
+      "correct": 2,
+      "explanation": "Mean %PE ≤ 10% and each formulation ≤ 15%.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "A Korsmeyer–Peppas exponent n = 1 for a thin slab indicates:",
+      "options": [
+        "Fickian diffusion",
+        "Burst release",
+        "First-order release",
+        "Case II (zero-order) transport"
+      ],
+      "correct": 3,
+      "explanation": "n 0.5 Fickian, 0.5–1 anomalous, 1 Case II for slabs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which tablet lubricant is best known for slowing dissolution when over-mixed?",
+      "options": [
+        "Magnesium stearate",
+        "Sodium lauryl sulphate",
+        "Lactose",
+        "Croscarmellose sodium"
+      ],
+      "correct": 0,
+      "explanation": "Hydrophobic magnesium stearate coats particles and reduces wetting.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Intrinsic dissolution rate is measured using:",
+      "options": [
+        "The rotating bottle",
+        "A rotating disc of constant surface area",
+        "The paddle over disc",
+        "A dialysis bag"
+      ],
+      "correct": 1,
+      "explanation": "Wood's apparatus keeps area constant, giving mg/min/cm².",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "India falls under which ICH/WHO climatic zone for long-term stability testing?",
+      "options": [
+        "Zone I (21 °C/45% RH)",
+        "Zone II (25 °C/60% RH)",
+        "Zone IVb (30 °C/75% RH)",
+        "Zone III (30 °C/35% RH)"
+      ],
+      "correct": 2,
+      "explanation": "Hot, very humid zone; long-term 30 °C/75% RH.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "An IVIVC is most likely for which type of drug?",
+      "options": [
+        "A drug whose absorption is permeability-limited",
+        "A drug with saturable absorption",
+        "An IV solution",
+        "A drug whose absorption is dissolution rate-limited (BCS II)"
+      ],
+      "correct": 3,
+      "explanation": "When dissolution controls absorption, in vitro dissolution predicts in vivo behaviour.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "In the two-compartment model, k21 is calculated as:",
+      "options": [
+        "(Aβ + Bα)/(A + B)",
+        "αβ/k10",
+        "α + β − k10",
+        "(Aα + Bβ)/(A + B)"
+      ],
+      "correct": 0,
+      "explanation": "Standard relation from the biexponential coefficients.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Mean residence time is calculated as:",
+      "options": [
+        "AUC/AUMC",
+        "AUMC/AUC",
+        "AUC × KE",
+        "Dose/AUC"
+      ],
+      "correct": 1,
+      "explanation": "MRT is the first moment divided by the zero moment.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "For a drug with first-order absorption, mean absorption time equals:",
+      "options": [
+        "0.693/Ka",
+        "Ka/KE",
+        "1/Ka",
+        "1/KE"
+      ],
+      "correct": 2,
+      "explanation": "MAT = MRToral − MRTiv = 1/Ka.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The Wagner–Nelson method is applicable to drugs that follow:",
+      "options": [
+        "Two-compartment kinetics only",
+        "Michaelis–Menten kinetics only",
+        "Zero-order elimination",
+        "One-compartment kinetics"
+      ],
+      "correct": 3,
+      "explanation": "Loo–Riegelman is needed for two-compartment drugs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "For a two-compartment drug the correct order of volumes is:",
+      "options": [
+        "V1 < Vss < Vβ",
+        "Vβ < Vss < V1",
+        "Vss < V1 < Vβ",
+        "V1 = Vss = Vβ"
+      ],
+      "correct": 0,
+      "explanation": "Example 10 L < 26.5 L < 35.7 L.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Flip-flop kinetics occurs when:",
+      "options": [
+        "Ka is much larger than KE",
+        "The absorption rate constant is smaller than the elimination rate constant",
+        "The drug is given IV",
+        "Elimination is zero order"
+      ],
+      "correct": 1,
+      "explanation": "The terminal slope then reflects absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The time to reach 90% of steady state during IV infusion is about:",
+      "options": [
+        "1 half-life",
+        "5 half-lives",
+        "3.3 half-lives",
+        "10 half-lives"
+      ],
+      "correct": 2,
+      "explanation": "ln 10/KE = 3.32 t½.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Drug X (KE 0.1733 h⁻¹, Vd 25 L) has a clearance of about:",
+      "options": [
+        "25 L/h",
+        "0.17 L/h",
+        "1.73 L/h",
+        "4.33 L/h"
+      ],
+      "correct": 3,
+      "explanation": "CL = KE × Vd = 0.1733 × 25.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The log-trapezoidal rule is preferred for:",
+      "options": [
+        "The declining part of the concentration–time curve",
+        "The rising absorption phase",
+        "Zero-order infusions",
+        "Urine data only"
+      ],
+      "correct": 0,
+      "explanation": "It assumes exponential decline between points.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Volume at steady state from non-compartmental analysis (IV bolus) equals:",
+      "options": [
+        "Dose/C0",
+        "CL × MRT",
+        "CL/λz",
+        "AUC × MRT"
+      ],
+      "correct": 1,
+      "explanation": "Vss = CL × MRT = Dose × AUMC/AUC².",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "When drug concentration is much greater than Km, Michaelis–Menten elimination becomes:",
+      "options": [
+        "First order",
+        "Second order",
+        "Zero order",
+        "Independent of Vmax"
+      ],
+      "correct": 2,
+      "explanation": "Rate approaches Vmax, a constant amount per time.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "At steady state with capacity-limited elimination, Css equals:",
+      "options": [
+        "R/(Km × Vmax)",
+        "Vmax × R/(Km + R)",
+        "Km × Vmax/R",
+        "Km × R/(Vmax − R)"
+      ],
+      "correct": 3,
+      "explanation": "From R = Vmax Css/(Km + Css).",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Saturation of hepatic first-pass metabolism with increasing oral dose makes AUC:",
+      "options": [
+        "Increase more than proportionally",
+        "Increase less than proportionally",
+        "Stay constant",
+        "Fall"
+      ],
+      "correct": 0,
+      "explanation": "More of the dose escapes first pass at higher doses.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "In a plot of dosing rate R against R/Css, the slope gives:",
+      "options": [
+        "Vmax",
+        "−Km",
+        "1/Vmax",
+        "Km/Vmax"
+      ],
+      "correct": 1,
+      "explanation": "R = Vmax − Km(R/Css); intercept Vmax.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Displacement of a low-extraction, restrictively cleared drug from plasma proteins at steady state causes:",
+      "options": [
+        "A lasting doubling of unbound concentration",
+        "A rise in total concentration",
+        "No lasting change in unbound concentration",
+        "A fall in clearance"
+      ],
+      "correct": 2,
+      "explanation": "Clearance rises with fu so unbound level returns to baseline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Mechanism-based CYP inhibition differs from competitive inhibition because it:",
+      "options": [
+        "Is always weaker",
+        "Has an immediate offset",
+        "Affects only renal clearance",
+        "Inactivates the enzyme, so recovery needs new enzyme synthesis"
+      ],
+      "correct": 3,
+      "explanation": "A reactive intermediate destroys the enzyme; effect builds over time.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "With fm = 0.9 and 1 + [I]/Ki = 4, the predicted AUC ratio is about:",
+      "options": [
+        "3.1",
+        "4.0",
+        "1.6",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "1/(0.9/4 + 0.1) = 3.08.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Which transporter mediates hepatic uptake of statins and is involved in their interactions?",
+      "options": [
+        "OCT2",
+        "OATP1B1",
+        "MATE2-K",
+        "PEPT1"
+      ],
+      "correct": 1,
+      "explanation": "OATP1B1 inhibition raises statin plasma levels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Probenecid prolongs the action of penicillins by inhibiting:",
+      "options": [
+        "Intestinal P-gp",
+        "Hepatic CYP3A4",
+        "Renal OAT1/OAT3",
+        "Renal OCT2"
+      ],
+      "correct": 2,
+      "explanation": "It blocks tubular secretion of organic anions.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Full enzyme induction by rifampicin typically develops over:",
+      "options": [
+        "Minutes",
+        "One hour",
+        "Several years",
+        "About 1–2 weeks"
+      ],
+      "correct": 3,
+      "explanation": "New enzyme protein must be synthesised.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Bioequivalence is concluded when the 90% CI of the GMR for AUC and Cmax lies within:",
+      "options": [
+        "80.00–125.00%",
+        "90.00–110.00%",
+        "70.00–143.00%",
+        "95.00–105.00%"
+      ],
+      "correct": 0,
+      "explanation": "Standard average BE limits on log-transformed data.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The 90% confidence interval approach is equivalent to:",
+      "options": [
+        "A single two-sided t-test at α = 0.10",
+        "Schuirmann's two one-sided tests at α = 0.05",
+        "The chi-square test",
+        "Wilcoxon signed-rank test"
+      ],
+      "correct": 1,
+      "explanation": "TOST with two 5% one-sided tests gives a 90% CI.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The washout period in a crossover BE study should be at least:",
+      "options": [
+        "1 half-life",
+        "24 hours regardless of drug",
+        "5 elimination half-lives",
+        "2 days regardless of drug"
+      ],
+      "correct": 2,
+      "explanation": "Ensures negligible carry-over.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "As per ICH M9, a drug is highly permeable when the extent of absorption is:",
+      "options": [
+        "50% or more",
+        "70% or more",
+        "95% or more",
+        "85% or more"
+      ],
+      "correct": 3,
+      "explanation": "fa ≥ 85% from mass balance or absolute BA.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "A BCS Class III drug product is eligible for a biowaiver if it is:",
+      "options": [
+        "Very rapidly dissolving with qualitatively same, quantitatively very similar excipients",
+        "Slowly dissolving",
+        "Rapidly dissolving with any excipients",
+        "A narrow therapeutic index drug"
+      ],
+      "correct": 0,
+      "explanation": "ICH M9 criteria for Class III.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Highly variable drugs are usually defined by an intra-subject CV of:",
+      "options": [
+        "5% or more",
+        "30% or more",
+        "10% or more",
+        "50% or more only"
+      ],
+      "correct": 1,
+      "explanation": "They need replicate designs and scaled limits.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Why are AUC and Cmax log-transformed before BE analysis?",
+      "options": [
+        "To remove period effects",
+        "To increase sample size",
+        "The model is multiplicative and data are right-skewed",
+        "Because tmax is non-parametric"
+      ],
+      "correct": 2,
+      "explanation": "Logs give normality and symmetric limits.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "In India, BA/BE studies are regulated under:",
+      "options": [
+        "The Pharmacy Act, 1948",
+        "The Drugs and Magic Remedies Act, 1954",
+        "The Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "The New Drugs and Clinical Trials Rules, 2019"
+      ],
+      "correct": 3,
+      "explanation": "Administered by CDSCO under the Drugs and Cosmetics Act.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The Indian guideline for biosimilars is titled:",
+      "options": [
+        "Guidelines on Similar Biologics",
+        "Schedule Y",
+        "Schedule M",
+        "BA/BE Guideline 2005"
+      ],
+      "correct": 0,
+      "explanation": "Issued by CDSCO and DBT (2012, revised 2016).",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Absolute bioavailability compares the extravascular product with:",
+      "options": [
+        "Another tablet",
+        "An intravenous dose",
+        "A suspension",
+        "A placebo"
+      ],
+      "correct": 1,
+      "explanation": "F of IV = 1.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "In the Emax model, EC50 is a measure of:",
+      "options": [
+        "Efficacy",
+        "Clearance",
+        "Potency",
+        "Bioavailability"
+      ],
+      "correct": 2,
+      "explanation": "Concentration giving half-maximal effect.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "An anticlockwise hysteresis loop indicates that:",
+      "options": [
+        "Tolerance is developing",
+        "The drug is not absorbed",
+        "Elimination is zero order",
+        "Effect lags behind plasma concentration"
+      ],
+      "correct": 3,
+      "explanation": "Distribution to the effect site or indirect action delays effect.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Long half-life of IgG antibodies is mainly due to:",
+      "options": [
+        "FcRn-mediated recycling",
+        "Renal reabsorption",
+        "CYP3A4 resistance",
+        "Binding to albumin"
+      ],
+      "correct": 0,
+      "explanation": "FcRn rescues IgG from lysosomal degradation.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Target-mediated drug disposition makes antibody pharmacokinetics:",
+      "options": [
+        "Strictly linear",
+        "Nonlinear, with faster clearance at low concentrations",
+        "Faster at high doses",
+        "Independent of target"
+      ],
+      "correct": 1,
+      "explanation": "Target acts as a saturable clearance pathway.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "GalNAc conjugation of siRNA targets:",
+      "options": [
+        "Kidney via megalin",
+        "Brain via transferrin receptor",
+        "Hepatocytes via the asialoglycoprotein receptor",
+        "Lungs via surfactant"
+      ],
+      "correct": 2,
+      "explanation": "Allows infrequent SC dosing for liver targets.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "The zero-order release rate needed to maintain Css with an extended-release product is:",
+      "options": [
+        "Css × Vd",
+        "Css/CL",
+        "CL/(Css × F)",
+        "Css × CL/F"
+      ],
+      "correct": 3,
+      "explanation": "Absorption rate must equal elimination rate.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Large proteins given subcutaneously reach the blood mainly through:",
+      "options": [
+        "Lymphatic vessels",
+        "Direct capillary diffusion",
+        "Hepatic portal vein",
+        "Biliary excretion"
+      ],
+      "correct": 0,
+      "explanation": "Molecules above about 16–20 kDa are absorbed via lymph.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Passive targeting of nanocarriers to solid tumours relies on:",
+      "options": [
+        "Folate receptor binding",
+        "Enhanced permeability and retention effect",
+        "Magnetic guidance",
+        "Prodrug activation"
+      ],
+      "correct": 1,
+      "explanation": "Leaky vessels and poor lymphatic drainage retain carriers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "In indirect response models, the delay in effect is governed mainly by:",
+      "options": [
+        "ke0",
+        "Ka",
+        "kout, the turnover rate of the response",
+        "Plasma protein binding"
+      ],
+      "correct": 2,
+      "explanation": "Response changes at the rate of its own turnover.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "Oligonucleotide drugs typically show:",
+      "options": [
+        "Long plasma and short tissue half-life",
+        "Extensive CYP metabolism",
+        "High oral bioavailability",
+        "Short plasma half-life but long tissue half-life"
+      ],
+      "correct": 3,
+      "explanation": "Rapid distribution to liver/kidney; tissue retention for weeks.",
+      "probability": "medium"
+    }
+  ]
+}

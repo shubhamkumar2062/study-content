@@ -1,0 +1,53 @@
+{
+  "code": "MPH202T",
+  "title": "Advanced Biopharmaceutics and Pharmacokinetics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, M.Pharm syllabus: Pharmaceutics (MPH), MPH 202T Advanced Biopharmaceutics and Pharmacokinetics (also in the Gazette of India M.Pharm syllabus, 11 August 2026)",
+    "url": "https://www.pci.nic.in/pdf/Syllabus_M_Pharm.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Drug absorption from the gastrointestinal tract, dissolution and the transport model",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Biopharmaceutic drug product design and in vitro product performance (dissolution, IVIVC)",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Pharmacokinetic models: compartmental and non-compartmental analysis",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Nonlinear pharmacokinetics and drug interactions (binding, CYP450, transporters)",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Bioavailability, bioequivalence, BCS and biosimilars",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Applications of pharmacokinetics: modified-release, targeted and biotechnological products, PK/PD",
+      "notes": "notes/unit-6.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
