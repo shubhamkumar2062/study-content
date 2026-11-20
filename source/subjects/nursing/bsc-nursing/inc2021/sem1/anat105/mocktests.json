@@ -1,0 +1,26 @@
+{
+  "tests": [
+    {
+      "id": "section-paper",
+      "title": "Section A: Applied Anatomy (37 marks)",
+      "patternSource": "INC B.Sc Nursing Regulations 2020, Appendix 3 (university theory question paper pattern): Applied Anatomy is Section A (37 marks) of a combined 3-hour, 75-mark paper shared with Applied Physiology (Section B, 38 marks). No internal choice. This mock covers Section A only, timed at about half the paper. Confirm with your university.",
+      "durationMinutes": 90,
+      "totalMarks": 37,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 6, "attempt": 6 },
+        { "id": "essay", "title": "Essay (long answer)", "source": "long", "marksEach": 10, "count": 1, "attempt": 1 },
+        { "id": "short", "title": "Short answers", "source": "short", "marksEach": 5, "count": 3, "attempt": 3 },
+        { "id": "very-short", "title": "Very short answers", "source": "very-short", "marksEach": 2, "count": 3, "attempt": 3 }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 20, "attempt": 20 }
+      ]
+    }
+  ]
+}

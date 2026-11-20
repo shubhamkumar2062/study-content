@@ -1,0 +1,1166 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "In the anatomical position the palms face:",
+      "options": [
+        "Forward",
+        "Backward",
+        "Towards the thighs",
+        "Upward"
+      ],
+      "correct": 0,
+      "explanation": "Anatomical position has the palms facing forward with thumbs pointing away from the body.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The plane that divides the body into front and back parts is the:",
+      "options": [
+        "Sagittal plane",
+        "Transverse plane",
+        "Median plane",
+        "Coronal plane"
+      ],
+      "correct": 3,
+      "explanation": "The coronal (frontal) plane separates anterior from posterior.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Turning the forearm so the palm faces backward or downward is called:",
+      "options": [
+        "Supination",
+        "Eversion",
+        "Abduction",
+        "Pronation"
+      ],
+      "correct": 3,
+      "explanation": "Pronation turns the palm back/down; supination turns it forward/up.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The trachea is lined by:",
+      "options": [
+        "Simple squamous epithelium",
+        "Transitional epithelium",
+        "Pseudostratified ciliated columnar epithelium",
+        "Stratified squamous keratinised epithelium"
+      ],
+      "correct": 2,
+      "explanation": "Respiratory epithelium is pseudostratified ciliated columnar with goblet cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Transitional epithelium is found in the:",
+      "options": [
+        "Skin",
+        "Stomach",
+        "Urinary bladder",
+        "Alveoli"
+      ],
+      "correct": 2,
+      "explanation": "It flattens when the bladder stretches.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Intervertebral discs are made of:",
+      "options": [
+        "Fibrocartilage",
+        "Hyaline cartilage",
+        "Elastic cartilage",
+        "Dense regular connective tissue only"
+      ],
+      "correct": 0,
+      "explanation": "Fibrocartilage is found in discs, symphysis pubis and menisci.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Sebaceous glands are an example of:",
+      "options": [
+        "Merocrine glands",
+        "Holocrine glands",
+        "Apocrine glands",
+        "Endocrine glands"
+      ],
+      "correct": 1,
+      "explanation": "Whole cells break down to form sebum.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Intercalated discs are a feature of:",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All muscle types"
+      ],
+      "correct": 1,
+      "explanation": "They join cardiac muscle cells end to end.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The organelle that produces most of the cell's ATP is the:",
+      "options": [
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Lysosome",
+        "Ribosome"
+      ],
+      "correct": 0,
+      "explanation": "Mitochondria carry out aerobic respiration.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The number of chromosomes in a human ovum is:",
+      "options": [
+        "46",
+        "23",
+        "22",
+        "44"
+      ],
+      "correct": 1,
+      "explanation": "Gametes are haploid (23); body cells have 46.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The serous membrane covering the lungs is the:",
+      "options": [
+        "Pleura",
+        "Peritoneum",
+        "Pericardium",
+        "Meninges"
+      ],
+      "correct": 0,
+      "explanation": "Pleura has visceral and parietal layers.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The main muscle of inspiration is the:",
+      "options": [
+        "Internal intercostal",
+        "Diaphragm",
+        "Rectus abdominis",
+        "Sternocleidomastoid"
+      ],
+      "correct": 1,
+      "explanation": "The diaphragm contracts and flattens to enlarge the thorax.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The diaphragm is supplied by the:",
+      "options": [
+        "Vagus nerve",
+        "Intercostal nerves only",
+        "Phrenic nerve",
+        "Accessory nerve"
+      ],
+      "correct": 2,
+      "explanation": "Phrenic nerve, C3–C5.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "An inhaled foreign body most often enters the:",
+      "options": [
+        "Left main bronchus",
+        "Oesophagus",
+        "Left lower lobe bronchus",
+        "Right main bronchus"
+      ],
+      "correct": 3,
+      "explanation": "The right bronchus is shorter, wider and more vertical.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The left lung has:",
+      "options": [
+        "Three lobes",
+        "Two fissures",
+        "Two lobes and a cardiac notch",
+        "Three lobes and a lingula"
+      ],
+      "correct": 2,
+      "explanation": "Left lung: upper and lower lobes, oblique fissure, cardiac notch, lingula.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Surfactant is secreted by:",
+      "options": [
+        "Type I alveolar cells",
+        "Type II alveolar cells",
+        "Goblet cells",
+        "Alveolar macrophages"
+      ],
+      "correct": 1,
+      "explanation": "Type II pneumocytes make surfactant.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "The trachea divides at the level of the:",
+      "options": [
+        "Sternal angle (T4–T5)",
+        "Cricoid cartilage (C6)",
+        "Xiphoid process",
+        "Suprasternal notch (T2)"
+      ],
+      "correct": 0,
+      "explanation": "The bifurcation (carina) lies at the sternal angle.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "The only complete cartilage ring of the airway is the:",
+      "options": [
+        "Thyroid cartilage",
+        "Epiglottis",
+        "Cricoid cartilage",
+        "Tracheal ring"
+      ],
+      "correct": 2,
+      "explanation": "Tracheal rings are C-shaped; the cricoid is a full ring.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The epiglottis is made of:",
+      "options": [
+        "Hyaline cartilage",
+        "Fibrocartilage",
+        "Bone",
+        "Elastic cartilage"
+      ],
+      "correct": 3,
+      "explanation": "Elastic cartilage gives it springiness.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The oesophagus passes through the diaphragm at the level of:",
+      "options": [
+        "T8",
+        "T12",
+        "T10",
+        "L1"
+      ],
+      "correct": 2,
+      "explanation": "Caval T8, oesophageal T10, aortic T12.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Quiet expiration is mainly due to:",
+      "options": [
+        "Contraction of the diaphragm",
+        "Contraction of external intercostals",
+        "Contraction of scalenes",
+        "Elastic recoil of lungs and chest wall"
+      ],
+      "correct": 3,
+      "explanation": "Quiet expiration is passive.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Parietal (oxyntic) cells of the stomach secrete:",
+      "options": [
+        "Pepsinogen",
+        "Gastrin",
+        "Hydrochloric acid and intrinsic factor",
+        "Mucus only"
+      ],
+      "correct": 2,
+      "explanation": "Chief cells make pepsinogen; G cells gastrin.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The duct of the parotid gland opens opposite the:",
+      "options": [
+        "Upper second molar",
+        "Lower incisor",
+        "Frenulum of the tongue",
+        "Lower second molar"
+      ],
+      "correct": 0,
+      "explanation": "Stensen's duct opens on the cheek opposite the upper second molar.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Peyer's patches are found mainly in the:",
+      "options": [
+        "Duodenum",
+        "Stomach",
+        "Colon",
+        "Ileum"
+      ],
+      "correct": 3,
+      "explanation": "They are aggregated lymphoid follicles in the ileum.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The common bile duct is formed by the union of:",
+      "options": [
+        "Right and left hepatic ducts",
+        "Cystic duct and common hepatic duct",
+        "Cystic duct and pancreatic duct",
+        "Hepatic duct and pancreatic duct"
+      ],
+      "correct": 1,
+      "explanation": "Cystic + common hepatic duct = common bile duct.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The number of permanent teeth is:",
+      "options": [
+        "20",
+        "28",
+        "36",
+        "32"
+      ],
+      "correct": 3,
+      "explanation": "Deciduous teeth are 20.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Kupffer cells are present in the:",
+      "options": [
+        "Liver sinusoids",
+        "Pancreatic islets",
+        "Stomach glands",
+        "Spleen capsule"
+      ],
+      "correct": 0,
+      "explanation": "They are macrophages lining hepatic sinusoids.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "The extra oblique muscle layer is found in the wall of the:",
+      "options": [
+        "Oesophagus",
+        "Small intestine",
+        "Colon",
+        "Stomach"
+      ],
+      "correct": 3,
+      "explanation": "The stomach has three muscle layers for churning.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Taeniae coli are features of the:",
+      "options": [
+        "Large intestine",
+        "Small intestine",
+        "Stomach",
+        "Oesophagus"
+      ],
+      "correct": 0,
+      "explanation": "Three longitudinal muscle bands of the colon.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Lacteals in the villi absorb mainly:",
+      "options": [
+        "Glucose",
+        "Amino acids",
+        "Fats",
+        "Water"
+      ],
+      "correct": 2,
+      "explanation": "Fat enters lymph through the lacteal.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Brunner's glands are located in the:",
+      "options": [
+        "Jejunum",
+        "Duodenum",
+        "Ileum",
+        "Rectum"
+      ],
+      "correct": 1,
+      "explanation": "They secrete alkaline mucus in the duodenal submucosa.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The mitral valve lies between the:",
+      "options": [
+        "Right atrium and right ventricle",
+        "Left ventricle and aorta",
+        "Left atrium and left ventricle",
+        "Right ventricle and pulmonary trunk"
+      ],
+      "correct": 2,
+      "explanation": "Mitral = bicuspid, left AV valve.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The pacemaker of the heart is the:",
+      "options": [
+        "AV node",
+        "Bundle of His",
+        "SA node",
+        "Purkinje fibres"
+      ],
+      "correct": 2,
+      "explanation": "The SA node in the right atrium starts each beat.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The vein most commonly used for venepuncture is the:",
+      "options": [
+        "Great saphenous vein",
+        "Femoral vein",
+        "Median cubital vein",
+        "Basilic vein in the arm"
+      ],
+      "correct": 2,
+      "explanation": "It lies superficially in the cubital fossa.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The apex beat is normally felt in the:",
+      "options": [
+        "Right 2nd intercostal space",
+        "Left 2nd intercostal space",
+        "Left 7th intercostal space, anterior axillary line",
+        "Left 5th intercostal space, midclavicular line"
+      ],
+      "correct": 3,
+      "explanation": "This is the position of the cardiac apex.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Coronary arteries arise from the:",
+      "options": [
+        "Arch of aorta",
+        "Ascending aorta",
+        "Pulmonary trunk",
+        "Descending aorta"
+      ],
+      "correct": 1,
+      "explanation": "They arise just above the aortic valve cusps.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The innermost layer of the heart is the:",
+      "options": [
+        "Endocardium",
+        "Epicardium",
+        "Myocardium",
+        "Fibrous pericardium"
+      ],
+      "correct": 0,
+      "explanation": "Endocardium lines the chambers and covers the valves.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "The thoracic duct begins at the:",
+      "options": [
+        "Cisterna chyli",
+        "Right subclavian vein",
+        "Spleen",
+        "Thymus"
+      ],
+      "correct": 0,
+      "explanation": "It starts in the abdomen and drains into the left venous angle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "The most numerous white blood cells are:",
+      "options": [
+        "Neutrophils",
+        "Lymphocytes",
+        "Monocytes",
+        "Basophils"
+      ],
+      "correct": 0,
+      "explanation": "Neutrophils form the largest share of WBCs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The cephalic vein runs along the:",
+      "options": [
+        "Lateral (thumb) side of the arm",
+        "Medial side of the arm",
+        "Back of the knee",
+        "Front of the neck"
+      ],
+      "correct": 0,
+      "explanation": "Basilic is medial; cephalic is lateral.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Which branch does NOT arise from the arch of the aorta?",
+      "options": [
+        "Right common carotid artery",
+        "Brachiocephalic trunk",
+        "Left common carotid artery",
+        "Left subclavian artery"
+      ],
+      "correct": 0,
+      "explanation": "The right common carotid arises from the brachiocephalic trunk.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The pituitary gland lies in the:",
+      "options": [
+        "Foramen magnum",
+        "Cribriform plate",
+        "Sella turcica of the sphenoid bone",
+        "Petrous temporal bone"
+      ],
+      "correct": 2,
+      "explanation": "Also called the hypophyseal fossa.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Calcitonin is secreted by the:",
+      "options": [
+        "Follicular cells of the thyroid",
+        "Parafollicular (C) cells of the thyroid",
+        "Chief cells of the parathyroid",
+        "Adrenal medulla"
+      ],
+      "correct": 1,
+      "explanation": "C cells lie between thyroid follicles.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The zona glomerulosa of the adrenal cortex secretes:",
+      "options": [
+        "Cortisol",
+        "Adrenaline",
+        "Aldosterone",
+        "Androgens"
+      ],
+      "correct": 2,
+      "explanation": "Glomerulosa — salt (mineralocorticoids).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "The area of sharpest vision in the retina is the:",
+      "options": [
+        "Optic disc",
+        "Fovea centralis",
+        "Ora serrata",
+        "Ciliary body"
+      ],
+      "correct": 1,
+      "explanation": "It contains only cones.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The organ of Corti is located in the:",
+      "options": [
+        "Semicircular canals",
+        "Middle ear",
+        "Cochlea",
+        "External acoustic meatus"
+      ],
+      "correct": 2,
+      "explanation": "It is the receptor for hearing.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Insulin is secreted by the:",
+      "options": [
+        "Alpha cells",
+        "Delta cells",
+        "Acinar cells",
+        "Beta cells of the islets"
+      ],
+      "correct": 3,
+      "explanation": "Beta cells are the majority of islet cells.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The stratum lucidum is present only in:",
+      "options": [
+        "Scalp skin",
+        "Skin of eyelids",
+        "Thick skin of palms and soles",
+        "All skin"
+      ],
+      "correct": 2,
+      "explanation": "It is a clear layer found in thick skin.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Taste from the anterior two-thirds of the tongue is carried by the:",
+      "options": [
+        "Facial nerve",
+        "Glossopharyngeal nerve",
+        "Hypoglossal nerve",
+        "Vagus nerve"
+      ],
+      "correct": 0,
+      "explanation": "Via the chorda tympani branch.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "The ear ossicle attached to the tympanic membrane is the:",
+      "options": [
+        "Incus",
+        "Stapes",
+        "Cochlea",
+        "Malleus"
+      ],
+      "correct": 3,
+      "explanation": "The stapes fits into the oval window.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "To instil ear drops in an adult, the pinna is pulled:",
+      "options": [
+        "Up and back",
+        "Down and back",
+        "Straight down",
+        "Forward"
+      ],
+      "correct": 0,
+      "explanation": "This straightens the adult canal; in young children pull down and back.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "The total number of bones in the adult human skeleton is:",
+      "options": [
+        "208",
+        "206",
+        "212",
+        "196"
+      ],
+      "correct": 1,
+      "explanation": "80 axial + 126 appendicular.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Growth in length of a long bone occurs at the:",
+      "options": [
+        "Periosteum",
+        "Medullary cavity",
+        "Articular cartilage",
+        "Epiphyseal plate"
+      ],
+      "correct": 3,
+      "explanation": "The growth plate ossifies after puberty.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "The hip joint is a:",
+      "options": [
+        "Hinge joint",
+        "Ball and socket joint",
+        "Pivot joint",
+        "Saddle joint"
+      ],
+      "correct": 1,
+      "explanation": "Femoral head in the acetabulum.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "The muscle used for the ventrogluteal injection site is the:",
+      "options": [
+        "Gluteus maximus",
+        "Vastus lateralis",
+        "Deltoid",
+        "Gluteus medius"
+      ],
+      "correct": 3,
+      "explanation": "Gluteus medius and minimus lie in the V between the fingers.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "The nerve at risk in a dorsogluteal injection is the:",
+      "options": [
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Radial nerve",
+        "Axillary nerve"
+      ],
+      "correct": 1,
+      "explanation": "It runs deep in the buttock.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "The IM site of choice in infants is the:",
+      "options": [
+        "Dorsogluteal",
+        "Deltoid",
+        "Vastus lateralis",
+        "Ventrogluteal"
+      ],
+      "correct": 2,
+      "explanation": "Thick muscle away from major nerves.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Cells that break down bone are:",
+      "options": [
+        "Osteoblasts",
+        "Osteocytes",
+        "Chondrocytes",
+        "Osteoclasts"
+      ],
+      "correct": 3,
+      "explanation": "Osteoblasts build; osteocytes maintain.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "The second cervical vertebra is called the:",
+      "options": [
+        "Axis",
+        "Atlas",
+        "Vertebra prominens",
+        "Coccyx"
+      ],
+      "correct": 0,
+      "explanation": "The axis carries the dens; C1 is the atlas.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "The joint between the atlas and axis is a:",
+      "options": [
+        "Pivot joint",
+        "Hinge joint",
+        "Saddle joint",
+        "Gliding joint"
+      ],
+      "correct": 0,
+      "explanation": "It allows rotation of the head.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "The deltoid muscle is supplied by the:",
+      "options": [
+        "Radial nerve",
+        "Musculocutaneous nerve",
+        "Ulnar nerve",
+        "Axillary nerve"
+      ],
+      "correct": 3,
+      "explanation": "The deltoid abducts the arm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m11",
+      "unit": 6,
+      "question": "The longest bone of the body is the:",
+      "options": [
+        "Tibia",
+        "Femur",
+        "Humerus",
+        "Fibula"
+      ],
+      "correct": 1,
+      "explanation": "It is also the strongest.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The structural and functional unit of the kidney is the:",
+      "options": [
+        "Glomerulus",
+        "Nephron",
+        "Renal pyramid",
+        "Calyx"
+      ],
+      "correct": 1,
+      "explanation": "Each kidney has about a million nephrons.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The length of the female urethra is about:",
+      "options": [
+        "10 cm",
+        "4 cm",
+        "18 cm",
+        "1 cm"
+      ],
+      "correct": 1,
+      "explanation": "Male urethra is 18–20 cm.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "The kidneys are:",
+      "options": [
+        "Intraperitoneal",
+        "In the pelvis",
+        "In the thoracic cavity",
+        "Retroperitoneal"
+      ],
+      "correct": 3,
+      "explanation": "They lie behind the peritoneum on the posterior abdominal wall.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "Testosterone is secreted by the:",
+      "options": [
+        "Sertoli cells",
+        "Seminal vesicles",
+        "Interstitial (Leydig) cells",
+        "Prostate"
+      ],
+      "correct": 2,
+      "explanation": "Leydig cells lie between seminiferous tubules.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "Fertilisation usually occurs in the:",
+      "options": [
+        "Uterine cavity",
+        "Ovary",
+        "Cervix",
+        "Ampulla of the uterine tube"
+      ],
+      "correct": 3,
+      "explanation": "The ampulla is the widest part of the tube.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "The muscle layer of the urinary bladder is the:",
+      "options": [
+        "Myometrium",
+        "Levator ani",
+        "Detrusor muscle",
+        "Trigone"
+      ],
+      "correct": 2,
+      "explanation": "Its contraction empties the bladder.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "The normal position of the uterus is:",
+      "options": [
+        "Anteverted and anteflexed",
+        "Retroverted and retroflexed",
+        "Vertical",
+        "Anteverted and retroflexed"
+      ],
+      "correct": 0,
+      "explanation": "It tilts forward over the bladder.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "Most lymph from the breast drains to the:",
+      "options": [
+        "Inguinal lymph nodes",
+        "Cervical lymph nodes",
+        "Axillary lymph nodes",
+        "Popliteal lymph nodes"
+      ],
+      "correct": 2,
+      "explanation": "About three-quarters goes to the axilla.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "The renal corpuscle consists of:",
+      "options": [
+        "PCT and DCT",
+        "Glomerulus and Bowman's capsule",
+        "Loop of Henle and collecting duct",
+        "Calyx and pelvis"
+      ],
+      "correct": 1,
+      "explanation": "It is the filtering part of the nephron.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m10",
+      "unit": 7,
+      "question": "The shortest and narrowest part of the male urethra is the:",
+      "options": [
+        "Prostatic urethra",
+        "Membranous urethra",
+        "Spongy urethra",
+        "External meatus"
+      ],
+      "correct": 1,
+      "explanation": "It passes through the external sphincter.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "The vital centres for breathing and heart rate are in the:",
+      "options": [
+        "Medulla oblongata",
+        "Cerebellum",
+        "Thalamus",
+        "Frontal lobe"
+      ],
+      "correct": 0,
+      "explanation": "Cardiac, respiratory and vasomotor centres.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "In adults the spinal cord ends at the level of:",
+      "options": [
+        "T12",
+        "L1–L2",
+        "L4–L5",
+        "S2"
+      ],
+      "correct": 1,
+      "explanation": "Lumbar puncture is done below this level.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "The number of pairs of spinal nerves is:",
+      "options": [
+        "12",
+        "33",
+        "31",
+        "30"
+      ],
+      "correct": 2,
+      "explanation": "8 C, 12 T, 5 L, 5 S, 1 Co.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "The primary motor area is in the:",
+      "options": [
+        "Postcentral gyrus",
+        "Precentral gyrus",
+        "Occipital lobe",
+        "Superior temporal gyrus"
+      ],
+      "correct": 1,
+      "explanation": "Postcentral gyrus is sensory.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "CSF is mainly formed by the:",
+      "options": [
+        "Arachnoid villi",
+        "Dural sinuses",
+        "Spinal cord",
+        "Choroid plexuses"
+      ],
+      "correct": 3,
+      "explanation": "Mostly in the lateral ventricles.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "The third and fourth ventricles are connected by the:",
+      "options": [
+        "Interventricular foramen",
+        "Foramen of Magendie",
+        "Central canal only",
+        "Cerebral aqueduct"
+      ],
+      "correct": 3,
+      "explanation": "The aqueduct of Sylvius in the midbrain.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "Myelin in the peripheral nervous system is formed by:",
+      "options": [
+        "Schwann cells",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Microglia"
+      ],
+      "correct": 0,
+      "explanation": "Oligodendrocytes myelinate CNS axons.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "The cranial nerve that supplies the lateral rectus is the:",
+      "options": [
+        "Oculomotor (III)",
+        "Abducens (VI)",
+        "Trochlear (IV)",
+        "Facial (VII)"
+      ],
+      "correct": 1,
+      "explanation": "It turns the eye outward.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "Parasympathetic outflow is:",
+      "options": [
+        "Thoracolumbar",
+        "Cervical only",
+        "Craniosacral",
+        "Lumbar only"
+      ],
+      "correct": 2,
+      "explanation": "Cranial nerves III, VII, IX, X and S2–S4.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m10",
+      "unit": 8,
+      "question": "The coordination of movement and balance is a function of the:",
+      "options": [
+        "Cerebellum",
+        "Pons",
+        "Hypothalamus",
+        "Corpus callosum"
+      ],
+      "correct": 0,
+      "explanation": "Damage gives ataxia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m11",
+      "unit": 8,
+      "question": "CSF is absorbed into venous blood through the:",
+      "options": [
+        "Choroid plexus",
+        "Ependymal cells",
+        "Pia mater",
+        "Arachnoid villi"
+      ],
+      "correct": 3,
+      "explanation": "They project into the dural venous sinuses.",
+      "probability": "low"
+    }
+  ]
+}
