@@ -1,0 +1,26 @@
+{
+  "tests": [
+    {
+      "id": "section-paper",
+      "title": "Section A: Applied Sociology (37 marks)",
+      "patternSource": "INC B.Sc Nursing Regulations 2020, Appendix 3 (university theory question paper pattern): Applied Sociology is Section A (37 marks) and Applied Psychology is Section B (38 marks) of one 75-mark, 3-hour paper; no internal choice. Confirm with your university.",
+      "durationMinutes": 90,
+      "totalMarks": 37,
+      "sections": [
+        { "id": "a-mcq", "title": "MCQ (6 × 1 mark)", "source": "mcq", "marksEach": 1, "count": 6, "attempt": 6 },
+        { "id": "a-essay", "title": "Essay (1 × 10 marks)", "source": "long", "marksEach": 10, "count": 1, "attempt": 1 },
+        { "id": "a-short", "title": "Short answers (3 × 5 marks)", "source": "short", "marksEach": 5, "count": 3, "attempt": 3 },
+        { "id": "a-very-short", "title": "Very short answers (3 × 2 marks)", "source": "very-short", "marksEach": 2, "count": 3, "attempt": 3 }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        { "id": "a", "title": "Objective questions", "source": "mcq", "marksEach": 1, "count": 20, "attempt": 20 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "SOCI115",
+  "title": "Applied Sociology",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Applied Sociology, pages 254–256; exam pattern in Appendix 3, page 416",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Introduction to sociology, basic social concepts and social groups",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Social processes, socialization, social change and communities",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Culture",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Family and marriage",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Social stratification: caste, class and race",
+      "notes": "notes/unit-5.md"
+    },
+    {
+      "number": 6,
+      "title": "Social organization, social control and disorganization",
+      "notes": "notes/unit-6.md"
+    },
+    {
+      "number": 7,
+      "title": "Social problems, vulnerable groups, rights and welfare",
+      "notes": "notes/unit-7.md"
+    },
+    {
+      "number": 8,
+      "title": "Clinical sociology",
+      "notes": "notes/unit-8.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
