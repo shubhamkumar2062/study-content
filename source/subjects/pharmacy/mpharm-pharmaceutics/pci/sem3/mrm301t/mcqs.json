@@ -1,0 +1,704 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The study design that starts with people who have the disease and looks back for exposure is:",
+      "options": [
+        "Case–control study",
+        "Cohort study",
+        "Randomized controlled trial",
+        "Cross-sectional study"
+      ],
+      "correct": 0,
+      "explanation": "Case–control studies begin with cases and controls and look backward for exposure.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The measure of association calculated in a case–control study is the:",
+      "options": [
+        "Relative risk",
+        "Odds ratio",
+        "Incidence rate",
+        "Number needed to treat"
+      ],
+      "correct": 1,
+      "explanation": "Incidence cannot be measured in case–control studies, so the odds ratio is used.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "If control event rate is 0.20 and experimental event rate is 0.12, the number needed to treat is:",
+      "options": [
+        "8",
+        "5",
+        "13",
+        "40"
+      ],
+      "correct": 2,
+      "explanation": "ARR = 0.08; NNT = 1/0.08 = 12.5, rounded up to 13.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Which error is NOT reduced by increasing the sample size?",
+      "options": [
+        "Random error",
+        "Sampling variation",
+        "Imprecision of the estimate",
+        "Systematic error (bias)"
+      ],
+      "correct": 3,
+      "explanation": "Bias pushes results in one direction; only better design removes it.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Keeping the next treatment allocation hidden from the person enrolling patients is called:",
+      "options": [
+        "Allocation concealment",
+        "Blinding",
+        "Stratification",
+        "Minimization"
+      ],
+      "correct": 0,
+      "explanation": "Concealment protects randomization before allocation; blinding acts after allocation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The main concern specific to a crossover design is:",
+      "options": [
+        "Attrition of controls only",
+        "Carryover effect",
+        "Need for very large samples",
+        "Impossibility of randomization"
+      ],
+      "correct": 1,
+      "explanation": "The first treatment's effect may persist into the second period unless the washout is adequate.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "A trial in which treatment is open but outcome assessors are blinded is described as:",
+      "options": [
+        "Triple-blind",
+        "Single-blind",
+        "PROBE design",
+        "Double-dummy"
+      ],
+      "correct": 2,
+      "explanation": "Prospective, Randomized, Open, Blinded End-point.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Randomization in blocks of four is mainly used to:",
+      "options": [
+        "Blind the outcome assessor",
+        "Remove carryover effect",
+        "Increase effect size",
+        "Keep group sizes equal during recruitment"
+      ],
+      "correct": 3,
+      "explanation": "Blocks ensure balanced numbers in each arm at regular intervals.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "In a PubMed search, combining two terms with OR:",
+      "options": [
+        "Widens the search",
+        "Narrows the search",
+        "Excludes the second term",
+        "Restricts to reviews"
+      ],
+      "correct": 0,
+      "explanation": "OR retrieves records containing either term; AND narrows, NOT excludes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The reporting checklist for randomized controlled trials is:",
+      "options": [
+        "STROBE",
+        "CONSORT",
+        "PRISMA",
+        "ARRIVE"
+      ],
+      "correct": 1,
+      "explanation": "STROBE is for observational studies, PRISMA for systematic reviews, ARRIVE for animal studies.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "A Type I error means:",
+      "options": [
+        "Accepting a false null hypothesis",
+        "Using the wrong test",
+        "Rejecting a true null hypothesis",
+        "Having too many dropouts"
+      ],
+      "correct": 2,
+      "explanation": "Type I is a false positive; its probability is α.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Power of a study equals:",
+      "options": [
+        "α",
+        "1 − α",
+        "β/α",
+        "1 − β"
+      ],
+      "correct": 3,
+      "explanation": "Power is the probability of detecting a real difference, 1 minus the Type II error rate.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Degrees of freedom for an unpaired t-test with groups of 8 and 8 are:",
+      "options": [
+        "14",
+        "16",
+        "7",
+        "15"
+      ],
+      "correct": 0,
+      "explanation": "df = n1 + n2 − 2 = 14.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The non-parametric equivalent of one-way ANOVA is the:",
+      "options": [
+        "Wilcoxon signed rank test",
+        "Kruskal–Wallis test",
+        "Spearman rank correlation",
+        "McNemar test"
+      ],
+      "correct": 1,
+      "explanation": "Kruskal–Wallis compares three or more independent groups using ranks.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "If the sample size is calculated as 63 per group and 10% dropouts are expected, the number to recruit per group is:",
+      "options": [
+        "69",
+        "63",
+        "70",
+        "73"
+      ],
+      "correct": 2,
+      "explanation": "n/(1 − d) = 63/0.9 = 70.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Sample size needed to detect a difference becomes four times larger when the difference to be detected is:",
+      "options": [
+        "Doubled",
+        "Unchanged but α is halved",
+        "Quartered",
+        "Halved"
+      ],
+      "correct": 3,
+      "explanation": "n is proportional to 1/Δ², so halving Δ quadruples n.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "For a 2 × 3 contingency table, the degrees of freedom for chi-square are:",
+      "options": [
+        "2",
+        "6",
+        "5",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "df = (r − 1)(c − 1) = 1 × 2 = 2.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "A P value of 0.03 means:",
+      "options": [
+        "There is a 3% chance H0 is true",
+        "Data this extreme would occur 3% of the time if H0 were true",
+        "The treatment works in 97% of patients",
+        "The result has 97% power"
+      ],
+      "correct": 1,
+      "explanation": "The P value is calculated assuming H0 is true; it is not the probability of H0.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Fisher's exact test is preferred over chi-square when:",
+      "options": [
+        "Data are continuous",
+        "Samples are paired",
+        "Expected frequencies are below 5",
+        "There are more than 100 subjects"
+      ],
+      "correct": 2,
+      "explanation": "Chi-square approximation is poor when expected counts are small.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The test used to compare paired pain scores (ordinal) before and after treatment is:",
+      "options": [
+        "Mann–Whitney U test",
+        "Unpaired t-test",
+        "Kruskal–Wallis test",
+        "Wilcoxon signed rank test"
+      ],
+      "correct": 3,
+      "explanation": "Paired, non-normal or ordinal data call for the signed rank test.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Which document stated that the voluntary consent of the human subject is absolutely essential?",
+      "options": [
+        "Nuremberg Code",
+        "Belmont Report",
+        "Declaration of Geneva",
+        "Hippocratic Oath"
+      ],
+      "correct": 0,
+      "explanation": "The 1947 Nuremberg Code's first principle concerns voluntary consent.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Respecting a competent patient's refusal of treatment reflects the principle of:",
+      "options": [
+        "Beneficence",
+        "Autonomy",
+        "Justice",
+        "Non-maleficence"
+      ],
+      "correct": 1,
+      "explanation": "Autonomy is the right of a competent person to decide about their own body.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Giving opioids to relieve terminal pain though they may hasten death is justified by the:",
+      "options": [
+        "Principle of justice",
+        "Therapeutic privilege",
+        "Doctrine of double effect",
+        "Rule of confidentiality"
+      ],
+      "correct": 2,
+      "explanation": "The good effect is intended; the harmful effect is foreseen but not intended.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "In India, advance directives (living wills) were recognised by the Supreme Court in:",
+      "options": [
+        "Aruna Shanbaug v Union of India (2011)",
+        "Maneka Gandhi v Union of India (1978)",
+        "Puttaswamy v Union of India (2017)",
+        "Common Cause v Union of India (2018)"
+      ],
+      "correct": 3,
+      "explanation": "The 2018 Constitution Bench judgment recognised the right to die with dignity and living wills.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The Belmont Report (1979) is built on respect for persons, justice and:",
+      "options": [
+        "Beneficence",
+        "Confidentiality",
+        "Truth telling",
+        "Fidelity"
+      ],
+      "correct": 0,
+      "explanation": "Its three principles are respect for persons, beneficence and justice.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Under Indian rules, an ethics committee reviewing clinical trials must have at least:",
+      "options": [
+        "3 members",
+        "7 members",
+        "5 members",
+        "15 members"
+      ],
+      "correct": 1,
+      "explanation": "The New Drugs and Clinical Trials Rules, 2019, require a minimum of seven members.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "For an illiterate participant, consent must be witnessed by:",
+      "options": [
+        "The sponsor's monitor",
+        "The principal investigator only",
+        "An impartial literate witness",
+        "A family member who will benefit"
+      ],
+      "correct": 2,
+      "explanation": "An impartial witness attends the consent discussion and signs.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Agreement given by a child to take part in research, in addition to parental consent, is called:",
+      "options": [
+        "Waiver",
+        "Proxy consent",
+        "Implied consent",
+        "Assent"
+      ],
+      "correct": 3,
+      "explanation": "Assent is sought from children able to understand, alongside the guardian's consent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Receiving a commission for referring patients to a diagnostic centre is known as:",
+      "options": [
+        "Fee-splitting",
+        "Vendor credit",
+        "Conflict resolution",
+        "Therapeutic privilege"
+      ],
+      "correct": 0,
+      "explanation": "Professional codes in India prohibit fee-splitting ('cuts').",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Withholding a ventilator from a patient so that death follows from the illness is termed:",
+      "options": [
+        "Active euthanasia",
+        "Passive euthanasia",
+        "Physician-assisted suicide",
+        "Involuntary euthanasia"
+      ],
+      "correct": 1,
+      "explanation": "Passive euthanasia withholds or withdraws life-sustaining treatment.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "CPCSEA was constituted under the:",
+      "options": [
+        "Drugs and Cosmetics Act, 1940",
+        "Wildlife (Protection) Act, 1972",
+        "Prevention of Cruelty to Animals Act, 1960",
+        "Environment (Protection) Act, 1986"
+      ],
+      "correct": 2,
+      "explanation": "Section 15 of the PCA Act provides for the committee.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "The 3Rs of animal experimentation were proposed by:",
+      "options": [
+        "Beauchamp and Childress",
+        "Russell and Bradford Hill",
+        "Burch and Fisher",
+        "Russell and Burch"
+      ],
+      "correct": 3,
+      "explanation": "W. M. S. Russell and R. L. Burch described Replacement, Reduction and Refinement in 1959.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Using a properly calculated sample size to minimise animal numbers is an example of:",
+      "options": [
+        "Reduction",
+        "Replacement",
+        "Refinement",
+        "Rehabilitation"
+      ],
+      "correct": 0,
+      "explanation": "Reduction means using the minimum number of animals for a valid result.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The minimum quarantine for larger animals such as dogs and monkeys under CPCSEA guidelines is about:",
+      "options": [
+        "1 week",
+        "6 weeks",
+        "3 days",
+        "6 months"
+      ],
+      "correct": 1,
+      "explanation": "About one week for small animals and six weeks for larger animals.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The relative humidity range recommended in CPCSEA guidelines is:",
+      "options": [
+        "10–30%",
+        "70–90%",
+        "30–70%",
+        "50–95%"
+      ],
+      "correct": 2,
+      "explanation": "Humidity should be controllable within 30–70% throughout the year.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Which member of the IAEC is mandatory and drawn from the establishment?",
+      "options": [
+        "A lawyer",
+        "A theologian",
+        "A statistician",
+        "A veterinarian involved in animal care"
+      ],
+      "correct": 3,
+      "explanation": "The veterinarian is a mandatory member of the IAEC.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Research protocols for animal experiments are submitted to the IAEC in:",
+      "options": [
+        "Form B",
+        "Form D",
+        "Form 44",
+        "Form CT-04"
+      ],
+      "correct": 0,
+      "explanation": "Form B is the protocol form; Form D records animal use.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "According to CPCSEA guidelines, neuromuscular blocking agents may be used only:",
+      "options": [
+        "For euthanasia",
+        "With adequate general anaesthesia",
+        "Without any anaesthesia in rodents",
+        "When the animal is restrained"
+      ],
+      "correct": 1,
+      "explanation": "Paralysis without anaesthesia would leave the animal conscious of pain.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Animal rooms should occupy roughly what proportion of the constructed area of an animal facility?",
+      "options": [
+        "10–20%",
+        "25–30%",
+        "50–60%",
+        "80–90%"
+      ],
+      "correct": 2,
+      "explanation": "The remainder is for stores, washing, offices, machine rooms, quarantine and corridors.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "In 2023 CPCSEA was renamed:",
+      "options": [
+        "IAEC",
+        "CDSCO",
+        "NCLAS",
+        "CCSEA"
+      ],
+      "correct": 3,
+      "explanation": "Committee for Control and Supervision of Experiments on Animals; functions unchanged.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The Declaration of Helsinki was first adopted in:",
+      "options": [
+        "1964",
+        "1947",
+        "1975",
+        "2000"
+      ],
+      "correct": 0,
+      "explanation": "Adopted by the 18th WMA General Assembly at Helsinki in June 1964.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The Declaration of Helsinki is issued by the:",
+      "options": [
+        "World Health Organization",
+        "World Medical Association",
+        "International Council for Harmonisation",
+        "Indian Council of Medical Research"
+      ],
+      "correct": 1,
+      "explanation": "It is the WMA's statement of ethical principles for medical research.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The 1975 Tokyo revision of the Declaration introduced:",
+      "options": [
+        "Post-trial access",
+        "Trial registration",
+        "Review of protocols by an independent committee",
+        "The A/B/C structure"
+      ],
+      "correct": 2,
+      "explanation": "Independent committee review entered the Declaration in 1975.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Under the Declaration, a placebo control is acceptable when:",
+      "options": [
+        "It is cheaper than an active drug",
+        "The sponsor prefers it",
+        "Patients are paid",
+        "No proven intervention exists"
+      ],
+      "correct": 3,
+      "explanation": "Otherwise only for compelling scientific reasons with no risk of serious or irreversible harm.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The Edinburgh revision of 2000 arranged the Declaration into introduction, basic principles and:",
+      "options": [
+        "Additional principles for research combined with medical care",
+        "Non-therapeutic research",
+        "Animal research",
+        "Data protection"
+      ],
+      "correct": 0,
+      "explanation": "Section C covered research combined with medical care.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "According to the Declaration, every study involving human participants must be registered:",
+      "options": [
+        "After publication",
+        "Before recruiting the first participant",
+        "Only if it is a Phase III trial",
+        "Within one year of completion"
+      ],
+      "correct": 1,
+      "explanation": "Prospective registration in a public database is required (CTRI in India).",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "When a potential participant is in a dependent relationship with the physician, consent should be sought by:",
+      "options": [
+        "The same physician",
+        "The sponsor",
+        "An independent qualified person",
+        "A relative of the physician"
+      ],
+      "correct": 2,
+      "explanation": "This avoids pressure arising from the dependent relationship.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The current version of the Declaration of Helsinki was adopted in:",
+      "options": [
+        "2013",
+        "2008",
+        "2018",
+        "2024"
+      ],
+      "correct": 3,
+      "explanation": "The 75th WMA General Assembly in Helsinki adopted it in October 2024.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Provision of a beneficial intervention to participants after a trial ends is called:",
+      "options": [
+        "Post-trial provision",
+        "Compassionate exclusion",
+        "Rescue medication",
+        "Washout"
+      ],
+      "correct": 0,
+      "explanation": "Post-trial provisions must be arranged before the trial and disclosed in consent.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Use of an unproven intervention for an individual patient with no proven options requires:",
+      "options": [
+        "Only the sponsor's permission",
+        "Expert advice and informed consent",
+        "Publication beforehand",
+        "No documentation"
+      ],
+      "correct": 1,
+      "explanation": "It may then be studied for safety and efficacy, with results shared.",
+      "probability": "low"
+    }
+  ]
+}

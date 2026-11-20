@@ -1,0 +1,649 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. MRM301T papers are set by each college, so check your department's previous papers too. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define research. Describe the types of research and the steps of the research process. What are the requirements of good research and the practical difficulties faced by researchers?",
+      "answer": "1. Research: a systematic, objective and replicable search for new knowledge, or new use of existing knowledge, by a planned method.\n2. Characteristics: systematic, logical, empirical, replicable, valid (internal and external), reliable, ethical.\n3. Types: basic vs applied; quantitative vs qualitative vs mixed; descriptive, analytical, experimental; cross-sectional vs longitudinal; retrospective vs prospective; laboratory, pre-clinical, clinical, field; exploratory vs confirmatory.\n4. Process (flow chart): identify problem → review literature → define problem and SMART objectives → hypothesis (H0, H1) → design → sample and sample size → protocol → ethics approval (IEC/IAEC) → pilot → data collection → analysis → hypothesis testing → interpretation → report/publication.\n5. Requirements: clear feasible problem, knowledge of field, sound design and statistics planned in advance, resources (funds, equipment, library), skilled team, time plan, ethical and regulatory clearance, documentation and data integrity, honesty (no fabrication, falsification, plagiarism).\n6. Practical difficulties with remedies: poor problem selection (literature search), lack of funds/equipment (grants, collaboration), limited journal access (institutional databases), approval delays (plan early), recruitment and dropouts (realistic sample size, reminders), variability and error (SOPs, calibration, randomization), weak statistics (consult statistician), time pressure (pilot early), ethical limits (active control), publication bias (registration).\n7. Conclude: good research links a clear objective to a design that controls bias and to an analysis planned before data collection.",
+      "tags": [
+        "research process"
+      ]
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is bias? Classify the types of bias in clinical research and describe the strategies used to eliminate errors and bias, including randomization and blinding.",
+      "answer": "1. Random error = chance variation; reduces precision; reduced by larger n, replication. Systematic error (bias) = consistent deviation from truth; not reduced by larger n, only by design.\n2. Selection bias: groups differ at start → randomization, concealment, clear eligibility.\n3. Allocation bias: investigator steers patients → central/web randomization, sealed opaque envelopes, coded packs.\n4. Performance bias: unequal care → blinding of participants and carers, standard protocol.\n5. Detection (observer) bias: unequal assessment → blinded assessors, objective end points, calibrated instruments.\n6. Attrition bias: unequal dropouts → minimise loss, intention-to-treat analysis.\n7. Recall bias (case–control): use records, structured questionnaires.\n8. Reporting/publication bias: trial registration (CTRI), pre-specified outcomes, publish all results.\n9. Confounding: third factor linked to exposure and outcome → randomization, restriction, matching, stratification, multivariable analysis.\n10. Others: Hawthorne effect, regression to the mean → concurrent control.\n11. Randomization methods: simple, block, stratified, cluster, minimization; benefits — removes selection bias, balances known and unknown confounders, justifies statistics; must be combined with allocation concealment.\n12. Blinding: single, double, triple, PROBE; achieved by identical dosage forms, double-dummy, coded containers, central blinded assessment; emergency unblinding procedure.\n13. Analysis and reporting: statistical analysis plan, ITT, sensitivity analysis, CONSORT/STROBE/ARRIVE/PRISMA checklists.",
+      "tags": [
+        "bias",
+        "randomization",
+        "blinding"
+      ]
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Compare case–control and cohort studies with diagrams. In a cohort study 30 of 200 solvent-exposed workers and 20 of 400 unexposed workers developed dermatitis; in a case–control study 40 of 100 cases and 40 of 200 controls had used a herbal product. Calculate and interpret the relative risk and odds ratio.",
+      "answer": "1. Case–control: start with cases (disease) and controls (no disease) → look back for exposure. Diagram: Cases ← exposed/unexposed?; Controls ← exposed/unexposed?\n2. Cohort: start with exposed and unexposed people free of disease → follow forward → count new cases. Diagram: Exposed → disease / no disease; Unexposed → disease / no disease.\n3. Comparison table: direction (backward vs forward); time and cost (short and cheap vs long and costly); rare disease (case–control suitable) vs rare exposure (cohort suitable); measure (odds ratio vs relative risk and incidence); biases (recall and selection vs loss to follow-up); several outcomes can be studied in a cohort, several exposures in a case–control study; temporal sequence clear only in cohort.\n4. Cohort: risk exposed = 30/200 = 0.15; unexposed = 20/400 = 0.05; RR = 0.15/0.05 = 3.0 → exposed workers have three times the risk; attributable risk = 0.10.\n5. Case–control: exposed cases 40, unexposed cases 60; exposed controls 40, unexposed controls 160. OR = (40 × 160)/(60 × 40) = 6400/2400 = 2.67 → herbal product users have about 2.7 times the odds of liver injury.\n6. OR approximates RR when the disease is rare. Association is not proof of causation; confounding must be considered and the 95% CI reported.",
+      "tags": [
+        "study design",
+        "numerical"
+      ]
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on review of literature: purposes, sources and search strategy.",
+      "answer": "1. Definition: critical, organised summary of existing knowledge on the problem, ending by identifying the gap.\n2. Purposes: avoid duplication, refine question and hypothesis, borrow validated methods, obtain effect size and SD for sample size, anticipate problems, interpret results.\n3. Sources: primary (papers, theses, patents), secondary (reviews, meta-analyses, books), tertiary (pharmacopoeias, compendia); databases PubMed (MeSH), Scopus, Web of Science, Embase, Cochrane, Google Scholar, CTRI.\n4. Strategy: PICO concepts → synonyms and MeSH → Boolean AND/OR/NOT, truncation, phrases → limits → screen titles, abstracts, full texts → record numbers (PRISMA) → manage references (Zotero, Mendeley) and cite (Vancouver).\n5. Critical appraisal: design, randomization, blinding, dropouts, statistics, conflicts of interest.",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain crossover design with a diagram. Mention its advantages and limitations.",
+      "answer": "1. Each participant receives all treatments in sequence, separated by a washout, acting as own control.\n2. Diagram (2 × 2, AB/BA): randomize → sequence 1: A → washout → B; sequence 2: B → washout → A.\n3. Advantages: removes between-subject variation; fewer subjects; direct within-subject comparison; standard for bioavailability and bioequivalence (test vs reference).\n4. Limitations: needs stable chronic condition; carryover effect (prevented by adequate washout, in BE studies usually ≥ 5 half-lives); period effect; sequence (treatment × period) interaction; dropouts costly; longer participation; unsuitable for curative treatment or acute illness.\n5. Analysis: within-subject differences (paired t or ANOVA with subject, period, sequence, treatment).",
+      "tags": [
+        "crossover"
+      ]
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a placebo? Discuss its uses and the ethical conditions for placebo-controlled trials.",
+      "answer": "1. Placebo: inert preparation identical in appearance, taste and packaging to the active treatment. Placebo effect = improvement due to expectation; nocebo = adverse effects due to negative expectation.\n2. Uses: separate the specific drug effect from placebo effect, natural course and regression to the mean; allow blinding; most sensitive test of efficacy; judge drug-relatedness of adverse events.\n3. Ethics (Declaration of Helsinki): acceptable when no proven intervention exists, or for compelling and sound methodological reasons with no added risk of serious or irreversible harm; otherwise compare with best proven treatment or use add-on design.\n4. Safeguards: disclosure in consent, rescue medication, withdrawal criteria, ethics committee approval.\n5. Related: sham procedure, double-dummy technique.",
+      "tags": [
+        "placebo"
+      ]
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the types of controls used in research.",
+      "answer": "1. Purpose: show what would happen without the intervention.\n2. Placebo (negative) control: inert look-alike.\n3. Active (positive) control: best proven standard treatment; used in non-inferiority trials.\n4. No-treatment control: observation only.\n5. Dose–response control: several doses (Phase II).\n6. Historical (external) control: earlier or other patients; weakest because groups may differ.\n7. Add-on design: all on standard therapy plus test drug or placebo.\n8. Laboratory equivalents: vehicle control, positive control compound, blank; in animal studies normal control and disease (model) control.",
+      "tags": [
+        "controls"
+      ]
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Define relative risk reduction, absolute risk reduction and number needed to treat. Calculate them when stroke occurred in 40 of 200 controls and 24 of 200 patients on a new drug.",
+      "answer": "1. CER = 40/200 = 0.20; EER = 24/200 = 0.12.\n2. Relative risk = EER/CER = 0.60.\n3. RRR = 1 − RR = 0.40 (40%): the drug cuts the risk by 40% of the baseline risk.\n4. ARR = CER − EER = 0.08 (8 percentage points).\n5. NNT = 1/ARR = 12.5 → rounded up to 13: thirteen patients must be treated for the trial period to prevent one stroke.\n6. NNT is always rounded up; ARR and NNT depend on baseline risk, so they are more useful clinically than RRR alone.",
+      "tags": [
+        "numerical"
+      ]
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is allocation concealment?",
+      "answer": "Keeping the next treatment allocation hidden from the person enrolling participants (central randomization, sealed opaque envelopes, coded packs) so that selection cannot be influenced; it protects randomization before allocation."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define intention-to-treat analysis.",
+      "answer": "Analysis of every randomized participant in the group to which they were allocated, whether or not they completed or received treatment; it preserves the balance created by randomization and avoids attrition bias."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a double-dummy technique?",
+      "answer": "A blinding method used when two treatments look different: each group takes the active form of its own treatment plus a placebo of the other's form, so all regimens look identical."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is sample size? Explain its importance and the factors influencing it. Calculate the sample size per group needed to detect a 5 mmHg difference in fall of systolic pressure (SD 10 mmHg) at α = 0.05 (two-sided) and 80% power, and adjust it for 10% dropouts.",
+      "answer": "1. Sample size: number of experimental units (patients, animals, tablets) studied.\n2. Importance: too small → low power, Type II error, imprecise results, unethical waste of participants' exposure; too large → waste of resources, unnecessary exposure, trivial differences become significant; required by IEC/IAEC, ICH E9 and journals.\n3. Factors: α (smaller → larger n), power (higher → larger n), effect size Δ (n ∝ 1/Δ²), variability σ (n ∝ σ²), one vs two-tailed, design (paired/crossover smaller, cluster larger), outcome type, number of groups and comparisons, dropouts, allocation ratio.\n4. Formula: n per group = 2(zα/2 + zβ)²σ²/Δ²; zα/2 = 1.96, zβ = 0.8416.\n5. n = 2 × (2.8016)² × 100/25 = 2 × 7.849 × 4 = 62.8 → 63 per group.\n6. Dropouts: n(adj) = n/(1 − d) = 63/0.9 = 70 per group (140 in total).\n7. With 90% power (zβ = 1.2816): n = 84.1 → 85 per group.\n8. Inputs from pilot study or literature; justify the minimum clinically important difference.",
+      "tags": [
+        "sample size",
+        "numerical"
+      ]
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the unpaired t-test with its assumptions. The fall in fasting blood glucose (mg/dl) with drug A was 18, 22, 25, 20, 24, 19, 23, 21 and with drug B 14, 17, 15, 19, 16, 13, 18, 16. Test whether the drugs differ (table t at 14 df = 2.145) and give the 95% confidence interval.",
+      "answer": "1. Use: compare means of two independent groups when n is small and σ unknown.\n2. Assumptions: independent random samples, normal distribution, equal variances (check with F-test or Levene), interval/ratio data.\n3. H0: µA = µB; H1: µA ≠ µB; α = 0.05.\n4. A: n 8, mean 21.5, Σ(x − x̄)² 42.0, variance 6.0; B: n 8, mean 16.0, Σ(x − x̄)² 28.0, variance 4.0.\n5. F = 6.0/4.0 = 1.5 < F(7,7) 3.79 → variances can be pooled.\n6. sp² = (42 + 28)/14 = 5.0; SE = √[5.0(1/8 + 1/8)] = 1.118.\n7. t = (21.5 − 16.0)/1.118 = 4.92; df = 14.\n8. 4.92 > 2.145 → reject H0 (P ≈ 0.0002).\n9. 95% CI = 5.5 ± 2.145 × 1.118 = 3.1 to 7.9 mg/dl; excludes 0.\n10. Conclusion: drug A lowers glucose significantly more, by about 5.5 mg/dl. If variances were unequal, Welch's t-test would be used; for skewed data, Mann–Whitney U.",
+      "tags": [
+        "t-test",
+        "numerical"
+      ]
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe one-way ANOVA. Percentage drug released at 30 min from three formulations was F1: 78, 82, 80, 85, 75; F2: 88, 90, 86, 92, 89; F3: 80, 84, 79, 83, 84. Test whether the formulations differ (F(2,12) at 5% = 3.89; t at 12 df = 2.179) and identify which pairs differ.",
+      "answer": "1. ANOVA compares three or more means at once, avoiding the inflated Type I error of repeated t-tests; total variation = between-group + within-group.\n2. Assumptions: independence, normality, equal variances.\n3. H0: µ1 = µ2 = µ3.\n4. Totals 400, 445, 410; G = 1255; N = 15; CF = 1255²/15 = 105001.667; Σx² = 105325.\n5. SST = 323.333; SSB = (400² + 445² + 410²)/5 − CF = 223.333; SSW = 100.0.\n6. ANOVA table: between SS 223.33, df 2, MS 111.67; within SS 100.00, df 12, MS 8.33; F = 13.40.\n7. 13.40 > 3.89 → reject H0 (P ≈ 0.001).\n8. LSD = 2.179 × √(2 × 8.333/5) = 3.98.\n9. Means 80, 89, 82: F2 − F1 = 9 and F2 − F3 = 7 exceed 3.98 (significant); F3 − F1 = 2 does not.\n10. Conclusion: F2 releases drug significantly faster; F1 and F3 are similar. Other post-hoc tests: Tukey, Dunnett, Bonferroni. Non-parametric alternative: Kruskal–Wallis.",
+      "tags": [
+        "ANOVA",
+        "numerical"
+      ]
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define null hypothesis. Explain Type I and Type II errors, level of significance and power.",
+      "answer": "1. Null hypothesis H0: statement of no difference or no association that is actually tested; H1: alternative (two-tailed ≠ or one-tailed > / <).\n2. Decision table: reject true H0 = Type I error (α, false positive); fail to reject false H0 = Type II error (β, false negative).\n3. Level of significance α: maximum acceptable Type I risk, usually 0.05.\n4. Power = 1 − β: chance of detecting a real difference; 80–90%.\n5. Both errors fall together only by increasing sample size; lowering α alone raises β.\n6. Example: concluding a new analgesic works when it does not = Type I; missing a real benefit in a small trial = Type II.",
+      "tags": [
+        "hypothesis"
+      ]
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a P value? How should P values be interpreted?",
+      "answer": "1. P value: probability of obtaining a result at least as extreme as observed if H0 were true.\n2. P < 0.05 → significant at 5%; reject H0. P ≥ 0.05 → not shown; H0 not rejected.\n3. Not the probability that H0 is true or that results are due to chance.\n4. 0.05 is a convention; report exact P (P = 0.012).\n5. Non-significant does not mean no difference — may be low power (absence of evidence ≠ evidence of absence).\n6. Statistical vs clinical significance: give effect size and 95% CI.\n7. Multiple testing inflates false positives (1 − 0.95^k); use one primary end point or Bonferroni (α/k).",
+      "tags": [
+        "P value"
+      ]
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate parametric and non-parametric tests and give the non-parametric equivalent of each parametric test.",
+      "answer": "1. Parametric: assume normal distribution, equal variance, interval/ratio data; use means and SD; more powerful when assumptions hold.\n2. Non-parametric (distribution-free): ranks or counts; for ordinal, skewed or small data and outliers; slightly less powerful.\n3. Equivalents: paired t → Wilcoxon signed rank (sign test); unpaired t → Mann–Whitney U / Wilcoxon rank sum; one-way ANOVA → Kruskal–Wallis; repeated-measures ANOVA → Friedman; Pearson r → Spearman ρ / Kendall τ; categorical data → chi-square, Fisher's exact, McNemar.\n4. Check assumptions with Shapiro–Wilk, Q–Q plots, Levene's test; transform (log) if needed.",
+      "tags": [
+        "tests"
+      ]
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "In a trial, 30 of 50 patients on drug P and 18 of 50 on drug Q improved. Test the association using the chi-square test (table χ² at 1 df = 3.84).",
+      "answer": "1. Table: P improved 30, not 20; Q improved 18, not 32; N = 100; column totals 48 and 52.\n2. H0: improvement independent of drug.\n3. Expected: E = row × column/N → 24, 26, 24, 26.\n4. χ² = 6²/24 + 6²/26 + 6²/24 + 6²/26 = 1.5 + 1.385 + 1.5 + 1.385 = 5.77 (shortcut: 100 × (30×32 − 20×18)²/(50 × 50 × 48 × 52) = 100 × 600²/6240000 = 5.77).\n5. df = (2 − 1)(2 − 1) = 1; 5.77 > 3.84 → reject H0 (P ≈ 0.016).\n6. Yates' corrected χ² = 4.85, still significant.\n7. Conclusion: improvement is associated with drug P (60% vs 36%). Conditions: frequencies, expected ≥ 5 per cell.",
+      "tags": [
+        "chi-square",
+        "numerical"
+      ]
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the Wilcoxon signed rank test with an example.",
+      "answer": "1. Non-parametric test for paired data (before/after), equivalent to paired t.\n2. Steps: differences d; drop zeros; rank |d| with average ranks for ties; T+ and T−; T = smaller; reject H0 if T ≤ table value for n non-zero differences.\n3. Example: pain scores of 10 patients before/after a gel; d = 3, 1, 4, 0, 4, 3, 0, 3, 5, 2; n = 8 after dropping zeros.\n4. Ranks: 1 → 1; 2 → 2; three 3s → 4 each; two 4s → 6.5 each; 5 → 8. T+ = 36, T− = 0, T = 0.\n5. Table T (n = 8, 5% two-tailed) = 3; 0 ≤ 3 → significant reduction in pain.",
+      "tags": [
+        "non-parametric"
+      ]
+    },
+    {
+      "id": "u2-s06",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Diastolic pressure (mmHg) of 6 patients before treatment was 82, 76, 90, 68, 74, 88 and after was 78, 70, 85, 66, 69, 84. Apply the paired t-test (table t at 5 df = 2.571).",
+      "answer": "1. Differences d = 4, 6, 5, 2, 5, 4; Σd = 26; d̄ = 4.333.\n2. Σ(d − d̄)² = 9.333; sd = √(9.333/5) = 1.366; SE = 1.366/√6 = 0.558.\n3. t = 4.333/0.558 = 7.77; df = 5.\n4. 7.77 > 2.571 → reject H0 (P < 0.001).\n5. Conclusion: the fall of about 4.3 mmHg is significant. Pairing removes between-patient variation, which makes the test sensitive.",
+      "tags": [
+        "t-test",
+        "numerical"
+      ]
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define degrees of freedom. Give df for an unpaired t-test.",
+      "answer": "Degrees of freedom are the number of values free to vary after fixed quantities (such as the mean) are calculated from the data; for an unpaired t-test df = n1 + n2 − 2."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "How is sample size adjusted for dropouts?",
+      "answer": "Divide the calculated size by (1 − expected dropout proportion): n(adjusted) = n/(1 − d); for example 63/0.9 = 70 per group for 10% dropouts."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Write the formula of Spearman's rank correlation coefficient.",
+      "answer": "ρ = 1 − 6Σd²/n(n² − 1), where d is the difference between the two ranks of each subject and n the number of pairs; it ranges from −1 to +1."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Trace the history of medical ethics. Explain the values in medical ethics with suitable examples.",
+      "answer": "1. Ancient: Hippocratic Oath (do no harm, confidentiality); Charaka and Sushruta Samhita (physician's conduct in India).\n2. 1803 Percival's Medical Ethics; 1847 AMA code.\n3. 1947 Nuremberg Code after Nazi doctors' trial: voluntary consent essential, ten principles.\n4. 1948 Declaration of Geneva; 1964 Declaration of Helsinki.\n5. Thalidomide (1950s–60s) → stronger drug regulation; Tuskegee study (1932–72) → reforms.\n6. 1979 Belmont Report (respect for persons, beneficence, justice); four-principle framework.\n7. CIOMS guidelines; ICH E6 GCP (1996, R2 2016, R3 2025).\n8. India: ICMR policy 1980, guidelines 2000, 2006, National Ethical Guidelines 2017; Schedule Y; NDCT Rules 2019.\n9. Values: autonomy (consent, right to refuse/withdraw); beneficence (best interest, useful research); non-maleficence (minimise harm, monitor adverse events); justice (fair selection and access); dignity (privacy, respect); truthfulness and honesty (disclosure).\n10. Values may conflict; resolved by discussion and ethics committees.",
+      "tags": [
+        "history",
+        "values"
+      ]
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is informed consent? Describe its elements, the process, and special situations in research. Add a note on confidentiality.",
+      "answer": "1. Definition: voluntary decision of a competent person after understanding relevant information; a process, not just a signature.\n2. Elements: disclosure (purpose, procedures, duration, risks, benefits, alternatives, confidentiality, compensation, contacts), comprehension (simple regional language, time for questions), voluntariness (no coercion or undue inducement), competence, documentation (signed, dated, copy given), right to withdraw without penalty.\n3. Process: information sheet → discussion → questions → understanding check → signature → re-consent if new information.\n4. Special situations: children — parental consent plus assent; illiterate — impartial witness; incompetent/unconscious — legally acceptable representative; audio-video recording where Indian rules require (vulnerable participants in regulated trials); waiver only for minimal-risk research approved by EC; emergency research with deferred consent.\n5. Confidentiality: duty not to disclose without permission; coding/anonymising, restricted access, encryption, limits stated in consent.\n6. Exceptions: notifiable disease, court order, serious risk to others, regulatory inspection (disclosed in consent).\n7. Laws: HIV and AIDS Act 2017, Digital Personal Data Protection Act 2023.",
+      "tags": [
+        "consent",
+        "confidentiality"
+      ]
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the composition and functions of an ethics committee in India. Add notes on conflicts of interest and vendor relationships.",
+      "answer": "1. EC/IEC/IRB: independent body protecting rights, safety and well-being of participants.\n2. Composition (NDCT Rules 2019, ICMR 2017): at least 7 members — medical scientist (preferably pharmacologist), clinician, legal expert, social scientist/NGO representative/philosopher/ethicist/theologian, lay person; both genders; at least half non-affiliated; chairperson from outside; member secretary from institution.\n3. Registration: with Central Licensing Authority (CDSCO) for clinical trials; with Department of Health Research for other biomedical research.\n4. Functions: initial review (protocol, consent, investigator, site), risk–benefit, continuing review, amendments, protocol deviations, SAE and compensation review, site monitoring, final report, records.\n5. Types of review: exempt, expedited, full.\n6. Members with conflict withdraw.\n7. Conflict of interest: secondary interest (money, career) may bias judgement; examples per-patient payments, shares, consultancy; management by disclosure, independent oversight (DSMB), recusal, limits on payments.\n8. Vendor relationships: restrict gifts, travel, hospitality (Medical Council regulations amended 2009; UCPMP 2024); free samples for patients only; transparent sponsored education; research contracts preserving freedom to publish.",
+      "tags": [
+        "ethics committee"
+      ]
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principle of double effect with an example.",
+      "answer": "1. An act with good and bad effects may be ethical if: (a) the act itself is good or neutral; (b) the good effect is intended, the bad only foreseen; (c) the bad effect is not the means to the good; (d) proportionate reason — good outweighs bad.\n2. Example: opioid analgesia for severe pain in a terminally ill patient that may hasten death by respiratory depression — the aim is relief of suffering.\n3. Other examples: palliative sedation; necessary chemotherapy in pregnancy.\n4. Distinguishes palliative care from euthanasia, where death is the intended means.",
+      "tags": [
+        "double effect"
+      ]
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Define euthanasia. Describe its types and the legal position in India.",
+      "answer": "1. Euthanasia: deliberate ending of life to relieve suffering.\n2. Active (positive act) vs passive (withholding/withdrawing life support); voluntary, non-voluntary, involuntary; physician-assisted suicide.\n3. For: autonomy, relief of suffering, dignity. Against: sanctity of life, slippery slope, misdiagnosis, palliative care available, role of doctor.\n4. India: active euthanasia and assisted suicide illegal; passive euthanasia allowed under safeguards (Aruna Shanbaug v Union of India, 2011); right to die with dignity and advance directives/living wills recognised (Common Cause v Union of India, 2018), procedure simplified in 2023.\n5. Withdrawing futile treatment with palliative care is not euthanasia.",
+      "tags": [
+        "euthanasia"
+      ]
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss conflicts between autonomy and beneficence/non-maleficence.",
+      "answer": "1. Autonomy = patient's right to decide; beneficence/non-maleficence = doctor's duty to help and avoid harm.\n2. Examples: competent adult refusing transfusion (respect informed refusal, document); patient demanding unnecessary antibiotics (doctor need not give non-indicated treatment); incapacity (representative decides in best interest, advance directive); suicidal patient (capacity assessment, protective care).\n3. Capacity: understand, retain, weigh, communicate; decision-specific.\n4. Paternalism generally unacceptable for competent adults.\n5. Resolution: communication, second opinion, ethics consultation.",
+      "tags": [
+        "autonomy"
+      ]
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on criticisms of orthodox medical ethics and cultural concerns.",
+      "answer": "1. Criticisms: too individualistic; Western origin; principlism abstract with no method to rank principles; persisting paternalism; neglect of justice and public health; industry influence; rigid rules hamper low-risk research.\n2. Alternatives: virtue ethics, care ethics, case-based reasoning.\n3. Cultural concerns: family-centred decisions in India (individual consent still required); gender norms (female investigator or chaperone); religious beliefs (blood products, gelatin capsules, end-of-life care); biological sample export and benefit sharing; language and literacy (translated forms).\n4. Culture is respected but cannot override core rights.",
+      "tags": [
+        "criticism",
+        "culture"
+      ]
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write short notes on truth telling, referral and treatment of family members.",
+      "answer": "1. Truth telling: right to honest information on diagnosis, prognosis, risks; delivered sensitively (SPIKES); patient may choose not to know; therapeutic privilege rarely justified; disclose medical errors.\n2. Referral: when beyond competence/facilities or for second opinion; based only on patient's interest; fee-splitting ('cuts') prohibited; avoid delay; send adequate information.\n3. Treatment of family members: discouraged except emergencies/minor problems — emotional bias, incomplete examination, confidentiality issues, difficulty refusing or seeking another opinion.",
+      "tags": [
+        "professional conduct"
+      ]
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the four principles of biomedical ethics.",
+      "answer": "Autonomy (respect for self-determination), beneficence (doing good), non-maleficence (avoiding harm) and justice (fair distribution of benefits and burdens)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the Nuremberg Code?",
+      "answer": "A set of ten principles for human experimentation laid down in 1947 after the trial of Nazi doctors; its first principle is that the voluntary consent of the human subject is absolutely essential."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is meant by medical futility?",
+      "answer": "Treatment that has no reasonable chance of giving a meaningful benefit to the patient; doctors are not obliged to provide it, but comfort care must continue and decisions are made after honest discussion with the patient or family."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the CPCSEA guidelines for laboratory animal facility with respect to goals, veterinary care, quarantine, surveillance and control of disease, and personal hygiene.",
+      "answer": "1. Legal basis: PCA Act 1960 (Section 15), Breeding of and Experiments on Animals (Control and Supervision) Rules 1998; committee renamed CCSEA in 2023.\n2. Goal: humane care of animals in research and testing; specifications that enhance well-being and research quality; GLP in animal facilities.\n3. Veterinary care: by veterinarian or trained person; daily observation by staff with direct reporting; vet advises on husbandry, nutrition, sanitation, zoonoses, protocols.\n4. Procurement: lawful, from registered breeders; inspection of consignment; health screening; consider transport.\n5. Quarantine: separate new animals until health status known; about 1 week for small and 6 weeks for larger animals (cat, dog, monkey); strict for primates (zoonoses).\n6. Stabilisation: physiological, psychological, nutritional recovery before use.\n7. Separation of species: separate rooms or isolators, filtered cages.\n8. Surveillance: daily observation (more after surgery); diagnostic methods; prompt reporting of deaths and illness; isolate contagious cases; keep exposed group intact during control; treatment compatible with study.\n9. Personal hygiene: showers, uniforms, footwear, laundering, decontamination, disposable gear; outer garments not worn outside; no eating, drinking, smoking or cosmetics; medical check-up and vaccination of staff.",
+      "tags": [
+        "CPCSEA"
+      ]
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the requirements of physical facilities, environment and animal husbandry in a laboratory animal facility as per CPCSEA guidelines.",
+      "answer": "1. Location: separate from personnel areas; isolated from habitation, dust, smoke, noise, pests; barriers (entry locks, corridors); animal rooms 50–60% of built area.\n2. Functional areas: quarantine, species rooms, procedure/surgery/necropsy, containment, stores, cage washing and autoclave, clean/soiled areas, waste, carcass cold storage, administration, staff facilities.\n3. Physical facilities: durable, moisture-proof, fire-resistant, seamless materials; wide corridors; utilities outside rooms; rust- and vermin-proof doors with windows; no windows in small-animal rooms; smooth non-absorbent skid-proof floors; drains optional in rodent rooms; crack-free washable walls; separate stores.\n4. Environment: temperature controllable about 18–29 °C (18–37 °C comfort zone for large animals in summer); RH 30–70%; HVAC with standby; separate ventilation for animal and human areas; time-controlled light cycle, emergency power; noise control (concrete walls).\n5. Housing: adequate space, escape-proof, easy food/water access, ventilated, dry and clean, observable; polypropylene/polycarbonate/steel cages for rodents.\n6. Social environment and activity: group housing for social species, stable groups, enrichment.\n7. Food: palatable, uncontaminated, nutritionally adequate, vermin-proof storage.\n8. Bedding: absorbent, non-toxic, changed ideally twice a week.\n9. Water: fresh potable, monitored.\n10. Sanitation, pest control, emergency and holiday care, disaster plan.",
+      "tags": [
+        "CPCSEA",
+        "facility"
+      ]
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is an Institutional Animal Ethics Committee? Describe its composition and functions, and explain the 3Rs of animal experimentation.",
+      "answer": "1. IAEC: committee of a registered establishment, constituted and registered by the national committee (CPCSEA/CCSEA), to control and supervise animal experiments; usually constituted for 5 years.\n2. Institutional members: biological scientist, two scientists from different biological disciplines, veterinarian (mandatory), scientist in charge of animal house; chairperson and member secretary chosen from these.\n3. Nominees: main nominee, link nominee, scientist from outside the institute, socially aware nominee.\n4. Functions: review protocols on Form B (justification, species, numbers, procedures, pain relief, end points, investigator competence); approve up to rodents, forward larger-animal proposals; approval for one year with progress review; inspect facility; suspend non-compliant work; keep minutes and records (Form D); joint review with biosafety committee for hazardous agents.\n5. 3Rs (Russell and Burch, 1959): Replacement — cell lines, excised tissue, in vitro permeation, computer models; Reduction — sample size calculation, good design, shared controls, literature review; Refinement — anaesthesia, analgesia, humane end points, training, enrichment.\n6. Some guidelines add Responsibility; rehabilitation of large animals stressed in India.",
+      "tags": [
+        "IAEC",
+        "3Rs"
+      ]
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the records to be maintained in an animal house as per CPCSEA guidelines.",
+      "answer": "1. Animal house plans (floor plan, fixtures).\n2. Staff records (technical and non-technical).\n3. Health records of staff and animals.\n4. All SOPs.\n5. Breeding, stock, purchase and sale records.\n6. Minutes of IAEC meetings.\n7. Records of experiments with number of animals used (Form D copy).\n8. Death records.\n9. Clinical records of sick animals.\n10. Training records.\n11. Water analysis reports.\n12. Disposal records (transgenic and euthanised large animals). Purpose: traceability, inspection, GLP compliance.",
+      "tags": [
+        "records"
+      ]
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What should a standard operating procedure in an animal facility contain?",
+      "answer": "1. Name of author.\n2. Title.\n3. Date of preparation.\n4. Reference to previous SOP (issue number and date).\n5. Location and distribution with recipients' signatures.\n6. Objectives.\n7. Instrument details (model, serial number, date of commissioning) and methodology.\n8. Manufacturer of reagents and method of analysis.\n9. Normal values of parameters.\n10. Hazard identification and risk assessment.\n11. SOPs cover husbandry, maintenance, breeding, microbial analysis and experimentation records.",
+      "tags": [
+        "SOP"
+      ]
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the CPCSEA guideline principles for anaesthesia and euthanasia of laboratory animals.",
+      "answer": "1. Painful procedures under appropriate species-specific anaesthesia for the full duration; animal never perceives pain.\n2. Sedatives, analgesics and anaesthetics used unless contrary to study aims, with IAEC justification.\n3. Neuromuscular blockers never without general anaesthesia.\n4. Veterinary care until full recovery.\n5. Abandoned experiment or irreparable injury → humane killing.\n6. Euthanasia: quick, painless, without fear; method approved for species; initial CNS depression for immediate insensitivity; minimal disturbance; compatible with study; minimal emotional effect on operator; separate area; larger species tranquillised first; trained person; death confirmed before disposal; records kept.",
+      "tags": [
+        "anaesthesia",
+        "euthanasia"
+      ]
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss personnel, training and transport of laboratory animals according to CPCSEA guidelines.",
+      "answer": "1. Personnel: careful selection; protective clothing; change rooms, lockers, toilets; regular medical check-up for zoonoses; vaccination (tetanus); no eating, drinking or smoking in animal rooms.\n2. Training: initial in-house training for some weeks — handling, cage cleaning, hygiene, disinfection, sterilisation, recognising sick animals; investigators trained in approved procedures; training records.\n3. Transport considerations: mode (road, rail, air by distance, season, species), suitable containers, permissible density, food and water in transit, protection from infection, injury and stress.\n4. On arrival: inspection, quarantine and stabilisation.",
+      "tags": [
+        "personnel",
+        "transport"
+      ]
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on the legal framework for animal experimentation in India.",
+      "answer": "1. Prevention of Cruelty to Animals Act, 1960 — Section 15 provides for a committee to control and supervise experiments.\n2. Breeding of and Experiments on Animals (Control and Supervision) Rules, 1998 (amended).\n3. CPCSEA, renamed CCSEA in 2023, under Department of Animal Husbandry and Dairying; objective — no unnecessary pain or suffering.\n4. Duties: register establishments (breeders, experimenters, contract research), constitute IAECs, approve large-animal experiments, set standards, inspect, promote alternatives.\n5. Supporting documents: guidelines for laboratory animal facility, forms (Form B protocol, Form D records).\n6. Wild animals may also need clearance under wildlife law.",
+      "tags": [
+        "law"
+      ]
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What are the 3Rs?",
+      "answer": "Replacement, Reduction and Refinement — principles proposed by Russell and Burch (1959) to replace animals where possible, use the minimum number, and minimise pain and distress."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "State the recommended quarantine period for small and large laboratory animals.",
+      "answer": "A minimum of about one week for small laboratory animals and six weeks for larger animals such as cats, dogs and monkeys, followed by a stabilisation period."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What temperature and humidity ranges do the CPCSEA guidelines recommend?",
+      "answer": "Facilities should be able to control temperature within about 18–29 °C and relative humidity within 30–70% throughout the year."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Write the history of the Declaration of Helsinki and explain its basic principles for all medical research.",
+      "answer": "1. WMA founded 1947; Nuremberg Code (1947) was a legal response; profession needed its own code.\n2. Adopted June 1964, 18th General Assembly, Helsinki; therapeutic vs non-therapeutic research.\n3. Revisions: 1975 Tokyo (independent committee review, participant's interest over science), 1983 Venice, 1989 Hong Kong, 1996 Somerset West, 2000 Edinburgh (A/B/C structure, placebo, post-trial access, publish negative results), 2002 and 2004 notes of clarification, 2008 Seoul (registration), 2013 Fortaleza (compensation, post-trial provisions), 2024 Helsinki (current, 37 paragraphs, 'participants', free and informed consent).\n4. Introduction: addressed mainly to physicians; covers identifiable human material and data; knowledge never takes precedence over rights.\n5. General principles: protect life, health, dignity, autonomy, privacy; responsibility on researcher; qualified researchers; environment and animal welfare; compensation for harm.\n6. Risks, burdens, benefits: objective outweighs risk; prior assessment; monitoring; stop or modify when risks exceed benefits.\n7. Vulnerability: special protection; research justified only if responsive to group's needs.\n8. Science and protocol: accepted principles, literature, lab and animal data; protocol with funding, conflicts, compensation, post-trial provisions.\n9. Ethics committee: prior approval, independence, monitoring, approval of amendments, final report.\n10. Privacy; free and informed consent; registration before first participant; publication of all results.",
+      "tags": [
+        "Helsinki"
+      ]
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the additional principles of the Declaration of Helsinki for medical research combined with medical care, with special reference to placebo use and post-trial provisions.",
+      "answer": "1. Context: physician combines research with treatment of patients (Section C of 2000 version).\n2. Justification: only to the extent justified by potential preventive, diagnostic or therapeutic value and when participation will not harm patients' health.\n3. Comparator: new intervention tested against best proven intervention(s).\n4. Placebo acceptable only (a) where no proven intervention exists, or (b) for compelling, scientifically sound methodological reasons with no added risk of serious or irreversible harm; extreme care against abuse. Flow chart: proven treatment? no → placebo; yes → active control or add-on unless both conditions met.\n5. History: 1996 wording; 2000 strict rule; 2002 note of clarification.\n6. Post-trial provisions: arranged before the trial by sponsors, researchers, governments for participants still needing a beneficial and reasonably safe intervention; exceptions approved by EC; disclosed in consent (2004 clarification, 2013 and 2024 text).\n7. Patients told which parts of care are research; refusal or withdrawal never affects the patient–physician relationship.\n8. Unproven interventions in practice: when no proven treatment, after expert advice and informed consent, if it offers hope; then researched and results shared (compassionate use).",
+      "tags": [
+        "Helsinki",
+        "placebo"
+      ]
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the requirements of informed consent and research ethics committees in the Declaration of Helsinki, and compare the Declaration with ICH-GCP and Indian regulations.",
+      "answer": "1. Consent: voluntary; capable individual's own agreement even if family or community leaders consulted; information on aims, methods, funding, conflicts, affiliations, benefits, risks, post-trial provisions, right to refuse or withdraw; understanding checked; preferably written, else documented and witnessed; offered results.\n2. Dependent relationship: consent sought by independent qualified person.\n3. Incapable: legally authorised representative; only research for that group, not possible in capable persons, minimal risk; assent and respect for dissent; unconscious patients only if condition is necessary characteristic, consent later.\n4. Identifiable material and data: consent for collection, storage, re-use; exceptions by EC.\n5. Ethics committee: approval before start; transparent, independent, qualified; monitoring rights; SAE information; amendments need approval; final report.\n6. Comparison: Declaration = ethical statement of the profession; ICH E6 GCP = international guideline on trial conduct and data quality, refers to Helsinki principles; India = NDCT Rules 2019 (law: CDSCO approval, registered ECs, compensation, CTRI registration) and ICMR 2017 guidelines.",
+      "tags": [
+        "consent",
+        "ethics committee"
+      ]
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on the placebo paragraph of the Declaration of Helsinki.",
+      "answer": "1. New intervention tested against best proven intervention.\n2. Placebo/no intervention allowed only when no proven intervention exists, or compelling and sound methodological reasons require it and participants face no additional risk of serious or irreversible harm.\n3. Extreme care to avoid abuse.\n4. Practical options: active control, add-on design, rescue medication, short duration in mild conditions.\n5. History: 1996 wording, 2000 strict rule, 2002 note of clarification; retained in 2013 and 2024.",
+      "tags": [
+        "placebo"
+      ]
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the revisions of the Declaration of Helsinki with the main change in each important revision.",
+      "answer": "1. 1964 Helsinki: adopted.\n2. 1975 Tokyo: independent committee review; participant's interest above science and society.\n3. 1983 Venice, 1989 Hong Kong: minor.\n4. 1996 Somerset West: placebo where no proven method.\n5. 2000 Edinburgh: A/B/C structure; stricter placebo; post-trial access; publish negative results.\n6. 2002 Washington and 2004 Tokyo: notes of clarification on placebo and post-trial access.\n7. 2008 Seoul: trial registration, vulnerable groups, identifiable material and data.\n8. 2013 Fortaleza: thematic headings, compensation for harm, post-trial provisions.\n9. 2024 Helsinki: current, 37 paragraphs; 'participants'; free and informed consent; vulnerability and community engagement.",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What does the Declaration of Helsinki say about vulnerable groups and individuals?",
+      "answer": "1. Some individuals, groups and communities are more vulnerable (unable to consent, dependent relationships, poverty, prisoners, children) and face increased risk of harm.\n2. They need specifically considered protection.\n3. Research justified only if it responds to their health needs or priorities, cannot be done in less vulnerable groups, and they will benefit from the results.\n4. Unjustified exclusion also wrong — denies benefits of research; under-represented groups should get access.\n5. Additional safeguards: representative consent, assent, minimal risk for non-beneficial research, EC scrutiny.",
+      "tags": [
+        "vulnerable"
+      ]
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the provisions of the Declaration of Helsinki on registration, publication and use of unproven interventions.",
+      "answer": "1. Every study involving humans registered in a public database before first participant is recruited (India: CTRI).\n2. Researchers, sponsors, editors, publishers share publication duties: complete accurate reports; negative and inconclusive results published; funding, affiliations, conflicts declared; non-compliant research not accepted.\n3. Unproven interventions: for an individual patient without proven options, after expert advice and informed consent, if it offers hope of saving life or relieving suffering.\n4. Then studied for safety and efficacy, information recorded and shared; basis of compassionate use.",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on the introduction (preamble) of the Declaration of Helsinki.",
+      "answer": "1. Statement of ethical principles for medical research involving human participants including identifiable material and data.\n2. Addressed primarily to physicians; others encouraged to adopt.\n3. Read as a whole.\n4. Physician's duty to patients' health, well-being and rights (Declaration of Geneva link).\n5. Research necessary for progress; its purpose is to understand disease and improve prevention, diagnosis, treatment.\n6. Knowledge never takes precedence over participants' rights and interests.\n7. National law must not reduce its protections.",
+      "tags": [
+        "Helsinki"
+      ]
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "When and where was the Declaration of Helsinki adopted?",
+      "answer": "In June 1964 by the 18th General Assembly of the World Medical Association at Helsinki, Finland."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are post-trial provisions?",
+      "answer": "Arrangements made before a clinical trial so that participants who still need an intervention found beneficial and reasonably safe in the trial can continue to receive it after the trial ends."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which body issues the Declaration of Helsinki and when was it last revised?",
+      "answer": "The World Medical Association; the current version was adopted by its 75th General Assembly in Helsinki in October 2024."
+    }
+  ]
+}

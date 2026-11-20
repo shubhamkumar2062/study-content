@@ -1,0 +1,48 @@
+{
+  "code": "MRM301T",
+  "title": "Research Methodology and Biostatistics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, M.Pharm syllabus: MRM 301T Research Methodology and Biostatistics, semester III course common to all specializations (also in the Gazette of India M.Pharm syllabus, 11 August 2026)",
+    "url": "https://www.pci.nic.in/pdf/Syllabus_M_Pharm.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "General research methodology: objectives, literature review, study designs, bias, controls, randomization, crossover design, placebo and blinding",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Biostatistics: sample size, tests of significance, parametric and non-parametric tests, null hypothesis, P values and degrees of freedom",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Medical research and medical ethics: values, informed consent, confidentiality, euthanasia, ethics committees and professional conduct",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "CPCSEA guidelines for laboratory animal facility",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Declaration of Helsinki: history, basic principles and principles for research combined with medical care",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
