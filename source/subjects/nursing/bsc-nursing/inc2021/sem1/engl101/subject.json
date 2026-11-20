@@ -1,0 +1,22 @@
+{
+  "code": "ENGL101",
+  "title": "Communicative English",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Communicative English, pages 244–247; assessment scheme on page 238 and pass rules on page 242",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Communication and the roles of listeners, speakers, readers and writers", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Introduction to LSRGW: sounds, stress, intonation, medical vocabulary, tenses and linkers", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Attentive listening", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Speaking: effective conversation, telephone talk, handover and presentations", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Reading: strategies, medical vocabulary, abbreviations, visuals, reports and remedial grammar", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Writing skills: patient history, notes, letters, reports, journals, abstracts and CV", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "LSRW skills in combination: critical thinking, presentations, instructions and error analysis", "notes": "notes/unit-7.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}
