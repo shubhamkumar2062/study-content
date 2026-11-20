@@ -4,7 +4,12 @@
       "id": "u1-m01",
       "unit": 1,
       "question": "A bioassay is preferred over a chemical assay for which of the following substances?",
-      "options": ["Paracetamol", "Aspirin", "Insulin", "Metformin"],
+      "options": [
+        "Paracetamol",
+        "Aspirin",
+        "Insulin",
+        "Metformin"
+      ],
       "correct": 2,
       "explanation": "Insulin is a heterogeneous polypeptide hormone; chemical assay cannot measure its biological activity directly. A bioassay using blood glucose in rabbits or the rat adipose tissue assay is used to assign potency in International Units.",
       "probability": "high"
@@ -13,8 +18,13 @@
       "id": "u1-m02",
       "unit": 1,
       "question": "In a quantal bioassay, the endpoint is:",
-      "options": ["The magnitude of the response in mm", "The proportion of animals showing a defined effect", "The slope of the log-dose response line", "The EC50 from the Emax model"],
-      "correct": 1,
+      "options": [
+        "The proportion of animals showing a defined effect",
+        "The magnitude of the response in mm",
+        "The slope of the log-dose response line",
+        "The EC50 from the Emax model"
+      ],
+      "correct": 0,
       "explanation": "Quantal assays use an all-or-none response; at each dose, the fraction of animals responding is recorded. The ED50 or LD50 is estimated from this proportion vs log-dose relationship.",
       "probability": "high"
     },
@@ -22,8 +32,13 @@
       "id": "u1-m03",
       "unit": 1,
       "question": "In the Emax model, the EC50 is:",
-      "options": ["The dose producing maximum response", "The concentration producing 50% of Emax", "The slope of the log-dose response curve", "The concentration at which the Hill coefficient equals 1"],
-      "correct": 1,
+      "options": [
+        "The concentration producing 50% of Emax",
+        "The dose producing maximum response",
+        "The slope of the log-dose response curve",
+        "The concentration at which the Hill coefficient equals 1"
+      ],
+      "correct": 0,
       "explanation": "EC50 is the concentration of drug producing half the maximum response (Emax). It is a measure of drug potency; a lower EC50 means greater potency.",
       "probability": "high"
     },
@@ -31,8 +46,13 @@
       "id": "u1-m04",
       "unit": 1,
       "question": "In the Hill equation, a Hill coefficient (n) greater than 1 indicates:",
-      "options": ["Simple hyperbolic binding", "Positive cooperativity", "Negative cooperativity", "Full receptor occupancy"],
-      "correct": 1,
+      "options": [
+        "Positive cooperativity",
+        "Simple hyperbolic binding",
+        "Negative cooperativity",
+        "Full receptor occupancy"
+      ],
+      "correct": 0,
       "explanation": "When n > 1 the dose-response curve is steeper than a simple hyperbola, indicating that binding at one site facilitates binding at subsequent sites (positive cooperativity), as seen with allosteric receptors.",
       "probability": "medium"
     },
@@ -40,8 +60,13 @@
       "id": "u1-m05",
       "unit": 1,
       "question": "The index of precision (λ) in a bioassay is defined as:",
-      "options": ["EC50 / Emax", "s / b, where s is residual SD and b is slope", "b / s, where b is slope and s is residual SD", "log(potency ratio) / standard error"],
-      "correct": 1,
+      "options": [
+        "s / b, where s is residual SD and b is slope",
+        "EC50 / Emax",
+        "b / s, where b is slope and s is residual SD",
+        "log(potency ratio) / standard error"
+      ],
+      "correct": 0,
       "explanation": "λ = s / b. A lower λ means a more precise assay (less residual variability relative to the information provided by the slope). λ < 0.1 is excellent.",
       "probability": "high"
     },
@@ -49,7 +74,12 @@
       "id": "u1-m06",
       "unit": 1,
       "question": "In probit analysis, probit 5 corresponds to:",
-      "options": ["10% response", "25% response", "50% response", "84% response"],
+      "options": [
+        "10% response",
+        "25% response",
+        "50% response",
+        "84% response"
+      ],
       "correct": 2,
       "explanation": "Probit = 5 + z-score. At 50% response, z = 0, so probit = 5. This is the basis for reading the ED50 or LD50 from the probit-log dose line at probit 5.",
       "probability": "high"
@@ -58,7 +88,12 @@
       "id": "u1-m07",
       "unit": 1,
       "question": "The four-point parallel-line assay is invalid if:",
-      "options": ["The two lines are parallel", "The slope is statistically significant", "The two lines are not parallel", "The fiducial limits are within 80–120%"],
+      "options": [
+        "The two lines are parallel",
+        "The slope is statistically significant",
+        "The two lines are not parallel",
+        "The fiducial limits are within 80–120%"
+      ],
       "correct": 2,
       "explanation": "Parallelism is the key validity criterion: if the log-dose response lines of the standard and unknown are not parallel, the potency ratio varies with dose and cannot be expressed as a single number. The assay must be redesigned.",
       "probability": "high"
@@ -67,8 +102,13 @@
       "id": "u1-m08",
       "unit": 1,
       "question": "Which of the following is an example of Replacement under the 3Rs principle?",
-      "options": ["Using a crossover design to reduce group size", "Using the Limulus amoebocyte lysate test instead of the rabbit pyrogen test", "Applying local anaesthesia before tail vein sampling", "Using humane endpoints instead of death as an endpoint"],
-      "correct": 1,
+      "options": [
+        "Using the Limulus amoebocyte lysate test instead of the rabbit pyrogen test",
+        "Using a crossover design to reduce group size",
+        "Applying local anaesthesia before tail vein sampling",
+        "Using humane endpoints instead of death as an endpoint"
+      ],
+      "correct": 0,
       "explanation": "The LAL test is a full Replacement of the in-vivo rabbit pyrogen test using a cell-free in-vitro method. The other options are Reduction (crossover design) or Refinement (anaesthesia, humane endpoints).",
       "probability": "high"
     },
@@ -76,8 +116,13 @@
       "id": "u1-m09",
       "unit": 1,
       "question": "CPCSEA in India operates under which legislation?",
-      "options": ["Drugs and Cosmetics Act, 1940", "Prevention of Cruelty to Animals Act, 1960", "Drug Policy, 1986", "Pharmacy Act, 1948"],
-      "correct": 1,
+      "options": [
+        "Prevention of Cruelty to Animals Act, 1960",
+        "Drugs and Cosmetics Act, 1940",
+        "Drug Policy, 1986",
+        "Pharmacy Act, 1948"
+      ],
+      "correct": 0,
       "explanation": "CPCSEA is constituted under Section 15 of the Prevention of Cruelty to Animals Act, 1960. Its mandate is to regulate and supervise animal experiments in India.",
       "probability": "high"
     },
@@ -85,8 +130,13 @@
       "id": "u1-m10",
       "unit": 1,
       "question": "In a Latin square experimental design, the main purpose is to:",
-      "options": ["Increase the number of animals", "Remove both animal-to-animal and period-to-period variation from the error term", "Increase the slope of the log-dose response line", "Remove the need for randomisation"],
-      "correct": 1,
+      "options": [
+        "Remove both animal-to-animal and period-to-period variation from the error term",
+        "Increase the number of animals",
+        "Increase the slope of the log-dose response line",
+        "Remove the need for randomisation"
+      ],
+      "correct": 0,
       "explanation": "The Latin square design is a balanced crossover in which each treatment appears once in each row (animal) and each column (period), so both sources of between-subject and between-period variability are removed from the residual error, increasing precision.",
       "probability": "medium"
     },
@@ -94,7 +144,12 @@
       "id": "u1-m11",
       "unit": 1,
       "question": "Which method uses only 13 mice to estimate the LD50?",
-      "options": ["Probit analysis (Litchfield-Wilcoxon)", "Moving averages method", "Lorke's method", "Reed-Muench method"],
+      "options": [
+        "Probit analysis (Litchfield-Wilcoxon)",
+        "Moving averages method",
+        "Lorke's method",
+        "Reed-Muench method"
+      ],
       "correct": 2,
       "explanation": "Lorke's staged method uses 9 mice in Stage 1 (3 groups × 3) and 4 in Stage 2 (1 mouse × 4 doses) = 13 animals total, compared with the classical 50-animal method. It is a 3Rs-compliant approach.",
       "probability": "high"
@@ -103,8 +158,13 @@
       "id": "u1-m12",
       "unit": 1,
       "question": "The Dixon and Mood (up-and-down) method for LD50 estimation is best suited when:",
-      "options": ["Many doses are needed for probit analysis", "The number of animals is very limited", "A very precise LD50 with narrow confidence limits is needed", "The dose-response curve is very steep"],
-      "correct": 1,
+      "options": [
+        "The number of animals is very limited",
+        "Many doses are needed for probit analysis",
+        "A very precise LD50 with narrow confidence limits is needed",
+        "The dose-response curve is very steep"
+      ],
+      "correct": 0,
       "explanation": "The up-and-down method is an economical sequential design in which only 5–10 animals may be needed; each animal's result determines the next dose. It sacrifices precision for economy.",
       "probability": "medium"
     },
@@ -112,8 +172,13 @@
       "id": "u1-m13",
       "unit": 1,
       "question": "A WHO International Standard for insulin defines 1 International Unit as:",
-      "options": ["The amount in 1 mL of a 1% solution", "The hypoglycaemic potency of a specified mass (41.67 μg) of a reference preparation", "The amount that lowers blood glucose by 1 mmol/L in a human", "The amount that contracts a guinea pig uterus by 1 mm"],
-      "correct": 1,
+      "options": [
+        "The hypoglycaemic potency of a specified mass (41.67 μg) of a reference preparation",
+        "The amount in 1 mL of a 1% solution",
+        "The amount that lowers blood glucose by 1 mmol/L in a human",
+        "The amount that contracts a guinea pig uterus by 1 mm"
+      ],
+      "correct": 0,
       "explanation": "One IU of insulin equals 41.67 μg of the WHO 1st International Reference Preparation; the unit is arbitrary and historically defined in a rabbit blood glucose bioassay.",
       "probability": "medium"
     },
@@ -121,8 +186,13 @@
       "id": "u1-m14",
       "unit": 1,
       "question": "Which of the following best describes a graded bioassay?",
-      "options": ["Animals either die or survive", "The magnitude of response is measured on a continuous scale", "Only 50% of animals respond", "The response is measured in a binary yes/no fashion"],
-      "correct": 1,
+      "options": [
+        "The magnitude of response is measured on a continuous scale",
+        "Animals either die or survive",
+        "Only 50% of animals respond",
+        "The response is measured in a binary yes/no fashion"
+      ],
+      "correct": 0,
       "explanation": "In a graded assay the actual degree of response is quantified, allowing a log-dose vs response regression line. This makes it more statistically efficient than a quantal assay.",
       "probability": "high"
     },
@@ -130,8 +200,13 @@
       "id": "u1-m15",
       "unit": 1,
       "question": "Blinding in animal experiments primarily removes:",
-      "options": ["Genetic variability between animals", "Observer bias in scoring outcomes", "Variation due to cage position", "The need for randomisation"],
-      "correct": 1,
+      "options": [
+        "Observer bias in scoring outcomes",
+        "Genetic variability between animals",
+        "Variation due to cage position",
+        "The need for randomisation"
+      ],
+      "correct": 0,
       "explanation": "Blinding prevents the observer from knowing which treatment an animal received, eliminating unconscious scoring bias. It is particularly important in subjective endpoints like behavioural tests.",
       "probability": "medium"
     },
@@ -139,8 +214,13 @@
       "id": "u1-m16",
       "unit": 1,
       "question": "In a four-point parallel-line assay, the log-potency ratio M is calculated as:",
-      "options": ["Slope × (mean response of unknown / mean response of standard)", "(Mean response of unknown − mean response of standard) / common slope", "Common slope / (mean response of unknown − mean response of standard)", "Antilog(mean response of unknown)"],
-      "correct": 1,
+      "options": [
+        "(Mean response of unknown − mean response of standard) / common slope",
+        "Slope × (mean response of unknown / mean response of standard)",
+        "Common slope / (mean response of unknown − mean response of standard)",
+        "Antilog(mean response of unknown)"
+      ],
+      "correct": 0,
       "explanation": "M = (mean response of unknown − mean response of standard) / b, where b is the common slope. The potency ratio R = antilog(M).",
       "probability": "high"
     },
@@ -148,8 +228,13 @@
       "id": "u1-m17",
       "unit": 1,
       "question": "A humane endpoint in an animal experiment is defined as:",
-      "options": ["The dose that kills 50% of animals", "A pre-specified criterion for early termination when an animal shows severe suffering", "The minimum number of animals per group", "The washout period between doses in a crossover design"],
-      "correct": 1,
+      "options": [
+        "A pre-specified criterion for early termination when an animal shows severe suffering",
+        "The dose that kills 50% of animals",
+        "The minimum number of animals per group",
+        "The washout period between doses in a crossover design"
+      ],
+      "correct": 0,
       "explanation": "Humane endpoints are signs of severe distress (e.g., > 20% weight loss, laboured breathing) that trigger termination of the experiment before death, in line with the Refinement principle of the 3Rs.",
       "probability": "high"
     },
@@ -157,8 +242,13 @@
       "id": "u1-m18",
       "unit": 1,
       "question": "The linear region of the log-dose vs response curve, used for bioassay calculations, corresponds to responses between approximately:",
-      "options": ["0 and 50% of maximum", "20 and 80% of maximum", "50 and 100% of maximum", "10 and 40% of maximum"],
-      "correct": 1,
+      "options": [
+        "20 and 80% of maximum",
+        "0 and 50% of maximum",
+        "50 and 100% of maximum",
+        "10 and 40% of maximum"
+      ],
+      "correct": 0,
       "explanation": "The sigmoidal log-dose response curve is approximately linear between 20% and 80% of Emax. Outside this range, the curve curves towards the baseline or the maximum, reducing the precision of interpolation.",
       "probability": "high"
     },
@@ -166,8 +256,13 @@
       "id": "u1-m19",
       "unit": 1,
       "question": "Which advantage of bioassay over physicochemical assay is most important for a polypeptide drug like heparin?",
-      "options": ["It is cheaper and faster", "It measures the actual anticoagulant activity, not just the amount of polymer present", "It does not require a reference standard", "It can be performed in cell-free systems"],
-      "correct": 1,
+      "options": [
+        "It measures the actual anticoagulant activity, not just the amount of polymer present",
+        "It is cheaper and faster",
+        "It does not require a reference standard",
+        "It can be performed in cell-free systems"
+      ],
+      "correct": 0,
       "explanation": "Heparin is a heterogeneous polysaccharide mixture; chemical assay measures carbohydrate content but cannot predict anticoagulant activity. The bioassay (clotting time test) assigns activity in International Units per batch.",
       "probability": "medium"
     },
@@ -175,7 +270,12 @@
       "id": "u1-m20",
       "unit": 1,
       "question": "The minimum number of members in an IAEC as required by CPCSEA is:",
-      "options": ["4", "5", "7", "10"],
+      "options": [
+        "4",
+        "5",
+        "7",
+        "10"
+      ],
       "correct": 2,
       "explanation": "CPCSEA requires at least 7 members: veterinarian, animal care scientist, biological scientist, scientist using animals, institutional nominee, and 2 CPCSEA nominees (one must represent animal welfare outside the institution).",
       "probability": "high"
@@ -184,7 +284,12 @@
       "id": "u2-m01",
       "unit": 2,
       "question": "The composition of Krebs-Henseleit solution is designed to mimic which body fluid?",
-      "options": ["Plasma", "Cerebrospinal fluid", "Interstitial fluid", "Urine"],
+      "options": [
+        "Plasma",
+        "Cerebrospinal fluid",
+        "Interstitial fluid",
+        "Urine"
+      ],
       "correct": 2,
       "explanation": "The ionic composition, osmolality (~290 mOsm) and pH (7.4 when gassed with carbogen) of Krebs-Henseleit solution closely mimic interstitial fluid, allowing isolated tissues to maintain their function.",
       "probability": "high"
@@ -193,7 +298,12 @@
       "id": "u2-m02",
       "unit": 2,
       "question": "The gas mixture used to oxygenate an isolated mammalian tissue bath is typically:",
-      "options": ["100% O2", "95% O2 / 5% N2", "95% O2 / 5% CO2 (carbogen)", "Air (21% O2 / 79% N2)"],
+      "options": [
+        "100% O2",
+        "95% O2 / 5% N2",
+        "95% O2 / 5% CO2 (carbogen)",
+        "Air (21% O2 / 79% N2)"
+      ],
       "correct": 2,
       "explanation": "Carbogen (95% O2 / 5% CO2) both oxygenates the tissue and maintains the bicarbonate buffer at pH 7.4. Pure O2 would drive off CO2 and raise pH, disrupting the buffer.",
       "probability": "high"
@@ -202,8 +312,13 @@
       "id": "u2-m03",
       "unit": 2,
       "question": "Which isolated preparation is most sensitive for bioassay of histamine?",
-      "options": ["Rat fundus strip", "Guinea pig ileum", "Frog rectus abdominis", "Rabbit duodenum"],
-      "correct": 1,
+      "options": [
+        "Guinea pig ileum",
+        "Rat fundus strip",
+        "Frog rectus abdominis",
+        "Rabbit duodenum"
+      ],
+      "correct": 0,
       "explanation": "The guinea pig ileum has abundant H1 receptors in the longitudinal smooth muscle and responds to histamine at concentrations as low as 1 ng/mL, making it the most sensitive standard preparation for histamine bioassay.",
       "probability": "high"
     },
@@ -211,8 +326,13 @@
       "id": "u2-m04",
       "unit": 2,
       "question": "The frog rectus abdominis preparation is used for bioassay of acetylcholine because:",
-      "options": ["It has muscarinic receptors only", "It has nicotinic receptors and atropine does not block the response", "It is insensitive to tubocurarine", "It responds to histamine and ACh equally"],
-      "correct": 1,
+      "options": [
+        "It has nicotinic receptors and atropine does not block the response",
+        "It has muscarinic receptors only",
+        "It is insensitive to tubocurarine",
+        "It responds to histamine and ACh equally"
+      ],
+      "correct": 0,
       "explanation": "The frog rectus abdominis has nicotinic (N-M type) receptors. Atropine (muscarinic antagonist) does not block the ACh contraction; tubocurarine (nicotinic antagonist) does. This confirms that the bioassay measures nicotinic activity.",
       "probability": "high"
     },
@@ -220,7 +340,12 @@
       "id": "u2-m05",
       "unit": 2,
       "question": "Which preparation is used as the official WHO preparation for standardising oxytocin?",
-      "options": ["Guinea pig ileum", "Rabbit jejunum", "Oestrogen-sensitised rat uterus", "Rat fundus strip"],
+      "options": [
+        "Guinea pig ileum",
+        "Rabbit jejunum",
+        "Oestrogen-sensitised rat uterus",
+        "Rat fundus strip"
+      ],
       "correct": 2,
       "explanation": "The oestrogen-primed rat uterus is the official WHO preparation for oxytocin standardisation. Oestrogen upregulates oxytocin receptors, maximising sensitivity to the hormone.",
       "probability": "high"
@@ -229,8 +354,13 @@
       "id": "u2-m06",
       "unit": 2,
       "question": "In the Schild plot, a slope of exactly 1 indicates:",
-      "options": ["Non-competitive antagonism", "Competitive and reversible antagonism", "Partial agonism", "Allosteric modulation"],
-      "correct": 1,
+      "options": [
+        "Competitive and reversible antagonism",
+        "Non-competitive antagonism",
+        "Partial agonism",
+        "Allosteric modulation"
+      ],
+      "correct": 0,
       "explanation": "The Schild equation log(r−1) = log[B] − pA2 predicts a slope of 1 for competitive (orthosteric), reversible antagonism. A slope significantly different from 1 indicates non-competitive binding or allosteric interaction.",
       "probability": "high"
     },
@@ -238,8 +368,13 @@
       "id": "u2-m07",
       "unit": 2,
       "question": "The pA2 of an antagonist is defined as:",
-      "options": ["The molar concentration causing 50% inhibition of the agonist maximum response", "The negative log of the molar concentration that doubles the agonist EC50", "The slope of the log-dose response line", "The concentration causing receptor saturation"],
-      "correct": 1,
+      "options": [
+        "The negative log of the molar concentration that doubles the agonist EC50",
+        "The molar concentration causing 50% inhibition of the agonist maximum response",
+        "The slope of the log-dose response line",
+        "The concentration causing receptor saturation"
+      ],
+      "correct": 0,
       "explanation": "pA2 = -log[B], where [B] is the antagonist concentration that requires a 2-fold increase in agonist concentration to restore the original response (dose ratio = 2). Higher pA2 means higher potency.",
       "probability": "high"
     },
@@ -247,8 +382,13 @@
       "id": "u2-m08",
       "unit": 2,
       "question": "In the Schultz-Dale reaction, the contraction of the sensitised guinea pig ileum in response to antigen is primarily mediated by:",
-      "options": ["Bradykinin acting on B2 receptors", "Histamine released from mast cells acting on H1 receptors", "Acetylcholine released from intrinsic nerve endings", "5-HT acting on 5-HT3 receptors"],
-      "correct": 1,
+      "options": [
+        "Histamine released from mast cells acting on H1 receptors",
+        "Bradykinin acting on B2 receptors",
+        "Acetylcholine released from intrinsic nerve endings",
+        "5-HT acting on 5-HT3 receptors"
+      ],
+      "correct": 0,
       "explanation": "Antigen-antibody reaction on mast cells in the gut wall causes degranulation and release of histamine. Mepyramine (H1 antagonist) blocks the response, confirming H1 mediation.",
       "probability": "high"
     },
@@ -256,8 +396,13 @@
       "id": "u2-m09",
       "unit": 2,
       "question": "What is the resting tension (preload) typically applied to a guinea pig ileum preparation?",
-      "options": ["0.1 g", "0.5–1 g", "5–10 g", "50 g"],
-      "correct": 1,
+      "options": [
+        "0.1 g",
+        "5–10 g",
+        "0.5–1 g",
+        "50 g"
+      ],
+      "correct": 2,
       "explanation": "A preload of 0.5–1 g tension is applied to put the longitudinal smooth muscle under slight stretch, which maintains sensitivity to agonists and reduces spontaneous tone variation.",
       "probability": "medium"
     },
@@ -265,7 +410,12 @@
       "id": "u2-m10",
       "unit": 2,
       "question": "In the organ bath, the purpose of the jacketed outer chamber is to:",
-      "options": ["Increase the volume of Krebs solution", "Provide electrical isolation for the transducer", "Maintain the bath at a constant temperature via circulating warm water", "Act as a reservoir for drug additions"],
+      "options": [
+        "Increase the volume of Krebs solution",
+        "Provide electrical isolation for the transducer",
+        "Maintain the bath at a constant temperature via circulating warm water",
+        "Act as a reservoir for drug additions"
+      ],
       "correct": 2,
       "explanation": "The double-walled (jacketed) design allows thermostated water to circulate in the outer jacket, maintaining the inner bath and its contents at a precise, constant temperature — usually 37°C for mammalian tissues.",
       "probability": "medium"
@@ -274,8 +424,13 @@
       "id": "u2-m11",
       "unit": 2,
       "question": "The rabbit duodenum preparation shows spontaneous contractions that are increased by:",
-      "options": ["β2-adrenoceptor stimulation", "α1-adrenoceptor stimulation", "M2-muscarinic stimulation", "H2 receptor stimulation"],
-      "correct": 1,
+      "options": [
+        "β2-adrenoceptor stimulation",
+        "H2 receptor stimulation",
+        "M2-muscarinic stimulation",
+        "α1-adrenoceptor stimulation"
+      ],
+      "correct": 3,
       "explanation": "α1-adrenoceptor activation by noradrenaline or phenylephrine increases the frequency and amplitude of spontaneous contractions. β2-adrenoceptor stimulation (adrenaline at low doses) relaxes the preparation.",
       "probability": "medium"
     },
@@ -283,7 +438,12 @@
       "id": "u2-m12",
       "unit": 2,
       "question": "Which component of the Krebs-Henseleit solution functions as the metabolic substrate for the isolated tissue?",
-      "options": ["NaCl", "CaCl2", "NaHCO3", "Glucose"],
+      "options": [
+        "NaCl",
+        "CaCl2",
+        "NaHCO3",
+        "Glucose"
+      ],
       "correct": 3,
       "explanation": "Glucose (11 mmol/L) is the energy substrate for oxidative phosphorylation in the isolated tissue. Depletion of glucose leads to rapid loss of contractility.",
       "probability": "medium"
@@ -292,8 +452,13 @@
       "id": "u2-m13",
       "unit": 2,
       "question": "In the three-point assay for ACh on frog rectus, the dose cycle used is:",
-      "options": ["Standard-Standard-Unknown", "Standard low (S1) - Unknown (U) - Standard high (S2)", "Unknown-Standard-Unknown", "Standard-Unknown-Standard-Unknown"],
-      "correct": 1,
+      "options": [
+        "Standard-Standard-Unknown",
+        "Standard-Unknown-Standard-Unknown",
+        "Unknown-Standard-Unknown",
+        "Standard low (S1) - Unknown (U) - Standard high (S2)"
+      ],
+      "correct": 3,
       "explanation": "The classic three-point assay cycle is S1 (low standard) → U (unknown) → S2 (high standard), with complete washout between each dose. The unknown response is interpolated on the S1-S2 log-dose line.",
       "probability": "high"
     },
@@ -301,8 +466,13 @@
       "id": "u2-m14",
       "unit": 2,
       "question": "Oestrogen priming of the rat uterus for oxytocin bioassay is essential because:",
-      "options": ["Oestrogen directly contracts uterine smooth muscle", "Oestrogen upregulates oxytocin receptors", "Oestrogen prevents prostaglandin production", "Oestrogen increases calcium in the bath"],
-      "correct": 1,
+      "options": [
+        "Oestrogen directly contracts uterine smooth muscle",
+        "Oestrogen increases calcium in the bath",
+        "Oestrogen prevents prostaglandin production",
+        "Oestrogen upregulates oxytocin receptors"
+      ],
+      "correct": 3,
       "explanation": "Oestrogen increases the density of oxytocin receptors in uterine smooth muscle, making the preparation highly sensitive to oxytocin. Without priming the uterus shows a minimal, inconsistent response.",
       "probability": "high"
     },
@@ -310,8 +480,13 @@
       "id": "u2-m15",
       "unit": 2,
       "question": "An isometric force transducer measures:",
-      "options": ["Muscle shortening at a constant load", "Change in muscle tension while muscle length is kept constant", "Muscle length changes", "Temperature changes in the organ bath"],
-      "correct": 1,
+      "options": [
+        "Muscle shortening at a constant load",
+        "Temperature changes in the organ bath",
+        "Muscle length changes",
+        "Change in muscle tension while muscle length is kept constant"
+      ],
+      "correct": 3,
       "explanation": "An isometric transducer measures force (tension) at constant length. This is preferred because the results are more reproducible than isotonic (constant load, variable length) recordings, as muscle properties change with length.",
       "probability": "medium"
     },
@@ -319,7 +494,12 @@
       "id": "u2-m16",
       "unit": 2,
       "question": "Which ionic component of Krebs solution is essential for excitation-contraction coupling in smooth muscle?",
-      "options": ["NaCl", "KH2PO4", "CaCl2", "MgSO4"],
+      "options": [
+        "NaCl",
+        "KH2PO4",
+        "CaCl2",
+        "MgSO4"
+      ],
       "correct": 2,
       "explanation": "Calcium ions (CaCl2 2.5 mmol/L) provide the extracellular calcium source for activation of the contractile machinery via calmodulin-dependent myosin light chain kinase in smooth muscle.",
       "probability": "medium"
@@ -328,8 +508,13 @@
       "id": "u2-m17",
       "unit": 2,
       "question": "What de Jalon solution differs from Krebs-Henseleit in that it has:",
-      "options": ["Higher calcium concentration", "Lower calcium concentration", "No NaHCO3", "No glucose"],
-      "correct": 1,
+      "options": [
+        "Higher calcium concentration",
+        "No glucose",
+        "No NaHCO3",
+        "Lower calcium concentration"
+      ],
+      "correct": 3,
       "explanation": "De Jalon solution has a lower calcium concentration than Krebs solution. This reduces spontaneous myogenic activity of the uterus, allowing cleaner contractile responses to oxytocin.",
       "probability": "medium"
     },
@@ -337,8 +522,13 @@
       "id": "u2-m18",
       "unit": 2,
       "question": "During the equilibration period of an organ bath preparation, the purpose of periodic washing with fresh Krebs solution is to:",
-      "options": ["Increase the temperature of the bath", "Remove accumulated metabolic waste products and maintain a fresh ionic environment", "Add glucose for the tissue", "Calibrate the transducer"],
-      "correct": 1,
+      "options": [
+        "Increase the temperature of the bath",
+        "Calibrate the transducer",
+        "Add glucose for the tissue",
+        "Remove accumulated metabolic waste products and maintain a fresh ionic environment"
+      ],
+      "correct": 3,
       "explanation": "During equilibration, the tissue releases metabolic products (CO2, lactic acid) and any residual endogenous mediators. Washing removes these and ensures the tissue starts each dose in a standard environment.",
       "probability": "medium"
     },
@@ -346,8 +536,13 @@
       "id": "u2-m19",
       "unit": 2,
       "question": "In a four-point assay, if the two log-dose response lines are parallel but neither is linear (both show significant quadratic deviation), the assay is:",
-      "options": ["Valid for potency estimation only", "Invalid because the linearity validity criterion is not met", "Valid because parallelism is satisfied", "Invalid only if the quadratic terms differ between lines"],
-      "correct": 1,
+      "options": [
+        "Valid for potency estimation only",
+        "Invalid only if the quadratic terms differ between lines",
+        "Valid because parallelism is satisfied",
+        "Invalid because the linearity validity criterion is not met"
+      ],
+      "correct": 3,
       "explanation": "Both parallelism and linearity must be satisfied. Significant non-linearity means the assumed log-linear model does not describe the data correctly, so the potency estimate from the slope is unreliable.",
       "probability": "medium"
     },
@@ -355,8 +550,13 @@
       "id": "u2-m20",
       "unit": 2,
       "question": "Which preparation is most appropriate for demonstrating the Schultz-Dale reaction for anaphylaxis?",
-      "options": ["Rat fundus strip", "Guinea pig ileum from a sensitised animal", "Oestrogen-primed rat uterus", "Frog rectus abdominis"],
-      "correct": 1,
+      "options": [
+        "Rat fundus strip",
+        "Frog rectus abdominis",
+        "Oestrogen-primed rat uterus",
+        "Guinea pig ileum from a sensitised animal"
+      ],
+      "correct": 3,
       "explanation": "The guinea pig ileum from an actively sensitised animal contains abundant mast cells bearing IgE specific for the sensitising antigen. Antigen challenge triggers mast cell degranulation and histamine release, contracting the longitudinal smooth muscle.",
       "probability": "high"
     },
@@ -364,7 +564,12 @@
       "id": "u3-m01",
       "unit": 3,
       "question": "The rat fundus strip is most selective for bioassay of:",
-      "options": ["Histamine", "Bradykinin", "5-Hydroxytryptamine (serotonin)", "Angiotensin II"],
+      "options": [
+        "Histamine",
+        "Bradykinin",
+        "5-Hydroxytryptamine (serotonin)",
+        "Angiotensin II"
+      ],
       "correct": 2,
       "explanation": "The rat gastric fundus strip has abundant 5-HT2 receptors and is relatively insensitive to histamine, making it the preferred preparation for 5-HT bioassay. Ketanserin or methysergide confirms 5-HT2 mediation.",
       "probability": "high"
@@ -373,8 +578,13 @@
       "id": "u3-m02",
       "unit": 3,
       "question": "The pressor response to angiotensin I is abolished by captopril because:",
-      "options": ["Captopril blocks AT1 receptors directly", "Captopril inhibits ACE, preventing conversion of angiotensin I to angiotensin II", "Captopril blocks renin release", "Captopril increases bradykinin breakdown"],
-      "correct": 1,
+      "options": [
+        "Captopril blocks AT1 receptors directly",
+        "Captopril increases bradykinin breakdown",
+        "Captopril blocks renin release",
+        "Captopril inhibits ACE, preventing conversion of angiotensin I to angiotensin II"
+      ],
+      "correct": 3,
       "explanation": "Angiotensin I requires ACE-mediated conversion to angiotensin II to exert its full pressor effect. Captopril (ACE inhibitor) blocks this conversion; the residual pressor effect of Ang I is abolished. Ang II is unaffected.",
       "probability": "high"
     },
@@ -382,7 +592,12 @@
       "id": "u3-m03",
       "unit": 3,
       "question": "Dale's vasomotor reversal refers to:",
-      "options": ["The fall in blood pressure after adrenaline in an alpha-blocked cat", "The paradoxical fall in blood pressure after noradrenaline", "The unmasking of a rise in blood pressure after ACh injection following atropine", "The reversal of bradycardia by atropine"],
+      "options": [
+        "The fall in blood pressure after adrenaline in an alpha-blocked cat",
+        "The paradoxical fall in blood pressure after noradrenaline",
+        "The unmasking of a rise in blood pressure after ACh injection following atropine",
+        "The reversal of bradycardia by atropine"
+      ],
       "correct": 2,
       "explanation": "In an anaesthetised cat, ACh produces a fall in BP (muscarinic). After atropine blocks the muscarinic component, the same dose of ACh now shows a rise in BP — the nicotinic component (ganglionic stimulation releasing catecholamines) unmasked.",
       "probability": "high"
@@ -391,7 +606,12 @@
       "id": "u3-m04",
       "unit": 3,
       "question": "In cascade superfusion, what is the advantage of using multiple tissue preparations in series?",
-      "options": ["Each preparation receives the same concentration of test substance simultaneously, allowing simultaneous identification of multiple autacoids", "The preparation sequence amplifies the drug concentration", "The tissues are exposed to different temperatures", "It eliminates the need for Krebs solution"],
+      "options": [
+        "Each preparation receives the same concentration of test substance simultaneously, allowing simultaneous identification of multiple autacoids",
+        "The preparation sequence amplifies the drug concentration",
+        "The tissues are exposed to different temperatures",
+        "It eliminates the need for Krebs solution"
+      ],
       "correct": 0,
       "explanation": "In cascade superfusion the perfusate flows over each selective tissue in turn; all receive the same concentration. Combined with selective blockers on individual tissues, multiple autacoids in one sample can be identified simultaneously.",
       "probability": "medium"
@@ -400,7 +620,12 @@
       "id": "u3-m05",
       "unit": 3,
       "question": "Which autacoid is primarily responsible for the Phase 2 (1–3 h) oedema in the carrageenan paw oedema model?",
-      "options": ["Histamine", "5-Hydroxytryptamine", "Prostaglandins", "Bradykinin"],
+      "options": [
+        "Histamine",
+        "5-Hydroxytryptamine",
+        "Prostaglandins",
+        "Bradykinin"
+      ],
       "correct": 2,
       "explanation": "Phase 2 oedema (1–3 h post-carrageenan) is driven by prostaglandins (PGE2, PGI2) produced via inducible COX-2. NSAIDs are most active at this phase, which is why the 3-hour time point is used for NSAID screening.",
       "probability": "high"
@@ -409,8 +634,13 @@
       "id": "u3-m06",
       "unit": 3,
       "question": "Bradykinin contracts the guinea pig ileum through:",
-      "options": ["H1 receptors", "B2 receptors", "5-HT3 receptors", "Muscarinic M3 receptors"],
-      "correct": 1,
+      "options": [
+        "H1 receptors",
+        "Muscarinic M3 receptors",
+        "5-HT3 receptors",
+        "B2 receptors"
+      ],
+      "correct": 3,
       "explanation": "Bradykinin acts on B2 (bradykinin) receptors expressed on the smooth muscle and intrinsic neurons of the guinea pig ileum. The contraction is slower and more sustained than the histamine response.",
       "probability": "high"
     },
@@ -418,8 +648,13 @@
       "id": "u3-m07",
       "unit": 3,
       "question": "The bioassay of ACh on the isolated frog heart exploits its effect on:",
-      "options": ["Nicotinic receptors at the neuromuscular junction", "Muscarinic M2 receptors reducing rate and force", "α1-adrenoceptors increasing cardiac output", "β1-adrenoceptors increasing heart rate"],
-      "correct": 1,
+      "options": [
+        "Nicotinic receptors at the neuromuscular junction",
+        "β1-adrenoceptors increasing heart rate",
+        "α1-adrenoceptors increasing cardiac output",
+        "Muscarinic M2 receptors reducing rate and force"
+      ],
+      "correct": 3,
       "explanation": "ACh slows the frog heart through muscarinic M2 receptors (Gi, reduced cAMP, reduced If and ICa,L currents). This is the basis of the cardio-inhibitory bioassay; atropine abolishes the response.",
       "probability": "medium"
     },
@@ -427,8 +662,13 @@
       "id": "u3-m08",
       "unit": 3,
       "question": "Which antagonist is used to confirm that a contraction of the guinea pig ileum is mediated by H1 receptors?",
-      "options": ["Atropine", "Mepyramine (pyrilamine)", "Icatibant", "Methysergide"],
-      "correct": 1,
+      "options": [
+        "Atropine",
+        "Methysergide",
+        "Icatibant",
+        "Mepyramine (pyrilamine)"
+      ],
+      "correct": 3,
       "explanation": "Mepyramine (pyrilamine) is a selective, competitive H1 receptor antagonist. If the contraction is blocked by mepyramine but not by atropine or methysergide, it is confirmed as an H1-mediated histamine response.",
       "probability": "high"
     },
@@ -436,8 +676,13 @@
       "id": "u3-m09",
       "unit": 3,
       "question": "PGE2 added to the rat colon longitudinal muscle preparation causes:",
-      "options": ["Contraction via FP receptors", "Relaxation via EP2 receptors", "No effect", "Contraction via TP receptors"],
-      "correct": 1,
+      "options": [
+        "Contraction via FP receptors",
+        "Contraction via TP receptors",
+        "No effect",
+        "Relaxation via EP2 receptors"
+      ],
+      "correct": 3,
       "explanation": "PGE2 relaxes rat colon longitudinal muscle through EP2 receptors (Gs, cAMP), which inhibits smooth muscle contraction. PGF2α contracts via FP receptors. This opposite response in the cascade superfusion distinguishes the two prostaglandins.",
       "probability": "medium"
     },
@@ -445,7 +690,12 @@
       "id": "u3-m10",
       "unit": 3,
       "question": "Which of the following is the main advantage of in-vitro bioassay over in-vivo bioassay?",
-      "options": ["It detects pharmacokinetic interactions", "It captures whole-animal reflex compensation", "Lower variability and direct receptor characterisation", "It requires more animals per experiment"],
+      "options": [
+        "It detects pharmacokinetic interactions",
+        "It captures whole-animal reflex compensation",
+        "Lower variability and direct receptor characterisation",
+        "It requires more animals per experiment"
+      ],
       "correct": 2,
       "explanation": "In-vitro assays use isolated tissues under controlled conditions (temperature, pH, O2, ionic composition), excluding reflexes and counter-regulation. This gives lower variability and direct information about receptor type and intrinsic potency.",
       "probability": "high"
@@ -454,7 +704,12 @@
       "id": "u3-m11",
       "unit": 3,
       "question": "Which of the following autacoids is primarily stored in and released from platelets?",
-      "options": ["Histamine", "Bradykinin", "5-Hydroxytryptamine", "Prostaglandin I2"],
+      "options": [
+        "Histamine",
+        "Bradykinin",
+        "5-Hydroxytryptamine",
+        "Prostaglandin I2"
+      ],
       "correct": 2,
       "explanation": "Platelets actively take up 5-HT from portal blood via the serotonin transporter (SERT) and store it in dense granules. On platelet activation (aggregation), 5-HT is released locally.",
       "probability": "medium"
@@ -463,7 +718,12 @@
       "id": "u3-m12",
       "unit": 3,
       "question": "Which enzyme converts angiotensin I to angiotensin II?",
-      "options": ["Renin", "Bradykinin peptidase", "Angiotensin-converting enzyme (ACE)", "Chymase"],
+      "options": [
+        "Renin",
+        "Bradykinin peptidase",
+        "Angiotensin-converting enzyme (ACE)",
+        "Chymase"
+      ],
       "correct": 2,
       "explanation": "ACE (kininase II) is a zinc metallopeptidase located predominantly on pulmonary endothelium. It removes the C-terminal dipeptide His-Leu from angiotensin I to form the active octapeptide angiotensin II.",
       "probability": "medium"
@@ -472,8 +732,13 @@
       "id": "u3-m13",
       "unit": 3,
       "question": "The bioassay of histamine on the cat blood pressure preparation involves:",
-      "options": ["A rise in blood pressure via H2 receptors", "A fall in blood pressure via H1-mediated vasodilation", "A reflex bradycardia via vagal activation", "A rise in blood pressure via nicotinic ganglion stimulation"],
-      "correct": 1,
+      "options": [
+        "A rise in blood pressure via H2 receptors",
+        "A rise in blood pressure via nicotinic ganglion stimulation",
+        "A reflex bradycardia via vagal activation",
+        "A fall in blood pressure via H1-mediated vasodilation"
+      ],
+      "correct": 3,
       "explanation": "Histamine i.v. in an anaesthetised cat produces a fall in MAP via H1 receptors on vascular endothelium and smooth muscle (vasodilation, increased capillary permeability). An H2-mediated tachycardia may also occur.",
       "probability": "medium"
     },
@@ -481,7 +746,12 @@
       "id": "u3-m14",
       "unit": 3,
       "question": "The standard interpolation formula for estimating the potency of an unknown from a standard curve is:",
-      "options": ["log[dose_U] = log[S_low] + (r_U − r_low)/(r_high − r_low) × (log[S_high] − log[S_low])", "Potency = r_U × r_low / r_high", "log[dose_U] = r_U / slope", "Potency ratio = antilog(r_high − r_U)"],
+      "options": [
+        "log[dose_U] = log[S_low] + (r_U − r_low)/(r_high − r_low) × (log[S_high] − log[S_low])",
+        "Potency = r_U × r_low / r_high",
+        "log[dose_U] = r_U / slope",
+        "Potency ratio = antilog(r_high − r_U)"
+      ],
       "correct": 0,
       "explanation": "Linear interpolation on the log-dose axis: the unknown response r_U is located proportionally between the low and high standard responses to find its log-dose, from which the equivalent standard dose (and hence potency) is derived.",
       "probability": "high"
@@ -490,7 +760,12 @@
       "id": "u3-m15",
       "unit": 3,
       "question": "In the cascade superfusion system, selective antagonists are applied to individual tissues in order to:",
-      "options": ["Increase the temperature of that tissue only", "Block all responses uniformly", "Confirm the identity of the substance responsible for each tissue's response", "Replace the need for a standard curve"],
+      "options": [
+        "Increase the temperature of that tissue only",
+        "Block all responses uniformly",
+        "Confirm the identity of the substance responsible for each tissue's response",
+        "Replace the need for a standard curve"
+      ],
       "correct": 2,
       "explanation": "By adding a selective antagonist (e.g., mepyramine over the guinea pig ileum), the specific autacoid mediating that tissue's response can be confirmed. If the response disappears with mepyramine, the substance is histamine.",
       "probability": "medium"
@@ -499,8 +774,13 @@
       "id": "u3-m16",
       "unit": 3,
       "question": "Which autacoid is generated by the action of kallikrein on plasma kininogens?",
-      "options": ["Histamine", "Bradykinin", "Angiotensin II", "5-HT"],
-      "correct": 1,
+      "options": [
+        "Histamine",
+        "5-HT",
+        "Angiotensin II",
+        "Bradykinin"
+      ],
+      "correct": 3,
       "explanation": "Plasma kallikrein cleaves high-molecular-weight kininogen to release bradykinin (a nonapeptide). Tissue kallikrein releases kallidin (lysyl-bradykinin) from low-molecular-weight kininogen; both act on B2 receptors.",
       "probability": "medium"
     },
@@ -508,8 +788,13 @@
       "id": "u3-m17",
       "unit": 3,
       "question": "Which receptor mediates the contractile response of bradykinin on the rat uterus?",
-      "options": ["B1 receptor", "B2 receptor", "Oxytocin receptor", "AT1 receptor"],
-      "correct": 1,
+      "options": [
+        "B1 receptor",
+        "AT1 receptor",
+        "Oxytocin receptor",
+        "B2 receptor"
+      ],
+      "correct": 3,
       "explanation": "Bradykinin acts on B2 receptors to contract the rat uterus (Gq/IP3/Ca2+). The B2 receptor mediates most acute bradykinin actions; B1 receptors are upregulated in chronic inflammation.",
       "probability": "medium"
     },
@@ -517,7 +802,12 @@
       "id": "u3-m18",
       "unit": 3,
       "question": "The clam heart preparation (Venus mercenaria) is characterised by its high sensitivity to:",
-      "options": ["Histamine", "Angiotensin II", "5-Hydroxytryptamine (serotonin)", "Bradykinin"],
+      "options": [
+        "Histamine",
+        "Angiotensin II",
+        "5-Hydroxytryptamine (serotonin)",
+        "Bradykinin"
+      ],
       "correct": 2,
       "explanation": "The clam heart preparation is exquisitely sensitive to 5-HT at concentrations as low as 0.5 ng/mL, with positive chronotropic and inotropic effects. It is relatively insensitive to histamine and catecholamines.",
       "probability": "medium"
@@ -526,7 +816,12 @@
       "id": "u3-m19",
       "unit": 3,
       "question": "In-vivo bioassay of angiotensin on rat blood pressure requires which route of administration for standardised results?",
-      "options": ["Oral gavage", "Subcutaneous injection", "Intravenous injection via femoral vein cannula", "Intramuscular injection"],
+      "options": [
+        "Oral gavage",
+        "Subcutaneous injection",
+        "Intravenous injection via femoral vein cannula",
+        "Intramuscular injection"
+      ],
       "correct": 2,
       "explanation": "Angiotensin peptides are rapidly hydrolysed in the GI tract and after s.c./i.m. administration. Intravenous injection gives immediate, dose-related pressor responses that can be precisely measured as changes in MAP.",
       "probability": "medium"
@@ -535,7 +830,12 @@
       "id": "u3-m20",
       "unit": 3,
       "question": "Which of the following differences distinguishes ACE inhibitors from AT1 antagonists in the rat blood pressure preparation?",
-      "options": ["ACE inhibitors block Ang I response but not Ang II; AT1 antagonists block both", "ACE inhibitors block both Ang I and Ang II; AT1 antagonists block neither", "AT1 antagonists block Ang I but not Ang II", "Both block Ang I and Ang II equally"],
+      "options": [
+        "ACE inhibitors block Ang I response but not Ang II; AT1 antagonists block both",
+        "ACE inhibitors block both Ang I and Ang II; AT1 antagonists block neither",
+        "AT1 antagonists block Ang I but not Ang II",
+        "Both block Ang I and Ang II equally"
+      ],
       "correct": 0,
       "explanation": "ACE inhibitors (captopril, enalapril) block the conversion of Ang I to Ang II, so they inhibit the Ang I pressor response but cannot block Ang II, which acts directly on AT1 receptors. AT1 antagonists (losartan) block AT1 receptors and inhibit both Ang I (via Ang II) and Ang II responses.",
       "probability": "high"
@@ -544,8 +844,13 @@
       "id": "u4-m01",
       "unit": 4,
       "question": "The actophotometer measures CNS drug activity as:",
-      "options": ["Spontaneous electrical activity in the brain", "Number of infrared beam interruptions per unit time (locomotor activity)", "Tail flick latency to radiant heat", "Duration of sleep after a hypnotic dose"],
-      "correct": 1,
+      "options": [
+        "Spontaneous electrical activity in the brain",
+        "Duration of sleep after a hypnotic dose",
+        "Tail flick latency to radiant heat",
+        "Number of infrared beam interruptions per unit time (locomotor activity)"
+      ],
+      "correct": 3,
       "explanation": "The actophotometer has infrared beams across a cage. Each time the animal moves across a beam it is interrupted and counted. CNS stimulants increase counts; CNS depressants decrease them.",
       "probability": "high"
     },
@@ -553,8 +858,13 @@
       "id": "u4-m02",
       "unit": 4,
       "question": "In the pentobarbitone sleeping time model, a CNS depressant drug produces which effect?",
-      "options": ["Reduces the sleeping time", "Prolongs the sleeping time", "Abolishes the sleeping time", "Has no effect on sleeping time"],
-      "correct": 1,
+      "options": [
+        "Reduces the sleeping time",
+        "Has no effect on sleeping time",
+        "Abolishes the sleeping time",
+        "Prolongs the sleeping time"
+      ],
+      "correct": 3,
       "explanation": "A sub-hypnotic dose of pentobarbitone alone does not induce sleep. When a CNS depressant is given before it, the combined depressant action exceeds the threshold, and the sleeping time is significantly prolonged. Reference drug: diazepam.",
       "probability": "high"
     },
@@ -562,8 +872,13 @@
       "id": "u4-m03",
       "unit": 4,
       "question": "In the elevated plus maze (EPM), an anxiolytic drug increases:",
-      "options": ["Time spent in closed arms", "Time spent in open arms", "Total locomotor activity", "Rotarod fall time"],
-      "correct": 1,
+      "options": [
+        "Time spent in closed arms",
+        "Rotarod fall time",
+        "Total locomotor activity",
+        "Time spent in open arms"
+      ],
+      "correct": 3,
       "explanation": "Normal rodents prefer enclosed arms (thigmotaxis). Anxiolytic drugs reduce the fear of open spaces, so the animals spend more time in the open, brightly lit arms. This is the primary EPM endpoint.",
       "probability": "high"
     },
@@ -571,8 +886,13 @@
       "id": "u4-m04",
       "unit": 4,
       "question": "In the forced swim test (Porsolt despair test), antidepressants produce:",
-      "options": ["An increase in immobility time", "A decrease in immobility time", "An increase in swimming speed only", "No change in immobility time"],
-      "correct": 1,
+      "options": [
+        "An increase in immobility time",
+        "No change in immobility time",
+        "An increase in swimming speed only",
+        "A decrease in immobility time"
+      ],
+      "correct": 3,
       "explanation": "Antidepressants (TCAs, SSRIs, MAO inhibitors, SNRIs) all reduce the time spent passively floating (immobility) in the forced swim test. The model is based on the concept of behavioural despair.",
       "probability": "high"
     },
@@ -580,8 +900,13 @@
       "id": "u4-m05",
       "unit": 4,
       "question": "In the maximal electroshock seizure (MES) test, the endpoint that indicates protection is:",
-      "options": ["Absence of myoclonic jerks", "Abolition of tonic hind limb extension (THE)", "Prolonged tonic extension", "Increased amplitude of EEG discharge"],
-      "correct": 1,
+      "options": [
+        "Absence of myoclonic jerks",
+        "Increased amplitude of EEG discharge",
+        "Prolonged tonic extension",
+        "Abolition of tonic hind limb extension (THE)"
+      ],
+      "correct": 3,
       "explanation": "MES produces a characteristic tonic hind limb extension (THE) in unprotected mice. Abolition of THE indicates that the drug prevents the spread of the tonic component of the seizure, predicting activity against tonic-clonic seizures.",
       "probability": "high"
     },
@@ -589,8 +914,13 @@
       "id": "u4-m06",
       "unit": 4,
       "question": "Ethosuximide is active in the PTZ test but NOT in the MES test because it:",
-      "options": ["Blocks voltage-gated sodium channels (Na+ channel blocker)", "Blocks T-type calcium channels (reduces thalamic pacemaker activity underlying absence seizures)", "Enhances GABA-A receptor opening", "Blocks NMDA receptors"],
-      "correct": 1,
+      "options": [
+        "Blocks voltage-gated sodium channels (Na+ channel blocker)",
+        "Blocks NMDA receptors",
+        "Enhances GABA-A receptor opening",
+        "Blocks T-type calcium channels (reduces thalamic pacemaker activity underlying absence seizures)"
+      ],
+      "correct": 3,
       "explanation": "Ethosuximide is a T-type (thalamic, low-threshold) Ca2+ channel blocker. It prevents the thalamo-cortical oscillations that generate absence seizures (detected by PTZ) but has no effect on Na+ channels, so it is inactive in MES.",
       "probability": "high"
     },
@@ -598,7 +928,12 @@
       "id": "u4-m07",
       "unit": 4,
       "question": "The carrageenan-induced paw oedema at the 3-hour time point specifically tests for:",
-      "options": ["Histamine H1 antagonist activity", "Mast cell stabiliser activity", "Cyclooxygenase (COX) inhibitor activity", "5-HT antagonist activity"],
+      "options": [
+        "Histamine H1 antagonist activity",
+        "Mast cell stabiliser activity",
+        "Cyclooxygenase (COX) inhibitor activity",
+        "5-HT antagonist activity"
+      ],
       "correct": 2,
       "explanation": "Phase 2 (1–3 h) is driven by prostaglandins generated via COX (COX-1 and induced COX-2). NSAIDs and selective COX-2 inhibitors reduce 3-hour oedema and are screened at this time point. Reference drug: indomethacin.",
       "probability": "high"
@@ -607,8 +942,13 @@
       "id": "u4-m08",
       "unit": 4,
       "question": "In the acetic acid-induced writhing test, which class of analgesics is detected that is NOT detected reliably by the hot plate test?",
-      "options": ["Strong opioids (morphine)", "Mild NSAIDs (aspirin at clinical doses)", "Spinal cord analgesics", "Supraspinal analgesics"],
-      "correct": 1,
+      "options": [
+        "Strong opioids (morphine)",
+        "Supraspinal analgesics",
+        "Spinal cord analgesics",
+        "Mild NSAIDs (aspirin at clinical doses)"
+      ],
+      "correct": 3,
       "explanation": "The writhing test is a visceral pain model sensitive to both opioids AND NSAIDs (including aspirin at clinical doses), because the peritoneal irritation releases prostaglandins. The hot plate test (thermal, supraspinal) detects opioids but is relatively insensitive to NSAIDs.",
       "probability": "high"
     },
@@ -616,7 +956,12 @@
       "id": "u4-m09",
       "unit": 4,
       "question": "The cut-off time in the hot plate test for mice is set at 60 seconds in order to:",
-      "options": ["Allow maximum drug action", "Prevent tissue damage from prolonged contact with the hot plate", "Standardise the temperature", "Match the tail flick assay duration"],
+      "options": [
+        "Allow maximum drug action",
+        "Prevent tissue damage from prolonged contact with the hot plate",
+        "Standardise the temperature",
+        "Match the tail flick assay duration"
+      ],
       "correct": 1,
       "explanation": "Without a cut-off, the sustained heat contact would cause burns. The cut-off time (60 s for mice, 45 s for rats) is a refinement to prevent tissue damage while still allowing detection of analgesic-induced latency increases.",
       "probability": "high"
@@ -625,7 +970,12 @@
       "id": "u4-m10",
       "unit": 4,
       "question": "The formalin test Phase 1 (0–5 min) reflects which type of pain?",
-      "options": ["Inflammatory pain mediated by prostaglandins", "Neurogenic pain from direct C-fibre activation by formaldehyde", "Spinal reflex pain", "Supraspinal pain requiring cortical processing"],
+      "options": [
+        "Inflammatory pain mediated by prostaglandins",
+        "Neurogenic pain from direct C-fibre activation by formaldehyde",
+        "Spinal reflex pain",
+        "Supraspinal pain requiring cortical processing"
+      ],
       "correct": 1,
       "explanation": "Phase 1 is an immediate neurogenic response to chemical stimulation of nociceptors (C-fibres) by formaldehyde itself, before any significant inflammation develops. Opioids reduce Phase 1; NSAIDs do not.",
       "probability": "high"
@@ -634,7 +984,12 @@
       "id": "u4-m11",
       "unit": 4,
       "question": "The cotton pellet granuloma model of chronic inflammation primarily reflects:",
-      "options": ["The acute exudative phase only", "Both the exudative and the proliferative (granulation tissue) phases over 7 days", "Only the histamine-mediated component", "The immune-mediated secondary arthritis"],
+      "options": [
+        "The acute exudative phase only",
+        "Both the exudative and the proliferative (granulation tissue) phases over 7 days",
+        "Only the histamine-mediated component",
+        "The immune-mediated secondary arthritis"
+      ],
       "correct": 1,
       "explanation": "Cotton pellets implanted for 7 days develop both an early transudative phase (fluid accumulation, reflected in wet weight) and a late proliferative phase (fibroblast/collagen deposition, reflected in dry weight). Both phases are relevant targets for anti-inflammatory drugs.",
       "probability": "medium"
@@ -643,7 +998,12 @@
       "id": "u4-m12",
       "unit": 4,
       "question": "Which reference drug is used in the Freund's adjuvant arthritis model to represent disease-modifying activity?",
-      "options": ["Indomethacin", "Paracetamol", "Methotrexate", "Dexamethasone"],
+      "options": [
+        "Indomethacin",
+        "Paracetamol",
+        "Methotrexate",
+        "Dexamethasone"
+      ],
       "correct": 2,
       "explanation": "Methotrexate at 2–3 mg/kg per week is the reference DMARD (disease-modifying antirheumatic drug) in the Freund's adjuvant model, particularly for suppression of the secondary (immune-mediated) lesion.",
       "probability": "medium"
@@ -652,7 +1012,12 @@
       "id": "u4-m13",
       "unit": 4,
       "question": "The rotarod test is used to distinguish true anxiolysis from sedation because:",
-      "options": ["Sedatives impair motor coordination (animals fall from the rotarod); a true anxiolytic at anxiolytic doses does not", "Sedatives increase open arm time in the EPM", "Anxiolytics prolong sleeping time in the pentobarbitone test", "Anxiolytics reduce locomotor activity in the actophotometer"],
+      "options": [
+        "Sedatives impair motor coordination (animals fall from the rotarod); a true anxiolytic at anxiolytic doses does not",
+        "Sedatives increase open arm time in the EPM",
+        "Anxiolytics prolong sleeping time in the pentobarbitone test",
+        "Anxiolytics reduce locomotor activity in the actophotometer"
+      ],
       "correct": 0,
       "explanation": "On the rotarod, sedating drugs impair the ability to remain on the rotating drum (fall time decreases). A true anxiolytic like buspirone (5-HT1A partial agonist) increases open arm time in the EPM without reducing rotarod performance, demonstrating separation of anxiolysis from sedation.",
       "probability": "medium"
@@ -661,7 +1026,12 @@
       "id": "u4-m14",
       "unit": 4,
       "question": "In the apomorphine-induced stereotypy model of antipsychotic screening, apomorphine produces stereotypy by:",
-      "options": ["Blocking dopamine D2 receptors", "Activating dopamine D2 receptors (agonist)", "Blocking 5-HT2 receptors", "Releasing histamine from mast cells"],
+      "options": [
+        "Blocking dopamine D2 receptors",
+        "Activating dopamine D2 receptors (agonist)",
+        "Blocking 5-HT2 receptors",
+        "Releasing histamine from mast cells"
+      ],
       "correct": 1,
       "explanation": "Apomorphine is a direct dopamine D2 (and D1) receptor agonist. It produces repetitive gnawing, licking and head-bobbing (stereotypy) by over-stimulating dopaminergic circuits. D2 antagonists (haloperidol, chlorpromazine) suppress this stereotypy.",
       "probability": "medium"
@@ -670,7 +1040,12 @@
       "id": "u4-m15",
       "unit": 4,
       "question": "The Randall-Selitto test measures:",
-      "options": ["Latency to tail flick from radiant heat", "Paw pressure threshold for vocalisation in a carrageenan-inflamed rat", "Number of writhes after acetic acid", "Duration of immobility in the forced swim test"],
+      "options": [
+        "Latency to tail flick from radiant heat",
+        "Paw pressure threshold for vocalisation in a carrageenan-inflamed rat",
+        "Number of writhes after acetic acid",
+        "Duration of immobility in the forced swim test"
+      ],
       "correct": 1,
       "explanation": "The Randall-Selitto apparatus applies increasing pressure to an inflamed rat paw; the pressure (grams) at which the rat vocalises or withdraws is the paw pressure threshold (PPT). After carrageenan-induced inflammation, PPT falls (hyperalgesia); analgesics restore PPT toward normal.",
       "probability": "medium"
@@ -679,7 +1054,12 @@
       "id": "u4-m16",
       "unit": 4,
       "question": "In the tail suspension test for antidepressant activity, why is it not usable in rats?",
-      "options": ["Rats are insensitive to antidepressants", "Rats climb their own tails, invalidating the immobility measurement", "Rats have a tail flick reflex", "Rats cannot be suspended by the tail safely"],
+      "options": [
+        "Rats are insensitive to antidepressants",
+        "Rats climb their own tails, invalidating the immobility measurement",
+        "Rats have a tail flick reflex",
+        "Rats cannot be suspended by the tail safely"
+      ],
       "correct": 1,
       "explanation": "Unlike mice, rats are able to curl up and grasp their own tails while suspended, escaping the helpless position. This makes immobility measurements unreliable in rats, so the forced swim test is used instead.",
       "probability": "medium"
@@ -688,7 +1068,12 @@
       "id": "u4-m17",
       "unit": 4,
       "question": "Which mediators account for the Phase 1 (0–1 hour) carrageenan-induced paw oedema?",
-      "options": ["Prostaglandins and leukotrienes", "Histamine and 5-HT", "Bradykinin and substance P", "Nitric oxide and PAF"],
+      "options": [
+        "Prostaglandins and leukotrienes",
+        "Histamine and 5-HT",
+        "Bradykinin and substance P",
+        "Nitric oxide and PAF"
+      ],
       "correct": 1,
       "explanation": "Phase 1 (0–1 hour) is caused by histamine and 5-HT released from local mast cells. H1 antihistamines and 5-HT antagonists reduce this phase, but NSAIDs do not.",
       "probability": "high"
@@ -697,7 +1082,12 @@
       "id": "u4-m18",
       "unit": 4,
       "question": "The tail flick test detects opioid analgesics because they act primarily at:",
-      "options": ["Supraspinal cortical pathways", "Spinal cord dorsal horn μ-opioid receptors reducing afferent nociceptive transmission", "Peripheral C-fibres directly", "Hypothalamic thermostat centres"],
+      "options": [
+        "Supraspinal cortical pathways",
+        "Spinal cord dorsal horn μ-opioid receptors reducing afferent nociceptive transmission",
+        "Peripheral C-fibres directly",
+        "Hypothalamic thermostat centres"
+      ],
       "correct": 1,
       "explanation": "The tail flick is a spinal reflex modulated by descending inhibitory pathways. Opioids inhibit synaptic transmission in the spinal dorsal horn via μ-receptors (presynaptic inhibition of substance P release; postsynaptic hyperpolarisation), increasing the latency to tail flick.",
       "probability": "high"
@@ -706,7 +1096,12 @@
       "id": "u4-m19",
       "unit": 4,
       "question": "Which anti-inflammatory model is most relevant to testing a DMARD (disease-modifying antirheumatic drug)?",
-      "options": ["Carrageenan paw oedema (3 h)", "Cotton pellet granuloma (7 days)", "Freund's complete adjuvant-induced arthritis (21 days)", "Acetic acid peritonitis (4 h)"],
+      "options": [
+        "Carrageenan paw oedema (3 h)",
+        "Cotton pellet granuloma (7 days)",
+        "Freund's complete adjuvant-induced arthritis (21 days)",
+        "Acetic acid peritonitis (4 h)"
+      ],
       "correct": 2,
       "explanation": "The Freund's adjuvant model develops immune-mediated polyarthritis (secondary lesion) resembling rheumatoid arthritis. DMARDs like methotrexate suppress the secondary immune lesion, while NSAIDs mainly suppress the primary injection-site inflammation.",
       "probability": "medium"
@@ -715,7 +1110,12 @@
       "id": "u4-m20",
       "unit": 4,
       "question": "The catalepsy bar test for antipsychotic activity measures:",
-      "options": ["Apomorphine-induced stereotypy score", "Time the animal maintains a rigid posture imposed by placing its forepaws on a bar", "Duration of conditioned avoidance of a warning signal", "Fall time from a rotarod"],
+      "options": [
+        "Apomorphine-induced stereotypy score",
+        "Time the animal maintains a rigid posture imposed by placing its forepaws on a bar",
+        "Duration of conditioned avoidance of a warning signal",
+        "Fall time from a rotarod"
+      ],
       "correct": 1,
       "explanation": "In the catalepsy bar test, the rat's forepaws are placed on a horizontal bar. Normal rats quickly remove their paws; dopamine D2 antagonists produce akinesia and rigidity (catalepsy), so the rat remains motionless for a long time. Haloperidol is the reference; atypical antipsychotics (clozapine) produce less catalepsy.",
       "probability": "medium"
@@ -724,7 +1124,12 @@
       "id": "u5-m01",
       "unit": 5,
       "question": "In Lorke's method for LD50 determination, Stage 1 uses:",
-      "options": ["10 animals per group at 3 doses", "3 animals per group at doses of 10, 100 and 1000 mg/kg", "1 animal per dose at 4 doses", "5 animals per group at 5 doses"],
+      "options": [
+        "10 animals per group at 3 doses",
+        "3 animals per group at doses of 10, 100 and 1000 mg/kg",
+        "1 animal per dose at 4 doses",
+        "5 animals per group at 5 doses"
+      ],
       "correct": 1,
       "explanation": "Stage 1 of Lorke's method uses 3 mice per group at 10, 100 and 1000 mg/kg (3 doses spanning three orders of magnitude), totalling 9 animals. The mortality pattern guides the choice of 4 doses in Stage 2.",
       "probability": "high"
@@ -733,7 +1138,12 @@
       "id": "u5-m02",
       "unit": 5,
       "question": "The LD50 is calculated by Lorke's method as:",
-      "options": ["Arithmetic mean of the two lethal doses", "Geometric mean of the highest zero-mortality dose and the lowest 100% mortality dose", "Median of all doses used", "Harmonic mean of all doses tested"],
+      "options": [
+        "Arithmetic mean of the two lethal doses",
+        "Geometric mean of the highest zero-mortality dose and the lowest 100% mortality dose",
+        "Median of all doses used",
+        "Harmonic mean of all doses tested"
+      ],
       "correct": 1,
       "explanation": "LD50 = √(D0 × D1), which is the geometric mean of D0 (highest dose with 0% mortality) and D1 (lowest dose with 100% mortality) from Stage 2.",
       "probability": "high"
@@ -742,7 +1152,12 @@
       "id": "u5-m03",
       "unit": 5,
       "question": "The area under the plasma concentration-time curve (AUC) is calculated by:",
-      "options": ["Summing the product of each concentration and its time", "The linear trapezoidal method: Σ [(Ci + Ci+1)/2 × (ti+1 − ti)]", "Dividing Cmax by the elimination rate constant", "Multiplying Cmax by t½"],
+      "options": [
+        "Summing the product of each concentration and its time",
+        "The linear trapezoidal method: Σ [(Ci + Ci+1)/2 × (ti+1 − ti)]",
+        "Dividing Cmax by the elimination rate constant",
+        "Multiplying Cmax by t½"
+      ],
       "correct": 1,
       "explanation": "The linear trapezoidal method divides the plasma concentration-time curve into consecutive trapezoids; the area of each is [(Ci + Ci+1)/2] × (ti+1 − ti). Their sum gives AUC(0 to last time point). AUC(last to infinity) = Clast/λz.",
       "probability": "high"
@@ -751,7 +1166,12 @@
       "id": "u5-m04",
       "unit": 5,
       "question": "Total body clearance (CL) after an intravenous dose is calculated as:",
-      "options": ["Dose × AUC", "Dose / AUC", "AUC / t½", "Vd × Cmax"],
+      "options": [
+        "Dose × AUC",
+        "Dose / AUC",
+        "AUC / t½",
+        "Vd × Cmax"
+      ],
       "correct": 1,
       "explanation": "CL = Dose(IV) / AUC(0→∞). This is the volume of plasma cleared of drug per unit time and is the fundamental determinant of steady-state plasma concentration during continuous dosing.",
       "probability": "high"
@@ -760,7 +1180,12 @@
       "id": "u5-m05",
       "unit": 5,
       "question": "Absolute oral bioavailability (F) is calculated as:",
-      "options": ["AUC(PO) / AUC(IV)", "[AUC(PO)/Dose(PO)] / [AUC(IV)/Dose(IV)] × 100%", "Cmax(PO) / Cmax(IV)", "t½(PO) / t½(IV)"],
+      "options": [
+        "AUC(PO) / AUC(IV)",
+        "[AUC(PO)/Dose(PO)] / [AUC(IV)/Dose(IV)] × 100%",
+        "Cmax(PO) / Cmax(IV)",
+        "t½(PO) / t½(IV)"
+      ],
       "correct": 1,
       "explanation": "F compares dose-normalised exposures after oral and intravenous administration. F = [AUC(PO)/Dose(PO)] / [AUC(IV)/Dose(IV)] × 100%. If the same dose is given by both routes, F simplifies to AUC(PO)/AUC(IV) × 100%.",
       "probability": "high"
@@ -769,7 +1194,12 @@
       "id": "u5-m06",
       "unit": 5,
       "question": "NOAEL stands for:",
-      "options": ["No Observable Adverse Effect Level", "No Observed Adverse Effect Level", "Normal Operating Adverse Event Limit", "Non-Observed Acceptable Exposure Level"],
+      "options": [
+        "No Observable Adverse Effect Level",
+        "No Observed Adverse Effect Level",
+        "Normal Operating Adverse Event Limit",
+        "Non-Observed Acceptable Exposure Level"
+      ],
       "correct": 1,
       "explanation": "NOAEL (No Observed Adverse Effect Level) is the highest dose in a repeated-dose toxicity study at which no statistically or biologically significant adverse effect is detected. It is used to calculate the maximum recommended starting dose for Phase I trials.",
       "probability": "high"
@@ -778,7 +1208,12 @@
       "id": "u5-m07",
       "unit": 5,
       "question": "The Ames test detects:",
-      "options": ["Clastogenic activity (chromosome breakage)", "Mutagenic activity (base-pair or frameshift mutations in bacteria)", "Teratogenic potential in rodents", "Carcinogenicity in a 2-year rodent study"],
+      "options": [
+        "Clastogenic activity (chromosome breakage)",
+        "Mutagenic activity (base-pair or frameshift mutations in bacteria)",
+        "Teratogenic potential in rodents",
+        "Carcinogenicity in a 2-year rodent study"
+      ],
       "correct": 1,
       "explanation": "The Ames test uses histidine-auxotrophic Salmonella typhimurium strains. A mutagen restores the ability to synthesise histidine (reverse mutation), detected as bacterial colony growth on histidine-free medium. It detects base-pair substitutions and frameshift mutagens.",
       "probability": "high"
@@ -787,7 +1222,12 @@
       "id": "u5-m08",
       "unit": 5,
       "question": "The in-vivo micronucleus test is classified as a test for:",
-      "options": ["Mutagenicity", "Clastogenicity or aneugenicity (chromosome breakage or mis-segregation)", "Teratogenicity", "Hepatotoxicity"],
+      "options": [
+        "Mutagenicity",
+        "Clastogenicity or aneugenicity (chromosome breakage or mis-segregation)",
+        "Teratogenicity",
+        "Hepatotoxicity"
+      ],
       "correct": 1,
       "explanation": "Micronuclei are small nuclei in erythrocytes formed from chromosomal fragments (clastogenesis) or entire chromosomes that failed to segregate (aneugenesis) at mitosis. An increase in micronuclei in polychromatic erythrocytes indicates this genotoxic potential.",
       "probability": "high"
@@ -796,7 +1236,12 @@
       "id": "u5-m09",
       "unit": 5,
       "question": "ICH S4A guidance specifies the duration of repeated-dose toxicity studies required to support Phase III clinical trials of a drug intended for chronic use as:",
-      "options": ["28 days", "90 days", "6 months (rodents) and 9–12 months (non-rodents)", "24 months (carcinogenicity)"],
+      "options": [
+        "28 days",
+        "90 days",
+        "6 months (rodents) and 9–12 months (non-rodents)",
+        "24 months (carcinogenicity)"
+      ],
       "correct": 2,
       "explanation": "For drugs intended for chronic use in patients, a 6-month rodent and a 9-month non-rodent repeated-dose study is required to support Phase III. A 90-day study supports Phase II.",
       "probability": "high"
@@ -805,7 +1250,12 @@
       "id": "u5-m10",
       "unit": 5,
       "question": "Allometric scaling of clearance from rat to human uses the exponent:",
-      "options": ["0.5", "0.75", "1.0", "1.25"],
+      "options": [
+        "0.5",
+        "0.75",
+        "1.0",
+        "1.25"
+      ],
       "correct": 1,
       "explanation": "Clearance scales with body weight raised to the power 0.75 (basal metabolic rate exponent). This is because CL is linked to hepatic blood flow and enzyme activity, which scale with metabolic rate. Vd scales as (BW)^1.0.",
       "probability": "high"
@@ -814,7 +1264,12 @@
       "id": "u5-m11",
       "unit": 5,
       "question": "The terminal elimination half-life (t½) is calculated as:",
-      "options": ["AUC × λz", "0.693 / λz", "Vd / CL × 0.693", "Cmax / (CL × 0.693)"],
+      "options": [
+        "AUC × λz",
+        "0.693 / λz",
+        "Vd / CL × 0.693",
+        "Cmax / (CL × 0.693)"
+      ],
       "correct": 1,
       "explanation": "t½ = 0.693 / λz, where λz is the terminal elimination rate constant (the magnitude of the slope of the log-linear terminal phase of the plasma concentration-time curve). Note that t½ = Vd × ln2 / CL is the same formula rewritten.",
       "probability": "high"
@@ -823,7 +1278,12 @@
       "id": "u5-m12",
       "unit": 5,
       "question": "In a 28-day sub-acute toxicity study, which organ is NOT routinely weighed at termination?",
-      "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+      "options": [
+        "Liver",
+        "Kidney",
+        "Spleen",
+        "Pancreas"
+      ],
       "correct": 3,
       "explanation": "Standard organs weighed in a 28-day study include liver, kidney, heart, lung, spleen, adrenal glands, thyroid, gonads and brain. The pancreas is not routinely weighed unless a pancreatic signal is observed; it is examined histologically.",
       "probability": "medium"
@@ -832,7 +1292,12 @@
       "id": "u5-m13",
       "unit": 5,
       "question": "The pithed rat preparation is used to study cardiovascular drug effects because:",
-      "options": ["The heart is isolated from the circulation", "All CNS-mediated cardiovascular reflexes are abolished, allowing direct receptor pharmacology", "The systemic blood pressure is artificially maintained by a pump", "The sympathetic nerves are surgically removed"],
+      "options": [
+        "The heart is isolated from the circulation",
+        "All CNS-mediated cardiovascular reflexes are abolished, allowing direct receptor pharmacology",
+        "The systemic blood pressure is artificially maintained by a pump",
+        "The sympathetic nerves are surgically removed"
+      ],
       "correct": 1,
       "explanation": "Pithing destroys the brain and spinal cord while keeping the cardiovascular system intact. Without CNS control, baroreceptor reflexes, chemo-reflexes and vasomotor centre responses are absent, so the cardiovascular response to a drug reflects only its direct receptor effects.",
       "probability": "high"
@@ -841,7 +1306,12 @@
       "id": "u5-m14",
       "unit": 5,
       "question": "In the Shay rat pyloric ligation model, the pylorus is ligated to:",
-      "options": ["Increase intestinal motility", "Prevent emptying of gastric secretions, allowing them to accumulate for 4 hours", "Block absorption of the test drug", "Induce gastric hypomotility"],
+      "options": [
+        "Increase intestinal motility",
+        "Prevent emptying of gastric secretions, allowing them to accumulate for 4 hours",
+        "Block absorption of the test drug",
+        "Induce gastric hypomotility"
+      ],
       "correct": 1,
       "explanation": "Pyloric ligation prevents the outflow of gastric juice into the duodenum. Over 4 hours, acid, pepsin and mucus accumulate in the stomach lumen and can be collected for volume and acidity measurement to evaluate antiulcer drugs.",
       "probability": "high"
@@ -850,7 +1320,12 @@
       "id": "u5-m15",
       "unit": 5,
       "question": "Microdialysis is used in pharmacokinetics to measure:",
-      "options": ["Total drug concentration in plasma", "Protein-bound drug in plasma", "Free (unbound) drug concentration in tissue extracellular fluid", "Urinary drug metabolite profiles"],
+      "options": [
+        "Total drug concentration in plasma",
+        "Protein-bound drug in plasma",
+        "Free (unbound) drug concentration in tissue extracellular fluid",
+        "Urinary drug metabolite profiles"
+      ],
       "correct": 2,
       "explanation": "The semi-permeable microdialysis membrane allows only small, free (non-protein-bound) molecules to diffuse into the perfusate. The dialysate therefore reflects the free, pharmacologically active concentration of the drug in the tissue interstitial fluid.",
       "probability": "medium"
@@ -859,7 +1334,12 @@
       "id": "u5-m16",
       "unit": 5,
       "question": "A Level A IVIVC (in-vitro-in-vivo correlation) can be used to:",
-      "options": ["Replace in-vivo bioequivalence studies for certain formulation changes", "Predict the LD50 from in-vitro toxicity data", "Predict the clinical dose from allometric scaling", "Replace sub-acute toxicity studies"],
+      "options": [
+        "Replace in-vivo bioequivalence studies for certain formulation changes",
+        "Predict the LD50 from in-vitro toxicity data",
+        "Predict the clinical dose from allometric scaling",
+        "Replace sub-acute toxicity studies"
+      ],
       "correct": 0,
       "explanation": "A Level A IVIVC (point-to-point correlation between dissolution rate and in-vivo absorption rate) is the highest level of correlation and is accepted by the FDA as a surrogate for bioequivalence studies when certain formulation components change.",
       "probability": "medium"
@@ -868,7 +1348,12 @@
       "id": "u5-m17",
       "unit": 5,
       "question": "ICH S2(R1) is the guideline for:",
-      "options": ["Carcinogenicity testing", "Genotoxicity testing", "Reproductive toxicity", "Single-dose acute toxicity"],
+      "options": [
+        "Carcinogenicity testing",
+        "Genotoxicity testing",
+        "Reproductive toxicity",
+        "Single-dose acute toxicity"
+      ],
       "correct": 1,
       "explanation": "ICH S2(R1) specifies the standard battery of genotoxicity tests: a bacterial gene mutation test (Ames test), an in-vitro chromosomal aberration or mouse lymphoma assay, and an in-vivo micronucleus test.",
       "probability": "high"
@@ -877,7 +1362,12 @@
       "id": "u5-m18",
       "unit": 5,
       "question": "In the drug discovery pipeline, what is the purpose of a Phase I clinical trial?",
-      "options": ["Large-scale efficacy comparison with standard therapy", "Safety, tolerability and pharmacokinetics in healthy volunteers; dose range finding", "Proof-of-concept efficacy in a small patient group", "Post-marketing surveillance in a broad population"],
+      "options": [
+        "Large-scale efficacy comparison with standard therapy",
+        "Safety, tolerability and pharmacokinetics in healthy volunteers; dose range finding",
+        "Proof-of-concept efficacy in a small patient group",
+        "Post-marketing surveillance in a broad population"
+      ],
       "correct": 1,
       "explanation": "Phase I trials (20–80 subjects, usually healthy volunteers) establish the safety and tolerability profile, characterise human PK parameters (Cmax, AUC, t½, CL), and determine the dose range for Phase II proof-of-concept studies.",
       "probability": "high"
@@ -886,7 +1376,12 @@
       "id": "u5-m19",
       "unit": 5,
       "question": "The castor oil-induced diarrhoea model works because ricinoleic acid:",
-      "options": ["Directly lyses intestinal epithelial cells", "Activates EP3 prostaglandin receptors in the intestinal mucosa, increasing secretion", "Blocks opioid receptors in the myenteric plexus", "Activates nicotinic receptors in the submucous plexus"],
+      "options": [
+        "Directly lyses intestinal epithelial cells",
+        "Activates EP3 prostaglandin receptors in the intestinal mucosa, increasing secretion",
+        "Blocks opioid receptors in the myenteric plexus",
+        "Activates nicotinic receptors in the submucous plexus"
+      ],
       "correct": 1,
       "explanation": "Ricinoleic acid (from castor oil hydrolysis by pancreatic lipase) activates EP3 prostaglandin receptors in the intestinal mucosa, stimulating adenylate cyclase (via Gs) which increases water and electrolyte secretion, resulting in diarrhoea.",
       "probability": "medium"
@@ -895,7 +1390,12 @@
       "id": "u5-m20",
       "unit": 5,
       "question": "Teratogenicity studies (Segment II reproductive toxicity) in rats are conducted by administering the drug during:",
-      "options": ["The first 5 days of gestation (pre-implantation)", "Gestational days 6–15 (organogenesis period)", "Gestational days 15–21 (foetal development period)", "Post-natal days 1–21 (lactation period)"],
+      "options": [
+        "The first 5 days of gestation (pre-implantation)",
+        "Gestational days 6–15 (organogenesis period)",
+        "Gestational days 15–21 (foetal development period)",
+        "Post-natal days 1–21 (lactation period)"
+      ],
       "correct": 1,
       "explanation": "Gestational days 6–15 in the rat correspond to the period of major organogenesis, when the organ systems are being formed and are most susceptible to teratogenic agents. Administration during this critical window reveals structural malformations.",
       "probability": "high"

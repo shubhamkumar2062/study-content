@@ -1,0 +1,1404 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which receptor subtype is primarily responsible for the bronchodilator effect of adrenaline?",
+      "options": [
+        "\u03b11",
+        "\u03b22",
+        "\u03b21",
+        "\u03b12"
+      ],
+      "correct": 1,
+      "explanation": "\u03b22 receptors on bronchial smooth muscle mediate relaxation and bronchodilation when stimulated by adrenaline or selective \u03b22 agonists such as salbutamol.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Adrenaline is the drug of choice for anaphylaxis because it:",
+      "options": [
+        "Blocks H1 receptors",
+        "Reverses bronchoconstriction, hypotension and urticaria via adrenergic receptors",
+        "Inhibits prostaglandin synthesis",
+        "Blocks leukotrienes"
+      ],
+      "correct": 1,
+      "explanation": "Adrenaline acts on \u03b11 (raises BP, reduces urticaria), \u03b21 (improves cardiac output) and \u03b22 (reverses bronchoconstriction and inhibits mast cell mediator release) receptors, addressing all major manifestations of anaphylaxis.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Propranolol is contraindicated in bronchial asthma because it blocks:",
+      "options": [
+        "\u03b11 receptors causing bronchoconstriction",
+        "H1 receptors causing oedema",
+        "M3 receptors causing bronchospasm",
+        "\u03b22 receptors causing bronchoconstriction"
+      ],
+      "correct": 3,
+      "explanation": "Propranolol is a non-selective \u03b2 blocker. Blockade of \u03b22 receptors in bronchial smooth muscle removes the bronchodilatory tone and can precipitate life-threatening bronchospasm in asthmatic patients.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The first-dose postural hypotension seen with prazosin is due to:",
+      "options": [
+        "Selective \u03b11 blockade causing venodilation and loss of compensatory vasoconstriction",
+        "Blocking of presynaptic \u03b12 receptors",
+        "Reflex tachycardia from \u03b22 stimulation",
+        "Direct cardiac depression"
+      ],
+      "correct": 0,
+      "explanation": "Prazosin selectively blocks post-synaptic \u03b11 receptors. Because presynaptic \u03b12 autoreceptors are spared, the baroreceptor reflex is partly intact, but on the first dose the sudden vasodilation before baroreceptors compensate can cause syncope.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Atropine toxicity is remembered by the mnemonic 'Mad as a hatter'. Which sign represents the CNS component?",
+      "options": [
+        "Dry mouth",
+        "Tachycardia",
+        "Confusion and delirium",
+        "Hyperthermia"
+      ],
+      "correct": 2,
+      "explanation": "'Mad as a hatter' refers to central muscarinic blockade causing confusion, agitation and delirium. The other signs are peripheral: dry mouth (dry as a bone), tachycardia, flushing (red as a beet), hyperthermia (hot as a hare) and mydriasis (blind as a bat).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Neostigmine must always be given with atropine when reversing neuromuscular blockade because:",
+      "options": [
+        "Atropine potentiates neostigmine at the NMJ",
+        "Atropine prevents nicotinic receptor downregulation",
+        "Atropine blocks excessive muscarinic side effects of neostigmine",
+        "Atropine reduces postoperative pain"
+      ],
+      "correct": 2,
+      "explanation": "Neostigmine inhibits acetylcholinesterase and raises acetylcholine at all cholinergic synapses. Excess ACh at muscarinic receptors causes bradycardia, bronchospasm and hypersalivation. Atropine pre-treatment blocks these muscarinic effects without blocking the nicotinic NMJ effect that reverses the block.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Pilocarpine eye drops are used in glaucoma because they:",
+      "options": [
+        "Cause miosis and open the trabecular meshwork increasing aqueous outflow",
+        "Dilate the pupil reducing intraocular pressure",
+        "Reduce aqueous humour production via \u03b22 blockade",
+        "Increase uveoscleral outflow via prostaglandin release"
+      ],
+      "correct": 0,
+      "explanation": "Pilocarpine (a muscarinic M3 agonist) causes miosis (pupil constriction) and contraction of the ciliary muscle, which pulls the trabecular meshwork open and increases conventional aqueous drainage, reducing intraocular pressure.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Which of the following is a selective \u03b21 adrenergic agonist used in cardiac failure?",
+      "options": [
+        "Salbutamol",
+        "Isoprenaline",
+        "Dobutamine",
+        "Phenylephrine"
+      ],
+      "correct": 2,
+      "explanation": "Dobutamine is a selective \u03b21 agonist used as an IV inotrope in acute heart failure. It increases cardiac contractility and output with minimal effect on heart rate and peripheral resistance compared to adrenaline.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "COX-1 inhibition by NSAIDs is responsible for:",
+      "options": [
+        "Gastric ulceration and bleeding",
+        "Antipyretic effect",
+        "Anti-inflammatory effect",
+        "Analgesic effect"
+      ],
+      "correct": 0,
+      "explanation": "COX-1 is constitutively expressed and produces prostaglandins (PGE2, PGI2) that protect the gastric mucosa by stimulating mucus and bicarbonate secretion. COX-1 inhibition reduces these protective prostaglandins, predisposing to ulceration.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Second-generation antihistamines (e.g. cetirizine) are preferred over first-generation because they:",
+      "options": [
+        "Are more potent at H1 receptors",
+        "Have a longer duration of action via depot effect",
+        "Block both H1 and H2 receptors",
+        "Do not cross the blood-brain barrier and cause less sedation"
+      ],
+      "correct": 3,
+      "explanation": "Second-generation H1 antihistamines are more polar (zwitterionic) and cross the blood-brain barrier poorly, so they cause minimal CNS sedation and psychomotor impairment compared to first-generation agents.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "The antidote for organophosphate poisoning is:",
+      "options": [
+        "Physostigmine",
+        "Neostigmine",
+        "Atropine plus pralidoxime",
+        "Propranolol"
+      ],
+      "correct": 2,
+      "explanation": "Organophosphates irreversibly inhibit acetylcholinesterase. Atropine blocks muscarinic effects (bradycardia, bronchospasm, secretions) while pralidoxime regenerates the enzyme if given early (before 'ageing' of the bond). Both are used together.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m12",
+      "unit": 1,
+      "question": "Which autacoid is primarily responsible for pain and pyrexia of inflammation?",
+      "options": [
+        "Bradykinin and prostaglandins (PGE2)",
+        "Histamine",
+        "Serotonin",
+        "Platelet activating factor"
+      ],
+      "correct": 0,
+      "explanation": "Bradykinin directly activates pain receptors (B2 receptors) and stimulates prostaglandin synthesis. PGE2 sensitises nociceptors (peripheral sensitisation) and acts on the hypothalamus to raise the thermoregulatory set-point (fever).",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m13",
+      "unit": 1,
+      "question": "Aspirin irreversibly inhibits COX. The platelet effect lasts 7\u201310 days because:",
+      "options": [
+        "Aspirin has a long half-life of 7 days",
+        "Aspirin accumulates in platelets",
+        "Platelets are anucleate and cannot synthesise new COX protein",
+        "Platelets have high baseline COX activity"
+      ],
+      "correct": 2,
+      "explanation": "Aspirin covalently acetylates the COX active site. Platelets are anucleate; they cannot make new protein. So once aspirin inhibits their COX, the effect is permanent for each platelet's lifespan of 7\u201310 days.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m14",
+      "unit": 1,
+      "question": "Which drug should NEVER be combined with a selective COX-2 inhibitor (e.g. celecoxib) in a patient on low-dose aspirin?",
+      "options": [
+        "Paracetamol",
+        "Sildenafil",
+        "Warfarin (without monitoring)",
+        "Diuretics"
+      ],
+      "correct": 2,
+      "explanation": "While celecoxib itself is not the main concern here, combining celecoxib with warfarin requires careful INR monitoring as NSAIDs can displace warfarin from plasma proteins and inhibit its metabolism (CYP2C9 inhibition by some NSAIDs), increasing bleeding risk.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m15",
+      "unit": 1,
+      "question": "Dopamine at high doses (>10 \u03bcg/kg/min) primarily activates:",
+      "options": [
+        "D1 dopamine receptors causing renal vasodilation",
+        "\u03b21 receptors causing tachycardia",
+        "\u03b11 receptors causing vasoconstriction",
+        "\u03b22 receptors causing bronchodilation"
+      ],
+      "correct": 2,
+      "explanation": "At high doses dopamine activates \u03b11 adrenergic receptors, causing vasoconstriction, raised peripheral resistance and increased BP. The renal dopaminergic vasodilation seen at low doses is overwhelmed.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m16",
+      "unit": 1,
+      "question": "Which of the following is a selective \u03b12 agonist used as a centrally acting antihypertensive?",
+      "options": [
+        "Prazosin",
+        "Clonidine",
+        "Phentolamine",
+        "Phenylephrine"
+      ],
+      "correct": 1,
+      "explanation": "Clonidine stimulates presynaptic \u03b12 receptors in the vasomotor centre of the brainstem, reducing sympathetic outflow and lowering blood pressure. It is used for hypertension and opioid withdrawal.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m17",
+      "unit": 1,
+      "question": "Serotonin (5-HT) is involved in which of the following conditions? (Select most accurate answer)",
+      "options": [
+        "Hypertension via 5-HT3 receptors in the vasomotor centre",
+        "Carcinoid syndrome \u2014 flushing, diarrhoea and bronchospasm from excess 5-HT",
+        "Alzheimer's disease via 5-HT2A loss",
+        "Type 2 diabetes via 5-HT4 receptor activation"
+      ],
+      "correct": 1,
+      "explanation": "Carcinoid tumours release large amounts of serotonin, causing the triad of flushing, diarrhoea and bronchospasm. Treatment involves octreotide (somatostatin analogue) to reduce 5-HT secretion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m18",
+      "unit": 1,
+      "question": "Adrenaline must be used with CAUTION in patients taking non-selective beta blockers because:",
+      "options": [
+        "Beta blockers reduce adrenaline absorption",
+        "Beta blockers potentiate bronchodilation",
+        "Beta blockers increase adrenaline metabolism",
+        "Unopposed \u03b11 stimulation from adrenaline causes a hypertensive crisis"
+      ],
+      "correct": 3,
+      "explanation": "Non-selective beta blockers (propranolol) block \u03b22 vasodilation. When adrenaline is given, only \u03b11 vasoconstriction occurs (unopposed) \u2192 severe hypertension and reflex bradycardia.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m19",
+      "unit": 1,
+      "question": "Which drug is the antidote for excess muscarinic effects of neostigmine?",
+      "options": [
+        "Physostigmine",
+        "Edrophonium",
+        "Pralidoxime",
+        "Atropine"
+      ],
+      "correct": 3,
+      "explanation": "Atropine is a competitive muscarinic antagonist. It blocks bradycardia, bronchospasm, hypersalivation and GI hypermotility caused by excess acetylcholine from neostigmine's cholinesterase inhibition.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m20",
+      "unit": 1,
+      "question": "The major adverse effect of selective COX-2 inhibitors (coxibs) that led to withdrawal of rofecoxib is:",
+      "options": [
+        "Renal failure",
+        "Increased cardiovascular risk (MI and stroke)",
+        "Hepatotoxicity",
+        "Pulmonary fibrosis"
+      ],
+      "correct": 1,
+      "explanation": "COX-2 inhibitors reduce PGI2 (a vasodilator and platelet-aggregation inhibitor) while sparing TXA2 production (a vasoconstrictor and aggregator), creating a prothrombotic state. Rofecoxib increased MI risk and was withdrawn in 2004.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The minimum alveolar concentration (MAC) of an inhaled anaesthetic is a measure of its:",
+      "options": [
+        "Onset of action",
+        "Potency (the lower the MAC, the more potent)",
+        "Duration of action",
+        "Elimination rate"
+      ],
+      "correct": 1,
+      "explanation": "MAC is the alveolar concentration (in % at 1 atm) that prevents movement in 50% of subjects in response to a standard surgical incision. It is inversely related to potency \u2014 a lower MAC means the drug is more potent (less drug is needed).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "Thiopentone sodium is contraindicated in acute intermittent porphyria because it:",
+      "options": [
+        "Induces delta-ALA synthase \u2192 accumulation of porphyrin precursors",
+        "Inhibits delta-ALA synthase",
+        "Blocks haem synthesis competitively",
+        "Causes direct hepatotoxicity"
+      ],
+      "correct": 0,
+      "explanation": "Thiopentone is a potent inducer of hepatic ALA (aminolaevulinic acid) synthase, the rate-limiting enzyme in haem synthesis. In porphyria, this leads to accumulation of toxic porphyrin precursors (ALA, PBG), causing acute neurological crises.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "Ketamine produces 'dissociative anaesthesia' by acting as an antagonist at:",
+      "options": [
+        "GABA-A receptors",
+        "NMDA glutamate receptors",
+        "Opioid \u03bc receptors",
+        "Nicotinic acetylcholine receptors"
+      ],
+      "correct": 1,
+      "explanation": "Ketamine blocks NMDA glutamate receptors, causing a dissociative state with analgesia, amnesia and muscle tone preserved. It is unique as an anaesthetic that maintains cardiovascular and respiratory function and is bronchodilatory.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Benzodiazepines enhance GABA-A receptor function by:",
+      "options": [
+        "Increasing the duration of Cl- channel opening",
+        "Blocking the Cl- channel at high concentrations",
+        "Directly opening the Cl- channel in the absence of GABA",
+        "Increasing the frequency of Cl- channel opening"
+      ],
+      "correct": 3,
+      "explanation": "Benzodiazepines are positive allosteric modulators: they bind at the \u03b1-\u03b3 interface of GABA-A and increase the frequency of Cl- channel opening in response to GABA. Barbiturates increase duration. Neither acts without GABA (at clinical doses).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Flumazenil is the specific antidote for benzodiazepine overdose. It should NOT be used in:",
+      "options": [
+        "Paediatric sedation",
+        "Combined alcohol and benzodiazepine ingestion",
+        "Post-operative reversal in elderly patients",
+        "Patients who are physically dependent on benzodiazepines (precipitates seizures)"
+      ],
+      "correct": 3,
+      "explanation": "In physically dependent patients, flumazenil abruptly removes benzodiazepine receptor occupancy and precipitates acute withdrawal, which can cause refractory seizures. It is also contraindicated if benzodiazepines are being used to control epilepsy.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Phenytoin exhibits zero-order kinetics at therapeutic plasma levels. This means that:",
+      "options": [
+        "A fixed fraction of the drug is eliminated per unit time",
+        "A fixed amount of drug is eliminated per unit time \u2014 a small dose increase can cause a large jump in plasma levels",
+        "Elimination is independent of plasma concentration at all levels",
+        "The drug is not metabolised"
+      ],
+      "correct": 1,
+      "explanation": "Zero-order (saturation) kinetics means the metabolising enzyme (CYP2C9) is saturated at therapeutic levels. The same absolute amount is metabolised per unit time regardless of concentration. A small dose increase in the therapeutic range dramatically raises plasma levels.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Gingival hyperplasia is a characteristic chronic adverse effect of:",
+      "options": [
+        "Carbamazepine",
+        "Valproate",
+        "Lamotrigine",
+        "Phenytoin"
+      ],
+      "correct": 3,
+      "explanation": "Phenytoin causes gingival hyperplasia in 20% of patients, particularly in those with poor oral hygiene. It is thought to be due to the drug stimulating fibroblast proliferation in gum tissue. Regular dental hygiene and check-ups are essential.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Which antiepileptic is contraindicated in absence seizures because it can worsen them?",
+      "options": [
+        "Valproate",
+        "Carbamazepine",
+        "Ethosuximide",
+        "Lamotrigine"
+      ],
+      "correct": 1,
+      "explanation": "Carbamazepine and phenytoin can worsen absence and myoclonic seizures. They must be avoided in juvenile myoclonic epilepsy and typical absence epilepsy. Valproate and ethosuximide are the drugs of choice for absence seizures.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Extrapyramidal side effects (EPS) of antipsychotics are caused by dopamine D2 receptor blockade in which pathway?",
+      "options": [
+        "Mesolimbic pathway",
+        "Mesocortical pathway",
+        "Tuberoinfundibular pathway",
+        "Nigrostriatal pathway"
+      ],
+      "correct": 3,
+      "explanation": "The nigrostriatal pathway regulates movement. Blocking D2 receptors here disrupts the dopamine-acetylcholine balance in the striatum \u2192 EPS (dystonia, parkinsonism, akathisia, tardive dyskinesia).",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "Clozapine is reserved for treatment-resistant schizophrenia because it requires regular blood monitoring for:",
+      "options": [
+        "Hepatotoxicity",
+        "Agranulocytosis",
+        "Renal failure",
+        "Pulmonary fibrosis"
+      ],
+      "correct": 1,
+      "explanation": "Clozapine causes agranulocytosis in 1\u20132% of patients, which can be fatal if undetected. All patients require weekly WBC monitoring for 18 weeks, then fortnightly. Despite this, its superior efficacy in resistant schizophrenia justifies use.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "The neuroleptic malignant syndrome (NMS) triad is:",
+      "options": [
+        "Hyperthermia, generalised muscle rigidity, altered consciousness with autonomic instability",
+        "Rash, fever, arthralgia",
+        "Oculogyric crisis, opisthotonus, torticollis",
+        "Bradykinesia, rigidity, pill-rolling tremor"
+      ],
+      "correct": 0,
+      "explanation": "NMS is a rare but life-threatening reaction to antipsychotics. The hallmarks are hyperthermia (often >40\u00b0C), lead-pipe muscle rigidity, altered consciousness, and autonomic instability (tachycardia, labile blood pressure). CK is markedly elevated.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m12",
+      "unit": 2,
+      "question": "The mechanism of SSRIs is:",
+      "options": [
+        "Inhibit MAO-A and MAO-B",
+        "Selectively block the serotonin (SERT) reuptake transporter",
+        "Block reuptake of noradrenaline at the nerve terminal",
+        "Block postsynaptic 5-HT2A receptors"
+      ],
+      "correct": 1,
+      "explanation": "SSRIs selectively inhibit the serotonin transporter (SERT) on presynaptic neurons, preventing reuptake of serotonin from the synapse and increasing synaptic 5-HT concentration.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m13",
+      "unit": 2,
+      "question": "Which opioid effect does NOT develop tolerance with chronic use?",
+      "options": [
+        "Analgesia",
+        "Sedation",
+        "Constipation",
+        "Respiratory depression"
+      ],
+      "correct": 2,
+      "explanation": "Tolerance develops readily to analgesia, sedation, respiratory depression, nausea and euphoria. Constipation (reduced GI motility) and miosis (pupillary constriction) are opioid effects that persist with chronic use \u2014 a laxative should always be co-prescribed.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m14",
+      "unit": 2,
+      "question": "Morphine should be used with great caution in head injuries because:",
+      "options": [
+        "It causes rebound hypertension",
+        "It blocks opioid receptors in the medulla",
+        "Respiratory depression raises PaCO2 \u2192 cerebral vasodilation \u2192 raised intracranial pressure",
+        "It causes hyponatraemia"
+      ],
+      "correct": 2,
+      "explanation": "Morphine-induced respiratory depression causes CO2 retention (hypercapnia), which is a potent cerebral vasodilator. Raised PaCO2 increases cerebral blood flow and further elevates an already raised intracranial pressure, worsening brain herniation risk.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m15",
+      "unit": 2,
+      "question": "Local anaesthetics are LESS effective in infected tissue because:",
+      "options": [
+        "Protein binding is increased",
+        "Blood flow is reduced, lowering drug delivery",
+        "Acidic pH of inflamed tissue keeps the drug ionised, reducing membrane penetration",
+        "Inflammatory mediators compete at the Na+ channel"
+      ],
+      "correct": 2,
+      "explanation": "Local anaesthetics are weak bases (pKa ~8). Unionised form crosses the axonal membrane. Infected tissue is acidic \u2192 more drug in ionised form \u2192 less membrane penetration \u2192 reduced efficacy. Larger doses are needed but should not be exceeded.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m16",
+      "unit": 2,
+      "question": "Adrenaline is added to local anaesthetic solutions to:",
+      "options": [
+        "Increase systemic absorption",
+        "Cause local vasoconstriction, reduce bleeding and prolong duration of action",
+        "Prevent allergic reactions",
+        "Increase nerve membrane penetration"
+      ],
+      "correct": 1,
+      "explanation": "Adrenaline (1:200,000) causes \u03b11 vasoconstriction at the injection site, reducing vascular absorption of the local anaesthetic. This prolongs its duration, allows a higher total dose, and reduces bleeding. Adrenaline-containing solutions must NOT be used for ring blocks (fingers, toes, penis) due to ischaemia risk.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m17",
+      "unit": 2,
+      "question": "Which antidepressant class requires a 2-week washout before starting an SSRI due to risk of serotonin syndrome?",
+      "options": [
+        "TCAs",
+        "Mirtazapine",
+        "SNRIs",
+        "MAOIs"
+      ],
+      "correct": 3,
+      "explanation": "MAOIs (phenelzine, tranylcypromine) prevent serotonin breakdown by MAO. Combining with SSRIs causes massive 5-HT accumulation \u2192 serotonin syndrome (hyperthermia, clonus, diaphoresis, agitation, autonomic instability \u2014 can be fatal). A 2-week washout of MAOI is required before starting an SSRI; with fluoxetine (long half-life of 5 weeks) a 5-week SSRI washout is needed before starting an MAOI.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m18",
+      "unit": 2,
+      "question": "Propofol infusion syndrome is a rare but fatal complication seen when propofol is given at:",
+      "options": [
+        "Any dose",
+        "Only in paediatric patients",
+        "High doses (>5 mg/kg/h) for more than 48 hours",
+        "Combined with opioids"
+      ],
+      "correct": 2,
+      "explanation": "Propofol infusion syndrome occurs at high infusion rates over extended periods, particularly in critically ill patients. Features include severe metabolic acidosis, rhabdomyolysis, renal failure, hyperkalaemia and cardiac failure. The mechanism involves impaired mitochondrial function and fatty acid oxidation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m19",
+      "unit": 2,
+      "question": "Carbamazepine inhibits its own metabolism over the first weeks of treatment. This is known as:",
+      "options": [
+        "First-pass effect",
+        "Saturation kinetics",
+        "Enzyme inhibition",
+        "Autoinduction"
+      ],
+      "correct": 3,
+      "explanation": "Carbamazepine is a potent inducer of its own metabolising enzymes (CYP3A4), a process called autoinduction. Over the first 3\u20134 weeks, its half-life shortens significantly, so the initial dose that achieves a therapeutic level may become subtherapeutic and require dose escalation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m20",
+      "unit": 2,
+      "question": "Naloxone, the opioid antidote, must often be repeated or given as an infusion because:",
+      "options": [
+        "It has a shorter duration of action than most opioids",
+        "It is rapidly metabolised in the gut",
+        "It has poor CNS penetration",
+        "It causes respiratory depression itself"
+      ],
+      "correct": 0,
+      "explanation": "Naloxone has a half-life of 30\u201360 minutes, shorter than most opioids (morphine ~6 hours). After initial reversal of respiratory depression, the patient can re-narcotise as naloxone wears off. Repeated IV boluses or a continuous infusion are often needed.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Digoxin toxicity is precipitated by hypokalaemia because:",
+      "options": [
+        "Potassium reduces digoxin absorption",
+        "K+ and digoxin compete for the same binding site on Na+/K+-ATPase \u2014 low K+ sensitises the pump to digoxin",
+        "Hypokalaemia reduces digoxin renal excretion",
+        "Hypokalaemia increases digoxin protein binding"
+      ],
+      "correct": 1,
+      "explanation": "K+ and digoxin bind at overlapping sites on the extracellular face of Na+/K+-ATPase. When serum K+ is low, there is less competition, digoxin binds more avidly to the pump, and inhibition is exaggerated, causing toxicity even at normal digoxin plasma levels.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "The earliest sign of digoxin toxicity is:",
+      "options": [
+        "Anorexia and nausea",
+        "Ventricular tachycardia",
+        "Atrial fibrillation",
+        "Hyperkalaemia"
+      ],
+      "correct": 0,
+      "explanation": "GI symptoms \u2014 anorexia (the earliest and most reliable marker), followed by nausea, vomiting and diarrhoea \u2014 appear before cardiac arrhythmias in digoxin toxicity. Yellow-green visual haloes (xanthopsia) are a classic CNS sign. Cardiac toxicity (arrhythmias) is the most dangerous manifestation.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "ACE inhibitors cause dry cough in 10\u201320% of patients due to:",
+      "options": [
+        "Increased angiotensin II",
+        "Accumulation of bradykinin in the lungs (not broken down because ACE is also kininase II)",
+        "Bronchoconstriction via \u03b22 inhibition",
+        "Histamine release"
+      ],
+      "correct": 1,
+      "explanation": "ACE is identical to kininase II, the enzyme that inactivates bradykinin. ACE inhibition prevents bradykinin degradation. Accumulated bradykinin stimulates local prostaglandin synthesis and afferent sensory C-fibres in the lung, causing a persistent dry cough. Switching to an ARB avoids this side effect.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "ACE inhibitors are contraindicated in bilateral renal artery stenosis because:",
+      "options": [
+        "They cause hyperkalaemia which worsens renal function",
+        "They block the angiotensin II-mediated efferent arteriolar constriction that maintains GFR, causing acute renal failure",
+        "They reduce renal blood flow via vasodilation",
+        "They are nephrotoxic directly"
+      ],
+      "correct": 1,
+      "explanation": "In bilateral renal artery stenosis, GFR is maintained by efferent arteriolar constriction by angiotensin II. ACE inhibitors remove this compensatory mechanism \u2192 efferent vasodilation \u2192 reduced glomerular filtration pressure \u2192 acute kidney injury.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Warfarin anticoagulant effect is monitored by:",
+      "options": [
+        "International normalised ratio (INR) derived from prothrombin time",
+        "Activated partial thromboplastin time (aPTT)",
+        "Thrombin clotting time (TCT)",
+        "Bleeding time"
+      ],
+      "correct": 0,
+      "explanation": "Warfarin inhibits vitamin K-dependent factors II, VII, IX and X. These factors affect the extrinsic and common coagulation pathways, measured by prothrombin time. The INR standardises PT across laboratories. Target INR 2\u20133 for most indications.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Heparin-induced thrombocytopenia (HIT) is paradoxically a thrombotic rather than a bleeding complication because:",
+      "options": [
+        "Heparin directly activates platelets via H1 receptors",
+        "Platelets are sequestered in the spleen",
+        "IgG antibodies to the heparin-PF4 complex activate platelets via Fc\u03b3RIIA, causing widespread thrombosis",
+        "Heparin inhibits von Willebrand factor"
+      ],
+      "correct": 2,
+      "explanation": "In HIT, the immune system generates IgG antibodies against the heparin-platelet factor 4 (PF4) complex. These antibodies bind Fc\u03b3RIIA receptors on platelets, activating them \u2192 platelet aggregation and thrombus formation \u2192 thrombocytopenia from platelet consumption plus paradoxical thrombosis.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Organic nitrates cause tolerance with continuous use. This is prevented by:",
+      "options": [
+        "Increasing the dose gradually",
+        "Combining with a beta blocker",
+        "Providing an 8\u201312 hour nitrate-free interval daily",
+        "Using intravenous administration"
+      ],
+      "correct": 2,
+      "explanation": "Nitrate tolerance develops within 24 hours of continuous exposure due to depletion of tissue thiols (required for bioactivation) and neurohormonal counterregulation. A nitrate-free interval \u2014 typically removing the transdermal patch at night \u2014 allows enzyme and thiol recovery.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Sildenafil is absolutely contraindicated with organic nitrates because:",
+      "options": [
+        "Both cause tachycardia which is additive",
+        "Sildenafil inhibits nitrate metabolism",
+        "Both elevate cGMP in vascular smooth muscle \u2192 severe synergistic hypotension",
+        "Both are contraindicated in angina"
+      ],
+      "correct": 2,
+      "explanation": "Nitrates increase cGMP (via NO-guanylate cyclase) and sildenafil inhibits PDE5 (the enzyme that breaks down cGMP). The combination causes massive cGMP accumulation in vascular smooth muscle \u2192 profound vasodilation and potentially fatal hypotension.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The most important adverse effect of amiodarone requiring regular monitoring is:",
+      "options": [
+        "Pulmonary toxicity and thyroid dysfunction",
+        "Hypoglycaemia",
+        "Agranulocytosis",
+        "Renal failure"
+      ],
+      "correct": 0,
+      "explanation": "Amiodarone causes multi-organ toxicity due to its long half-life and iodine content. Thyroid dysfunction (hypo or hyperthyroidism from iodine load) and pulmonary toxicity (pneumonitis \u2192 fibrosis) are the most important. Corneal microdeposits (almost universal) and hepatotoxicity also occur.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Statins reduce LDL-cholesterol primarily by:",
+      "options": [
+        "Blocking LDL oxidation in the vessel wall",
+        "Inhibiting HMG-CoA reductase \u2192 reduced hepatic cholesterol \u2192 upregulated LDL receptors \u2192 increased LDL clearance",
+        "Increasing HDL synthesis",
+        "Reducing intestinal cholesterol absorption"
+      ],
+      "correct": 1,
+      "explanation": "HMG-CoA reductase inhibition reduces hepatic cholesterol synthesis. The liver compensates by upregulating LDL receptors on hepatocytes, which avidly clear LDL particles from plasma. The net result is a 30\u201350% reduction in LDL-C.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "Statin-induced rhabdomyolysis is most likely when statins are combined with:",
+      "options": [
+        "ACE inhibitors",
+        "Thiazide diuretics",
+        "Beta blockers",
+        "Fibrates (especially gemfibrozil) or drugs inhibiting CYP3A4 such as erythromycin"
+      ],
+      "correct": 3,
+      "explanation": "Gemfibrozil inhibits glucuronidation and reduces renal excretion of active statin metabolites, dramatically raising their plasma levels. CYP3A4 inhibitors (erythromycin, clarithromycin, azole antifungals) similarly raise simvastatin and atorvastatin levels, increasing myopathy and rhabdomyolysis risk.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m12",
+      "unit": 3,
+      "question": "Which Vaughan Williams class of antiarrhythmic blocks potassium channels to prolong the action potential?",
+      "options": [
+        "Class I",
+        "Class III",
+        "Class II",
+        "Class IV"
+      ],
+      "correct": 1,
+      "explanation": "Class III antiarrhythmics (amiodarone, sotalol, dofetilide) block voltage-gated K+ channels \u2192 delayed repolarisation \u2192 prolonged action potential duration and refractory period \u2192 reduced re-entry arrhythmias. This shows as a prolonged QT interval on the ECG.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m13",
+      "unit": 3,
+      "question": "Spironolactone reduces mortality in heart failure by:",
+      "options": [
+        "Blocking aldosterone-mediated myocardial and vascular fibrosis (beyond its diuretic effect)",
+        "Increasing urinary output significantly",
+        "Directly improving myocardial contractility",
+        "Reducing ventricular afterload"
+      ],
+      "correct": 0,
+      "explanation": "The mortality benefit of spironolactone in heart failure (RALES trial, 30% reduction) is largely attributed to its anti-fibrotic effect \u2014 blocking aldosterone receptors in the myocardium and blood vessels reduces pathological cardiac remodelling and fibrosis, independent of its relatively weak diuretic action.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m14",
+      "unit": 3,
+      "question": "Warfarin should NOT be used in pregnancy because:",
+      "options": [
+        "It is not absorbed orally during pregnancy",
+        "It causes maternal thrombosis",
+        "It crosses the placenta and inhibits foetal coagulation factor synthesis causing embryopathy and foetal haemorrhage",
+        "It is rapidly metabolised by placental enzymes"
+      ],
+      "correct": 2,
+      "explanation": "Warfarin crosses the placenta and inhibits foetal coagulation factor synthesis. In the first trimester it causes warfarin embryopathy (nasal hypoplasia, stippled epiphyses). Later, it causes foetal haemorrhage. Heparin is used instead \u2014 it does not cross the placenta.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m15",
+      "unit": 3,
+      "question": "Clopidogrel is a prodrug requiring activation by:",
+      "options": [
+        "CYP2C19 in the liver",
+        "Hepatic monoamine oxidase",
+        "Plasma esterases",
+        "Gastric acid"
+      ],
+      "correct": 0,
+      "explanation": "Clopidogrel requires CYP2C19-mediated hepatic conversion to its active metabolite, which then irreversibly alkylates the ADP P2Y12 receptor on platelets. CYP2C19 poor metabolisers have reduced antiplatelet efficacy, increasing the risk of stent thrombosis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m16",
+      "unit": 3,
+      "question": "Methyldopa is the antihypertensive of choice in pregnancy because:",
+      "options": [
+        "It crosses the placenta and directly reduces foetal BP",
+        "It is an \u03b12 agonist that is extensively studied and proven safe for the foetus",
+        "It is the most potent antihypertensive available",
+        "It prevents pre-eclampsia"
+      ],
+      "correct": 1,
+      "explanation": "Methyldopa is converted to \u03b1-methylnoradrenaline, which acts on central \u03b12 receptors to reduce sympathetic outflow. It has the longest safety record in pregnancy, with follow-up studies showing no adverse foetal or childhood developmental effects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m17",
+      "unit": 3,
+      "question": "Carvedilol is used in chronic heart failure because it is a:",
+      "options": [
+        "Selective \u03b21 blocker",
+        "ACE inhibitor with beta blockade",
+        "Non-selective \u03b2 blocker with additional \u03b11 blockade and antioxidant properties",
+        "Direct vasodilator"
+      ],
+      "correct": 2,
+      "explanation": "Carvedilol blocks \u03b21, \u03b22 and \u03b11 receptors plus has antioxidant properties. In heart failure, its \u03b21 blockade reduces heart rate and myocardial oxygen demand while its \u03b11 blockade reduces afterload. The COPERNICUS trial showed it reduces mortality in severe HF.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m18",
+      "unit": 3,
+      "question": "The antidote for severe digoxin toxicity is:",
+      "options": [
+        "Protamine sulphate",
+        "Atropine",
+        "Digoxin-specific antibody fragments (Digibind/DigiFab)",
+        "Lignocaine"
+      ],
+      "correct": 2,
+      "explanation": "Digoxin-specific antibody fragments (Fab fragments) bind free digoxin in the plasma, rapidly reversing toxicity. Atropine and lignocaine treat specific arrhythmias (bradycardia and ventricular ectopics respectively) but do not remove the drug. Protamine reverses heparin, not digoxin.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m19",
+      "unit": 3,
+      "question": "Which of the following calcium channel blockers selectively dilates coronary arteries without affecting heart rate?",
+      "options": [
+        "Amlodipine (dihydropyridine)",
+        "Diltiazem",
+        "Verapamil",
+        "Nifedipine (short-acting)"
+      ],
+      "correct": 0,
+      "explanation": "Dihydropyridine CCBs (amlodipine, nifedipine) act predominantly on vascular smooth muscle L-type Ca2+ channels with relatively little effect on the heart. Verapamil and diltiazem (non-dihydropyridines) have significant rate-limiting effects on the SA and AV nodes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m20",
+      "unit": 3,
+      "question": "The drug of choice for controlling ventricular rate in atrial fibrillation in a patient with impaired LV function is:",
+      "options": [
+        "Verapamil",
+        "Adenosine",
+        "Digoxin",
+        "Flecainide"
+      ],
+      "correct": 2,
+      "explanation": "Digoxin slows the ventricular rate in AF by increasing vagal tone and slowing AV node conduction. Its positive inotropy makes it suitable when LV function is impaired. Verapamil and beta blockers can also control rate but are used with caution in impaired LV function.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Salbutamol is classified as a SABA. 'Short-acting' refers to its duration of bronchodilation, which is approximately:",
+      "options": [
+        "4\u20136 hours",
+        "2 hours",
+        "30 minutes",
+        "12 hours"
+      ],
+      "correct": 0,
+      "explanation": "Salbutamol inhaled has an onset of 2\u20135 minutes and a duration of 4\u20136 hours. It is used as a reliever (rescue inhaler) for acute asthma symptoms. LABAs (salmeterol, formoterol) last 12 hours and are used as twice-daily controllers.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Theophylline has a narrow therapeutic index. The toxic signs at plasma levels >25 mg/L include:",
+      "options": [
+        "Seizures and ventricular arrhythmias",
+        "Hypothermia and bradycardia",
+        "Peripheral neuropathy and anaemia",
+        "Hepatotoxicity and cholestasis"
+      ],
+      "correct": 0,
+      "explanation": "Above 20 mg/L: headache, nausea, insomnia, tremor and tachycardia. Above 25 mg/L: seizures (can be refractory) and ventricular arrhythmias (the most dangerous toxic effects). The therapeutic range is 10\u201320 mg/L.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "A patient on inhaled corticosteroids develops oral thrush. The recommended prevention measure is:",
+      "options": [
+        "Using a spacer device and rinsing the mouth after every inhaler use",
+        "Switching to oral corticosteroids",
+        "Reducing ICS dose to minimum",
+        "Adding an antifungal to the ICS inhaler"
+      ],
+      "correct": 0,
+      "explanation": "Drug deposition in the oropharynx allows Candida overgrowth. A spacer reduces oropharyngeal deposition by >70%. Rinsing the mouth with water and spitting after every dose removes residual drug. These measures significantly reduce local side effects without compromising lung deposition.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Ipratropium bromide acts as a bronchodilator by:",
+      "options": [
+        "\u03b22 receptor agonism in bronchial smooth muscle",
+        "Inhibiting phosphodiesterase \u2192 increased cAMP",
+        "Blocking muscarinic M3 receptors in bronchial smooth muscle and glands \u2192 reduced bronchoconstriction and secretions",
+        "Mast cell membrane stabilisation"
+      ],
+      "correct": 2,
+      "explanation": "Ipratropium is a quaternary ammonium muscarinic antagonist. It blocks M3 receptors on bronchial smooth muscle (reducing ACh-mediated bronchoconstriction) and submucosal glands (reducing mucus secretion). It is poorly absorbed and does not cross the BBB, minimising systemic anticholinergic effects.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Proton pump inhibitors (PPIs) must be taken 30\u201360 minutes before a meal because:",
+      "options": [
+        "They are degraded by food",
+        "Their half-life is shortest in the fasting state",
+        "They require gastric acid for absorption",
+        "They need to reach the parietal cell before it is actively secreting acid \u2014 only active pumps are inhibited"
+      ],
+      "correct": 3,
+      "explanation": "PPIs are prodrugs that accumulate in the acidic parietal cell canaliculus and form a covalent bond with the active H+/K+-ATPase proton pump. The pump is activated by eating. Taking the PPI before the first meal ensures maximum pump activity when the drug arrives, maximising inhibition.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The triple therapy for H. pylori eradication typically consists of:",
+      "options": [
+        "PPI + amoxicillin + clarithromycin (for 7\u201314 days)",
+        "Three antibiotics (amoxicillin + clarithromycin + metronidazole)",
+        "H2 blocker + metronidazole + bismuth",
+        "PPI + metronidazole + tetracycline"
+      ],
+      "correct": 0,
+      "explanation": "Standard first-line triple therapy: a PPI (omeprazole 20 mg) + amoxicillin 1 g + clarithromycin 500 mg, all twice daily for 7\u201314 days. The PPI reduces acid, improving antibiotic stability and efficacy in the stomach.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Ondansetron is particularly effective for chemotherapy-induced nausea because chemotherapy releases serotonin from:",
+      "options": [
+        "The chemoreceptor trigger zone (CTZ) directly",
+        "Mast cells in the gut wall",
+        "The vomiting centre in the medulla",
+        "Enterochromaffin cells in the GI mucosa, which activates vagal 5-HT3 receptors"
+      ],
+      "correct": 3,
+      "explanation": "Cytotoxic drugs damage the GI mucosa, releasing serotonin (5-HT) from enterochromaffin cells. This activates 5-HT3 receptors on vagal afferents, which signal to the vomiting centre. Ondansetron blocks these 5-HT3 receptors, interrupting this pathway.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Metoclopramide can cause acute dystonia, particularly in young women, due to its action as a:",
+      "options": [
+        "5-HT3 antagonist",
+        "D2 antagonist in the basal ganglia/nigrostriatal system",
+        "H1 antihistamine",
+        "Muscarinic antagonist"
+      ],
+      "correct": 1,
+      "explanation": "Metoclopramide blocks D2 receptors both centrally (CTZ \u2014 antiemetic) and in the striatum (nigrostriatal \u2014 EPS). Young women are particularly susceptible to acute dystonias (oculogyric crisis, torticollis). Treatment: benztropine or diphenhydramine IM.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Frusemide (furosemide) is effective even in severe renal impairment (low GFR) because:",
+      "options": [
+        "It is filtered at the glomerulus and concentrated in the tubule",
+        "It increases GFR by dilating afferent arterioles",
+        "It acts on renal interstitium independently of tubular function",
+        "It is secreted by proximal tubular organic anion transporters and reaches the loop of Henle directly"
+      ],
+      "correct": 3,
+      "explanation": "Unlike thiazides, frusemide reaches the thick ascending limb via active secretion by the organic anion transport system in the proximal tubule. This mechanism is maintained even when GFR is low. Thiazides fail when GFR is <30 mL/min because they are not filtered in sufficient quantities.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "Allopurinol must NOT be started during an acute gout attack because:",
+      "options": [
+        "Rapid mobilisation of urate crystals can prolong or worsen the acute attack",
+        "It worsens renal excretion of urate",
+        "It inhibits xanthine oxidase which worsens hyperuricaemia",
+        "It causes lactic acidosis when urate levels are high"
+      ],
+      "correct": 0,
+      "explanation": "Allopurinol reduces urate synthesis and gradually reduces plasma and tissue urate. If started during an acute attack, the rapid fall in plasma urate causes crystal mobilisation from tissues into the joint, prolonging or worsening inflammation. It should be started 2\u20134 weeks after the acute attack resolves.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Lactulose is used in hepatic encephalopathy because it:",
+      "options": [
+        "Is metabolised by colonic bacteria to acidic products (lactic acid, acetic acid) \u2192 traps NH3 as NH4+ \u2192 reduces ammonia absorption",
+        "Directly detoxifies ammonia in the liver",
+        "Stimulates hepatic regeneration",
+        "Increases renal ammonia excretion"
+      ],
+      "correct": 0,
+      "explanation": "Lactulose is a disaccharide not absorbed from the gut. Colonic bacteria ferment it to short-chain fatty acids, lowering colonic pH. Acidification converts NH3 (which crosses colonic epithelium) to NH4+ (which cannot), reducing systemic ammonia absorption and improving encephalopathy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m12",
+      "unit": 4,
+      "question": "Which antitussive acts centrally by suppressing the cough centre in the medulla?",
+      "options": [
+        "Bromhexine",
+        "Ammonium chloride",
+        "Guaifenesin",
+        "Codeine and dextromethorphan"
+      ],
+      "correct": 3,
+      "explanation": "Codeine (opioid) and dextromethorphan (NMDA antagonist) act centrally to suppress the cough reflex in the medullary cough centre. Bromhexine and guaifenesin are expectorants that act peripherally. Ammonium chloride is a traditional expectorant.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m13",
+      "unit": 4,
+      "question": "Spironolactone is contraindicated with ACE inhibitors without close monitoring because both cause:",
+      "options": [
+        "Hypokalaemia",
+        "Hyponatraemia",
+        "Hyperkalaemia",
+        "Hypocalcaemia"
+      ],
+      "correct": 2,
+      "explanation": "ACE inhibitors reduce aldosterone secretion (less Ang II \u2192 less aldosterone \u2192 K+ retention). Spironolactone directly blocks the aldosterone receptor \u2192 further K+ retention. Combining them risks life-threatening hyperkalaemia, especially in patients with renal impairment.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m14",
+      "unit": 4,
+      "question": "Thiazide diuretics are unique among diuretics in that they cause hypocalciuria. This property is clinically useful for:",
+      "options": [
+        "Treating hypercalcaemia",
+        "Managing vitamin D toxicity",
+        "Treating osteoporosis by increasing bone calcium",
+        "Preventing calcium-oxalate kidney stones (reduce urinary calcium excretion)"
+      ],
+      "correct": 3,
+      "explanation": "Thiazides stimulate Ca2+ reabsorption in the distal convoluted tubule, reducing urinary Ca2+ excretion. This is used to prevent calcium-oxalate renal stone formation in patients with hypercalciuria. Loop diuretics have the opposite effect and promote calciuria.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m15",
+      "unit": 4,
+      "question": "Montelukast exerts its antiasthmatic effect by blocking:",
+      "options": [
+        "5-HT3 receptors",
+        "Thromboxane A2 receptors",
+        "CysLT1 receptors for cysteinyl leukotrienes (LTC4, LTD4, LTE4)",
+        "PGE2 receptors"
+      ],
+      "correct": 2,
+      "explanation": "Cysteinyl leukotrienes (LTC4, LTD4, LTE4) released from mast cells and eosinophils bind CysLT1 receptors in the airway, causing bronchoconstriction, oedema and mucus secretion. Montelukast specifically blocks CysLT1 receptors, reducing these effects.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m16",
+      "unit": 4,
+      "question": "Ototoxicity from rapid intravenous injection of frusemide is potentiated by:",
+      "options": [
+        "Penicillins",
+        "Beta blockers",
+        "Corticosteroids",
+        "Aminoglycosides (gentamicin, amikacin)"
+      ],
+      "correct": 3,
+      "explanation": "Both frusemide (high ceiling loop diuretic) and aminoglycosides are independently ototoxic. The combination is synergistically ototoxic \u2014 permanent cochlear and vestibular damage. The two should be avoided together where possible.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m17",
+      "unit": 4,
+      "question": "Sucralfate works by:",
+      "options": [
+        "Blocking H2 receptors on parietal cells",
+        "Forming a viscous gel that adheres to ulcer base, protecting it from acid and pepsin",
+        "Inhibiting the proton pump",
+        "Neutralising gastric acid"
+      ],
+      "correct": 1,
+      "explanation": "Sucralfate is an aluminium salt of sucrose octasulphate. In the acidic stomach it polymerises into a viscous gel that selectively adheres to the ulcer crater (which has a lower pH than normal mucosa), creating a physical protective barrier against acid and pepsin for 4\u20136 hours.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m18",
+      "unit": 4,
+      "question": "A nurse should withhold a laxative and report to the prescriber if the patient presents with:",
+      "options": [
+        "Constipation for 3 days",
+        "Hard stools after opioid initiation",
+        "Undiagnosed abdominal pain and distension with nausea (possible bowel obstruction)",
+        "Haemorrhoids with difficulty passing stools"
+      ],
+      "correct": 2,
+      "explanation": "Undiagnosed abdominal pain with distension can indicate bowel obstruction or acute abdomen. Administering a laxative could worsen obstruction or cause bowel perforation. These patients require urgent surgical assessment before any laxative is given.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m19",
+      "unit": 4,
+      "question": "Sodium cromoglicate is used for prophylaxis of exercise-induced asthma. It acts by:",
+      "options": [
+        "Relaxing bronchial smooth muscle via \u03b22 stimulation",
+        "Reducing eosinophil migration",
+        "Blocking muscarinic receptors in the bronchi",
+        "Inhibiting mast cell degranulation, preventing mediator release"
+      ],
+      "correct": 3,
+      "explanation": "Sodium cromoglicate prevents mast cell degranulation by blocking Cl- channels (reducing Ca2+ entry needed for exocytosis). When used before exercise or allergen exposure, it prevents the early and late asthmatic reactions. It has no bronchodilator activity \u2014 it must be used before the trigger, not during an attack.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m20",
+      "unit": 4,
+      "question": "Long-acting beta-2 agonists (LABAs) must NEVER be used as monotherapy in asthma because:",
+      "options": [
+        "They cause bronchospasm with regular use",
+        "They cause adrenal suppression",
+        "They have a short duration of action",
+        "Phase III trials showed increased asthma deaths when LABAs were used without inhaled corticosteroids"
+      ],
+      "correct": 3,
+      "explanation": "The FDA-mandated LABA warning: clinical trials (SMART trial with salmeterol) showed increased risk of asthma-related deaths when LABAs were used as monotherapy. LABAs must always be combined with an ICS. The leading hypothesis is that LABAs mask worsening inflammation without treating it.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Beta-lactam antibiotics kill bacteria by:",
+      "options": [
+        "Inhibiting DNA gyrase",
+        "Inhibiting 30S ribosomal subunit \u2192 misreading of mRNA",
+        "Binding penicillin-binding proteins (transpeptidases) and blocking peptidoglycan cross-linking",
+        "Increasing cell membrane permeability via ergosterol binding"
+      ],
+      "correct": 2,
+      "explanation": "Beta-lactams (penicillins, cephalosporins, carbapenems, monobactams) bind to penicillin-binding proteins (PBPs), which are transpeptidase enzymes that catalyse the final cross-linking step of peptidoglycan. Without cross-linking the cell wall is structurally weak, osmotic lysis occurs and the bacterium dies (bactericidal).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The most common mechanism of penicillin resistance in Staphylococcus aureus is:",
+      "options": [
+        "Altered penicillin-binding proteins (as in MRSA)",
+        "Production of beta-lactamase (penicillinase) that hydrolyses the beta-lactam ring",
+        "Efflux pump overexpression",
+        "Reduced outer membrane porin expression"
+      ],
+      "correct": 1,
+      "explanation": "Most community Staphylococcus aureus strains produce a beta-lactamase (penicillinase) that cleaves the beta-lactam ring, inactivating the drug. This is overcome by: (a) penicillinase-resistant penicillins (cloxacillin), or (b) combining amoxicillin with a beta-lactamase inhibitor (clavulanate).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "The major toxicity of aminoglycosides that requires monitoring of trough levels is:",
+      "options": [
+        "Hepatotoxicity",
+        "Nephrotoxicity (proximal tubular damage) and ototoxicity",
+        "Pulmonary fibrosis",
+        "Peripheral neuropathy"
+      ],
+      "correct": 1,
+      "explanation": "Aminoglycosides are concentrated in proximal tubular cells (nephrotoxicity) and cochlear hair cells (ototoxicity \u2014 both cochlear and vestibular). Toxicity is related to trough levels (sustained high exposure). Once-daily dosing maintains bactericidal peak concentration-dependent activity while reducing trough-related toxicity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Tetracyclines are contraindicated in children under 8 years because they:",
+      "options": [
+        "Cause seizures in young children",
+        "Cause cartilage damage like fluoroquinolones",
+        "Are hepatotoxic in children",
+        "Deposit in developing teeth and bone causing dental staining and enamel hypoplasia"
+      ],
+      "correct": 3,
+      "explanation": "Tetracyclines chelate calcium and are incorporated into developing teeth and bones. This causes permanent yellow-brown discolouration of deciduous and permanent teeth, dental enamel hypoplasia, and may retard bone growth in young children. They are also contraindicated in pregnancy (affects foetal dentition and bones).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The antitubercular drug most likely to cause optic neuritis is:",
+      "options": [
+        "Isoniazid",
+        "Rifampicin",
+        "Pyrazinamide",
+        "Ethambutol"
+      ],
+      "correct": 3,
+      "explanation": "Ethambutol causes retrochiasmal optic neuritis manifesting as reduced visual acuity and loss of red-green colour discrimination. It is dose-related and usually reversible if detected early. Baseline visual acuity and colour vision tests are mandatory, with monthly checks during treatment.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Rifampicin turns body fluids (urine, tears, sweat) an orange-red colour because:",
+      "options": [
+        "Rifampicin and its major metabolite (desacetylrifampicin) are red-orange coloured compounds excreted in all secretions",
+        "It is concentrated in body fluids",
+        "It causes haemolysis",
+        "It reacts with proteins in fluids"
+      ],
+      "correct": 0,
+      "explanation": "Rifampicin is a red-orange crystalline compound, and its main metabolite desacetylrifampicin is similarly coloured. Both are excreted in urine, tears, saliva, sweat and sputum, staining them orange-red. Patients must be warned before starting \u2014 it can permanently stain soft contact lenses.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Peripheral neuropathy from isoniazid is caused by and prevented by:",
+      "options": [
+        "Zinc deficiency \u2014 prevented by zinc supplementation",
+        "Folate deficiency \u2014 prevented by folic acid",
+        "Pyridoxine (B6) depletion \u2014 prevented by co-prescribing pyridoxine 10 mg/day",
+        "Copper deficiency \u2014 not preventable"
+      ],
+      "correct": 2,
+      "explanation": "Isoniazid competes with pyridoxal phosphate (the active form of vitamin B6) for the enzyme pyridoxine phosphokinase and also increases renal pyridoxine excretion. The resulting B6 deficiency causes peripheral neuropathy. Prophylactic pyridoxine 10 mg/day is given with isoniazid, especially to those at high risk (elderly, diabetics, alcoholics, malnourished, HIV positive).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Metronidazole causes a disulfiram-like reaction with alcohol because it:",
+      "options": [
+        "Increases alcohol absorption",
+        "Directly reacts with ethanol in the gut",
+        "Induces CYP2E1 \u2192 more ethanol metabolites",
+        "Inhibits aldehyde dehydrogenase \u2192 acetaldehyde accumulates \u2192 flushing, nausea, palpitations"
+      ],
+      "correct": 3,
+      "explanation": "Metronidazole inhibits aldehyde dehydrogenase, the enzyme that converts acetaldehyde (the first product of ethanol metabolism) to acetate. Acetaldehyde accumulates, causing the unpleasant disulfiram-like reaction: flushing, nausea, vomiting, tachycardia and hypotension. Alcohol must be avoided during and for 48 hours after treatment.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Fluoroquinolones (e.g. ciprofloxacin) are bactericidal because they:",
+      "options": [
+        "Inhibit bacterial DNA gyrase (topoisomerase II) and topoisomerase IV \u2192 DNA strand breaks \u2192 bacterial death",
+        "Block cell wall synthesis",
+        "Disrupt the cytoplasmic membrane",
+        "Inhibit RNA polymerase"
+      ],
+      "correct": 0,
+      "explanation": "Fluoroquinolones trap the covalent DNA-gyrase (or DNA-topo IV) complex in a cleavage state \u2192 permanent DNA double-strand breaks \u2192 rapid bacterial death (concentration-dependent bactericidal). The human topoisomerases II are ~1000-fold less sensitive.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Amphotericin B is selectively toxic to fungi because it binds ergosterol. The analogous human sterol is:",
+      "options": [
+        "Lanosterol",
+        "Desmosterol",
+        "Cholesterol",
+        "Campesterol"
+      ],
+      "correct": 2,
+      "explanation": "Fungal cell membranes contain ergosterol; human cell membranes contain cholesterol. Amphotericin B binds ergosterol with much higher affinity than cholesterol, explaining its selective fungal toxicity. Its nephrotoxicity arises because renal tubular cells have some ergosterol-like sterols and are exposed to high drug concentrations.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Acyclovir is selectively toxic to virus-infected cells because:",
+      "options": [
+        "It is only absorbed by virus-infected cells",
+        "Human kinases do not phosphorylate it even at high concentrations",
+        "It binds viral DNA directly without activation",
+        "Only virus-infected cells express viral thymidine kinase (TK) which performs the first phosphorylation step, activating the prodrug"
+      ],
+      "correct": 3,
+      "explanation": "Acyclovir requires phosphorylation to acyclovir triphosphate (the active inhibitor of viral DNA polymerase). The first phosphorylation step is performed exclusively by herpesvirus-encoded thymidine kinase (TK), which is only present in virus-infected cells. Human kinases cannot perform this step efficiently, giving the drug extraordinary selectivity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m12",
+      "unit": 5,
+      "question": "Chloroquine is NOT used for falciparum malaria in most endemic regions because:",
+      "options": [
+        "Widespread P. falciparum resistance has developed, making chloroquine largely ineffective",
+        "It is not active against Plasmodium falciparum",
+        "It is only active against liver stages",
+        "It is too expensive"
+      ],
+      "correct": 0,
+      "explanation": "Widespread P. falciparum resistance to chloroquine has developed globally (resistance mutation: pfcrt K76T on chromosome 7). WHO recommends artemisinin-based combination therapies (ACTs) as first-line for falciparum malaria. Chloroquine remains effective for P. vivax and P. ovale in most areas.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m13",
+      "unit": 5,
+      "question": "Primaquine must not be given without first testing for G6PD deficiency because it causes:",
+      "options": [
+        "Haemolytic anaemia (oxidative destruction of RBCs) in G6PD-deficient patients",
+        "Methaemoglobinaemia only in G6PD-deficient patients",
+        "Renal failure in G6PD-deficient patients",
+        "Steven-Johnson syndrome in G6PD-deficient patients"
+      ],
+      "correct": 0,
+      "explanation": "Primaquine and its metabolites generate reactive oxygen species. Normally, reduced glutathione (maintained by G6PD) neutralises these. In G6PD deficiency, oxidative stress is uncompensated \u2192 oxidation of Hb to met-Hb, Heinz body formation, and haemolysis of susceptible RBCs.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m14",
+      "unit": 5,
+      "question": "The hallmark unique toxicity of bleomycin (anticancer antibiotic) is:",
+      "options": [
+        "Cardiotoxicity",
+        "Pulmonary fibrosis",
+        "Peripheral neuropathy",
+        "Haemorrhagic cystitis"
+      ],
+      "correct": 1,
+      "explanation": "Bleomycin causes pulmonary toxicity (pneumonitis \u2192 fibrosis) in 10% of patients, which is dose-related and can be fatal. It is unique in that it causes minimal myelosuppression. Monitoring includes regular DLCO (diffusing capacity) and CXR, and total cumulative dose must not exceed safe limits.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m15",
+      "unit": 5,
+      "question": "Cyclophosphamide causes haemorrhagic cystitis because one of its metabolites is:",
+      "options": [
+        "Phosphoramide mustard",
+        "Acrolein, which is excreted in the urine and is toxic to the bladder epithelium",
+        "4-hydroxycyclophosphamide",
+        "Chloroacetaldehyde"
+      ],
+      "correct": 1,
+      "explanation": "Hepatic CYP450 activates cyclophosphamide to hydroxycyclophosphamide \u2192 phosphoramide mustard (DNA alkylator, the active anticancer metabolite) + acrolein (a toxic byproduct). Acrolein is excreted in the urine and directly damages the bladder urothelium. Mesna (sodium 2-mercaptoethanesulphonate) inactivates acrolein in the urine, preventing cystitis.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m16",
+      "unit": 5,
+      "question": "Methotrexate at high doses requires 'folinic acid rescue' because methotrexate:",
+      "options": [
+        "Directly destroys folinic acid",
+        "Inhibits dihydrofolate reductase (DHFR) \u2192 depletes tetrahydrofolate \u2192 prevents DNA synthesis in normal cells",
+        "Causes renal failure that prevents methotrexate excretion",
+        "Induces liver enzymes that metabolise folinic acid"
+      ],
+      "correct": 1,
+      "explanation": "Methotrexate inhibits DHFR, blocking the conversion of dihydrofolate to tetrahydrofolate. This depletes folate cofactors needed for thymidylate and purine synthesis (affecting rapidly dividing normal cells \u2014 gut, bone marrow). Folinic acid (5-formyl-THF, leucovorin) bypasses the DHFR block and rescues normal cells while tumour cells (with impaired folate transport) are less able to take it up.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m17",
+      "unit": 5,
+      "question": "Vinca alkaloids (vincristine, vinblastine) exert their anticancer effect by:",
+      "options": [
+        "Alkylating DNA guanine residues",
+        "Inhibiting topoisomerase I",
+        "Stabilising the polymerised microtubule (opposite of taxanes)",
+        "Binding \u03b2-tubulin \u2192 preventing microtubule polymerisation \u2192 mitotic spindle failure \u2192 metaphase arrest"
+      ],
+      "correct": 3,
+      "explanation": "Vinca alkaloids bind to \u03b2-tubulin dimers (at a site different from colchicine) and prevent their polymerisation into the mitotic spindle. Without a functional spindle, chromosomes cannot segregate at metaphase \u2192 mitotic arrest and apoptosis. This is cell-cycle specific (M phase).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m18",
+      "unit": 5,
+      "question": "The major adverse effect of doxorubicin that limits cumulative dose is:",
+      "options": [
+        "Cardiotoxicity (dilated cardiomyopathy, dose-related) with a maximum lifetime dose of approximately 450\u2013550 mg/m2",
+        "Nephrotoxicity (dose cumulative renal failure)",
+        "Pulmonary fibrosis",
+        "Peripheral neuropathy"
+      ],
+      "correct": 0,
+      "explanation": "Doxorubicin causes cumulative, dose-dependent cardiomyopathy (dilated cardiomyopathy, heart failure) due to free radical damage to cardiomyocytes. LVEF monitoring is mandatory, and the total lifetime dose must not exceed 450\u2013550 mg/m2. Liposomal doxorubicin reduces cardiotoxicity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m19",
+      "unit": 5,
+      "question": "Allopurinol significantly raises the toxicity of azathioprine and mercaptopurine because it inhibits:",
+      "options": [
+        "Xanthine oxidase, the enzyme that metabolises these purine analogues to inactive metabolites \u2192 drug accumulation",
+        "Their renal excretion",
+        "Their intestinal absorption",
+        "Their activation by phosphorylation"
+      ],
+      "correct": 0,
+      "explanation": "Azathioprine is converted to 6-mercaptopurine (6-MP), which is then inactivated by xanthine oxidase (among other enzymes). Allopurinol inhibits xanthine oxidase \u2192 6-MP accumulates \u2192 bone marrow suppression and hepatotoxicity. The dose of azathioprine/6-MP must be reduced by 50\u201375% if allopurinol is added.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m20",
+      "unit": 5,
+      "question": "DOTS (Directly Observed Treatment Short-course) for tuberculosis is primarily aimed at:",
+      "options": [
+        "Ensuring the correct antibiotic combination is used",
+        "Reducing the cost of treatment",
+        "Monitoring for adverse drug reactions daily",
+        "Preventing the emergence of drug resistance by confirming that every dose is actually swallowed"
+      ],
+      "correct": 3,
+      "explanation": "MDR-TB arises almost entirely from inadequate or incomplete treatment \u2014 partial suppression of sensitive strains while resistant mutants survive. DOTS ensures that a healthcare worker or trained observer watches the patient swallow every dose in the intensive phase, eliminating non-adherence as a cause of resistance.",
+      "probability": "high"
+    }
+  ]
+}

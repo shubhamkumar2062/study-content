@@ -5,12 +5,12 @@
       "unit": 1,
       "question": "Which type of restriction endonuclease is used in routine gene cloning?",
       "options": [
-        "Type I",
         "Type II",
+        "Type I",
         "Type III",
         "Type IV"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Type II restriction enzymes cut at a specific palindromic recognition sequence and require only Mg2+, making them predictable and suitable for cloning.",
       "probability": "high"
     },
@@ -61,12 +61,12 @@
       "unit": 1,
       "question": "Taq polymerase is used in PCR because it is:",
       "options": [
-        "More accurate than E. coli polymerase",
         "Heat-stable and functional after 95°C denaturation",
+        "More accurate than E. coli polymerase",
         "Able to extend without primers",
         "Obtained from bacteriophage T7"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Taq polymerase from Thermus aquaticus survives repeated denaturation at 95°C, allowing PCR cycling without adding fresh enzyme each cycle.",
       "probability": "high"
     },
@@ -75,12 +75,12 @@
       "unit": 1,
       "question": "In the Sanger dideoxy sequencing method, chain termination is caused by:",
       "options": [
-        "High temperature",
         "Incorporation of a dideoxynucleoside triphosphate (ddNTP)",
+        "High temperature",
         "Depletion of dNTPs",
         "Action of an exonuclease"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "ddNTPs lack the 3'-OH group necessary for the next phosphodiester bond; their incorporation terminates chain extension.",
       "probability": "high"
     },
@@ -103,12 +103,12 @@
       "unit": 1,
       "question": "In blue-white screening of recombinant E. coli colonies, insert-containing colonies appear:",
       "options": [
-        "Blue",
         "White",
+        "Blue",
         "Red",
         "Yellow"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Insertion of a foreign gene into the lacZ gene disrupts its reading frame; no functional beta-galactosidase is made, so X-gal is not cleaved to blue product — colonies remain white.",
       "probability": "high"
     },
@@ -159,12 +159,12 @@
       "unit": 1,
       "question": "Which of the following is a feature that all cloning vectors must possess?",
       "options": [
-        "A T7 promoter",
         "An origin of replication",
+        "A T7 promoter",
         "Green fluorescent protein gene",
         "An inducible tac promoter"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Without an origin of replication, the vector cannot replicate autonomously in the host cell.",
       "probability": "high"
     },
@@ -187,12 +187,12 @@
       "unit": 1,
       "question": "Which blotting technique detects specific mRNA species?",
       "options": [
-        "Southern blot",
         "Northern blot",
+        "Southern blot",
         "Western blot",
         "Far-Western blot"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Northern blotting separates RNA by denaturing gel electrophoresis and detects specific mRNA with a labelled DNA probe; used to study gene expression.",
       "probability": "high"
     },
@@ -257,12 +257,12 @@
       "unit": 1,
       "question": "Type I restriction enzymes differ from Type II in that they:",
       "options": [
-        "Cut at the recognition site",
         "Cut randomly at a site distant from the recognition site",
+        "Cut at the recognition site",
         "Require no cofactors",
         "Produce blunt ends"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Type I enzymes recognise a specific sequence but cut randomly 1000+ bp away; this unpredictability makes them useless for routine cloning.",
       "probability": "high"
     },
@@ -299,12 +299,12 @@
       "unit": 2,
       "question": "Recombinant EPO must be produced in CHO cells rather than E. coli because EPO requires:",
       "options": [
-        "Disulphide bond formation",
         "Glycosylation for in vivo activity and half-life",
+        "Disulphide bond formation",
         "Inclusion body formation",
         "IPTG induction"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "EPO is 40% carbohydrate; glycosylation prevents renal filtration and determines in vivo half-life. E. coli cannot glycosylate proteins.",
       "probability": "high"
     },
@@ -313,12 +313,12 @@
       "unit": 2,
       "question": "Inclusion bodies in E. coli expression are described as:",
       "options": [
-        "Correctly folded, active protein in solution",
         "Insoluble aggregates of misfolded recombinant protein",
+        "Correctly folded, active protein in solution",
         "Plasmid DNA aggregates",
         "Membrane-enclosed vesicles"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Inclusion bodies are dense insoluble aggregates of overexpressed protein; they require solubilisation with urea/guanidinium and refolding.",
       "probability": "high"
     },
@@ -355,12 +355,12 @@
       "unit": 2,
       "question": "Interferon-beta 1b (Betaseron) differs from natural IFN-β in having:",
       "options": [
-        "An additional glycan chain",
         "A serine in place of cysteine at position 17",
+        "An additional glycan chain",
         "An N-terminal methionine only",
         "A PEG chain attached"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "IFN-β1b has Cys17 replaced with Ser for stability; it is expressed in E. coli (unglycosylated), unlike IFN-β1a which is glycosylated and produced in CHO cells.",
       "probability": "medium"
     },
@@ -369,12 +369,12 @@
       "unit": 2,
       "question": "PEGylation of a therapeutic protein primarily extends its half-life by:",
       "options": [
-        "Increasing receptor affinity",
         "Increasing the hydrodynamic radius and reducing renal filtration",
+        "Increasing receptor affinity",
         "Improving oral bioavailability",
         "Enhancing glycosylation"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "PEG chains create a large water shell, increasing hydrodynamic radius beyond the glomerular filtration threshold and shielding antigenic epitopes.",
       "probability": "medium"
     },
@@ -383,12 +383,12 @@
       "unit": 2,
       "question": "G-CSF (filgrastim) is used clinically mainly for:",
       "options": [
-        "Anaemia of chronic kidney disease",
         "Chemotherapy-induced neutropenia",
+        "Anaemia of chronic kidney disease",
         "Multiple sclerosis",
         "Hepatitis B"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "G-CSF stimulates neutrophil production from bone marrow; it reduces the duration of neutropenia and the risk of febrile neutropenia after myelosuppressive chemotherapy.",
       "probability": "high"
     },
@@ -397,12 +397,12 @@
       "unit": 2,
       "question": "Recombinant tissue plasminogen activator (tPA) is used in the treatment of:",
       "options": [
-        "Deep vein thrombosis only",
         "Acute ischaemic stroke and myocardial infarction",
+        "Deep vein thrombosis only",
         "Haemophilia",
         "Anaemia"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "tPA activates plasminogen to plasmin and dissolves fibrin clots; it is used in acute MI and ischaemic stroke within defined time windows.",
       "probability": "high"
     },
@@ -425,12 +425,12 @@
       "unit": 2,
       "question": "Darbepoetin alfa has a longer half-life than epoetin alfa because it has:",
       "options": [
-        "A larger molecular weight due to protein engineering",
         "Two additional N-glycosylation sites",
+        "A larger molecular weight due to protein engineering",
         "A PEG chain attached",
         "Reduced receptor binding affinity"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Darbepoetin alfa was engineered with two extra N-glycosylation sites, increasing carbohydrate content and extending serum half-life threefold, allowing once-weekly dosing.",
       "probability": "medium"
     },
@@ -453,12 +453,12 @@
       "unit": 2,
       "question": "The Pichia pastoris expression system is induced by which compound?",
       "options": [
-        "IPTG",
         "Methanol",
+        "IPTG",
         "Galactose",
         "Sorbitol"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "The AOX1 (alcohol oxidase) promoter in Pichia pastoris is strongly induced by methanol; the organism grows to very high cell densities on methanol as the sole carbon source.",
       "probability": "medium"
     },
@@ -481,12 +481,12 @@
       "unit": 2,
       "question": "Refolding of proteins from inclusion bodies requires removal of which denaturant?",
       "options": [
-        "Ammonium sulphate",
         "Urea or guanidinium hydrochloride",
+        "Ammonium sulphate",
         "NaCl",
         "Imidazole"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Inclusion bodies are solubilised in 6-8 M urea or 6 M guanidinium hydrochloride; slow removal of the denaturant by dilution or dialysis allows the protein to refold.",
       "probability": "high"
     },
@@ -537,12 +537,12 @@
       "unit": 2,
       "question": "The baculovirus/insect cell expression system is best suited for:",
       "options": [
-        "Large-scale production of insulin",
         "Virus-like particles and multiprotein complexes",
+        "Large-scale production of insulin",
         "Production of antibodies with human glycosylation",
         "Production of non-glycosylated proteins at lowest cost"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "The baculovirus system can assemble complex multiprotein structures and VLPs; it supports post-translational modifications but scale-up is more difficult than bacterial or mammalian systems.",
       "probability": "medium"
     },
@@ -565,12 +565,12 @@
       "unit": 3,
       "question": "Hybridoma technology was developed by:",
       "options": [
-        "Paul Ehrlich and Robert Koch",
         "Georges Kohler and Cesar Milstein",
+        "Paul Ehrlich and Robert Koch",
         "Frederick Sanger and Kary Mullis",
         "Linus Pauling and Francis Crick"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Kohler and Milstein developed hybridoma technology in 1975 and shared the Nobel Prize in Physiology or Medicine 1984.",
       "probability": "high"
     },
@@ -579,12 +579,12 @@
       "unit": 3,
       "question": "HAT medium selects hybridomas because unfused myeloma cells lack:",
       "options": [
-        "Thymidine kinase",
         "HGPRT (hypoxanthine-guanine phosphoribosyltransferase)",
+        "Thymidine kinase",
         "Dihydrofolate reductase",
         "Adenylate kinase"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "The myeloma cells used in hybridoma technology are HGPRT-negative. With aminopterin blocking de novo synthesis and no salvage pathway, they die in HAT medium.",
       "probability": "high"
     },
@@ -607,12 +607,12 @@
       "unit": 3,
       "question": "Rituximab is used in B-cell non-Hodgkin lymphoma because it targets:",
       "options": [
-        "HER2",
         "CD20",
+        "HER2",
         "VEGF",
         "TNF-alpha"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "CD20 is expressed on most B cells and B-cell lymphomas; rituximab (anti-CD20 chimeric IgG1) triggers ADCC, CDC and direct apoptosis of B cells.",
       "probability": "high"
     },
@@ -649,12 +649,12 @@
       "unit": 3,
       "question": "In a sandwich ELISA, the signal (colour intensity) is proportional to:",
       "options": [
-        "The amount of capture antibody on the plate",
         "The amount of antigen in the sample",
+        "The amount of capture antibody on the plate",
         "The concentration of blocking agent",
         "The wavelength of light used"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "More antigen captured by the first antibody means more detection antibody-enzyme conjugate is bound, generating more colour product.",
       "probability": "high"
     },
@@ -691,12 +691,12 @@
       "unit": 3,
       "question": "Fully human monoclonal antibodies are produced by:",
       "options": [
-        "Immunising mice and using hybridoma technology",
         "Phage display of human antibody libraries or transgenic mice with human Ig loci",
+        "Immunising mice and using hybridoma technology",
         "CDR grafting of mouse CDRs onto human framework",
         "Chemical synthesis"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Phage display (panning human VH/VL gene libraries against antigen) or UltiMAb transgenic mice with human immunoglobulin loci generate 100% human sequences.",
       "probability": "high"
     },
@@ -705,12 +705,12 @@
       "unit": 3,
       "question": "The Fab fragment of an IgG antibody contains:",
       "options": [
-        "Only the constant regions",
         "The VH, CH1, VL and CL domains",
+        "Only the constant regions",
         "Only the Fc receptor-binding domain",
         "The CH2 and CH3 domains only"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "The Fab (antigen-binding fragment) includes the variable domain and first constant domain of each chain (VH+CH1 from heavy; VL+CL from light); it carries the antigen-binding site.",
       "probability": "high"
     },
@@ -733,12 +733,12 @@
       "unit": 3,
       "question": "The indirect ELISA is primarily used to detect:",
       "options": [
-        "Antigens in tissue",
         "Antibodies in patient serum",
+        "Antigens in tissue",
         "DNA sequences",
         "Enzyme activity"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "In indirect ELISA, the antigen is coated on the plate; patient serum is added; a secondary anti-human antibody conjugated to enzyme detects bound patient antibodies. Used in HIV serology.",
       "probability": "high"
     },
@@ -762,11 +762,11 @@
       "question": "Radioimmunoassay (RIA) was developed by which scientists and earned them the Nobel Prize?",
       "options": [
         "Kohler and Milstein",
-        "Berson and Yalow",
+        "Mullis and Smith",
         "Sanger and Gilbert",
-        "Mullis and Smith"
+        "Berson and Yalow"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Solomon Berson and Rosalyn Yalow developed RIA for insulin in 1960. Yalow received the Nobel Prize in Physiology or Medicine 1977.",
       "probability": "medium"
     },
@@ -805,10 +805,10 @@
       "options": [
         "IgA",
         "IgM",
-        "IgG",
-        "IgE"
+        "IgE",
+        "IgG"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "IgG is the most abundant serum antibody (~80% of total immunoglobulin); its ~21-day half-life (via FcRn recycling) makes it ideal for therapeutic use.",
       "probability": "medium"
     },
@@ -819,10 +819,10 @@
       "options": [
         "Doxorubicin",
         "Methotrexate",
-        "Emtansine (DM1) — a maytansinoid",
-        "Vinblastine"
+        "Vinblastine",
+        "Emtansine (DM1) — a maytansinoid"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "DM1 is a maytansinoid that inhibits tubulin polymerisation; it is 100-200 times more cytotoxic than conventional chemotherapy but tolerable when targeted by trastuzumab.",
       "probability": "medium"
     },
@@ -889,10 +889,10 @@
       "options": [
         "Lag phase",
         "Early exponential phase",
-        "Stationary (idiophase) or late exponential phase",
-        "Decline/death phase only"
+        "Decline/death phase only",
+        "Stationary (idiophase) or late exponential phase"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Secondary metabolites are produced in the idiophase when growth slows; Luedeking-Piret model classifies penicillin as non-growth-associated (beta coefficient dominant).",
       "probability": "high"
     },
@@ -903,10 +903,10 @@
       "options": [
         "Increase biomass",
         "Provide pH control",
-        "Direct biosynthesis towards penicillin G by supplying the side chain",
-        "Increase dissolved oxygen"
+        "Increase dissolved oxygen",
+        "Direct biosynthesis towards penicillin G by supplying the side chain"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "The phenylacetyl-CoA side chain of penicillin G comes from phenylacetic acid; without precursor feeding, the organism produces a mixture of natural penicillins.",
       "probability": "high"
     },
@@ -931,10 +931,10 @@
       "options": [
         "Autoclave at 121°C",
         "HTST at 140°C",
-        "Membrane filtration through a 0.2 µm filter",
-        "UV irradiation"
+        "UV irradiation",
+        "Membrane filtration through a 0.2 µm filter"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Heat-sensitive vitamins, amino acids and enzymes are sterilised by filtration through a 0.2 µm membrane that physically removes microorganisms without heat.",
       "probability": "high"
     },
@@ -945,10 +945,10 @@
       "options": [
         "Protease",
         "Lipase",
-        "Alpha-amylase",
-        "Glucose isomerase"
+        "Glucose isomerase",
+        "Alpha-amylase"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Thermostable alpha-amylase from Bacillus licheniformis hydrolyses starch to dextrins and maltose; it is used in the food, starch and detergent industries.",
       "probability": "medium"
     },
@@ -973,10 +973,10 @@
       "options": [
         "Temperature",
         "pH",
-        "Oxygen mass transfer coefficient (kLa)",
-        "Vessel shape"
+        "Vessel shape",
+        "Oxygen mass transfer coefficient (kLa)"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Oxygen availability limits most aerobic fermentations; kLa depends on stirrer power, airflow and bubble size, and must be maintained at large scale.",
       "probability": "medium"
     },
@@ -1001,10 +1001,10 @@
       "options": [
         "Higher dissolved oxygen control",
         "Defined liquid medium",
-        "Low moisture content (20-70%) on a solid substrate",
-        "Easier scale-up"
+        "Easier scale-up",
+        "Low moisture content (20-70%) on a solid substrate"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "SSF uses a moistened solid substrate (agricultural residues) with no free water; conditions are harder to control but it uses cheap raw materials.",
       "probability": "medium"
     },
@@ -1043,10 +1043,10 @@
       "options": [
         "Penicillin G",
         "Streptomycin",
-        "Erythromycin",
-        "Vancomycin"
+        "Vancomycin",
+        "Erythromycin"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Saccharopolyspora erythraea (previously Streptomyces erythraeus) produces the macrolide antibiotic erythromycin in a submerged fed-batch fermentation.",
       "probability": "medium"
     },
@@ -1071,10 +1071,10 @@
       "options": [
         "Temperature control",
         "pH control",
-        "Agitation and dispersion of air bubbles; mixing",
-        "Cell separation"
+        "Cell separation",
+        "Agitation and dispersion of air bubbles; mixing"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "The Rushton flat-blade disc turbine creates radial flow and high shear, efficiently dispersing gas bubbles and maintaining homogeneous conditions.",
       "probability": "medium"
     },
@@ -1113,10 +1113,10 @@
       "options": [
         "Yoghurt",
         "Vinegar",
-        "Soy sauce (via koji mould on rice/soybean)",
-        "Cheese"
+        "Cheese",
+        "Soy sauce (via koji mould on rice/soybean)"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Aspergillus oryzae grows on steamed rice or soybean (koji SSF), producing amylases and proteases that break down the substrate; the koji is then used in soy sauce and miso production.",
       "probability": "medium"
     },
@@ -1141,10 +1141,10 @@
       "options": [
         "Viral contamination",
         "Host cell protein impurities",
-        "Bacterial endotoxin (lipopolysaccharide)",
-        "Residual solvent"
+        "Residual solvent",
+        "Bacterial endotoxin (lipopolysaccharide)"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "The Limulus amebocyte lysate (LAL) test detects bacterial endotoxin (LPS), which causes fever and septic shock; limit for IV products is typically 5 EU/kg per dose.",
       "probability": "high"
     },
@@ -1169,10 +1169,10 @@
       "options": [
         "NaCl",
         "Polysorbate 80",
-        "Trehalose or sucrose",
-        "Mannitol (when crystalline)"
+        "Mannitol (when crystalline)",
+        "Trehalose or sucrose"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Trehalose and sucrose are amorphous lyoprotectants that form hydrogen bonds with protein polar groups, substituting for water and protecting tertiary structure during drying.",
       "probability": "high"
     },
@@ -1197,10 +1197,10 @@
       "options": [
         "The biosimilar is chemically identical to the reference product",
         "Only a bioequivalence study is required",
-        "The biosimilar is highly similar but not identical, requiring a comparability data package",
-        "Biosimilars are cheaper and always interchangeable"
+        "Biosimilars are cheaper and always interchangeable",
+        "The biosimilar is highly similar but not identical, requiring a comparability data package"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Because living cells produce biologics, a biosimilar from a different cell line and process cannot be identical; comparability must be demonstrated analytically, non-clinically and clinically.",
       "probability": "high"
     },
@@ -1225,10 +1225,10 @@
       "options": [
         "Ion exchange chromatography",
         "Affinity chromatography",
-        "Size exclusion chromatography (gel filtration)",
-        "Hydrophobic interaction chromatography"
+        "Hydrophobic interaction chromatography",
+        "Size exclusion chromatography (gel filtration)"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "In SEC, porous beads retard smaller molecules (which enter pores) while larger molecules are excluded; large molecules elute first. Used for aggregate removal and analytical characterisation.",
       "probability": "high"
     },
@@ -1309,10 +1309,10 @@
       "options": [
         "Chromatography purification",
         "Formulation into drug substance",
-        "Recovery (harvest) — separation of cells from the medium",
-        "Viral inactivation"
+        "Viral inactivation",
+        "Recovery (harvest) — separation of cells from the medium"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Recovery comes first; it separates cells from the conditioned medium (for secreted products) or provides disrupted cells (for intracellular products) for all subsequent steps.",
       "probability": "high"
     },
@@ -1323,10 +1323,10 @@
       "options": [
         "FDA",
         "EMA",
-        "CDSCO",
-        "WHO"
+        "WHO",
+        "CDSCO"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "The Central Drugs Standard Control Organisation (CDSCO) under India's Ministry of Health regulates biologics under the New Drugs and Clinical Trial Rules 2019.",
       "probability": "high"
     },
@@ -1337,10 +1337,10 @@
       "options": [
         "Measuring endotoxin levels",
         "Detecting residual solvents",
-        "Confirming primary amino acid sequence and detecting post-translational modifications",
-        "Measuring protein aggregation"
+        "Measuring protein aggregation",
+        "Confirming primary amino acid sequence and detecting post-translational modifications"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Tryptic digest of the protein followed by LC-MS identifies each peptide by mass; it confirms primary sequence, detects deamidation, oxidation, glycation and glycosylation sites.",
       "probability": "medium"
     },
@@ -1379,10 +1379,10 @@
       "options": [
         "SDS-PAGE under reducing conditions",
         "LAL assay",
-        "Size exclusion chromatography (SEC-HPLC) and dynamic light scattering",
-        "Gas chromatography"
+        "Gas chromatography",
+        "Size exclusion chromatography (SEC-HPLC) and dynamic light scattering"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "SEC-HPLC separates monomers from dimers and high-molecular-weight aggregates; DLS measures particle size distribution in solution; both are standard aggregate tests.",
       "probability": "medium"
     },
@@ -1393,10 +1393,10 @@
       "options": [
         "Lysine and arginine",
         "Methionine and cysteine",
-        "Asparagine and glutamine",
-        "Proline and glycine"
+        "Proline and glycine",
+        "Asparagine and glutamine"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "The amide side chains of asparagine (Asn) and glutamine (Gln) are chemically labile; hydrolysis produces aspartate/glutamate, changing the charge and potentially the function of the protein.",
       "probability": "medium"
     }
