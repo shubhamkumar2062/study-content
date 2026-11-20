@@ -1,0 +1,774 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "Which nucleus is NMR inactive?",
+      "options": [
+        "¹²C",
+        "¹H",
+        "¹³C",
+        "¹⁹F"
+      ],
+      "correct": 0,
+      "explanation": "¹²C has even protons and even neutrons, so I = 0 and it gives no NMR signal.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The resonance (Larmor) frequency of a nucleus is given by:",
+      "options": [
+        "ν = hB0/γ",
+        "ν = γB0/2π",
+        "ν = 2πγ/B0",
+        "ν = γ/2πB0"
+      ],
+      "correct": 1,
+      "explanation": "Precession frequency is proportional to the field: ν = γB0/2π.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "A signal 2190 Hz downfield from TMS on a 300 MHz instrument has δ of:",
+      "options": [
+        "2.19 ppm",
+        "0.73 ppm",
+        "7.30 ppm",
+        "73.0 ppm"
+      ],
+      "correct": 2,
+      "explanation": "δ = 2190/300 = 7.30 ppm.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The protons of a CH2 group next to a CH3 group appear as a:",
+      "options": [
+        "Triplet",
+        "Doublet",
+        "Singlet",
+        "Quartet"
+      ],
+      "correct": 3,
+      "explanation": "Three neighbouring protons give n + 1 = 4 lines.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Spin–lattice relaxation time is denoted by:",
+      "options": [
+        "T1",
+        "T2",
+        "J",
+        "σ"
+      ],
+      "correct": 0,
+      "explanation": "T1 is longitudinal (spin–lattice); T2 is transverse (spin–spin).",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "In a DEPT-135 spectrum, CH2 carbons appear:",
+      "options": [
+        "As positive peaks",
+        "As negative (inverted) peaks",
+        "Not at all",
+        "As doublets"
+      ],
+      "correct": 1,
+      "explanation": "DEPT-135: CH and CH3 positive, CH2 negative, quaternary absent.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Which ionisation method uses a 70 eV electron beam?",
+      "options": [
+        "Chemical ionisation",
+        "MALDI",
+        "Electron impact",
+        "Electrospray"
+      ],
+      "correct": 2,
+      "explanation": "EI uses 70 eV electrons from a heated filament and gives many fragments.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "The reagent ion that protonates the sample in methane chemical ionisation is:",
+      "options": [
+        "CH3⁻",
+        "CH4⁺•",
+        "H3O⁻",
+        "CH5⁺"
+      ],
+      "correct": 3,
+      "explanation": "CH4⁺• reacts with CH4 to give CH5⁺, which transfers a proton to M.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "A compound shows M and M + 2 peaks in about 3 : 1 ratio. It contains one atom of:",
+      "options": [
+        "Chlorine",
+        "Bromine",
+        "Sulfur",
+        "Nitrogen"
+      ],
+      "correct": 0,
+      "explanation": "³⁵Cl : ³⁷Cl is about 3 : 1; Br gives about 1 : 1.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "The base peak in the mass spectrum of toluene at m/z 91 is due to the:",
+      "options": [
+        "Benzoyl ion",
+        "Tropylium ion",
+        "Phenyl ion",
+        "Molecular ion"
+      ],
+      "correct": 1,
+      "explanation": "Benzylic cleavage gives the stable C7H7⁺ tropylium ion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m11",
+      "unit": 1,
+      "question": "In a time-of-flight analyser, ions of higher m/z:",
+      "options": [
+        "Reach the detector first",
+        "Are filtered out by RF",
+        "Reach the detector later",
+        "Follow a curved path"
+      ],
+      "correct": 2,
+      "explanation": "t = L√(m/2zeV), so heavier ions travel more slowly.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Thermogravimetric analysis measures change in:",
+      "options": [
+        "Heat flow with temperature",
+        "Temperature difference",
+        "Volume with temperature",
+        "Mass with temperature"
+      ],
+      "correct": 3,
+      "explanation": "TGA records mass continuously as temperature rises.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "DSC directly gives the enthalpy of a transition because it measures:",
+      "options": [
+        "Difference in heat flow",
+        "Difference in mass",
+        "Only the temperature difference",
+        "Change in refractive index"
+      ],
+      "correct": 0,
+      "explanation": "Peak area of heat flow vs time gives ΔH.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "The reference material commonly used in DTA is:",
+      "options": [
+        "Indium",
+        "Calcined alumina",
+        "Silica gel",
+        "Potassium bromide"
+      ],
+      "correct": 1,
+      "explanation": "Alumina is inert and shows no transitions over the working range.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which event is exothermic?",
+      "options": [
+        "Melting",
+        "Dehydration",
+        "Crystallisation of an amorphous solid",
+        "Evaporation"
+      ],
+      "correct": 2,
+      "explanation": "Crystallisation releases heat; melting and dehydration absorb heat.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "On heating, calcium oxalate monohydrate first loses:",
+      "options": [
+        "Carbon monoxide",
+        "Carbon dioxide",
+        "Oxygen",
+        "Water"
+      ],
+      "correct": 3,
+      "explanation": "Steps: H2O, then CO (to CaCO3), then CO2 (to CaO).",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "A glass transition appears on a DSC curve as:",
+      "options": [
+        "A step change in the baseline",
+        "A sharp endothermic peak",
+        "A sharp exothermic peak",
+        "A mass loss"
+      ],
+      "correct": 0,
+      "explanation": "Tg is a change in heat capacity, not a latent heat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Bragg's law is:",
+      "options": [
+        "nλ = d sinθ",
+        "nλ = 2d sinθ",
+        "λ = 2nd cosθ",
+        "nλ = 2d tanθ"
+      ],
+      "correct": 1,
+      "explanation": "Constructive interference when the extra path 2d sinθ equals nλ.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "With Cu Kα (1.5406 Å), a peak at 2θ = 20° corresponds to d of about:",
+      "options": [
+        "8.84 Å",
+        "2.98 Å",
+        "4.44 Å",
+        "1.54 Å"
+      ],
+      "correct": 2,
+      "explanation": "d = 1.5406/(2 sin 10°) = 4.44 Å.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Characteristic Kα X-rays arise when:",
+      "options": [
+        "Electrons decelerate near the nucleus",
+        "An M-shell electron fills an L-shell vacancy",
+        "The filament is heated",
+        "An L-shell electron fills a K-shell vacancy"
+      ],
+      "correct": 3,
+      "explanation": "Kα = L → K; Kβ = M → K; deceleration gives bremsstrahlung.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The X-ray method used to identify polymorphs of a drug powder routinely is:",
+      "options": [
+        "Powder X-ray diffraction",
+        "Laue method",
+        "Rotating crystal method",
+        "X-ray fluorescence"
+      ],
+      "correct": 0,
+      "explanation": "PXRD gives a fingerprint of d-spacings for each crystal form.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m11",
+      "unit": 2,
+      "question": "How many crystal systems are there?",
+      "options": [
+        "Fourteen",
+        "Seven",
+        "Five",
+        "Thirty-two"
+      ],
+      "correct": 1,
+      "explanation": "Seven crystal systems give fourteen Bravais lattices.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Holmium perchlorate solution is used in UV spectrophotometer calibration to check:",
+      "options": [
+        "Stray light",
+        "Absorbance accuracy",
+        "Wavelength accuracy",
+        "Resolution"
+      ],
+      "correct": 2,
+      "explanation": "Holmium has sharp bands at known wavelengths.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Potassium dichromate in 0.005 M sulfuric acid checks the UV spectrophotometer's:",
+      "options": [
+        "Wavelength scale",
+        "Stray light",
+        "Cell matching",
+        "Absorbance (photometric) accuracy"
+      ],
+      "correct": 3,
+      "explanation": "Its specific absorbances at 235, 257, 313 and 350 nm are prescribed.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Stray light in a UV spectrophotometer is checked using:",
+      "options": [
+        "1.2% w/v potassium chloride",
+        "0.02% toluene in hexane",
+        "Holmium oxide",
+        "Quinine sulfate"
+      ],
+      "correct": 0,
+      "explanation": "KCl must show absorbance above 2.0 at about 200 nm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The IR wavenumber scale is calibrated using:",
+      "options": [
+        "Holmium oxide",
+        "Polystyrene film",
+        "Potassium chloride",
+        "Caffeine"
+      ],
+      "correct": 1,
+      "explanation": "Polystyrene has sharp bands at 3060.0, 2849.5, 1601.2 cm⁻¹ and others.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "According to ICH, LOQ is calculated as:",
+      "options": [
+        "3.3σ/S",
+        "σ/S",
+        "10σ/S",
+        "S/10σ"
+      ],
+      "correct": 2,
+      "explanation": "LOQ = 10σ/S; LOD = 3.3σ/S.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The usual range for an assay method as per ICH is:",
+      "options": [
+        "70–130%",
+        "50–150%",
+        "95–105%",
+        "80–120% of test concentration"
+      ],
+      "correct": 3,
+      "explanation": "70–130% is for content uniformity.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Agreement between results from different laboratories is called:",
+      "options": [
+        "Reproducibility",
+        "Repeatability",
+        "Intermediate precision",
+        "Robustness"
+      ],
+      "correct": 0,
+      "explanation": "Repeatability is same conditions; intermediate precision is within one lab.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "The correct order of equipment qualification is:",
+      "options": [
+        "IQ → DQ → PQ → OQ",
+        "DQ → IQ → OQ → PQ",
+        "OQ → IQ → DQ → PQ",
+        "PQ → OQ → IQ → DQ"
+      ],
+      "correct": 1,
+      "explanation": "Design, installation, operation, then performance.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The fluorimeter linearity standard is commonly:",
+      "options": [
+        "Potassium dichromate in water",
+        "Polystyrene in hexane",
+        "Quinine sulfate in dilute sulfuric acid",
+        "Sodium chloride in water"
+      ],
+      "correct": 2,
+      "explanation": "Quinine fluoresces strongly near 450 nm when excited near 350 nm.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "HPLC pump flow-rate accuracy is checked by:",
+      "options": [
+        "Injecting holmium",
+        "Measuring column temperature",
+        "Scanning caffeine spectrum",
+        "Collecting and timing (or weighing) the eluate"
+      ],
+      "correct": 3,
+      "explanation": "Volume delivered per minute is compared with the set flow.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m11",
+      "unit": 3,
+      "question": "As per USP <41>, a balance's minimum weight equals about:",
+      "options": [
+        "2000 × standard deviation of repeatability",
+        "10 × readability",
+        "100 × standard deviation",
+        "Half the capacity"
+      ],
+      "correct": 0,
+      "explanation": "2 × SD/m ≤ 0.10% gives m ≥ 2000 × SD.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "RIA was developed by:",
+      "options": [
+        "Watson and Crick",
+        "Yalow and Berson",
+        "Köhler and Milstein",
+        "Van Deemter"
+      ],
+      "correct": 1,
+      "explanation": "Yalow and Berson measured insulin by RIA around 1959–1960.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "In competitive RIA, as the concentration of unlabelled antigen increases, bound radioactivity:",
+      "options": [
+        "Increases",
+        "Stays constant",
+        "Decreases",
+        "First rises then falls"
+      ],
+      "correct": 2,
+      "explanation": "Unlabelled antigen displaces the tracer from the limited antibody.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "The most commonly used isotope in RIA is:",
+      "options": [
+        "³²P",
+        "⁶⁰Co",
+        "¹³¹Cs",
+        "¹²⁵I"
+      ],
+      "correct": 3,
+      "explanation": "¹²⁵I is a gamma emitter (about 60 days) counted easily in a gamma counter.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "Dextran-coated charcoal is used in RIA to:",
+      "options": [
+        "Adsorb free antigen",
+        "Label the antigen",
+        "Precipitate the antibody",
+        "Count radioactivity"
+      ],
+      "correct": 0,
+      "explanation": "Charcoal adsorbs small free antigen; the bound complex stays in solution.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "In IRMA, the label is attached to the:",
+      "options": [
+        "Antigen",
+        "Antibody",
+        "Charcoal",
+        "Second antigen"
+      ],
+      "correct": 1,
+      "explanation": "IRMA uses labelled antibody in excess; non-competitive.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Tritium-labelled RIA samples are counted using a:",
+      "options": [
+        "Gamma counter",
+        "Geiger counter only",
+        "Liquid scintillation counter",
+        "Densitometer"
+      ],
+      "correct": 2,
+      "explanation": "³H emits weak beta particles needing liquid scintillation.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "A weak acid is best extracted into an organic solvent from:",
+      "options": [
+        "An alkaline solution",
+        "A neutral salt solution",
+        "Boiling water",
+        "An acidified aqueous solution"
+      ],
+      "correct": 3,
+      "explanation": "Low pH keeps the acid un-ionised, raising D.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Which statement about liquid–liquid extraction is correct?",
+      "options": [
+        "Several small extractions remove more than one large extraction",
+        "One large extraction is always better",
+        "Volume does not matter",
+        "Only one extraction is possible"
+      ],
+      "correct": 0,
+      "explanation": "For D = 4, 3 × 10 ml removes 82.9% vs 70.6% for 1 × 30 ml.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The correct sequence of SPE is:",
+      "options": [
+        "Load → condition → elute → wash",
+        "Condition → equilibrate → load → wash → elute",
+        "Wash → load → condition → elute",
+        "Elute → wash → load → condition"
+      ],
+      "correct": 1,
+      "explanation": "The sorbent is prepared first and the analyte eluted last.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "C18 SPE cartridges work on the principle of:",
+      "options": [
+        "Ion exchange",
+        "Size exclusion",
+        "Reversed-phase (hydrophobic) retention",
+        "Affinity binding"
+      ],
+      "correct": 2,
+      "explanation": "Non-polar octadecyl chains retain non-polar analytes from water.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m11",
+      "unit": 4,
+      "question": "Emulsion formation is a common problem in:",
+      "options": [
+        "Solid-phase extraction",
+        "Gel filtration",
+        "Gamma counting",
+        "Liquid–liquid extraction"
+      ],
+      "correct": 3,
+      "explanation": "Shaking two liquids with proteins or surfactants gives emulsions; SPE avoids this.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "In a triple quadrupole, fragmentation of precursor ions occurs in:",
+      "options": [
+        "The collision cell (q2)",
+        "Q1",
+        "Q3",
+        "The ion source only"
+      ],
+      "correct": 0,
+      "explanation": "Q1 selects, q2 fragments by CID, Q3 analyses.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Electrospray ionisation is best suited to:",
+      "options": [
+        "Non-polar hydrocarbons only",
+        "Polar and ionic molecules including proteins",
+        "Permanent gases",
+        "Metals only"
+      ],
+      "correct": 1,
+      "explanation": "ESI ionises compounds already charged in solution and gives multiply charged ions.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "APCI uses which device to ionise solvent molecules?",
+      "options": [
+        "Laser beam",
+        "70 eV electron filament",
+        "Corona discharge needle",
+        "UV lamp only"
+      ],
+      "correct": 2,
+      "explanation": "A corona discharge ionises the vaporised solvent, which protonates the analyte.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Which buffer should be avoided in LC-MS?",
+      "options": [
+        "Ammonium formate",
+        "Formic acid",
+        "Ammonium acetate",
+        "Phosphate buffer"
+      ],
+      "correct": 3,
+      "explanation": "Non-volatile phosphate deposits in the source and suppresses ions.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In GC-MS the most commonly used carrier gas is:",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Air",
+        "Carbon dioxide"
+      ],
+      "correct": 0,
+      "explanation": "Helium is inert, light and easily pumped away.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "A jet separator in GC-MS works because:",
+      "options": [
+        "Analyte dissolves in silicone",
+        "Light helium diffuses out of the jet faster than heavy analyte molecules",
+        "Helium is ionised and deflected",
+        "Analyte is trapped on charcoal"
+      ],
+      "correct": 1,
+      "explanation": "Heavier analyte molecules travel straight into the next nozzle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "For quantitation, a triple quadrupole is operated in:",
+      "options": [
+        "Full scan mode only",
+        "Neutral loss scan",
+        "Multiple reaction monitoring mode",
+        "Precursor ion scan"
+      ],
+      "correct": 2,
+      "explanation": "MRM fixes Q1 and Q3, giving the best selectivity and sensitivity.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "The MRM transition commonly used for paracetamol is:",
+      "options": [
+        "151 → 109",
+        "110 → 152",
+        "152 → 42",
+        "152 → 110"
+      ],
+      "correct": 3,
+      "explanation": "[M + H]⁺ 152 loses ketene (42) to give m/z 110.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Plotting the intensity of a single chosen m/z against time gives:",
+      "options": [
+        "An extracted ion chromatogram",
+        "A total ion chromatogram",
+        "A mass spectrum",
+        "A van Deemter plot"
+      ],
+      "correct": 0,
+      "explanation": "The EIC picks one ion out of every scan.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "In HPTLC-MS, the elution-head interface:",
+      "options": [
+        "Scrapes silica into a crucible",
+        "Seals a zone and washes the compound to the MS with solvent",
+        "Heats the plate to 500 °C",
+        "Sprays matrix and fires a laser"
+      ],
+      "correct": 1,
+      "explanation": "A plunger seals the zone; pumped solvent carries the analyte to ESI or APCI.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m11",
+      "unit": 5,
+      "question": "Derivatisation before GC-MS is done mainly to:",
+      "options": [
+        "Increase molecular polarity",
+        "Remove the carrier gas",
+        "Make polar compounds volatile and thermally stable",
+        "Make ions multiply charged"
+      ],
+      "correct": 2,
+      "explanation": "Silylation, acylation or methylation mask OH, NH and COOH groups.",
+      "probability": "medium"
+    }
+  ]
+}

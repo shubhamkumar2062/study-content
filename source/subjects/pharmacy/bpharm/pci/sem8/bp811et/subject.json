@@ -1,0 +1,48 @@
+{
+  "code": "BP811ET",
+  "title": "Advanced Instrumentation Techniques",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India B.Pharm syllabus (as published by Gurukula Kangri Vishwavidyalaya), BP811ET Advanced Instrumentation Techniques (elective)",
+    "url": "https://gkv.ac.in/syllabus.gkv.ac.in/Pharma/B.PHARMA_2014/BP811ET_B.Pharma-pages-48.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "NMR spectroscopy and mass spectrometry",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Thermal methods of analysis and X-ray diffraction",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Calibration and validation of instruments",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Radioimmunoassay and extraction techniques",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Hyphenated techniques",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}

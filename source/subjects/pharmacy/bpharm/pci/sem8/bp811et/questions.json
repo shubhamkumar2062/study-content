@@ -1,0 +1,500 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle of NMR spectroscopy. Define chemical shift and discuss the factors affecting it.",
+      "answer": "1. Principle: nuclei with spin (I ≠ 0, e.g. ¹H, ¹³C with I = 1/2) behave as tiny magnets. In a field B0 they take 2I + 1 orientations (α with the field, β against it); the energy gap ΔE = hγB0/2π.\n2. Nuclei precess at the Larmor frequency ν = γB0/2π. Radio waves of exactly this frequency flip α to β: resonance. A 7.05 T magnet gives about 300 MHz for ¹H.\n3. Populations are nearly equal (Boltzmann), so the signal comes from a tiny excess; relaxation (T1, T2) restores it.\n4. Shielding: circulating electrons create a field opposing B0; B(eff) = B0(1 − σ). Shielded protons resonate upfield (right), deshielded downfield (left).\n5. Chemical shift: δ (ppm) = [ν(sample) − ν(TMS)]/ν(spectrometer) × 10⁶; independent of field strength. Example: 2190 Hz at 300 MHz → 7.30 ppm.\n6. TMS as reference: 12 equivalent protons, one singlet, very shielded (δ 0), inert, volatile, soluble; DSS in D2O.\n7. Factor 1, electronegativity: CH3F about 4.3 > CH3Cl 3.1 > CH3Br 2.7 > CH3I 2.2 > CH4 0.2 ppm; effect falls with distance, adds up with more substituents.\n8. Factor 2, anisotropy: benzene ring current deshields Ar–H (about 7.3); C=O deshields CHO (9–10); alkyne proton shielded along the axis (2–3).\n9. Factor 3, hybridisation (sp² C–H downfield of sp³); factor 4, hydrogen bonding (OH, NH, COOH downfield; vary with concentration, D2O exchange); factor 5, van der Waals deshielding; factor 6, solvent effects.\n10. Table of typical shifts: alkyl 0.9–1.5, CH3CO 2.0–2.6, O–CH 3.3–4.5, alkene 4.5–6.5, aromatic 6.5–8.5, CHO 9–10, COOH 10–13 ppm."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the instrumentation of an FT-NMR spectrometer with a block diagram. Add a note on sample preparation and applications of NMR.",
+      "answer": "1. Block diagram: superconducting magnet → probe (sample tube, RF coil) ← RF transmitter (pulses); probe → RF receiver → ADC → computer (FT) → display; shim coils and deuterium lock around the probe.\n2. Magnet: permanent/electromagnet (60–100 MHz, older) or superconducting solenoid (300–1000 MHz) cooled by liquid helium (about 4 K) with a liquid nitrogen jacket.\n3. Shim coils correct field inhomogeneity; field–frequency lock follows the ²H signal of the deuterated solvent and corrects drift.\n4. Probe holds the 5 mm tube; sample spun by an air turbine to average the field.\n5. RF transmitter gives short intense pulses exciting all nuclei of one kind; receiver records the free induction decay (FID).\n6. Computer adds scans (S/N rises with √number of scans) and Fourier-transforms the FID into the frequency spectrum; integrates peaks.\n7. CW vs FT: CW slowly sweeps field or frequency; FT gives the whole spectrum per pulse, making ¹³C routine.\n8. Sample preparation: 5–20 mg (more for ¹³C) in 0.5–0.7 ml deuterated solvent (CDCl3, DMSO-d6, D2O, CD3OD) with TMS; particle-free, no paramagnetic impurities.\n9. Applications: structure elucidation (signals, δ, integration, splitting), identity tests, isomer distinction (cis/trans J, substitution pattern), qNMR purity, impurity and residual solvent work, 2D NMR, MRI, drug–protein binding."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the principle and instrumentation of mass spectrometry. Explain electron impact, chemical ionisation and MALDI, and the quadrupole and time-of-flight analysers.",
+      "answer": "1. Principle: molecules are ionised in the gas phase, ions are separated by m/z under high vacuum and counted; spectrum = relative abundance vs m/z; base peak = 100%.\n2. Block diagram: inlet (probe, GC, LC) → ion source → mass analyser → detector (electron multiplier) → data system; vacuum pumps (rotary + turbomolecular).\n3. Electron impact: 70 eV electrons from a heated filament; M + e⁻ → M⁺• + 2e⁻; hard ionisation, many reproducible fragments, library searching; M⁺• may be weak.\n4. Chemical ionisation: reagent gas (methane, isobutane, ammonia) at about 1 torr; CH4 → CH5⁺; CH5⁺ + M → [M + H]⁺; soft, confirms molecular mass.\n5. MALDI: analyte mixed with UV-absorbing matrix (sinapinic acid, CHCA) dried on a plate, pulsed laser desorbs and ionises; mostly [M + H]⁺; proteins and polymers; paired with TOF. (FAB: liquid matrix such as glycerol bombarded with fast Ar/Xe atoms.)\n6. Quadrupole: four parallel rods with DC + RF voltages; only one m/z has a stable path at given U and V; scanning U/V passes each m/z; cheap, fast, unit resolution, good for GC-MS and LC-MS/MS.\n7. TOF: ions accelerated by voltage V, drift in tube L; t = L√(m/2zeV); light ions arrive first; very wide mass range, fast; reflectron improves resolution. Example: L = 1 m, 20 kV, m/z 1000 arrives in about 16.1 µs.\n8. Detector: electron multiplier (dynode cascade, about 10⁶ gain), Faraday cup, microchannel plate.\n9. Applications: molecular mass and formula (HRMS), structure from fragments, impurities, metabolites, proteins, isotope studies, forensic analysis."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is spin–spin coupling? Explain the n + 1 rule and coupling constant with an example.",
+      "answer": "1. Coupling: neighbouring non-equivalent protons influence each other's local field through bonding electrons, splitting each other's signals.\n2. n + 1 rule: n equivalent neighbours give n + 1 lines; intensities from Pascal's triangle (doublet 1:1, triplet 1:2:1, quartet 1:3:3:1).\n3. Example ethanol: CH3 triplet (δ about 1.2, 3H), CH2 quartet (about 3.7, 2H), OH broad singlet.\n4. Coupling constant J: spacing between lines in Hz; independent of field strength; coupled partners share the same J. Lines at δ 1.262, 1.238, 1.214 on 300 MHz → J = 0.024 × 300 = 7.2 Hz.\n5. Typical J: vicinal about 7, trans alkene 12–18, cis 6–12, ortho 6–9, meta 1–3 Hz. Equivalent protons do not split each other."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on relaxation processes in NMR.",
+      "answer": "1. Need: the population excess between α and β is tiny; without return of excited nuclei the signal saturates.\n2. Spin–lattice (longitudinal) relaxation, T1: excited nuclei transfer energy to the surroundings (lattice).\n3. Spin–spin (transverse) relaxation, T2: exchange of energy between neighbouring spins; loss of phase coherence.\n4. Line width ≈ 1/πT2: solids and viscous samples have short T2 → broad lines; liquids give sharp lines.\n5. Paramagnetic impurities shorten relaxation and broaden lines; quaternary ¹³C relax slowly, giving small peaks."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare ¹H NMR and ¹³C NMR. Explain broadband decoupling and DEPT.",
+      "answer": "1. Abundance 99.98% vs 1.1%; ¹³C sensitivity roughly 1/5700 of ¹H, needs FT and many scans.\n2. Shift range 0–12 vs 0–220 ppm; C–C coupling not seen in ¹³C; integration reliable for ¹H, not for ¹³C.\n3. Broadband (noise) decoupling: irradiating all protons removes C–H splitting, so each different carbon gives a singlet, with NOE enhancement.\n4. DEPT-90 shows only CH; DEPT-135 shows CH and CH3 positive, CH2 negative, quaternary absent. Off-resonance gives CH3 quartet, CH2 triplet, CH doublet, C singlet.\n5. Typical ¹³C shifts: alkyl 10–50, C–O 50–90, aromatic 100–160, C=O 160–220 ppm."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on fragmentation in mass spectrometry with examples. Add the nitrogen rule and isotope peaks.",
+      "answer": "1. Molecular ion carries excess energy and breaks at weak bonds to give stable ions: α-cleavage (acylium ions), benzylic cleavage (tropylium m/z 91 from toluene, M 92), McLafferty rearrangement (γ-H transfer, loss of alkene), loss of small neutrals (H2O 18, CO 28, CO2 44, ketene 42), retro-Diels–Alder.\n2. Example acetophenone: M⁺• 120 → loss of CH3• → C6H5CO⁺ 105 (base peak) → loss of CO → C6H5⁺ 77.\n3. Nitrogen rule: odd molecular mass = odd number of N atoms.\n4. Isotope peaks: M + 1 about 1.1% per carbon; one Cl gives M : M + 2 about 3 : 1 (chlorobenzene 112/114); one Br about 1 : 1; S about 4.4% M + 2.\n5. Base peak = most abundant ion; metastable ions = broad weak peaks at non-integer m/z."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Compare quadrupole and time-of-flight mass analysers.",
+      "answer": "1. Separation: quadrupole uses stability of ion paths in DC + RF field (mass filter); TOF uses flight time t = L√(m/2zeV).\n2. Mode: quadrupole scans one m/z at a time; TOF records all ions from each pulse.\n3. Mass range: quadrupole up to a few thousand; TOF practically unlimited (proteins).\n4. Resolution: unit for quadrupole; high for TOF with reflectron and delayed extraction.\n5. Partners: quadrupole with EI, CI, ESI (GC-MS, triple quad LC-MS/MS); TOF with MALDI and in Q-TOF; quadrupole cheaper and compact."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Why is TMS used as the reference in NMR?",
+      "answer": "Its 12 equivalent protons give one sharp singlet that is more shielded than almost all organic protons (δ 0); it is inert, volatile and soluble in organic solvents."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Calculate the chemical shift of a proton appearing 1260 Hz downfield from TMS on a 300 MHz spectrometer.",
+      "answer": "δ = 1260/300 = 4.20 ppm (field-independent; on a 400 MHz instrument it would appear at 1680 Hz)."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a base peak in a mass spectrum?",
+      "answer": "The tallest (most abundant) ion peak, set at 100% relative abundance; all other peaks are scaled to it."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle, instrumentation and pharmaceutical applications of differential scanning calorimetry. How does it differ from DTA?",
+      "answer": "1. Principle: measures the difference in heat flow (mW) needed to keep sample and reference on the same temperature programme; peak area = enthalpy change, so it is quantitative.\n2. Power-compensation DSC: separate heaters and sensors for sample and reference; controller supplies extra power ΔP = dH/dt to the sample.\n3. Heat-flux DSC: one furnace; temperature difference across a disc of known thermal resistance converted to heat flow.\n4. Parts: sample and reference pans (aluminium, crimped/hermetic), furnace, temperature programmer, sensors, purge gas (N2), data system. Block diagram with both pans and controller.\n5. Curve: endothermic (melting, dehydration) and exothermic (crystallisation, oxidation) peaks; Tg as a baseline step; read onset, peak temperature and area (ΔH, J/g).\n6. Calibration: indium (mp 156.6 °C, about 28.5 J/g), zinc, tin; sapphire for heat capacity.\n7. Factors: heating rate, sample mass, pan type, purge gas, particle size, thermal history.\n8. Applications: polymorphism, purity by van't Hoff (Ts = T0 − RT0²x2/ΔHf × 1/F), drug–excipient compatibility, glass transition of amorphous drugs and solid dispersions, hydrates, freeze-drying design, liposome transitions, protein unfolding.\n9. DTA vs DSC: DTA records ΔT (°C), mostly qualitative, reaches very high temperatures; DSC records heat flow (mW), accurate enthalpy, the routine pharmaceutical tool."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe thermogravimetric analysis: principle, instrumentation, factors affecting the curve and applications. Illustrate with the thermogram of calcium oxalate monohydrate.",
+      "answer": "1. Principle: mass of the sample is recorded continuously while it is heated at a controlled rate in a chosen atmosphere; steps show loss of volatiles or decomposition. DTG (dm/dt) turns steps into peaks.\n2. Thermobalance: null-point microbalance; electromagnetic restoring force proportional to mass change; kept outside the hot zone.\n3. Crucible (platinum, alumina), furnace up to about 1000–1500 °C, temperature programmer and thermocouple, purge gas (N2, air), recorder.\n4. Factors: heating rate, sample mass and particle size, atmosphere and flow, crucible shape and material, buoyancy (blank correction), packing, condensation of volatiles.\n5. Calcium oxalate monohydrate (Mr 146.1): step 1 loses H2O 12.3% (residue 87.7%), step 2 loses CO 19.2% (CaCO3, 68.5%), step 3 loses CO2 30.1% (CaO, 38.4%).\n6. Calculation: % loss = mass of lost molecule/Mr × 100.\n7. Applications: water and solvent content, hydrates vs surface moisture (theophylline monohydrate expected 9.1% loss), thermal stability, decomposition temperature, composition of mixtures, ash, decomposition kinetics, polymers and excipients, evolved gas analysis with IR or MS."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "State and derive Bragg's law. Describe the rotating crystal, single crystal and powder methods of X-ray diffraction and their applications in pharmacy.",
+      "answer": "1. X-rays (0.1–100 Å) scatter from electrons; parallel planes spaced d apart reflect at angle θ.\n2. Derivation: the lower ray travels an extra path 2d sinθ; constructive interference when the extra path is a whole number of wavelengths: nλ = 2d sinθ.\n3. Example: Cu Kα 1.5406 Å, 2θ = 20° → θ = 10° → d = 4.44 Å. NaCl (a = 5.64 Å) d200 = 2.82 Å → 2θ about 31.7°.\n4. Rotating crystal: single crystal rotated about one axis in a monochromatic beam; cylindrical film shows layer lines; spacing gives repeat distance and unit cell.\n5. Single crystal diffractometer: crystal on goniometer rotated in many orientations; spot positions → unit cell and space group; intensities → structure factors; phase problem solved by direct or Patterson methods; electron-density map; refinement → bond lengths, angles, absolute configuration.\n6. Powder method: random crystallites; diffractometer records intensity vs 2θ (Debye–Scherrer camera gives rings); d-values and intensities form a fingerprint; amorphous gives a halo; Scherrer equation for crystallite size.\n7. Laue method (white radiation, stationary crystal) for symmetry and orientation.\n8. Applications: polymorph and solvate identification, crystallinity and amorphous content, quantitative phase analysis, form changes on processing and storage, 3D structure of drugs and drug–protein complexes, patents on crystal forms, excipient crystallinity."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the origin of X-rays. Distinguish continuous and characteristic X-rays.",
+      "answer": "1. Coolidge tube: heated tungsten filament emits electrons, accelerated by 30–50 kV onto a water-cooled metal target (Cu, Mo); X-rays leave through beryllium windows.\n2. Continuous (bremsstrahlung): electrons decelerate near target nuclei, giving a smooth range; λmin = hc/eV (about 0.41 Å at 30 kV).\n3. Characteristic: incoming electron ejects a K-shell electron; L or M electron fills the hole emitting Kα or Kβ of fixed energy (Cu Kα about 1.54 Å, Mo Kα about 0.71 Å).\n4. Moseley's law: √ν proportional to atomic number.\n5. Monochromatisation: Ni filter removes Cu Kβ; crystal monochromator; detectors: counters, scintillation, area detectors."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare TGA, DTA and DSC.",
+      "answer": "1. Property: TGA mass; DTA temperature difference ΔT; DSC heat flow difference.\n2. Plot: mass % vs T; ΔT vs T; mW vs T.\n3. Events seen: TGA only those with mass change (dehydration, decomposition); DTA and DSC also melting, crystallisation, polymorphic change, Tg.\n4. Quantitative: TGA mass loss exact; DTA mainly qualitative; DSC gives accurate ΔH.\n5. Uses: TGA water/solvent content and stability; DTA high-temperature transitions; DSC polymorphism, purity, compatibility, Tg."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on basic aspects of crystals: crystal systems, unit cell and Miller indices.",
+      "answer": "1. Crystal: regular 3D repeating arrangement; amorphous solid lacks long-range order.\n2. Unit cell: smallest repeating unit with edges a, b, c and angles α, β, γ.\n3. Seven crystal systems (cubic, tetragonal, orthorhombic, monoclinic, triclinic, hexagonal, rhombohedral) and fourteen Bravais lattices; most drugs are monoclinic, triclinic or orthorhombic.\n4. Miller indices (hkl): reciprocals of the plane's intercepts on the axes, cleared of fractions; for cubic cells d = a/√(h² + k² + l²).\n5. Polymorphism and pseudopolymorphism (hydrates, solvates) change melting point, solubility and bioavailability."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Give the pharmaceutical applications of DSC with a note on purity determination.",
+      "answer": "1. Polymorph identification and transitions; melting point and ΔHf.\n2. Purity: impurities lower and broaden melting; van't Hoff Ts = T0 − (RT0²x2/ΔHf)(1/F); plot Ts vs 1/F, slope gives impurity mole fraction x2; valid for fairly pure (above about 98 mol%) compounds melting without decomposition.\n3. Drug–excipient compatibility in preformulation (shifted or lost peaks).\n4. Glass transition and stability of amorphous drugs and solid dispersions.\n5. Hydrates/solvates, freeze-drying (collapse temperature), lipid and protein transitions."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate the interplanar spacing for a peak at 2θ = 30° with Cu Kα radiation (λ = 1.5406 Å). State Bragg's law and its significance.",
+      "answer": "1. Bragg's law: nλ = 2d sinθ (n order, λ wavelength, d interplanar spacing, θ glancing angle).\n2. θ = 15°; sin 15° = 0.2588.\n3. d = λ/(2 sinθ) = 1.5406/(2 × 0.2588) = 2.98 Å (n = 1).\n4. Significance: relates measurable angles to crystal spacings; basis of identification by d-values and structure determination.\n5. Diffractometers read 2θ, so always halve it before substituting."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is DTG?",
+      "answer": "Derivative thermogravimetry: the first derivative of the TGA curve (dm/dt) plotted against temperature; each mass-loss step becomes a peak, helping separate overlapping steps."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the standard used to calibrate DSC and give its melting point.",
+      "answer": "Indium, melting at 156.6 °C (heat of fusion about 28.5 J/g); zinc and tin are also used."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Why is a nickel filter used with a copper X-ray tube?",
+      "answer": "Its absorption edge lies between Cu Kβ and Kα, so it absorbs Kβ strongly and passes nearly monochromatic Cu Kα."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define validation. Explain the analytical method validation parameters as per ICH guidelines with suitable examples.",
+      "answer": "1. Validation: documented evidence giving a high degree of assurance that a method or process consistently produces results meeting predetermined specifications. ICH Q2(R1)/Q2(R2); US FDA guidance (2015) on analytical procedures.\n2. Specificity: unequivocal measurement in presence of impurities, degradants, matrix; placebo, forced degradation, peak purity, resolution.\n3. Accuracy: closeness to true value; % recovery from spiked placebo; at least 9 determinations at 3 levels (80, 100, 120%). Example 9.87 of 10.00 mg → 98.7%.\n4. Precision: repeatability (same conditions; 9 determinations or 6 at 100%), intermediate precision (days, analysts, instruments), reproducibility (between labs). Example six results → RSD 0.64%.\n5. LOD = 3.3σ/S (S/N about 3); LOQ = 10σ/S (S/N about 10). Example σ 0.0021, S 0.052 → LOD 0.13, LOQ 0.40 µg/ml.\n6. Linearity: at least 5 concentrations; regression, r, slope, intercept, residuals.\n7. Range: assay 80–120%, content uniformity 70–130%, dissolution ±20%, impurities reporting level to 120% of limit.\n8. Robustness: small deliberate changes in pH, mobile phase ratio, flow, temperature, column lot.\n9. Table of which parameters apply to identification, impurity (quantitative/limit) and assay; system suitability (resolution, tailing, plates, RSD of injections)."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the calibration of a UV-visible spectrophotometer and an IR spectrophotometer.",
+      "answer": "1. Purpose: assays depend on correct wavelength and absorbance scale; required by GMP (21 CFR 211.160, Schedule M) with SOP, frequency and records.\n2. UV wavelength control: holmium perchlorate (241.15, 287.15, 361.5, 536.3 nm), holmium glass, mercury lines, deuterium lines 486.0 and 656.1 nm; tolerance ±1 nm UV, ±3 nm visible.\n3. UV absorbance control: potassium dichromate (dried at 130 °C, about 57–63 mg in 0.005 M H2SO4 to 1000 ml); A(1%, 1 cm) at 235, 257, 313, 350 nm about 124.5, 144.5, 48.6, 106.6 within pharmacopoeial ranges.\n4. Stray light: 1.2% w/v KCl, absorbance > 2.0 at about 200 nm.\n5. Resolution: 0.02% v/v toluene in hexane, ratio A(about 269 nm)/A(about 266 nm) at least 1.5.\n6. Cells matched, clean; baseline flatness, noise, drift.\n7. IR wavenumber accuracy: polystyrene film (about 35 µm); bands 3060.0, 2849.5, 1942.9, 1601.2, 1583.0, 1154.5, 1028.3 cm⁻¹ within tolerance.\n8. IR resolution: trough depths between 2870 and 2849.5 cm⁻¹ and between 1589 and 1583 cm⁻¹; 100% line, noise, energy throughput; dry atmosphere (avoid H2O and CO2 bands).\n9. Record results, label status, act on failure (remove, investigate, repair, recalibrate)."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the calibration of HPLC and gas chromatography.",
+      "answer": "1. HPLC pump flow accuracy: collect and time (or weigh) the eluate at set flows; commonly within ±2%; flow precision from retention time RSD.\n2. Gradient accuracy: water in A, tracer (acetone/caffeine) in B; step gradients compared with expected heights; pressure/leak test.\n3. Injector: precision (6 injections, area RSD, commonly ≤ 1%), linearity of volume, carry-over with a blank after a strong standard.\n4. Detector: wavelength accuracy with caffeine (maxima near 205 and 273 nm) or holmium filter; linearity with caffeine solutions; noise and drift.\n5. Column oven temperature with calibrated probe (commonly ±2 °C); system suitability test mixture.\n6. GC carrier gas flow with bubble or digital flowmeter; oven temperature accuracy, stability and ramp.\n7. GC injector temperature, split ratio, injection precision with n-alkane or solvent mixture.\n8. Detector (FID): sensitivity, noise, linearity; check H2 and air flows; leak checks, septum and liner replacement.\n9. Records, status label, out-of-calibration action."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the calibration of an electronic balance.",
+      "answer": "1. Set-up: firm vibration-free bench, levelled, warmed up, no draughts; certified traceable weights handled with tweezers.\n2. Daily check of accuracy with one or two certified weights after adjustment.\n3. Repeatability: 10 weighings of one weight; USP <41>: 2 × SD/smallest net weight ≤ 0.10% (use 0.41d if SD smaller).\n4. Eccentricity (corner load) and linearity across the range (10–100% of capacity).\n5. Minimum weight = 2000 × SD; example SD 0.008 mg → 16 mg. Record results, label, act on failure."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate calibration, qualification and validation. Explain DQ, IQ, OQ and PQ.",
+      "answer": "1. Calibration: comparison of an instrument with traceable standards over its range.\n2. Qualification: documented proof equipment is designed, installed, operates and performs correctly.\n3. Validation: documented evidence that a method/process consistently meets specifications.\n4. DQ (right design, URS), IQ (delivered and installed correctly), OQ (works over operating ranges: wavelength, flow, temperature), PQ (consistent performance with real samples).\n5. Order: DQ → IQ → OQ → PQ → routine calibration; requalify after repair, move or upgrade (USP <1058>)."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "How is a fluorimeter calibrated?",
+      "answer": "1. Wavelength accuracy: xenon or mercury emission lines; water Raman band near 397 nm with 350 nm excitation.\n2. Sensitivity: signal-to-noise of the water Raman band vs manufacturer value.\n3. Linearity: quinine sulfate in 0.05 M (0.1 N) H2SO4 at several concentrations, excitation about 350 nm, emission about 450 nm.\n4. Use sulfuric not hydrochloric acid (halides quench); avoid high concentrations (self-absorption).\n5. Stability/drift over time, blank cell and solvent background, records."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the calibration of a flame photometer.",
+      "answer": "1. Check gas and air pressure, flame steadiness, warm-up.\n2. Check filters: Na 589 nm, K 766 nm (Li 671 nm).\n3. Zero with distilled water; set full scale with the top standard.\n4. Linearity with NaCl or KCl standard series (for example 10–100 ppm); repeatability (RSD) of one standard.\n5. Interference check (Na with K and vice versa), drift checks during the run, records."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on ICH and US FDA guidelines related to validation.",
+      "answer": "1. ICH Q2(R1), revised as Q2(R2) with Q14: validation characteristics of analytical procedures.\n2. ICH Q7 (API GMP), Q8, Q9, Q10: development, risk management, quality system, lifecycle approach.\n3. US FDA 21 CFR 211.68 and 211.160: written calibration programme, specifications, intervals, remedial action; Part 11 for electronic records.\n4. FDA Process Validation guidance 2011: stage 1 process design, stage 2 process qualification, stage 3 continued process verification.\n5. Types: prospective, concurrent, retrospective, revalidation; validation master plan, protocol and report."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define LOD and LOQ and give their formulas.",
+      "answer": "LOD: lowest amount detectable (S/N about 3), LOD = 3.3σ/S. LOQ: lowest amount quantifiable with acceptable accuracy and precision (S/N about 10), LOQ = 10σ/S; σ = SD of response, S = slope."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which substance is used to check the stray light of a UV spectrophotometer?",
+      "answer": "A 1.2% w/v solution of potassium chloride in water; its absorbance at about 200 nm in a 1 cm cell must be greater than 2.0."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is robustness?",
+      "answer": "The capacity of a method to remain unaffected by small, deliberate variations in conditions such as pH, mobile phase composition, flow rate and temperature."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the principle, components and procedure of radioimmunoassay. Add its limitations and applications.",
+      "answer": "1. Definition and importance: measurement of an antigen by competition with radiolabelled antigen for limited antibody sites; Yalow and Berson (insulin, about 1959–1960); pg–ng sensitivity, high specificity.\n2. Principle: law of mass action; Ag* + Ab ⇌ Ag*Ab and Ag + Ab ⇌ AgAb; fixed Ag* and limited Ab; more sample Ag → less bound radioactivity (inverse relation).\n3. Components: antigen standards; tracer (¹²⁵I gamma about 60 days, ³H beta about 12.3 years; iodination by chloramine-T, lactoperoxidase, Bolton–Hunter); specific antibody (titre, affinity, specificity; haptens coupled to carrier protein); buffer; separation system; gamma or liquid scintillation counter.\n4. Procedure: pipette standards/samples, add tracer and antibody, incubate to equilibrium, separate bound from free, count the bound fraction.\n5. Standard curve: B/B0 (%) vs log concentration, sigmoid; logit–log linear; example B0 8000 of 20,000 cpm, sample 4000 → B/B0 50%.\n6. Controls: total counts, NSB, zero standard, QC samples, duplicates.\n7. Limitations: radiation hazard and licensing, waste disposal, short tracer life, expensive counters, cross-reactivity, antibody production, long incubations.\n8. Applications: hormones (insulin, T3, T4, TSH, steroids, hCG), therapeutic drug monitoring (digoxin), pharmacokinetics, drugs of abuse, tumour markers (CEA, AFP, PSA), vitamin B12, folate, viral antigens."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the general principle and procedure of solid-phase extraction. Compare it with liquid–liquid extraction.",
+      "answer": "1. Principle: miniature column chromatography; analyte retained on solid sorbent from liquid sample, interferences washed off, analyte eluted with small volume of strong solvent.\n2. Steps: conditioning (methanol), equilibration (water/buffer, do not dry), sample loading, washing (weak solvent), elution (strong solvent); evaporate and reconstitute. Diagram of cartridge with frits and sorbent.\n3. Sorbents: reversed phase (C18, C8, polymeric), normal phase (silica, alumina, Florisil, diol, CN, NH2), ion exchange (SCX, SAX, weak), mixed mode.\n4. Formats: cartridges, disks, 96-well plates, pipette tips, SPME fibres.\n5. Terms: capacity, breakthrough volume, recovery, concentration factor.\n6. Applications: plasma/urine bioanalysis before LC-MS/MS, trace pollutants, herbal clean-up, desalting peptides.\n7. Comparison with LLE: solvent use small vs large; no emulsions vs emulsions common; high selectivity and concentration; easy automation; better reproducibility; cartridges cost more; LLE uses simple equipment."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the principle of liquid–liquid extraction. Discuss the effect of pH, choice of solvent and multiple extractions with a calculation.",
+      "answer": "1. Nernst distribution law: K = C(organic)/C(aqueous) at constant temperature for the same species.\n2. Distribution ratio D includes ionised forms; weak acid D = K/(1 + 10^(pH − pKa)): acids extracted from acidic, bases from alkaline solution. pKa 4.5 acid: 99% un-ionised at pH 2.5, 0.1% at pH 7.5.\n3. Solvent choice: immiscible, selective, suitable density (CHCl3, DCM lower layer; ether, ethyl acetate, hexane upper), volatile, safe, peroxide-free.\n4. Multiple extraction: q(n) = [Vaq/(D·Vorg + Vaq)]ⁿ. D = 4, Vaq 50 ml: one 30 ml extraction removes 70.6%; three 10 ml extractions remove 82.9%.\n5. Procedure with separating funnel: adjust pH, salting out, shake and vent, separate, repeat, combine, dry over anhydrous Na2SO4, evaporate, reconstitute.\n6. Back-extraction for clean-up; emulsion remedies (centrifuge, salt, glass wool).\n7. Variants: continuous extraction, Soxhlet, ion-pair extraction, supported liquid extraction, microextraction.\n8. Advantages and disadvantages; uses in drug isolation from plasma and plant material."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods used to separate bound and free antigen in RIA.",
+      "answer": "1. Adsorption: dextran-coated charcoal, talc or silicates adsorb small free antigen.\n2. Chemical precipitation: ammonium sulfate, PEG or ethanol precipitate antibody-bound antigen.\n3. Double antibody: second antibody against the first antibody's species precipitates the complex.\n4. Solid phase: antibody fixed to tube wall, beads or magnetic particles; free antigen washed away.\n5. Chromatoelectrophoresis and gel filtration (early methods); after separation the bound fraction is counted."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Distinguish competitive RIA from immunoradiometric assay (IRMA).",
+      "answer": "1. Label: RIA labels the antigen; IRMA labels the antibody.\n2. Antibody: limited in RIA; in excess in IRMA.\n3. Nature: competitive vs non-competitive (often sandwich with solid-phase antibody).\n4. Signal: bound counts fall with rising antigen in RIA; rise in IRMA.\n5. IRMA has wider range and better sensitivity but needs large antigens with two binding sites; sequential RIA improves sensitivity by delayed tracer addition."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the limitations of radioimmunoassay.",
+      "answer": "1. Radiation hazard; need for shielding, monitoring and AERB licence.\n2. Radioactive waste storage and disposal.\n3. Short shelf life of ¹²⁵I tracers (about 60 days half-life) and radiolysis.\n4. Expensive counters and dedicated facilities; long incubations, manual steps.\n5. Cross-reactivity with metabolites and related compounds; immunoreactivity may differ from biological activity; replaced in many labs by ELISA and chemiluminescence."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the steps of solid-phase extraction with a diagram.",
+      "answer": "1. Conditioning: methanol solvates the sorbent chains.\n2. Equilibration: water or buffer matching sample pH; keep bed wet.\n3. Loading: pre-treated sample applied slowly; analyte retained, matrix passes.\n4. Washing: weak solvent removes salts, proteins, weak interferences.\n5. Elution: small volume of strong solvent collects analyte; evaporate/reconstitute; diagram of cartridge on vacuum manifold."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Calculate the fraction of drug extracted when 50 ml of aqueous solution (D = 4) is extracted once with 30 ml and three times with 10 ml of solvent. What do you conclude?",
+      "answer": "1. Formula: q(n) = [Vaq/(D·Vorg + Vaq)]ⁿ, fraction left in water.\n2. Once with 30 ml: q = 50/(120 + 50) = 0.294 → 70.6% extracted.\n3. Three times with 10 ml: q = [50/(40 + 50)]³ = (0.556)³ = 0.171 → 82.9% extracted.\n4. Conclusion: several small extractions are more efficient than one large one with the same total volume.\n5. Efficiency also rises with higher D, obtained by pH adjustment and salting out."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Who developed RIA and for which substance?",
+      "answer": "Rosalyn Yalow and Solomon Berson, around 1959–1960, for insulin in human plasma; Yalow received the 1977 Nobel Prize."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define partition coefficient.",
+      "answer": "The ratio of the concentration of a solute in the organic phase to that in the aqueous phase at equilibrium and constant temperature, K = Corg/Caq."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is breakthrough volume in SPE?",
+      "answer": "The volume of sample at which the analyte starts to pass through the cartridge unretained; loading beyond it causes loss of analyte."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the principle, instrumentation and applications of LC-MS/MS. Explain electrospray ionisation and APCI.",
+      "answer": "1. Principle: HPLC separates; eluate ionised at atmospheric pressure; ions pass into a triple quadrupole for MS/MS.\n2. Interface problem: 1 ml of eluent gives more than a litre of vapour; solved by atmospheric pressure ionisation (old: moving belt, thermospray, particle beam).\n3. ESI: high voltage (2–5 kV) capillary, Taylor cone, charged droplets, desolvation by heated gas, Coulomb fission at Rayleigh limit, gas-phase ions; [M + H]⁺, [M − H]⁻; multiply charged proteins (15,000 Da with 10 H⁺ → m/z about 1501).\n4. APCI: heated nebuliser (350–500 °C) vaporises eluent; corona discharge ionises solvent; proton transfer to analyte; singly charged; less polar compounds; higher flows.\n5. Instrumentation: pump, autosampler, column, source, ion optics, Q1 (precursor) → q2 collision cell (CID with Ar/N2) → Q3 (product) → electron multiplier → data system; diagram.\n6. Scan modes: product ion, precursor ion, neutral loss, MRM; paracetamol 152 → 110.\n7. Practical rules: volatile buffers (formic acid, ammonium formate/acetate), no phosphate; stable-isotope internal standard; clean-up to reduce ion suppression.\n8. Applications: PK/BA/BE bioanalysis, metabolite identification, impurities and genotoxic impurities, biologics and proteomics, TDM, doping, food safety."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are hyphenated techniques? Describe GC-MS with emphasis on the interface and data handling, and list its applications.",
+      "answer": "1. Definition: online coupling of a separation technique with spectroscopic detection (GC-MS, LC-MS, GC-IR, LC-NMR, CE-MS, ICP-MS); advantages: separation + identification, selectivity, sensitivity, structural data.\n2. GC part: helium carrier, split/splitless injector, fused-silica capillary column, low-bleed phase, oven.\n3. Interface: capillary column directly into ion source via heated transfer line; for packed columns separators—jet (He diffuses away from supersonic jet), effusion (porous glass), membrane (silicone).\n4. Ion source EI 70 eV (library spectra) or CI; analyser quadrupole, ion trap, TOF; triple quadrupole for GC-MS/MS; electron multiplier; vacuum pumps.\n5. Data: TIC, mass spectrum of each peak with library search, EIC, SIM for quantitation, MRM in GC-MS/MS.\n6. Derivatisation: silylation, acylation, methylation for polar drugs.\n7. Advantages and limitations (volatile/thermally stable compounds only).\n8. Applications: residual solvents (headspace), forensic toxicology and drugs of abuse, doping, pesticide residues, essential oils, volatile/genotoxic impurities, environmental analysis, metabolomics."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain tandem mass spectrometry (MS/MS) and its scan modes. Write a note on HPTLC-MS.",
+      "answer": "1. MS/MS: two stages of mass analysis with fragmentation between; triple quadrupole Q1–q2–Q3; diagram.\n2. CID: precursor ions collide with Ar or N2 in q2 and break into product ions.\n3. Product ion scan (structure), precursor ion scan (common fragment), neutral loss scan (common loss, e.g. 80 sulfate, 176 glucuronide), SRM/MRM (quantitation; paracetamol 152 → 110).\n4. Other tandem instruments: Q-TOF (accurate mass), ion trap (MSⁿ).\n5. HPTLC basics: fine-particle plates, automated application, densitometry, many samples per plate.\n6. Coupling: offline scraping; elution-head TLC-MS interface (plunger seals zone, solvent carries compound to ESI/APCI); direct desorption (DESI, DART, MALDI).\n7. Steps: develop, locate zone, elute with volatile solvent, record spectrum, compare with standard, check blank area.\n8. Applications: herbal fingerprinting, adulterant and counterfeit detection, impurity identification, food contaminants, effect-directed analysis; limitations: zone by zone, binder interference, lower sensitivity."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare ESI and APCI.",
+      "answer": "1. Ion formation: ESI in solution, released from charged droplets; APCI in gas phase after vaporisation.\n2. Energy: high voltage on capillary vs heated nebuliser (350–500 °C) + corona needle.\n3. Analytes: ESI polar, ionic, large (peptides, proteins); APCI medium/low polarity, small, thermally stable (steroids).\n4. Charges: ESI multiply charged ions; APCI singly charged.\n5. ESI more prone to ion suppression; APCI tolerates higher flows; APPI (UV lamp) for non-polar compounds."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the advantages of hyphenated techniques with examples.",
+      "answer": "1. Separation and identification in one run without collecting fractions (GC-MS of essential oils).\n2. Two independent identification criteria (retention + mass) → high selectivity (MRM in plasma).\n3. High sensitivity to pg/ml (LC-MS/MS bioanalysis).\n4. Structural information on unknowns (impurity and metabolite identification).\n5. Co-eluting peaks resolved by mass (EIC), automation and speed; examples GC-IR, LC-NMR, CE-MS, ICP-MS."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the interfaces used in GC-MS.",
+      "answer": "1. Need: GC carrier gas flow vs MS high vacuum; remove carrier gas, keep analyte.\n2. Direct capillary interface: column end inserted into source via heated transfer line; about 1 ml/min He handled by pumps.\n3. Jet separator: supersonic jet; light helium diffuses sideways and is pumped off; heavier analyte enters next nozzle.\n4. Effusion (Watson–Biemann) separator: porous glass tube, helium effuses through pores.\n5. Membrane separator: silicone membrane lets organic molecules pass, holds back helium."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What precautions are needed in choosing mobile phases and samples for LC-MS?",
+      "answer": "1. Volatile additives only: formic acid, acetic acid, ammonium formate/acetate, ammonia.\n2. Avoid non-volatile buffers (phosphate, sulfate) and non-volatile ion-pair reagents; they deposit in the source and suppress signals.\n3. Low flow rates or flow splitting; narrow-bore/UHPLC columns.\n4. Clean samples (SPE, LLE, protein precipitation) to limit matrix effects.\n5. Stable-isotope-labelled internal standard to correct ion suppression and losses."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "A protein gives adjacent ESI peaks at m/z 1501.0 and 1364.6. Calculate its charge states and molecular mass.",
+      "answer": "1. For the higher-m/z peak with charge n: m/z = (M + n × 1.007)/n; the next peak has charge n + 1.\n2. n = (1364.6 − 1.007)/(1501.0 − 1364.6) = 1363.6/136.4 = 10.\n3. So 1501.0 is the 10+ ion and 1364.6 the 11+ ion.\n4. M = 10 × (1501.0 − 1.007) ≈ 15,000 Da.\n5. Multiple charging lets ESI bring large proteins into the m/z range of ordinary analysers."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is MRM?",
+      "answer": "Multiple reaction monitoring: Q1 fixed on a precursor ion and Q3 on a product ion (e.g. paracetamol 152 → 110), giving very selective and sensitive quantitation."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name two direct desorption methods used in HPTLC-MS.",
+      "answer": "Desorption electrospray ionisation (DESI) and direct analysis in real time (DART); MALDI from the plate is also used."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a total ion chromatogram?",
+      "answer": "A plot of the summed intensity of all ions in each mass scan against time in GC-MS or LC-MS; it looks like an ordinary chromatogram."
+    }
+  ]
+}
