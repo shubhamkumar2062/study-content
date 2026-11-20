@@ -1,0 +1,23 @@
+{
+  "code": "NUTR140",
+  "title": "Applied Nutrition and Dietetics",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Applied Nutrition and Dietetics, pages 271–275; exam pattern in Appendix 3, pages 416–417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Introduction to nutrition, nutrients and foods", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "Carbohydrates, energy, proteins and fats", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Vitamins and minerals", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Balanced diet and nutrition across the life cycle", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Nutritional deficiency disorders", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Therapeutic diets", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Cookery rules, preservation of nutrients and food safety", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "Nutritional assessment, nutrition education and national nutrition programmes", "notes": "notes/unit-8.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}

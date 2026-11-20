@@ -1,0 +1,1124 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The energy value of 1 gram of fat is:",
+      "options": [
+        "9 kcal",
+        "4 kcal",
+        "7 kcal",
+        "12 kcal"
+      ],
+      "correct": 0,
+      "explanation": "Fat gives 9 kcal/g; carbohydrate and protein give 4 kcal/g.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "Which of the following is an inorganic nutrient?",
+      "options": [
+        "Vitamin C",
+        "Calcium",
+        "Starch",
+        "Albumin"
+      ],
+      "correct": 1,
+      "explanation": "Minerals and water are inorganic; carbohydrates, proteins, fats and vitamins are organic.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Which of the following is a micronutrient?",
+      "options": [
+        "Protein",
+        "Starch",
+        "Iron",
+        "Fat"
+      ],
+      "correct": 2,
+      "explanation": "Vitamins and minerals are needed in mg or µg amounts and are micronutrients.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "Green leafy vegetables and fruits are classified by function as:",
+      "options": [
+        "Energy-giving foods",
+        "Body-building foods",
+        "Empty-calorie foods",
+        "Protective foods"
+      ],
+      "correct": 3,
+      "explanation": "They supply vitamins and minerals that protect against disease.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "The presence of both under-nutrition and over-nutrition in the same population is called:",
+      "options": [
+        "Double burden of malnutrition",
+        "Specific deficiency",
+        "Hidden hunger",
+        "Nutritional imbalance"
+      ],
+      "correct": 0,
+      "explanation": "India has stunted, anaemic children and rising obesity at the same time.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Which of these is a non-energy-yielding nutrient?",
+      "options": [
+        "Carbohydrates",
+        "Vitamins",
+        "Proteins",
+        "Fats"
+      ],
+      "correct": 1,
+      "explanation": "Vitamins give no calories, though they help release energy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Pulses, milk, egg and meat are mainly:",
+      "options": [
+        "Protective foods only",
+        "Energy-giving foods only",
+        "Body-building foods",
+        "Fat-rich foods"
+      ],
+      "correct": 2,
+      "explanation": "They are rich in protein needed for growth and repair.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Water forms approximately what fraction of adult body weight?",
+      "options": [
+        "20%",
+        "40%",
+        "90%",
+        "60%"
+      ],
+      "correct": 3,
+      "explanation": "About 60% of adult body weight is water; infants have more.",
+      "probability": "low"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Malnutrition includes:",
+      "options": [
+        "Both under-nutrition and over-nutrition",
+        "Only under-nutrition",
+        "Only vitamin deficiency",
+        "Only obesity"
+      ],
+      "correct": 0,
+      "explanation": "Malnutrition means faulty nutrition of any kind, too little or too much.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Which food is of animal origin?",
+      "options": [
+        "Groundnut oil",
+        "Ghee",
+        "Jaggery",
+        "Soybean"
+      ],
+      "correct": 1,
+      "explanation": "Ghee comes from milk; the others are plant foods.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Which amino acid is limiting in cereals?",
+      "options": [
+        "Methionine",
+        "Tryptophan",
+        "Lysine",
+        "Leucine"
+      ],
+      "correct": 2,
+      "explanation": "Cereals are low in lysine; pulses are low in methionine.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "The ICMR-NIN 2020 protein RDA for healthy adults is:",
+      "options": [
+        "0.5 g/kg/day",
+        "1.5 g/kg/day",
+        "2 g/kg/day",
+        "0.83 g/kg/day"
+      ],
+      "correct": 3,
+      "explanation": "RDA 0.83 g/kg/day; EAR 0.66 g/kg/day.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "BMR increases in:",
+      "options": [
+        "Hyperthyroidism",
+        "Starvation",
+        "Sleep",
+        "Old age"
+      ],
+      "correct": 0,
+      "explanation": "Thyroid hormones raise BMR; starvation, sleep and ageing lower it.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "The ICMR-NIN 2020 energy requirement of a sedentary adult man is:",
+      "options": [
+        "1660 kcal/day",
+        "2110 kcal/day",
+        "2710 kcal/day",
+        "3470 kcal/day"
+      ],
+      "correct": 1,
+      "explanation": "Sedentary man 2110; moderate 2710; heavy 3470 kcal/day.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Which of the following is an essential fatty acid?",
+      "options": [
+        "Palmitic acid",
+        "Stearic acid",
+        "Linoleic acid",
+        "Oleic acid"
+      ],
+      "correct": 2,
+      "explanation": "Linoleic (n-6) and alpha-linolenic (n-3) acids cannot be made by the body.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Lactose is made of:",
+      "options": [
+        "Glucose and fructose",
+        "Two glucose units",
+        "Fructose and galactose",
+        "Glucose and galactose"
+      ],
+      "correct": 3,
+      "explanation": "Lactose = glucose + galactose; sucrose = glucose + fructose; maltose = glucose + glucose.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Which fat is most harmful to the heart?",
+      "options": [
+        "Trans fat",
+        "Monounsaturated fat",
+        "Omega-3 fat",
+        "Omega-6 fat"
+      ],
+      "correct": 0,
+      "explanation": "Trans fats from vanaspati and reheated oil raise LDL and lower HDL.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The protein-sparing action is a function of:",
+      "options": [
+        "Vitamins",
+        "Carbohydrates",
+        "Minerals",
+        "Fibre"
+      ],
+      "correct": 1,
+      "explanation": "Enough carbohydrate lets protein be used for growth and repair instead of energy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "Each 1 °C rise in body temperature raises BMR by about:",
+      "options": [
+        "1%",
+        "5%",
+        "13%",
+        "50%"
+      ],
+      "correct": 2,
+      "explanation": "Fever increases metabolic rate by about 13% per °C.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The richest plant source of protein is:",
+      "options": [
+        "Rice",
+        "Potato",
+        "Banana",
+        "Soybean"
+      ],
+      "correct": 3,
+      "explanation": "Soybean contains about 40% protein.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Night blindness is due to deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "correct": 0,
+      "explanation": "Vitamin A forms rhodopsin needed for vision in dim light.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Pellagra is caused by deficiency of:",
+      "options": [
+        "Thiamine",
+        "Niacin",
+        "Riboflavin",
+        "Folic acid"
+      ],
+      "correct": 1,
+      "explanation": "Niacin deficiency causes dermatitis, diarrhoea and dementia.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "The richest common source of vitamin C is:",
+      "options": [
+        "Rice",
+        "Milk",
+        "Amla",
+        "Potato"
+      ],
+      "correct": 2,
+      "explanation": "Indian gooseberry (amla) is the richest common source.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Vitamin B12 is found naturally only in:",
+      "options": [
+        "Green leafy vegetables",
+        "Cereals",
+        "Fruits",
+        "Animal foods"
+      ],
+      "correct": 3,
+      "explanation": "B12 comes from milk, egg, meat and fish; strict vegetarians are at risk.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Absorption of non-haem iron is increased by:",
+      "options": [
+        "Vitamin C",
+        "Tea",
+        "Phytates",
+        "Calcium supplements"
+      ],
+      "correct": 0,
+      "explanation": "Vitamin C helps; tea, phytates and calcium reduce iron absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "The ICMR-NIN 2020 calcium RDA for adults is:",
+      "options": [
+        "400 mg/day",
+        "1000 mg/day",
+        "600 mg/day",
+        "2000 mg/day"
+      ],
+      "correct": 1,
+      "explanation": "It was raised from 600 mg (2010) to 1000 mg (2020).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Angular stomatitis is a sign of deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Riboflavin",
+        "Iodine"
+      ],
+      "correct": 2,
+      "explanation": "Riboflavin (B2) deficiency causes cracks at the corners of the mouth.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Which vitamin is needed for the synthesis of clotting factors?",
+      "options": [
+        "Vitamin E",
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin K"
+      ],
+      "correct": 3,
+      "explanation": "Vitamin K is needed for prothrombin and factors VII, IX, X.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The richest cereal source of calcium is:",
+      "options": [
+        "Ragi",
+        "Rice",
+        "Wheat",
+        "Maize"
+      ],
+      "correct": 0,
+      "explanation": "Ragi (finger millet) is much richer in calcium than other cereals.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "Excess fluoride in drinking water causes:",
+      "options": [
+        "Dental caries",
+        "Fluorosis",
+        "Goitre",
+        "Scurvy"
+      ],
+      "correct": 1,
+      "explanation": "Too little fluoride causes caries; too much causes dental and skeletal fluorosis.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "Exclusive breastfeeding is recommended for the first:",
+      "options": [
+        "Three months",
+        "Four months",
+        "Six months",
+        "One year"
+      ],
+      "correct": 2,
+      "explanation": "IYCF: exclusive breastfeeding for 6 months, then complementary feeding.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Breastfeeding should be initiated within:",
+      "options": [
+        "Six hours of birth",
+        "24 hours of birth",
+        "Three days of birth",
+        "One hour of birth"
+      ],
+      "correct": 3,
+      "explanation": "Early initiation gives colostrum and helps milk flow.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "Anaemia in pregnancy is defined (WHO) as haemoglobin below:",
+      "options": [
+        "11 g/dL",
+        "9 g/dL",
+        "12 g/dL",
+        "13 g/dL"
+      ],
+      "correct": 0,
+      "explanation": "Hb below 11 g/dL in pregnancy; below 7 g/dL is severe.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The extra energy recommended in pregnancy (ICMR-NIN 2020) is:",
+      "options": [
+        "100 kcal/day",
+        "350 kcal/day",
+        "600 kcal/day",
+        "1000 kcal/day"
+      ],
+      "correct": 1,
+      "explanation": "+350 kcal/day in the 2nd and 3rd trimesters.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "The extra energy for a lactating mother in the first six months is:",
+      "options": [
+        "350 kcal/day",
+        "200 kcal/day",
+        "600 kcal/day",
+        "900 kcal/day"
+      ],
+      "correct": 2,
+      "explanation": "+600 kcal/day for 0–6 months and +520 kcal/day for 7–12 months.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "In the food exchange system, foods in one list provide similar:",
+      "options": [
+        "Colour",
+        "Cost",
+        "Vitamin C only",
+        "Energy and macronutrients"
+      ],
+      "correct": 3,
+      "explanation": "Exchanges can be swapped without changing energy, carbohydrate, protein and fat much.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Soluble dietary fibre helps by:",
+      "options": [
+        "Lowering blood cholesterol",
+        "Raising blood glucose",
+        "Causing ketosis",
+        "Increasing calcium absorption"
+      ],
+      "correct": 0,
+      "explanation": "Soluble fibre binds bile acids and slows glucose absorption.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Complementary feeding should start at:",
+      "options": [
+        "Two months",
+        "Six months",
+        "Four months",
+        "Twelve months"
+      ],
+      "correct": 1,
+      "explanation": "Breast milk alone cannot meet needs after 6 months.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "The Indian Food Composition Tables give nutrient values per:",
+      "options": [
+        "1 kg raw food",
+        "One serving",
+        "100 g edible portion",
+        "One cup"
+      ],
+      "correct": 2,
+      "explanation": "Nutrient in food = value per 100 g × amount ÷ 100.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "A limitation of RDA is that it:",
+      "options": [
+        "Is set below most people's needs",
+        "Covers sick patients",
+        "Never changes",
+        "Applies to healthy people only"
+      ],
+      "correct": 3,
+      "explanation": "RDAs are for healthy groups; patients need therapeutic diets.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "In children 6–59 months, SAM is diagnosed when MUAC is below:",
+      "options": [
+        "11.5 cm",
+        "12.5 cm",
+        "13.5 cm",
+        "10.0 cm"
+      ],
+      "correct": 0,
+      "explanation": "MUAC < 11.5 cm = SAM; 11.5–12.5 cm = MAM.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Oedema is a characteristic feature of:",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Stunting",
+        "Obesity"
+      ],
+      "correct": 1,
+      "explanation": "Kwashiorkor has pitting oedema; marasmus has severe wasting without oedema.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Bitot's spots are graded in the WHO classification as:",
+      "options": [
+        "XN",
+        "X2",
+        "X1B",
+        "X3B"
+      ],
+      "correct": 2,
+      "explanation": "XN night blindness, X1A conjunctival xerosis, X1B Bitot's spots.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Low height-for-age indicates:",
+      "options": [
+        "Wasting",
+        "Underweight",
+        "Obesity",
+        "Stunting"
+      ],
+      "correct": 3,
+      "explanation": "Stunting reflects chronic malnutrition.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "In the treatment of SAM, iron is started:",
+      "options": [
+        "In the rehabilitation phase",
+        "On the first day",
+        "Before feeding begins",
+        "Never"
+      ],
+      "correct": 0,
+      "explanation": "Iron is withheld in stabilisation and started once the child gains weight.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The starter therapeutic milk used in the stabilisation phase of SAM is:",
+      "options": [
+        "F-100",
+        "F-75",
+        "Toned milk",
+        "Condensed milk"
+      ],
+      "correct": 1,
+      "explanation": "F-75 is used first; F-100 or RUTF for catch-up growth.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Rickety rosary is seen in deficiency of:",
+      "options": [
+        "Vitamin C",
+        "Vitamin B1",
+        "Vitamin D",
+        "Iodine"
+      ],
+      "correct": 2,
+      "explanation": "Beading at the costochondral junctions occurs in rickets.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "Cretinism results from deficiency of:",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Calcium",
+        "Iodine"
+      ],
+      "correct": 3,
+      "explanation": "Iodine deficiency in the foetus causes cretinism.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Flaky paint dermatosis is seen in:",
+      "options": [
+        "Kwashiorkor",
+        "Marasmus",
+        "Scurvy",
+        "Rickets"
+      ],
+      "correct": 0,
+      "explanation": "Peeling patches of skin are typical of kwashiorkor.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "Spongy, bleeding gums are a sign of:",
+      "options": [
+        "Beriberi",
+        "Scurvy",
+        "Pellagra",
+        "Rickets"
+      ],
+      "correct": 1,
+      "explanation": "Vitamin C deficiency weakens collagen in gums and vessels.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "The correct sequence of post-operative diet progression is:",
+      "options": [
+        "Normal → soft → liquid",
+        "Soft → clear liquid → normal",
+        "Clear liquid → full liquid → soft → normal",
+        "Full liquid → clear liquid → normal"
+      ],
+      "correct": 2,
+      "explanation": "Feeding advances as tolerated from clear liquids to a normal diet.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Before every nasogastric feed the nurse must first:",
+      "options": [
+        "Warm the feed to body heat",
+        "Lay the patient flat",
+        "Give the feed rapidly",
+        "Confirm the tube position"
+      ],
+      "correct": 3,
+      "explanation": "Feeding into the lungs is dangerous, so position is checked every time.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Which food should be avoided in a diabetic diet?",
+      "options": [
+        "Sugar-sweetened juice",
+        "Methi seeds",
+        "Whole pulses",
+        "Green leafy vegetables"
+      ],
+      "correct": 0,
+      "explanation": "Sugary drinks raise blood glucose fast; fibre-rich foods are preferred.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "WHO advises that adult salt intake should be less than:",
+      "options": [
+        "10 g/day",
+        "5 g/day",
+        "15 g/day",
+        "1 g/day"
+      ],
+      "correct": 1,
+      "explanation": "Below 5 g salt a day helps control blood pressure.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "In chronic kidney disease, leaching of vegetables is done to reduce:",
+      "options": [
+        "Protein",
+        "Fibre",
+        "Potassium",
+        "Vitamin A"
+      ],
+      "correct": 2,
+      "explanation": "Soaking and boiling in excess water removes much potassium.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "The first-line treatment of dehydration in diarrhoea is:",
+      "options": [
+        "Stopping all food",
+        "Fruit juice",
+        "Antacids",
+        "Oral rehydration solution"
+      ],
+      "correct": 3,
+      "explanation": "ORS replaces water and salts; feeding continues.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "A late evening snack is especially advised for patients with:",
+      "options": [
+        "Cirrhosis of liver",
+        "Acute appendicitis",
+        "Peptic ulcer perforation",
+        "Gout"
+      ],
+      "correct": 0,
+      "explanation": "It prevents long overnight fasting and muscle breakdown in cirrhosis.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "By Asian/Indian BMI cut-offs, an adult is obese at a BMI of:",
+      "options": [
+        "30 kg/m² or more",
+        "25 kg/m² or more",
+        "23 kg/m² or more",
+        "18.5 kg/m² or more"
+      ],
+      "correct": 1,
+      "explanation": "Indian cut-offs: 23–24.9 overweight, 25 or more obese.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "Total parenteral nutrition is given:",
+      "options": [
+        "Through a nasogastric tube",
+        "By mouth",
+        "Into a vein",
+        "Through a gastrostomy"
+      ],
+      "correct": 2,
+      "explanation": "Parenteral means bypassing the gut.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "A high-fibre diet with plenty of fluids is indicated in:",
+      "options": [
+        "Acute diarrhoea",
+        "Before bowel surgery",
+        "Acute inflammatory bowel disease",
+        "Constipation"
+      ],
+      "correct": 3,
+      "explanation": "Fibre with water adds bulk and softens stool.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "Which cooking method retains the most nutrients?",
+      "options": [
+        "Pressure cooking",
+        "Boiling and draining",
+        "Deep frying",
+        "Repeated reheating"
+      ],
+      "correct": 0,
+      "explanation": "Short time and little water reduce nutrient losses.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "Metanil yellow in turmeric is detected because with hydrochloric acid it turns:",
+      "options": [
+        "Blue",
+        "Pink",
+        "Green",
+        "Black"
+      ],
+      "correct": 1,
+      "explanation": "A pink/magenta colour indicates metanil yellow.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Epidemic dropsy is caused by adulteration of mustard oil with:",
+      "options": [
+        "Palm oil",
+        "Groundnut oil",
+        "Argemone oil",
+        "Coconut oil"
+      ],
+      "correct": 2,
+      "explanation": "Argemone oil causes swelling of legs, heart failure and glaucoma.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "The Prevention of Food Adulteration Act, 1954 was replaced by the:",
+      "options": [
+        "Consumer Protection Act, 1986",
+        "Essential Commodities Act, 1955",
+        "Drugs and Cosmetics Act, 1940",
+        "Food Safety and Standards Act, 2006"
+      ],
+      "correct": 3,
+      "explanation": "FSSA 2006 created FSSAI and replaced the PFA Act.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "The temperature danger zone for food is about:",
+      "options": [
+        "5–60 °C",
+        "0–4 °C",
+        "65–100 °C",
+        "Below −18 °C"
+      ],
+      "correct": 0,
+      "explanation": "Bacteria multiply quickly between about 5 and 60 °C.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "Adding baking soda while cooking vegetables destroys:",
+      "options": [
+        "Iron",
+        "Vitamin C and thiamine",
+        "Calcium",
+        "Fibre"
+      ],
+      "correct": 1,
+      "explanation": "Alkali destroys heat- and alkali-sensitive vitamins.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "Germination of pulses increases their content of:",
+      "options": [
+        "Phytates",
+        "Flatulence-causing sugars",
+        "Vitamin C",
+        "Trypsin inhibitors"
+      ],
+      "correct": 2,
+      "explanation": "Sprouting raises vitamin C and B vitamins and lowers anti-nutrients.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "Starch added to milk is detected by adding iodine, which turns it:",
+      "options": [
+        "Red",
+        "Yellow",
+        "Colourless",
+        "Blue"
+      ],
+      "correct": 3,
+      "explanation": "Iodine forms a blue colour with starch.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "AGMARK certifies:",
+      "options": [
+        "Agricultural produce",
+        "Electrical appliances",
+        "Medicines",
+        "Cosmetics"
+      ],
+      "correct": 0,
+      "explanation": "AGMARK is the grading mark for agricultural products like ghee, honey, spices.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m10",
+      "unit": 7,
+      "question": "Which is one of the WHO five keys to safer food?",
+      "options": [
+        "Keep cooked food at room temperature overnight",
+        "Separate raw and cooked food",
+        "Thaw frozen food on the counter",
+        "Wash cut vegetables repeatedly"
+      ],
+      "correct": 1,
+      "explanation": "The five keys: keep clean, separate, cook thoroughly, safe temperatures, safe water and raw materials.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "ICDS was launched in:",
+      "options": [
+        "1962",
+        "1995",
+        "1975",
+        "2018"
+      ],
+      "correct": 2,
+      "explanation": "ICDS began on 2 October 1975.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "Anemia Mukt Bharat follows a strategy of:",
+      "options": [
+        "3 × 3 × 3",
+        "4 × 4 × 4",
+        "10 × 10 × 10",
+        "6 × 6 × 6"
+      ],
+      "correct": 3,
+      "explanation": "Six beneficiary groups, six interventions, six institutional mechanisms.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "Which method of dietary assessment shows the usual long-term food pattern?",
+      "options": [
+        "Food frequency questionnaire",
+        "24-hour recall",
+        "Weighment for one day",
+        "Single meal observation"
+      ],
+      "correct": 0,
+      "explanation": "FFQ records how often foods are usually eaten.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "WIFS is meant for:",
+      "options": [
+        "Children under 5 years",
+        "Adolescents aged 10–19 years",
+        "Pregnant women only",
+        "Elderly people"
+      ],
+      "correct": 1,
+      "explanation": "Weekly IFA and biannual deworming for adolescents.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "The National Goitre Control Programme was renamed NIDDCP in:",
+      "options": [
+        "1962",
+        "1975",
+        "1992",
+        "2012"
+      ],
+      "correct": 2,
+      "explanation": "Renamed in 1992 to cover all iodine deficiency disorders.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "The Mid-day Meal Scheme was renamed in 2021 as:",
+      "options": [
+        "POSHAN Abhiyaan",
+        "ICDS",
+        "PMMVY",
+        "PM POSHAN"
+      ],
+      "correct": 3,
+      "explanation": "Pradhan Mantri Poshan Shakti Nirman under the Ministry of Education.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "MUAC is measured at:",
+      "options": [
+        "The midpoint of the left upper arm",
+        "The wrist",
+        "The midpoint of the thigh",
+        "The calf"
+      ],
+      "correct": 0,
+      "explanation": "Midway between the acromion and the olecranon.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "Which ICDS service is provided mainly by the health system rather than the anganwadi worker?",
+      "options": [
+        "Pre-school education",
+        "Immunisation",
+        "Supplementary nutrition",
+        "Take-home ration"
+      ],
+      "correct": 1,
+      "explanation": "Immunisation and health check-ups are given by the ANM and medical officer.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "The National Nutrition Policy of India was adopted in:",
+      "options": [
+        "1975",
+        "2005",
+        "1993",
+        "2018"
+      ],
+      "correct": 2,
+      "explanation": "Adopted in 1993 with direct and indirect interventions.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m10",
+      "unit": 8,
+      "question": "Vitamin A supplementation under the national programme covers children aged:",
+      "options": [
+        "Birth to 6 months",
+        "5 to 10 years",
+        "Adolescents only",
+        "9 months to 5 years"
+      ],
+      "correct": 3,
+      "explanation": "Doses start with the measles–rubella vaccine and continue six-monthly.",
+      "probability": "medium"
+    }
+  ]
+}

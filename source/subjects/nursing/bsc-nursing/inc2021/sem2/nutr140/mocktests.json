@@ -1,0 +1,26 @@
+{
+  "tests": [
+    {
+      "id": "section-paper",
+      "title": "Section B: Applied Nutrition and Dietetics (50 marks)",
+      "patternSource": "INC B.Sc Nursing Regulations 2020, Appendix 3 (university theory question paper pattern): Applied Nutrition and Dietetics is Section B (50 marks) of a combined 3-hour, 75-mark paper shared with Applied Biochemistry (Section A, 25 marks). No internal choice. This mock covers Section B only, timed at about two-thirds of the paper. Confirm with your university.",
+      "durationMinutes": 120,
+      "totalMarks": 50,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 8, "attempt": 8 },
+        { "id": "essay", "title": "Essay (long answer)", "source": "long", "marksEach": 10, "count": 1, "attempt": 1 },
+        { "id": "short", "title": "Short answers", "source": "short", "marksEach": 5, "count": 4, "attempt": 4 },
+        { "id": "very-short", "title": "Very short answers", "source": "very-short", "marksEach": 2, "count": 6, "attempt": 6 }
+      ]
+    },
+    {
+      "id": "quick-mcq",
+      "title": "Quick MCQ test (20 questions, 20 minutes)",
+      "durationMinutes": 20,
+      "totalMarks": 20,
+      "sections": [
+        { "id": "mcq", "title": "Multiple choice questions", "source": "mcq", "marksEach": 1, "count": 20, "attempt": 20 }
+      ]
+    }
+  ]
+}
