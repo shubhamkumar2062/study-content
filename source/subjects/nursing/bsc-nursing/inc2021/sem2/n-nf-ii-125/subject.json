@@ -1,0 +1,25 @@
+{
+  "code": "N-NF(II)125",
+  "title": "Nursing Foundation II (including First Aid)",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Indian Nursing Council, Revised Regulations and Curriculum for B.Sc. (Nursing) Program, Regulations 2020 (Gazette of India, 5 July 2021), Nursing Foundation II (including Health Assessment module), pages 275–288; First Aid unit of Nursing Foundation I (Unit XIV), page 265; course list page 235; examination scheme pages 238–239 and 412; exam pattern in Appendix 3, pages 416–417",
+    "url": "https://indiannursingcouncil.org/uploads/pdf/162581803399632881260e803b133fde.pdf"
+  },
+  "units": [
+    { "number": 1, "title": "Health assessment", "notes": "notes/unit-1.md" },
+    { "number": 2, "title": "The nursing process and introduction to nursing theories", "notes": "notes/unit-2.md" },
+    { "number": 3, "title": "Nutritional needs and hygiene", "notes": "notes/unit-3.md" },
+    { "number": 4, "title": "Elimination needs and diagnostic testing", "notes": "notes/unit-4.md" },
+    { "number": 5, "title": "Oxygenation needs", "notes": "notes/unit-5.md" },
+    { "number": 6, "title": "Fluid, electrolyte and acid–base balance, IV therapy and blood transfusion", "notes": "notes/unit-6.md" },
+    { "number": 7, "title": "Administration of medications", "notes": "notes/unit-7.md" },
+    { "number": 8, "title": "Sensory needs, care of the unconscious patient, and death and dying", "notes": "notes/unit-8.md" },
+    { "number": 9, "title": "Psychosocial needs: self-concept, sexuality, stress, culture and spirituality", "notes": "notes/unit-9.md" },
+    { "number": 10, "title": "First aid and emergencies (from Nursing Foundation I, examined in this paper)", "notes": "notes/unit-10.md" }
+  ],
+  "extras": [
+    { "id": "how-to-use", "title": "How to use this subject", "notes": "notes/how-to-use.md" },
+    { "id": "revision-sheet", "title": "Last-night revision sheet", "notes": "notes/revision-sheet.md" }
+  ]
+}
