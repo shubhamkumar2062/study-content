@@ -1,0 +1,653 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on the weight of each topic in the INC syllabus and common patterns in B.Sc Nursing applied psychology papers. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define psychology. Describe the branches and methods of psychology, and explain the significance of psychology in nursing.",
+      "answer": "1. Definition: psychology is the scientific study of behaviour and mental processes and how they are affected by the body, environment and other people (Greek psyche = mind, logos = study). Goals: describe, explain, predict, control behaviour.\n2. Pure branches: general, developmental, abnormal, social, physiological, experimental, personality psychology.\n3. Applied branches: clinical, counselling, health, educational, industrial/organisational, community, forensic, nursing psychology.\n4. Methods: introspection (looking inward; subjective); naturalistic observation (real behaviour; observer bias); experimental method (independent and dependent variables, experimental and control groups; shows cause and effect); case study (deep, one person); survey/questionnaire; interview; correlational method; standardised psychological tests.\n5. Significance in nursing: understanding the patient as a whole person; nurse–patient relationship and therapeutic communication; understanding illness behaviour and compliance; effective health teaching using learning principles; age-appropriate care; managing pain, fear and stress; early recognition of mental health problems; nurse's own stress and teamwork; motivation in rehabilitation.\n6. Conclusion: psychology makes nursing care holistic and patient-centred."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the biological basis of behaviour with reference to the body–mind relationship, heredity and the brain.",
+      "answer": "1. Body–mind relationship: mind and body influence each other. Worry causes palpitation, acidity, headache; chronic stress raises BP and lowers immunity; illness causes anxiety and depression. Psychosomatic disorders (asthma, peptic ulcer, essential hypertension). Biopsychosocial model.\n2. Genetics and behaviour: genes on 46 chromosomes influence nervous system and hormones. Heredity sets potential; environment decides how much is reached.\n3. Inheritance of behaviour studied by family, twin (monozygotic vs dizygotic) and adoption studies. Intelligence, temperament and risk of schizophrenia and bipolar disorder have genetic influence; Down syndrome affects intelligence.\n4. Brain and behaviour: frontal lobe – judgement, personality, speech (Broca); parietal – touch, pain; temporal – hearing, memory, language (Wernicke); occipital – vision; limbic system – emotion, memory; hypothalamus – hunger, thirst, temperature, sleep; cerebellum – balance; reticular formation – alertness.\n5. Neurotransmitters (dopamine, serotonin, noradrenaline, acetylcholine, GABA) and hormones (adrenaline, thyroid, sex hormones) shape mood and behaviour.\n6. Brain damage alters behaviour (frontal injury → impulsiveness; dementia → memory loss).\n7. Nursing implication: include family history, physical causes of behaviour change, and holistic care."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the methods of psychology.",
+      "answer": "1. Introspection – self-observation of own thoughts and feelings; subjective.\n2. Observation – watching behaviour in natural settings and recording it; e.g. a child crying after parents leave.\n3. Experimental method – change the independent variable, measure the dependent variable, compare experimental and control groups; shows cause and effect.\n4. Case study – detailed history of one person.\n5. Survey/questionnaire and interview – information from many people or face to face.\n6. Psychological tests – standardised measures of intelligence, personality, attitude.\n7. Correlational method – how two variables move together; does not prove cause."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on the significance of psychology in nursing.",
+      "answer": "1. Helps understand patients' fear, anxiety, anger and denial during illness.\n2. Builds trust through therapeutic communication.\n3. Explains illness behaviour, delay in seeking care and non-compliance.\n4. Makes health teaching effective (learning and memory principles).\n5. Guides care according to age group (child, adolescent, older adult).\n6. Helps in pain control by distraction and reassurance.\n7. Early recognition of mental health problems and referral.\n8. Helps nurses manage their own stress, teamwork and leadership.\n9. Motivates patients in rehabilitation."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the body–mind relationship with examples.",
+      "answer": "1. Body and mind are interdependent; a change in one produces change in the other.\n2. Mind → body: fear causes palpitation and sweating; worry causes acidity and headache; chronic stress causes high BP and lowered immunity.\n3. Body → mind (somatopsychic): hypothyroidism causes slowness and low mood; long illness causes depression; hormonal changes in puberty, pregnancy and menopause change mood.\n4. Psychosomatic disorders: bronchial asthma, peptic ulcer, essential hypertension, tension headache.\n5. Biopsychosocial model: health results from biological, psychological and social factors.\n6. Nursing: treat the whole person; reduce anxiety to aid healing."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the sensory process and the role of the nurse in preventing sensory deprivation and overload.",
+      "answer": "1. Sensation: receiving stimuli through sense organs and changing them into nerve impulses.\n2. Process: stimulus → receptor → transduction → sensory nerve → thalamus → sensory cortex → sensation.\n3. Terms: absolute threshold, difference threshold, sensory adaptation.\n4. Sensory deprivation (isolation, eye patches, ICU at night) and overload (alarms, lights, noise) cause confusion, irritability, poor sleep, sometimes hallucinations.\n5. Nurse's role: ensure glasses and hearing aids; clocks, calendars and daylight; reduce noise and dim lights at night; cluster care to allow sleep; talk to and touch patients appropriately; check temperature of bath water for patients with reduced sensation; daily foot care in diabetics."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define psychology.",
+      "answer": "Psychology is the scientific study of behaviour and mental processes (thinking, feeling, remembering) of humans and animals. Example: studying why patients become anxious before surgery."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a psychosomatic disorder? Give two examples.",
+      "answer": "A physical illness in which psychological factors such as stress play an important part in onset or worsening. Examples: bronchial asthma, peptic ulcer, essential hypertension."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Who established the first psychology laboratory and when?",
+      "answer": "Wilhelm Wundt established the first psychology laboratory at Leipzig, Germany, in 1879; he is called the father of experimental psychology."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define mental health. Describe the characteristics of a mentally healthy person and the warning signs of poor mental health. Add a note on promotive and preventive mental health strategies.",
+      "answer": "1. Definition: a state of wellbeing in which a person realises own abilities, copes with normal stresses, works productively and contributes to the community; not merely absence of illness; it is a continuum.\n2. Characteristics: self-acceptance and self-esteem; realistic perception of reality; emotional balance; ability to cope with stress; good relationships; healthy independence; responsibility; productive work; adaptability; purpose in life; integrated personality; sense of humour; frustration tolerance; social interest.\n3. Warning signs: persistent sadness; excessive worry; change in sleep or appetite; withdrawal; fall in performance; mood swings; unusual beliefs or hearing voices; substance use; many unexplained physical complaints; neglect of hygiene; talk of death or self-harm.\n4. Promotion: life-skills education, good parenting, exercise, yoga, safe workplaces.\n5. Primary prevention: antenatal care, reduce substance use, school counselling, stress management.\n6. Secondary prevention: screening, crisis intervention, early referral.\n7. Tertiary prevention: rehabilitation, vocational training, family support, relapse prevention.\n8. Services: NMHP (1982), DMHP (1996), Tele-MANAS helpline 14416, Mental Healthcare Act 2017, hospitals, counselling, NGOs.\n9. Nurse's role: early recognition, education, reducing stigma, referral."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What are defence mechanisms? Explain any eight with examples and discuss their implications for nursing.",
+      "answer": "1. Definition: mostly unconscious mental processes that protect the ego from anxiety, guilt and loss of self-esteem (Sigmund and Anna Freud). Normal in moderation; harmful when excessive.\n2. Repression – painful memories pushed into the unconscious (cannot recall an accident).\n3. Denial – refusing reality (\"the report is wrong\").\n4. Projection – blaming others for own feelings (student says teacher hates him).\n5. Rationalisation – logical excuse (\"paper was out of syllabus\").\n6. Displacement – feelings shifted to a safer target (shouting at the nurse instead of the doctor).\n7. Regression – return to earlier behaviour (toilet-trained child wets bed in hospital).\n8. Reaction formation – showing the opposite feeling.\n9. Sublimation – drives channelled into useful activity (aggression into sport); healthy.\n10. Compensation – excelling in another area; conversion – anxiety into a physical symptom; suppression – conscious, healthy setting aside.\n11. Nursing implications: recognise them as signs of anxiety; do not attack or remove a defence suddenly; accept, listen and help face reality gradually; encourage healthy mechanisms; reduce anxiety; check own defences (displacement, rationalisation) for professional care."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the types of conflict with examples.",
+      "answer": "Conflict: two or more opposing motives at the same time (Kurt Lewin).\n1. Approach–approach: two attractive goals (two good job offers); easiest to resolve.\n2. Avoidance–avoidance: two unpleasant choices (painful surgery or continuing pain); person delays or tries to escape.\n3. Approach–avoidance: one goal with good and bad sides (wants sweets but fears weight gain); vacillation and anxiety.\n4. Double approach–avoidance: two goals each with good and bad sides (city job with high pay but away from family vs village job); most common and stressful.\nMeasures: identify the problem, gather information, list pros and cons, decide and act, accept what cannot be changed, seek counselling."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the role of the nurse in reducing frustration and conflict and enhancing coping in patients.",
+      "answer": "1. Assess the source of frustration – pain, fear, unmet needs, lack of information.\n2. Meet basic needs promptly: comfort, pain relief as ordered, food, sleep, privacy.\n3. Explain procedures, rules and plans simply to reduce uncertainty.\n4. Allow choices to restore control.\n5. Listen; allow expression of anger without retaliation.\n6. Help in decision-making by giving information; decision belongs to the patient.\n7. Involve family and support systems.\n8. Teach coping: relaxation, problem-solving, positive self-talk.\n9. Set achievable goals and praise progress.\n10. Refer to counsellor or psychiatrist when needed."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is frustration? Explain its sources and the common reactions to frustration.",
+      "answer": "1. Frustration: tension and disappointment when a goal is blocked.\n2. Sources: environmental physical (floods, illness, poverty); environmental social (rules, discrimination); personal (lack of ability, disability, unrealistic goals, low confidence); conflict of motives.\n3. Reactions: direct approach (more effort, new method, change goal – healthy); aggression direct or displaced; withdrawal and apathy; regression and fixation; psychosomatic symptoms; excessive defence mechanisms.\n4. Example: a patient kept waiting for surgery becomes irritable with staff."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a short note on mental hygiene.",
+      "answer": "1. Meaning: science and practice of preserving mental health and preventing mental illness.\n2. Aims: preservative (keep healthy people healthy), preventive (reduce risk factors, detect early), curative (early treatment, rehabilitation).\n3. Levels: individual (healthy habits, coping), family (warm parenting), school (life skills, counselling), workplace (reasonable workload), community (awareness, reducing stigma, self-help groups).\n4. Services: NMHP, DMHP, Tele-MANAS, counselling centres.\n5. Nurse's role: education, early identification, referral, support."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate repression and suppression.",
+      "answer": "Repression is unconscious, involuntary pushing of painful thoughts out of awareness. Suppression is conscious, voluntary putting aside of a worry for later (healthy)."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define sublimation with an example.",
+      "answer": "Sublimation is channelling unacceptable impulses into socially approved activity; a healthy defence. Example: aggressive feelings expressed through boxing or sports."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the three structures of personality described by Freud and state the function of the ego.",
+      "answer": "Id, ego and superego. The ego works on the reality principle and balances the instinctive demands of the id with the moral demands of the superego."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the physical, cognitive and psychosocial development from infancy to adolescence. Explain the role of the nurse in supporting normal growth and development.",
+      "answer": "1. Growth = increase in size; development = increase in function; principles: continuous, sequential, cephalocaudal, proximodistal, individual rate, heredity × environment.\n2. Infancy and early childhood: rapid growth, motor milestones (head control, sitting, walking); sensorimotor then preoperational thinking, first words; attachment, stranger and separation anxiety; Erikson trust vs mistrust, autonomy vs shame, initiative vs guilt; play solitary → parallel → cooperative.\n3. Middle and late childhood: steady growth, fine motor skills; concrete operational thinking, school learning; peers, rules, industry vs inferiority.\n4. Adolescence: puberty, growth spurt, body image; formal operational abstract thinking, idealism, risk-taking; identity vs role confusion, peer pressure, independence, mood swings.\n5. Nurse's role: assess milestones and growth charts, early referral; immunisation, nutrition, breastfeeding, safety; teach parents about play, toilet training and positive discipline; support attachment and rooming-in; age-appropriate explanations; adolescent counselling on puberty, substance use and mental health; privacy and respect."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the psychological needs of children and older adults in sickness and the role of the nurse in meeting them.",
+      "answer": "1. Children: need love, security, play and parental presence. Hospital causes separation anxiety (protest, despair, detachment), fear of injury and pain, regression, belief that illness is punishment; school-age fear missing school and loss of control.\n2. Nursing for children: parents to stay and help with care; favourite toy; same nurse; honest simple explanation just before procedures; never threaten; play and therapeutic play; distraction during painful procedures; keep home routines; praise and small rewards; schoolwork for school-age children; watch for abuse.\n3. Older adults: need respect, dignity, independence, companionship and security. Illness brings confusion in new places, sensory loss, fear of dependence and death, loneliness, depression.\n4. Nursing for older adults: address respectfully; orient to place and time; ensure glasses and hearing aids; unhurried, clear communication; promote self-care; prevent falls; encourage family visits and activities; watch for depression and confusion; support end-of-life wishes."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain Erikson's psychosocial stages of development.",
+      "answer": "1. Infancy: trust vs mistrust – hope.\n2. Toddler: autonomy vs shame and doubt – will.\n3. Preschool: initiative vs guilt – purpose.\n4. School age: industry vs inferiority – competence.\n5. Adolescence: identity vs role confusion – fidelity.\n6. Young adult: intimacy vs isolation – love.\n7. Middle adult: generativity vs stagnation – care.\n8. Older adult: integrity vs despair – wisdom.\nNursing use: consistent care builds trust; allow toddlers choices; involve adolescents in decisions; help older adults review life with satisfaction."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the stages of dying according to Kübler-Ross and the nurse's role in each.",
+      "answer": "1. Denial – \"It can't be me\"; accept, do not force, stay available.\n2. Anger – \"Why me?\"; do not take personally, allow expression.\n3. Bargaining – promises in exchange for recovery; listen, support spiritual needs.\n4. Depression – sadness, withdrawal; presence, touch, allow grief.\n5. Acceptance – calm; support wishes, dignity, family time.\nStages may not occur in order; families also pass through them; provide comfort and bereavement support."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain Piaget's stages of cognitive development.",
+      "answer": "1. Sensorimotor (0–2 years): learns through senses and movement; object permanence.\n2. Preoperational (2–7 years): language and symbols; egocentric; magical thinking; no conservation.\n3. Concrete operational (7–11 years): logical thinking about real objects; conservation; classification.\n4. Formal operational (11 years onwards): abstract, hypothetical reasoning.\nNursing use: explain procedures with toys and simple words to young children, with diagrams to school-age children, and with full reasoning to adolescents."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Who are vulnerable individuals? Describe their psychological problems and the role of the nurse.",
+      "answer": "1. People at higher risk of harm or neglect: persons with disabilities, women, the chronically sick, older adults, orphans and street children, persons with mental illness, the poor and homeless, persons with stigmatised illness (HIV, leprosy, TB), victims of violence and disasters.\n2. Problems: low self-esteem, dependence, stigma, isolation, fear, depression, abuse, poor access to care.\n3. Nurse's role: respect and dignity; non-judgemental attitude; assess needs and risks; empower through self-care teaching; advocacy and informed consent; link to welfare schemes and NGOs; family support; fight stigma; recognise and report abuse."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is separation anxiety? Name its phases.",
+      "answer": "Distress shown by a young child when separated from the main caregiver, common on hospital admission. Phases: protest, despair and detachment."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate growth and development.",
+      "answer": "Growth is increase in size (height, weight) and is quantitative. Development is increase in skill and complexity of function (walking, speech) and is qualitative."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "What is therapeutic play?",
+      "answer": "Structured play in hospital that lets a child express fears and understand procedures, for example giving a pretend injection to a doll; it reduces anxiety."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define personality. Explain the classification of personality and the methods of measuring personality.",
+      "answer": "1. Definition: the unique, fairly stable pattern of thinking, feeling and behaving that makes a person different and shapes adjustment to the environment (Latin persona = mask). Allport: dynamic organisation of psychophysical systems determining unique adjustment.\n2. Characteristics: unique, consistent, dynamic, integrated, inherited and learned, measurable.\n3. Type classification: Hippocrates – sanguine, choleric, melancholic, phlegmatic; Kretschmer – pyknic, athletic, asthenic; Sheldon – endomorph (viscerotonic), mesomorph (somatotonic), ectomorph (cerebrotonic); Jung – introvert, extrovert, ambivert; Type A (competitive, impatient) and Type B (relaxed).\n4. Trait classification: Allport (cardinal, central, secondary); Cattell (16 source traits, 16PF); Eysenck (extraversion, neuroticism, psychoticism); Big Five – OCEAN.\n5. Measurement: interview; observation; rating scales; inventories/questionnaires (MMPI, 16PF, EPQ); projective techniques (Rorschach inkblot, TAT, sentence completion, draw-a-person); situational tests; biographical data.\n6. Nurse's role: observe and record behaviour, prepare patients, keep confidentiality; interpretation by psychologists."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What is a psychological test? Describe the types, characteristics, principles and uses of psychological tests and the role of the nurse in psychological assessment.",
+      "answer": "1. Definition: a standardised, objective measure of a sample of behaviour, compared with norms.\n2. Types: by content (intelligence, aptitude, achievement, personality, interest, attitude, neuropsychological); individual vs group; verbal, non-verbal, performance; speed vs power; objective vs subjective scoring.\n3. Development: purpose → item pool → try-out and item analysis → final form → standardisation and norms → reliability and validity → manual.\n4. Characteristics: reliability, validity, objectivity, standardisation, norms, practicability, discrimination, cultural fairness.\n5. Principles: qualified tester, informed consent, confidentiality, rapport, suitable environment, standard instructions, appropriate test, avoid labelling on one score.\n6. Uses: clinical diagnosis and treatment planning, education, vocational selection, research, legal, self-understanding.\n7. Interpretation: raw scores converted to percentiles, standard scores or IQ and compared with norms.\n8. Nurse's role: prepare and reassure patient, arrange quiet room, ensure aids, observe and record ward behaviour, use screening tools as trained, confidentiality, support after testing, use results in care plans."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the classification of personality types.",
+      "answer": "1. Hippocrates: sanguine (cheerful), choleric (quick-tempered), melancholic (gloomy), phlegmatic (calm, slow).\n2. Kretschmer: pyknic (short, round, sociable), athletic (muscular, energetic), asthenic (thin, shy).\n3. Sheldon: endomorph (soft, comfort-loving), mesomorph (muscular, adventurous), ectomorph (thin, sensitive).\n4. Jung: introvert, extrovert, ambivert.\n5. Type A (competitive, impatient, linked with heart disease) and Type B (relaxed).\nLimitation: people rarely fit one type; trait approaches (Big Five) describe degrees."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on projective techniques of personality assessment.",
+      "answer": "1. Ambiguous stimuli are presented; the person projects inner feelings, conflicts and motives into the response.\n2. Rorschach inkblot test – ten inkblot cards; person says what they see.\n3. Thematic Apperception Test (TAT) – pictures; person makes a story.\n4. Sentence completion, word association and draw-a-person tests.\n5. Advantages: reach unconscious material; hard to fake.\n6. Limitations: subjective scoring; need trained psychologists; lower reliability."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What are the characteristics of a good psychological test?",
+      "answer": "1. Reliability – consistent results (test–retest, split-half).\n2. Validity – measures what it claims (content, criterion, construct).\n3. Objectivity – score independent of scorer.\n4. Standardisation – uniform instructions and scoring.\n5. Norms – comparison with a defined group.\n6. Practicability – easy, economical, reasonable time.\n7. Discrimination – separates high and low scorers.\n8. Cultural fairness – suits language and background."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of the nurse in identifying individual personality and improving altered personality.",
+      "answer": "1. Observe and record behaviour objectively; take history from family about previous personality.\n2. Report sudden personality change – may indicate head injury, infection or metabolic disorder.\n3. Build a consistent, trusting relationship.\n4. Set clear, firm and kind limits for manipulative or aggressive behaviour; apply consistently.\n5. Reinforce acceptable behaviour with praise.\n6. Teach social skills, anger management and problem-solving.\n7. Involve and teach the family.\n8. Refer for treatment of underlying causes; monitor own reactions.\n9. Adapt care to personality (privacy for introverts, slowing down for Type A)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define personality.",
+      "answer": "Personality is the unique and relatively stable pattern of thoughts, feelings and behaviour that distinguishes a person and determines how he or she adjusts to the environment."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Expand OCEAN in the Big Five model of personality.",
+      "answer": "Openness, Conscientiousness, Extraversion, Agreeableness and Neuroticism."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate reliability and validity of a test.",
+      "answer": "Reliability is the consistency of results when a test is repeated. Validity is the extent to which a test measures what it is meant to measure."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define attention. Explain the types and determinants of attention, its span and alterations, and its applications in nursing.",
+      "answer": "1. Definition: focusing consciousness on one object or activity while ignoring others.\n2. Types: involuntary (loud noise), voluntary (studying), habitual (mother waking to baby's cry; nurse to alarm); also selective, divided and sustained attention.\n3. External determinants: intensity, size, novelty, change and movement, repetition, contrast, colour, position.\n4. Internal determinants: interest, motives and needs, mental set, emotional state, fatigue, illness, drugs, past experience.\n5. Span about six to seven items; attention fluctuates and tires; degree full or partial; distraction.\n6. Alterations: distractibility (mania, delirium), poor concentration (depression), hypervigilance (anxiety), narrowing, clouding of consciousness, ADHD.\n7. Nursing applications: short focused health teaching with colour and demonstration; distraction for pain; quiet zone for medicine preparation; assess attention by serial subtraction; reduce distractions for anxious patients."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is intelligence? Discuss the effect of heredity and environment, classification of intelligence, measurement of intelligence and mental deficiency.",
+      "answer": "1. Definition: general mental ability to learn, reason, solve problems and adapt (Wechsler: global capacity to act purposefully, think rationally and deal effectively with the environment).\n2. Theories: Spearman g and s; Thurstone primary mental abilities; Gardner multiple intelligences; Sternberg triarchic; emotional intelligence.\n3. Heredity: identical twins more alike; genetic conditions (Down syndrome). Environment: nutrition, iodine, prenatal care, birth complications, stimulation, schooling, poverty, culture. Heredity sets limits, environment decides attainment.\n4. Measurement: Binet–Simon (1905), mental age; Stanford–Binet; IQ = MA ÷ CA × 100; Wechsler deviation IQ; Raven's matrices; performance tests; Indian adaptations.\n5. Classification: ≥130 very superior; 120–129 superior; 110–119 high average; 90–109 average; 80–89 low average; 70–79 borderline; below 70 intellectual disability.\n6. Mental deficiency (intellectual disability): below-average intellect plus adaptive deficits starting before 18 years; mild 50–69, moderate 35–49, severe 20–34, profound below 20.\n7. Causes: genetic, prenatal infections and alcohol, iodine deficiency, birth asphyxia, meningitis, head injury, malnutrition, untreated hypothyroidism.\n8. Nurse's role: prevention (antenatal care, iodised salt, immunisation, safe delivery), early detection, training in self-care in small steps, family support, link to special education and benefits, protection from abuse."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the principles of perception and the factors affecting perception.",
+      "answer": "1. Perception: selecting, organising and interpreting sensations to give meaning.\n2. Principles (Gestalt): figure–ground, proximity, similarity, closure, continuity, simplicity; constancy of size, shape and colour; depth perception.\n3. Factors: stimulus characteristics, attention and interest, past experience, motivation and needs, mental set, emotions, culture, physical state (fever, fatigue, drugs), age.\n4. Example: an experienced nurse perceives early cyanosis that a beginner misses."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate illusion and hallucination. Describe the role of the nurse in caring for a patient with hallucinations.",
+      "answer": "1. Illusion: misinterpretation of a real stimulus (rope seen as a snake); common in fear, fever, dim light.\n2. Hallucination: perception without any external stimulus (hearing voices); seen in schizophrenia, delirium, alcohol withdrawal.\n3. Nursing: stay calm; do not argue or pretend to hear; acknowledge feelings (\"I don't hear it, but you seem frightened\"); keep environment safe and well lit; reduce noise; orient; observe for commands to harm self or others; report and record; reassure."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is aptitude? Explain its types and individual differences.",
+      "answer": "1. Aptitude: natural capacity to learn a specific skill quickly with training; refers to future potential.\n2. Differs from intelligence (general ability) and achievement (present learning).\n3. Types: verbal, numerical, abstract reasoning, spatial, mechanical, clerical, musical, artistic, scientific, social, manual dexterity.\n4. Tests: special aptitude tests and batteries (Differential Aptitude Tests).\n5. Individual differences: inter-individual and intra-individual; abilities follow a normal curve; caused by heredity, environment, age, education, culture, health.\n6. Use: career guidance, placement, patient teaching at the right level."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the types of attention with examples.",
+      "answer": "1. Involuntary – drawn automatically by strong stimuli; turning at a loud sound.\n2. Voluntary – deliberate, needs effort; concentrating in class.\n3. Habitual – voluntary attention that became automatic; nurse noticing an alarm.\n4. Selective – one stimulus from many; following a conversation in a noisy ward.\n5. Divided – two tasks at once; talking to the patient while checking the drip.\n6. Sustained – over a long period; monitoring an ICU patient."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the formula for intelligence quotient.",
+      "answer": "IQ = (Mental age ÷ Chronological age) × 100. Example: MA 12, CA 10 → IQ 120."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is span of attention?",
+      "answer": "The number of separate items a person can grasp in one brief glance; usually about six to seven items for adults and fewer for children."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Name any four Gestalt principles of perception.",
+      "answer": "Figure–ground, proximity, similarity, closure (also continuity and simplicity)."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define learning. Explain the theories of learning (classical conditioning, trial and error, operant conditioning, insight) and their applications in nursing.",
+      "answer": "1. Definition: relatively permanent change in behaviour resulting from experience or practice.\n2. Classical conditioning (Pavlov): neutral stimulus (bell) paired with food (UCS) produces salivation (CR); extinction, spontaneous recovery, generalisation, discrimination. Nursing: child fears all white coats; anticipatory nausea; use pleasant associations.\n3. Trial and error (Thorndike): cat in puzzle box; laws of readiness, exercise and effect. Nursing: practice of skills in skill lab; satisfying outcomes strengthen learning.\n4. Operant conditioning (Skinner): positive and negative reinforcement increase behaviour; punishment and extinction decrease it; shaping. Nursing: praise for walking after surgery; ignore attention-seeking; shaping self-care in intellectual disability.\n5. Insight (Köhler): sudden understanding (chimpanzee joining sticks); remembered and transferred. Nursing: case discussions.\n6. Observational learning (Bandura): attention, retention, reproduction, motivation; nurses as role models.\n7. Applications: health teaching, habit formation (hand hygiene), rehabilitation, behaviour modification."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is memory? Describe the types of memory, factors influencing memory, methods to improve memory and causes of forgetting.",
+      "answer": "1. Definition: ability to encode, store and retrieve information.\n2. Stages: encoding → storage → retrieval.\n3. Types: sensory memory (under 1–2 s); short-term memory (about 7 ± 2 items, 20–30 s, improved by chunking); long-term memory (unlimited) – episodic, semantic, procedural.\n4. Measuring retention: recall, recognition, relearning (savings), reconstruction.\n5. Factors: attention, interest, meaningfulness, organisation, repetition, spacing, sleep, emotional state, health, drugs, ageing, interference.\n6. Improving memory: understand, organise, chunk, mnemonics, spaced revision, self-testing, overlearning, multiple senses, whole and part methods, sleep and exercise.\n7. Forgetting: Ebbinghaus curve – rapid early loss. Causes: decay, proactive and retroactive interference, retrieval failure, motivated forgetting (repression), organic causes (head injury, dementia, alcohol).\n8. Nursing: give patients one or two key points, written instructions, teach-back; involve family."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the methods to improve memory.",
+      "answer": "1. Understand the material before memorising.\n2. Organise into headings, tables and flow charts.\n3. Chunking – grouping items.\n4. Mnemonics – acronyms, rhymes, images.\n5. Spaced revision instead of cramming.\n6. Recitation and self-testing.\n7. Overlearning.\n8. Use many senses – read, write, speak, draw.\n9. Whole method for short material, part method for long.\n10. Adequate sleep, exercise, nutrition, low stress."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain operant conditioning and its use in nursing.",
+      "answer": "1. Proposed by B. F. Skinner: behaviour is shaped by its consequences.\n2. Positive reinforcement – pleasant added → behaviour increases.\n3. Negative reinforcement – unpleasant removed → behaviour increases.\n4. Punishment – behaviour decreases.\n5. Extinction – no reinforcement → behaviour fades.\n6. Shaping – reward successive steps.\n7. Nursing uses: praising patients for exercises and diet; reward charts for children; shaping self-care skills; ignoring attention-seeking behaviour; behaviour modification programmes."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is habit? Explain how good habits are formed and bad habits broken.",
+      "answer": "1. Habit: acquired behaviour that becomes automatic through repetition.\n2. Forming good habits: strong decision, announce it; no exceptions until fixed; use every chance to practise; same time and place (cue); reward success.\n3. Breaking bad habits: awareness of cues; avoid triggers; replace with alternative behaviour; remove reward; gradual or sudden stop; support and record.\n4. Nursing: hand hygiene, patient identification, documentation habits; health teaching for exercise and tobacco cessation."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the types of thinking and the steps of problem-solving.",
+      "answer": "1. Thinking: mental manipulation of images, concepts and symbols.\n2. Types: perceptual (concrete), conceptual (abstract), reflective, creative, critical, convergent, divergent, autistic (fantasy).\n3. Reasoning: inductive (specific → general), deductive (general → specific).\n4. Problem-solving steps: identify problem → collect information → possible solutions → evaluate and choose → act → evaluate result.\n5. These match the nursing process: assessment, diagnosis, planning, implementation, evaluation.\n6. Barriers: mental set, functional fixedness, lack of information, stress."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Differentiate proactive and retroactive interference.",
+      "answer": "Proactive interference: old learning disturbs recall of new learning. Retroactive interference: new learning disturbs recall of old learning."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a learning plateau?",
+      "answer": "A flat stage in the learning curve when no visible progress occurs for a time despite practice, due to fatigue, loss of interest or the need to combine sub-skills."
+    },
+    {
+      "id": "u6-v03",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate delirium and dementia.",
+      "answer": "Delirium is an acute, fluctuating disturbance of consciousness and attention, usually reversible. Dementia is a gradual, progressive decline in memory and intellect, usually irreversible."
+    },
+    {
+      "id": "u7-l01",
+      "unit": 7,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define motivation. Explain the motivation cycle, types of motives and theories of motivation with special reference to Maslow's hierarchy of needs. Add its application in nursing.",
+      "answer": "1. Definition: inner force that starts, directs and sustains goal-directed behaviour (Latin movere). Terms: need, drive, motive, incentive.\n2. Motivation cycle: need → drive → goal-directed behaviour → goal/incentive → need reduction; blocked goal → frustration. (Draw the cycle.)\n3. Types: intrinsic vs extrinsic; biological (hunger, thirst, oxygen, sleep, temperature, elimination, pain avoidance, sex, maternal) vs social (achievement, affiliation, power, approval, curiosity, self-esteem).\n4. Maslow: physiological → safety → love and belonging → esteem → self-actualisation; lower needs first (draw pyramid).\n5. Other theories: instinct (McDougall), drive reduction (Hull), incentive, arousal and Yerkes–Dodson law, McClelland's needs, Herzberg's two-factor theory.\n6. Nursing applications: prioritise care (airway, breathing, circulation, then safety, then psychosocial needs); relieve pain before teaching; motivate patients in rehabilitation with goals and praise; staff motivation through recognition and responsibility."
+    },
+    {
+      "id": "u7-l02",
+      "unit": 7,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is stress? Explain the general adaptation syndrome, effects of stress, and methods of adaptation and coping. Describe the role of the nurse in stress management.",
+      "answer": "1. Stress: response to demands felt to exceed coping ability. Stressor: physical, psychological, social, life events. Eustress (positive) vs distress (harmful).\n2. GAS (Hans Selye): alarm reaction (sympathetic activation, adrenaline, cortisol; fast heart, raised BP and sugar) → resistance (adaptation, arousal stays high) → exhaustion (resources used up; diseases of adaptation).\n3. Stress cycle: stressor → appraisal → response → coping → adaptation or maladaptation.\n4. Effects: physical (headache, palpitations, poor sleep, lowered immunity); emotional (anxiety, irritability); cognitive (poor concentration); behavioural (eating changes, withdrawal, substance use).\n5. Coping (Lazarus): primary and secondary appraisal; problem-focused vs emotion-focused coping; healthy coping – exercise, sleep, diet, relaxation, yoga, time management, social support, humour, counselling; unhealthy – alcohol, tobacco, aggression, withdrawal.\n6. Nurse's role: identify stressors; explain procedures; allow expression of feelings; teach relaxation and breathing; encourage support systems; ensure sleep and comfort; refer; manage own stress."
+    },
+    {
+      "id": "u7-s01",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the physiological changes during emotion and the theories of emotion.",
+      "answer": "1. Emotion: feeling state with physiological arousal, appraisal and expression.\n2. Physiological changes (sympathetic): increased heart rate and BP, rapid breathing, dilated pupils, sweating, dry mouth, raised blood sugar, reduced digestion, muscle tension, gooseflesh.\n3. James–Lange: bodily change first, feeling follows.\n4. Cannon–Bard: thalamus signals cortex and body simultaneously.\n5. Schachter–Singer: arousal + cognitive label = emotion.\n6. Nursing: anxiety raises pulse and BP readings; calm patients before recording."
+    },
+    {
+      "id": "u7-s02",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is attitude? Explain its components, formation and change.",
+      "answer": "1. Attitude: learned, relatively lasting tendency to respond favourably or unfavourably to an object, person or idea.\n2. Components (ABC): affective (feelings), behavioural (tendency to act), cognitive (beliefs).\n3. Formation: family, personal experience, peers, education, media, culture and religion, conditioning and imitation.\n4. Change: new information, persuasive communication by credible source, direct contact, cognitive dissonance (Festinger), group influence, role-play, reward.\n5. Role in health: positive attitudes improve health-seeking and compliance; negative ones cause delay and stigma."
+    },
+    {
+      "id": "u7-s03",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the role of the nurse in caring for an emotionally sick client.",
+      "answer": "1. Build a therapeutic relationship of trust and respect.\n2. Assess mood, sleep, appetite and self-harm risk; record and report.\n3. Listen actively; allow expression of feelings.\n4. Provide a safe, calm environment; remove harmful objects if risk.\n5. Meet basic needs – nutrition, hygiene, rest.\n6. Give simple, honest information.\n7. Teach coping and relaxation; encourage activity and social contact.\n8. Educate family; reduce stigma.\n9. Give prescribed treatment and observe effects.\n10. Refer; give Tele-MANAS helpline (14416); confidentiality; self-care for the nurse."
+    },
+    {
+      "id": "u7-s04",
+      "unit": 7,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain how emotions develop and how a nurse handles emotions in self and others.",
+      "answer": "1. Development: general excitement at birth → distress and delight in early months → anger, fear, disgust, joy, affection within two years → shame, guilt, pride in preschool years; control develops with maturation and learning; intense in adolescence, stable in adulthood.\n2. In self: recognise and name the emotion, pause before reacting, express to colleagues not patients, healthy outlets, debriefing, seek help.\n3. In others: notice cues, accept without judging, listen, allow crying, empathy and touch, honest information, problem-solving, safety if anger becomes aggression."
+    },
+    {
+      "id": "u7-v01",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the stages of Selye's general adaptation syndrome.",
+      "answer": "Alarm reaction, stage of resistance and stage of exhaustion."
+    },
+    {
+      "id": "u7-v02",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "List the levels of Maslow's hierarchy of needs.",
+      "answer": "Physiological needs, safety needs, love and belonging, esteem, and self-actualisation (from the base upwards)."
+    },
+    {
+      "id": "u7-v03",
+      "unit": 7,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the Yerkes–Dodson law?",
+      "answer": "Performance improves with arousal up to a moderate level and then declines when arousal becomes too high; moderate arousal gives the best performance."
+    },
+    {
+      "id": "u8-l01",
+      "unit": 8,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define interpersonal relationship. Explain its types and purposes, interpersonal skills, barriers and strategies to overcome barriers in nursing.",
+      "answer": "1. Definition: close association between two or more people based on interaction and mutual influence.\n2. Types: family, friendship, professional (nurse–doctor, nurse–nurse), therapeutic (nurse–patient), social/community, romantic.\n3. Purposes: belonging, emotional support, sharing information, cooperation, personal growth, patient recovery.\n4. Nurse–patient relationship phases (Peplau): orientation, identification, exploitation, resolution.\n5. Interpersonal skills: active listening, empathy, assertiveness, respect, trust, cooperation, conflict resolution, feedback, emotional intelligence.\n6. Barriers: physical (noise, workload), physiological (pain, hearing loss), psychological (anxiety, prejudice), language and jargon, cultural, organisational hierarchy, attitudinal.\n7. Strategies: privacy and quiet; eye-level seating; simple language and teach-back; interpreters and pictures; aids for sensory loss; manage own emotions; cultural respect; feedback; team meetings and SBAR handover; early conflict resolution."
+    },
+    {
+      "id": "u8-l02",
+      "unit": 8,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the concept and types of soft skills. Describe survival strategies and the application of soft skills in the workplace and in nursing.",
+      "answer": "1. Soft skills: personal and interpersonal qualities (communication, teamwork, attitude, time management); hard skills are technical.\n2. Types: visual (observation, presentation, body language), aural (active listening), communication (spoken, written, telephone).\n3. Ways of communication: verbal oral and written, non-verbal (expression, posture, touch, tone, distance), formal and informal; 7 Cs.\n4. Survival strategies: time management (priorities, planning, delegation); coping with stress (lifestyle, relaxation, support); resilience; work–life balance to prevent burnout.\n5. Workplace and society: presentation skills, social etiquette, telephone etiquette (identify self, note, repeat back, confidentiality), motivational skills, teamwork, conflict management.\n6. In nursing: welcoming admissions, explaining procedures, health teaching with teach-back, structured handover, calming angry relatives, community trust-building, career growth."
+    },
+    {
+      "id": "u8-s01",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a short note on self-empowerment and its dimensions.",
+      "answer": "1. Self-empowerment: taking charge of one's life – recognising abilities, setting goals, making decisions, taking responsibility.\n2. Dimensions: psychological (confidence, self-esteem), intellectual (knowledge, skills), social (relationships), economic (financial independence), physical (health), political/legal (rights), spiritual (values), professional (competence, autonomy).\n3. Development: self-awareness (SWOT), positive self-talk, SMART goals, continuous learning, assertiveness, decision-making, self-care, support network, learning from failure."
+    },
+    {
+      "id": "u8-s02",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the barriers to communication and ways to overcome them.",
+      "answer": "1. Physical – noise, distance, interruptions, poor lighting.\n2. Physiological – pain, fatigue, hearing or speech problems, sedation.\n3. Psychological – anxiety, anger, prejudice, poor listening.\n4. Language – different language, jargon.\n5. Cultural – norms about eye contact, touch, gender.\n6. Organisational – hierarchy, workload.\nOvercoming: quiet private setting; face the person; simple words; check understanding by teach-back; interpreters, pictures, writing; hearing aids; calm courteous manner; respect culture; invite feedback; structured handover (SBAR)."
+    },
+    {
+      "id": "u8-s03",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss the importance of women's empowerment in society and the role of the nurse in empowering others.",
+      "answer": "1. Importance: better health decisions for women and children; women's education linked with lower maternal and child deaths; protection from violence and discrimination; economic and political participation; benefits the whole society.\n2. Nurse's role: inform patients to make choices; teach self-care; involve patients in planning; train families as caregivers; educate women and girls on nutrition, menstrual hygiene, family planning and rights; mobilise self-help groups; mentor colleagues and students; advocacy and linking vulnerable people to schemes."
+    },
+    {
+      "id": "u8-s04",
+      "unit": 8,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe professional etiquette and personal grooming for nurses.",
+      "answer": "1. Professional etiquette: punctuality; respect for patients, relatives and team; confidentiality including social media; courteous language, no gossip; accept responsibility and admit mistakes; follow policies and code of conduct; limited mobile phone use on duty.\n2. Personal grooming: clean ironed uniform and name badge; hair tied neatly; short clean nails without polish; minimal jewellery; quiet clean footwear; personal hygiene; no strong perfume; good posture and pleasant expression.\n3. Grooming supports infection control, safety and patient trust."
+    },
+    {
+      "id": "u8-v01",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the phases of the nurse–patient relationship according to Peplau.",
+      "answer": "Orientation, identification, exploitation (working) and resolution (termination)."
+    },
+    {
+      "id": "u8-v02",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is resilience?",
+      "answer": "Resilience is the ability to bounce back from stress, adversity or trauma and continue to function well; it is built through support, flexible thinking and self-care."
+    },
+    {
+      "id": "u8-v03",
+      "unit": 8,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Differentiate hard skills and soft skills.",
+      "answer": "Hard skills are technical, measurable abilities such as giving an injection. Soft skills are interpersonal qualities such as communication, empathy and teamwork."
+    }
+  ]
+}

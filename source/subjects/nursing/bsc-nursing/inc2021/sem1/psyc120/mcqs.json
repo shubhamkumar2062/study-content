@@ -1,0 +1,1012 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "The word 'psychology' is derived from the Greek words psyche and logos, meaning:",
+      "options": [
+        "Mind (soul) and study",
+        "Body and science",
+        "Behaviour and nature",
+        "Brain and function"
+      ],
+      "correct": 0,
+      "explanation": "Psyche = soul or mind; logos = study or knowledge.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "The first psychology laboratory was set up in 1879 by:",
+      "options": [
+        "Sigmund Freud",
+        "Wilhelm Wundt",
+        "William James",
+        "Ivan Pavlov"
+      ],
+      "correct": 1,
+      "explanation": "Wundt opened it at Leipzig and is called the father of experimental psychology.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "Looking inward and reporting one's own thoughts and feelings is the method of:",
+      "options": [
+        "Observation",
+        "Experiment",
+        "Introspection",
+        "Case study"
+      ],
+      "correct": 2,
+      "explanation": "Introspection is self-observation; it is subjective.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "In an experiment, the factor that the researcher changes is the:",
+      "options": [
+        "Dependent variable",
+        "Control variable",
+        "Extraneous variable",
+        "Independent variable"
+      ],
+      "correct": 3,
+      "explanation": "The dependent variable is the effect that is measured.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "Which of these is a psychosomatic disorder?",
+      "options": [
+        "Fracture of femur",
+        "Cataract",
+        "Peptic ulcer",
+        "Dental caries"
+      ],
+      "correct": 2,
+      "explanation": "Stress plays a large part in peptic ulcer, asthma and essential hypertension.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "The part of the brain that controls hunger, thirst and body temperature is the:",
+      "options": [
+        "Hypothalamus",
+        "Cerebellum",
+        "Occipital lobe",
+        "Medulla"
+      ],
+      "correct": 0,
+      "explanation": "The hypothalamus regulates basic drives and controls the pituitary.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Judgement, planning and personality are mainly functions of the:",
+      "options": [
+        "Occipital lobe",
+        "Parietal lobe",
+        "Cerebellum",
+        "Frontal lobe"
+      ],
+      "correct": 3,
+      "explanation": "Frontal lobe damage often causes impulsive behaviour and personality change.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Reduced response to a constant stimulus, such as no longer noticing a ward smell, is called:",
+      "options": [
+        "Sensory deprivation",
+        "Sensory adaptation",
+        "Hallucination",
+        "Perceptual constancy"
+      ],
+      "correct": 1,
+      "explanation": "Receptors become less sensitive to unchanging stimulation.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "Studies comparing identical and fraternal twins are used mainly to study:",
+      "options": [
+        "The role of diet in growth",
+        "The role of heredity in behaviour",
+        "Brain surgery outcomes",
+        "Sensory thresholds"
+      ],
+      "correct": 1,
+      "explanation": "Identical twins share all genes, so greater similarity suggests genetic influence.",
+      "probability": "low"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "Unconscious forgetting of a painful experience is the defence mechanism of:",
+      "options": [
+        "Suppression",
+        "Projection",
+        "Sublimation",
+        "Repression"
+      ],
+      "correct": 3,
+      "explanation": "Repression is involuntary; suppression is conscious.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "A patient angry with the doctor shouts at the nurse. This is:",
+      "options": [
+        "Displacement",
+        "Rationalisation",
+        "Regression",
+        "Compensation"
+      ],
+      "correct": 0,
+      "explanation": "Feelings are shifted to a safer target.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "A toilet-trained child starts bed-wetting after admission to hospital. This is:",
+      "options": [
+        "Denial",
+        "Reaction formation",
+        "Regression",
+        "Identification"
+      ],
+      "correct": 2,
+      "explanation": "Regression is a return to behaviour of an earlier stage under stress.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "Which defence mechanism is considered healthy and socially useful?",
+      "options": [
+        "Projection",
+        "Denial",
+        "Displacement",
+        "Sublimation"
+      ],
+      "correct": 3,
+      "explanation": "Sublimation channels unacceptable drives into approved activities.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Choosing between two equally unpleasant alternatives is:",
+      "options": [
+        "Approach–approach conflict",
+        "Approach–avoidance conflict",
+        "Avoidance–avoidance conflict",
+        "Double approach conflict"
+      ],
+      "correct": 2,
+      "explanation": "Both choices are negative, so the person tends to delay.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Blaming others for one's own unacceptable feelings or failures is:",
+      "options": [
+        "Introjection",
+        "Projection",
+        "Undoing",
+        "Conversion"
+      ],
+      "correct": 1,
+      "explanation": "Projection attributes one's own feelings to others.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Mental hygiene mainly aims at:",
+      "options": [
+        "Preserving mental health and preventing mental illness",
+        "Treating only severe psychosis",
+        "Physical cleanliness of patients",
+        "Measuring intelligence"
+      ],
+      "correct": 0,
+      "explanation": "It is preservative, preventive and curative.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "The national tele-mental-health helpline number in India is:",
+      "options": [
+        "14416",
+        "108",
+        "1098",
+        "104"
+      ],
+      "correct": 0,
+      "explanation": "Tele-MANAS (started October 2022) answers on 14416.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "The District Mental Health Programme was added to the National Mental Health Programme in:",
+      "options": [
+        "1982",
+        "1996",
+        "2005",
+        "2017"
+      ],
+      "correct": 1,
+      "explanation": "NMHP began in 1982; DMHP was added in 1996.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "According to Erikson, the psychosocial crisis of adolescence is:",
+      "options": [
+        "Trust vs mistrust",
+        "Industry vs inferiority",
+        "Identity vs role confusion",
+        "Integrity vs despair"
+      ],
+      "correct": 2,
+      "explanation": "Adolescents search for a stable sense of self.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "Object permanence develops in Piaget's:",
+      "options": [
+        "Preoperational stage",
+        "Concrete operational stage",
+        "Formal operational stage",
+        "Sensorimotor stage"
+      ],
+      "correct": 3,
+      "explanation": "It develops in the first two years.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Development proceeding from head to tail is called:",
+      "options": [
+        "Proximodistal",
+        "General to specific",
+        "Cephalocaudal",
+        "Spiral"
+      ],
+      "correct": 2,
+      "explanation": "Head control comes before sitting and walking.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "The correct order of separation anxiety in a hospitalised toddler is:",
+      "options": [
+        "Protest, despair, detachment",
+        "Despair, protest, detachment",
+        "Detachment, protest, despair",
+        "Protest, detachment, despair"
+      ],
+      "correct": 0,
+      "explanation": "Keeping parents with the child reduces it.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "The first stage of dying described by Kübler-Ross is:",
+      "options": [
+        "Anger",
+        "Bargaining",
+        "Acceptance",
+        "Denial"
+      ],
+      "correct": 3,
+      "explanation": "Order: denial, anger, bargaining, depression, acceptance.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Erikson's stage for older adults is:",
+      "options": [
+        "Generativity vs stagnation",
+        "Integrity vs despair",
+        "Intimacy vs isolation",
+        "Autonomy vs shame"
+      ],
+      "correct": 1,
+      "explanation": "Older adults review life with satisfaction or regret.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "Abstract and hypothetical reasoning begins in the:",
+      "options": [
+        "Concrete operational stage",
+        "Formal operational stage",
+        "Preoperational stage",
+        "Sensorimotor stage"
+      ],
+      "correct": 1,
+      "explanation": "It begins at about 11 years.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Using a doll to let a child act out an injection is an example of:",
+      "options": [
+        "Punishment",
+        "Regression",
+        "Conditioning by fear",
+        "Therapeutic play"
+      ],
+      "correct": 3,
+      "explanation": "Therapeutic play helps children express fears and understand procedures.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "The bond between an infant and the main caregiver was described by John Bowlby as:",
+      "options": [
+        "Attachment",
+        "Imprinting only",
+        "Identification",
+        "Generativity"
+      ],
+      "correct": 0,
+      "explanation": "Secure attachment is the base for later confidence.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The word personality comes from the Latin word 'persona', meaning:",
+      "options": [
+        "Soul",
+        "Behaviour",
+        "Mask",
+        "Body"
+      ],
+      "correct": 2,
+      "explanation": "Actors wore a persona (mask) to show their role.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "Jung classified personality into:",
+      "options": [
+        "Pyknic, athletic and asthenic",
+        "Endomorph, mesomorph and ectomorph",
+        "Sanguine and choleric",
+        "Introvert, extrovert and ambivert"
+      ],
+      "correct": 3,
+      "explanation": "Most people are ambiverts.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "A competitive, impatient, hurried person is described as:",
+      "options": [
+        "Type B personality",
+        "Phlegmatic",
+        "Type A personality",
+        "Ectomorph"
+      ],
+      "correct": 2,
+      "explanation": "Type A behaviour has been linked with heart disease.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The Rorschach inkblot test is an example of:",
+      "options": [
+        "An intelligence test",
+        "A projective technique",
+        "An aptitude battery",
+        "A rating scale"
+      ],
+      "correct": 1,
+      "explanation": "Ambiguous stimuli reveal inner feelings.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "According to Freud, the part of personality that works on the pleasure principle is the:",
+      "options": [
+        "Id",
+        "Ego",
+        "Superego",
+        "Conscience"
+      ],
+      "correct": 0,
+      "explanation": "The ego works on the reality principle.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "Consistency of test scores on repeated testing is called:",
+      "options": [
+        "Reliability",
+        "Validity",
+        "Objectivity",
+        "Practicability"
+      ],
+      "correct": 0,
+      "explanation": "Validity is measuring what the test claims to measure.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "In the Big Five model, the letter 'N' stands for:",
+      "options": [
+        "Naturalism",
+        "Neuroticism",
+        "Norms",
+        "Narcissism"
+      ],
+      "correct": 1,
+      "explanation": "OCEAN: openness, conscientiousness, extraversion, agreeableness, neuroticism.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Sheldon's thin, sensitive, private body type is the:",
+      "options": [
+        "Endomorph",
+        "Mesomorph",
+        "Ectomorph",
+        "Pyknic"
+      ],
+      "correct": 2,
+      "explanation": "Ectomorphs were linked with a cerebrotonic temperament.",
+      "probability": "low"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Antisocial and borderline personality disorders belong to:",
+      "options": [
+        "Cluster A",
+        "Cluster C",
+        "Cluster D",
+        "Cluster B"
+      ],
+      "correct": 3,
+      "explanation": "Cluster B is dramatic, emotional and erratic.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "Attention that becomes automatic through interest and practice, like a nurse responding to an alarm, is:",
+      "options": [
+        "Involuntary attention",
+        "Divided attention",
+        "Habitual attention",
+        "Clouded attention"
+      ],
+      "correct": 2,
+      "explanation": "Voluntary attention becomes habitual with training.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "The usual span of attention of an adult is about:",
+      "options": [
+        "Six to seven items",
+        "Two items",
+        "Fifteen items",
+        "Twenty-five items"
+      ],
+      "correct": 0,
+      "explanation": "Span of apprehension is about six to seven separate items.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Perception without any external stimulus is called:",
+      "options": [
+        "Illusion",
+        "Delusion",
+        "Agnosia",
+        "Hallucination"
+      ],
+      "correct": 3,
+      "explanation": "An illusion is misinterpretation of a real stimulus.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Seeing an incomplete circle as complete is the Gestalt principle of:",
+      "options": [
+        "Proximity",
+        "Closure",
+        "Similarity",
+        "Figure–ground"
+      ],
+      "correct": 1,
+      "explanation": "We fill in gaps to see whole figures.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "The formula for IQ is:",
+      "options": [
+        "(Chronological age ÷ mental age) × 100",
+        "(Mental age ÷ chronological age) × 100",
+        "Mental age × chronological age",
+        "Mental age − chronological age"
+      ],
+      "correct": 1,
+      "explanation": "Example: MA 12, CA 10 gives IQ 120.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "The first practical intelligence test was developed by:",
+      "options": [
+        "Charles Spearman",
+        "Howard Gardner",
+        "B. F. Skinner",
+        "Alfred Binet"
+      ],
+      "correct": 3,
+      "explanation": "Binet and Simon published it in 1905.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "The two-factor theory of intelligence (g and s) was proposed by:",
+      "options": [
+        "Charles Spearman",
+        "L. L. Thurstone",
+        "Robert Sternberg",
+        "David Wechsler"
+      ],
+      "correct": 0,
+      "explanation": "g is general ability; s are specific abilities.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "An IQ of 50–69 with adaptive problems indicates:",
+      "options": [
+        "Moderate intellectual disability",
+        "Borderline intelligence",
+        "Mild intellectual disability",
+        "Average intelligence"
+      ],
+      "correct": 2,
+      "explanation": "Moderate is about 35–49; severe 20–34.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "A person's natural potential to learn a specific skill is called:",
+      "options": [
+        "Achievement",
+        "Attitude",
+        "Intelligence quotient",
+        "Aptitude"
+      ],
+      "correct": 3,
+      "explanation": "Achievement is what has already been learned.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "Classical conditioning was described by:",
+      "options": [
+        "B. F. Skinner",
+        "Wolfgang Köhler",
+        "Ivan Pavlov",
+        "Albert Bandura"
+      ],
+      "correct": 2,
+      "explanation": "Pavlov paired a bell with food in dogs.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "The law of effect was given by:",
+      "options": [
+        "Ivan Pavlov",
+        "Edward Thorndike",
+        "Hermann Ebbinghaus",
+        "Kurt Lewin"
+      ],
+      "correct": 1,
+      "explanation": "Satisfying outcomes strengthen responses.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Removing an unpleasant stimulus to increase a behaviour is:",
+      "options": [
+        "Negative reinforcement",
+        "Punishment",
+        "Extinction",
+        "Positive reinforcement"
+      ],
+      "correct": 0,
+      "explanation": "Negative reinforcement increases behaviour; punishment decreases it.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "Köhler's chimpanzee joining two sticks to reach a banana showed:",
+      "options": [
+        "Insight learning",
+        "Classical conditioning",
+        "Trial and error",
+        "Observational learning"
+      ],
+      "correct": 0,
+      "explanation": "Insight is sudden understanding of relationships.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "Learning by watching and imitating models was studied by:",
+      "options": [
+        "Jean Piaget",
+        "Albert Bandura",
+        "Carl Rogers",
+        "Abraham Maslow"
+      ],
+      "correct": 1,
+      "explanation": "His Bobo doll studies showed imitation of aggression.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "The capacity of short-term memory is about:",
+      "options": [
+        "2 ± 1 items",
+        "20 ± 5 items",
+        "7 ± 2 items",
+        "Unlimited"
+      ],
+      "correct": 2,
+      "explanation": "Chunking increases how much can be held.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "The curve of forgetting was first described by:",
+      "options": [
+        "William James",
+        "Sigmund Freud",
+        "Alfred Binet",
+        "Hermann Ebbinghaus"
+      ],
+      "correct": 3,
+      "explanation": "Forgetting is fastest soon after learning.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "When old learning interferes with recall of new learning, it is:",
+      "options": [
+        "Retroactive interference",
+        "Decay",
+        "Proactive interference",
+        "Repression"
+      ],
+      "correct": 2,
+      "explanation": "Retroactive is new learning disturbing old.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "Reasoning from a general rule to a specific case is:",
+      "options": [
+        "Deductive reasoning",
+        "Inductive reasoning",
+        "Divergent thinking",
+        "Autistic thinking"
+      ],
+      "correct": 0,
+      "explanation": "Inductive reasoning goes from specific cases to a rule.",
+      "probability": "low"
+    },
+    {
+      "id": "u7-m01",
+      "unit": 7,
+      "question": "The lowest level of Maslow's hierarchy of needs is:",
+      "options": [
+        "Safety needs",
+        "Esteem needs",
+        "Self-actualisation",
+        "Physiological needs"
+      ],
+      "correct": 3,
+      "explanation": "Food, water, oxygen and sleep come first.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m02",
+      "unit": 7,
+      "question": "The correct order of the motivation cycle is:",
+      "options": [
+        "Drive → need → goal → behaviour → relief",
+        "Need → drive → goal-directed behaviour → goal → need reduction",
+        "Goal → need → drive → behaviour → relief",
+        "Behaviour → goal → drive → need → relief"
+      ],
+      "correct": 1,
+      "explanation": "A need creates a drive that pushes behaviour towards a goal.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m03",
+      "unit": 7,
+      "question": "Achievement, affiliation and power are examples of:",
+      "options": [
+        "Biological motives",
+        "Social (acquired) motives",
+        "Reflexes",
+        "Instincts"
+      ],
+      "correct": 1,
+      "explanation": "Social motives are learned through culture and upbringing.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m04",
+      "unit": 7,
+      "question": "The general adaptation syndrome was described by:",
+      "options": [
+        "Richard Lazarus",
+        "Walter Cannon",
+        "Leon Festinger",
+        "Hans Selye"
+      ],
+      "correct": 3,
+      "explanation": "Stages: alarm, resistance, exhaustion.",
+      "probability": "high"
+    },
+    {
+      "id": "u7-m05",
+      "unit": 7,
+      "question": "Positive, motivating stress is called:",
+      "options": [
+        "Eustress",
+        "Distress",
+        "Burnout",
+        "Exhaustion"
+      ],
+      "correct": 0,
+      "explanation": "Distress is harmful stress.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m06",
+      "unit": 7,
+      "question": "During fear, the pupils usually:",
+      "options": [
+        "Constrict",
+        "Stay unchanged",
+        "Dilate",
+        "Close"
+      ],
+      "correct": 2,
+      "explanation": "Sympathetic activation dilates pupils.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m07",
+      "unit": 7,
+      "question": "The theory that arousal plus a cognitive label produces emotion is the:",
+      "options": [
+        "James–Lange theory",
+        "Cannon–Bard theory",
+        "Drive-reduction theory",
+        "Schachter–Singer theory"
+      ],
+      "correct": 3,
+      "explanation": "It is also called the two-factor theory of emotion.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m08",
+      "unit": 7,
+      "question": "A five-point scale from 'strongly agree' to 'strongly disagree' is the:",
+      "options": [
+        "Thurstone scale",
+        "Semantic differential",
+        "Likert scale",
+        "Bogardus scale"
+      ],
+      "correct": 2,
+      "explanation": "It is widely used to measure attitudes.",
+      "probability": "medium"
+    },
+    {
+      "id": "u7-m09",
+      "unit": 7,
+      "question": "Discomfort when one's beliefs and actions conflict is called:",
+      "options": [
+        "Displacement",
+        "Cognitive dissonance",
+        "Frustration tolerance",
+        "Sensory adaptation"
+      ],
+      "correct": 1,
+      "explanation": "Leon Festinger described it; it can drive attitude change.",
+      "probability": "low"
+    },
+    {
+      "id": "u8-m01",
+      "unit": 8,
+      "question": "Communication through facial expression, posture and touch is:",
+      "options": [
+        "Non-verbal communication",
+        "Written communication",
+        "Formal communication",
+        "Upward communication"
+      ],
+      "correct": 0,
+      "explanation": "When words and body language differ, people believe body language.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m02",
+      "unit": 8,
+      "question": "The first phase of the nurse–patient relationship according to Peplau is:",
+      "options": [
+        "Orientation",
+        "Exploitation",
+        "Resolution",
+        "Identification"
+      ],
+      "correct": 0,
+      "explanation": "Trust is built and problems identified in orientation.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m03",
+      "unit": 8,
+      "question": "In the SBAR handover tool, 'B' stands for:",
+      "options": [
+        "Behaviour",
+        "Background",
+        "Barrier",
+        "Bedside"
+      ],
+      "correct": 1,
+      "explanation": "Situation, background, assessment, recommendation.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m04",
+      "unit": 8,
+      "question": "The ability to bounce back from adversity is called:",
+      "options": [
+        "Rationalisation",
+        "Regression",
+        "Resilience",
+        "Repression"
+      ],
+      "correct": 2,
+      "explanation": "It is built through support, flexible thinking and self-care.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m05",
+      "unit": 8,
+      "question": "Using medical jargon with a patient is mainly a:",
+      "options": [
+        "Physical barrier",
+        "Physiological barrier",
+        "Organisational barrier",
+        "Language (semantic) barrier"
+      ],
+      "correct": 3,
+      "explanation": "Use simple words and check understanding.",
+      "probability": "high"
+    },
+    {
+      "id": "u8-m06",
+      "unit": 8,
+      "question": "In SMART goals, the letter 'M' stands for:",
+      "options": [
+        "Motivating",
+        "Mandatory",
+        "Measurable",
+        "Maximum"
+      ],
+      "correct": 2,
+      "explanation": "Specific, measurable, achievable, realistic, time-bound.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m07",
+      "unit": 8,
+      "question": "Emotional exhaustion and detachment from patients due to prolonged work stress is called:",
+      "options": [
+        "Burnout",
+        "Eustress",
+        "Resilience",
+        "Empowerment"
+      ],
+      "correct": 0,
+      "explanation": "Work–life balance helps prevent burnout.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m08",
+      "unit": 8,
+      "question": "Short, clean nails without polish are part of a nurse's grooming mainly for:",
+      "options": [
+        "Fashion",
+        "Seniority",
+        "Identification",
+        "Infection control"
+      ],
+      "correct": 3,
+      "explanation": "Long nails and polish harbour microorganisms.",
+      "probability": "medium"
+    },
+    {
+      "id": "u8-m09",
+      "unit": 8,
+      "question": "Soft skills listed in the INC syllabus include visual, aural and:",
+      "options": [
+        "Surgical skills",
+        "Communication skills",
+        "Laboratory skills",
+        "Pharmacological skills"
+      ],
+      "correct": 1,
+      "explanation": "Visual, aural and communication skills are the three types named.",
+      "probability": "low"
+    }
+  ]
+}
