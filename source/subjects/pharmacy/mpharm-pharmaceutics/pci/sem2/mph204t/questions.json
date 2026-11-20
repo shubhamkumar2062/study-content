@@ -1,0 +1,509 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus pharmacy papers and the weight of each topic in the M.Pharm syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define a cosmetic as per the Drugs and Cosmetics Act, 1940. Describe the regulatory provisions under the Cosmetics Rules, 2020 for obtaining a licence to manufacture cosmetics, including the conditions of licence.",
+      "answer": "1. Definition – section 3(aaa): any article intended to be rubbed, poured, sprinkled or sprayed on, introduced into or otherwise applied to the human body or any part of it for cleansing, beautifying, promoting attractiveness or altering the appearance; includes any article meant as a component of a cosmetic. Intended use and claims decide status; a disease or body-function claim makes it a drug.\n2. Authority – State Licensing Authority (state drugs controller) licenses manufacture; CLA (CDSCO) grants prior permission for a new cosmetic (COS-12 → COS-3).\n3. Application (Rule 23) – online in Form COS-5 (licence) or COS-6 (loan licence) with fee (Third Schedule), documents (Second Schedule Part II) and a self-declaration in Form COS-7 of compliance with GMP, premises, plant and equipment (Seventh Schedule).\n4. Grant – licence in Form COS-8 (loan licence COS-9) within 45 days; licence uploaded on CDSCO website before manufacture; SLA inspects within 30 days to verify COS-7; if not inspected in time the licence is deemed valid; false declaration → show cause, cancellation or stop-work.\n5. Separate licence for each premises (Rule 24); rejection with reasons, re-application within six months, appeal to State Government within 90 days.\n6. Conditions (Rule 26): manufacture under a whole-time competent technical person (D.Pharm / registered pharmacist / Intermediate with chemistry / degree in cosmetic technology); premises as per Seventh Schedule; testing of each batch of raw material and finished product in own lab or an approved NABL-accredited lab; test records 3 years from manufacture; batch records (Eighth Schedule) kept 3 years after expiry; inspectors allowed to inspect and sample (COS-10); inspection book COS-11; changes in labelling/composition/testing reported within 30 days with undertaking of BIS compliance; change in constitution – licence valid at most 6 months; change of name/address approved within 60 days. Soap makers exempt from testing/document clauses.\n7. Validity (Rule 30) – perpetual, subject to retention fee every five years (late fee 2% per month up to 180 days, then deemed cancelled).\n8. Inspection at least once in three years or risk-based (Rule 31)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the regulatory requirements for import of cosmetics into India under the Cosmetics Rules, 2020. Add a note on cosmetics whose import is prohibited.",
+      "answer": "1. Registration compulsory (Rule 12): no cosmetic imported unless registered by the Central Licensing Authority (CDSCO).\n2. Applicant: the manufacturer, its authorised Indian agent, the importer, or its Indian subsidiary; online Form COS-1 with documents (Second Schedule Part I) and fee per category per site; authorisation authenticated before a first-class magistrate or competent foreign authority.\n3. Bulk ready-to-fill formulations also need an Indian manufacturing licence for filling and brand owner details.\n4. Testing of identified products at an approved laboratory; inspection of foreign site if needed (at applicant's cost).\n5. Grant (Rule 13): import registration certificate Form COS-2 or rejection with reasons within 6 months; appeal to Central Government within 45 days; one certificate may cover several cosmetics of one manufacturer at one site. New cosmetic needs prior permission COS-3.\n6. Validity (Rule 14): perpetual subject to retention fee every 5 years; late fee 2%/month up to 180 days.\n7. Changes (Rule 15): change in constitution → fresh registration within 180 days; labelling/composition/testing changes informed within 15 days; name/address changes approved within 60 days. Suspension/cancellation (Rule 16) with appeal in 30 days.\n8. Already-registered product imported by another importer: Form COS-4 → import registration number COS-4A (3 years).\n9. Labelling: RC number (\"RC/RC No./Reg. Cert. No.\") and importer's name and address on unit pack; India-specific stickers in bonded warehouse.\n10. Customs: declaration of compliance (Rule 19); port officer may sample and detain; defects that cannot be remedied → re-export or destruction within 2 months (Rule 20). Personal-use baggage allowed (Rule 21); only specified ports of entry (Rule 22).\n11. Prohibited (Rule 18; section 10): products banned in country of origin; use-before date not more than 6 months beyond import; containing hexachlorophene; tested on animals after 12 November 2014; not of standard quality, misbranded, adulterated or spurious; Central Government may ban any cosmetic in public interest (section 10A)."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What are misbranded, adulterated and spurious cosmetics? Discuss the prohibitions on manufacture and sale of cosmetics and the offences and penalties under the Drugs and Cosmetics Act, 1940.",
+      "answer": "1. Misbranded (section 17C): contains a non-prescribed colour; not labelled in the prescribed manner; label/container carries a false or misleading statement.\n2. Spurious (17D): made or imported under the name of another cosmetic; imitation or substitute that deceives; label names a fictitious or non-existent manufacturer; substituted wholly/partly; falsely claims to be a particular maker's product.\n3. Adulterated (17E): filthy, putrid or decomposed matter; insanitary preparation/storage; container of poisonous or deleterious material; non-prescribed colour; harmful or toxic substance.\n4. Prohibitions (section 18): no manufacture for sale, sale, stocking or distribution of cosmetics that are not of standard quality, misbranded, adulterated or spurious, or containing ingredients that make them unsafe; no manufacture without licence (18(c)). Section 26A – Central Government can prohibit harmful cosmetics.\n5. Rule 39 specific bans: IS 4707 Part 2 Annex A raw materials; non-permitted colours (Tenth Schedule; colours limited to As 2 ppm, Pb 20 ppm, heavy metals 100 ppm); hexachlorophene except soap ≤ 1% with warning; mercury only 70 ppm in eye products as preservative, ≤ 1 ppm unintentional; lead and arsenic compounds as colours; testing on animals.\n6. Penalties (section 27A): spurious or adulterated – imprisonment up to three years and fine; other contraventions – up to one year, or fine, or both. Import contraventions punished under section 13.\n7. Confiscation (section 31; Rules 53–54) of stock and, for misbranded/adulterated/unlicensed manufacture, implements, machinery, packages and vehicles; substandard goods destroyed under inspector's supervision.\n8. Administrative action: suspension/cancellation of licence or registration after show cause; stop-work orders."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "List the labelling requirements for cosmetics under Rule 34 of the Cosmetics Rules, 2020.",
+      "answer": "1. Inner and outer label: name of cosmetic; name and full address of manufacturer (actual maker or \"Made in…\"; small packs ≤ 30 g/60 mL may give name + principal place with PIN); use before/expiry (month and year).\n2. Batch number preceded by \"B\", \"Batch No.\", \"Lot\" etc. (not for ≤ 10 g or ≤ 25 mL; soaps show month and year of manufacture).\n3. Manufacturing licence number preceded by \"M\", \"M. L. No.\" or \"Mfg. Lic. No.\".\n4. Outer label: net contents by weight/volume (exempt for perfumes ≤ 60 mL and solids ≤ 30 g).\n5. Where a hazard exists: directions for safe use, warnings, names and quantities of hazardous ingredients.\n6. Ingredients list headed \"INGREDIENTS\": those > 1% in descending order, then ≤ 1% in any order (exempt ≤ 60 mL / 30 g).\n7. Imported: RC number and importer's name and address; stickering in bonded warehouse.\n8. Single label carries all; BIS labelling rules; export labels follow importing country plus core particulars."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a loan licence? Compare a licence and a loan licence for cosmetic manufacture.",
+      "answer": "1. Definition (Rule 3): a licence granted by the SLA to a person who intends to use the manufacturing site of another licensee to manufacture his cosmetic.\n2. Licence: application COS-5, licence COS-8, own premises, staff and testing facilities; independent.\n3. Loan licence: application COS-6, licence COS-9, uses host's premises, plant, staff and testing; deemed cancelled or suspended if the host's COS-8 is cancelled or suspended.\n4. Both: perpetual with retention fee every five years; same conditions of manufacture and testing; separate licence per premises.\n5. Users: brand owners, marketing companies, start-ups – low investment, fast entry; responsibility for product quality stays with the loan licensee."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write the special labelling provisions for hair dyes and fluoride toothpastes under the Cosmetics Rules, 2020.",
+      "answer": "1. Hair dyes with p-phenylenediamine or other dyes (Rule 37): caution in English and local languages on inner and outer labels – may irritate skin, do a preliminary test, not for dyeing eyelashes or eyebrows (may cause blindness).\n2. Pack insert: skin test – clean small area behind the ear or inner forearm, apply a little prepared dye, let dry, wash after 24 hours; no irritation → no hypersensitivity; repeat before every application.\n3. Fluoride toothpaste (Rule 38): fluoride not more than 1000 ppm; fluoride content in ppm on tube and carton; expiry date on tube and carton.\n4. Reason: PPD is a strong sensitiser; fluoride is beneficial but excess causes fluorosis in children."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "State the provisions of Rule 39 of the Cosmetics Rules, 2020 regarding standards and prohibited substances.",
+      "answer": "1. Must comply with BIS standards (Ninth Schedule); if none, with these rules and country-of-origin standards.\n2. Raw materials in Annex A of IS 4707 (Part 2) must not be added.\n3. Only colours permitted by IS 4707 and the Tenth Schedule; permitted organic colours ≤ 2 ppm arsenic (as As2O3), ≤ 20 ppm lead, ≤ 100 ppm other heavy metals.\n4. No hexachlorophene, except soaps ≤ 1% w/w with \"Contains hexachlorophene – not to be used on babies\".\n5. Mercury: ≤ 70 ppm (0.007%) as preservative in eye-area products; ≤ 1 ppm unintentional in others.\n6. Lead and arsenic compounds banned as colourants.\n7. No person shall use any animal for testing cosmetics."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the procedure and requirements for permission to import or manufacture a new cosmetic.",
+      "answer": "1. New cosmetic: contains a novel ingredient not used anywhere in the world or not recognised for cosmetic use in national/international literature.\n2. Apply to the Central Licensing Authority in Form COS-12 with fee and data on safety and effectiveness.\n3. If satisfied the product is safe and effective, CLA grants prior permission in Form COS-3 with conditions.\n4. COS-3 must accompany the import registration application (COS-1) or manufacturing licence application (COS-5/6); SLA cannot license without it.\n5. Safety evaluation tests per IS 4011:2018 (BIS methods of test for safety evaluation of cosmetics); animal testing not allowed, so validated alternatives and human patch tests are used."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the authorities responsible for import and for manufacture of cosmetics in India.",
+      "answer": "Import of all cosmetics and permission for new cosmetics: Central Licensing Authority (DCGI, CDSCO). Manufacture, sale and distribution: State Licensing Authority (state drugs controller)."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What are Forms COS-2, COS-8 and COS-9?",
+      "answer": "COS-2: import registration certificate; COS-8: licence to manufacture cosmetics; COS-9: loan licence to manufacture cosmetics."
+    },
+    {
+      "id": "u1-v03",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Give the qualifications of the competent technical person for cosmetic manufacture.",
+      "answer": "A whole-time employee holding a PCI-approved Diploma in Pharmacy, or registered under the Pharmacy Act, 1948, or passed Intermediate with chemistry (or equivalent), or holding a bachelor degree in cosmetic technology (Rule 26)."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of the skin with emphasis on the stratum corneum barrier. Explain how this structure relates to dry skin and acne.",
+      "answer": "1. Layers: epidermis (stratum basale, spinosum, granulosum, lucidum on palms/soles, corneum), dermis (fibroblasts, collagen, elastin, hyaluronan, vessels, glands, follicles), hypodermis (fat). Diagram.\n2. Turnover: basal keratinocytes → corneocytes in about four weeks; desquamation by proteases.\n3. Barrier 'bricks and mortar': corneocytes with cornified envelope; intercellular lamellae of ceramides, cholesterol, free fatty acids from lamellar bodies; corneodesmosomes.\n4. NMF from filaggrin: amino acids, PCA, urocanic acid, lactate, urea – keeps 10–20% water.\n5. Acid mantle pH 4.5–5.5 – barrier enzymes, controlled desquamation, microbiome; TEWL measures barrier.\n6. Dry skin: low humidity, harsh surfactants, hot water, ageing, filaggrin defects → loss of lipids and NMF → enzymes inactive → corneocytes stick → scaling, roughness, cracks, itch; cycle of water loss.\n7. Acne: pilosebaceous unit; androgens ↑ sebum; follicular hyperkeratinisation → microcomedone → open/closed comedones; C. acnes lipases → FFA, inflammation → papules, pustules, nodules, scars and PIH; aggravated by comedogenic cosmetics and occlusion.\n8. Cosmetic link: humectant + occlusive + barrier lipids for dry skin; oil control, salicylic acid, niacinamide, non-comedogenic vehicles for acne."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the structure of hair and the hair growth cycle. Discuss common hair and scalp problems.",
+      "answer": "1. Follicle: bulb with matrix cells and dermal papilla, melanocytes, sebaceous gland, arrector pili.\n2. Shaft: cuticle (6–10 overlapping scales, lipid layer; shine and combability), cortex (keratin macrofibrils, melanin; strength), medulla (core).\n3. Chemistry: cystine-rich keratin; disulphide (perms, depilatories, bleach), hydrogen (water setting), salt bonds (pH; IEP about 3.7); negative charge → cationic conditioners bind.\n4. Cycle: anagen (2–7 years, 85–90% of hairs), catagen (2–3 weeks), telogen (about 3 months, 10–15%), exogen (shedding); growth ~1 cm/month; ~100 hairs/day normal loss.\n5. Problems: androgenetic alopecia (DHT via 5α-reductase miniaturises follicles, shortens anagen); telogen effluvium (shift to telogen after fever, childbirth, stress); dandruff/seborrhoeic dermatitis (Malassezia → irritant fatty acids → flaking); greying (melanocyte loss, oxidative stress); weathering, split ends, frizz from cuticle damage; breakage from chemical treatments.\n6. Cosmetic approaches: conditioners, anti-dandruff shampoos, mild cleansing, protection from heat and chemicals."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain melanogenesis and the types of hyperpigmentation. Add a note on skin ageing and wrinkle formation.",
+      "answer": "1. Melanocytes in basal layer; melanosomes transferred to ~30–40 keratinocytes (epidermal melanin unit).\n2. Pathway: tyrosine → DOPA → dopaquinone by tyrosinase; with cysteine → pheomelanin (red-yellow); without → DHI/DHICA → eumelanin (brown-black).\n3. Regulation: UV → DNA damage → α-MSH → MC1R → tyrosinase ↑; inflammation, hormones and visible light also stimulate.\n4. Disorders: melasma, post-inflammatory hyperpigmentation, solar lentigines, freckles, tan, uneven tone; darker skin types (III–V) prone to PIH and melasma.\n5. Cosmeceutical targets: tyrosinase inhibitors, transfer blockers, exfoliation, antioxidants, sunscreen.\n6. Ageing: intrinsic (genetic, hormonal; fine wrinkles, thin dry skin) vs extrinsic/photoageing (UV → ROS → MMPs degrade collagen, less synthesis, solar elastosis; coarse wrinkles, spots); glycation stiffens collagen; hyaluronan falls; repeated muscle folding forms expression lines.\n7. Approaches: sunscreen, retinoids, antioxidants, peptides, AHAs, moisturisers."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the causes of body odour and the strategies to control it.",
+      "answer": "1. Eccrine sweat: watery, mainly wetness; foot odour from bacterial keratin breakdown.\n2. Apocrine sweat (armpits, groin; from puberty): lipids, proteins and odour precursors, odourless when fresh.\n3. Skin bacteria (Corynebacterium, Staphylococcus) convert precursors into volatile fatty acids (e.g. 3-methyl-2-hexenoic acid), thioalcohols and steroid derivatives → odour.\n4. Needs sweat + bacteria + time; occlusion and hair increase it.\n5. Control: antiperspirants (aluminium salts reduce sweat), deodorants (antimicrobials, esterase inhibitors like triethyl citrate, low pH), odour absorbers (zinc ricinoleate), fragrance masking, hygiene."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss common problems of the oral cavity relevant to cosmetic oral care products.",
+      "answer": "1. Plaque: biofilm on acquired pellicle.\n2. Caries: S. mutans and lactobacilli ferment sugars; plaque pH below ~5.5 dissolves enamel; saliva and fluoride remineralise.\n3. Calculus: mineralised plaque.\n4. Gingivitis (bleeding gums): plaque inflammation at gum line, reversible; periodontitis destroys ligament and bone.\n5. Halitosis: anaerobes on tongue produce volatile sulphur compounds (H2S, methyl mercaptan).\n6. Dentine hypersensitivity: exposed dentine with open tubules; stimuli move tubular fluid (hydrodynamic theory) → sharp pain.\n7. Stains, erosion, dry mouth, ulcers."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is prickly heat? Describe its types and the care measures.",
+      "answer": "1. Miliaria: blockage of eccrine sweat ducts in hot, humid weather; sweat leaks into skin.\n2. Crystallina – block in or under stratum corneum; clear tiny vesicles.\n3. Rubra (prickly heat) – deeper in epidermis; itchy, prickling red papules on trunk, neck, folds.\n4. Profunda – dermo-epidermal junction; flesh-coloured papules after repeated rubra.\n5. Contributing: occlusive clothes and heavy creams, swollen stratum corneum, Staphylococcus slime.\n6. Care: keep cool and dry, loose clothing, absorbent cooling powders (talc/starch, zinc oxide, calamine, menthol), avoid occlusive products."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the cleansing and care needs of the face, eyelids, lips and under-arm.",
+      "answer": "1. Face: many sebaceous glands, sun-exposed; mild pH-balanced cleanser removing sebum, pollution and make-up; moisturiser, sunscreen, oil control or anti-ageing as needed.\n2. Eyelids: thinnest skin, near eye; non-stinging, ophthalmologist-tested removers (oil or biphasic for waterproof make-up); light eye creams.\n3. Lips: no sebaceous glands, thin stratum corneum; occlusive balms with UV protection.\n4. Under-arm: apocrine glands, occlusion, friction, shaving; mild wash, deodorant/antiperspirant without irritation.\n5. General principles: match surfactant strength to sebum level, maintain acid mantle, protect from sun."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is natural moisturising factor (NMF)? Give its composition and importance.",
+      "answer": "1. Water-soluble hygroscopic molecules inside corneocytes.\n2. Formed mainly from breakdown of filaggrin in the upper stratum corneum.\n3. Composition: free amino acids (largest part), pyrrolidone carboxylic acid (PCA), urocanic acid, lactate, urea, sugars and salts.\n4. Function: binds water, keeps stratum corneum hydrated and flexible, allows desquamation enzymes to work; urocanic acid contributes to acidity.\n5. Reduced by harsh washing, ageing, filaggrin mutations → dry skin; replaced cosmetically by sodium PCA, urea, lactate, glycerin."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the four key factors in the pathogenesis of acne.",
+      "answer": "Increased sebum production (androgens), follicular hyperkeratinisation, colonisation by Cutibacterium acnes, and inflammation."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Name the phases of the hair growth cycle with approximate durations.",
+      "answer": "Anagen (growth, 2–7 years), catagen (regression, 2–3 weeks), telogen (rest, about 3 months), exogen (shedding)."
+    },
+    {
+      "id": "u2-v03",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the acid mantle of skin?",
+      "answer": "The slightly acidic surface film (pH about 4.5–5.5) formed from sebum, sweat, free fatty acids and lactic acid; it supports barrier enzymes and friendly skin microbes."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify surfactants used in cosmetics with examples and applications. Explain the HLB concept and its use in formulating emulsions.",
+      "answer": "1. Structure: hydrophilic head + lipophilic tail; CMC, Krafft point.\n2. Anionic: soaps, SLS, SLES, ammonium lauryl sulphate, AOS, SCI, sarcosinates, glutamates – cleansing and foaming (shampoo, body wash, toothpaste, syndets); may irritate.\n3. Cationic: cetrimonium, behentrimonium chloride, esterquats, benzalkonium, CPC – conditioning, antistatic, antimicrobial.\n4. Amphoteric: cocamidopropyl betaine, amphoacetates, sultaines – mild, foam/viscosity boosters, baby shampoos.\n5. Non-ionic: fatty alcohol ethoxylates, polysorbates, sorbitan esters, glyceryl stearate, APGs, cocamide MEA – emulsifiers, solubilisers, mild cleansers; may bind preservatives.\n6. HLB (Griffin) 0–20: E/5 for ethoxylates; 20(1 − S/A) for esters.\n7. Ranges: 3–6 w/o emulsifier; 7–9 wetting; 8–18 o/w; 13–15 detergent; 15–18 solubiliser.\n8. Required HLB of the oil phase (e.g. sum of fractions × required HLB of each oil); blend two emulsifiers: HLB(mix) = f·HLB(A) + (1−f)·HLB(B); e.g. Span 80 (4.3) + Tween 80 (15) to reach required HLB.\n9. Limitations: HLB ignores temperature (PIT), chemical type and oil polarity; packing parameter predicts micelle shape.\n10. Mildness: zein test, mixed micelles reduce irritation."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify antimicrobial preservatives used in cosmetics with their merits and demerits. Discuss factors affecting preservative efficacy and the challenge test.",
+      "answer": "1. Need: water, nutrients, repeated use; protect consumer and product; GMP first.\n2. Ideal: broad spectrum, low concentration, pH-stable, water-partitioning, compatible, non-irritant, regulated, cheap.\n3. Parabens: broad, pH 3–8, cheap, well studied; bound by non-ionics, public concern, some banned (EU).\n4. Phenoxyethanol: stable, compatible; weak alone → boosters.\n5. Organic acids (benzoic, sorbic, dehydroacetic): mild, natural-accepted; active only undissociated at low pH.\n6. Formaldehyde releasers: effective vs bacteria, cheap; sensitisation, labelling.\n7. Isothiazolinones: active at ppm; high allergy, restricted to rinse-off (EU).\n8. Quats, benzyl alcohol, multifunctional glycols/esters – roles and limits.\n9. Factors: pH vs pKa; oil:water partition; micellar binding by non-ionics; interactions with proteins, powders, anionics; packaging sorption and design; water activity; temperature/time; microbial load and GMP; product structure; synergy with EDTA and glycols (hurdle approach).\n10. Challenge test (ISO 11930): inoculate separately P. aeruginosa, S. aureus, E. coli, C. albicans, A. brasiliensis; count at intervals up to 28 days; compare log reductions with criteria; fail → reformulate or improve packaging."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Give the building blocks (formula with functions) and method of preparation of a vanishing cream and a cold cream. Compare the two.",
+      "answer": "1. Vanishing cream (o/w): stearic acid 15–25% (oil phase, film), alkali (KOH/NaOH/TEA) neutralises about 15–25% to form soap emulsifier in situ, glycerin/sorbitol humectant 5–10%, cetyl alcohol, preservative, perfume, water to 100.\n2. Method: melt stearic acid ~75 °C; dissolve alkali + humectant in water at same temperature; add water phase to oil with stirring; cool with slow stirring; perfume below 40 °C; age for pearlescence.\n3. Properties: spreads and 'vanishes', matt non-greasy film, pearly lustre from stearic acid crystals; day cream/foundation base.\n4. Cold cream (w/o): white beeswax 10–20%, mineral oil/almond oil 40–55%, borax 0.5–1% (reacts with cerotic acid to form sodium cerotate emulsifier), water/rose water 20–35%, preservative, antioxidant, perfume.\n5. Method: melt wax and oil ~70 °C; dissolve borax in hot water; add water slowly to oil phase with stirring; cool; perfume.\n6. Properties: cooling sensation from evaporating water; cleansing, massage, night cream; may invert to o/w with more water.\n7. Comparison: type o/w vs w/o; greasy feel low vs high; use day vs cleansing/night; emulsifier stearate soap vs sodium cerotate; washability easy vs harder."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write the building blocks of a shampoo with functions of each.",
+      "answer": "1. Primary surfactant: SLES, ALS, AOS, SCI – cleansing, foam (8–15% active).\n2. Secondary: cocamidopropyl betaine, cocamide MEA, APGs – mildness, foam, viscosity.\n3. Conditioning: polyquaternium-10, guar hydroxypropyltrimonium chloride, dimethicone, panthenol – coacervate deposition.\n4. Thickener: NaCl (salt curve), PEG-150 distearate, acrylates.\n5. Pearliser: glycol distearate.\n6. Actives: zinc pyrithione, piroctone olamine (anti-dandruff), suspended by polymers.\n7. pH adjuster (citric acid, pH 5–6.5), chelator (EDTA), preservative, perfume, colour, water."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the composition of a toothpaste with the function of each ingredient.",
+      "answer": "1. Abrasive 20–50%: calcium carbonate, dicalcium phosphate, hydrated silica – cleaning, stain removal; controlled abrasivity.\n2. Humectant 20–40%: sorbitol, glycerin – prevents drying.\n3. Binder 0.5–2%: sodium CMC, xanthan, carrageenan, thickening silica.\n4. Foaming agent 1–2%: SLS.\n5. Active: NaF or sodium monofluorophosphate (≤ 1000 ppm fluoride in India); potassium nitrate; zinc citrate.\n6. Sweetener (saccharin), flavour (peppermint, menthol), preservative, colour, water.\n7. Compatibility: calcium carbonate binds NaF → use MFP; silica compatible with NaF."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Compare soaps and syndet bars.",
+      "answer": "1. Soap: sodium salts of fatty acids by saponification (tallow/palm + coconut ~80:20); syndet: mainly sodium cocoyl isethionate with stearic acid, fillers, emollients; combars mix both.\n2. pH: soap 9–10; syndet 5.5–7.\n3. Hard water: soap forms scum; syndet does not.\n4. Barrier: soap removes lipids and swells stratum corneum, raises TEWL; syndet milder.\n5. Lather: soap good; syndet creamy.\n6. Quality: soap graded by TFM (BIS Grade 1 ≥ 76%, 2 ≥ 70%, 3 ≥ 60%).\n7. Cost: soap low; syndet higher; syndet preferred for dry, sensitive, acne-prone, atopic skin and babies."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify perfumes. Name the fragrance allergens requiring labelling under EU regulation.",
+      "answer": "1. By origin: natural (essential oils, absolutes, resinoids), animal (now synthetic replacements), synthetic aroma chemicals.\n2. By family: floral, fresh (citrus, green, aquatic), oriental/amber, woody, chypre, fougère, gourmand.\n3. By concentration: parfum ~20–30%, EDP ~15–20%, EDT ~5–15%, cologne ~2–5%, mist ~1–3%.\n4. By notes: top, heart, base (fixatives).\n5. EU Regulation 1223/2009 Annex III: 26 allergens labelled above 0.001% leave-on / 0.01% rinse-off – e.g. limonene, linalool, citral, citronellol, geraniol, eugenol, isoeugenol, coumarin, cinnamal, benzyl alcohol, benzyl benzoate, benzyl salicylate, hexyl cinnamal, farnesol, oakmoss and treemoss extracts.\n6. HICC, atranol, chloroatranol, lilial now banned; Regulation 2023/1545 extends labelling to about 80 allergens."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss parabens, formaldehyde liberators and 1,4-dioxane as controversial ingredients.",
+      "answer": "1. Parabens: weak oestrogenic activity in vitro, rising with chain length; 2004 tumour-tissue study showed presence, not causation. EU: methyl/ethyl ≤ 0.4% single, 0.8% mixtures; propyl + butyl ≤ 0.14% total and not in leave-on nappy-area products for under-3s; isopropyl, isobutyl, phenyl, benzyl, pentyl parabens banned. Short-chain parabens are low sensitisers; replacements may be worse.\n2. Formaldehyde liberators: DMDM hydantoin, imidazolidinyl/diazolidinyl urea, quaternium-15, bronopol; formaldehyde is a sensitiser and carcinogen (EU 1B); EU label \"releases formaldehyde\" if released total > 0.001% (Reg. 2022/1181); bronopol can form nitrosamines; heated keratin treatments release gas.\n3. 1,4-Dioxane: impurity from ethoxylation (SLES, PEGs, polysorbates); possible carcinogen; prohibited as an ingredient in EU; controlled by vacuum stripping, specifications, GC–MS testing, non-ethoxylated alternatives.\n4. Approach: hazard vs risk, margin of safety."
+    },
+    {
+      "id": "u3-s06",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Classify emollients and rheology modifiers used in cosmetics with examples.",
+      "answer": "1. Emollients: hydrocarbons (mineral oil, petrolatum, squalane); triglycerides (almond, coconut, shea butter, caprylic/capric triglyceride); synthetic esters (IPM, IPP, C12–15 alkyl benzoate); fatty alcohols/acids (cetyl, stearyl, stearic acid); silicones (dimethicone); lanolin; waxes; skin-identical lipids (ceramides).\n2. By feel: fast-spreading → slow and rich; emollient cascade.\n3. Rheology modifiers: natural gums (xanthan, guar, carrageenan); cellulose derivatives (Na CMC, HEC, HPMC); synthetic (carbomers – neutralise, acrylates crosspolymers); associative thickeners (PEG-150 distearate); electrolytes (NaCl in shampoos); clays and silica (bentonite, MAS); lipid structurants (fatty alcohols, waxes).\n4. Desired flow: shear-thinning with yield value for suspension and easy spreading; thixotropy for gels."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is the challenge test? Name the test organisms.",
+      "answer": "A preservative efficacy test in which the product is inoculated with Pseudomonas aeruginosa, Staphylococcus aureus, Escherichia coli, Candida albicans and Aspergillus brasiliensis and counts are followed for 28 days against log-reduction criteria (ISO 11930)."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why does a vanishing cream show a pearly lustre?",
+      "answer": "Only part of the stearic acid is neutralised to soap; the remaining free stearic acid crystallises as fine plate-like crystals that reflect light, giving a pearly sheen after ageing."
+    },
+    {
+      "id": "u3-v03",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the origin of 1,4-dioxane in cosmetics?",
+      "answer": "It is not added deliberately; it is a by-product of ethoxylation and remains as a trace impurity in ethoxylated ingredients such as SLES, PEGs and polysorbates."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Classify sunscreens with examples. Explain SPF, UVA protection measurement and the regulatory aspects of sunscreens.",
+      "answer": "1. UV bands: UVB 290–320 nm (burn, DNA damage), UVA2 320–340, UVA1 340–400 nm (photoageing, pigmentation); visible light worsens melasma.\n2. Mechanism: organic absorbers vs inorganic ZnO/TiO2 (absorb and scatter; coated; micronised/nano).\n3. Chemical classes: PABA esters, cinnamates (octinoxate), salicylates (octisalate, homosalate), octocrylene, ensulizole (UVB); benzophenones (oxybenzone), avobenzone (UVA1, photounstable), anthranilates; newer broad-spectrum triazines and benzotriazoles (bemotrizinol, bisoctrizole), ecamsule.\n4. SPF = MED protected/MED unprotected at 2 mg/cm² (ISO 24444); SPF 15/30/50 ≈ 93/97/98% UVB blocked.\n5. UVA: UVA-PF by PPD in vivo or ISO 24443 in vitro; critical wavelength ≥ 370 nm = broad spectrum; Japanese PA+ to PA++++ (PPD 2, 4, 8, 16).\n6. Water resistance 40/80 min; in vitro Mansur method for screening.\n7. Regulation: India – cosmetic under Cosmetics Rules 2020, permitted ingredients, truthful claims, import registration; EU – cosmetic, Annex VI filters with limits, Recommendation 2006/647/EC (UVA-PF ≥ ⅓ SPF, λc 370 nm, bands low 6–10, medium 15–25, high 30–50, very high 50+, no 'sunblock'); USA – OTC drug monograph, broad-spectrum test, 2019 proposal: only ZnO and TiO2 GRASE; Australia – TGA therapeutic goods; Japan – PA.\n8. Design: combine filters, photostabilise avobenzone, film formers, solvent emollients, coated minerals, tinting for dark skin, test and label reapplication."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the design of cosmeceutical formulations for (a) pigmentation and (b) wrinkles.",
+      "answer": "1. Approach: biology → active at permitted level → vehicle → stability → safety → proof; avoid drug claims (hydroquinone, tretinoin are drugs).\n2. Pigmentation biology: tyrosinase pathway, melanosome transfer, UV/visible light, inflammation.\n3. Actives: tyrosinase inhibitors – kojic acid, arbutin/alpha-arbutin, licorice (glabridin), azelaic acid, 4-butylresorcinol, vitamin C; transfer blockers – niacinamide, soy; anti-inflammatory/antioxidant – tranexamic acid, vitamin E, ferulic acid; exfoliants – AHAs, retinol; prevention – broad-spectrum sunscreen + iron oxides.\n4. Stability: L-ascorbic acid at pH ~3–3.5, oxidises → derivatives (MAP, ascorbyl glucoside, ethyl ascorbic acid), airless/opaque packs; kojic acid colour change.\n5. Wrinkle biology: intrinsic and photoageing, MMPs, collagen loss, glycation, hyaluronan loss.\n6. Actives: retinol/retinaldehyde/retinyl esters; vitamin C, E, ferulic acid, green tea, CoQ10; peptides (palmitoyl pentapeptide-4, copper tripeptide-1, acetyl hexapeptide-8); AHAs/PHAs; hyaluronic acid; daily sunscreen.\n7. Vehicle and delivery: serums, light emulsions; encapsulation (liposomes, NLCs) for retinol; night use; gradual introduction to limit irritation.\n8. Evaluation: chromameter/Mexameter, ITA, imaging for tone; profilometry, cutometer, expert grading for wrinkles; irritation and phototoxicity safety."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain how cosmetic products are evaluated for safety and efficacy when animal testing is banned.",
+      "answer": "1. Legal basis: India Rule 39(7) bans animal testing; import ban for products tested after 12 Nov 2014; EU testing and marketing bans.\n2. Safety assessment: ingredient hazard data + exposure (amount, frequency, leave-on/rinse-off, absorption) → SED; MoS = NOAEL/SED ≥ 100; product safety report.\n3. Alternatives: skin irritation RhE (OECD 439), corrosion (431), eye – BCOP (437), RhCE (492), HET-CAM; sensitisation – DPRA (442C), KeratinoSens (442D), h-CLAT (442E) in defined approaches; phototoxicity 3T3 NRU (432); genotoxicity Ames, micronucleus; skin absorption Franz cells (428).\n4. Human tests on finished products: patch tests, HRIPT, use tests, ophthalmological and non-comedogenicity tests; IS 4011:2018 methods.\n5. Stability: real-time, accelerated (40 °C/75% RH), freeze–thaw, centrifuge, light; physical, chemical, packaging checks.\n6. Microbiology: limits and challenge test (ISO 11930).\n7. Efficacy: corneometer, TEWL, sebumeter, cutometer, chromameter/Mexameter, profilometry, SPF/UVA tests, combing force, plaque/gingival indices; controlled, blinded, statistical design.\n8. Claims truthful (Rule 36), ASCI code."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate deodorants and antiperspirants. Give their formulation components.",
+      "answer": "1. Deodorant: reduces odour, not sweat – antimicrobials (ethanol, farnesol, zinc salts), esterase inhibitor (triethyl citrate), odour absorbers (zinc ricinoleate, cyclodextrins), fragrance.\n2. Antiperspirant: reduces sweat by aluminium hydroxide gel plugs in ducts – aluminium chlorohydrate, aluminium zirconium tetrachlorohydrex gly, aluminium chloride.\n3. Formats: roll-on, stick (stearyl alcohol + volatile silicone), aerosol, cream.\n4. Issues: aluminium salts acidic, irritation, staining; avoid broken skin; fragrance allergy.\n5. Status: cosmetics in India and EU, OTC drugs (antiperspirants) in USA."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Discuss cosmeceutical approaches for dental cavities and sensitive teeth.",
+      "answer": "1. Caries: fluoride – NaF, sodium monofluorophosphate, stannous fluoride; forms fluorapatite and CaF2 reservoir, inhibits demineralisation, promotes remineralisation, reduces bacterial acid; ≤ 1000 ppm in India; xylitol; calcium phosphate technologies.\n2. Compatibility: CaCO3 with MFP; silica with NaF.\n3. Sensitivity (hydrodynamic theory): nerve desensitisation – potassium nitrate (2–4 weeks regular use).\n4. Tubule occlusion – stannous fluoride, strontium salts, arginine + calcium carbonate, calcium sodium phosphosilicate, hydroxyapatite.\n5. Low-abrasivity pastes, avoid acidic foods; evaluate by Schiff score, fluoride uptake."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "How would you formulate a cosmeceutical product for dry skin?",
+      "answer": "1. Goal: restore water and lipids, normalise desquamation.\n2. Humectants: glycerin, sodium PCA, urea, lactic acid, hyaluronic acid, panthenol.\n3. Occlusives: petrolatum, mineral oil, dimethicone, lanolin, butters.\n4. Emollients: esters, triglycerides, fatty alcohols.\n5. Barrier lipids: ceramides + cholesterol + FFA; niacinamide.\n6. Soothing: allantoin, bisabolol, oat.\n7. Vehicle: rich o/w or w/o cream, slightly acidic, fragrance-free for sensitive skin; pair with syndet cleanser.\n8. Evaluate: corneometer, TEWL, dryness grading."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe the formulation of an anti-dandruff shampoo.",
+      "answer": "1. Cause: Malassezia + sebum → irritant FFA → flaking.\n2. Actives: zinc pyrithione, piroctone olamine, climbazole, selenium sulphide; salicylic acid (scaling); ketoconazole is a drug.\n3. Base: SLES/betaine cleansing system.\n4. Deposition: insoluble ZPT particles of right size suspended by acrylate polymers; cationic guar/polyquaternium to deposit on scalp; leave 2–3 minutes.\n5. Others: conditioning, menthol for itch, pH, preservative, fragrance.\n6. Evaluation: adherent scalp flaking score, Malassezia counts, ZPT deposition."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss cosmetic approaches to acne-prone skin and prickly heat.",
+      "answer": "1. Acne: oil control (silica, kaolin, zinc PCA, niacinamide); comedolytic salicylic acid, AHAs, retinol; antibacterial tea tree, zinc; anti-inflammatory niacinamide, licorice, centella; non-comedogenic oil-free gels and mild foaming cleansers; sunscreen to prevent marks; BPO, adapalene, antibiotics are drugs.\n2. Prickly heat: keep dry and cool – talc/starch/kaolin powders; zinc oxide, calamine (soothing, astringent); menthol, camphor (cooling); light non-occlusive lotions; asbestos-free talc and avoid inhalation in infants."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define SPF.",
+      "answer": "SPF is the ratio of the minimal erythema dose on sunscreen-protected skin to that on unprotected skin, measured with product applied at 2 mg/cm²; it indicates protection mainly against UVB sunburn."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is critical wavelength?",
+      "answer": "The wavelength below which 90% of the area under a sunscreen's absorbance curve from 290 to 400 nm lies; a value of at least 370 nm indicates broad-spectrum protection."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the margin of safety (MoS)?",
+      "answer": "MoS = NOAEL ÷ systemic exposure dosage of an ingredient in use; a value of at least 100 is generally taken as adequate for cosmetic safety."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe herbal ingredients used in hair care, skin care and oral care with their key constituents and uses.",
+      "answer": "1. Hair: amla (vitamin C, emblicanins – oils, anti-greying tradition), bhringraj (wedelolactone – hair oils), hibiscus (mucilage – conditioning), henna (lawsone – natural dye; beware PPD 'black henna'), shikakai and reetha (saponins – cleansers), neem (limonoids – anti-dandruff), methi (mucilage – conditioning), rosemary (carnosic acid – scalp tonic), aloe (polysaccharides).\n2. Skin: turmeric (curcuminoids – antioxidant; tetrahydrocurcumin colourless), aloe (soothing), neem (antibacterial), sandalwood (santalols), saffron (crocin), liquorice (glabridin – brightening), green tea (EGCG – antioxidant), centella (asiaticoside – soothing, collagen), papaya (papain – exfoliation), tea tree (terpinen-4-ol – blemishes), rose, clays, oils and butters.\n3. Oral: neem, babool (tannins – astringent), clove (eugenol – analgesic/antiseptic), miswak (Salvadora persica – silica, fluoride, antibacterial), mint (menthol), thyme/eucalyptus (essential-oil mouthwashes), liquorice, bakul, tulsi, triphala.\n4. Use as standardised extracts with markers; herbal toothpaste still needs abrasive, humectant, binder and fluoride for anti-caries claims."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Review the COSMOS standard for natural and organic cosmetics with respect to preservatives, emollients, foaming agents, emulsifiers and rheology modifiers.",
+      "answer": "1. COSMOS: founded by BDIH, Cosmebio, Ecocert, ICEA, Soil Association; managed from Brussels; version 4 from 2023.\n2. Signatures: COSMOS ORGANIC (≥ 20% organic; ≥ 10% rinse-off, non-emulsified aqueous, ≥ 80% mineral products; ≥ 95% PPAI organic; ≤ 2% petrochemical moieties), COSMOS NATURAL (no organic minimum, ≤ 2%), COSMOS CERTIFIED and APPROVED raw materials.\n3. Categories: water, minerals, PPAI, CPAI, other ingredients; green-chemistry processes allowed (esterification, hydrolysis, saponification, hydrogenation); ethoxylation/propoxylation, GMOs, irradiation forbidden; no mineral oil, petrolatum, silicones.\n4. Preservatives: short positive list – benzoic, sorbic, dehydroacetic, salicylic acids and salts, benzyl alcohol (within 2% petrochemical limit); parabens, formaldehyde releasers, isothiazolinones, phenoxyethanol not allowed; rely on low pH and hurdles.\n5. Emollients: vegetable oils, butters, plant/animal waxes, natural esters (coco-caprylate/caprate, caprylic/capric triglyceride), plant squalane; not mineral oil or silicones.\n6. Foaming agents: alkyl polyglucosides, amino-acid surfactants, natural-derived betaines, soaps, saponins; not SLES/ethoxylates; v4 restricts some sulphated surfactants.\n7. Emulsifiers: glyceryl stearate, sucrose and polyglyceryl esters, cetearyl glucoside, olivates, lecithin; not polysorbates/ceteareths/PEG esters.\n8. Rheology: xanthan, guar, gellan, sclerotium, carrageenan, agar, alginate, starch, clays, silica, fatty alcohols; not carbomers or PEG thickeners.\n9. Consequences: lower foam, harder thickening, weaker emulsions and preservation – need blends, low pH, chelators (phytate), protective packs."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Discuss the challenges in formulating herbal cosmetics and how they can be overcome.",
+      "answer": "1. Raw material variability – identity checks, DNA barcoding, standardised extracts with markers.\n2. Adulteration – HPTLC/HPLC/GC fingerprints (saffron, sandalwood, essential oils, PPD in henna).\n3. Microbial load – limits, extracts, GMP.\n4. Preservation with limited preservatives – low pH, organic acids, low water activity, airless packs, challenge test.\n5. Contaminants – heavy metals, pesticides, aflatoxins testing.\n6. Stability – oxidation, colour fading, precipitation, emulsion breaking: antioxidants (tocopherol, rosemary), chelators, opaque packs, robust emulsifiers.\n7. Colour and odour of extracts – decolourised extracts, derivatives, masking.\n8. Poor solubility and penetration – phytosomes, liposomes, nanoemulsions.\n9. Sensory and performance gaps – foam, viscosity, mineral-only sunscreens.\n10. Safety myths – allergens in essential oils, phototoxic bergapten, IFRA limits, safety assessment.\n11. Claim evidence and regulation – efficacy studies, no drug claims, no legal 'natural' definition in India, certification and ISO 16128.\n12. Sustainability and cost – cultivated sources, certification, cell-culture actives."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on herbal ingredients used in oral care.",
+      "answer": "1. Neem: limonoids – antiplaque, antibacterial; chewing sticks.\n2. Babool (Vachellia nilotica): tannins – astringent, gum care.\n3. Clove: eugenol – analgesic, antiseptic, flavour.\n4. Miswak (Salvadora persica): silica, natural fluoride, antibacterial sulphur compounds – cleaning.\n5. Peppermint/spearmint: menthol/carvone – flavour, freshness.\n6. Thyme, eucalyptus, wintergreen: thymol, eucalyptol, methyl salicylate – essential-oil antiplaque mouthwashes.\n7. Liquorice (sweet, anticariogenic claims), bakul, tulsi, triphala, pomegranate peel (tannins) – gum health.\n8. Still need abrasive, humectant, binder; fluoride for anti-caries claims."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the certification levels and main ingredient rules of the COSMOS standard.",
+      "answer": "1. COSMOS ORGANIC: ≥ 20% organic of total (≥ 10% for rinse-off, non-emulsified aqueous, ≥ 80% mineral), ≥ 95% PPAI organic, listed CPAI organic, ≤ 2% petrochemical moieties.\n2. COSMOS NATURAL: no organic minimum, ≤ 2% petrochemical moieties.\n3. COSMOS CERTIFIED (raw materials with organic content) and COSMOS APPROVED (raw materials without organic content).\n4. Categories: water, minerals, PPAI, CPAI, others.\n5. Rules: green chemistry processes; no ethoxylation/propoxylation, GMOs, irradiation; no mineral oils or silicones; short preservative list; palm sustainability; nano restrictions; packaging considerations."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on herbal ingredients used in hair care.",
+      "answer": "1. Amla (Phyllanthus emblica): vitamin C, tannins – hair oils, conditioning, antioxidant.\n2. Bhringraj (Eclipta alba): wedelolactone – hair tonic oils.\n3. Hibiscus: mucilage, flavonoids – conditioning, shine.\n4. Henna (Lawsonia inermis): lawsone – red-orange dye binding keratin; PPD adulteration risk.\n5. Shikakai (Acacia concinna), reetha (Sapindus mukorossi): saponins – mild cleansers.\n6. Neem, methi (fenugreek mucilage), rosemary (carnosic acid), aloe vera, brahmi.\n7. Formulated as oils, powders, shampoos with standardised extracts."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is the legal status of herbal, natural and Ayurvedic cosmetics in India? Mention ISO 16128.",
+      "answer": "1. Cosmetics Rules 2020 do not define 'herbal', 'natural' or 'organic'; any such cosmetic follows the same licensing, labelling, standards and claims rules (Rule 36 – no false or misleading claims).\n2. No separate 'Ayurvedic cosmetic' category; products with medicinal claims under Ayurvedic principles are ASU drugs licensed under the ASU provisions of the D&C Act.\n3. 'Organic' claims rely on private certification (COSMOS, others).\n4. ISO 16128 Parts 1 and 2: definitions and calculation of natural, natural-origin, organic and organic-origin indices of ingredients and products; no minimum levels or logo; supports percentage claims."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Outline the formulation of a natural anti-dandruff shampoo meeting natural-cosmetic standards.",
+      "answer": "1. Cleansers: coco glucoside + sodium cocoyl glutamate + coco-betaine (no SLES).\n2. Herbal actives: neem extract, rosemary extract, fenugreek mucilage, shikakai/reetha saponins.\n3. Thickener: xanthan gum (salt works poorly with these surfactants).\n4. Conditioning: plant-derived cationic guar if allowed, proteins.\n5. Preservation: sodium benzoate + potassium sorbate at pH 5.0–5.5, sodium phytate chelator.\n6. Fragrance: essential oils within allergen limits.\n7. Tests: viscosity, foam, pH, challenge test, stability, flaking score; trade-off with stronger antifungals."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Name the active constituents of henna and liquorice used in cosmetics.",
+      "answer": "Henna: lawsone (2-hydroxy-1,4-naphthoquinone), a hair and skin dye. Liquorice: glycyrrhizin and glabridin (skin brightening, anti-inflammatory)."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Which organisations founded the COSMOS standard?",
+      "answer": "BDIH (Germany), Cosmebio and Ecocert (France), ICEA (Italy) and the Soil Association (UK)."
+    },
+    {
+      "id": "u5-v03",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Why are PEG emulsifiers not allowed in COSMOS-certified products?",
+      "answer": "PEGs and other ethoxylated ingredients are made by ethoxylation, a process forbidden by COSMOS (petrochemical ethylene oxide, possible 1,4-dioxane residues)."
+    }
+  ]
+}

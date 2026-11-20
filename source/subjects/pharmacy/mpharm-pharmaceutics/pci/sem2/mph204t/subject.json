@@ -1,0 +1,48 @@
+{
+  "code": "MPH204T",
+  "title": "Cosmetics and Cosmeceuticals",
+  "reviewed": false,
+  "syllabusSource": {
+    "title": "Pharmacy Council of India, M.Pharm syllabus: Pharmaceutics (MPH), MPH 204T Cosmetics and Cosmeceuticals (Gazette of India M.Pharm syllabus, 11 August 2026; same course in the earlier PCI M.Pharm syllabus)",
+    "url": "https://www.pci.gov.in/documents/1598/M._Pharm_Syllabus.pdf"
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "Cosmetics: Indian regulatory provisions",
+      "notes": "notes/unit-1.md"
+    },
+    {
+      "number": 2,
+      "title": "Biological aspects: skin, hair and oral cavity",
+      "notes": "notes/unit-2.md"
+    },
+    {
+      "number": 3,
+      "title": "Formulation building blocks, perfumes and controversial ingredients",
+      "notes": "notes/unit-3.md"
+    },
+    {
+      "number": 4,
+      "title": "Design of cosmeceutical products, with safety and efficacy evaluation",
+      "notes": "notes/unit-4.md"
+    },
+    {
+      "number": 5,
+      "title": "Herbal cosmetics and natural/organic standards (COSMOS)",
+      "notes": "notes/unit-5.md"
+    }
+  ],
+  "extras": [
+    {
+      "id": "how-to-use",
+      "title": "How to use this subject",
+      "notes": "notes/how-to-use.md"
+    },
+    {
+      "id": "revision-sheet",
+      "title": "Last-night revision sheet",
+      "notes": "notes/revision-sheet.md"
+    }
+  ]
+}
