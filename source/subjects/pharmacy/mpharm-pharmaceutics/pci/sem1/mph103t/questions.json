@@ -1,0 +1,563 @@
+{
+  "probabilityNote": "Probability is an estimate of how likely a question is, based on common patterns in PCI-syllabus M.Pharm pharmaceutics papers and the weight of each topic in the syllabus. It is not a promise.",
+  "questions": [
+    {
+      "id": "u1-l01",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define preformulation. Describe the preformulation parameters studied for a new drug substance and explain how the results guide formulation design.",
+      "answer": "1. Definition: investigation of physical, chemical and biopharmaceutical properties of a drug, alone and with excipients, before formulation, so that a stable, bioavailable, manufacturable product is designed with least trial and error; first step of QbD (identifies critical material attributes).\n2. Identity and purity: HPLC impurity profile, residual solvents.\n3. Solid state: polymorphs, hydrates/solvates, amorphous content by DSC, TGA, PXRD, hot-stage microscopy, FTIR/Raman; metastable forms dissolve faster but may convert.\n4. Solution properties: pKa (potentiometric/UV), intrinsic solubility and pH–solubility profile S = S0[1 + 10^(pH − pKa)] for a weak acid; log P/log D (shake flask); salt selection.\n5. Intrinsic dissolution rate (fixed-area disc, Wood's apparatus): values below about 0.1 mg/cm²/min suggest dissolution-limited absorption.\n6. Stability: pH–rate profile, forced degradation (heat, humidity, acid/base, oxidation, light) to find pathways and develop a stability-indicating method.\n7. Powder properties: particle size and shape, bulk/tapped density, Carr's index, Hausner ratio, angle of repose, compressibility (Heckel), hygroscopicity (DVS).\n8. Biopharmaceutics: permeability (Caco-2), BCS class.\n9. Drug–excipient compatibility: DSC screen, isothermal stress testing with HPLC.\n10. Decisions: salt/polymorph, dosage form, process (direct compression vs granulation), excipients, pack and storage label, analytical methods; BCS II drugs → solubility enhancement (solid dispersion, SMEDDS, size reduction)."
+    },
+    {
+      "id": "u1-l02",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the kinetics of drug degradation and the use of the Arrhenius equation in predicting shelf life. Add a worked example and the limitations of accelerated stability testing.",
+      "answer": "1. Orders: zero order C = C0 − k0t, t90 = 0.1C0/k0; first order ln C = ln C0 − kt, t½ = 0.693/k, t90 = 0.105/k; second order 1/C = 1/C0 + kt.\n2. Apparent zero order in suspensions (only dissolved drug degrades; k0 = k1Cs); pseudo-first order for hydrolysis with excess water.\n3. Factors: pH (specific and general acid–base catalysis; pH–rate profile gives pH of maximum stability), temperature, ionic strength (log k = log k0 + 1.02zAzB√µ), dielectric constant, moisture, oxygen, light, metal ions, excipients.\n4. Arrhenius: k = Ae^(−Ea/RT); ln k vs 1/T is linear, slope −Ea/R; extrapolate to storage temperature.\n5. Worked example: k = 0.0042, 0.0105, 0.0250 day⁻¹ at 50, 60, 70 °C; slope = −9,890 K → Ea ≈ 82 kJ/mol; ln k25 = −8.04 → k25 = 3.2 × 10⁻⁴ day⁻¹; t90 = 0.105/k ≈ 326 days.\n6. Q10 method: Q10 = k(T+10)/kT, often 2–4; quick estimates.\n7. Limitations: mechanism or order may change with temperature; not for physical changes (melting, emulsion cracking, protein denaturation, polymorph change); moisture content varies with temperature in solids; diffusion-controlled solid-state reactions; evaporation of solvent; so real-time data must confirm.\n8. Regulatory link: ICH Q1A(R2) accelerated 40 °C/75% RH for 6 months supports, but does not replace, long-term data; shelf life by ICH Q1E statistics."
+    },
+    {
+      "id": "u1-l03",
+      "unit": 1,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a self-micro-emulsifying drug delivery system (SMEDDS)? Describe its components, mechanism of improved bioavailability, formulation development and evaluation.",
+      "answer": "1. Definition: isotropic mixture of oil, surfactant and co-surfactant/co-solvent containing dissolved drug that forms a fine o/w micro-emulsion (droplets usually < 100 nm) spontaneously on gentle agitation in GI fluids; SEDDS give about 100–300 nm droplets.\n2. Components: oil (medium-chain triglycerides, mono- and diglycerides, oleic acid); surfactant (HLB > 12: polysorbate 80, polyoxyl castor oil, caprylocaproyl macrogolglycerides); co-surfactant/co-solvent (Transcutol, PEG 400, propylene glycol, ethanol).\n3. Mechanism: drug presented in solution; large interfacial area; lipid digestion → mixed micelles with bile; lymphatic transport of lipophilic drugs bypasses first-pass; some surfactants inhibit P-gp and enzymes; less food effect.\n4. Pouton classification: type I oils; II oils + water-insoluble surfactants; IIIA/IIIB oils + water-soluble surfactants ± co-solvents; IV surfactants/co-solvents without oil.\n5. Development: solubility screening → pseudo-ternary phase diagrams (water titration) → micro-emulsion region → choose ratios → drug loading → optimise by mixture design/DoE.\n6. Evaluation: emulsification time, droplet size and PDI (DLS), zeta potential, robustness to dilution and pH, transmittance, cloud point, thermodynamic stability (heating–cooling, centrifugation, freeze–thaw), precipitation on dilution, in vitro dissolution and lipolysis, drug content.\n7. Solid SMEDDS: adsorption on porous silica/magnesium aluminometasilicate, spray drying, capsule filling.\n8. Limitations: drug instability in lipid, GI irritation from surfactant, capsule interactions, precipitation (solved by supersaturable SMEDDS with HPMC). Examples: cyclosporine micro-emulsion pre-concentrate."
+    },
+    {
+      "id": "u1-s01",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the methods used to detect drug–excipient interactions.",
+      "answer": "1. DSC of 1:1 physical mixtures: shift/loss of drug melting peak, new peaks, enthalpy change — quick screen, but may show only physical events.\n2. Isothermal stress testing: binary mixtures with added water stored at 40–60 °C for 1–4 weeks; HPLC assay and degradants — confirms chemical change.\n3. FTIR/Raman: shift or loss of functional group bands (C=O, NH, OH).\n4. PXRD: change of crystal form or loss of crystallinity.\n5. HPLC/LC–MS for identifying degradants; TGA, hot-stage microscopy, isothermal microcalorimetry (slow reactions near room temperature).\n6. Factorial compatibility screens with prototype mixtures.\nExamples to quote: Maillard reaction of lactose with amines; magnesium stearate with aspirin."
+    },
+    {
+      "id": "u1-s02",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Give the ICH storage conditions for long-term, intermediate and accelerated stability testing. What is a 'significant change'?",
+      "answer": "1. Long term: 25 °C ± 2 °C/60% RH ± 5% RH or 30 °C ± 2 °C/65% RH ± 5% RH; minimum 12 months at submission.\n2. Intermediate: 30 °C ± 2 °C/65% RH ± 5% RH, 6 months (only if significant change at accelerated when long term is 25/60).\n3. Accelerated: 40 °C ± 2 °C/75% RH ± 5% RH, 6 months.\n4. Refrigerated products: 5 °C ± 3 °C long term, 25 °C/60% RH accelerated.\n5. India (zone IVb): long term 30 °C/75% RH.\n6. Frequency: every 3 months in year 1, 6 months in year 2, then yearly; accelerated 0, 3, 6 months; at least three primary batches.\n7. Significant change: 5% change in assay; a degradant above its limit; failure of appearance or physical tests; pH failure; dissolution failure for 12 units."
+    },
+    {
+      "id": "u1-s03",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain DLVO theory and its application to flocculated and deflocculated suspensions.",
+      "answer": "1. Total energy VT = VA (van der Waals attraction) + VR (electrical double-layer repulsion).\n2. Energy–distance curve: primary minimum (close contact, irreversible aggregation/caking), primary maximum (energy barrier), secondary minimum (loose reversible flocs).\n3. High zeta potential → high barrier → deflocculated: slow settling but dense cake.\n4. Adding electrolyte compresses the double layer (Schulze–Hardy rule), reduces zeta potential and traps particles in the secondary minimum → controlled flocculation: rapid settling, loose easily redispersed sediment, clear supernatant.\n5. Steric stabilisation by polymers adds non-electrostatic repulsion.\n6. Practice: controlled flocculation + structured vehicle; monitor F = Vu/V0, β = F/F∞ and zeta potential."
+    },
+    {
+      "id": "u1-s04",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss physiological and formulation considerations for large and small volume parenterals.",
+      "answer": "1. Definitions (USP): SVP ≤ 100 ml per container; LVP single-dose infusion > 100 ml.\n2. Physiological: route (IV no oils/particles; IM/SC limited volume); isotonicity (plasma about 285–295 mOsm/kg; 0.9% NaCl ≈ 308 mOsm/L, 5% dextrose ≈ 278 mOsm/L); pH near 7.4 especially for LVPs; freedom from pyrogens and particulates; sterility; rate of infusion.\n3. Formulation: WFI or non-aqueous vehicles (oils, ethyl oleate), co-solvents (PEG, propylene glycol, ethanol), solubilisers (polysorbate 80, cyclodextrins), buffers, antioxidants (metabisulphite, N2), chelators (EDTA), tonicity agents.\n4. Preservatives only in multi-dose SVPs; never in LVPs or intrathecal/intra-ocular products.\n5. LVPs: simple, single dose, terminally sterilised, flexible bags or glass bottles.\n6. Containers: Type I glass, rubber closures tested for extractables."
+    },
+    {
+      "id": "u1-s05",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "What is the stability of an emulsion? Describe the types of emulsion instability and how each is controlled.",
+      "answer": "1. Emulsions are thermodynamically unstable (ΔG = γΔA).\n2. Creaming/sedimentation — reversible; due to density difference (Stokes); control by small droplets, higher viscosity, density matching.\n3. Flocculation — reversible aggregation; control zeta potential.\n4. Coalescence → cracking — irreversible film rupture; adequate emulsifier, avoid incompatible additives, extremes of temperature, microbial attack.\n5. Ostwald ripening — small droplets dissolve into large ones; add poorly soluble oil.\n6. Phase inversion — change of phase volume ratio (> 74% internal phase), temperature (PIT), divalent ions.\n7. Evaluation: droplet size, zeta potential, centrifugation, freeze–thaw, viscosity."
+    },
+    {
+      "id": "u1-s06",
+      "unit": 1,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Calculate the proportions of Tween 80 (HLB 15.0) and Span 80 (HLB 4.3) needed to give a required HLB of 12. Explain the HLB concept briefly.",
+      "answer": "1. HLB = balance of hydrophilic and lipophilic parts of a surfactant; 3–6 w/o emulsifiers, 8–18 o/w emulsifiers, 7–9 wetting, 13–15 detergents, 15–18 solubilisers.\n2. Each oil has a required HLB for a stable o/w emulsion.\n3. Blend: HLB = f(HLB_A) + (1 − f)(HLB_B).\n4. 12 = 15.0f + 4.3(1 − f) → f = (12 − 4.3)/(15.0 − 4.3) = 7.7/10.7 = 0.72.\n5. Answer: 72% Tween 80 and 28% Span 80 by weight of emulsifier blend.\n6. Mixed surfactants pack tightly at the interface (complex film) and give more stable emulsions than a single surfactant of the same HLB."
+    },
+    {
+      "id": "u1-v01",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the expression for the shelf life of a drug degrading by first-order kinetics.",
+      "answer": "t90 = 0.105/k (more exactly 0.1054/k), where k is the first-order rate constant; it is the time for the drug content to fall to 90% of its initial value."
+    },
+    {
+      "id": "u1-v02",
+      "unit": 1,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define sedimentation volume and degree of flocculation.",
+      "answer": "Sedimentation volume F = Vu/V0 (ultimate sediment volume ÷ original suspension volume). Degree of flocculation β = F/F∞, where F∞ is the sedimentation volume of the deflocculated suspension."
+    },
+    {
+      "id": "u2-l01",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is a factorial design? Explain with a 2³ example how main effects and interaction effects are calculated and interpreted in tablet formulation.",
+      "answer": "1. Factorial design: all factors varied together; every combination of levels studied; 2^k runs for k factors at two levels; detects interactions, unlike OFAT.\n2. Coding: low −1, high +1; X = (actual − centre)/half range.\n3. Example: A binder, B superdisintegrant, C compression force; response disintegration time (min): (1) 4.2, a 7.8, b 2.6, ab 5.0, c 5.9, ac 10.1, bc 3.7, abc 7.3.\n4. Effect = (Σ responses at + sign − Σ at − sign)/2^(k−1) = /4. A = (30.2 − 16.4)/4 = +3.45; B = −2.35; C = +1.85; AB = −0.45; AC = +0.45; BC = −0.15; ABC = +0.15; mean 5.825.\n5. Interaction column = product of signs of parent columns.\n6. Regression coefficients = effect/2: Y = 5.825 + 1.725A − 1.175B + 0.925C − 0.225AB + 0.225AC − 0.075BC.\n7. Interpretation: binder lengthens and disintegrant shortens disintegration; force lengthens; interactions small. Prediction A −1, B +1, C −1 = 2.53 min (observed 2.6).\n8. Significance: half-normal plot or ANOVA with replicates/centre points; Yates' algorithm as hand method.\n9. Fractional factorials (2^(k−p)) for many factors with aliasing; resolution III/IV/V.\n10. Advantages: efficiency, interactions, model for prediction; limitation: two levels cannot show curvature (add centre points or move to RSM)."
+    },
+    {
+      "id": "u2-l02",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe response surface methodology. Compare central composite and Box–Behnken designs and explain the use of contour plots in optimization.",
+      "answer": "1. RSM: statistical and mathematical techniques to model a response affected by several factors and find the optimum; uses a second-order model Y = b0 + Σbixi + Σbijxixj + Σbiixi².\n2. Steps: screening → choose design → randomised runs → multiple regression → ANOVA (model significant, lack of fit not significant, R², adjusted and predicted R²) → plots → optimum → check-point batches.\n3. CCD: 2^k factorial + 2k axial points at ±α + centre points; runs = 2^k + 2k + n0 (13 for k = 2 with 5 centres); rotatable α = (2^k)^¼ (1.414, 1.682); face-centred α = 1 (three levels); five levels when α ≠ 1; can be built sequentially from a factorial.\n4. BBD: three levels, mid-edge points + centre; 15 runs for 3 factors, 27 for 4; no extreme corners (useful when corner combinations are impossible); not sequential; fewer runs than CCD for 3 factors.\n5. Contour plot: lines of equal response on two factor axes; parallel straight lines = no interaction; curved = interaction/quadratic; ellipses = maximum/minimum; saddle = minimax.\n6. Overlay plots of several responses with constraints give the design space; desirability function for multiple responses.\n7. Applications: matrix tablets, microspheres, nanoparticles, SMEDDS (with mixture designs), coating and granulation processes, HPLC methods.\n8. Validation with check-point batches and percent prediction error."
+    },
+    {
+      "id": "u2-l03",
+      "unit": 2,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Classify optimization techniques. Explain the parameters of optimization and describe EVOP, simplex and Lagrangian methods.",
+      "answer": "1. Optimization: finding best formulation/process within constraints for one or more responses.\n2. Parameters: problem type (constrained/unconstrained), variables (independent: formulation and process; dependent: responses), single vs multiple responses.\n3. Classification: classical calculus-based; statistical DoE (screening — Plackett–Burman, fractional factorial, Taguchi; factorial; response surface — CCD, BBD, 3^k; mixture — simplex lattice/centroid, extreme vertices); sequential search (EVOP, simplex, steepest ascent); computer search (grid, Lagrangian, canonical analysis, neural networks, genetic algorithms).\n4. EVOP: small planned changes (2² around set point) during production, repeated cycles; set point moved when improvement is significant; safe, slow, for production.\n5. Simplex: k + 1 vertices; worst vertex reflected through centroid of the rest; Nelder–Mead modification expands/contracts; no model needed; can stop at local optimum.\n6. Lagrangian: objective function and constraint equations combined with multiplier λ; partial derivatives set to zero; needs equations (from regression); example maximise dissolution subject to hardness ≥ limit.\n7. Grid search: evaluate fitted models over a grid, list feasible points, choose best; handles many constraints.\n8. Desirability approach for multiple responses.\n9. Advantages of statistical methods over OFAT: interactions, fewer runs, prediction."
+    },
+    {
+      "id": "u2-s01",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Fit a model to the following 2² design and find the polymer level for 85% release: X1 HPMC (−1 = 10%, +1 = 20%), X2 filler ratio; responses (X1,X2): (−,−) 92, (+,−) 68, (−,+) 96, (+,+) 80% released at 8 h.",
+      "answer": "1. b0 = (92 + 68 + 96 + 80)/4 = 84.\n2. b1 = (−92 + 68 − 96 + 80)/4 = −10.\n3. b2 = (−92 − 68 + 96 + 80)/4 = +4.\n4. b12 = (92 − 68 − 96 + 80)/4 = +2.\n5. Model: Y = 84 − 10X1 + 4X2 + 2X1X2.\n6. For 85% at X2 = 0: 85 = 84 − 10X1 → X1 = −0.1.\n7. Actual HPMC = 15 + 5 × (−0.1) = 14.5% of tablet weight.\n8. HPMC slows release (negative coefficient); positive interaction means filler effect is greater at high HPMC. Confirm by a check-point batch; a 2² design cannot show curvature."
+    },
+    {
+      "id": "u2-s02",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Differentiate between one-factor-at-a-time and statistical design of experiments.",
+      "answer": "1. OFAT changes one factor at a time; DoE varies all factors together by plan.\n2. OFAT cannot detect interactions; DoE estimates them.\n3. OFAT needs more runs for less information; DoE is efficient (2^k, CCD, BBD).\n4. OFAT gives no predictive model; DoE gives a regression model and contour plots.\n5. OFAT may miss the true optimum; DoE locates it within the design space.\n6. DoE gives statistical significance (ANOVA) and is accepted under QbD (ICH Q8).\n7. OFAT is simple and needs no statistics; DoE needs planning and software."
+    },
+    {
+      "id": "u2-s03",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Write a note on screening designs used in pharmaceutical development.",
+      "answer": "1. Purpose: identify the few important factors among many with few runs.\n2. Plackett–Burman: N runs (multiple of 4) for up to N − 1 factors at two levels; main effects only; 12 runs for 11 factors.\n3. Fractional factorial 2^(k−p): fraction of full factorial; aliasing; resolution III (main effects aliased with 2-factor interactions), IV (main effects clear), V (main and 2-factor interactions clear).\n4. Taguchi orthogonal arrays (L8, L9, L18): robustness, signal-to-noise ratio.\n5. Dummy factors estimate error.\n6. Followed by optimization designs (CCD, BBD) on the shortlisted factors.\n7. Example: screening 7 excipient and process variables for a direct-compression tablet."
+    },
+    {
+      "id": "u2-s04",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain mixture designs and their application in formulation.",
+      "answer": "1. Used when factors are proportions of a whole summing to 1 (Σxi = 1); they are not independent, so ordinary factorial designs do not apply.\n2. Simplex lattice {q, m}: q components, levels 0, 1/m, …, 1; {3,2} = 6 points.\n3. Simplex centroid: adds centroid and similar blends (7 points for 3 components).\n4. Extreme vertices: when components have lower/upper limits.\n5. Scheffé model without intercept: Y = Σbixi + Σbijxixj (+ cubic terms).\n6. Results shown on triangular (ternary) contour plots.\n7. Applications: SMEDDS oil–surfactant–co-surfactant ratios, filler blends (lactose–MCC–DCP), polymer blends for controlled release, solvent mixtures."
+    },
+    {
+      "id": "u2-s05",
+      "unit": 2,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "What is the desirability function? How is it used for multiple-response optimization?",
+      "answer": "1. Each response yi is converted to an individual desirability di between 0 (unacceptable) and 1 (fully desirable).\n2. For a response to be maximised, di rises from 0 at the lower limit to 1 at the target; minimised responses the reverse; target responses peak at the target.\n3. A weight/shape factor sets how sharply di changes.\n4. Overall D = (d1 × d2 × … × dn)^(1/n) (geometric mean); if any di = 0, D = 0.\n5. Numerical search finds factor settings giving maximum D.\n6. Example: maximise dissolution, keep hardness ≥ 5 kg, minimise friability for a tablet.\n7. Alternative: overlay of contour plots."
+    },
+    {
+      "id": "u2-v01",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "How many runs are needed for a central composite design with two factors and five centre points? What is the rotatable α value?",
+      "answer": "Runs = 2^k + 2k + n0 = 4 + 4 + 5 = 13. Rotatable α = (2^k)^¼ = (4)^¼ = 1.414."
+    },
+    {
+      "id": "u2-v02",
+      "unit": 2,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "Define 'interaction' in a factorial design.",
+      "answer": "An interaction exists when the effect of one factor on the response depends on the level of another factor; for example the effect of binder on hardness differs at low and high compression force. It is calculated from the product column (e.g. AB)."
+    },
+    {
+      "id": "u3-l01",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define validation. Explain the types of process validation and the lifecycle approach to process validation.",
+      "answer": "1. Validation: documented evidence that a process, procedure, equipment, material or system consistently leads to the expected results. FDA (2011): collection and evaluation of data from process design through commercial production establishing scientific evidence that a process is capable of consistently delivering quality product.\n2. Prospective: before commercial distribution; protocol, PPQ batches; batches released after completion; preferred.\n3. Concurrent: during routine production with release as data accumulate; only exceptional (low-volume, urgent need) with justification.\n4. Retrospective: from historical batch data (10–30 batches); old products only; not acceptable for new products.\n5. Revalidation: after changes (formula, equipment, site, supplier, batch size) or periodically; driven by change control and product quality review.\n6. Lifecycle: Stage 1 process design (development knowledge, DoE, risk assessment, control strategy); Stage 2 process qualification (facility/equipment qualification + PPQ with heightened sampling; number of batches justified, traditionally three); Stage 3 continued process verification (control charts, capability).\n7. Process capability: Cpk = min(USL − x̄, x̄ − LSL)/3σ; example spec 95–105%, mean 100.6, SD 1.2 → Cp 1.39, Cpk 1.22 (target ≥ 1.33).\n8. Other validations: cleaning, analytical (ICH Q2(R2)), computerised systems (GAMP 5), equipment qualification.\n9. Merits: consistent quality, less rejection/recall, regulatory compliance, reduced testing."
+    },
+    {
+      "id": "u3-l02",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the stages of qualification of equipment and facilities (URS, DQ, IQ, OQ and PQ) with the V-model and an example.",
+      "answer": "1. Qualification: documented proof that equipment/facilities are installed correctly, work and give expected results.\n2. V-model: URS ↔ PQ; functional specification ↔ OQ; design specification (DQ) ↔ IQ; build, FAT and SAT at the base.\n3. URS: user's written needs — capacity, materials (SS 316L contact parts), cleanability, safety, controls, alarms, data integrity (21 CFR Part 11), utilities, documentation, training.\n4. DQ: documented verification that the proposed design meets URS and GMP; drawings, P&ID, vendor selection, risk assessment.\n5. FAT at vendor, SAT at site.\n6. IQ: installed as per design and manufacturer's recommendations — model/serial numbers, component list, materials certificates, utilities, as-built drawings, calibration of critical instruments, manuals, SOP drafts.\n7. OQ: functions across anticipated operating ranges — controls, interlocks, alarms, speed/temperature/pressure at limits, power failure recovery; usually without product.\n8. PQ: integrated system performs consistently with product/placebo under routine conditions over several runs.\n9. Example — HVAC clean room: airflow, air changes, HEPA integrity test, pressure differentials, smoke study, recovery, particle counts at rest and in operation, viable monitoring; water system PQ in three phases over about a year.\n10. Requalification after changes/periodically; all under change control and the VMP."
+    },
+    {
+      "id": "u3-l03",
+      "unit": 3,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Describe the validation of a tablet manufacturing process by wet granulation, giving critical parameters and tests for each unit operation.",
+      "answer": "1. Protocol: objective, responsibilities, equipment (qualified), process flow, CPPs and CQAs, sampling plan, acceptance criteria, deviation handling; three (or justified number of) consecutive batches.\n2. Dispensing/sifting: sieve size, API particle size.\n3. Dry mixing: speed, time, load → blend uniformity from about 10 locations (sample 1–3 × unit weight).\n4. Wet granulation: binder quantity, addition rate, impeller/chopper speed, kneading time, end point by power consumption → granule appearance, density.\n5. Drying (FBD): inlet temperature, airflow, time → loss on drying.\n6. Sizing: screen, speed → particle size distribution.\n7. Lubrication: time, quantity → blend uniformity, flow, bulk/tapped density.\n8. Compression: force, turret speed, feeder speed, hopper level → weight variation, hardness, thickness, friability, disintegration, dissolution, content uniformity; sampled at start, middle, end and at speed/force extremes (challenge).\n9. Coating: pan speed, spray rate, temperatures, atomisation → weight gain, appearance, dissolution.\n10. Report: results vs criteria, deviations, conclusion; change control and continued process verification thereafter."
+    },
+    {
+      "id": "u3-s01",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "What is a validation master plan? List its contents.",
+      "answer": "1. High-level document giving the site's validation policy, approach and programme; approved by management and QA; first document inspectors ask for.\n2. Contents: introduction and objectives; validation policy.\n3. Organisation and responsibilities (validation team, QA, production, engineering, QC).\n4. List of facilities, utilities, equipment, processes, cleaning, analytical methods and computerised systems to be validated, with status.\n5. Documentation format: protocols, reports, numbering, approvals.\n6. Planning and schedule (validation matrix).\n7. Risk assessment approach (criticality).\n8. Change control, requalification and revalidation policy.\n9. Acceptance criteria philosophy, deviation handling, training, references and glossary."
+    },
+    {
+      "id": "u3-s02",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Write a note on cleaning validation.",
+      "answer": "1. Documented evidence that a cleaning procedure removes product residues, cleaning agents and microbes to acceptable levels to prevent cross-contamination.\n2. Worst-case product: least soluble, most potent/toxic, hardest to clean; worst-case equipment locations.\n3. Acceptance criteria: visually clean; health-based exposure limits (PDE); older criteria 10 ppm of previous product in next, or 1/1000 of smallest therapeutic dose in largest daily dose of next; microbial limits.\n4. Sampling: swab (direct, defined area) and rinse (inaccessible surfaces); recovery studies.\n5. Validated analytical method (HPLC, TOC, conductivity).\n6. Dirty hold time and clean hold time studies.\n7. Usually three consecutive successful cleanings; revalidation after changes."
+    },
+    {
+      "id": "u3-s03",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate between calibration, qualification and validation.",
+      "answer": "1. Calibration: comparing an instrument's readings with a traceable reference standard over a range and adjusting/recording deviations (e.g. balance, thermometer, pressure gauge); traceable to NPL/NABL.\n2. Qualification: documented proof that equipment/facilities/utilities are installed properly and work as intended (DQ, IQ, OQ, PQ).\n3. Validation: documented evidence that a process, procedure or method consistently produces results meeting specifications (process, cleaning, analytical validation).\n4. Relationship: calibrated instruments → qualified equipment → validated processes.\n5. Calibration is periodic per schedule; qualification at installation and after changes; validation for each process/product and after changes."
+    },
+    {
+      "id": "u3-s04",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Outline the government regulations and guidelines related to validation (India, USFDA, EU, WHO, ICH).",
+      "answer": "1. India: Schedule M of Drugs Rules, 1945; revised Schedule M (December 2023) aligned with WHO GMP — quality system, risk management, qualification and validation, product quality review, computerised systems.\n2. USFDA: 21 CFR 210/211 (211.100 process controls; 211.63–211.68 equipment); Process Validation guidance 2011 (three stages); 21 CFR Part 11 electronic records.\n3. EU: EudraLex Vol 4, Annex 15 Qualification and Validation; Annex 1 sterile products; Annex 11 computerised systems.\n4. WHO: GMP and supplementary validation guidelines with appendices (HVAC, water, cleaning, analytical, computerised systems, qualification, non-sterile process validation).\n5. ICH: Q2(R2) analytical validation; Q7 API GMP; Q8(R2), Q9, Q10.\n6. PIC/S recommendations on VMP, IQ/OQ, cleaning validation."
+    },
+    {
+      "id": "u3-s05",
+      "unit": 3,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Calculate Cp and Cpk for an assay with specification 95.0–105.0%, process mean 100.6% and SD 1.2%. Interpret.",
+      "answer": "1. Cp = (USL − LSL)/6σ = (105.0 − 95.0)/(6 × 1.2) = 10/7.2 = 1.39.\n2. Cpk = min[(USL − x̄)/3σ, (x̄ − LSL)/3σ] = min[(4.4)/3.6, (5.6)/3.6] = min(1.22, 1.56) = 1.22.\n3. Cp measures potential capability (spread vs tolerance); Cpk includes centring.\n4. Cpk ≥ 1.33 generally regarded as capable; 1.22 → acceptable but off-centre (towards upper limit) and should be improved and monitored in continued process verification."
+    },
+    {
+      "id": "u3-v01",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What is Operational Qualification (OQ)?",
+      "answer": "OQ is documented verification that equipment or a system operates as intended throughout its anticipated operating ranges, including controls, alarms, interlocks and limits, usually tested without product."
+    },
+    {
+      "id": "u3-v02",
+      "unit": 3,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is a media fill?",
+      "answer": "An aseptic process simulation in which sterile growth medium is processed and filled instead of product through the whole aseptic operation, then incubated, to prove the process does not contaminate the product."
+    },
+    {
+      "id": "u4-l01",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the objectives and policies of cGMP. Describe the requirements for layout of buildings, services and equipment maintenance in a pharmaceutical plant.",
+      "answer": "1. GMP: part of QA ensuring products are consistently produced and controlled to quality standards appropriate to intended use; 'current' = up-to-date technology and systems.\n2. Objectives: right identity, strength, quality, purity; prevent mix-ups, contamination, cross-contamination and errors; traceability; patient protection; legal compliance.\n3. Policies: quality system (ICH Q10), risk management (Q9), trained personnel, suitable premises and equipment, documentation and data integrity (ALCOA+), validated processes, independent QC, complaints/recalls, self-inspection, CAPA, change control.\n4. Layout: away from pollution; unidirectional flow of materials and personnel (receipt → quarantine → sampling → approved stores → dispensing → manufacture → packing → FG quarantine → dispatch); separate areas; smooth impervious surfaces, coved corners; airlocks and pressure cascades; dedicated facilities for penicillins, cephalosporins, cytotoxics, some hormones; sterile areas graded A–D.\n5. Services: HVAC with HEPA, temperature/RH, pressure differentials; purified water and WFI with recirculating SS 316L loops; oil-free compressed air; clean steam; lighting and emergency power; trapped drains; effluent treatment; pest control.\n6. Equipment: SS 316L contact parts, cleanable, qualified, identified with status labels and logbooks.\n7. Maintenance: breakdown, preventive, predictive, TPM; calibration programme; out-of-tolerance impact assessment.\n8. Regulations: revised Schedule M, WHO GMP, 21 CFR 211, EU GMP."
+    },
+    {
+      "id": "u4-l02",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "What is inventory management? Explain EOQ, re-order level and selective inventory control techniques with a numerical example.",
+      "answer": "1. Inventory: stock of raw/packing materials, WIP and finished goods; aim is to avoid stock-outs while minimising capital, space and expiry losses.\n2. Costs: ordering cost (per order), carrying cost (per unit per year: interest, storage, insurance, deterioration), shortage cost.\n3. EOQ = √(2DS/H). Example: D = 12,000 kg/year, S = ₹2,000/order, H = ₹25/kg/year → EOQ = √1,920,000 ≈ 1,386 kg; about 8.7 orders/year; ordering cost = holding cost ≈ ₹17,320; total ≈ ₹34,640.\n4. Re-order level = daily usage × lead time + safety stock: 40 kg/day × 10 days + 200 = 600 kg.\n5. Maximum, minimum and safety stock levels; lead time.\n6. ABC analysis: A ≈ 10–20% items, 70–80% value (tight control); B moderate; C ≈ 50–70% items, 5–10% value.\n7. VED (vital/essential/desirable), FSN (fast/slow/non-moving), HML (price), SDE (availability).\n8. JIT and kanban; limits in pharma because of quarantine and QC time; FIFO/FEFO issue; perpetual inventory; ERP."
+    },
+    {
+      "id": "u4-l03",
+      "unit": 4,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "Explain the concept of Total Quality Management. Describe its principles, tools and application in the pharmaceutical industry.",
+      "answer": "1. TQM: whole-organisation approach to continuous improvement of processes, products and services to meet customer needs; every employee responsible for quality.\n2. Pioneers: Deming (14 points, PDCA cycle), Juran (fitness for use; trilogy — planning, control, improvement), Crosby (zero defects, cost of quality), Ishikawa (fishbone, quality circles).\n3. Principles: customer focus, leadership, involvement of people, process approach, system approach, continual improvement, fact-based decisions, supplier relationships.\n4. Tools: 7 QC tools — check sheet, histogram, Pareto chart, fishbone, scatter diagram, control chart, flow chart/stratification.\n5. Methods: Kaizen, 5S, poka-yoke, benchmarking, quality circles, lean (remove seven wastes), Six Sigma DMAIC (3.4 DPMO).\n6. Cost of quality: prevention + appraisal + internal + external failure.\n7. Pharma application: pharmaceutical quality system (ICH Q10), risk management (Q9), CAPA, change management, management review, product quality review, QbD (Q8); ISO 9001.\n8. Benefits: fewer deviations, recalls and complaints; lower cost; regulatory confidence."
+    },
+    {
+      "id": "u4-s01",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the functions of production planning and control.",
+      "answer": "1. PPC plans what, how much, when and where to produce and controls execution.\n2. Forecasting and master production schedule.\n3. Material requirement planning from the bill of materials.\n4. Routing: sequence of operations and equipment.\n5. Scheduling: start/finish times (Gantt chart).\n6. Loading: assign work within machine and staff capacity.\n7. Dispatching: issue BMRs, material requisitions, work orders.\n8. Follow-up/expediting and corrective replanning.\n9. Pharma specifics: campaign production, cleaning/changeover time, QC release time, hold-time limits, validated batch size."
+    },
+    {
+      "id": "u4-s02",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe methods of sales forecasting with a numerical example.",
+      "answer": "1. Qualitative: executive opinion, sales-force composite, Delphi, market research/test marketing.\n2. Quantitative: moving average, exponential smoothing, trend projection (least squares), causal regression.\n3. Data (thousand packs, Jan–Jun): 40, 44, 43, 48, 50, 53.\n4. 3-month moving average for July = (48 + 50 + 53)/3 = 50.3.\n5. Trend Y = a + bX (X = 1…6): b = 2.514, a = 37.53 → July (X = 7) = 55.1.\n6. Exponential smoothing α = 0.3, June forecast 49, actual 53: July = 49 + 0.3(4) = 50.2.\n7. Moving average lags a rising trend; accuracy checked by MAD/MAPE; forecasts drive production, purchase and budgets."
+    },
+    {
+      "id": "u4-s03",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain budget and cost control. Calculate the break-even point when fixed cost is ₹18 lakh, selling price ₹60 and variable cost ₹36 per pack.",
+      "answer": "1. Budget: financial plan of income and expenditure for a future period; types — sales, production, materials, labour, overhead, capital, cash, master; fixed vs flexible; zero-based.\n2. Costs: fixed, variable, semi-variable; direct and indirect.\n3. Cost control: standard costing and variance analysis, budgetary control, value analysis, waste and yield control, energy audit.\n4. BEP = fixed cost/(price − variable cost) = 18,00,000/(60 − 36) = 18,00,000/24 = 75,000 packs.\n5. BEP sales value = 75,000 × 60 = ₹45 lakh; above this, each pack contributes ₹24 to profit."
+    },
+    {
+      "id": "u4-s04",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Discuss materials management and material handling in a pharmaceutical industry.",
+      "answer": "1. Materials management: planning, purchase, receipt, storage, issue and control of materials so that the right quality and quantity are available on time at least cost.\n2. Functions: requirement planning, vendor selection/approval/audit, purchase orders, receipt and quarantine, sampling, approved storage under specified conditions, FIFO/FEFO issue, inventory control, disposal of rejects and scrap.\n3. Material handling principles: minimum handling, unit load, straight-line flow, mechanisation, gravity, safety, GMP protection.\n4. Equipment: pallet trucks, electric forklifts, belt/roller/screw conveyors, vacuum/pneumatic conveying of powders, IBC bin systems, AGVs and AS/RS.\n5. Transport: temperature-controlled vehicles and validated shippers (Good Distribution Practice)."
+    },
+    {
+      "id": "u4-s05",
+      "unit": 4,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on industrial and personal relationships in a pharmaceutical company.",
+      "answer": "1. Industrial relations: relations between management, employees/unions and government on working conditions.\n2. Personnel management: recruitment, selection, induction, training, appraisal, compensation, welfare, safety, discipline.\n3. Good relations through communication, fair wages, safe conditions, grievance procedure, participative management (works committees, quality circles, suggestion schemes), collective bargaining, recognition, career growth.\n4. Poor relations → absenteeism, turnover, strikes, lock-outs and GMP errors.\n5. Legal framework: Factories Act 1948; Industrial Disputes Act 1947 and Trade Unions Act 1926, being consolidated into the Labour Codes (Industrial Relations Code 2020 etc.)."
+    },
+    {
+      "id": "u4-v01",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "State the formula for economic order quantity.",
+      "answer": "EOQ = √(2DS/H), where D = annual demand, S = ordering cost per order and H = holding cost per unit per year."
+    },
+    {
+      "id": "u4-v02",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is ABC analysis?",
+      "answer": "Selective inventory control based on annual consumption value: A items (about 10–20% of items, 70–80% of value) get strict control, C items (about 50–70% of items, 5–10% of value) simple control, B items in between."
+    },
+    {
+      "id": "u5-l01",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Discuss the physics of tablet compression. Explain the stages of compaction and the deformation behaviour of pharmaceutical materials.",
+      "answer": "1. Definitions: compression = volume reduction; consolidation = increase in strength by bonding; compaction = both.\n2. Stages: die filling and particle rearrangement → deformation at contacts → bond formation → decompression with elastic recovery → ejection.\n3. Elastic deformation: reversible (Hooke's law); stored energy released on decompression breaks bonds → capping/lamination; e.g. paracetamol.\n4. Plastic deformation: permanent flow above yield stress; large contact area, strong tablets; time-dependent (strain-rate sensitive), lubricant sensitive; e.g. MCC, NaCl, starch.\n5. Brittle fracture: fragmentation creates clean surfaces; insensitive to speed and lubricant; e.g. dicalcium phosphate dihydrate, sucrose, lactose (partly).\n6. Viscoelastic behaviour: dwell time matters.\n7. Dwell time = punch flat/punch speed; example PCD 410 mm, 10 mm flat: 15.5 ms at 30 rpm, 7.8 ms at 60 rpm.\n8. SRS = (Py high speed − Py low speed)/Py high × 100; e.g. 90 and 120 MPa → 25%.\n9. Remedies for capping: pre-compression, slower speed, plastic binders, moisture, larger flats, tapered dies.\n10. Characterised by Heckel (Py), force–displacement work, elastic recovery."
+    },
+    {
+      "id": "u5-l02",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Explain the effect of friction and the distribution of forces during tablet compression. How are they measured on an instrumented press?",
+      "answer": "1. Interparticulate friction: resists rearrangement; reduced by glidants (colloidal silica, talc).\n2. Die-wall friction: absorbs applied force, uneven density, high ejection force, sticking/capping; reduced by lubricants — boundary (magnesium stearate, sodium stearyl fumarate) and fluid (stearic acid, hydrogenated oils, PEG).\n3. Over-lubrication: hydrophobic film → weaker bonding (plastic materials), slower dissolution.\n4. Force balance (single-ended): FA = FL + FD.\n5. Force transmission ratio R = FL/FU; example 10.0 kN upper, 8.5 kN lower → R = 0.85, FD = 1.5 kN, mean force 9.25 kN.\n6. Radial transmission: K = σradial/σaxial; residual radial pressure governs ejection.\n7. Exponential loss: FL = FA e^(−4µKH/D); µ = 0.3, K = 0.4, H/D = 0.4 → FL/FA = 0.83; loss increases with friction and H/D.\n8. Density distribution: high-density zones near upper punch edges, low at lower centre in single-ended compression; more symmetric in double-ended (rotary).\n9. Measurement: strain gauges (Wheatstone bridge) on punches, eye-bolt, rollers; piezoelectric transducers; instrumented die for radial force; LVDT for displacement; ejection force; compaction simulators.\n10. Uses: optimise lubricant, predict capping, scale-up."
+    },
+    {
+      "id": "u5-l03",
+      "unit": 5,
+      "type": "long",
+      "marks": 10,
+      "probability": "medium",
+      "question": "What are compaction profiles? Describe force–time, force–displacement and radial–axial profiles and their applications.",
+      "answer": "1. Compaction profiles: graphs of force, displacement, die-wall force or density during compression, obtained from instrumented presses or compaction simulators.\n2. Force–time: consolidation time, dwell plateau (rotary), contact time, peak force; upper vs lower trace gives friction; stress relaxation of plastic materials during dwell.\n3. Force–displacement: area under loading curve = gross work; under unloading = elastic work (E3); net work (E2) = gross − elastic (minus friction E1); plasticity factor = E2/(E2 + E3) × 100; e.g. 4.2 J and 0.6 J → 87.5%.\n4. Radial vs axial force: hysteresis loop; residual radial force predicts ejection difficulty; slope relates to Poisson ratio.\n5. Density–pressure: Heckel ln[1/(1 − D)] vs P (Py) and Kawakita P/C vs P.\n6. Ejection profile; elastic recovery ER = (t_after − t_min)/t_min × 100 (3.70 → 3.92 mm gives 5.9%).\n7. Applications: classify materials (plastic vs brittle), select DC vs granulation, choose force/speed, predict capping, lubricant optimisation, scale-up by matching dwell time, in-process weight control."
+    },
+    {
+      "id": "u5-s01",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Describe the mechanisms of bond formation (consolidation) in tablets.",
+      "answer": "1. Bonds form when surfaces approach within range of intermolecular forces over a sufficient area.\n2. Solid bridges: fusion bonding (asperity melting from frictional heat, then solidification) and dissolution–recrystallisation of soluble components in moisture (post-compression hardening).\n3. Intermolecular forces: van der Waals and hydrogen bonds; cold welding of clean surfaces in close contact; dominant in MCC and lactose tablets.\n4. Mechanical interlocking of irregular/fibrous particles.\n5. Liquid bridges/capillary forces (moist granules), electrostatic forces (minor).\n6. Factors: deformation mechanism, particle size, moisture, binder, lubricant, force and speed, crystal form."
+    },
+    {
+      "id": "u5-s02",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Calculate the tensile strength and porosity of a 400 mg flat tablet, 10 mm diameter and 4 mm thick, that breaks at 80 N. True density = 1.50 g/cm³.",
+      "answer": "1. Tensile strength σ = 2F/(πDt) = 2 × 80/(π × 10 × 4) = 160/125.66 = 1.27 MPa (N/mm²).\n2. Volume = π r² t = π × 5² × 4 = 314.2 mm³ = 0.3142 cm³.\n3. Apparent density = 0.400 g/0.3142 cm³ = 1.273 g/cm³.\n4. Relative density D = 1.273/1.50 = 0.849.\n5. Porosity ε = 1 − D = 0.151 = 15.1%.\n6. Tensile strength normalises for size, so tablets of different dimensions can be compared; D also gives a point on a Heckel plot."
+    },
+    {
+      "id": "u5-s03",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Differentiate plastic and brittle materials in tablet compaction.",
+      "answer": "1. Plastic: permanent flow at contacts; brittle: fracture into smaller particles.\n2. Examples: plastic — MCC, NaCl, starch; brittle — dicalcium phosphate, sucrose, lactose (partly).\n3. Heckel: plastic low Py, type A plots; brittle high Py, type B (converging) plots.\n4. Speed: plastic strain-rate sensitive (weaker at high speed); brittle insensitive (low SRS).\n5. Lubricant: plastic sensitive (film stays on surface); brittle insensitive (new clean surfaces).\n6. Particle size: little effect for brittle materials on strength; larger effect for plastic.\n7. Formulation: blends of plastic and brittle fillers balance strength and robustness."
+    },
+    {
+      "id": "u5-s04",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain the role of solubility in compression, compaction and tablet performance.",
+      "answer": "1. Soluble components form solid bridges by dissolution–recrystallisation → hardness increases on storage.\n2. Soluble fillers (lactose, mannitol) dissolve/erode; insoluble fillers (DCP, MCC) need disintegrants; soluble filler gives hydrophilic micro-environment for poorly soluble drugs.\n3. Pressure and heat can change polymorph, create amorphous regions or dehydrate hydrates → changed solubility.\n4. Higher force lowers porosity and slows water uptake and dissolution (non-linear because granules may fracture).\n5. Drug solubility in granulating fluid → migration during drying and content non-uniformity.\n6. For BCS II drugs dissolution is a CQA linked to compression CPPs in QbD."
+    },
+    {
+      "id": "u5-s05",
+      "unit": 5,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Write a note on instrumented tablet presses and compaction simulators.",
+      "answer": "1. Instrumented press: force transducers (strain gauges in Wheatstone bridge on punches, eye-bolt, rollers; piezoelectric), displacement (LVDT, encoders, corrected for punch deformation), instrumented die (radial force), ejection force.\n2. Data: force–time, force–displacement, R value, work of compaction, Heckel analysis.\n3. Uses: development, troubleshooting (capping, sticking), lubricant optimisation, in-process weight control by force.\n4. Compaction simulator: single-station machine reproducing punch movement of any production press at real speed using small quantities.\n5. Applications: early API/excipient characterisation, scale-up and press-to-press transfer by matching dwell time."
+    },
+    {
+      "id": "u5-v01",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Define compression, consolidation and compaction.",
+      "answer": "Compression is reduction in bulk volume of a powder under stress; consolidation is the increase in mechanical strength due to particle–particle bonding; compaction is the combined process of compression and consolidation forming a coherent compact."
+    },
+    {
+      "id": "u5-v02",
+      "unit": 5,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "medium",
+      "question": "What is the force transmission ratio?",
+      "answer": "R = FL/FU, the ratio of force reaching the lower punch to the force applied by the upper punch; R close to 1 means low die-wall friction (good lubrication)."
+    },
+    {
+      "id": "u6-l01",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Derive the Heckel equation and explain how Heckel plots are used to characterise pharmaceutical powders. Work out Py from the data: P (MPa) 50, 100, 150, 200, 250; relative density 0.713, 0.817, 0.884, 0.926, 0.953.",
+      "answer": "1. Assumption: densification is first order with respect to remaining pores: dD/dP = K(1 − D).\n2. Integrate: ln[1/(1 − D)] = KP + A.\n3. Py = 1/K (mean yield pressure); DA = 1 − e^(−A); D0 = loose packing; DB = DA − D0 (rearrangement/fragmentation).\n4. Data: ln[1/(1 − D)] = 1.248, 1.698, 2.154, 2.604, 3.058.\n5. Regression: K = 0.00905 MPa⁻¹, A = 0.795, r = 0.99999 → Py = 110 MPa; DA = 0.548; with D0 = 0.40, DB = 0.148.\n6. Interpretation: low Py = plastic; high Py = brittle/hard.\n7. Hersey–Rees types: A parallel lines for size fractions (plastic after rearrangement, NaCl); B curves converging at high pressure (fragmentation, lactose, DCP); C linear from start, no rearrangement.\n8. In-die vs out-of-die plots differ.\n9. Limitations: curvature at low and high pressures, sensitivity to true density, speed (use for SRS), die size and lubrication.\n10. Applications: excipient selection, DC suitability, strain-rate sensitivity, scale-up."
+    },
+    {
+      "id": "u6-l02",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Define similarity factor f2 and difference factor f1. State the conditions for their use and calculate them for: time 10, 15, 20, 30, 45 min; reference 30, 48, 62, 80, 92%; test 25, 40, 57, 76, 90%.",
+      "answer": "1. f1 = {Σ|Rt − Tt|/ΣRt} × 100; 0 when identical; 0–15 similar.\n2. f2 = 50 log{[1 + (1/n)Σ(Rt − Tt)²]^(−0.5) × 100}; 100 when identical; 50–100 similar (10% average difference ≈ 50).\n3. Conditions: ≥ 12 units each; same conditions and times; ≥ 3 time points excluding zero; only one point after 85% for both; CV ≤ 20% at early points, ≤ 10% later; not needed if both ≥ 85% in 15 min.\n4. Differences R − T: 5, 8, 5, 4, 2; Σ = 24; ΣR = 312.\n5. f1 = 24/312 × 100 = 7.7.\n6. Squares: 25, 64, 25, 16, 4; Σ = 134; mean = 26.8.\n7. f2 = 50 log[100/√27.8] = 50 log(18.97) = 63.9.\n8. Conclusion: f1 < 15 and f2 > 50 → profiles similar; only the 45-min point exceeds 85%.\n9. Uses: generic vs reference, post-approval (SUPAC) changes, scale-up, biowaiver for lower strengths, stability comparison.\n10. Limitations: model-independent, insensitive to shape, depends on number of points; bootstrap or multivariate methods when variability is high."
+    },
+    {
+      "id": "u6-l03",
+      "unit": 6,
+      "type": "long",
+      "marks": 10,
+      "probability": "high",
+      "question": "Describe the release kinetic models used to analyse dissolution data. Fit the data — 18, 26, 37, 45 and 52% released at 1, 2, 4, 6 and 8 h — and state the mechanism.",
+      "answer": "1. Zero order Qt = Q0 + k0t (osmotic, reservoir).\n2. First order log(100 − Q) = log 100 − kt/2.303.\n3. Higuchi Q = kH√t (diffusion from insoluble matrix).\n4. Hixson–Crowell W0^(1/3) − Wt^(1/3) = κt (changing surface area).\n5. Korsmeyer–Peppas Mt/M∞ = ktⁿ (first 60% only); cylinder n = 0.45 Fickian, 0.45–0.89 anomalous, 0.89 case II; slab 0.5/1.0; sphere 0.43/0.85.\n6. Weibull, Baker–Lonsdale (spheres).\n7. Fit: zero order r² = 0.980; first order r² = 0.995 (k = 0.075 h⁻¹); Higuchi r² = 0.9998 (kH = 18.5 %/h^½); Peppas r² = 0.9997, n = 0.51.\n8. Conclusion: diffusion-controlled (Higuchi); n 0.51 for a cylinder = anomalous, mainly diffusion with slight polymer relaxation.\n9. Model-independent: DE, MDT, t50/t90; compare models by adjusted r² and AIC.\n10. Noyes–Whitney basis: dC/dt = DA(Cs − C)/Vh."
+    },
+    {
+      "id": "u6-s01",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain the pharmacokinetic parameters used in bioavailability studies. Calculate AUC and half-life for the data: t 0, 0.5, 1, 2, 3, 4, 6, 8, 12 h; C 0, 4.2, 6.8, 8.1, 7.4, 6.3, 4.6, 3.3, 1.7 µg/ml.",
+      "answer": "1. Cmax and Tmax (rate of absorption): 8.1 µg/ml at 2 h.\n2. AUC0–12 by trapezoidal rule = 54.65 µg·h/ml (extent).\n3. ke from terminal ln C (6, 8, 12 h): slope −0.166 → ke = 0.166 h⁻¹; t½ = 0.693/0.166 = 4.2 h.\n4. AUC0–∞ = 54.65 + 1.7/0.166 = 64.9 µg·h/ml (extrapolated 15.8%, below about 20%).\n5. MRT = AUMC0–∞/AUC0–∞ = 442.3/64.9 = 6.8 h.\n6. Other: CL = F·dose/AUC, Vd = CL/ke, absolute F and relative F; test AUC 61.0 → Frel = 94%.\n7. BE: 90% CI of geometric mean ratio of AUC and Cmax within 80.00–125.00%."
+    },
+    {
+      "id": "u6-s02",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "high",
+      "question": "Explain Student's t-test with a pharmaceutical example.",
+      "answer": "1. Compares means: one-sample, unpaired two-sample, paired.\n2. H0: no difference; α = 0.05.\n3. Unpaired t = (x̄1 − x̄2)/[sp√(1/n1 + 1/n2)], sp² = [(n1 − 1)s1² + (n2 − 1)s2²]/(n1 + n2 − 2), df = n1 + n2 − 2.\n4. Example hardness: low lubricant 6.2, 6.5, 6.0, 6.4, 6.3, 6.6 (mean 6.333); high lubricant 5.6, 5.9, 5.5, 5.8, 6.0, 5.7 (mean 5.750); variances 0.0467 and 0.0350; sp = 0.202.\n5. t = 0.583/(0.202 × 0.577) = 5.00; df 10; critical t (two-tailed, 0.05) = 2.228.\n6. t > critical → reject H0: lubricant level significantly lowers hardness.\n7. Assumptions: normality, equal variances (else Welch test), independence."
+    },
+    {
+      "id": "u6-s03",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Explain one-way ANOVA. Analyse: % dissolved with three binders (n = 4): 78, 80, 76, 82; 85, 88, 86, 89; 80, 79, 83, 82.",
+      "answer": "1. ANOVA compares ≥ 3 means; splits total variation into between-group and within-group; F = MSbetween/MSwithin.\n2. Means 79, 87, 81; grand mean 82.33.\n3. SSbetween = 4[(79 − 82.33)² + (87 − 82.33)² + (81 − 82.33)²] = 138.67; df 2; MS 69.33.\n4. SSwithin = 20 + 10 + 10 = 40; df 9; MS 4.44.\n5. F = 69.33/4.44 = 15.6 > F(2,9) 0.05 = 4.26.\n6. Conclusion: binder type significantly affects dissolution; post-hoc Tukey/Bonferroni identifies which differ.\n7. Two-way ANOVA for factorial designs and crossover BE studies."
+    },
+    {
+      "id": "u6-s04",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "medium",
+      "question": "Describe Fick's laws of diffusion and the lag-time method for determining diffusion coefficient.",
+      "answer": "1. First law (steady state): J = −D dC/dx; across membrane J = DKΔC/h = PΔC; P = DK/h.\n2. Second law (non-steady state): ∂C/∂t = D ∂²C/∂x².\n3. Lag-time: cumulative amount per area vs time becomes linear; extrapolate to time axis → tL = h²/6D → D = h²/6tL; slope = Jss.\n4. Example: h = 100 µm (0.01 cm), tL = 2 h (7,200 s) → D = 10⁻⁴/43,200 = 2.3 × 10⁻⁹ cm²/s.\n5. Jss 12 µg/cm²/h, donor 1,000 µg/ml → P = 0.012 cm/h.\n6. Stokes–Einstein D = kT/(6πηr); apparatus Franz cell, side-by-side cell, Caco-2 (Papp)."
+    },
+    {
+      "id": "u6-s05",
+      "unit": 6,
+      "type": "short",
+      "marks": 5,
+      "probability": "low",
+      "question": "Explain the chi-square test with an example.",
+      "answer": "1. For count (frequency) data: goodness of fit and independence.\n2. χ² = Σ(O − E)²/E; E = row total × column total/grand total; df = (r − 1)(c − 1).\n3. Example: defective/acceptable tablets — machine 1: 12/188; machine 2: 24/176 (200 each). Expected defective 18, acceptable 182 for each.\n4. χ² = 36/18 + 36/182 + 36/18 + 36/182 = 2 + 0.198 + 2 + 0.198 = 4.40.\n5. df 1, critical 3.841 → significant: defect rate depends on machine.\n6. Small expected counts (< 5): Yates' correction or Fisher's exact test."
+    },
+    {
+      "id": "u6-v01",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "Write the Higuchi equation.",
+      "answer": "Q = kH√t (simplified form), where Q is the amount (or %) released per unit area at time t and kH is the Higuchi constant; a linear plot of Q against √t indicates diffusion-controlled release from a matrix."
+    },
+    {
+      "id": "u6-v02",
+      "unit": 6,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "high",
+      "question": "What range of f2 indicates similarity of dissolution profiles?",
+      "answer": "f2 between 50 and 100 indicates similar profiles (100 = identical); f1 between 0 and 15 also indicates similarity."
+    },
+    {
+      "id": "u4-v03",
+      "unit": 4,
+      "type": "very-short",
+      "marks": 2,
+      "probability": "low",
+      "question": "Expand TPM and 5S.",
+      "answer": "TPM is total productive maintenance (operators share routine equipment care to reach zero breakdowns). 5S is sort, set in order, shine, standardise and sustain."
+    }
+  ]
+}

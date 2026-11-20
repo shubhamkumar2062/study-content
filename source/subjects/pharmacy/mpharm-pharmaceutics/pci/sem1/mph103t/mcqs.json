@@ -1,0 +1,844 @@
+{
+  "mcqs": [
+    {
+      "id": "u1-m01",
+      "unit": 1,
+      "question": "For a drug degrading by first-order kinetics, the shelf life (t90) equals:",
+      "options": [
+        "0.105/k",
+        "0.693/k",
+        "0.1C0/k",
+        "1/(kC0)"
+      ],
+      "correct": 0,
+      "explanation": "t90 = ln(100/90)/k = 0.105/k; 0.693/k is the half-life.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m02",
+      "unit": 1,
+      "question": "ICH accelerated stability testing for the general case is carried out at:",
+      "options": [
+        "25 °C ± 2 °C / 60% RH ± 5% RH",
+        "40 °C ± 2 °C / 75% RH ± 5% RH",
+        "30 °C ± 2 °C / 65% RH ± 5% RH",
+        "50 °C ± 2 °C / 75% RH ± 5% RH"
+      ],
+      "correct": 1,
+      "explanation": "ICH Q1A(R2) accelerated condition is 40/75 for 6 months.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m03",
+      "unit": 1,
+      "question": "In the Arrhenius plot of ln k against 1/T, the slope equals:",
+      "options": [
+        "Ea/R",
+        "−Ea/2.303R",
+        "−Ea/R",
+        "ln A"
+      ],
+      "correct": 2,
+      "explanation": "ln k = ln A − Ea/RT, so the slope is −Ea/R (−Ea/2.303R for log k).",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m04",
+      "unit": 1,
+      "question": "The Maillard reaction commonly occurs between lactose and drugs containing:",
+      "options": [
+        "Carboxylic acid groups",
+        "Ester groups",
+        "Phenolic groups",
+        "Primary or secondary amine groups"
+      ],
+      "correct": 3,
+      "explanation": "The reducing sugar carbonyl reacts with amines to give brown glycosylamine/Amadori products.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m05",
+      "unit": 1,
+      "question": "According to DLVO theory, loose flocs that redisperse easily form when particles are held in the:",
+      "options": [
+        "Secondary minimum",
+        "Primary minimum",
+        "Primary maximum",
+        "Electrical double layer at zero distance"
+      ],
+      "correct": 0,
+      "explanation": "The shallow secondary minimum gives reversible flocs; the primary minimum gives caking.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m06",
+      "unit": 1,
+      "question": "Sedimentation volume F of a suspension is defined as:",
+      "options": [
+        "Original volume ÷ sediment volume",
+        "Ultimate sediment volume ÷ original suspension volume",
+        "Sediment height ÷ particle diameter",
+        "F of flocculated ÷ F of deflocculated system"
+      ],
+      "correct": 1,
+      "explanation": "F = Vu/V0; the ratio of F to F∞ is the degree of flocculation β.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m07",
+      "unit": 1,
+      "question": "Surfactants used in SMEDDS usually have an HLB value of:",
+      "options": [
+        "Between 3 and 6",
+        "Between 7 and 9",
+        "More than about 12",
+        "Less than 3"
+      ],
+      "correct": 2,
+      "explanation": "High-HLB non-ionic surfactants give spontaneous o/w micro-emulsification.",
+      "probability": "high"
+    },
+    {
+      "id": "u1-m08",
+      "unit": 1,
+      "question": "Which of the following should NOT contain an antimicrobial preservative?",
+      "options": [
+        "A multi-dose vial for intramuscular use",
+        "A multi-dose eye drop",
+        "A multi-dose oral syrup",
+        "A large-volume parenteral infusion"
+      ],
+      "correct": 3,
+      "explanation": "LVPs (and intrathecal, intra-ocular injections) are single-dose and preservative-free.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m09",
+      "unit": 1,
+      "question": "The approximate osmolarity of 0.9% w/v sodium chloride solution is:",
+      "options": [
+        "308 mOsm/L",
+        "154 mOsm/L",
+        "278 mOsm/L",
+        "600 mOsm/L"
+      ],
+      "correct": 0,
+      "explanation": "9 g/L ÷ 58.44 g/mol × 2 particles × 1000 ≈ 308 mOsm/L.",
+      "probability": "medium"
+    },
+    {
+      "id": "u1-m10",
+      "unit": 1,
+      "question": "Photostability testing as per ICH Q1B requires an overall illumination of not less than:",
+      "options": [
+        "0.5 million lux hours",
+        "1.2 million lux hours",
+        "200 lux hours",
+        "12 million lux hours"
+      ],
+      "correct": 1,
+      "explanation": "ICH Q1B: 1.2 million lux hours and 200 W·h/m² of near-UV energy.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m01",
+      "unit": 2,
+      "question": "The number of runs in a full factorial design with 3 factors at 2 levels is:",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "27"
+      ],
+      "correct": 2,
+      "explanation": "2^k = 2³ = 8; 27 runs is a 3³ design.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m02",
+      "unit": 2,
+      "question": "For a rotatable central composite design with two factors, the axial distance α is:",
+      "options": [
+        "1.000",
+        "1.682",
+        "2.000",
+        "1.414"
+      ],
+      "correct": 3,
+      "explanation": "α = (2^k)^¼ = 4^¼ = 1.414; 1.682 is for three factors.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m03",
+      "unit": 2,
+      "question": "A Box–Behnken design for three factors with three centre points requires:",
+      "options": [
+        "15 runs",
+        "8 runs",
+        "13 runs",
+        "27 runs"
+      ],
+      "correct": 0,
+      "explanation": "12 edge-midpoint runs plus 3 centre points = 15.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m04",
+      "unit": 2,
+      "question": "In a 2³ factorial design the main effect of a factor is calculated as:",
+      "options": [
+        "(Σ+ − Σ−)/8",
+        "(Σ responses at + level − Σ responses at − level)/4",
+        "(Σ+ + Σ−)/4",
+        "(Σ+ − Σ−)/2"
+      ],
+      "correct": 1,
+      "explanation": "Divide by 2^(k−1) = 4; the regression coefficient is half the effect.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m05",
+      "unit": 2,
+      "question": "Which design is most suitable when the factors are proportions of a formulation that must add up to 100%?",
+      "options": [
+        "Plackett–Burman design",
+        "Full factorial design",
+        "Simplex lattice (mixture) design",
+        "Box–Behnken design"
+      ],
+      "correct": 2,
+      "explanation": "Mixture designs handle dependent proportions; the Scheffé model has no intercept.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m06",
+      "unit": 2,
+      "question": "Plackett–Burman designs are mainly used for:",
+      "options": [
+        "Fitting quadratic response surfaces",
+        "Mixture optimization",
+        "Estimating all two-factor interactions",
+        "Screening many factors to find the important ones"
+      ],
+      "correct": 3,
+      "explanation": "They estimate main effects only, with N runs for up to N − 1 factors.",
+      "probability": "high"
+    },
+    {
+      "id": "u2-m07",
+      "unit": 2,
+      "question": "Curved contour lines in a two-factor contour plot indicate:",
+      "options": [
+        "Interaction or quadratic effects between factors",
+        "No effect of either factor",
+        "Pure linear additive effects",
+        "Experimental error only"
+      ],
+      "correct": 0,
+      "explanation": "Straight parallel contours mean a linear model with no interaction.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m08",
+      "unit": 2,
+      "question": "Evolutionary operation (EVOP) is best suited to:",
+      "options": [
+        "Early screening of excipients",
+        "Gradual improvement of a running production process",
+        "Mixture optimization of SMEDDS",
+        "Analytical method validation"
+      ],
+      "correct": 1,
+      "explanation": "EVOP makes small deliberate changes during routine production.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m09",
+      "unit": 2,
+      "question": "In a resolution III fractional factorial design:",
+      "options": [
+        "Main effects and two-factor interactions are all clear",
+        "Two-factor interactions are aliased only with each other",
+        "Main effects are aliased with two-factor interactions",
+        "No aliasing occurs"
+      ],
+      "correct": 2,
+      "explanation": "Resolution IV keeps main effects clear; resolution V keeps two-factor interactions clear.",
+      "probability": "medium"
+    },
+    {
+      "id": "u2-m10",
+      "unit": 2,
+      "question": "The desirability function combines several responses using:",
+      "options": [
+        "The arithmetic sum of raw responses",
+        "The largest response only",
+        "The ratio of the first two responses",
+        "The geometric mean of individual desirabilities (0–1)"
+      ],
+      "correct": 3,
+      "explanation": "D = (d1·d2·…·dn)^(1/n); D = 0 if any response is unacceptable.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m01",
+      "unit": 3,
+      "question": "Documented verification that equipment is installed according to the approved design and manufacturer's recommendations is:",
+      "options": [
+        "Installation qualification",
+        "Design qualification",
+        "Operational qualification",
+        "Performance qualification"
+      ],
+      "correct": 0,
+      "explanation": "IQ checks installation; OQ checks operation across ranges; PQ checks routine performance.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m02",
+      "unit": 3,
+      "question": "In the V-model of qualification, the User Requirement Specification is verified by:",
+      "options": [
+        "Installation qualification",
+        "Performance qualification",
+        "Design qualification",
+        "Factory acceptance test"
+      ],
+      "correct": 1,
+      "explanation": "URS ↔ PQ; functional specification ↔ OQ; design specification ↔ IQ.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m03",
+      "unit": 3,
+      "question": "Validation carried out using historical data of batches already manufactured is called:",
+      "options": [
+        "Prospective validation",
+        "Concurrent validation",
+        "Retrospective validation",
+        "Revalidation"
+      ],
+      "correct": 2,
+      "explanation": "Retrospective validation uses past batch records and is not acceptable for new products.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m04",
+      "unit": 3,
+      "question": "Stage 3 of the US FDA (2011) process validation lifecycle is:",
+      "options": [
+        "Process design",
+        "Process performance qualification",
+        "Installation qualification",
+        "Continued process verification"
+      ],
+      "correct": 3,
+      "explanation": "Stages: process design → process qualification → continued process verification.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m05",
+      "unit": 3,
+      "question": "Cpk for a process with specification 95–105%, mean 100.6% and SD 1.2% is about:",
+      "options": [
+        "1.22",
+        "1.39",
+        "1.56",
+        "0.83"
+      ],
+      "correct": 0,
+      "explanation": "Cpk = (105 − 100.6)/(3 × 1.2) = 1.22; Cp = 1.39.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m06",
+      "unit": 3,
+      "question": "Microbial challenge organism used for validating sterilising-grade filters is:",
+      "options": [
+        "Geobacillus stearothermophilus",
+        "Brevundimonas diminuta",
+        "Bacillus atrophaeus",
+        "Escherichia coli"
+      ],
+      "correct": 1,
+      "explanation": "B. diminuta is small enough to challenge 0.2/0.22 µm filters; G. stearothermophilus is for moist heat.",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m07",
+      "unit": 3,
+      "question": "According to ICH Q2(R2), the quantitation limit is commonly estimated as:",
+      "options": [
+        "3.3σ/S",
+        "σ/S",
+        "10σ/S",
+        "6σ/S"
+      ],
+      "correct": 2,
+      "explanation": "LOQ = 10σ/S and LOD = 3.3σ/S (σ = SD of response, S = slope).",
+      "probability": "medium"
+    },
+    {
+      "id": "u3-m08",
+      "unit": 3,
+      "question": "Which document gives the overall philosophy, intentions and approach to validation at a site?",
+      "options": [
+        "Batch manufacturing record",
+        "Standard test procedure",
+        "Certificate of analysis",
+        "Validation master plan"
+      ],
+      "correct": 3,
+      "explanation": "The VMP is the high-level summary document of all validation activities.",
+      "probability": "high"
+    },
+    {
+      "id": "u3-m09",
+      "unit": 3,
+      "question": "Swab sampling in cleaning validation is preferred for:",
+      "options": [
+        "Direct product-contact surfaces of defined area",
+        "Inaccessible pipework only",
+        "Purified water loops",
+        "Air in the clean room"
+      ],
+      "correct": 0,
+      "explanation": "Rinse sampling is used for large or inaccessible surfaces.",
+      "probability": "low"
+    },
+    {
+      "id": "u3-m10",
+      "unit": 3,
+      "question": "The revised Schedule M (India) was notified in:",
+      "options": [
+        "March 2005",
+        "December 2023",
+        "January 2018",
+        "July 2010"
+      ],
+      "correct": 1,
+      "explanation": "The revised Schedule M aligned Indian GMP with WHO GMP.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m01",
+      "unit": 4,
+      "question": "The economic order quantity is given by:",
+      "options": [
+        "2DS/H",
+        "√(DS/2H)",
+        "√(2DS/H)",
+        "D/(S × H)"
+      ],
+      "correct": 2,
+      "explanation": "At EOQ annual ordering cost equals annual holding cost.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m02",
+      "unit": 4,
+      "question": "With annual demand 12,000 kg, ordering cost ₹2,000 per order and holding cost ₹25 per kg per year, EOQ is about:",
+      "options": [
+        "960 kg",
+        "1,920 kg",
+        "2,400 kg",
+        "1,386 kg"
+      ],
+      "correct": 3,
+      "explanation": "√(2 × 12,000 × 2,000/25) = √1,920,000 ≈ 1,386 kg.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m03",
+      "unit": 4,
+      "question": "In ABC analysis, 'A' items are those that:",
+      "options": [
+        "Form a small share of items but most of the consumption value",
+        "Form most items but little value",
+        "Are vital for production regardless of value",
+        "Move fast in the store"
+      ],
+      "correct": 0,
+      "explanation": "A ≈ 10–20% of items and 70–80% of value; VED and FSN use other bases.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m04",
+      "unit": 4,
+      "question": "The PDCA cycle of continuous improvement was popularised by:",
+      "options": [
+        "Philip Crosby",
+        "W. Edwards Deming",
+        "Joseph Juran",
+        "Kaoru Ishikawa"
+      ],
+      "correct": 1,
+      "explanation": "Deming promoted Plan–Do–Check–Act; Crosby — zero defects; Juran — quality trilogy; Ishikawa — fishbone.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m05",
+      "unit": 4,
+      "question": "Six Sigma quality corresponds to about:",
+      "options": [
+        "34 defects per million",
+        "6 defects per hundred",
+        "3.4 defects per million opportunities",
+        "3.4 defects per thousand"
+      ],
+      "correct": 2,
+      "explanation": "Six Sigma performance allows 3.4 DPMO (with the usual 1.5σ shift).",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m06",
+      "unit": 4,
+      "question": "The break-even point is calculated as:",
+      "options": [
+        "Variable cost ÷ fixed cost",
+        "Fixed cost × selling price",
+        "(Fixed + variable cost) ÷ selling price",
+        "Fixed cost ÷ (selling price − variable cost per unit)"
+      ],
+      "correct": 3,
+      "explanation": "Price − variable cost is the contribution per unit.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m07",
+      "unit": 4,
+      "question": "Assigning work to machines and operators within their capacity in PPC is called:",
+      "options": [
+        "Loading",
+        "Routing",
+        "Dispatching",
+        "Expediting"
+      ],
+      "correct": 0,
+      "explanation": "Routing = sequence; scheduling = timing; dispatching = issuing orders; follow-up = expediting.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m08",
+      "unit": 4,
+      "question": "Which facility must be dedicated and self-contained under GMP?",
+      "options": [
+        "Manufacture of vitamin tablets",
+        "Manufacture of penicillins",
+        "Packing of antacid suspensions",
+        "Warehouse for packing materials"
+      ],
+      "correct": 1,
+      "explanation": "Highly sensitising products like penicillins need dedicated facilities and separate air handling.",
+      "probability": "high"
+    },
+    {
+      "id": "u4-m09",
+      "unit": 4,
+      "question": "Issuing material so that the stock with the earliest expiry date is used first is called:",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "FEFO",
+        "JIT"
+      ],
+      "correct": 2,
+      "explanation": "First expired, first out; FIFO is by date of receipt.",
+      "probability": "medium"
+    },
+    {
+      "id": "u4-m10",
+      "unit": 4,
+      "question": "The Delphi method is a technique of:",
+      "options": [
+        "Inventory valuation",
+        "Preventive maintenance",
+        "Cost accounting",
+        "Qualitative sales forecasting by anonymous expert rounds"
+      ],
+      "correct": 3,
+      "explanation": "Experts answer questionnaires in rounds until opinions converge.",
+      "probability": "low"
+    },
+    {
+      "id": "u5-m01",
+      "unit": 5,
+      "question": "The increase in mechanical strength of a powder mass due to particle–particle bonding is called:",
+      "options": [
+        "Consolidation",
+        "Compression",
+        "Compressibility",
+        "Elastic recovery"
+      ],
+      "correct": 0,
+      "explanation": "Compression is volume reduction; compaction combines compression and consolidation.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m02",
+      "unit": 5,
+      "question": "Tensile strength of a flat-faced cylindrical tablet by diametral compression is:",
+      "options": [
+        "σ = F/(πDt)",
+        "σ = 2F/(πDt)",
+        "σ = 4F/(πD²)",
+        "σ = 2F/(Dt)"
+      ],
+      "correct": 1,
+      "explanation": "Fell and Newton equation; F = breaking force, D = diameter, t = thickness.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m03",
+      "unit": 5,
+      "question": "Which material deforms mainly by brittle fracture during compression?",
+      "options": [
+        "Microcrystalline cellulose",
+        "Sodium chloride",
+        "Dicalcium phosphate dihydrate",
+        "Pregelatinised starch"
+      ],
+      "correct": 2,
+      "explanation": "MCC, NaCl and starch deform plastically; DCP fragments.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m04",
+      "unit": 5,
+      "question": "Tablets of plastically deforming materials made at high turret speed are often weaker because:",
+      "options": [
+        "Die-wall friction disappears",
+        "Fragmentation increases",
+        "Moisture content rises",
+        "Dwell time is shorter, allowing less plastic flow"
+      ],
+      "correct": 3,
+      "explanation": "Plastic deformation is time dependent (strain-rate sensitive).",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m05",
+      "unit": 5,
+      "question": "Force transmission ratio R in a tablet press is:",
+      "options": [
+        "Lower punch force ÷ upper punch force",
+        "Upper punch force ÷ lower punch force",
+        "Ejection force ÷ upper punch force",
+        "Radial force ÷ axial force"
+      ],
+      "correct": 0,
+      "explanation": "R close to 1 indicates low die-wall friction.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m06",
+      "unit": 5,
+      "question": "Capping and lamination are most associated with:",
+      "options": [
+        "Excessive plastic deformation",
+        "High elastic recovery on decompression",
+        "Very low compression force with brittle materials",
+        "Use of glidants"
+      ],
+      "correct": 1,
+      "explanation": "Stored elastic energy breaks bonds on decompression and ejection.",
+      "probability": "high"
+    },
+    {
+      "id": "u5-m07",
+      "unit": 5,
+      "question": "Over-mixing with magnesium stearate is most likely to weaken tablets of:",
+      "options": [
+        "Dicalcium phosphate dihydrate",
+        "Sucrose",
+        "Microcrystalline cellulose",
+        "Lactose monohydrate (coarse)"
+      ],
+      "correct": 2,
+      "explanation": "Brittle materials create new lubricant-free surfaces; plastic MCC does not.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m08",
+      "unit": 5,
+      "question": "In single-ended compression, the axial force lost to the die wall equals:",
+      "options": [
+        "Upper + lower punch force",
+        "Lower punch force ÷ 2",
+        "Ejection force only",
+        "Upper punch force − lower punch force"
+      ],
+      "correct": 3,
+      "explanation": "FA = FL + FD, so FD = FA − FL.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m09",
+      "unit": 5,
+      "question": "Displacement of punches on an instrumented press is commonly measured by a:",
+      "options": [
+        "Linear variable differential transformer (LVDT)",
+        "Strain gauge rosette",
+        "Thermocouple",
+        "Piezoelectric force washer"
+      ],
+      "correct": 0,
+      "explanation": "LVDTs or encoders measure displacement; strain gauges/piezo measure force.",
+      "probability": "medium"
+    },
+    {
+      "id": "u5-m10",
+      "unit": 5,
+      "question": "The plasticity factor of Stamm and Mathis is calculated from:",
+      "options": [
+        "Upper and lower punch forces",
+        "Net work and elastic work of compaction",
+        "Tablet diameter and thickness",
+        "Bulk and tapped density"
+      ],
+      "correct": 1,
+      "explanation": "PF = E2/(E2 + E3) × 100 from the force–displacement curve.",
+      "probability": "low"
+    },
+    {
+      "id": "u6-m01",
+      "unit": 6,
+      "question": "In the Heckel equation, mean yield pressure Py is equal to:",
+      "options": [
+        "The intercept A",
+        "K × A",
+        "1/K (reciprocal of the slope)",
+        "1 − e^(−A)"
+      ],
+      "correct": 2,
+      "explanation": "ln[1/(1 − D)] = KP + A; Py = 1/K; DA = 1 − e^(−A).",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m02",
+      "unit": 6,
+      "question": "Heckel plots of different particle-size fractions that converge into one line at high pressure indicate:",
+      "options": [
+        "Plastic deformation after rearrangement (type A)",
+        "No rearrangement (type C)",
+        "Pure elastic behaviour",
+        "Fragmentation (type B behaviour)"
+      ],
+      "correct": 3,
+      "explanation": "Fragmenting materials reach a common particle size, so plots converge.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m03",
+      "unit": 6,
+      "question": "Two dissolution profiles are considered similar when f2 is:",
+      "options": [
+        "Between 50 and 100",
+        "Between 0 and 15",
+        "Less than 50",
+        "Exactly 100 only"
+      ],
+      "correct": 0,
+      "explanation": "f2 = 100 means identical; f1 of 0–15 also indicates similarity.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m04",
+      "unit": 6,
+      "question": "For a cylindrical matrix tablet, a Korsmeyer–Peppas release exponent n = 0.45 indicates:",
+      "options": [
+        "Case II transport",
+        "Fickian diffusion",
+        "Anomalous transport",
+        "Super case II transport"
+      ],
+      "correct": 1,
+      "explanation": "For cylinders: 0.45 Fickian, 0.45–0.89 anomalous, 0.89 case II.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m05",
+      "unit": 6,
+      "question": "The Higuchi model is linear when plotting cumulative drug released against:",
+      "options": [
+        "Time",
+        "Log time",
+        "Square root of time",
+        "Cube root of time"
+      ],
+      "correct": 2,
+      "explanation": "Q = kH√t for diffusion from insoluble matrices.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m06",
+      "unit": 6,
+      "question": "In the lag-time method, the diffusion coefficient is calculated as:",
+      "options": [
+        "D = 6tL/h²",
+        "D = h/(6tL)",
+        "D = tL/h",
+        "D = h²/(6tL)"
+      ],
+      "correct": 3,
+      "explanation": "tL = h²/6D, where h is membrane thickness.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m07",
+      "unit": 6,
+      "question": "Two products are bioequivalent when the 90% confidence interval of the test/reference ratio of AUC and Cmax lies within:",
+      "options": [
+        "80.00–125.00%",
+        "90.00–110.00%",
+        "75.00–133.00%",
+        "95.00–105.00%"
+      ],
+      "correct": 0,
+      "explanation": "Standard BE acceptance range for log-transformed geometric mean ratios.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m08",
+      "unit": 6,
+      "question": "Which test is used to compare frequency (count) data such as numbers of defective tablets?",
+      "options": [
+        "Student's t-test",
+        "Chi-square test",
+        "One-way ANOVA",
+        "Linear regression"
+      ],
+      "correct": 1,
+      "explanation": "χ² = Σ(O − E)²/E for counts in categories.",
+      "probability": "high"
+    },
+    {
+      "id": "u6-m09",
+      "unit": 6,
+      "question": "One-way ANOVA is preferred to repeated t-tests for comparing three means because it:",
+      "options": [
+        "Needs no data",
+        "Ignores variance",
+        "Controls the overall type I error",
+        "Always shows a difference"
+      ],
+      "correct": 2,
+      "explanation": "Multiple t-tests inflate the chance of a false positive.",
+      "probability": "medium"
+    },
+    {
+      "id": "u6-m10",
+      "unit": 6,
+      "question": "In the Kawakita equation P/C = P/a + 1/(ab), the constant a represents:",
+      "options": [
+        "Yield pressure",
+        "Tablet tensile strength",
+        "Elastic recovery",
+        "Initial porosity (maximum volume reduction)"
+      ],
+      "correct": 3,
+      "explanation": "a is the limiting volume reduction; 1/b is the pressure to reach half of it.",
+      "probability": "medium"
+    }
+  ]
+}
